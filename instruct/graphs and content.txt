@@ -1,0 +1,7 @@
+The the repository is cool, just wanted to add the pipeline of how we extracted the the data from their website. So the pipeline would look as follows.
+
+We started with the python+seleniumbase to get 
+1. list of articles from both google search engine and official WikiHow search engines give the different keyword for the sub-continuums we had. 
+place the list of continuums and the subcontinums with the query use to collect the articles.
+
+Then we have 

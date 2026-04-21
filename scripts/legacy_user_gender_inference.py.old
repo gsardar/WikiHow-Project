@@ -1,0 +1,69 @@
+import pandas as pd
+import re
+import os
+
+def infer_gender(row):
+    username = str(row['username']).lower()
+    bio = str(row['bio']).lower()
+    expertise = str(row['expertise']).lower()
+    
+    # Combined text for scanning
+    full_text = f"{username} {bio} {expertise}"
+    
+    # 1. Name-based Inference (High Confidence)
+    male_names = ['thomas', 'seymour', 'james', 'robert', 'john', 'michael', 'david']
+    female_names = ['anna', 'mary', 'jennifer', 'linda', 'elizabeth', 'susan', 'jessica']
+    
+    for name in male_names:
+        if name in username: return 'Male', 'High (Name Lookup)'
+    for name in female_names:
+        if name in username: return 'Female', 'High (Name Lookup)'
+
+    # 2. Direct Pronoun Declarations
+    if "pronouns: he" in full_text or "he/him" in full_text: return 'Male', 'High (Direct)'
+    if "pronouns: she" in full_text or "she/her" in full_text: return 'Female', 'High (Direct)'
+    if "pronouns: they" in full_text or "they/them" in full_text: return 'Non-binary', 'High (Direct)'
+
+    # 3. Community Reference Scan (Barnstars & Tags)
+    # We scan the FULL text now but prioritize pronouns found in 'expertise' (where Barnstars live)
+    female_markers = len(re.findall(r'\b(she|her|hers|woman|girl|lady)\b', full_text))
+    male_markers = len(re.findall(r'\b(he|him|his|man|boy|guy)\b', full_text))
+    
+    # Look for specific bio phrases
+    if "he is a" in full_text or "he's a" in full_text or "as a man" in full_text: male_markers += 5
+    if "she is a" in full_text or "she's a" in full_text or "as a woman" in full_text: female_markers += 5
+
+    if female_markers > male_markers + 1:
+        return 'Female', f'Medium (Markers: F={female_markers}, M={male_markers})'
+    elif male_markers > female_markers + 1:
+        return 'Male', f'Medium (Markers: M={male_markers}, F={female_markers})'
+
+    return 'Unknown/Neutral', 'Low'
+    
+    # 4. Persona Hints
+    if "vampire bat" in text or "the lover" in text:
+        # These archetypes in WikiPersona sometimes use gendered templates
+        # (Very low confidence, but good for a guess)
+        pass
+
+    return 'Unknown/Neutral', 'Low'
+
+def run_inference():
+    csv_path = r"c:\Users\Admin\Documents\WikiHow Project\data\DataVersions\v1\accounts\accounts_metadata.csv"
+    if not os.path.exists(csv_path):
+        print("Error: metadata file not found.")
+        return
+
+    df = pd.read_csv(csv_path)
+    print(f"Running Gender Inference on {len(df)} users...")
+    
+    results = df.apply(infer_gender, axis=1)
+    df['gender_inference'] = [r[0] for r in results]
+    df['inference_confidence'] = [r[1] for r in results]
+    
+    # Save back
+    df.to_csv(csv_path, index=False)
+    print(f"Successfully updated {csv_path} with gender inferences.")
+
+if __name__ == "__main__":
+    run_inference()

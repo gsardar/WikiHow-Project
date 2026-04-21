@@ -1,0 +1,128 @@
+A. New Chat
+
+1. send bttn
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div[2]/div when no file is uploaded.
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div[2]/div/div[1] when we have text in it.
+    when empty
+    <div class="_52c986b bd74640a ds-icon-button ds-icon-button--l ds-icon-button--sizing-container ds-icon-button--disabled" role="button" aria-disabled="true"><div class="ds-icon-button__hover-bg">
+    when not empty and we just have text in it
+    <div class="_52c986b ds-icon-button ds-icon-button--l ds-icon-button--sizing-container" role="button" aria-disabled="false" tabindex="0"><div class="ds-icon-button__hover-bg">
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[3]/div[2]/div
+
+    when there is file uploaded
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div[2]/div
+    where there is text and any n of file uploaded
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[3]/div[2]/div
+
+    UPLOAD_BTTN
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div[1]
+
+
+    DEEPTHINK_BTTN
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[1]
+
+    FILE_UPLOAD_STATUS
+    with 1 file
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[1]/div[2]/div/div[1]/div[2]/div[2] parsing
+    with 2 files
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[2] 1st file
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[1]/div[2]/div[2]/div[1]/div[2]/div[2] 2nd file
+    ...
+
+
+    TEXT_BOX
+    text_box with no files uploaded
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div/div[1]/textarea
+    text-box with 1 file uploaded
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[1]/textarea
+    text_box with 2 file uploaded
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[1]/textarea
+
+2. AFTER NEW CHAT IS SENT
+
+    THE RESPONSE OF CHAT 0
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[1] old
+                /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[2]/div[1] new
+
+    HOW TO KNOW IT ENDED?
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]/div[5]
+                /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[2]/div[3]/div[1]/div[5]
+                /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[2]/div[3]/div[1]/div[5]
+    CHAT 1 TEXT BOX
+        WITH NO FILE UPLOADED
+        ID: None
+        Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[4]/div[1]/div/div/div[2]/div/div/div[1]/textarea
+        WITH A FILE UPLOADED
+        ID: None
+        Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[4]/div[1]/div/div/div[2]/div/div/div[2]/div[1]/div/textarea
+        
+    SEND_BTTN
+        WITH NO FILE UPLOADED AND NO TEXT
+        ID: None
+        Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[4]/div[1]/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div
+        WITH TEXT AND UPLOADED FILE
+        ID: None
+        Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div[4]/div[1]/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div
+
+        RESPOND OF CHAT 1
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[4]/div[1]
+
+        ENDED?
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[4]/div[3]/div[1]/div[5] IS PRESENT
+
+    RETRY BTTN
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[1]/div/div[4]/div[3]/div[1]/div[2]
+
+3. CHAT 2
+
+    TEXT_BOX 
+        WITH NO FILES UPLOADED 
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]/div/div/div[1]/textarea
+
+        WITH FILES UPLOADED
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]/div/div[2]/div[1]/textarea
+
+    SEND BTTN
+        SEND BTTN WITH FILES UPLOADED
+        /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div
+
+    RETRY BTTN
+        /html/body/div/div/div/div[2]/main/div/div/div[2]/div[4]/div/div[2]/div/div/div[2]/div[5]
+
+    UPLOADE DEL
+    /html/body/div[1]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]/div/div[1]/div[2]/div/div[1]/div[3]
+
+4. FUTURE & AUXILIARY ELEMENTS
+
+    MODEL_SELECTOR (INSTANT / EXPERT)
+    ID: None
+    Full XPath (Instant): /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[1]
+    Full XPath (Expert):  /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]
+
+    NEW_CHAT_BTTN (SIDEBAR)
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[2]/div/div[2]/div[1]
+
+    HISTORY_CONTAINER
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[2]/div/div[3]/div
+
+    USER_PROFILE
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[2]/div/div[5]
+
+    LOG_OUT_BTTN
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[2]/div/div[5]/div/div/div[4]/div
+
+    DEEPTHINK_TOGGLE
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[1]
+
+    SEARCH_TOGGLE
+    ID: None
+    Full XPath: /html/body/div[1]/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/div[3]/div[2]/div[2]
+    
+

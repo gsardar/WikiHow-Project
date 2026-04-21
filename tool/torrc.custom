@@ -1,0 +1,38 @@
+# Modern Tor Browser Integration torrc
+DataDirectory C:\Users\Admin\Documents\WikiHow Project\tool\tor_data\tordata0
+GeoIPFile C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Data\Tor\geoip
+GeoIPv6File C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Data\Tor\geoip6
+
+# Logging
+Log notice file C:\Users\Admin\Documents\WikiHow Project\tool\tor_data\tordata0\tor.log
+
+# Connection Ports
+SocksPort 0.0.0.0:9050
+ControlPort 15000
+DNSPort 53
+
+# Bridge Configuration
+UseBridges 1
+ClientTransportPlugin obfs2,obfs3,obfs4 exec C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Tor\PluggableTransports\lyrebird.exe
+
+# Performance / Stealth
+AvoidDiskWrites 1
+SafeLogging 0
+GeoIPExcludeUnknown 1
+
+# Injected High-Stealth Bridges
+Bridge obfs4 37.136.112.170:80 150C5C8E67F9B73642849BD9CB747EF3F29D5FF5 cert=CuG2aB23jHA6EXIE5xX/49Rjh3kiY2wlIEy+Lck6l0p4ooefk5urUBefXCtXSNPoLgr1Kw iat-mode=1
+Bridge obfs4 38.48.45.179:443 7A4720836D33B514F51EF3AF740E2EF5C868C354 cert=ZUrRQ5tq3ofSk86m+SFSwOp641B7DnMCFTUwo/InB5tAxz+Dh3V666xDaeZS2XX1V5EFGw iat-mode=2
+Bridge obfs4 38.186.106.55:443 A179CA6D23B2846DD287EF77D03A8698D5347409 cert=tpQGupPEp5Srscium13u174pzLrAuOLEKSOIUEsbwSvNiWHw8MuaBaRJwzV5W1yIaU9ZQA iat-mode=2
+Bridge obfs4 38.229.1.78:80 C8CBDB2464FC9804A69531437BCF2BE31FDD2EE4 cert=Hmyfd2ev46gGY7NoVxA9ngrPF2zCZtzskRTzoWXbxNkzeVnGFPWmrTtILRyqCTjHR+s9dg iat-mode=1
+Bridge obfs4 38.229.33.83:80 0BAC39417268B96B9F514E7F63FA6FBA1A788955 cert=VwEFpk9F/UN9JED7XpG1XOjm/O8ZCXK80oPecgWnNDZDv5pdkhq1OpbAH0wNqOT6H6BmRQ iat-mode=1
+Bridge obfs4 45.95.232.5:443 3CE205F7D7DE61E6E1787024EEDC03DCCFCA3C6A cert=1vxTSEr+6QCPpop3y0uEpY/V1ad4fB8ANayCPmh8DcPn4pt5kYNFctUjCA5A+GPmST1LNA iat-mode=2
+Bridge obfs4 45.142.211.85:80 F15833FAEBA743D6810BFAFE3794844FAFBF2227 cert=CjeIN+w8qW9AKthzRYu0Yf70/Hex3e7XrLmuAPep415n7wIEU+WbDig4rhOfr4cYekBhCQ iat-mode=2
+Bridge obfs4 46.132.190.7:80 403F520B106CA8D1B45BA67BE57EDD28FFCB8608 cert=Xji0vbFkB3bFDdUX9XFSb8PNd0P+DNSgRezNxx2rZ0mgbh4b5evXkMBZtAFc1roNzokLTA iat-mode=1
+Bridge obfs4 46.132.190.7:443 91F8D3F4F3BFA41304FB849FB705B2918E4C7714 cert=Gb9C4HJ+IthA6pIXMiaDkTopIR3BFh3lncA7jLd598yzk529+bGPlFyN5YEBRYJv2aF7fw iat-mode=1
+Bridge obfs4 49.156.17.160:443 241D37FB8297DCF7E9411FF8E6B44C294A20DE6B cert=R3gdf7HUiVGlj5mRmHCEMaFMnRwUwqf2KjgNV/W8HweVSahHe/1wXxglGth+up86X2GYSA iat-mode=2
+Bridge obfs4 51.195.117.252:443 427FF2AD5691D95B7A0D6590B49D178F7DB19983 cert=eSeF9KyQotLbGuiSL731h5UyLy/i8o6kfVn3rMxwpP4f4EXwr/o0JkII5kQTbIPzCJEYBw iat-mode=1
+Bridge obfs4 65.109.110.249:443 4D9FB69B353C2CF5953613AB686FE2BFCA6347B7 cert=WnrujVskgOznPDwAXOBqHEQMBk8iDMAMuuqKCOLegV/7cNjq2S72IVtWXo1S3P8WBLAuXg iat-mode=2
+Bridge obfs4 68.183.10.204:443 403F520B106CA8D1B45BA67BE57EDD28FFCB8608 cert=6Zvk8Vzq9JQcn2oQXnECRvE09aOLAEIcwecvGWybd9CbS1FKEBmE246iu3wVNRgpAvmdcw iat-mode=2
+Bridge obfs4 89.58.18.98:443 FAEA2B9E6211667272D7B4AB19C3AE1E50497FB8 cert=ixkEXdfq2F2obYy10brnNtucPk/uoY7+nLtSuFsKhYcTcXVqkLCiapRisAU/pfLibR8RNA iat-mode=1
+Bridge obfs4 89.147.108.95:443 4655C6A50194893F5CE83994D382E2B52AF6E1FD cert=PEq2efij43MWJf6BNmNEgPHGoVjoWCLSjMTT/K/QtIhd9Ju0u9jbpJGf9dD54KwNj+PQLA iat-mode=2

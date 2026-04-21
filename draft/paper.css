@@ -1,0 +1,113 @@
+/* paper.css — LaTeX Aesthetic for Web Papers */
+
+@import url('https://fonts.cdnfonts.com/css/computer-modern');
+
+:root {
+    --latex-bg: #ffffff;
+    --latex-text: #1a1a1a;
+    --beamer-blue: #3333b2;
+}
+
+body {
+    background: #f4f4f7;
+    font-family: 'Computer Modern Serif', serif;
+    color: var(--latex-text);
+    margin: 0;
+    padding: 0;
+}
+
+.paper-container {
+    background: var(--latex-bg);
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 60px 80px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    counter-reset: section;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.author { font-size: 1.2rem; font-weight: bold; }
+.affiliation { font-size: 1rem; color: #555; font-style: italic; }
+.date { margin-top: 15px; font-size: 1rem; color: #444; }
+
+.abstract {
+    margin: 40px 0;
+    padding: 20px 40px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    font-style: italic;
+    text-align: justify;
+}
+
+.abstract h2 {
+    text-align: center;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+h2 {
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+    margin-top: 60px;
+}
+
+h2::before {
+    counter-increment: section;
+    content: counter(section) ". ";
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* Tabula Vertical Flow — Full Width Breathing Room */
+.tabula-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 100px; /* Massive spacing to avoid crowding */
+    margin: 60px 0;
+}
+
+.tabula-card {
+    width: 100%;
+    page-break-inside: avoid;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.tabula-card h4 {
+    font-family: 'Computer Modern Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1.5px;
+    color: var(--beamer-blue);
+    margin-bottom: 30px;
+    border-left: 4px solid var(--beamer-blue);
+    padding-left: 15px;
+}
+
+.caption {
+    font-size: 0.85rem;
+    color: #666;
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+@media print {
+    body { background: white; padding: 0; }
+    .paper-container { margin: 0; width: 100%; max-width: 100%; box-shadow: none; border: none; }
+}

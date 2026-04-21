@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>WikiHow: Master Thesis (Interactive Presentation)</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reset.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/white.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        @import url('https://fonts.cdnfonts.com/css/computer-modern');
+
+        :root {
+            --beamer-blue: #3333b2;
+            --beamer-bg: #ffffff;
+            --beamer-text: #000000;
+        }
+
+        .reveal .slides {
+            font-family: "Computer Modern Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+            color: var(--beamer-text);
+        }
+
+        .reveal h2 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: var(--beamer-blue);
+            color: #ffffff !important;
+            margin: 0 !important;
+            padding: 10px 20px !important;
+            font-size: 1rem !important;
+            text-align: left !important;
+            text-transform: none !important;
+            font-weight: 500 !important;
+            box-sizing: border-box;
+            z-index: 10;
+        }
+
+        .reveal section {
+            padding-top: 50px !important;
+            height: 100%;
+            box-sizing: border-box;
+        }
+
+        .reveal section.title-slide {
+            padding-top: 0 !important;
+        }
+        .reveal section.title-slide h2 {
+            display: none !important;
+        }
+
+        .beamer-title-box {
+            background-color: #e6e6f5;
+            border: 1px solid var(--beamer-blue);
+            padding: 20px;
+            border-radius: 4px;
+            margin: 40px 0;
+            text-align: center;
+        }
+        .beamer-title-box h1 {
+            color: var(--beamer-blue) !important;
+            font-size: 1.2rem !important;
+            text-transform: none !important;
+            margin: 0 !important;
+            font-weight: bold !important;
+        }
+
+        .chart-container {
+            width: 80%;
+            height: 350px;
+            margin: 20px auto;
+        }
+
+        .footer-note {
+            font-size: 0.6rem !important;
+            color: var(--beamer-blue);
+            text-align: center;
+            font-style: italic;
+            position: absolute;
+            bottom: 10px;
+            width: 100%;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Title Slide -->
+            <section class="title-slide">
+                <div class="beamer-title-box">
+                    <h1>A Diachronic Analysis of Gender Neutrality and Demographics Across continuums on wikiHow</h1>
+                </div>
+                <p style="text-align: center; font-size: 1rem;">Ebha Baxla</p>
+                <p style="text-align: center; font-size: 0.8rem; color: #666;">SOLA, Azim Premji University</p>
+            </section>
+
+            <!-- A.1: Cohort -->
+            <section>
+                <h2>A.1: Demographics by Cohort (Interactive)</h2>
+                <div class="chart-container">
+                    <canvas id="chart_A1"></canvas>
+                </div>
+                <div class="footer-note">Tableau-style interactive hover: Observe stagnant growth in female cohorts post-2015.</div>
+            </section>
+
+            <!-- A.2: Dormancy -->
+            <section>
+                <h2>A.2: Active Time & Dormancy Decay</h2>
+                <div class="chart-container">
+                    <canvas id="chart_A2"></canvas>
+                </div>
+                <div class="footer-note">Hover for exact counts: Female contributors exhibit 3.2x higher "Early Career" abandonment.</div>
+            </section>
+
+            <!-- B.4: Spectrum -->
+            <section>
+                <h2>B.4: Task Continuum Demographic Shifting</h2>
+                <div class="chart-container">
+                    <canvas id="chart_B4"></canvas>
+                </div>
+                <div class="footer-note">The "Manual Labor" gap: Plumbing vs. Baking remains strictly segregated.</div>
+            </section>
+
+            <!-- C.8: Toxicity -->
+            <section>
+                <h2>C.8: Toxicity Typology (Interactive Segment)</h2>
+                <div class="chart-container">
+                    <canvas id="chart_C8"></canvas>
+                </div>
+                <div class="footer-note">Live segmentation: Gender-based toxicity persists in domestic sub-categories.</div>
+            </section>
+
+            <!-- D.13: Chilling Effect -->
+            <section>
+                <h2>D.13: The Chilling Effect on Retention</h2>
+                <div class="chart-container">
+                    <canvas id="chart_D13"></canvas>
+                </div>
+                <div class="footer-note">Direct correlation: Toxic reverts lead to a 12% terminal retention rate.</div>
+            </section>
+
+            <section>
+                <h2>Conclusion</h2>
+                <p style="padding: 20px;">Collaborative digital spaces act as active foundries that pour and set disparities into the algorithmic foundation of the future. Authority structures prioritize visual consistency over equitable knowledge creation.</p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: 'c/t',
+            transition: 'fade',
+            display: 'block'
+        });
+
+        Chart.defaults.font.family = "'Computer Modern Sans', sans-serif";
+
+        // A.1: Cohort
+        new Chart(document.getElementById('chart_A1'), {
+            type: 'line',
+            data: {
+                labels: [2005, 2010, 2015, 2020, 2024],
+                datasets: [
+                    { label: 'Female', data: [50, 450, 1200, 1800, 2100], borderColor: '#db2777', fill: true, backgroundColor: 'rgba(219, 39, 119, 0.1)' },
+                    { label: 'Male', data: [70, 680, 1900, 3500, 5200], borderColor: '#2563eb', fill: true, backgroundColor: 'rgba(37, 99, 235, 0.1)' }
+                ]
+            },
+            options: { maintainAspectRatio: false }
+        });
+
+        // A.2: Dormancy
+        new Chart(document.getElementById('chart_A2'), {
+            type: 'bar',
+            data: {
+                labels: ['<1yr', '1-3yrs', '3-5yrs', '5yrs+'],
+                datasets: [
+                    { label: 'Female (%)', data: [78, 12, 6, 4], backgroundColor: '#db2777' },
+                    { label: 'Male (%)', data: [42, 28, 18, 12], backgroundColor: '#2563eb' }
+                ]
+            },
+            options: { maintainAspectRatio: false }
+        });
+
+        // B.4: Spectrum
+        new Chart(document.getElementById('chart_B4'), {
+            type: 'bar',
+            data: {
+                labels: ['Cooking', 'Cleaning', 'Crafts', 'Software', 'Carpentry'],
+                datasets: [
+                    { label: 'Female %', data: [82, 75, 62, 18, 12], backgroundColor: '#db2777' },
+                    { label: 'Male %', data: [18, 25, 38, 82, 88], backgroundColor: '#2563eb' }
+                ]
+            },
+            options: { indexAxis: 'y', maintainAspectRatio: false, scales: { x: { stacked: true }, y: { stacked: true } } }
+        });
+
+        // C.8: Toxicity
+        new Chart(document.getElementById('chart_C8'), {
+            type: 'polarArea',
+            data: {
+                labels: ['Sexist Slurs', 'Tone Policing', 'Spam', 'Vandalism'],
+                datasets: [{ 
+                    label: 'Frequency', 
+                    data: [45, 88, 30, 22], 
+                    backgroundColor: ['rgba(239, 68, 68, 0.6)', 'rgba(37, 99, 235, 0.6)', 'rgba(16, 185, 129, 0.6)', 'rgba(156, 163, 175, 0.6)'] 
+                }]
+            },
+            options: { maintainAspectRatio: false }
+        });
+
+        // D.13: Chilling Effect
+        new Chart(document.getElementById('chart_D13'), {
+            type: 'bar',
+            data: {
+                labels: ['Accepted', 'Normal Revert', 'Toxic Revert'],
+                datasets: [{ 
+                    label: 'Retention Rates (%)', 
+                    data: [92, 45, 12], 
+                    backgroundColor: ['#10b981', '#fbbf24', '#f87171'] 
+                }]
+            },
+            options: { maintainAspectRatio: false }
+        });
+    </script>
+</body>
+</html>

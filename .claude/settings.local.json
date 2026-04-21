@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv PROJECT_OVERVIEW.md docs/)",
+      "Bash(mv mapped_spaces.json data/)",
+      "Bash(mv first_dates_tree.json first_dates_tree.md data/)",
+      "Bash(mv gender_spectrum_chart.png visualizations/)",
+      "Bash(mv continuums/spectrum_domestic.csv data/processed/)",
+      "Bash(mv continuums/spectrum_domestic.png visualizations/domestic/)",
+      "Bash(mv continuums/spectrum_occupational.csv data/processed/)",
+      "Bash(mv continuums/spectrum_occupational.png visualizations/occupational/)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

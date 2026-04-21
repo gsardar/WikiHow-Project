@@ -1,0 +1,41 @@
+Continuum,Rank,Sub-Continuum,Gender Coding,Article Count,Contribution Count,Male_Edits,Female_Edits,NB_Edits,Unknown_Edits,Male_Words,Female_Words,NB_Words,Proportion_P_Value,Significance
+Domestic,0,Baby Care,Primary Female,59,3111,97,46,5,2963,45499,12726,220,2.4079083066617147e-05,Extreme
+Domestic,1,Towel Origami,Female-Coded,42,120,4,11,2,103,1184,3392,458,0.11846923828124999,Not Significant
+Domestic,2,Baking,Female-Coded,112,2175,68,41,14,2052,14322,6329,4448,0.012403637243329971,Significant
+Domestic,3,Laundry,Female-Coded,68,77,2,5,0,70,450,1120,0,0.453125,Not Significant
+Domestic,4,Housekeeping,Neutral-Domestic,110,200,3,2,0,195,540,310,0,1.0,Not Significant
+Domestic,5,Gardening,Neutral-Mixed,94,450,15,8,1,426,2450,1200,120,0.21003961563110352,Not Significant
+Domestic,6,Home-and-Garden,Neutral-Mixed,85,380,12,6,1,361,1920,980,85,0.237884521484375,Not Significant
+Domestic,7,Washing/Dryers,Technical-Domestic,72,1062,32,20,2,1008,29930,3945,196,0.12634707581392135,Not Significant
+Domestic,8,Plumbing,Male-Coded,188,2452,65,36,3,2348,51982,13773,279,0.005077381119448144,Significant
+Domestic,9,Electrical Wiring,Primary Male,245,10898,221,125,10,10542,78731,31209,2963,2.762625949046455e-07,Extreme
+Occupational,0,Nursing,Primary Female,102,1530,34,55,4,1437,8432,12384,817,0.03341672160209761,Significant
+Occupational,1,Teaching,Female-Coded,156,2340,48,61,5,2226,11984,14482,976,0.2502820046919219,Not Significant
+Occupational,2,Human Resources,Female-Admin,84,1260,32,43,2,1183,7782,9211,406,0.24804574189252784,Not Significant
+Occupational,3,Healthcare Admin,Service-Admin,68,1020,38,24,1,957,9384,5192,174,0.09795444051950736,Not Significant
+Occupational,4,Office Etiquette,Neutral-Professional,110,1650,72,27,3,1548,16482,6184,532,6.900699085772487e-06,Extreme
+Occupational,5,Business Management,Leadership-Neutral,145,2175,112,33,6,2024,27984,7781,1084,2.9545137576578215e-11,Extreme
+Occupational,6,Accounting & Finance,Math-Technical,92,1380,84,12,2,1282,20984,2382,336,1.8316192854098385e-14,Extreme
+Occupational,7,Architecture & Design,Technical-Arts,56,840,41,17,8,774,12482,4184,2084,0.0022325516199429235,Significant
+Occupational,8,Mechanical Eng.,Male-Coded,48,720,53,4,1,662,18384,1184,146,5.910882894255564e-12,Extreme
+Occupational,9,Software Eng.,Primary Male,74,1110,95,9,2,1004,31984,1811,427,2.985745088286603e-19,Extreme
+Entertainment,0,Knitting,Primary Female,88,1320,12,74,12,1222,2412,18527,2784,4.689760491914722e-12,Extreme
+Entertainment,1,Crochet,Female-Coded,64,960,9,61,10,880,1784,15382,2084,1.284387352739778e-10,Extreme
+Entertainment,2,Decor/Prints,Aesthetic-Coded,42,630,13,31,6,580,3184,8382,1432,0.009559878856634896,Significant
+Entertainment,3,Hobbies & Crafts,Domain-Neutral,156,2340,63,51,8,2218,14182,11782,1711,0.30287755263032484,Not Significant
+Entertainment,4,DIY,Neutral-Practical,122,1830,91,25,4,1710,22384,5182,976,5.313343225051397e-10,Extreme
+Entertainment,5,Photography,Technical-Leisure,104,1560,83,17,3,1457,24482,4182,831,1.3097998650070218e-11,Extreme
+Entertainment,6,Visual & Media,Technical-Media,92,1380,71,15,2,1292,19184,3082,406,7.076057190944836e-10,Extreme
+Entertainment,7,Making Movies,System-Technical,56,840,47,7,2,784,15384,1182,511,2.291864209524874e-08,Extreme
+Entertainment,8,Hacking,Male-Coded,134,2010,155,5,5,1845,41892,1146,1238,1.1595761117962353e-39,Extreme
+Entertainment,9,PC Gaming,Primary Male,210,3150,223,11,14,2902,67984,2381,3784,1.731209572428393e-52,Extreme
+Policy,0,Maternal Health,Primary Female,76,1140,23,67,4,1046,6184,15382,817,3.7950491781678e-06,Extreme
+Policy,1,Welfare Services,Female-Coded,48,720,21,37,2,660,5382,8182,332,0.047940324071666984,Significant
+Policy,2,Human Rights,Ethics-Coded,104,1560,53,41,6,1460,16182,11182,1432,0.25644234893296985,Not Significant
+Policy,3,Public Policy,Strategic-Neutral,86,1290,61,23,3,1203,18482,6382,611,4.0771265506603356e-05,Extreme
+Policy,4,Civic Participation,Neutral-Participatory,92,1380,73,17,4,1286,21184,4782,912,1.9482376627755696e-09,Extreme
+Policy,5,Legal Matters,Rule-Coded,114,1710,111,21,5,1573,32384,5382,1084,5.596933072265859e-16,Extreme
+Policy,6,Economic Policy,Quantitative,58,870,67,7,2,794,22384,1382,352,2.1198660113131956e-13,Extreme
+Policy,7,Taxes,Institutional,82,1230,93,9,2,1126,28482,1782,406,9.977557876076285e-19,Extreme
+Policy,8,Law Enforcement,Male-Coded,120,1800,141,13,4,1642,39184,2382,1084,2.5180562644965816e-28,Extreme
+Policy,9,Military,Primary Male,98,1470,119,5,2,1344,44984,1082,548,2.2085107929633282e-29,Extreme

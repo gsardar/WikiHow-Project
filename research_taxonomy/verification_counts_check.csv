@@ -1,0 +1,25 @@
+Metric,Value,Category
+Total Extracted Members,2343,Account Demographics
+Demographic: Male Accounts,783,Account Demographics
+Demographic: Female Accounts,1104,Account Demographics
+Demographic: Non-Binary Accounts,216,Account Demographics
+Demographic: Unknown/Unclassified Accounts,240,Account Demographics
+Total Verified Male Edits,6678,Edit Demographics
+Total Verified Female Edits,4301,Edit Demographics
+Total Verified Non-Binary Edits,396,Edit Demographics
+Total Verified Unknown Edits,1496,Edit Demographics
+Contribution_Kind: Technical Expansion,4071,Genuine Edits
+Contribution_Kind: Structural Rewrite,3059,Genuine Edits
+Contribution_Kind: Tone Polish / Copyedit,1991,Genuine Edits
+Contribution_Kind: Gender Neutralization,404,Genuine Edits
+Contribution_Kind: Vandalism,1451,Non-Genuine & Gatekeeping
+Contribution_Kind: Maintenance Gatekeeping Target,1251,Non-Genuine & Gatekeeping
+Contribution_Kind: Spam Promotional,891,Non-Genuine & Gatekeeping
+Contribution_Kind: Non-Genuine Sarcasm,421,Non-Genuine & Gatekeeping
+Contribution_Kind: Gender Gatekeeping Target,341,Non-Genuine & Gatekeeping
+Verified Genuine Edits,9526,Total Aggregations
+Verified Non-Genuine / Gatekeeping Edits,4351,Total Aggregations
+Total Sampled Edits,16158,Total Aggregations
+Total Articles Scanned,3962,Article Averages
+Average Articles per Continuum,991,Article Averages
+Average Contributions per Article,4.08,Article Averages

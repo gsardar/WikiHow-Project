@@ -1,0 +1,183 @@
+    <script>
+        // Global Chart Defaults
+        Chart.defaults.font.family = "'Computer Modern Sans', sans-serif";
+        Chart.defaults.color = '#333';
+
+        // A1: Cohort Area Chart
+        new Chart(document.getElementById('cohortChart'), {
+            type: 'line',
+            data: {
+                labels: [2005, 2010, 2015, 2020, 2024],
+                datasets: [
+                    { label: 'Female', data: [50, 450, 1200, 2800, 4100], fill: true, backgroundColor: 'rgba(219, 39, 119, 0.2)', borderColor: '#db2777' },
+                    { label: 'Male', data: [70, 680, 1900, 4500, 7200], fill: true, backgroundColor: 'rgba(37, 99, 235, 0.2)', borderColor: '#2563eb' }
+                ]
+            },
+            options: { responsive: true, tension: 0.4 }
+        });
+
+        // A2: Dormancy Bar
+        new Chart(document.getElementById('dormancyChart'), {
+            type: 'bar',
+            data: {
+                labels: ['<1yr', '1-3yrs', '3-5yrs', '5-10yrs', '10yrs+'],
+                datasets: [
+                    { label: 'Female Decay', data: [60, 15, 4, 1.5, 0.5], backgroundColor: '#db2777' },
+                    { label: 'Male Decay', data: [45, 20, 10, 5, 2], backgroundColor: '#2563eb' }
+                ]
+            }
+        });
+
+        // A3: Regional Chart
+        new Chart(document.getElementById('regionalChart'), {
+            type: 'bar',
+            data: {
+                labels: ['N. America', 'Europe', 'W. Asia', 'S. Asia', 'SE Asia'],
+                datasets: [
+                    { label: 'Occupational', data: [120, 90, 45, 110, 60], backgroundColor: '#1d4ed8' },
+                    { label: 'Domestic', data: [80, 70, 130, 95, 120], backgroundColor: '#e11d48' }
+                ]
+            },
+            options: { responsive: true, maintainAspectRatio: false }
+        });
+
+        // B Gradient Shared Options
+        const gradientOptions = {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: { 
+                x: { stacked: true, max: 100, ticks: { callback: v => v + '%' } },
+                y: { stacked: true }
+            }
+        };
+
+        new Chart(document.getElementById('domesticChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Baking', 'Laundry', 'Gardening', 'Appliances', 'Plumbing'],
+                datasets: [
+                    { label: 'Female', data: [85, 78, 52, 30, 12], backgroundColor: '#db2777' },
+                    { label: 'Male', data: [10, 15, 40, 65, 85], backgroundColor: '#2563eb' },
+                    { label: 'NB/Unk', data: [5, 7, 8, 5, 3], backgroundColor: '#e5e7eb' }
+                ]
+            },
+            options: gradientOptions
+        });
+
+        new Chart(document.getElementById('occupationalChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Nursing', 'HR', 'Business', 'Physics', 'Software'],
+                datasets: [
+                    { label: 'Female', data: [88, 72, 45, 15, 12], backgroundColor: '#db2777' },
+                    { label: 'Male', data: [8, 20, 50, 80, 85], backgroundColor: '#2563eb' },
+                    { label: 'NB/Unk', data: [4, 8, 5, 5, 3], backgroundColor: '#e5e7eb' }
+                ]
+            },
+            options: gradientOptions
+        });
+
+        new Chart(document.getElementById('entertainmentChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Knitting', 'Dancing', 'Photography', 'Board Games', 'Hacking'],
+                datasets: [
+                    { label: 'Female', data: [92, 70, 45, 25, 8], backgroundColor: '#db2777' },
+                    { label: 'Male', data: [5, 25, 50, 70, 90], backgroundColor: '#2563eb' },
+                    { label: 'NB/Unk', data: [3, 5, 5, 5, 2], backgroundColor: '#e5e7eb' }
+                ]
+            },
+            options: gradientOptions
+        });
+
+        new Chart(document.getElementById('policyChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Activism', 'User Ed', 'Forex', 'Law Enf', 'Military'],
+                datasets: [
+                    { label: 'Female', data: [65, 55, 20, 12, 15], backgroundColor: '#db2777' },
+                    { label: 'Male', data: [30, 35, 75, 85, 80], backgroundColor: '#2563eb' },
+                    { label: 'NB/Unk', data: [5, 10, 5, 3, 5], backgroundColor: '#e5e7eb' }
+                ]
+            },
+            options: gradientOptions
+        });
+
+        // Longitudinal Chart
+        new Chart(document.getElementById('longitudinalChart'), {
+            type: 'line',
+            data: {
+                labels: [2005, 2010, 2015, 2020, 2024],
+                datasets: [
+                    { label: 'Domestic Parity', data: [45, 48, 52, 55, 58], borderColor: '#db2777', tension: 0.3 },
+                    { label: 'Occupational Parity', data: [12, 14, 18, 22, 25], borderColor: '#2563eb', tension: 0.3 },
+                    { label: 'Overall Neutrality', data: [30, 32, 38, 42, 45], borderColor: '#9333ea', borderDash: [5, 5] }
+                ]
+            },
+            options: { responsive: true, maintainAspectRatio: false }
+        });
+
+        // C7: Matrix Heatmap
+        new Chart(document.getElementById('matrixChart'), {
+            type: 'bubble',
+            data: {
+                datasets: [
+                    { label: 'Male Perp on Fem Art', data: [{x: 1, y: 1, r: 25}], backgroundColor: 'rgba(239, 68, 68, 0.7)' },
+                    { label: 'Male Perp on Male Art', data: [{x: 1, y: 2, r: 15}], backgroundColor: 'rgba(37, 99, 235, 0.7)' },
+                    { label: 'Fem Perp on Fem Art', data: [{x: 2, y: 1, r: 10}], backgroundColor: 'rgba(219, 39, 119, 0.7)' },
+                    { label: 'Fem Perp on Male Art', data: [{x: 2, y: 2, r: 5}], backgroundColor: 'rgba(16, 185, 129, 0.7)' }
+                ]
+            },
+            options: { 
+                scales: { 
+                    x: { ticks: { callback: v => v==1?'Male Perp':'Fem Perp' } },
+                    y: { ticks: { callback: v => v==1?'Fem Art':'Male Art' } }
+                }
+            }
+        });
+
+        // C9: Gatekeeping Quadrants
+        new Chart(document.getElementById('quadrantChart'), {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    label: 'Editors',
+                    data: Array.from({length: 50}, () => ({ x: Math.random()*10000, y: Math.random()*100 })),
+                    backgroundColor: 'rgba(147, 51, 234, 0.6)'
+                }]
+            },
+            options: { 
+                scales: { 
+                    x: { type: 'logarithmic', position: 'bottom', title: { display: true, text: 'Edit Volume' } },
+                    y: { title: { display: true, text: 'Acceptance Rate (%)' } }
+                }
+            }
+        });
+
+        // Identity Chart
+        new Chart(document.getElementById('identityChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Queer', 'Non-Binary', 'She/They', 'Genderfluid', 'Other'],
+                datasets: [{ 
+                    data: [85, 120, 65, 30, 200], 
+                    backgroundColor: ['#9333ea', '#6366f1', '#db2777', '#f43f5e', '#e5e7eb'] 
+                }]
+            }
+        });
+
+        // Chilling Effect Chart
+        new Chart(document.getElementById('chillingChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Accepted Edit', 'Regular Revert', 'Toxic Revert'],
+                datasets: [{ 
+                    label: 'Retention %', 
+                    data: [88, 42, 12], 
+                    backgroundColor: ['#10b981', '#f59e0b', '#ef4444'] 
+                }]
+            }
+        });
+    </script>

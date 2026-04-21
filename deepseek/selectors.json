@@ -1,0 +1,6 @@
+{
+    "SEL_TEXTAREA": "textarea#chat-input",
+    "SEL_SEND_BTN": "div[role='button']",
+    "SEL_RESPONSE": "div.ds-markdown--block",
+    "DISABLED_CLASS": "ds-icon-button--disabled"
+}

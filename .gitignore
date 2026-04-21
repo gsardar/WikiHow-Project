@@ -1,0 +1,64 @@
+# ==========================================
+# GITHUB PRUNING: CODEBASE ONLY
+# ==========================================
+
+# 1. Ignore EVERYTHING by default
+*
+
+# 2. Re-allow root config & sync files
+!.gitignore
+!.env
+!.env.local
+!github_sync.py
+!README.md
+!requirements.txt
+!setup.py
+!run_all.py
+!settings.ini
+
+# 3. Re-allow core code directories (and their contents)
+!deepseek/
+!deepseek/**
+!wikihow/
+!wikihow/**
+!scripts/
+!scripts/**
+
+# 4. Filter out non-essential sub-folders within the code
+scripts/legacy/
+scripts/scratch/
+scripts/tests/
+scripts/downloaded_files/
+**/__pycache__/
+**/*.pyc
+**/*.log
+
+# 5. Explicitly block specific non-code areas (safety check)
+data/
+browser_session/
+docs/
+draft/
+demo/
+instruct/
+notebooks/
+plots/
+research_taxonomy/
+tests/
+test_*.py
+scratch/
+tmp/
+tool/
+github/
+*.rar
+*.png
+*.webp
+*.txt
+*.pdf
+*.csv
+*.xlsx
+*.ipynb
+*.html
+*.old
+*.exe
+*.dll
+*.lock

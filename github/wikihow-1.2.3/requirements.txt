@@ -1,0 +1,11 @@
+requests>=2.28.0,<3.0
+Jinja2>=3.1.2,<4.0
+zimscraperlib>=2.0.0,<2.1
+cssbeautifier>=1.10.3,<2.0
+kiwixstorage>=0.8.1,<0.9
+pif>=0.8.2,<0.9
+tld>=0.12.6,<0.13
+# fork supporting delays
+https://github.com/rgaudin/pywikiapi/archive/master.zip#egg=pywikiapi
+pywikiapi==4.3.0
+backoff>=2.1.2,<2.2

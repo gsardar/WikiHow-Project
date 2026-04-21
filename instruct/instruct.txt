@@ -1,0 +1,196 @@
+You donot edit this file without permission.
+
+Next after we have a colab notebook for generating the corresponding graphs, I would like to include the concept of Gatekeeping among the contributors of wikiHow where a user who have higher priviledges than an anonymouse contributor or a user who has an account and have minimal priviledges. The reasons for that could vary from fight among sexes or gender over a topic, or the time they have spent.
+
+2. Here is how to determine Gender.
+
+We are prioritizing 1. pronoun 2. Name + Location 3. Username 4. AI Extracted from Full Screenshot
+
+1. Pronouns are the singlemost most deterministic factor for determining gender. You know the different types of pronouns and how to determine them. 
+
+2. Next is Name + Location. This may or maynot be present under the username. Even if present it would have a first name or a name with surname we have to play around with regex to make a perfect name extractor, seach github for a second and surname detector. If we have first and second name with continue to feed in to genderize.io to have a gender probability. 
+
+The names could use connectors and capital letters for example. JuliaMMarins, Joseph_S, etc, which are first and second names if our extractor is successful and genderize.io considers it we proceed to accept it.
+
+If the confidence is less we would like to use GenAI to determine with a full screenshot of the user profile. This would involve sending the image with a prompt to ignore the section of ignoring "Meet a Community Member" we will send it the the gender that is recognised from the profile photo using our python library, if the profile photo and what genAI comes up with matches we proceed. Next name extracted from here if present at the profile info itself which earlier couldnot be able to extracted using regex with the predicted gender will be sent to genderize.io again to confirm the gender. If both the GenAI and genderize.io agrees we proceed to accept it.
+
+3. Next we have the Username, we can use it if we have successfully extracted the first and the last name or intermidiate names, but still if the genderize.io has less confidence we will proceed to use genAI and last pass would include genderize.io.
+
+We will be setting a target of above 95% confidence for accepting the gender by genderize.io alone without GenAI. And if both GenAI and genderize.io agrees on particular gender we still look for 95% confidence but if the confidence else we will place it unknown and if confidence is low but GenAI is certain and the image confirms that it is a particular gender the we proceed marking it without confidence matrix.
+
+The input of the GenAI will be the Extracted name both Username and the Name + Location if present, we will send the genderize.io guess, if it is unknow, or else the gender with confidence we will also send the gender predicted by the image python library. Next we want the GenAI to send the status like female, male, non-binary, prefer not to say. We would also like to know how it predicted it, with a predefined way of how it predicted it. Export it in JSON witout a codeblock indendation. Also GenAI can overide gender by non-binary and the actual gender like pansexual/technically lesbian, etc. so here a person mentions two differenent think so what we can do is have the gender variable as non binary, pronouns, then lesbian, pansexual(in a single cell)
+
+
+First be clear about the terms you use for research.
+
+Introduction
+The study focuses on the analysis of changes that happened in wikiHow over the years starting from when the website first started, with the creator having some of the first ever articles and now there are over x count of members in the website with y experts and over z articles and everyday there are tons of articles been created as of now there is 258,125 articles. In this study I am focusing on analyzing the articles and the contributions made by the contributors to showcase various gender dynamics like stereotype, gender neutrality, and biasness of contributors. By contributors here we mean it can be the experts, admins, members having reputable permissions, veterans, normal users and even IPs the users who don’t have an account yet. 
+
+First we have to know what I mean by Continuum across the study here Continuum are different spaces where a gender are free in theory to engage in but still there are inequality that has shaped by the social structure and dynamics like gender roles in various countries, culture, race, ethnicity have prevented equal opportunities and rights to gender based on previous research and there are many take towards it. I am having the gender to have equal without a stance while by the end of the study we will try to look at several ways in which 
+
+Objectives
+The main objective here is to find any form of gender difference or stereotypes set
+
+
+Data Collection
+The repository is cool, just wanted to add the pipeline of how we extracted the data from their website. So the pipeline would look as follows.
+
+We started with the python+seleniumbase to get
+1. List of articles from both google search engine and official WikiHow search engines give the different keywords for the sub-continuums we had.
+place the list of continuums and the sub-continuums with the query used to collect the articles. For example we have “Baby Care” as a subcontinuum of Continuum “Domestic”.
+Then the queries for it are “Baby” “Baby Care” “Neonatal Care” “Gardenning” “Laundry” etc.
+
+So place them in the same for How to Bake Cookies on Your Car Dashboard: 11 Steps, How to Get Rid of Ghosts in Your House: Expert Advice from electrical and similarly we have for now 225 such articles removed from x total of 6267 articles. 
+
+
+
+Continuum 1
+Sub-Continuum 1.a
+Query 1 Query 2…(center aligned)
+Continuum 2
+And so on continue
+
+
+
+The Data Cleaning Process(One Slide on this)
+
+This involved removing the articles which are not relevant I can show you few examples like having topics like  “Giving Baby Names”, “List of baby” “The Best Way to Care for Baby Mice”,
+“How to Take Care of a Reborn Baby Doll”, "How to Run Away From Home (with Pictures) etc. because we are considering humans and not animals. 
+
+And other examples would be
+
+There could be questions like why did we remove naming, or animal care articles?
+The reason is that we are focusing human to human caregiving and sometimes animal care can mean different industrial level caregiving maybe for breeding purposes. Also we removed Reborn Baby, because that could be a hobbyist activity. 
+
+Similarly we remove for other such articles like 
+
+
+Now when we have the cleaned list of articles we can look into the contributions and the user accounts which have contributed to it. In wikipedia users can be an Admin, or someone who has badges with them, then there are normal users like and then there are users who don’t have accounts but can edit in wikiHow they are referred as IPs.
+
+
+
+Methodology
+The first step involves gathering articles which fit into the subcategories of the 4 categories.
+The methodology I am using here is both using natural language processing along with quantitative analysis. Though dealing with texts I am more focused towards analyzing the contribution of different genders along certain kinds of articles which can be gender coded I have named them continuums where on the left hand side we have mainly female coded articles to male coded articles and how I have come up to this say sub continuums is from a past studies like x, y,. So this is the first part. In the later part I am also trying to find out what are the different kinds of contributions that are made by users and are these genuine contributions or are there instances of vandalism, sexist comments or slurs being used particularly if they are more towards a particular gender. There are effects of GateKeeping mainly  and made to articles which in social reality could have gendered bias or role associated with them. So that classification of the types of contributions and the gender neutrality of the comments are done through maintaining figuring out the tags in the contribution itself or by the content of the contribution. We are using a static list of words by some of the previously published works.
+
+For the classification of Gender I am using 
+Mentioned 
+Pronoun List - Give the function snippet for the py file name and the line of code. Show through a diagram what goes in and what comes out. Embed the function snippet in the presentation itself.
+Regex - Same for this.
+
+Show demo through using it with real user accounts.
+
+Guessing
+Genderize.io - Support the use of Genderize.io using the previous studies done for wikipedia and Github
+For classification of permissions/badges
+Regex - There are fixed sets of badges defined within wikihow. 
+		Show the images of the badges with their names.
+For classification of Type of contribution, I am using
+Some Classifiers - via using the rules showcase the rules or tags that are given after reverting them or accepting them. But I cannot rely on the tags from the moderators, patrollers or admins. So I am extracting the “diff“ between the two articles. 
+		Screenshot of what diff looks like in wikiHow.
+		A JS code snippet which allows to use the code 
+GenAI - I am using Deepseek for classification, 
+Later I can show the difference between how both the techniques have performed.
+Mention challenges in extracting the usernames, their gender, guessing their gender
+
+
+Results
+Basic Demographics
+Fig. Gender Distribution of users
+Fig. Trend Graph showing the Member addition over time from starting till date. [Base on Accounts in Continuum] [Show what is the F, M, NB, IP, BOT, Org]
+
+To be clear Male, Neutral, Female coded articles by continuum. Here by Neutral I perceive that the topic is both for any gender
+Given the data now we are actually going to test the main hypothesis of whether people belonging to a gender in majority contribute their respective gender coded articles. If yes then that people are biased towards contributing articles based on several factors that are unknown. In my scope of what I have done I am not doing analysis on the factors as it would need analysis on the semantics of what articles the user contributes and is based on individual level which are responsible, due to time constraints but would be the interest in the future of these studies.(Do not mention this in slides, do mention in the Report)
+
+Fig. The different Continuums and 100% staked graphs horizontally with the count of F, M, NB at the end of the bar of each sub continuum. Give them Complete width to the main graph. The to the mail graph there are subcontinuum graphs which show the graphs of how members respectively have contributed over the period of years, the smaller figures would show over the period of time how F, M, NB and Overall there is increase in contribution to the articles of the particular sub continuum of the Continuum.
+
+With that there will be several other figures like I mentioned the main Continuum distribution, with the subcontinuums. For all the graphs use upto 2 decimal places.
+
+You can see that there are x, y, z numbers of articles in different continuums and this shows how the percentage of women and men are inversely proportional to their opposite gender coded articles. But you can still see that men have higher percentages in both directions. If say male have shown that wikiHow like wikiPedia has a higher percentage of male members contributed than women. 
+
+Fig. Have average contribution on y axis, year in y axis then have M, F, NB and Overall.
+When we talk about the accounts that are responsible for contribution of the articles we can see that most of the edits are done by RCPs and admins. If we look at the average time in years females take to achieve a badge or admin position is x years while for male it always has been lesser. This would further create speculations that indeed there is gatekeeping in promotion towards one gender. 
+
+Contributions
+There are different ways members can contribute to wikiHow, mainly through do additive edits to articles or start an article but they can also choose to delete the contents. There are different kinds of users and they all contribute differently. For example bots are mostly deployed to do automodification like fixing the embedings, citation, duplicacy etc. While the admin mostly contributed and reverted the versions of the article.
+
+Show screenshots of bots, organisations and how difficult it is to get to know about guessing their gender by first where we have to extract their names first which can have variance and normal regex would have difficulty knowing their names so I used both regular expressions and then used GenAI to get their gender.
+
+But with that there could be several contributions which are not genuine ones. Some of the contributions we can categorize as of what I have seen are either sarcasm, policing, sexist comments and even promotional.
+
+What type of content do they contribute?
+
+This is one of the bigger contributing factors. We can figure out the gender neutrality, vandalism behaviour among different articles by different genders. It can be possible that we see male members vandalizing articles started, contributed or focused on females.
+
+W
+
+The overall demographics of types of vandalism with the bar percentage(100%) on different gender and the color coded different kinds of contributions(excluding normal contributions). (We need to figure out what markers in the contribution comment represent what, a reversion but why?, complete replacement but why? Etc.
+It could be a normal contribution apart from other proposed classifications we made, soon I am going to figure out what the short form for the reason of reversion are.
+
+Within these we would see Gatekeeping behaviour too but it is rather hard to detect one for  a user to be identified as being gate keeped is when they have lower acceptance rate rather than having high contributions, they are abruptly rejected. I don’t actually know how I am going to see this, maybe we rank them by contribution(+|-)/times rejected.
+
+
+Fig. Edits of Female and Male Overtime (Excluding Admin/ Including Admin)
+
+Sudden bumps in the rise of contributions or members joining could indicate certain online campaigns or an event.
+
+Fig. Bar Chart containing Genuine and Non-Genuine Contributions
+
+Gate Keeping vs. Gate Keeped
+Gate keeping is common in most social media platforms. There could be different kinds of Gatekeeping that can be seen in many forms, say preventing new members from making a genuine contribution instead of trusting the bots instead. Also there are cases of acceptance and prevention of gender neutral additions.
+
+Fig. Average reversion rate of M vs F and NB over the years. Take some top M and F contributors.
+Fig. Take example of several Admin accounts with highest patrolling rate and find out their reversion rate over the years from the starting of their creating of account the moment they became admin.  This would show their reversions from being a normal user which would be I guess 0, then then they slowly get promoted and their reversion rate.
+
+Fig. Distribution Graphs of Acceptance and Reversion of Contribution both Genuine and Non Genuine
+	
+We have to know if the members have shifted over time?
+
+It is possible that some members would be shifting from being 1. More gendered and then gender neutral in nature(a. though their contributions are gender once neutral became male oriented, or b. once female, became male or gender neutral c. or from male to female, vice versa)
+
+Fig. For visualization we will use some sort of scale showing with arrows to indicate the values in them. This would include showing the number of users who have significantly shifted. Then taking a case 2 people. With their contribution over the years let them start from any year, then show the tread graph, with a table below of what articles they have contributed the most that show they have shifted.
+
+
+
+Discussion
+In discussion we will first try to set the stage by explaining about previous studies which have shown that there is underrepresentation of females in websites like Wikipedia while male members have the highest contribution. 
+Conclusion
+
+So here are the graphs I want from the data we will be collecting.
+
+A. The basic demographics for example the Male vs Female percentage over different time periods. Based on their years of membership. Here we could check for events which lead to people joining in and contributing. - (Gender, Years of joining or First contribution).
+
+Also on the other way have the timeline of having organization, bots and human percentages over time.
+
+B. Their active time And what are the accounts that have gone into dormancy over time. This would show a pattern of gender of contributors that decide to slow down could be for several reasons we would not know the entirety of it.
+
+C. A rough idea about the region people belong from, consisting of accounts who have contributed to  the articles under different continuums. 
+
+The second section would show how they have contributed to the continuums we have defined over the years and should show the year class we have mentioned. (contribution, gender, kinds of contribution etc.)
+
+Next we have the bigger part of our continuum, where we have selected some of the different continuums where 
+
+We have domestic continuum, Occupational Continuum, Entertainment Continuum, and Policy Continuum.
+
+What can I find here?
+A. categorical bar graph involving the different gender over different categories of 4 continuums.
+ It would involve the trend graph, probably a line graph the 1. Overall, 2. Female, 3. Male contribution over the period of time on different categories though in one image but separately and one of the total continuum. 
+Some of the top articles where we see the difference between male and female contribution seem to be reversed, once a male domination article is now edited by female members. There are changes in the authorship or co-authorship of the articles too, so we have to check if we can take this variable. (When they started an article, till what period were they appointed as author?)
+
+
+
+
+	
+
+Proposed
+
+A region concentration map of the users. We have their location so we could do a fuzzy search to map them. (Time of contributions, Gender, Articles)
+
+Miscellaneous
+In the miscellaneous we would have graphs which are either of additional information and don't necessarily require showcasing. 
+
+Most of the graphs are based on continuum level in the main, here we keep categorical level graphs.
+Some of the top articles where we see the shifts would be here, 
+
+
+

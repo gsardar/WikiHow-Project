@@ -1,0 +1,19 @@
+# Headless torrc — uses Tor Browser's binaries but runs without the browser UI
+# Key: NO DisableNetwork, NO bridges (the Tor Browser connected directly)
+
+DataDirectory C:\Users\Admin\Documents\WikiHow Project\tool\tor_data\headless
+GeoIPFile C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Data\Tor\geoip
+GeoIPv6File C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Data\Tor\geoip6
+
+Log notice file C:\Users\Admin\Documents\WikiHow Project\tool\tor_data\headless\tor.log
+
+SocksPort 9050
+ControlPort 9051
+CookieAuthentication 0
+AvoidDiskWrites 1
+
+ClientTransportPlugin meek_lite,obfs2,obfs3,obfs4,scramblesuit,webtunnel exec C:\Users\Admin\Desktop\Portable\Tor Browser\Browser\TorBrowser\Tor\PluggableTransports\lyrebird.exe
+
+# Geography: Force English-speaking exit nodes
+ExitNodes {us},{gb},{ca},{au},{nz}
+StrictNodes 1
