@@ -1,0 +1,515 @@
+{
+    "title": "Install-Flood-Lights",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:27:50.621027",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34021570",
+            "user": "Maintenance script",
+            "timestamp": "18:38, 30 January 2026",
+            "anon": false,
+            "size": "(15,324 bytes)",
+            "change": 0,
+            "summary": "(Protected \"Install Flood Lights\": Protecting page (infinite) ([Edit=Staff and Admins only] (indefinite) [Move=Staff and Admins only] (indefinite)))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "33019350",
+            "user": "Seymour Edits",
+            "timestamp": "17:12, 23 December 2024",
+            "anon": false,
+            "size": "(15,324 bytes)",
+            "change": 459,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}<div class='subtitle'>A step-by-step guide to DIY floodlight installation</div>Installing floodlights can enhance the security and appearance of your home. Depending on where you want to install your floodlights, you may be better off hiring an electrician to do the work. However, if you'd like to hang lights over your garage door and don't mind running conduit lines inside your garage, installing floodlights can be a manageable DIY project. The process involves many small parts and can be time consuming, but overall this is a simple way to illuminate your residence.",
+                    "==Floodlight Installation at a Glance==",
+                    "Install an extension box over an outlet near the garage door. Connect it to a junction box above the center of your garage door with conduit tubing. Place an outlet box on the outside of the garage in the same location as the junction box. Run wire from the outlet to the outlet box and install the light.",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": [
+                    "Installing floodlights can enhance the security and appearance of your home. Depending on where you want to install your floodlights, you may be better off hiring an electrician to do the work. However, if you'd like to hang lights over your garage door and don't mind running conduit lines inside your garage, installing floodlights can be a manageable DIY project. The process involves many small parts and can be time consuming, but overall this is a simple way to illuminate your residence.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "31884477",
+            "user": "WikiHow Projects",
+            "timestamp": "03:28, 24 August 2023",
+            "anon": false,
+            "size": "(14,865 bytes)",
+            "change": -1501,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Remove the screws on the sides of the outlet to free the wires. Leave the electrical box containing the wires in the wall.[[Image:Install Flood Lights Step 2.jpg|center]]",
+                    "#Screw a metal mounting plate over the electrical box. Visit a home improvement store to purchase an extension box that is the same shape as the outlet. The mounting plate will be included. Fit the plate around the electrical box and, using the included screws, fasten it to the wall.[[Image:Install Flood Lights Step 3.jpg|center]]",
+                    "#Screw the extension box to the mounting plate. The extension box will come with 2 long screws. Position the extension box on the plate with the conduit connector facing upwards. Line up the holes on the box and plate, then use the screws to fasten them together.[[Image:Install Flood Lights Step 5.jpg|center]]",
+                    "#Measure from the extension box to the garage ceiling. Get out a stepladder and tape measure. Start measuring from the top of the box itself, not the conduit connector. Once you have a number, subtract {{convert|1+1/2|in|cm|abbr=on}} from it so the conduit won’t be right up against the ceiling later.[[Image:Install Flood Lights Step 6.jpg|center]]",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on one end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.[[Image:Install Flood Lights Step 8.jpg|center]]",
+                    "#Place a conduit hanger to hold the tube to the wall. Undo the screw holding the hanger’s prongs together. Halfway up the conduit tube, put the hanger’s prongs around it. Position the hanger so it is between the wall and the tube. Connect the hanger’s prongs with the screw you removed earlier. Then place a #10 or 5 mm screw in the hole on the hanger’s other end to secure it to the wall.[[Image:Install Flood Lights Step 9.jpg|center]]",
+                    "#Measure from the right-angle connector to the wall corner. Use the tape measure to gauge how much conduit tubing you’ll need to reach the corner. Hold a conduit elbow connector in the corner near the door. You will need to connect it to the right-angle connector with the tubing.[[Image:Install Flood Lights Step 10.jpg|center]]",
+                    "#Install a conduit hanger if the tubing is long. If the tubing is longer than {{convert|12|in|cm|abbr=on}}, secure it with a hanger. Place the hanger about halfway along the tube. Hold the tube between the hanger’s prongs and screw the hanger to the wall like you did earlier.[[Image:Install Flood Lights Step 12.jpg|center]]",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure from the elbow connector to the center of the garage door and cut more tubing as needed. Build the conduit, placing the tubes above the garage door. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.[[Image:Install Flood Lights Step 14.jpg|center]]",
+                    "#Measure from the top of the garage door to the ceiling. Stay inside the garage to do this. Climb up on a ladder and use the tape measure to take the measurement. Subtract {{convert|1|in|cm|abbr=on}} to get the measurement you will use later.[[Image:Install Flood Lights Step 15.jpg|center]]",
+                    "#Mark the measurement on the outside and drill a hole through it. Set the ladder outside and measure up from the top edge of the door. Use a {{convert|7/8|in|mm|abbr=on}} spade drill bit to create a hole in the garage wall.[[Image:Install Flood Lights Step 16.jpg|center]]",
+                    "#Push a cable connector through the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.[[Image:Install Flood Lights Step 19.jpg|center]]",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} decking screws in the holes around the box to secure it in place.[[Image:Install Flood Lights Step 22.jpg|center]]",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the one closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.[[Image:Install Flood Lights Step 23.jpg|center]]",
+                    "#Tape copper wires to the fish tape. You will need 1 strand of white, black, and green 14-gauge stranded copper wire. Use electrician’s tape to bind the ends of the wires to the fish tape.[[Image:Install Flood Lights Step 25.jpg|center]]",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Take off the electrical tape to remove the fish tape.[[Image:Install Flood Lights Step 26.jpg|center]]",
+                    "#Use the fish tape to pull the wires through the junction box. Go to the junction box, which is above the garage door, and feed the fish tape through it. At the right-angle connector, pull out the fish tape and fasten the wires to it again. Pull the wires through the conduit tubes to the junction box.[[Image:Install Flood Lights Step 27.jpg|center]]",
+                    "#Trim the cable at the outlet box. At the outlet box on the outside of the garage, pull the cable out a little and measure it using the tape measure. Leave about {{convert|6|in|cm|abbr=on}} of wire exposed. Cut the wire to length using wire cutters or pliers.[[Image:Install Flood Lights Step 29.jpg|center]]",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape.[[Image:Install Flood Lights Step 33.jpg|center]]"
+                ],
+                "removed": [
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Remove the screws on the sides of the outlet to free the wires. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 2.jpg|center]]",
+                    "#Screw a metal mounting plate over the electrical box. Visit a home improvement store to purchase an extension box that is the same shape as the outlet. The mounting plate will be included. Fit the plate around the electrical box and, using the included screws, fasten it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 3.jpg|center]]",
+                    "#Screw the extension box to the mounting plate. The extension box will come with 2 long screws. Position the extension box on the plate with the conduit connector facing upwards. Line up the holes on the box and plate, then use the screws to fasten them together.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 5.jpg|center]]",
+                    "#Measure from the extension box to the garage ceiling. Get out a stepladder and tape measure. Start measuring from the top of the box itself, not the conduit connector. Once you have a number, subtract {{convert|1+1/2|in|cm|abbr=on}} from it so the conduit won’t be right up against the ceiling later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 6.jpg|center]]",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on one end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 8.jpg|center]]",
+                    "#Place a conduit hanger to hold the tube to the wall. Undo the screw holding the hanger’s prongs together. Halfway up the conduit tube, put the hanger’s prongs around it. Position the hanger so it is between the wall and the tube. Connect the hanger’s prongs with the screw you removed earlier. Then place a #10 or 5 mm screw in the hole on the hanger’s other end to secure it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 9.jpg|center]]",
+                    "#Measure from the right-angle connector to the wall corner. Use the tape measure to gauge how much conduit tubing you’ll need to reach the corner. Hold a conduit elbow connector in the corner near the door. You will need to connect it to the right-angle connector with the tubing.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 10.jpg|center]]",
+                    "#Install a conduit hanger if the tubing is long. If the tubing is longer than {{convert|12|in|cm|abbr=on}}, secure it with a hanger. Place the hanger about halfway along the tube. Hold the tube between the hanger’s prongs and screw the hanger to the wall like you did earlier.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 12.jpg|center]]",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure from the elbow connector to the center of the garage door and cut more tubing as needed. Build the conduit, placing the tubes above the garage door. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 14.jpg|center]]",
+                    "#Measure from the top of the garage door to the ceiling. Stay inside the garage to do this. Climb up on a ladder and use the tape measure to take the measurement. Subtract {{convert|1|in|cm|abbr=on}} to get the measurement you will use later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 15.jpg|center]]",
+                    "#Mark the measurement on the outside and drill a hole through it. Set the ladder outside and measure up from the top edge of the door. Use a {{convert|7/8|in|mm|abbr=on}} spade drill bit to create a hole in the garage wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 16.jpg|center]]",
+                    "#Push a cable connector through the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 19.jpg|center]]",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} decking screws in the holes around the box to secure it in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 22.jpg|center]]",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the one closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 23.jpg|center]]",
+                    "#Tape copper wires to the fish tape. You will need 1 strand of white, black, and green 14-gauge stranded copper wire. Use electrician’s tape to bind the ends of the wires to the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 25.jpg|center]]",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Take off the electrical tape to remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 26.jpg|center]]",
+                    "#Use the fish tape to pull the wires through the junction box. Go to the junction box, which is above the garage door, and feed the fish tape through it. At the right-angle connector, pull out the fish tape and fasten the wires to it again. Pull the wires through the conduit tubes to the junction box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 27.jpg|center]]",
+                    "#Trim the cable at the outlet box. At the outlet box on the outside of the garage, pull the cable out a little and measure it using the tape measure. Leave about {{convert|6|in|cm|abbr=on}} of wire exposed. Cut the wire to length using wire cutters or pliers.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 29.jpg|center]]",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 33.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31379499",
+            "user": "Votebot",
+            "timestamp": "09:52, 22 February 2023",
+            "anon": false,
+            "size": "(16,366 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "29895270",
+            "user": "MiscBot",
+            "timestamp": "06:25, 16 September 2021",
+            "anon": false,
+            "size": "(16,364 bytes)",
+            "change": -6,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Lighting]]"
+                ],
+                "removed": [
+                    "[[Category:Outdoor Lights]]"
+                ]
+            }
+        },
+        {
+            "id": "28414443",
+            "user": "WikiHow Expert Review",
+            "timestamp": "21:12, 24 July 2020",
+            "anon": false,
+            "size": "(16,370 bytes)",
+            "change": 262,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*If you don't want to install a receptacle, install solar-powered floodlights, instead. They'll charge during the day, then you just set when you want them to come on, like a certain time of day or when they detect motion.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27549809",
+            "user": "Seymour Edits",
+            "timestamp": "18:46, 2 January 2020",
+            "anon": false,
+            "size": "(16,108 bytes)",
+            "change": 139,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-Flood-Lights}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26297444",
+            "user": "MiscBot",
+            "timestamp": "02:51, 29 March 2019",
+            "anon": false,
+            "size": "(15,969 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "23995384",
+            "user": "Wikivisual",
+            "timestamp": "18:11, 7 February 2018",
+            "anon": false,
+            "size": "(15,978 bytes)",
+            "change": 1657,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the electricity to the garage. Find the circuit breaker or fuse box, which will be in the basement or bottom floor of your home. Flip the switch for the garage. To test for an electrical current, plug a radio or lamp into a wall outlet in the garage. If the power is off, the device won’t turn on.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-choose-and-install-motion-detector-lighting/view-all/</ref>[[Image:Install Flood Lights Step 1.jpg|center]]",
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Remove the screws on the sides of the outlet to free the wires. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 2.jpg|center]]",
+                    "#Screw a metal mounting plate over the electrical box. Visit a home improvement store to purchase an extension box that is the same shape as the outlet. The mounting plate will be included. Fit the plate around the electrical box and, using the included screws, fasten it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 3.jpg|center]]",
+                    "#Attach a metal conduit connector to the extension box. First, look for a circle, also called a knock-out plug, on the top surface of the extension box. Use the tip of your screwdriver to pry the plug up and away. Then position a {{convert|1/2|in|cm|abbr=on}} metal conduit connector on top of the hole.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>[[Image:Install Flood Lights Step 4.jpg|center]]",
+                    "#Screw the extension box to the mounting plate. The extension box will come with 2 long screws. Position the extension box on the plate with the conduit connector facing upwards. Line up the holes on the box and plate, then use the screws to fasten them together.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 5.jpg|center]]",
+                    "#Measure from the extension box to the garage ceiling. Get out a stepladder and tape measure. Start measuring from the top of the box itself, not the conduit connector. Once you have a number, subtract {{convert|1+1/2|in|cm|abbr=on}} from it so the conduit won’t be right up against the ceiling later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 6.jpg|center]]",
+                    "#Saw a piece of conduit to size. The conduit is made from electrical metallic tubing or EMT, which can be purchased cheaply from home improvement stores. Using a hacksaw, cut the tubing to the length you need. Use a file to smooth over any sharp edges you notice.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>[[Image:Install Flood Lights Step 7.jpg|center]]",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on one end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 8.jpg|center]]",
+                    "#Place a conduit hanger to hold the tube to the wall. Undo the screw holding the hanger’s prongs together. Halfway up the conduit tube, put the hanger’s prongs around it. Position the hanger so it is between the wall and the tube. Connect the hanger’s prongs with the screw you removed earlier. Then place a #10 or 5 mm screw in the hole on the hanger’s other end to secure it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 9.jpg|center]]",
+                    "#Measure from the right-angle connector to the wall corner. Use the tape measure to gauge how much conduit tubing you’ll need to reach the corner. Hold a conduit elbow connector in the corner near the door. You will need to connect it to the right-angle connector with the tubing.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 10.jpg|center]]",
+                    "#Cut the tubing and place it on the right-angle connector. Saw the tubing like you did before. Climb up on the ladder and slide the tubing into the free end of the right-angle connector. The tube should reach the wall corner near the door.[[Image:Install Flood Lights Step 11.jpg|center]]",
+                    "#Install a conduit hanger if the tubing is long. If the tubing is longer than {{convert|12|in|cm|abbr=on}}, secure it with a hanger. Place the hanger about halfway along the tube. Hold the tube between the hanger’s prongs and screw the hanger to the wall like you did earlier.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 12.jpg|center]]",
+                    "#Add an elbow connector to the end of the conduit. The elbow connector is a bent connector. It should be placed in the corner of the garage’s side and front wall. Slide it over the end of the conduit and angle the other end towards the garage door.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>[[Image:Install Flood Lights Step 13.jpg|center]]",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure from the elbow connector to the center of the garage door and cut more tubing as needed. Build the conduit, placing the tubes above the garage door. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 14.jpg|center]]",
+                    "#Measure from the top of the garage door to the ceiling. Stay inside the garage to do this. Climb up on a ladder and use the tape measure to take the measurement. Subtract {{convert|1|in|cm|abbr=on}} to get the measurement you will use later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 15.jpg|center]]",
+                    "#Mark the measurement on the outside and drill a hole through it. Set the ladder outside and measure up from the top edge of the door. Use a {{convert|7/8|in|mm|abbr=on}} spade drill bit to create a hole in the garage wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 16.jpg|center]]",
+                    "#Screw a junction box to the garage ceiling. Go back inside the garage. Fit a junction box over the end of the conduit tubing. You will need to use a screwdriver to pry off a knock-out plug. Use the screws included, usually #6 or 3.5 mm screws, to fasten the box to the ceiling.<ref>https://www.familyhandyman.com/electrical/top-10-electrical-mistakes/view-all/</ref>[[Image:Install Flood Lights Step 17.jpg|center]]",
+                    "#Run a 14/2 nonmetallic cable through the junction box. Pick up a 14/2 nonmetallic Romex cable from the home improvement store. It will have the 14/2 rating on the label. Push it into the junction box through the hole to the outside. Leave it hanging there for now.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-roughin-electrical-wiring/view-all/</ref>[[Image:Install Flood Lights Step 18.jpg|center]]",
+                    "#Push a cable connector through the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 19.jpg|center]]",
+                    "#Feed the nonmetallic cable through the connector. Grasp the end of the cable and push it through the connector. Use your screwdriver to tighten the screw on the connector, holding the cable in place.[[Image:Install Flood Lights Step 20.jpg|center]]",
+                    "#Fill the hole in the garage with [[Caulk|silicone caulk]]. Silicone caulk or a weather-resistant putty work well for patching up the hole. With a caulk gun, shoot the caulk into the hole until it is filled. Use a damp cloth or finger to smooth the caulk.<ref>https://www.ronhazelton.com/tips/how_to_caulk_cracks_and_gaps_outside</ref>[[Image:Install Flood Lights Step 21.jpg|center]]",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} decking screws in the holes around the box to secure it in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 22.jpg|center]]",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the one closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 23.jpg|center]]",
+                    "#Push electrician’s [[Fish Wires Through a Conduit or Pipe|fish tape]] down into the extension box. Fish tape is a hook on a cord rather than tape and it is used to pull wires through tight spaces. Unspool the tape from the reel and lower the hook through the conduit tubing until it emerges from the extension box.<ref>http://www.ecmweb.com/content/basics-pulling-wire</ref>[[Image:Install Flood Lights Step 24.jpg|center]]",
+                    "#Tape copper wires to the fish tape. You will need 1 strand of white, black, and green 14-gauge stranded copper wire. Use electrician’s tape to bind the ends of the wires to the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 25.jpg|center]]",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Take off the electrical tape to remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 26.jpg|center]]",
+                    "#Use the fish tape to pull the wires through the junction box. Go to the junction box, which is above the garage door, and feed the fish tape through it. At the right-angle connector, pull out the fish tape and fasten the wires to it again. Pull the wires through the conduit tubes to the junction box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 27.jpg|center]]",
+                    "#Assemble the floodlights according to the owner’s manual. Follow the directions to assemble the lights. Typically you will twist the lights into the holes on the mount by hand. The lights won’t be completely tightened until you finish hanging them later.[[Image:Install Flood Lights Step 28.jpg|center]]",
+                    "#Trim the cable at the outlet box. At the outlet box on the outside of the garage, pull the cable out a little and measure it using the tape measure. Leave about {{convert|6|in|cm|abbr=on}} of wire exposed. Cut the wire to length using wire cutters or pliers.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 29.jpg|center]]",
+                    "#[[Strip Wire|Strip]] the insulation from the wires. First, use a utility knife to gently remove the plastic sheathing around the wires. Then use wire strippers to expose {{convert|1/2|in|cm|abbr=on}} of the black and white wires.<ref>https://www.familyhandyman.com/electrical/wiring/stripping-wire/view-all/</ref>[[Image:Install Flood Lights Step 30.jpg|center]]",
+                    "#Join the cables to the flood lights. If the flood light wires aren’t already exposed, strip them as well. Hold the same-color wires together. Use pliers to twist the wires clockwise, wrapping them together. Place a wire nut over each connection and wrap it in electrical tape to be safe.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-make-safe-wire-nut-connections/view-all/</ref>[[Image:Install Flood Lights Step 31.jpg|center]]",
+                    "#Attach the floodlights to the wall. Follow the instructions in the owner’s manual to do this properly. The floodlights will come with machine screws that you can use to mount them to the wall. Place the bulbs in the lights.[[Image:Install Flood Lights Step 32.jpg|center]]",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>[[Image:Install Flood Lights Step 33.jpg|center]]",
+                    "#Connect a switch to the extension box. First, purchase an inexpensive GFCI receptacle switch. Back at the wall outlet, connect the wires to the correct [[Replace a Defective Electrical Switch or Outlet|plugs]]. Line up the holes on the switch with the extension box and use the included screws to secure it in place. Turn on the electricity and test your new lights!<ref>https://www.familyhandyman.com/electrical/wiring-outlets/how-to-install-gfci-outlets/view-all/</ref>[[Image:Install Flood Lights Step 34.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the electricity to the garage. Find the circuit breaker or fuse box, which will be in the basement or bottom floor of your home. Flip the switch for the garage. To test for an electrical current, plug a radio or lamp into a wall outlet in the garage. If the power is off, the device won’t turn on.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-choose-and-install-motion-detector-lighting/view-all/</ref>",
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Remove the screws on the sides of the outlet to free the wires. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw a metal mounting plate over the electrical box. Visit a home improvement store to purchase an extension box that is the same shape as the outlet. The mounting plate will be included. Fit the plate around the electrical box and, using the included screws, fasten it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Attach a metal conduit connector to the extension box. First, look for a circle, also called a knock-out plug, on the top surface of the extension box. Use the tip of your screwdriver to pry the plug up and away. Then position a {{convert|1/2|in|cm|abbr=on}} metal conduit connector on top of the hole.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Screw the extension box to the mounting plate. The extension box will come with 2 long screws. Position the extension box on the plate with the conduit connector facing upwards. Line up the holes on the box and plate, then use the screws to fasten them together.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Measure from the extension box to the garage ceiling. Get out a stepladder and tape measure. Start measuring from the top of the box itself, not the conduit connector. Once you have a number, subtract {{convert|1+1/2|in|cm|abbr=on}} from it so the conduit won’t be right up against the ceiling later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Saw a piece of conduit to size. The conduit is made from electrical metallic tubing or EMT, which can be purchased cheaply from home improvement stores. Using a hacksaw, cut the tubing to the length you need. Use a file to smooth over any sharp edges you notice.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on one end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Place a conduit hanger to hold the tube to the wall. Undo the screw holding the hanger’s prongs together. Halfway up the conduit tube, put the hanger’s prongs around it. Position the hanger so it is between the wall and the tube. Connect the hanger’s prongs with the screw you removed earlier. Then place a #10 or 5 mm screw in the hole on the hanger’s other end to secure it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Measure from the right-angle connector to the wall corner. Use the tape measure to gauge how much conduit tubing you’ll need to reach the corner. Hold a conduit elbow connector in the corner near the door. You will need to connect it to the right-angle connector with the tubing.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Cut the tubing and place it on the right-angle connector. Saw the tubing like you did before. Climb up on the ladder and slide the tubing into the free end of the right-angle connector. The tube should reach the wall corner near the door.",
+                    "#Install a conduit hanger if the tubing is long. If the tubing is longer than {{convert|12|in|cm|abbr=on}}, secure it with a hanger. Place the hanger about halfway along the tube. Hold the tube between the hanger’s prongs and screw the hanger to the wall like you did earlier.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Add an elbow connector to the end of the conduit. The elbow connector is a bent connector. It should be placed in the corner of the garage’s side and front wall. Slide it over the end of the conduit and angle the other end towards the garage door.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure from the elbow connector to the center of the garage door and cut more tubing as needed. Build the conduit, placing the tubes above the garage door. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Measure from the top of the garage door to the ceiling. Stay inside the garage to do this. Climb up on a ladder and use the tape measure to take the measurement. Subtract {{convert|1|in|cm|abbr=on}} to get the measurement you will use later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Mark the measurement on the outside and drill a hole through it. Set the ladder outside and measure up from the top edge of the door. Use a {{convert|7/8|in|mm|abbr=on}} spade drill bit to create a hole in the garage wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw a junction box to the garage ceiling. Go back inside the garage. Fit a junction box over the end of the conduit tubing. You will need to use a screwdriver to pry off a knock-out plug. Use the screws included, usually #6 or 3.5 mm screws, to fasten the box to the ceiling.<ref>https://www.familyhandyman.com/electrical/top-10-electrical-mistakes/view-all/</ref>",
+                    "#Run a 14/2 nonmetallic cable through the junction box. Pick up a 14/2 nonmetallic Romex cable from the home improvement store. It will have the 14/2 rating on the label. Push it into the junction box through the hole to the outside. Leave it hanging there for now.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-roughin-electrical-wiring/view-all/</ref>",
+                    "#Push a cable connector through the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Feed the nonmetallic cable through the connector. Grasp the end of the cable and push it through the connector. Use your screwdriver to tighten the screw on the connector, holding the cable in place.",
+                    "#Fill the hole in the garage with [[Caulk|silicone caulk]]. Silicone caulk or a weather-resistant putty work well for patching up the hole. With a caulk gun, shoot the caulk into the hole until it is filled. Use a damp cloth or finger to smooth the caulk.<ref>https://www.ronhazelton.com/tips/how_to_caulk_cracks_and_gaps_outside</ref>",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} decking screws in the holes around the box to secure it in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the one closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Push electrician’s [[Fish Wires Through a Conduit or Pipe|fish tape]] down into the extension box. Fish tape is a hook on a cord rather than tape and it is used to pull wires through tight spaces. Unspool the tape from the reel and lower the hook through the conduit tubing until it emerges from the extension box.<ref>http://www.ecmweb.com/content/basics-pulling-wire</ref>",
+                    "#Tape copper wires to the fish tape. You will need 1 strand of white, black, and green 14-gauge stranded copper wire. Use electrician’s tape to bind the ends of the wires to the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Take off the electrical tape to remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Use the fish tape to pull the wires through the junction box. Go to the junction box, which is above the garage door, and feed the fish tape through it. At the right-angle connector, pull out the fish tape and fasten the wires to it again. Pull the wires through the conduit tubes to the junction box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Assemble the floodlights according to the owner’s manual. Follow the directions to assemble the lights. Typically you will twist the lights into the holes on the mount by hand. The lights won’t be completely tightened until you finish hanging them later.",
+                    "#Trim the cable at the outlet box. At the outlet box on the outside of the garage, pull the cable out a little and measure it using the tape measure. Leave about {{convert|6|in|cm|abbr=on}} of wire exposed. Cut the wire to length using wire cutters or pliers.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#[[Strip Wire|Strip]] the insulation from the wires. First, use a utility knife to gently remove the plastic sheathing around the wires. Then use wire strippers to expose {{convert|1/2|in|cm|abbr=on}} of the black and white wires.<ref>https://www.familyhandyman.com/electrical/wiring/stripping-wire/view-all/</ref>",
+                    "#Join the cables to the flood lights. If the flood light wires aren’t already exposed, strip them as well. Hold the same-color wires together. Use pliers to twist the wires clockwise, wrapping them together. Place a wire nut over each connection and wrap it in electrical tape to be safe.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-make-safe-wire-nut-connections/view-all/</ref>",
+                    "#Attach the floodlights to the wall. Follow the instructions in the owner’s manual to do this properly. The floodlights will come with machine screws that you can use to mount them to the wall. Place the bulbs in the lights.",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Connect a switch to the extension box. First, purchase an inexpensive GFCI receptacle switch. Back at the wall outlet, connect the wires to the correct [[Replace a Defective Electrical Switch or Outlet|plugs]]. Line up the holes on the switch with the extension box and use the included screws to secure it in place. Turn on the electricity and test your new lights!<ref>https://www.familyhandyman.com/electrical/wiring-outlets/how-to-install-gfci-outlets/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23879338",
+            "user": "WikiHow Intern",
+            "timestamp": "05:12, 18 January 2018",
+            "anon": false,
+            "size": "(14,321 bytes)",
+            "change": -46,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Outdoor Lights]]"
+                ],
+                "removed": [
+                    "[[Category:Lighting and Light Switches]]",
+                    "[[Category:Electrical Projects]]"
+                ]
+            }
+        },
+        {
+            "id": "23658539",
+            "user": "Seymour Edits",
+            "timestamp": "16:09, 3 December 2017",
+            "anon": false,
+            "size": "(14,367 bytes)",
+            "change": 324,
+            "summary": "(Adding a step.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Remove the screws on the sides of the outlet to free the wires. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Saw a piece of conduit to size. The conduit is made from electrical metallic tubing or EMT, which can be purchased cheaply from home improvement stores. Using a hacksaw, cut the tubing to the length you need. Use a file to smooth over any sharp edges you notice.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on one end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Add an elbow connector to the end of the conduit. The elbow connector is a bent connector. It should be placed in the corner of the garage’s side and front wall. Slide it over the end of the conduit and angle the other end towards the garage door.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure from the elbow connector to the center of the garage door and cut more tubing as needed. Build the conduit, placing the tubes above the garage door. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#*To find out exactly where the center of the door is, measure the length of the door.",
+                    "#Screw a junction box to the garage ceiling. Go back inside the garage. Fit a junction box over the end of the conduit tubing. You will need to use a screwdriver to pry off a knock-out plug. Use the screws included, usually #6 or 3.5 mm screws, to fasten the box to the ceiling.<ref>https://www.familyhandyman.com/electrical/top-10-electrical-mistakes/view-all/</ref>",
+                    "#Push a cable connector through the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} decking screws in the holes around the box to secure it in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the one closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Take off the electrical tape to remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Connect a switch to the extension box. First, purchase an inexpensive GFCI receptacle switch. Back at the wall outlet, connect the wires to the correct [[Replace a Defective Electrical Switch or Outlet|plugs]]. Line up the holes on the switch with the extension box and use the included screws to secure it in place. Turn on the electricity and test your new lights!<ref>https://www.familyhandyman.com/electrical/wiring-outlets/how-to-install-gfci-outlets/view-all/</ref>",
+                    "#*Switches often use {{convert|5/16|in|cm|abbr=on}} screws, although this varies depending on the size of the switch.",
+                    "*GFCI switch"
+                ],
+                "removed": [
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#[[Cut PVC Pipe|Saw]] a piece of conduit to size. The conduit is made from electrical metallic tubing or EMT, which can be purchased cheaply from home improvement stores. Using a hacksaw, cut the tubing to the length you need. Use a file to smooth over any sharp edges you notice.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on 1 end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Place the elbow connector to the conduit with a straight coupling. A straight coupling can also be purchased at a home improvement store. It is a little metal piece with 2 open, grooved ends to fasten conduit pieces together. Slide the conduit tube into 1 end, then slide the elbow connector into the other end.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#*Position the elbow connector so the free end points towards the garage door.",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure and cut more tubing, about {{convert|12|in|cm|abbr=on}} at a time. Build from the elbow connector, placing the tubes above the garage door. Add a straight coupling between the tubes to connect them. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#*To find out exactly where the center of the door is, measure the length of the door. When you’re done building, the tubing will end at the center point on the wall above the door.",
+                    "#Screw a junction box to the garage ceiling. Go back inside the garage. Fit a junction box over the end of the conduit tubing. You will need to use a screwdriver to pry off a knock-out plug. Use the screws included (what size?) to fasten the box to the ceiling.<ref>https://www.familyhandyman.com/electrical/top-10-electrical-mistakes/view-all/</ref>",
+                    "#Place a cable connector to the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} in the holes around the box and screw them into the wall to hold the box in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the 1 closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Undo the electrical tape remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape, then turn on the electricity to test your new lights!<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23657099",
+            "user": "Seymour Edits",
+            "timestamp": "05:53, 3 December 2017",
+            "anon": false,
+            "size": "(14,043 bytes)",
+            "change": 116,
+            "summary": "(revised intro)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Installing floodlights can enhance the security and appearance of your home. Depending on where you want to install your floodlights, you may be better off hiring an electrician to do the work. However, if you'd like to hang lights over your garage door and don't mind running conduit lines inside your garage, installing floodlights can be a manageable DIY project. The process involves many small parts and can be time consuming, but overall this is a simple way to illuminate your residence."
+                ],
+                "removed": [
+                    "Installing floodlights is a DIY project anyone can do to improve their home. It’s done by running electrical metallic tubing from a nearby outlet to the light. After cutting and hanging the tubing, complete the connection with new electrical wires. The process involves many small parts and can be time consuming, but overall this is a simple way to illuminate your residence."
+                ]
+            }
+        },
+        {
+            "id": "23655877",
+            "user": "P Hills",
+            "timestamp": "19:50, 2 December 2017",
+            "anon": false,
+            "size": "(13,927 bytes)",
+            "change": 74,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Lighting and Light Switches]]",
+                    "[[Category:Electrical Projects]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23655703",
+            "user": "WRM",
+            "timestamp": "19:06, 2 December 2017",
+            "anon": false,
+            "size": "(13,853 bytes)",
+            "change": 13853,
+            "summary": "(Creating article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Installing floodlights is a DIY project anyone can do to improve their home. It’s done by running electrical metallic tubing from a nearby outlet to the light. After cutting and hanging the tubing, complete the connection with new electrical wires. The process involves many small parts and can be time consuming, but overall this is a simple way to illuminate your residence.",
+                    "==Steps==",
+                    "===Installing the Extension Box===",
+                    "#Turn off the electricity to the garage. Find the circuit breaker or fuse box, which will be in the basement or bottom floor of your home. Flip the switch for the garage. To test for an electrical current, plug a radio or lamp into a wall outlet in the garage. If the power is off, the device won’t turn on.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-choose-and-install-motion-detector-lighting/view-all/</ref>",
+                    "#Unscrew a wall outlet near the garage door. Pick an outlet as close to the door as possible to make installing the floodlights easier. Use a screwdriver to loosen the outlet. Leave the electrical box containing the wires in the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw a metal mounting plate over the electrical box. Visit a home improvement store to purchase an extension box that is the same shape as the outlet. The mounting plate will be included. Fit the plate around the electrical box and, using the included screws, fasten it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Attach a metal conduit connector to the extension box. First, look for a circle, also called a knock-out plug, on the top surface of the extension box. Use the tip of your screwdriver to pry the plug up and away. Then position a {{convert|1/2|in|cm|abbr=on}} metal conduit connector on top of the hole.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#*The metal conduit connector, along with other conduit pieces, can be found at most home improvement stores.",
+                    "#Screw the extension box to the mounting plate. The extension box will come with 2 long screws. Position the extension box on the plate with the conduit connector facing upwards. Line up the holes on the box and plate, then use the screws to fasten them together.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "",
+                    "===Connecting the Conduit Tubing===",
+                    "#Measure from the extension box to the garage ceiling. Get out a stepladder and tape measure. Start measuring from the top of the box itself, not the conduit connector. Once you have a number, subtract {{convert|1+1/2|in|cm|abbr=on}} from it so the conduit won’t be right up against the ceiling later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#[[Cut PVC Pipe|Saw]] a piece of conduit to size. The conduit is made from electrical metallic tubing or EMT, which can be purchased cheaply from home improvement stores. Using a hacksaw, cut the tubing to the length you need. Use a file to smooth over any sharp edges you notice.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#*To get a rough estimate of how much EMT you will need, measure up to the ceiling, then measure to the center of the garage door. Add the 2 measurements together.",
+                    "#Connect the [[Install Electrical Conduits|conduit tube]] to the extension box. Place a right-angle conduit connector on 1 end of the tube. Slide the tube’s free end over the metal connector on top of the extension box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Place a conduit hanger to hold the tube to the wall. Undo the screw holding the hanger’s prongs together. Halfway up the conduit tube, put the hanger’s prongs around it. Position the hanger so it is between the wall and the tube. Connect the hanger’s prongs with the screw you removed earlier. Then place a #10 or 5 mm screw in the hole on the hanger’s other end to secure it to the wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#*Keep the conduit tube as vertically straight as possible before securing it to the hanger. Check this by looking up and readjusting it. Use a magnetic torpedo level to get it perfect.",
+                    "#Measure from the right-angle connector to the wall corner. Use the tape measure to gauge how much conduit tubing you’ll need to reach the corner. Hold a conduit elbow connector in the corner near the door. You will need to connect it to the right-angle connector with the tubing.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Cut the tubing and place it on the right-angle connector. Saw the tubing like you did before. Climb up on the ladder and slide the tubing into the free end of the right-angle connector. The tube should reach the wall corner near the door.",
+                    "#Install a conduit hanger if the tubing is long. If the tubing is longer than {{convert|12|in|cm|abbr=on}}, secure it with a hanger. Place the hanger about halfway along the tube. Hold the tube between the hanger’s prongs and screw the hanger to the wall like you did earlier.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Place the elbow connector to the conduit with a straight coupling. A straight coupling can also be purchased at a home improvement store. It is a little metal piece with 2 open, grooved ends to fasten conduit pieces together. Slide the conduit tube into 1 end, then slide the elbow connector into the other end.<ref>https://www.familyhandyman.com/electrical/mastering-the-art-of-electrical-conduit/view-all/</ref>",
+                    "#*Position the elbow connector so the free end points towards the garage door.",
+                    "#Continue hanging tubing until you reach the center of the garage door. Measure and cut more tubing, about {{convert|12|in|cm|abbr=on}} at a time. Build from the elbow connector, placing the tubes above the garage door. Add a straight coupling between the tubes to connect them. Hold the tubing to the wall by placing a hanger every {{convert|12|in|cm|abbr=on}}.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#*To find out exactly where the center of the door is, measure the length of the door. When you’re done building, the tubing will end at the center point on the wall above the door.",
+                    "",
+                    "===Placing the Junction Box and Outlet Box===",
+                    "#Measure from the top of the garage door to the ceiling. Stay inside the garage to do this. Climb up on a ladder and use the tape measure to take the measurement. Subtract {{convert|1|in|cm|abbr=on}} to get the measurement you will use later.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Mark the measurement on the outside and drill a hole through it. Set the ladder outside and measure up from the top edge of the door. Use a {{convert|7/8|in|mm|abbr=on}} spade drill bit to create a hole in the garage wall.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Screw a junction box to the garage ceiling. Go back inside the garage. Fit a junction box over the end of the conduit tubing. You will need to use a screwdriver to pry off a knock-out plug. Use the screws included (what size?) to fasten the box to the ceiling.<ref>https://www.familyhandyman.com/electrical/top-10-electrical-mistakes/view-all/</ref>",
+                    "#Run a 14/2 nonmetallic cable through the junction box. Pick up a 14/2 nonmetallic Romex cable from the home improvement store. It will have the 14/2 rating on the label. Push it into the junction box through the hole to the outside. Leave it hanging there for now.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-roughin-electrical-wiring/view-all/</ref>",
+                    "#Place a cable connector to the hole in a round outlet box. You will also need a round outlet box and a plastic cable connector from the home improvement store. Find the hole in the back of the outlet box and push the cable connector into it.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Feed the nonmetallic cable through the connector. Grasp the end of the cable and push it through the connector. Use your screwdriver to tighten the screw on the connector, holding the cable in place.",
+                    "#Fill the hole in the garage with [[Caulk|silicone caulk]]. Silicone caulk or a weather-resistant putty work well for patching up the hole. With a caulk gun, shoot the caulk into the hole until it is filled. Use a damp cloth or finger to smooth the caulk.<ref>https://www.ronhazelton.com/tips/how_to_caulk_cracks_and_gaps_outside</ref>",
+                    "#Screw the outlet box to the garage. Press the outlet box against the garage. It should rest flat against the caulk. Place {{convert|2|in|cm|abbr=on}} in the holes around the box and screw them into the wall to hold the box in place.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "",
+                    "===Completing the Electrical Circuit===",
+                    "#Remove the cover plate from the right-angle connector. The right-angle connector you want to adjust is the 1 closest to the extension box. It should be at the top of the first conduit tube you secured to the wall. Undo the screws on the connector’s surface to remove the cover plate.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Push electrician’s [[Fish Wires Through a Conduit or Pipe|fish tape]] down into the extension box. Fish tape is a hook on a cord rather than tape and it is used to pull wires through tight spaces. Unspool the tape from the reel and lower the hook through the conduit tubing until it emerges from the extension box.<ref>http://www.ecmweb.com/content/basics-pulling-wire</ref>",
+                    "#*Fish tape, along with electrician’s tape and copper wires, can be found at any hardware store.",
+                    "#Tape copper wires to the fish tape. You will need 1 strand of white, black, and green 14-gauge stranded copper wire. Use electrician’s tape to bind the ends of the wires to the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Pull the wires up to the right-angle connector. Go back to the right-angle connector. Pull the fish tape out of it to raise the wires up to you. Pull the wires far enough out of the connector so they won’t fall back down. Undo the electrical tape remove the fish tape.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Use the fish tape to pull the wires through the junction box. Go to the junction box, which is above the garage door, and feed the fish tape through it. At the right-angle connector, pull out the fish tape and fasten the wires to it again. Pull the wires through the conduit tubes to the junction box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#Assemble the floodlights according to the owner’s manual. Follow the directions to assemble the lights. Typically you will twist the lights into the holes on the mount by hand. The lights won’t be completely tightened until you finish hanging them later.",
+                    "#Trim the cable at the outlet box. At the outlet box on the outside of the garage, pull the cable out a little and measure it using the tape measure. Leave about {{convert|6|in|cm|abbr=on}} of wire exposed. Cut the wire to length using wire cutters or pliers.<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "#[[Strip Wire|Strip]] the insulation from the wires. First, use a utility knife to gently remove the plastic sheathing around the wires. Then use wire strippers to expose {{convert|1/2|in|cm|abbr=on}} of the black and white wires.<ref>https://www.familyhandyman.com/electrical/wiring/stripping-wire/view-all/</ref>",
+                    "#Join the cables to the flood lights. If the flood light wires aren’t already exposed, strip them as well. Hold the same-color wires together. Use pliers to twist the wires clockwise, wrapping them together. Place a wire nut over each connection and wrap it in electrical tape to be safe.<ref>https://www.familyhandyman.com/electrical/wiring/how-to-make-safe-wire-nut-connections/view-all/</ref>",
+                    "#*The electrical work can be the trickiest part. If you feel unsure about doing it, call a professional.",
+                    "#Attach the floodlights to the wall. Follow the instructions in the owner’s manual to do this properly. The floodlights will come with machine screws that you can use to mount them to the wall. Place the bulbs in the lights.",
+                    "#Connect the wires at the [[Install a Junction Box|junction box]]. At the junction box, you should have the Romex cable and the colored wires you pulled up with the fish tape earlier. Cut the Romex cable to size, then strip all the wires and connect the matching colors. Secure the wires with wire nuts and tape, then turn on the electricity to test your new lights!<ref>https://www.thisoldhouse.com/how-to/how-to-install-garage-floodlight</ref>",
+                    "",
+                    "==Tips==",
+                    "*If you’re having trouble with the wiring, call a professional electrician to ensure it is installed correctly.",
+                    "",
+                    "==Warnings==",
+                    "*Never work on an outlet or wiring unless the electricity is turned off. Double-check by plugging a lamp or radio into the wall.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Screwdriver",
+                    "*Extension box with mounting plate",
+                    "*{{convert|1/2|in|cm|abbr=on}} metal conduit connector",
+                    "*Tape measure",
+                    "*Electrical metallic tubing",
+                    "*Hacksaw",
+                    "*Right-angle conduit connector",
+                    "*Conduit hangers",
+                    "*Screws (what size?)",
+                    "*Conduit elbow connector",
+                    "*Straight couplings",
+                    "*Drill",
+                    "*{{convert|7/8|in|mm|abbr=on}} spade drill bit",
+                    "*Junction box",
+                    "*14/2 nonmetallic Romex cable",
+                    "*Cable connectors",
+                    "*Round outlet box",
+                    "*Silicone caulk or wall putty",
+                    "*Fish tape",
+                    "*Electrical tape",
+                    "*14-gauge copper wires",
+                    "*Floodlights",
+                    "*Utility knife",
+                    "*Wire cutter",
+                    "*Wire strippers",
+                    "*Pliers",
+                    "*Wire nuts",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

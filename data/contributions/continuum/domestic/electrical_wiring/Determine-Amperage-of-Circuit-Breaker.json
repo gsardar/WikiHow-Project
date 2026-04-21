@@ -1,0 +1,1824 @@
+{
+    "title": "Determine-Amperage-of-Circuit-Breaker",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:24:55.731168",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33514428",
+            "user": "MiscBot",
+            "timestamp": "09:00, 26 June 2025",
+            "anon": false,
+            "size": "(15,330 bytes)",
+            "change": -70,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units or other appliances with large motors or compressors. The Minimum Circuit Ampacity tells you the minimum wire size necessary for safety. The Maximum Overcurrent Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units or other appliances with large motors or compressors. The Minimum Circuit Ampacity tells you the minimum wire size necessary for safety. The Maximum Overcurrent Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>https://www.thespruce.com/why-circuit-breakers-trip-1824676</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32606254",
+            "user": "WikiHow Projects",
+            "timestamp": "18:33, 25 June 2024",
+            "anon": false,
+            "size": "(15,400 bytes)",
+            "change": 79,
+            "summary": "(add internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Look on the handle of the [[Find the Fuse Box or Circuit Breaker Box|circuit breaker]] to find its amperage. This is the maximum amperage that the circuit can take before it trips. In the U.S., most standard household circuits are rated for 15 to 20 amps, although special appliances may have 30 or 50.",
+                    "#*Some devices will list the amperage directly, often labeled FLA, meaning \"Full Load Amps\". If it does, skip down to the [[#ampdata|next section]] to interpret that rating.",
+                    "#Check the [[Measure Voltage|voltage]] on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in North America and Central America, or around 220V to 230V for most other countries.<ref>https://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#Measure amperage directly with a clamp multimeter (optional). A clamp multimeter (or clamp ammeter) has a pair of \"jaws\" at the top that close shut to encircle a wire. When set to measure [[Find-Amps|amps]], the device will display the number of amps running through that wire.<ref>https://www.youtube.com/watch?v=ar7qkMHKw40</ref> To test a circuit, expose the wire leading to the load side of a circuit breaker. With the clamp multimeter set up as described, have a friend turn on other devices in the house. If the device is on the same circuit, you will see the amperage display increase.[[Image:Determine Amperage of Circuit Breaker Step 11.jpg|center]]",
+                    "#*This section covers devices that list the amperage directly on the data plate, which should include all appliances with a motor. If your device only lists wattage (W), [[#calculate|calculate]] the amperage from that value."
+                ],
+                "removed": [
+                    "Look on the handle of the circuit breaker to find its amperage. This is the maximum amperage that the circuit can take before it trips. In the U.S., most standard household circuits are rated for 15 to 20 amps, although special appliances may have 30 or 50.",
+                    "#*Some devices will list the amperage directly, often labeled FLA, meaning \"Full Load Amps\". If it does, [[#ampdata|skip down to the next section]] to interpret that rating.",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in North America and Central America, or around 220V to 230V for most other countries.<ref>https://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#Measure amperage directly with a clamp multimeter (optional). A clamp multimeter (or clamp ammeter) has a pair of \"jaws\" at the top that close shut to encircle a wire. When set to measure amps, the device will display the number of amps running through that wire.<ref>https://www.youtube.com/watch?v=ar7qkMHKw40</ref> To test a circuit, expose the wire leading to the load side of a circuit breaker. With the clamp multimeter set up as described, have a friend turn on other devices in the house. If the device is on the same circuit, you will see the amperage display increase.[[Image:Determine Amperage of Circuit Breaker Step 11.jpg|center]]",
+                    "#*This section covers devices that list the amperage directly on the data plate, which should include all appliances with a motor. If your device only lists wattage (W), [[#calculate|calculate the amperage from that value]]."
+                ]
+            }
+        },
+        {
+            "id": "32560556",
+            "user": "Seymour Edits",
+            "timestamp": "18:47, 7 June 2024",
+            "anon": false,
+            "size": "(15,321 bytes)",
+            "change": 320,
+            "summary": "(Added AB treatment)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}Each circuit breaker has a specific rated amperage, or amount of current. When that amperage is exceeded, the circuit breaker shuts down the flow of current in that circuit to prevent damage to the wiring and appliances. Learn how to calculate the actual amperage of devices on the circuit and compare it to the rated amperage, so you can avoid unnecessary power interruptions and fire hazards.",
+                    "",
+                    "==How to Tell How Many Amps a Breaker Is==",
+                    "Look on the handle of the circuit breaker to find its amperage. This is the maximum amperage that the circuit can take before it trips. In the U.S., most standard household circuits are rated for 15 to 20 amps, although special appliances may have 30 or 50."
+                ],
+                "removed": [
+                    "Each circuit breaker has a specific rated amperage, or amount of current. When that amperage is exceeded, the circuit breaker shuts down the flow of current in that circuit to prevent damage to the wiring and appliances. Learn how to calculate the actual amperage of devices on the circuit and compare it to the rated amperage, so you can avoid unnecessary power interruptions and fire hazards."
+                ]
+            }
+        },
+        {
+            "id": "32559442",
+            "user": "WikiHow Horizon",
+            "timestamp": "12:00, 7 June 2024",
+            "anon": false,
+            "size": "(15,001 bytes)",
+            "change": -113,
+            "summary": "(Removing broken link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing (with minimal sign-up) or you may find a copy in a well-stocked library or bookstore."
+                ],
+                "removed": [
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well-stocked library or bookstore."
+                ]
+            }
+        },
+        {
+            "id": "32204810",
+            "user": "Stevecon",
+            "timestamp": "19:34, 12 January 2024",
+            "anon": false,
+            "size": "(15,114 bytes)",
+            "change": 323,
+            "summary": "(Some corrections / clarifications re: AC \"watts\" & Power Factor /  DC rectification..)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If you use one, be sure your multimeter is set correctly to AC. The electricity coming from the outlets in your house will be AC, but if you're measuring a device or circuit that uses a rectifier, diode or similar to convert the power to DC, you'll need to set the multimeter to DC. Whether the device is AC or DC will be listed with the voltage on the label.  Be sure to set the voltage range on the multimeter to one greater than indicated on the label.<ref>[v161397_b01]. 29 April 2020.</ref>",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150-watt purely resistive device (steam iron, light bulb, toaster, etc.) on a 120-volt circuit will draw 150 ÷ 120 = 1.25 amps. Inductive loads (motors, electronic devices, etc.) are affected by \"Power Factor\" which is an efficiency rating that is beyond the scope of this article. [[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#*If you use one, be sure your multimeter is set correctly to AC or DC. The electricity coming from the outlets in your house will be AC, but if you're measuring a device that uses a transformer to convert the power to DC, you'll need to set the multimeter accordingly. Whether the device is AC or DC will be listed with the voltage on the label.<ref>[v161397_b01]. 29 April 2020.</ref>",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150-watt device on a 120-volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32117750",
+            "user": "WikiHow Horizon",
+            "timestamp": "16:50, 5 December 2023",
+            "anon": false,
+            "size": "(14,791 bytes)",
+            "change": -122,
+            "summary": "(Removing broken links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Most electrical codes allow a ± 5% tolerance for the voltage (or slightly more). <ref>https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/293405/05-1410-electrical-supply-tolerances-and-appliance-safety.pdf</ref> Do not run a device on a voltage supply outside this range."
+                ],
+                "removed": [
+                    "#*Most electrical codes allow a ± 5% tolerance for the voltage (or slightly more).<ref>http://www.pge.com/includes/docs/pdfs/mybusiness/customerservice/energystatus/powerquality/voltage_tolerance.pdf</ref><ref>https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/293405/05-1410-electrical-supply-tolerances-and-appliance-safety.pdf</ref> Do not run a device on a voltage supply outside this range."
+                ]
+            }
+        },
+        {
+            "id": "31429940",
+            "user": "WikiHow Projects",
+            "timestamp": "19:58, 11 March 2023",
+            "anon": false,
+            "size": "(14,913 bytes)",
+            "change": -87,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*This value may also be listed as full load amperage, running amps, rated amp, or just amps."
+                ],
+                "removed": [
+                    "#*This value may also be listed as full load amperage, running amps, rated amp, or just amps.<ref>http://c03.apogee.net/contentplayer/?coursetype=md&utilityid=elpaso&id=12592</ref>"
+                ]
+            }
+        },
+        {
+            "id": "30891362",
+            "user": "Seymour Edits",
+            "timestamp": "18:09, 19 September 2022",
+            "anon": false,
+            "size": "(15,000 bytes)",
+            "change": -8,
+            "summary": "(Replaced bad references for wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in North America and Central America, or around 220V to 230V for most other countries.<ref>https://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#*Household outlets in North America and some other countries are on a 120V standard. Most of the world uses 220–240V.<ref>https://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor and can be much higher than the FLA.<ref>https://electricalbaba.com/locked-rotor-starting-current/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, another device plugged into the circuit that causes an overload, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units or other appliances with large motors or compressors. The Minimum Circuit Ampacity tells you the minimum wire size necessary for safety. The Maximum Overcurrent Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>https://www.thespruce.com/why-circuit-breakers-trip-1824676</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in North America and Central America, or around 220V to 230V for most other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#*Household outlets in North America and some other countries are on a 120V standard. Most of the world uses 220–240V.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, another device plugged into the circuit that causes an overload, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units or other appliances with large motors or compressors. The Minimum Circuit Ampacity tells you the minimum wire size necessary for safety. The Maximum Overcurrent Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29514236",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:56, 6 May 2021",
+            "anon": false,
+            "size": "(15,008 bytes)",
+            "change": -34,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Do Common Electrical Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "28560817",
+            "user": "WikiHow Projects",
+            "timestamp": "03:38, 2 September 2020",
+            "anon": false,
+            "size": "(15,042 bytes)",
+            "change": -115,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker."
+                ],
+                "removed": [
+                    "#*Circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28181269",
+            "user": "WikiHow Expert Review",
+            "timestamp": "16:31, 29 May 2020",
+            "anon": false,
+            "size": "(15,157 bytes)",
+            "change": 798,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If you're not sure where your circuit breaker is, check your basement, if you have one. You might also look in your utility room, garage, or around the outside of your house.<ref>[v161397_b01]. 29 April 2020.</ref>",
+                    "#*A single breaker normally has 120V. However, a double pole breaker is essentially two breakers tied together with a handle tie, so it can deliver 240V.<ref>[v161397_b01]. 29 April 2020.</ref>",
+                    "#*If you use one, be sure your multimeter is set correctly to AC or DC. The electricity coming from the outlets in your house will be AC, but if you're measuring a device that uses a transformer to convert the power to DC, you'll need to set the multimeter accordingly. Whether the device is AC or DC will be listed with the voltage on the label.<ref>[v161397_b01]. 29 April 2020.</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27070656",
+            "user": "WikiHow Expert Review",
+            "timestamp": "17:46, 12 September 2019",
+            "anon": false,
+            "size": "(14,359 bytes)",
+            "change": 4,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Take other devices into account. According to the NEC, branch circuits are sized at 125% of the continuous load plus 100% of the non-continuous load. If multiple devices are running on the same circuit, add them together as follows:[[Image:Determine Amperage of Circuit Breaker Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Take other devices into account. According to the NEC, branch circuits are sized at 125% of the continuous load plus 100% of the continuous load. If multiple devices are running on the same circuit, add them together as follows:[[Image:Determine Amperage of Circuit Breaker Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27022906",
+            "user": "WikiHow Expert Review",
+            "timestamp": "15:35, 3 September 2019",
+            "anon": false,
+            "size": "(14,355 bytes)",
+            "change": 192,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Compare this to the current on the circuit. Now you know how much amperage your wiring and circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue to the next method.<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that are expected to use the maximum current for 3 hours or more at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel will expose you to dangerous voltages, so use extreme caution.",
+                    "#*You can oversize a breaker to 125% to help prevent your breaker from tripping if the circuit is designed strictly for motors.",
+                    "#Take other devices into account. According to the NEC, branch circuits are sized at 125% of the continuous load plus 100% of the continuous load. If multiple devices are running on the same circuit, add them together as follows:[[Image:Determine Amperage of Circuit Breaker Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Compare this to the current on the circuit. Now you know how much amperage your wiring and circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than 3 hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages, so use extreme caution.",
+                    "#*You can oversize a breaker to 125% to help prevent your breaker from tripping.",
+                    "#Take other devices into account. If multiple devices are running on the same circuit, add them together as follows:[[Image:Determine Amperage of Circuit Breaker Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27014610",
+            "user": "Votebot",
+            "timestamp": "09:56, 1 September 2019",
+            "anon": false,
+            "size": "(14,163 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If an equipment manual requires a specific circuit breaker or a \"maximum overcurrent\" number, that means the device can only be plugged into a circuit at that rating, for safety.  For example, an 8-amp system may overheat and cause a fire hazard if it becomes overloaded while plugged into a 20-Amp circuit because the breaker does not immediately open the circuit during small overloads."
+                ],
+                "removed": [
+                    "*If an equipment manual requires a specific circuit breaker or a \"maximum overcurrent\" number, that means the device can only be plugged into a circuit at that rating, for safety.  For example, an 8-amp system may overheat and cause a fire hazard if it becomes overloaded while plugged into a 20-Amp circuit because the breaker does not immediately open the circuit during small overloads."
+                ]
+            }
+        },
+        {
+            "id": "26797230",
+            "user": "Votebot",
+            "timestamp": "09:27, 15 July 2019",
+            "anon": false,
+            "size": "(14,163 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, or it may not fit, and may violate the warranty."
+                ],
+                "removed": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, or it may not fit, and may violate the warranty."
+                ]
+            }
+        },
+        {
+            "id": "26748085",
+            "user": "Christy17",
+            "timestamp": "00:37, 2 July 2019",
+            "anon": false,
+            "size": "(14,163 bytes)",
+            "change": 298,
+            "summary": "(Reverted edits by Tyler Timler (Talk); changed back to last version by WikiHow Expert Review)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that the circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could cause enough heat to trip the breaker.<ref>https://www.ecmweb.com/basics/sizing-circuit-breaker</ref>[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Breakers should be sized at 125% for a continuous load and 100% for a non-continuous load, which comes out the same when you multiply the breaker size by 0.8.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150-watt device on a 120-volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than 3 hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages, so use extreme caution.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125% of the continuous load and 100% of a non-continuous load.",
+                    "#*Circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, another device plugged into the circuit that causes an overload, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#*You can oversize a breaker to 125% to help prevent your breaker from tripping.",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well-stocked library or bookstore."
+                ],
+                "removed": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Your electrical panel might have a note about the breakers operating at 100% of the rated value. If it does, you may skip this step.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125 percent of the continuous load.",
+                    "#*Some circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well stocked library or bookstore."
+                ]
+            }
+        },
+        {
+            "id": "26748035",
+            "user": "Tyler Timler",
+            "timestamp": "00:15, 2 July 2019",
+            "anon": false,
+            "size": "(13,865 bytes)",
+            "change": -298,
+            "summary": "(RCP reverted edits by WikiHow Expert Review (talk) to  revision #26276000 by MiscBot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Christy17",
+            "exact_contribution": {
+                "added": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Your electrical panel might have a note about the breakers operating at 100% of the rated value. If it does, you may skip this step.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125 percent of the continuous load.",
+                    "#*Some circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well stocked library or bookstore."
+                ],
+                "removed": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that the circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could cause enough heat to trip the breaker.<ref>https://www.ecmweb.com/basics/sizing-circuit-breaker</ref>[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Breakers should be sized at 125% for a continuous load and 100% for a non-continuous load, which comes out the same when you multiply the breaker size by 0.8.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150-watt device on a 120-volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than 3 hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages, so use extreme caution.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125% of the continuous load and 100% of a non-continuous load.",
+                    "#*Circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, another device plugged into the circuit that causes an overload, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#*You can oversize a breaker to 125% to help prevent your breaker from tripping.",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well-stocked library or bookstore."
+                ]
+            }
+        },
+        {
+            "id": "26748030",
+            "user": "WikiHow Expert Review",
+            "timestamp": "00:13, 2 July 2019",
+            "anon": false,
+            "size": "(14,163 bytes)",
+            "change": 298,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Christy17",
+            "exact_contribution": {
+                "added": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that the circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could cause enough heat to trip the breaker.<ref>https://www.ecmweb.com/basics/sizing-circuit-breaker</ref>[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Breakers should be sized at 125% for a continuous load and 100% for a non-continuous load, which comes out the same when you multiply the breaker size by 0.8.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150-watt device on a 120-volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than 3 hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages, so use extreme caution.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125% of the continuous load and 100% of a non-continuous load.",
+                    "#*Circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, another device plugged into the circuit that causes an overload, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#*You can oversize a breaker to 125% to help prevent your breaker from tripping.",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well-stocked library or bookstore."
+                ],
+                "removed": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#*Your electrical panel might have a note about the breakers operating at 100% of the rated value. If it does, you may skip this step.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages.",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125 percent of the continuous load.",
+                    "#*Some circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well stocked library or bookstore."
+                ]
+            }
+        },
+        {
+            "id": "26276000",
+            "user": "MiscBot",
+            "timestamp": "01:16, 29 March 2019",
+            "anon": false,
+            "size": "(13,865 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Tyler Timler",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "26026782",
+            "user": "Votebot",
+            "timestamp": "10:10, 13 February 2019",
+            "anon": false,
+            "size": "(13,874 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If an equipment manual requires a specific circuit breaker or a \"maximum overcurrent\" number, that means the device can only be plugged into a circuit at that rating, for safety.  For example, an 8-amp system may overheat and cause a fire hazard if it becomes overloaded while plugged into a 20-Amp circuit because the breaker does not immediately open the circuit during small overloads."
+                ],
+                "removed": [
+                    "*If an equipment manual requires a specific circuit breaker or a \"maximum overcurrent\" number, that means the device can only be plugged into a circuit at that rating, for safety.  For example, an 8-amp system may overheat and cause a fire hazard if it becomes overloaded while plugged into a 20-Amp circuit because the breaker does not immediately open the circuit during small overloads."
+                ]
+            }
+        },
+        {
+            "id": "25880911",
+            "user": "Votebot",
+            "timestamp": "10:18, 14 January 2019",
+            "anon": false,
+            "size": "(13,874 bytes)",
+            "change": -2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*The total of all breakers in a panel may exceed the rating of the \"main\" breaker. This is normal in residential systems where it is unlikely that all loads on all circuits will be operating simultaneously."
+                ],
+                "removed": [
+                    "",
+                    "*The total of all breakers in a panel may exceed the rating of the \"main\" breaker. This is normal in residential systems where it is unlikely that all loads on all circuits will be operating simultaneously."
+                ]
+            }
+        },
+        {
+            "id": "25501963",
+            "user": "Upnorth Here",
+            "timestamp": "07:13, 29 October 2018",
+            "anon": false,
+            "size": "(13,876 bytes)",
+            "change": 2264,
+            "summary": "(spellings and expand concepts of derating for continuous loads, add tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "Each circuit breaker has a specific rated amperage, or amount of current. When that amperage is exceeded, the circuit breaker shuts down the flow of current in that circuit to prevent damage to the wiring and appliances. Learn how to calculate the actual amperage of devices on the circuit and compare it to the rated amperage, so you can avoid unnecessary power interruptions and fire hazards.",
+                    "#*In the United States, standard household circuits are rated for 15 or 20 amps. Specific appliances may need dedicated, high-load circuits for 30 or 50 amps.",
+                    "#Understand double-pole breakers. Some high-voltage devices may be wired to a double-pole circuit breaker — two standard circuit breakers sharing a handle. Do ''not'' add together the amperage of the two breakers. Both circuits will be tripped simultaneously by the amperage displayed on one circuit breaker handle.[[Image:Determine Amperage of Circuit Breaker Step 3 Version 2.jpg|center]]",
+                    "#*For example, a two-pole breaker at 15 amps on each pole (breaker handle) would supply 240 volts to the appliance on that branch at up to 15 amps, not 30.",
+                    "#Compare this to the current on the circuit. Now you know how much amperage your wiring and circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]",
+                    "#Find the wattage of a device. Pick any device attached to the circuit you're investigating. Find the wattage (W) listed on the data plate — usually on the back or underside of the device or near where the power cord is connected. This is the maximum power rating of the device, which can be used to calculate amperage.[[Image:Determine Amperage of Circuit Breaker Step 5 Version 2.jpg|center]]",
+                    "#*Some devices will list the amperage directly, often labeled FLA, meaning \"Full Load Amps\". If it does, [[#ampdata|skip down to the next section]] to interpret that rating.",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in North America and Central America, or around 220V to 230V for most other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#*Electrical circuits never operate perfectly. Some of the energy is lost to heat, and devices may draw more current to make up for this. Waste is low in most household circuits (below 10%), but it is still possible to trip the breaker if the total calculated amperage on paper is slightly below the breaker rating.",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and removing the front panel of a breaker panel can expose you to dangerous voltages.",
+                    "#Look for the data plate. All appliances should have a data plate with electrical information. Look on the back or underside of the device, where the cord enters, or check the product manual. The information on this plate will help you determine how many amperes the device draws, and therefore the rating you will need for the circuit breaker.[[Image:Determine Amperage of Circuit Breaker Step 12.jpg|center]]",
+                    "#*Household outlets in North America and some other countries are on a 120V standard. Most of the world uses 220–240V.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*Many homes have 30-A or 50-A breakers dedicated to larger appliances such as water heaters, baseboard heaters, ovens, stoves, and heavy-duty power tools. The wiring and breakers for these circuits are required to be designed at 125 percent of the continuous load.",
+                    "#Look for the FLA, or \"full load amps\". This is the number of amps the motor will draw at the rated horsepower. In the United States, if this device will be left on for more than three hours, the circuit breaker should be rated at 125% of this value. (Multiply the FLA by 1.25.) This allows for additional load due to other factors, mainly heat.<ref>http://ecmweb.com/basics/sizing-circuit-breaker?page=1</ref>[[Image:Determine Amperage of Circuit Breaker Step 14.jpg|center]]",
+                    "#*Do not confuse this with the RLA, a specially derived value of internal forces, listed on air conditioner units.",
+                    "#*If your circuit breaker is rated for continuous loads at 80% or you do not know its rating, add the amperages of all devices running for more than three hours at a time and multiply by 1.25. Add to the result the amperage of all devices running for shorter periods of time.",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units or other appliances with large motors or compressors. The Minimum Circuit Ampacity tells you the minimum wire size necessary for safety. The Maximum Overcurrent Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]",
+                    "",
+                    "== Tips ==",
+                    "",
+                    "*The total of all breakers in a panel may exceed the rating of the \"main\" breaker. This is normal in residential systems where it is unlikely that all loads on all circuits will be operating simultaneously.",
+                    "*There are consumer devices for easy measurement of the actual wattage or amps being used by a cord-connected appliance. They are sold as \"plug-in watt meters\". You plug it into a receptacle, then plug an appliance into the watt meter to directly read how much power it is using, as displayed on the meter.  This may not provide a convenient branch-circuit total load, but it avoids the risk of trying to use a clamping ammeter on live wires inside a breaker panel.",
+                    "*The National Electrical Code® (NFPA 70®) is available online for free viewing <ref> https://www.nfpa.org/NEC/About-the-NEC/Free-online-access-to-the-NEC-and-other-electrical-standards </ref> (with minimal sign-up) or you may find a copy in a well stocked library or bookstore.",
+                    "*The circuit breaker amperage is primarily limited by the gauge and material of the attached wiring. To prevent a hazardous setup, follow electrical safety codes (such as the NEC in the US).<ref>http://ecmweb.com/code-basics/article-240-overcurrent-protection</ref> The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, or it may not fit, and may violate the warranty.",
+                    "*If an equipment manual requires a specific circuit breaker or a \"maximum overcurrent\" number, that means the device can only be plugged into a circuit at that rating, for safety.  For example, an 8-amp system may overheat and cause a fire hazard if it becomes overloaded while plugged into a 20-Amp circuit because the breaker does not immediately open the circuit during small overloads."
+                ],
+                "removed": [
+                    "Each circuit breaker has a specific rated amperage, or amount of current. When that amperage is exceeded, the circuit breaker shuts down the flow of current to prevent damage to the wiring. Learn how to calculate the actual amperage of the current and compare it to the rated amperage, so you can avoid unnecessary power interruptions.",
+                    "#*In the United States, standard household circuits are rated for 15 amps, or 20 amps for newer homes and high-load circuits.",
+                    "#Understand double-pole breakers. Some high-voltage devices may be wired to a double-pole circuit breaker — two standard circuit breakers sharing a handle. Do ''not'' add together the amperage of the two breakers. This circuit will still be tripped by the amperage displayed on one circuit breaker handle.[[Image:Determine Amperage of Circuit Breaker Step 3 Version 2.jpg|center]]",
+                    "#Compare this to the current on the circuit. Now you know how much amperage your circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]",
+                    "#Find the wattage of a device. Pick any device attached to the circuit you're investigating. Find the wattage (W) listed on the data plate — usually on the back or underside of the device. This is the maximum power rating of the device, which can be used to calculate amperage.[[Image:Determine Amperage of Circuit Breaker Step 5 Version 2.jpg|center]]",
+                    "#*Some devices will list the amperage directly, often labeled FLA. If it does, [[#ampdata|skip down to the next section]] to interpret that rating.",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#*Electrical circuits never operate perfectly. Some of the energy is lost to heat, and devices may draw more current to make up for this. Waste is low in most household circuits (below 10%), but it is still possible to trip the breaker if the amperage on paper is slightly below the breaker rating.",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and can be very dangerous.",
+                    "#Look for the data plate. All appliances should have a data plate with electrical information. Look on the back or underside of the device, or check the product manual. The information on this plate will help you determine how many amperes the device draws, and therefore the rating you will need for the circuit breaker.[[Image:Determine Amperage of Circuit Breaker Step 12.jpg|center]]",
+                    "#*Household outlets in the US and some other countries are on a 120V standard. Most of the world uses 220–240V.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Look for the FLA. This is the number of amps the motor will draw at the rated horsepower. In the United States, if this device will be left on for more than three hours, the circuit breaker should be rated at 125% of this value. (Multiply the FLA by 1.25.) This allows for additional load due to other factors, mainly heat.<ref>http://ecmweb.com/basics/sizing-circuit-breaker?page=1</ref>[[Image:Determine Amperage of Circuit Breaker Step 14.jpg|center]]",
+                    "#*Do not confuse this with the RLA, a value listed on air conditioner units.",
+                    "#*If your circuit breaker is rated at 80% or you do not know its rating, add the amperages of all devices running for more than three hours at a time and multiply by 1.25. Add to the result the amperage of all devices running for shorter periods of time.",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units. The Minimum Circuit Amperage tells you the minimum wire size necessary for safety. The Maximum Overdraft Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]",
+                    "*The circuit breaker amperage is also limited by the gauge and material of the attached wire. To prevent a hazardous setup, follow electrical safety codes (such as the NEC in the US).<ref>http://ecmweb.com/code-basics/article-240-overcurrent-protection</ref> The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, or it will not be under warranty."
+                ]
+            }
+        },
+        {
+            "id": "24716059",
+            "user": "WikiHow Projects",
+            "timestamp": "02:00, 8 June 2018",
+            "anon": false,
+            "size": "(11,612 bytes)",
+            "change": -46,
+            "summary": "(updating to current link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[Use-a-Multimeter|measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[http://www.wikihow.com/Use-a-Multimeter#Measuring_Voltage_sub||measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24622404",
+            "user": "Seymour Edits",
+            "timestamp": "15:52, 21 May 2018",
+            "anon": false,
+            "size": "(11,658 bytes)",
+            "change": 156,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Determine-Amperage-of-Circuit-Breaker}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23826864",
+            "user": "WikiHow Horizon",
+            "timestamp": "15:15, 7 January 2018",
+            "anon": false,
+            "size": "(11,502 bytes)",
+            "change": -2,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Compare this to the current on the circuit. Now you know how much amperage your circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Compare this to the current on the circuit. Now you know how much amperage your circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.",
+                    "",
+                    "<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "21297654",
+            "user": "Flickety",
+            "timestamp": "21:24, 7 November 2016",
+            "anon": false,
+            "size": "(11,504 bytes)",
+            "change": 12,
+            "summary": "(Add relevant sub-cat)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Measuring Power Current and Energy]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "21291819",
+            "user": "Flickety",
+            "timestamp": "23:47, 6 November 2016",
+            "anon": false,
+            "size": "(11,492 bytes)",
+            "change": 51,
+            "summary": "(Add relevant sub-cat)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "20646827",
+            "user": "WikiHow Projects",
+            "timestamp": "06:23, 24 July 2016",
+            "anon": false,
+            "size": "(11,441 bytes)",
+            "change": -232,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Electrical circuits never operate perfectly. Some of the energy is lost to heat, and devices may draw more current to make up for this. Waste is low in most household circuits (below 10%), but it is still possible to trip the breaker if the amperage on paper is slightly below the breaker rating."
+                ],
+                "removed": [
+                    "#*Electrical circuits never operate perfectly. Some of the energy is lost to heat, and devices may draw more current to make up for this. Waste is low in most household circuits (below 10%), but it is still possible to trip the breaker if the amperage on paper is slightly below the breaker rating.<ref>http://www.abcb.gov.au/~/media/Files/Download%20Documents/Archived/Major%20Initiatives/Energy%20Efficiency/Multi-Residential%20Commercial%20and%20Public%20Buildings/Pdf/31227%20Power%20Factor%20Correction%20Evaluation.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "19398381",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "03:34, 12 January 2016",
+            "anon": false,
+            "size": "(11,673 bytes)",
+            "change": -147,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Do Common Electrical Repairs]]",
+                    "*[[Solve Math Problems]]",
+                    "*[[Do Well on Math Contests Like the AMC]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Find Amps]]"
+                ],
+                "removed": [
+                    "*[[Do Common Electrical Repairs|How to Do Common Electrical Repairs]]",
+                    "*[[Solve Math Problems|How to Solve Math Problems]]",
+                    "*[[Do Well on Math Contests Like the AMC|How to Do Well on Math Contests Like the AMC]]",
+                    "*[[Make a Circuit|How to Make a Circuit]]",
+                    "*[[Find Amps|How to Find Amps]]"
+                ]
+            }
+        },
+        {
+            "id": "18658841",
+            "user": "Wikivisual",
+            "timestamp": "18:01, 15 October 2015",
+            "anon": false,
+            "size": "(11,820 bytes)",
+            "change": 1163,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.[[Image:Determine Amperage of Circuit Breaker Step 1 Version 2.jpg|center]]",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.[[Image:Determine Amperage of Circuit Breaker Step 2 Version 2.jpg|center]]",
+                    "#Understand double-pole breakers. Some high-voltage devices may be wired to a double-pole circuit breaker — two standard circuit breakers sharing a handle. Do ''not'' add together the amperage of the two breakers. This circuit will still be tripped by the amperage displayed on one circuit breaker handle.[[Image:Determine Amperage of Circuit Breaker Step 3 Version 2.jpg|center]]",
+                    "<span id=\"calculate\"></span>[[Image:Determine Amperage of Circuit Breaker Step 4 Version 2.jpg|center]]",
+                    "#Find the wattage of a device. Pick any device attached to the circuit you're investigating. Find the wattage (W) listed on the data plate — usually on the back or underside of the device. This is the maximum power rating of the device, which can be used to calculate amperage.[[Image:Determine Amperage of Circuit Breaker Step 5 Version 2.jpg|center]]",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[http://www.wikihow.com/Use-a-Multimeter#Measuring_Voltage_sub||measure the voltage]] using a multimeter.[[Image:Determine Amperage of Circuit Breaker Step 6.jpg|center]]",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.[[Image:Determine Amperage of Circuit Breaker Step 7.jpg|center]]",
+                    "#Repeat for each device on the circuit. Perform the same calculation for each other device on the circuit, or at least the ones with the highest wattage. Write down each answer next to the name of the device.[[Image:Determine Amperage of Circuit Breaker Step 8.jpg|center]]",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.[[Image:Determine Amperage of Circuit Breaker Step 9.jpg|center]]",
+                    "#Add additional amperages. On top of the continuous amperage, add the amperage of other devices that might be on at the same time. If any combination gets above 100% of the circuit breaker's rating, it will trip the circuit. You can solve this by moving a device to a different circuit, or by remembering not to use high-power devices at the same time.[[Image:Determine Amperage of Circuit Breaker Step 10.jpg|center]]",
+                    "#Measure amperage directly with a clamp multimeter (optional). A clamp multimeter (or clamp ammeter) has a pair of \"jaws\" at the top that close shut to encircle a wire. When set to measure amps, the device will display the number of amps running through that wire.<ref>https://www.youtube.com/watch?v=ar7qkMHKw40</ref> To test a circuit, expose the wire leading to the load side of a circuit breaker. With the clamp multimeter set up as described, have a friend turn on other devices in the house. If the device is on the same circuit, you will see the amperage display increase.[[Image:Determine Amperage of Circuit Breaker Step 11.jpg|center]]",
+                    "#Look for the data plate. All appliances should have a data plate with electrical information. Look on the back or underside of the device, or check the product manual. The information on this plate will help you determine how many amperes the device draws, and therefore the rating you will need for the circuit breaker.[[Image:Determine Amperage of Circuit Breaker Step 12.jpg|center]]",
+                    "#Check the device's voltage rating. The amperage drawn depends on the voltage of your electrical circuit. The intended voltage (V) of the device should be listed so you can confirm that it matches your electrical system. If the device can run at two different voltages, it will usually list two values like this: 110V/240V. In this example, if you were running the device on a 110 volt supply, you would ''only'' refer to the first number listed on each line.[[Image:Determine Amperage of Circuit Breaker Step 13.jpg|center]]",
+                    "#Look for the FLA. This is the number of amps the motor will draw at the rated horsepower. In the United States, if this device will be left on for more than three hours, the circuit breaker should be rated at 125% of this value. (Multiply the FLA by 1.25.) This allows for additional load due to other factors, mainly heat.<ref>http://ecmweb.com/basics/sizing-circuit-breaker?page=1</ref>[[Image:Determine Amperage of Circuit Breaker Step 14.jpg|center]]",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.[[Image:Determine Amperage of Circuit Breaker Step 15.jpg|center]]",
+                    "#Take other devices into account. If multiple devices are running on the same circuit, add them together as follows:[[Image:Determine Amperage of Circuit Breaker Step 16.jpg|center]]",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units. The Minimum Circuit Amperage tells you the minimum wire size necessary for safety. The Maximum Overdraft Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>[[Image:Determine Amperage of Circuit Breaker Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.",
+                    "#Understand double-pole breakers. Some high-voltage devices may be wired to a double-pole circuit breaker — two standard circuit breakers sharing a handle. Do ''not'' add together the amperage of the two breakers. This circuit will still be tripped by the amperage displayed on one circuit breaker handle.",
+                    "<span id=\"calculate\"></span>",
+                    "#Find the wattage of a device. Pick any device attached to the circuit you're investigating. Find the wattage (W) listed on the data plate — usually on the back or underside of the device. This is the maximum power rating of the device, which can be used to calculate amperage.",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[http://www.wikihow.com/Use-a-Multimeter#Measuring_Voltage_sub||measure the voltage]] using a multimeter.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.",
+                    "#Repeat for each device on the circuit. Perform the same calculation for each other device on the circuit, or at least the ones with the highest wattage. Write down each answer next to the name of the device.",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.",
+                    "#Add additional amperages. On top of the continuous amperage, add the amperage of other devices that might be on at the same time. If any combination gets above 100% of the circuit breaker's rating, it will trip the circuit. You can solve this by moving a device to a different circuit, or by remembering not to use high-power devices at the same time.",
+                    "#Measure amperage directly with a clamp multimeter (optional). A clamp multimeter (or clamp ammeter) has a pair of \"jaws\" at the top that close shut to encircle a wire. When set to measure amps, the device will display the number of amps running through that wire.<ref>https://www.youtube.com/watch?v=ar7qkMHKw40</ref> To test a circuit, expose the wire leading to the load side of a circuit breaker. With the clamp multimeter set up as described, have a friend turn on other devices in the house. If the device is on the same circuit, you will see the amperage display increase.",
+                    "#Look for the data plate. All appliances should have a data plate with electrical information. Look on the back or underside of the device, or check the product manual. The information on this plate will help you determine how many amperes the device draws, and therefore the rating you will need for the circuit breaker.",
+                    "#Check the device's voltage rating. The amperage drawn depends on the voltage of your electrical circuit. The intended voltage (V) of the device should be listed so you can confirm that it matches your electrical system. If the device can run at two different voltages, it will usually list two values like this: 110V/240V. In this example, if you were running the device on a 110 volt supply, you would ''only'' refer to the first number listed on each line.",
+                    "#Look for the FLA. This is the number of amps the motor will draw at the rated horsepower. In the United States, if this device will be left on for more than three hours, the circuit breaker should be rated at 125% of this value. (Multiply the FLA by 1.25.) This allows for additional load due to other factors, mainly heat.<ref>http://ecmweb.com/basics/sizing-circuit-breaker?page=1</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.",
+                    "#Take other devices into account. If multiple devices are running on the same circuit, add them together as follows:",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units. The Minimum Circuit Amperage tells you the minimum wire size necessary for safety. The Maximum Overdraft Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>"
+                ]
+            }
+        },
+        {
+            "id": "18540135",
+            "user": "Myles_Schaller",
+            "timestamp": "00:45, 30 September 2015",
+            "anon": false,
+            "size": "(10,657 bytes)",
+            "change": 7943,
+            "summary": "(expanding)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Each circuit breaker has a specific rated amperage, or amount of current. When that amperage is exceeded, the circuit breaker shuts down the flow of current to prevent damage to the wiring. Learn how to calculate the actual amperage of the current and compare it to the rated amperage, so you can avoid unnecessary power interruptions.",
+                    "",
+                    "===Finding the Amperage Rating of a Circuit Breaker===",
+                    "#Examine the electric panel. Each circuit breaker should have its amperage marked on the handle. This is the maximum amperage that circuit can take before the circuit breaker trips.",
+                    "#*In the United States, standard household circuits are rated for 15 amps, or 20 amps for newer homes and high-load circuits.",
+                    "#Multiply the amperage by 0'''.8'''. For everyday use, it's a good idea to expose the breaker to a maximum of 80% of the rated amperage. It's fine to exceed this for short periods of time, but continuous current above this amount could trip the breaker.",
+                    "#*Your electrical panel might have a note about the breakers operating at 100% of the rated value. If it does, you may skip this step.",
+                    "#Understand double-pole breakers. Some high-voltage devices may be wired to a double-pole circuit breaker — two standard circuit breakers sharing a handle. Do ''not'' add together the amperage of the two breakers. This circuit will still be tripped by the amperage displayed on one circuit breaker handle.",
+                    "#Compare this to the current on the circuit. Now you know how much amperage your circuit breaker can handle. To find out whether your circuit exceeds this amperage, continue on to the next method.",
+                    "<span id=\"calculate\"></span>",
+                    "===Finding the Amperage Draw in a Circuit===",
+                    "#Find the wattage of a device. Pick any device attached to the circuit you're investigating. Find the wattage (W) listed on the data plate — usually on the back or underside of the device. This is the maximum power rating of the device, which can be used to calculate amperage.",
+                    "#*Some devices will list the amperage directly, often labeled FLA. If it does, [[#ampdata|skip down to the next section]] to interpret that rating.",
+                    "#Check the voltage on the circuit. For household circuits, you can usually assume your house follows the voltage standards of your country. (For example, 120V in the US, or around 230V for most of the EU.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>) If you think you are working with an exception, [[http://www.wikihow.com/Use-a-Multimeter#Measuring_Voltage_sub||measure the voltage]] using a multimeter.",
+                    "#Divide the wattage by the voltage. The answer will be the amperage the device draws on your circuit. For example, a 150 watt device on a 120 volt circuit will draw 150 ÷ 120 = 1.25 amps.",
+                    "#Repeat for each device on the circuit. Perform the same calculation for each other device on the circuit, or at least the ones with the highest wattage. Write down each answer next to the name of the device.",
+                    "#Add the amperages of devices that are always running. Take the continuously running devices, or the devices that run for more than a couple hours at a time. Add their amperages together. If the result is more than 80% of your circuit breaker's rated amperage, plug one of the devices into an outlet on a different circuit.",
+                    "#Add additional amperages. On top of the continuous amperage, add the amperage of other devices that might be on at the same time. If any combination gets above 100% of the circuit breaker's rating, it will trip the circuit. You can solve this by moving a device to a different circuit, or by remembering not to use high-power devices at the same time.",
+                    "#*Electrical circuits never operate perfectly. Some of the energy is lost to heat, and devices may draw more current to make up for this. Waste is low in most household circuits (below 10%), but it is still possible to trip the breaker if the amperage on paper is slightly below the breaker rating.<ref>http://www.abcb.gov.au/~/media/Files/Download%20Documents/Archived/Major%20Initiatives/Energy%20Efficiency/Multi-Residential%20Commercial%20and%20Public%20Buildings/Pdf/31227%20Power%20Factor%20Correction%20Evaluation.pdf</ref>",
+                    "#Measure amperage directly with a clamp multimeter (optional). A clamp multimeter (or clamp ammeter) has a pair of \"jaws\" at the top that close shut to encircle a wire. When set to measure amps, the device will display the number of amps running through that wire.<ref>https://www.youtube.com/watch?v=ar7qkMHKw40</ref> To test a circuit, expose the wire leading to the load side of a circuit breaker. With the clamp multimeter set up as described, have a friend turn on other devices in the house. If the device is on the same circuit, you will see the amperage display increase.",
+                    "#*Do not attempt this unless you have electrician's gloves and a basic understanding of electrical safety. These wires are live and can be very dangerous.",
+                    "",
+                    "<span id=\"ampdata\"></span>",
+                    "===Reading a Device's Amperage Rating===",
+                    "#Look for the data plate. All appliances should have a data plate with electrical information. Look on the back or underside of the device, or check the product manual. The information on this plate will help you determine how many amperes the device draws, and therefore the rating you will need for the circuit breaker.",
+                    "#*This section covers devices that list the amperage directly on the data plate, which should include all appliances with a motor. If your device only lists wattage (W), [[#calculate|calculate the amperage from that value]].",
+                    "#*This is not an appropriate method to determine safety features to protect the motor itself.<ref>http://ecmweb.com/nec/motor-calculations</ref> The circuit breaker protects the wiring of the electrical supply.",
+                    "#*High-power devices such as air conditioning units and ovens are best installed by a trained electrician.",
+                    "#Check the device's voltage rating. The amperage drawn depends on the voltage of your electrical circuit. The intended voltage (V) of the device should be listed so you can confirm that it matches your electrical system. If the device can run at two different voltages, it will usually list two values like this: 110V/240V. In this example, if you were running the device on a 110 volt supply, you would ''only'' refer to the first number listed on each line.",
+                    "#*Most electrical codes allow a ± 5% tolerance for the voltage (or slightly more).<ref>http://www.pge.com/includes/docs/pdfs/mybusiness/customerservice/energystatus/powerquality/voltage_tolerance.pdf</ref><ref>https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/293405/05-1410-electrical-supply-tolerances-and-appliance-safety.pdf</ref> Do not run a device on a voltage supply outside this range.",
+                    "#*Household outlets in the US and some other countries are on a 120V standard. Most of the world uses 220–240V.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Look for the FLA. This is the number of amps the motor will draw at the rated horsepower. In the United States, if this device will be left on for more than three hours, the circuit breaker should be rated at 125% of this value. (Multiply the FLA by 1.25.) This allows for additional load due to other factors, mainly heat.<ref>http://ecmweb.com/basics/sizing-circuit-breaker?page=1</ref>",
+                    "#*This value may also be listed as full load amperage, running amps, rated amp, or just amps.<ref>http://c03.apogee.net/contentplayer/?coursetype=md&utilityid=elpaso&id=12592</ref>",
+                    "#*Some circuit breakers are rated to 100% of the listed amperage, meaning you can skip the 125% calculation. This information will be clearly listed on the circuit breaker electrical panel if you have this type of breaker.<ref>http://www.schneider-electric.us/documents/support/codes-and-standards/circuit-breaker-markings-iaei.pdf</ref>",
+                    "#Check the LRA. The LRA, or locked rotor amps, is the amount of current drawn when the motor is not turning. This is required to start the motor, and can be much higher than the FLA.<ref>http://franklinaid.com/tag/locked-rotor-amps/</ref> Modern circuit breakers are designed to allow this brief surge of current. If your circuit breaker is rated high enough for the FLA but still trips when the device is plugged in, it could be a faulty breaker, or just an old model. Move the device with high LRA to another circuit or have an electrician inspect your wiring.",
+                    "#*Do not confuse this with the RLA, a value listed on air conditioner units.",
+                    "#Take other devices into account. If multiple devices are running on the same circuit, add them together as follows:",
+                    "#*If your circuit breaker is rated at 100%, just add all of the amperages together.",
+                    "#*If your circuit breaker is rated at 80% or you do not know its rating, add the amperages of all devices running for more than three hours at a time and multiply by 1.25. Add to the result the amperage of all devices running for shorter periods of time.",
+                    "#*In either case, if the answer exceeds the circuit breaker amperage, move a device to another circuit.",
+                    "#Use the MCA and MOP ratings for an air conditioning unit. These values are rarely listed except in North American air conditioning units. The Minimum Circuit Amperage tells you the minimum wire size necessary for safety. The Maximum Overdraft Protection is the highest circuit breaker amperage allowable. When in doubt, use the MOP value when choosing a circuit breaker to avoid unnecessary breaker tripping.<ref>http://www.apcmedia.com/salestools/KSIH-6Y6UU5/KSIH-6Y6UU5_R0_EN.pdf?sdirect=true</ref>",
+                    "#*These values are often surprising if you do not have HVAC experience, and are further complicated by new technologies that allow for lower amperage than MOP implies. Consider hiring a professional if you are not experienced in the area.",
+                    "*The circuit breaker amperage is also limited by the gauge and material of the attached wire. To prevent a hazardous setup, follow electrical safety codes (such as the NEC in the US).<ref>http://ecmweb.com/code-basics/article-240-overcurrent-protection</ref> The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, or it will not be under warranty.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "Determine the current draw of the circuit.",
+                    "Do a little simple math.",
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|center]]",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|center]]",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|center]]",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|center]]",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits.[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|center]]",
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value.",
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ]
+            }
+        },
+        {
+            "id": "18037920",
+            "user": "MiscBot",
+            "timestamp": "17:24, 28 July 2015",
+            "anon": false,
+            "size": "(2,714 bytes)",
+            "change": -70,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Tyler Timler",
+            "exact_contribution": {
+                "added": [
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|center]]",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|center]]",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|center]]",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|center]]",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits.[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''<br><br>[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|center|550px]]",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|center|550px]]",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|center|550px]]",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|center|550px]]",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17909378",
+            "user": "InterwikiBot",
+            "timestamp": "20:59, 24 July 2015",
+            "anon": false,
+            "size": "(2,784 bytes)",
+            "change": -157,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:determinar el amperaje de un interruptor (disyuntor)]]",
+                    "[[it:Determinare l'Amperaggio di un Interruttore]]",
+                    "[[pt:Determinar a Amperagem de um Disjuntor]]"
+                ]
+            }
+        },
+        {
+            "id": "13909269",
+            "user": "Votebot",
+            "timestamp": "17:57, 12 June 2014",
+            "anon": false,
+            "size": "(2,941 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value.",
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ],
+                "removed": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "13618438",
+            "user": "InterwikiBot",
+            "timestamp": "17:17, 15 May 2014",
+            "anon": false,
+            "size": "(2,941 bytes)",
+            "change": 46,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Determinar a Amperagem de um Disjuntor]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13273481",
+            "user": "Votebot",
+            "timestamp": "17:20, 11 April 2014",
+            "anon": false,
+            "size": "(2,895 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "13152394",
+            "user": "InterwikiBot",
+            "timestamp": "02:23, 1 April 2014",
+            "anon": false,
+            "size": "(2,895 bytes)",
+            "change": 51,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Determinare l'Amperaggio di un Interruttore]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12635395",
+            "user": "Votebot",
+            "timestamp": "20:38, 8 February 2014",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "12339049",
+            "user": "Votebot",
+            "timestamp": "18:01, 8 January 2014",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "12050615",
+            "user": "Votebot",
+            "timestamp": "18:23, 9 December 2013",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "11898113",
+            "user": "Votebot",
+            "timestamp": "17:34, 24 November 2013",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ]
+            }
+        },
+        {
+            "id": "11558743",
+            "user": "Votebot",
+            "timestamp": "21:36, 26 October 2013",
+            "anon": false,
+            "size": "(2,847 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10935778",
+            "user": "Votebot",
+            "timestamp": "17:13, 27 August 2013",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ],
+                "removed": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ]
+            }
+        },
+        {
+            "id": "10751695",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "16:18, 8 August 2013",
+            "anon": false,
+            "size": "(2,844 bytes)",
+            "change": 6,
+            "summary": "(Updating old title link to reflect current article redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Solve Math Problems|How to Solve Math Problems]]"
+                ],
+                "removed": [
+                    "*[[Do Math Problems|How to Do Math Problems]]"
+                ]
+            }
+        },
+        {
+            "id": "10706606",
+            "user": "MiscBot",
+            "timestamp": "01:51, 7 August 2013",
+            "anon": false,
+            "size": "(2,838 bytes)",
+            "change": -14,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Tyler Timler",
+            "exact_contribution": {
+                "added": [
+                    "Determine the current draw of the circuit."
+                ],
+                "removed": [
+                    "{{nointroimg}}Determine the current draw of the circuit."
+                ]
+            }
+        },
+        {
+            "id": "10605634",
+            "user": "Votebot",
+            "timestamp": "15:41, 28 July 2013",
+            "anon": false,
+            "size": "(2,852 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ],
+                "removed": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ]
+            }
+        },
+        {
+            "id": "10512775",
+            "user": "Wikiphoto",
+            "timestamp": "23:43, 18 July 2013",
+            "anon": false,
+            "size": "(2,852 bytes)",
+            "change": 14,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}Determine the current draw of the circuit."
+                ],
+                "removed": [
+                    "Determine the current draw of the circuit."
+                ]
+            }
+        },
+        {
+            "id": "10507243",
+            "user": "Wikiphoto",
+            "timestamp": "12:26, 18 July 2013",
+            "anon": false,
+            "size": "(2,838 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''<br><br>[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|center|550px]]",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|center|550px]]",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|center|550px]]",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|center|550px]]",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits.<br><br>[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|right|300px]]'''Find the data plate or label on the device you are trying to connect or wire.'''",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|right|300px]]'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|right|300px]]'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|right|300px]]'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|right|300px]]'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits."
+                ]
+            }
+        },
+        {
+            "id": "10507242",
+            "user": "Wikiphoto",
+            "timestamp": "12:26, 18 July 2013",
+            "anon": false,
+            "size": "(2,792 bytes)",
+            "change": 350,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 1.jpg|right|300px]]'''Find the data plate or label on the device you are trying to connect or wire.'''",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 2.jpg|right|300px]]'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 3.jpg|right|300px]]'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 4.jpg|right|300px]]'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#[[Image:Determine Amperage of Circuit Breaker Step 5.jpg|right|300px]]'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits."
+                ],
+                "removed": [
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits."
+                ]
+            }
+        },
+        {
+            "id": "10464733",
+            "user": "Votebot",
+            "timestamp": "16:51, 13 July 2013",
+            "anon": false,
+            "size": "(2,442 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ],
+                "removed": [
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ]
+            }
+        },
+        {
+            "id": "9004035",
+            "user": "Votebot",
+            "timestamp": "17:31, 11 January 2013",
+            "anon": false,
+            "size": "(2,442 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ]
+            }
+        },
+        {
+            "id": "8405279",
+            "user": "WikiHow Traduce",
+            "timestamp": "00:10, 10 September 2012",
+            "anon": false,
+            "size": "(2,442 bytes)",
+            "change": 60,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:determinar el amperaje de un interruptor (disyuntor)]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7995907",
+            "user": "Dartmouthmusic",
+            "timestamp": "21:21, 27 June 2012",
+            "anon": false,
+            "size": "(2,382 bytes)",
+            "change": -55,
+            "summary": "(Edit via Quality Guardian: Removed image that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Determine the current draw of the circuit."
+                ],
+                "removed": [
+                    "[[Image:SC5832 Circuit Breakers.jpg|thumb|right|251px]]Determine the current draw of the circuit."
+                ]
+            }
+        },
+        {
+            "id": "7993104",
+            "user": "Genius_knight",
+            "timestamp": "10:57, 27 June 2012",
+            "anon": false,
+            "size": "(2,437 bytes)",
+            "change": 56,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:SC5832 Circuit Breakers.jpg|thumb|right|251px]]Determine the current draw of the circuit.",
+                    ""
+                ],
+                "removed": [
+                    "Determine the current draw of the circuit."
+                ]
+            }
+        },
+        {
+            "id": "7559208",
+            "user": "Ttrimm",
+            "timestamp": "02:45, 8 April 2012",
+            "anon": false,
+            "size": "(2,381 bytes)",
+            "change": 32,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Find Amps|How to Find Amps]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7042374",
+            "user": "BR",
+            "timestamp": "11:26, 24 December 2011",
+            "anon": false,
+            "size": "(2,349 bytes)",
+            "change": -61,
+            "summary": "(Reverted edits by Kirstie Younger (Talk); changed back to last version by Stevecon)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Determine the current draw of the circuit."
+                ],
+                "removed": [
+                    "[[Image:Circuit Breakers in Brugge 1.jpg|thumb|right|251px]]Determine the current draw of the circuit.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "7042182",
+            "user": "Kirstie Younger",
+            "timestamp": "09:17, 24 December 2011",
+            "anon": false,
+            "size": "(2,410 bytes)",
+            "change": 61,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Circuit Breakers in Brugge 1.jpg|thumb|right|251px]]Determine the current draw of the circuit.",
+                    ""
+                ],
+                "removed": [
+                    "Determine the current draw of the circuit."
+                ]
+            }
+        },
+        {
+            "id": "6573857",
+            "user": "Stevecon",
+            "timestamp": "17:23, 31 August 2011",
+            "anon": false,
+            "size": "(2,349 bytes)",
+            "change": 314,
+            "summary": "(→‎Warnings:  80% rule)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the circuit breaker's rating by .8 to determine 80% of the rating (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps).  Do not connect loads that exceed this 80% calculated value."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6573842",
+            "user": "Stevecon",
+            "timestamp": "17:20, 31 August 2011",
+            "anon": false,
+            "size": "(2,035 bytes)",
+            "change": -244,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amps. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits."
+                ],
+                "removed": [
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amp with #14 copper wire. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits with #12 copper wire.  Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the value by .8 (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps)."
+                ]
+            }
+        },
+        {
+            "id": "6573838",
+            "user": "Stevecon",
+            "timestamp": "17:18, 31 August 2011",
+            "anon": false,
+            "size": "(2,279 bytes)",
+            "change": 72,
+            "summary": "(→‎Steps:   bolding)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "#'''Find the data plate or label on the device you are trying to connect or wire.'''",
+                    "#'''Find the section labeled FLA or LRA''', this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#'''Determine current in amps.'''  Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps. This is the approximate amperage the device requires.",
+                    "#'''Derate the circuit'''. Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#'''Install circuit breaker to meets that size.''' If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amp with #14 copper wire. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits with #12 copper wire.  Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the value by .8 (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps)."
+                ],
+                "removed": [
+                    "#Find the data plate or label on the device you are trying to connect or wire.",
+                    "#Find the section labeled FLA or LRA, this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps",
+                    "#The result is the approximate amperage the device requires.",
+                    "#Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#Install circuit breaker to meets that size. If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amp with #14 copper wire. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits with #12 copper wire.  Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the value by .8 (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps)."
+                ]
+            }
+        },
+        {
+            "id": "6573828",
+            "user": "Stevecon",
+            "timestamp": "17:16, 31 August 2011",
+            "anon": false,
+            "size": "(2,207 bytes)",
+            "change": 812,
+            "summary": "(→‎Steps:  additional info, definitions, calculations and examples.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "#Find the data plate or label on the device you are trying to connect or wire.",
+                    "#Find the section labeled FLA or LRA, this is the \"full load amp\" or \"locked rotor amp\" (motor operated devices) rating, respectively. In many instances, the load will be expressed in watts or kilowatts (kW), ie: 4500 watts or 4.5kW.",
+                    "#Divide the wattage by the voltage of the circuit, in North America usually 120 or 240, ie: An electric water heater 4500w / 240v = 18.75 amps",
+                    "#The result is the approximate amperage the device requires.",
+                    "#Multiply by 1.25, the National Electrical code requires protection at %125, ie: 18.75 x 1.25 = 23.43 amp circuit.",
+                    "#Install circuit breaker to meets that size. If such a size is not available, choose the next standard size up, ie: 23.43 = 30 amp circuit breaker or fuse.  Be sure to install wiring that will safely carry the current passed by the circuit breaker.  In the case of a water heater, #10 copper will handle 30 amps and should be used.  Standard 120 volt branch circuits like those for lighting require 15 amp with #14 copper wire. Appliance circuits, ie: kitchen and dining rooms require 20 amp circuits with #12 copper wire.  Conversely, you can determine the maximum current a circuit breaker can pass continuously by multiplying the value by .8 (a 15 amp breaker can pass 15 x .8 = 12 amps and a 20 amp is 20 x .8 = 16 amps)."
+                ],
+                "removed": [
+                    "#Find the data plate on the device you are trying to wire.",
+                    "#Find the section labeled FLA or LRA, this is the full load. In many instances, the load will be expressed in watts, IE 3800 watts FL.",
+                    "#Divide the wattage by the voltage of the circuit, in the USA usually 120 0r 240.",
+                    "#The result is the amperage the device draws.",
+                    "#Multiply by 1.25, the National Electrical code requires protection at %125.",
+                    "#Install circuit breaker to meet that size. Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp."
+                ]
+            }
+        },
+        {
+            "id": "2931031",
+            "user": "199.44.92.178",
+            "timestamp": "13:20, 29 December 2008",
+            "anon": true,
+            "size": "(1,395 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Determine the current draw of the circuit."
+                ],
+                "removed": [
+                    "Determine the current draw of the cicuit."
+                ]
+            }
+        },
+        {
+            "id": "2780636",
+            "user": "Flickety",
+            "timestamp": "06:05, 23 November 2008",
+            "anon": false,
+            "size": "(1,394 bytes)",
+            "change": -6,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Lighting and Fans]]"
+                ]
+            }
+        },
+        {
+            "id": "2630330",
+            "user": "Piro",
+            "timestamp": "16:33, 11 October 2008",
+            "anon": false,
+            "size": "(1,400 bytes)",
+            "change": 0,
+            "summary": "(→‎Warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the amperage. Minimum 14 gauge for 15 amp circuits and minimum 12 gauge for 20 amp circuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ],
+                "removed": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the ampacity. Minimum 14 guage for 15 amp circuits and minimum 12 guage for 20 amp citcuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ]
+            }
+        },
+        {
+            "id": "756855",
+            "user": "72.131.98.174",
+            "timestamp": "16:39, 26 May 2007",
+            "anon": true,
+            "size": "(1,400 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the ampacity. Minimum 14 guage for 15 amp circuits and minimum 12 guage for 20 amp citcuits. This is important. The NEC (National Electrical Code) is published by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ],
+                "removed": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the ampacity. Minimum 14 guage for 15 amp circuits and minimum 12 guage for 20 amp citcuits. This is important. The NEC (National Electrical Code) is written by the NFPA (National Fire Prevention Association) and that's not a coincidence!"
+                ]
+            }
+        },
+        {
+            "id": "707016",
+            "user": "207.118.147.138",
+            "timestamp": "23:59, 5 May 2007",
+            "anon": true,
+            "size": "(1,398 bytes)",
+            "change": 456,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure the wiring you are attaching to this circuit breaker is the right size to carry the ampacity. Minimum 14 guage for 15 amp circuits and minimum 12 guage for 20 amp citcuits. This is important. The NEC (National Electrical Code) is written by the NFPA (National Fire Prevention Association) and that's not a coincidence!",
+                    "== Related wikiHows ==",
+                    "*[[Do Common Electrical Repairs|How to Do Common Electrical Repairs]]",
+                    "*[[Do Math Problems|How to Do Math Problems]]",
+                    "*[[Do Well on Math Contests Like the AMC|How to Do Well on Math Contests Like the AMC]]",
+                    "*[[Make a Circuit|How to Make a Circuit]]"
+                ],
+                "removed": [
+                    "",
+                    "==Related wikiHows==",
+                    "*[[Do Common Electrical Repairs]]",
+                    "*[[Do Math Problems]]",
+                    "*[[Do Well on Math Contests Like the AMC]]",
+                    "*[[Make a Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "591371",
+            "user": "Wacky",
+            "timestamp": "11:30, 10 March 2007",
+            "anon": false,
+            "size": "(942 bytes)",
+            "change": 141,
+            "summary": "(Added Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Divide the wattage by the voltage of the circuit, in the USA usually 120 0r 240.",
+                    "",
+                    "==Related wikiHows==",
+                    "*[[Do Common Electrical Repairs]]",
+                    "*[[Do Math Problems]]",
+                    "*[[Do Well on Math Contests Like the AMC]]",
+                    "*[[Make a Circuit]]"
+                ],
+                "removed": [
+                    "#Devide the wattage by the voltage of the circuit, in the USA usually 120 0r 240."
+                ]
+            }
+        },
+        {
+            "id": "269267",
+            "user": "Tviren",
+            "timestamp": "17:34, 28 August 2006",
+            "anon": false,
+            "size": "(801 bytes)",
+            "change": -1,
+            "summary": "(new cat)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Lighting and Fans]]"
+                ],
+                "removed": [
+                    "[[Category:Home Improvements and Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "212227",
+            "user": "Tviren",
+            "timestamp": "20:44, 30 March 2006",
+            "anon": false,
+            "size": "(802 bytes)",
+            "change": 10,
+            "summary": "(recat)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Home Improvements and Repairs]]",
+                    "#Find the data plate on the device you are trying to wire.",
+                    "#Find the section labeled FLA or LRA, this is the full load. In many instances, the load will be expressed in watts, IE 3800 watts FL.",
+                    "#Devide the wattage by the voltage of the circuit, in the USA usually 120 0r 240.",
+                    "#The result is the amperage the device draws.",
+                    "#Multiply by 1.25, the National Electrical code requires protection at %125.",
+                    "#Install circuit breaker to meet that size. Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp.",
+                    "*Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ],
+                "removed": [
+                    "[[Category:Other]]",
+                    "#  Find the data plate on the device you are trying to wire.",
+                    "#  Find the section labeled FLA or LRA, this is the full load. In many instances, the load will be expressed in watts, IE 3800 watts FL.",
+                    "#  Devide the wattage by the voltage of the circuit, in the USA usually 120 0r 240.",
+                    "#  The result is the amperage the device draws.",
+                    "#  Multiply by 1.25, the National Electrical code requires protection at %125.",
+                    "#  Install circuit breaker to meet that size. Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp.",
+                    "*  Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ]
+            }
+        },
+        {
+            "id": "108100",
+            "user": "Benrubes",
+            "timestamp": "02:42, 5 February 2006",
+            "anon": false,
+            "size": "(792 bytes)",
+            "change": 6,
+            "summary": "(cat; formatting)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Other]]",
+                    "#  Find the section labeled FLA or LRA, this is the full load. In many instances, the load will be expressed in watts, IE 3800 watts FL.",
+                    "#  Multiply by 1.25, the National Electrical code requires protection at %125.",
+                    "#  Install circuit breaker to meet that size. Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp."
+                ],
+                "removed": [
+                    "#  Find the section labeled FLA or LRA, this is the full load.",
+                    "#  In a lot of instances the load will be expressed in watts, IE 3800 watts FL.",
+                    "#  Now multiply by 1.25, the Nationel Electrical code requires protection at %125.",
+                    "#  Install circuit breaker to meet that size.",
+                    "#  Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp."
+                ]
+            }
+        },
+        {
+            "id": "81978",
+            "user": "66.37.243.151",
+            "timestamp": "00:01, 5 February 2006",
+            "anon": true,
+            "size": "(786 bytes)",
+            "change": 786,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Determine the current draw of the cicuit.",
+                    "Do a little simple math.",
+                    "== Steps ==",
+                    "#  Find the data plate on the device you are trying to wire.",
+                    "#  Find the section labeled FLA or LRA, this is the full load.",
+                    "#  In a lot of instances the load will be expressed in watts, IE 3800 watts FL.",
+                    "#  Devide the wattage by the voltage of the circuit, in the USA usually 120 0r 240.",
+                    "#  The result is the amperage the device draws.",
+                    "#  Now multiply by 1.25, the Nationel Electrical code requires protection at %125.",
+                    "#  Install circuit breaker to meet that size.",
+                    "#  Standard branch circuits like lighting require 15 amp. Appliance circuits, IE kitchen, require 20 amp.",
+                    "",
+                    "== Warnings ==",
+                    "*  Be sure you use a circuit breaker that is the same brand as the panel box you are installing, otherwise no warranty."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,2353 @@
+{
+    "title": "Make-a-Parallel-Circuit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:18:01.799768",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34120574",
+            "user": "Votebot",
+            "timestamp": "10:17, 3 March 2026",
+            "anon": false,
+            "size": "(7,763 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "34089209",
+            "user": "MiscBot",
+            "timestamp": "18:07, 19 February 2026",
+            "anon": false,
+            "size": "(7,764 bytes)",
+            "change": -197,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "34073238",
+            "user": "MiscBot",
+            "timestamp": "00:52, 19 February 2026",
+            "anon": false,
+            "size": "(7,961 bytes)",
+            "change": 198,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34057308",
+            "user": "MiscBot",
+            "timestamp": "17:38, 18 February 2026",
+            "anon": false,
+            "size": "(7,763 bytes)",
+            "change": -198,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "32800441",
+            "user": "Bhoimus",
+            "timestamp": "07:33, 23 September 2024",
+            "anon": false,
+            "size": "(7,961 bytes)",
+            "change": -14,
+            "summary": "(RCP reverted edits by 217.165.138.71 (talk) to  revision #32077287 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up to make either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up to make either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and '''oke,oke",
+                    "'''is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "32800375",
+            "user": "217.165.138.71",
+            "timestamp": "07:09, 23 September 2024",
+            "anon": true,
+            "size": "(7,975 bytes)",
+            "change": 14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bhoimus",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up to make either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and '''oke,oke",
+                    "'''is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up to make either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "32077287",
+            "user": "Votebot",
+            "timestamp": "09:46, 17 November 2023",
+            "anon": false,
+            "size": "(7,961 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus",
+            "exact_contribution": {
+                "added": [
+                    "*Don't use high voltages and amperes without proper protection."
+                ],
+                "removed": [
+                    "*Don't use high voltages and amperes without proper protection."
+                ]
+            }
+        },
+        {
+            "id": "28334903",
+            "user": "Votebot",
+            "timestamp": "09:44, 3 July 2020",
+            "anon": false,
+            "size": "(7,961 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus",
+            "exact_contribution": {
+                "added": [
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one."
+                ],
+                "removed": [
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one."
+                ]
+            }
+        },
+        {
+            "id": "27688708",
+            "user": "24.162.134.107",
+            "timestamp": "23:00, 5 February 2020",
+            "anon": true,
+            "size": "(7,961 bytes)",
+            "change": 3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up to make either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "27571995",
+            "user": "R2_d2000",
+            "timestamp": "22:23, 8 January 2020",
+            "anon": false,
+            "size": "(7,958 bytes)",
+            "change": 7935,
+            "summary": "(Reverted edits by 199.101.63.179 (Talk); changed back to last version by Leviticus)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. You can make a parallel circuit with light bulbs (you'll need 2); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. Use aluminum foil as your conductor to build this type of parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#*Cut the foil into 4 narrow strips: 2 {{convert|8|in|cm|abbr=on}} pieces, and 2 {{convert|4|in|cm|abbr=on}} pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the {{convert|8|in|cm|abbr=on}} strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other {{convert|8|in|cm|abbr=on}} strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the 2 shorter {{convert|4|in|cm|abbr=on}} strips and wrap one end of each around the long strip coming off the positive terminal. Place one {{convert|4|in|cm|abbr=on}} strip near the top of the strip, and the other about {{convert|3|in|cm}} down toward the battery.<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your 2 light bulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the 2 light bulbs against the {{convert|8|in|cm|abbr=on}} strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method for a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least 2 loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Use a 9-volt battery as the power source.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty ({{convert|30-40|in|cm}} should do it).",
+                    "#*For the load, use light bulbs or flashlight bulbs.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between {{convert|6-8|in|cm}} will be fine).",
+                    "#*Carefully remove approximately {{convert|1/2|in|cm}} of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach 1 of the wires to the positive terminal of the battery and wind the other end around the left side of 1 of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch.[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb.[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb.[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap 1 end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__METHODS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Make-a-Parallel-Circuit}}"
+                ],
+                "removed": [
+                    "Do Not Use This Article"
+                ]
+            }
+        },
+        {
+            "id": "27571986",
+            "user": "199.101.63.179",
+            "timestamp": "22:20, 8 January 2020",
+            "anon": true,
+            "size": "(23 bytes)",
+            "change": -7935,
+            "summary": "(Replacing page with 'Do Not Use This Article')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "R2_d2000",
+            "exact_contribution": {
+                "added": [
+                    "Do Not Use This Article"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. You can make a parallel circuit with light bulbs (you'll need 2); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. Use aluminum foil as your conductor to build this type of parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#*Cut the foil into 4 narrow strips: 2 {{convert|8|in|cm|abbr=on}} pieces, and 2 {{convert|4|in|cm|abbr=on}} pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the {{convert|8|in|cm|abbr=on}} strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other {{convert|8|in|cm|abbr=on}} strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the 2 shorter {{convert|4|in|cm|abbr=on}} strips and wrap one end of each around the long strip coming off the positive terminal. Place one {{convert|4|in|cm|abbr=on}} strip near the top of the strip, and the other about {{convert|3|in|cm}} down toward the battery.<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your 2 light bulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the 2 light bulbs against the {{convert|8|in|cm|abbr=on}} strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method for a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least 2 loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Use a 9-volt battery as the power source.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty ({{convert|30-40|in|cm}} should do it).",
+                    "#*For the load, use light bulbs or flashlight bulbs.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between {{convert|6-8|in|cm}} will be fine).",
+                    "#*Carefully remove approximately {{convert|1/2|in|cm}} of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach 1 of the wires to the positive terminal of the battery and wind the other end around the left side of 1 of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch.[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb.[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb.[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap 1 end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__METHODS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Make-a-Parallel-Circuit}}"
+                ]
+            }
+        },
+        {
+            "id": "26745979",
+            "user": "Leviticus",
+            "timestamp": "14:14, 1 July 2019",
+            "anon": false,
+            "size": "(7,958 bytes)",
+            "change": 48,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "R2_d2000",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26687125",
+            "user": "Geo Maria George",
+            "timestamp": "04:48, 17 June 2019",
+            "anon": false,
+            "size": "(7,910 bytes)",
+            "change": -46,
+            "summary": "(Edit via Quality Guardian: Removed video that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}"
+                ]
+            }
+        },
+        {
+            "id": "26686936",
+            "user": "Gabriella Calderon",
+            "timestamp": "02:46, 17 June 2019",
+            "anon": false,
+            "size": "(7,956 bytes)",
+            "change": 7953,
+            "summary": "(RCP reverted edits by 219.88.224.243 (talk) to  revision #26672804 by WikiHow Expert Review)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. You can make a parallel circuit with light bulbs (you'll need 2); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. Use aluminum foil as your conductor to build this type of parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#*Cut the foil into 4 narrow strips: 2 {{convert|8|in|cm|abbr=on}} pieces, and 2 {{convert|4|in|cm|abbr=on}} pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the {{convert|8|in|cm|abbr=on}} strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other {{convert|8|in|cm|abbr=on}} strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the 2 shorter {{convert|4|in|cm|abbr=on}} strips and wrap one end of each around the long strip coming off the positive terminal. Place one {{convert|4|in|cm|abbr=on}} strip near the top of the strip, and the other about {{convert|3|in|cm}} down toward the battery.<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your 2 light bulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the 2 light bulbs against the {{convert|8|in|cm|abbr=on}} strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method for a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least 2 loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Use a 9-volt battery as the power source.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty ({{convert|30-40|in|cm}} should do it).",
+                    "#*For the load, use light bulbs or flashlight bulbs.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between {{convert|6-8|in|cm}} will be fine).",
+                    "#*Carefully remove approximately {{convert|1/2|in|cm}} of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach 1 of the wires to the positive terminal of the battery and wind the other end around the left side of 1 of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch.[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb.[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb.[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap 1 end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__METHODS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Make-a-Parallel-Circuit}}"
+                ],
+                "removed": [
+                    "j n"
+                ]
+            }
+        },
+        {
+            "id": "26686933",
+            "user": "219.88.224.243",
+            "timestamp": "02:45, 17 June 2019",
+            "anon": true,
+            "size": "(3 bytes)",
+            "change": -7953,
+            "summary": "(Replacing page with 'j n')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Gabriella Calderon",
+            "exact_contribution": {
+                "added": [
+                    "j n"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. You can make a parallel circuit with light bulbs (you'll need 2); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. Use aluminum foil as your conductor to build this type of parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#*Cut the foil into 4 narrow strips: 2 {{convert|8|in|cm|abbr=on}} pieces, and 2 {{convert|4|in|cm|abbr=on}} pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the {{convert|8|in|cm|abbr=on}} strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other {{convert|8|in|cm|abbr=on}} strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the 2 shorter {{convert|4|in|cm|abbr=on}} strips and wrap one end of each around the long strip coming off the positive terminal. Place one {{convert|4|in|cm|abbr=on}} strip near the top of the strip, and the other about {{convert|3|in|cm}} down toward the battery.<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your 2 light bulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the 2 light bulbs against the {{convert|8|in|cm|abbr=on}} strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method for a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least 2 loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Use a 9-volt battery as the power source.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty ({{convert|30-40|in|cm}} should do it).",
+                    "#*For the load, use light bulbs or flashlight bulbs.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between {{convert|6-8|in|cm}} will be fine).",
+                    "#*Carefully remove approximately {{convert|1/2|in|cm}} of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach 1 of the wires to the positive terminal of the battery and wind the other end around the left side of 1 of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch.[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb.[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb.[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap 1 end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__METHODS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Make-a-Parallel-Circuit}}"
+                ]
+            }
+        },
+        {
+            "id": "26672804",
+            "user": "WikiHow Expert Review",
+            "timestamp": "23:49, 12 June 2019",
+            "anon": false,
+            "size": "(7,956 bytes)",
+            "change": -273,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Gabriella Calderon",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*If the circuit consists a red wire and a black wire, never connect the red wire to the positive terminal and the black wire to the negative terminal. Otherwise battery will leak or the circuit will not work or to burn the circuit making sparks fly around the environment."
+                ]
+            }
+        },
+        {
+            "id": "26313293",
+            "user": "MiscBot",
+            "timestamp": "04:33, 29 March 2019",
+            "anon": false,
+            "size": "(8,229 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25796748",
+            "user": "Christy17",
+            "timestamp": "14:50, 22 December 2018",
+            "anon": false,
+            "size": "(8,238 bytes)",
+            "change": -1,
+            "summary": "(RCP reverted edits by 183.83.170.206 (talk) to  revision #25100689 by Seymour Edits)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devsices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "25796739",
+            "user": "183.83.170.206",
+            "timestamp": "14:47, 22 December 2018",
+            "anon": true,
+            "size": "(8,239 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Christy17",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devsices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "25100689",
+            "user": "Seymour Edits",
+            "timestamp": "13:15, 18 August 2018",
+            "anon": false,
+            "size": "(8,238 bytes)",
+            "change": 142,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Christy17",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Make-a-Parallel-Circuit}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "25067566",
+            "user": "KernelPone",
+            "timestamp": "00:04, 13 August 2018",
+            "anon": false,
+            "size": "(8,096 bytes)",
+            "change": -55,
+            "summary": "(RCP reverted edits by 115.70.218.249 (talk) to  revision #24450177 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    ""
+                ],
+                "removed": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.",
+                    "'''hi my name is amina khan :)'''",
+                    "",
+                    "[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "hellooooooooooooooo"
+                ]
+            }
+        },
+        {
+            "id": "25067480",
+            "user": "115.70.218.249",
+            "timestamp": "23:37, 12 August 2018",
+            "anon": true,
+            "size": "(8,151 bytes)",
+            "change": 6,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "'''hi my name is amina khan :)'''"
+                ],
+                "removed": [
+                    "hi my name is amina khan :)"
+                ]
+            }
+        },
+        {
+            "id": "25067479",
+            "user": "115.70.218.249",
+            "timestamp": "23:37, 12 August 2018",
+            "anon": true,
+            "size": "(8,145 bytes)",
+            "change": -6,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "hi my name is amina khan :)",
+                    ""
+                ],
+                "removed": [
+                    "'''''''hi my name is amina khan :)"
+                ]
+            }
+        },
+        {
+            "id": "25067477",
+            "user": "115.70.218.249",
+            "timestamp": "23:36, 12 August 2018",
+            "anon": true,
+            "size": "(8,151 bytes)",
+            "change": -17,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "hellooooooooooooooo"
+                ],
+                "removed": [
+                    "''hi'''''",
+                    "'''Place bold text here'''"
+                ]
+            }
+        },
+        {
+            "id": "25067476",
+            "user": "115.70.218.249",
+            "timestamp": "23:35, 12 August 2018",
+            "anon": true,
+            "size": "(8,168 bytes)",
+            "change": 19,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "'''''''hi my name is amina khan :)",
+                    "''hi'''''",
+                    "'''Place bold text here'''"
+                ],
+                "removed": [
+                    "hi my name is amina khan",
+                    "",
+                    "hi my name is amina khan",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "25067466",
+            "user": "115.70.218.249",
+            "timestamp": "23:32, 12 August 2018",
+            "anon": true,
+            "size": "(8,149 bytes)",
+            "change": 27,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.",
+                    "hi my name is amina khan",
+                    "",
+                    "[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "25067462",
+            "user": "115.70.218.249",
+            "timestamp": "23:31, 12 August 2018",
+            "anon": true,
+            "size": "(8,122 bytes)",
+            "change": 26,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "KernelPone",
+            "exact_contribution": {
+                "added": [
+                    "hi my name is amina khan"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24450177",
+            "user": "Votebot",
+            "timestamp": "09:09, 27 April 2018",
+            "anon": false,
+            "size": "(8,096 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bhoimus",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24410026",
+            "user": "WikiHow Expert Review",
+            "timestamp": "19:44, 19 April 2018",
+            "anon": false,
+            "size": "(8,094 bytes)",
+            "change": 66,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Gabriella Calderon",
+            "exact_contribution": {
+                "added": [
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. You can make a parallel circuit with light bulbs (you'll need 2); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. Use aluminum foil as your conductor to build this type of parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#*Cut the foil into 4 narrow strips: 2 {{convert|8|in|cm|abbr=on}} pieces, and 2 {{convert|4|in|cm|abbr=on}} pieces. They should be narrow, about the width of a drinking straw.",
+                    "#*Take one of the {{convert|8|in|cm|abbr=on}} strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other {{convert|8|in|cm|abbr=on}} strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the 2 shorter {{convert|4|in|cm|abbr=on}} strips and wrap one end of each around the long strip coming off the positive terminal. Place one {{convert|4|in|cm|abbr=on}} strip near the top of the strip, and the other about {{convert|3|in|cm}} down toward the battery.<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your 2 light bulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#*Place the ends of the 2 light bulbs against the {{convert|8|in|cm|abbr=on}} strip of foil that is attached to the negative terminal of the battery.",
+                    "#Choose this method for a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least 2 loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Use a 9-volt battery as the power source.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty ({{convert|30-40|in|cm}} should do it).",
+                    "#*For the load, use light bulbs or flashlight bulbs.",
+                    "#*Cut the wire into five pieces (between {{convert|6-8|in|cm}} will be fine).",
+                    "#*Carefully remove approximately {{convert|1/2|in|cm}} of the insulation from both ends of all your wire pieces.",
+                    "#Connect the first lightbulb to the battery. Attach 1 of the wires to the positive terminal of the battery and wind the other end around the left side of 1 of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap 1 end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#* Cut the foil into four narrow strips: two 8\" pieces, and two 4\" pieces. They should be narrow, about the width of a drinking straw.",
+                    "#*Take one of the 8\" strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other 8\" strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the two shorter, 4\"  strips and wrap one end of each around the long strip coming off the positive terminal. (Place one 4\"  strip near the top of the strip, and the other about three inches down towards the battery.)<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your two lightbulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#*Place the ends of the two lightbulbs against the 8\" strip of foil that is attached to the negative terminal of the battery.",
+                    "",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Our directions call for you to use a battery as your power source. A 9-volt battery will work well.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).",
+                    "#*Our plans use lightbulbs as the load of choice, but flashlight bulbs are also a good choice.",
+                    "#*Cut the wire into five pieces (between 6\" and 8\" will be fine).",
+                    "#*Carefully remove approximately ½\" of the insulation from both ends of all your wire pieces.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "23975489",
+            "user": "WikiHow Projects",
+            "timestamp": "02:12, 4 February 2018",
+            "anon": false,
+            "size": "(8,028 bytes)",
+            "change": -379,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. [[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch.[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb.[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb.[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23476308",
+            "user": "Aiosis",
+            "timestamp": "15:15, 30 October 2017",
+            "anon": false,
+            "size": "(8,407 bytes)",
+            "change": -163,
+            "summary": "(Reverted edits by 194.154.22.134 (Talk); changed back to last version by Aiosis)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it)."
+                ],
+                "removed": [
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+                ]
+            }
+        },
+        {
+            "id": "23476305",
+            "user": "194.154.22.134",
+            "timestamp": "15:15, 30 October 2017",
+            "anon": true,
+            "size": "(8,570 bytes)",
+            "change": 163,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+                ],
+                "removed": [
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it)."
+                ]
+            }
+        },
+        {
+            "id": "23476288",
+            "user": "Aiosis",
+            "timestamp": "15:14, 30 October 2017",
+            "anon": false,
+            "size": "(8,407 bytes)",
+            "change": 132,
+            "summary": "(Reverted edits by 194.154.22.134 (Talk); changed back to last version by CategoryGuardian)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Image:'''Example.jpg''']]When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a '''Parallel mnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23476285",
+            "user": "194.154.22.134",
+            "timestamp": "15:14, 30 October 2017",
+            "anon": true,
+            "size": "(8,275 bytes)",
+            "change": -132,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:'''Example.jpg''']]When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a '''Parallel mnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23426950",
+            "user": "CategoryGuardian",
+            "timestamp": "19:56, 21 October 2017",
+            "anon": false,
+            "size": "(8,407 bytes)",
+            "change": -30,
+            "summary": "(Removing category that seems to be a poor fit, based on votes from the Category Guardian)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis"
+        },
+        {
+            "id": "23379110",
+            "user": "SarahB",
+            "timestamp": "11:57, 13 October 2017",
+            "anon": false,
+            "size": "(8,437 bytes)",
+            "change": 8421,
+            "summary": "(Reverted edits by 5.150.115.235 (Talk); changed back to last version by SarahB)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "[[Category:Electrical Safety]]",
+                    "",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#* Cut the foil into four narrow strips: two 8\" pieces, and two 4\" pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the 8\" strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other 8\" strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the two shorter, 4\"  strips and wrap one end of each around the long strip coming off the positive terminal. (Place one 4\"  strip near the top of the strip, and the other about three inches down towards the battery.)<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your two lightbulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the two lightbulbs against the 8\" strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Our directions call for you to use a battery as your power source. A 9-volt battery will work well.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).",
+                    "#*Our plans use lightbulbs as the load of choice, but flashlight bulbs are also a good choice.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between 6\" and 8\" will be fine).",
+                    "#*Carefully remove approximately ½\" of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "*If the circuit consists a red wire and a black wire, never connect the red wire to the positive terminal and the black wire to the negative terminal. Otherwise battery will leak or the circuit will not work or to burn the circuit making sparks fly around the environment.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "Squirrels 4 life"
+                ]
+            }
+        },
+        {
+            "id": "23378701",
+            "user": "5.150.115.235",
+            "timestamp": "10:41, 13 October 2017",
+            "anon": true,
+            "size": "(16 bytes)",
+            "change": -20,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "Squirrels 4 life"
+                ],
+                "removed": [
+                    "Suck my cock",
+                    "- Florence Kevin Howell"
+                ]
+            }
+        },
+        {
+            "id": "23378694",
+            "user": "5.150.115.235",
+            "timestamp": "10:41, 13 October 2017",
+            "anon": true,
+            "size": "(36 bytes)",
+            "change": 0,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "- Florence Kevin Howell"
+                ],
+                "removed": [
+                    "- Benjamin Craig Hooper"
+                ]
+            }
+        },
+        {
+            "id": "23378682",
+            "user": "5.150.115.235",
+            "timestamp": "10:40, 13 October 2017",
+            "anon": true,
+            "size": "(36 bytes)",
+            "change": 24,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "- Benjamin Craig Hooper"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23378681",
+            "user": "5.150.115.235",
+            "timestamp": "10:40, 13 October 2017",
+            "anon": true,
+            "size": "(12 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "Suck my cock"
+                ],
+                "removed": [
+                    "Squirrels4life"
+                ]
+            }
+        },
+        {
+            "id": "23378679",
+            "user": "5.150.115.235",
+            "timestamp": "10:39, 13 October 2017",
+            "anon": true,
+            "size": "(14 bytes)",
+            "change": -8423,
+            "summary": "(Replacing page with 'Squirrels4life')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "Squirrels4life"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "[[Category:Electrical Safety]]",
+                    "",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#* Cut the foil into four narrow strips: two 8\" pieces, and two 4\" pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the 8\" strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other 8\" strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the two shorter, 4\"  strips and wrap one end of each around the long strip coming off the positive terminal. (Place one 4\"  strip near the top of the strip, and the other about three inches down towards the battery.)<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your two lightbulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the two lightbulbs against the 8\" strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Our directions call for you to use a battery as your power source. A 9-volt battery will work well.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).",
+                    "#*Our plans use lightbulbs as the load of choice, but flashlight bulbs are also a good choice.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between 6\" and 8\" will be fine).",
+                    "#*Carefully remove approximately ½\" of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "*If the circuit consists a red wire and a black wire, never connect the red wire to the positive terminal and the black wire to the negative terminal. Otherwise battery will leak or the circuit will not work or to burn the circuit making sparks fly around the environment.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ]
+            }
+        },
+        {
+            "id": "23321263",
+            "user": "SarahB",
+            "timestamp": "18:29, 3 October 2017",
+            "anon": false,
+            "size": "(8,437 bytes)",
+            "change": -63,
+            "summary": "(Reverted edits by Hfejek (Talk); changed back to last version by 203.215.117.62)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Safety]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Safety]]",
+                    "Make sure to stay safe when operating electrical devices!😉"
+                ]
+            }
+        },
+        {
+            "id": "23321230",
+            "user": "Hfejek",
+            "timestamp": "18:23, 3 October 2017",
+            "anon": false,
+            "size": "(8,500 bytes)",
+            "change": 63,
+            "summary": "(Nothing just added a safety tip)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Safety]]",
+                    "Make sure to stay safe when operating electrical devices!😉"
+                ],
+                "removed": [
+                    "[[Category:Electrical Safety]]"
+                ]
+            }
+        },
+        {
+            "id": "22456948",
+            "user": "203.215.117.62",
+            "timestamp": "00:44, 21 May 2017",
+            "anon": true,
+            "size": "(8,437 bytes)",
+            "change": 143,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "*The circuit will be easier with a battery connector/holder. This will help release the battery if it became old to replace it with a new one."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "22456901",
+            "user": "203.215.117.62",
+            "timestamp": "00:40, 21 May 2017",
+            "anon": true,
+            "size": "(8,294 bytes)",
+            "change": 273,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "*If the circuit consists a red wire and a black wire, never connect the red wire to the positive terminal and the black wire to the negative terminal. Otherwise battery will leak or the circuit will not work or to burn the circuit making sparks fly around the environment."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "21854471",
+            "user": "SarahB",
+            "timestamp": "14:59, 13 February 2017",
+            "anon": false,
+            "size": "(8,021 bytes)",
+            "change": 7998,
+            "summary": "(Reverted edits by 50.201.130.82 (Talk); changed back to last version by SarahB)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "[[Category:Electrical Safety]]",
+                    "",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#* Cut the foil into four narrow strips: two 8\" pieces, and two 4\" pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the 8\" strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other 8\" strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the two shorter, 4\"  strips and wrap one end of each around the long strip coming off the positive terminal. (Place one 4\"  strip near the top of the strip, and the other about three inches down towards the battery.)<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your two lightbulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the two lightbulbs against the 8\" strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Our directions call for you to use a battery as your power source. A 9-volt battery will work well.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).",
+                    "#*Our plans use lightbulbs as the load of choice, but flashlight bulbs are also a good choice.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between 6\" and 8\" will be fine).",
+                    "#*Carefully remove approximately ½\" of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "deez nuts"
+                ]
+            }
+        },
+        {
+            "id": "21854106",
+            "user": "50.201.130.82",
+            "timestamp": "14:32, 13 February 2017",
+            "anon": true,
+            "size": "(23 bytes)",
+            "change": 11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "deez nuts"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "21854101",
+            "user": "50.201.130.82",
+            "timestamp": "14:31, 13 February 2017",
+            "anon": true,
+            "size": "(12 bytes)",
+            "change": -8009,
+            "summary": "(Replacing page with ' __METHODS__')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works.",
+                    "",
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    "[[Category:Electrical Safety]]",
+                    "",
+                    "== Steps ==",
+                    "===Building a Simple Parallel Circuit with Aluminum Foil===",
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#*If you are making a parallel circuit as part of a lesson plan, it may help to have your students or child make a list of questions, predictions, and hypotheses about what they'll be observing.",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#* Cut the foil into four narrow strips: two 8\" pieces, and two 4\" pieces. They should be narrow, about the width of a drinking straw.",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#*Take one of the 8\" strips of foil and connect it to the positive terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Take the other 8\" strip and connect it to the negative terminal of the battery. <ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#*Take the two shorter, 4\"  strips and wrap one end of each around the long strip coming off the positive terminal. (Place one 4\"  strip near the top of the strip, and the other about three inches down towards the battery.)<ref>http://www.education.com/science-fair/article/parallel/</ref>",
+                    "#*Wrap the loose ends of the shorter strips around your two lightbulbs. You may find it helpful to secure the strips with electrical tape.",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#*Place the ends of the two lightbulbs against the 8\" strip of foil that is attached to the negative terminal of the battery.",
+                    "#*The lightbulbs should now shine brightly!",
+                    "",
+                    "===Building a Parallel Circuit with Wires and a Switch===",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#*For example, this method will require you to strip wires, but if you lack the necessary tools for this or don't want young ones performing this task, you may prefer to read the method explained above.",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#*Our directions call for you to use a battery as your power source. A 9-volt battery will work well.",
+                    "#*You'll be using insulated wire as your conducting material. Any kind will work, but copper-wire should be easy to find.",
+                    "#*You'll be cutting the wire into several pieces, so make sure you have plenty (30-40\" should do it).",
+                    "#*Our plans use lightbulbs as the load of choice, but flashlight bulbs are also a good choice.",
+                    "#*You should be able to find a switch (as well as all of the other materials) at any hardware or home improvement store.",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#*Cut the wire into five pieces (between 6\" and 8\" will be fine).",
+                    "#*Carefully remove approximately ½\" of the insulation from both ends of all your wire pieces.",
+                    "#*Wire strippers are the best tool for removing insulation, but if you don't have these, scissors or wire-cutters will work; just be very careful not to damage the wires.",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Parallel Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*You may find it helpful to secure all of your connections with electrical tape.",
+                    "",
+                    "== Warnings ==",
+                    "*Be careful handling lightbulbs, as they are quite fragile.",
+                    "*When stripping the wire, be careful not to damage the wire. A wire-stripper is your best tool for this task.",
+                    "*Don't use high voltages and amperes without proper protection.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solve Parallel Circuits]]",
+                    "*[[Calculate Total Resistance in Circuits]]",
+                    "*[[Make a Circuit]]",
+                    "*[[Calculate Series and Parallel Resistance]]",
+                    "*[[Make a Voltage Divider Circuit]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}"
+                ]
+            }
+        },
+        {
+            "id": "21496901",
+            "user": "SarahB",
+            "timestamp": "16:55, 13 December 2016",
+            "anon": false,
+            "size": "(8,021 bytes)",
+            "change": 731,
+            "summary": "(Reverted edits by 168.212.126.118 (Talk); changed back to last version by Flickety)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ],
+                "removed": [
+                    "SUCK A DUCK"
+                ]
+            }
+        },
+        {
+            "id": "21496878",
+            "user": "168.212.126.118",
+            "timestamp": "16:50, 13 December 2016",
+            "anon": true,
+            "size": "(7,290 bytes)",
+            "change": -731,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "SUCK A DUCK"
+                ],
+                "removed": [
+                    "When connecting electrical devices to a power source, they can be hooked up into either a series circuit or a parallel circuit. In a parallel circuit, the electrical current flows along several paths, and each individual device is hooked up to its own circuit. The advantage to a parallel circuit is that if one device malfunctions, the flow of electricity will not stop, as it will in a series circuit. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref> Additionally, several devices can be hooked up to the power source at once, without decreasing the overall wattage output. Creating your own parallel circuit is simple, and is thus a great project to perform to be able to see for yourself how electricity works."
+                ]
+            }
+        },
+        {
+            "id": "21291695",
+            "user": "Flickety",
+            "timestamp": "23:09, 6 November 2016",
+            "anon": false,
+            "size": "(8,021 bytes)",
+            "change": 31,
+            "summary": "(Add relevant sub-cat)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB"
+        },
+        {
+            "id": "20621427",
+            "user": "Wikivisual",
+            "timestamp": "12:36, 20 July 2016",
+            "anon": false,
+            "size": "(7,990 bytes)",
+            "change": 130,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 3.jpg|center]]",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 3.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 3.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4 Version 2.jpg|center]]",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5 Version 2.jpg|center]]",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7 Version 2.jpg|center]]",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8 Version 2.jpg|center]]",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9 Version 2.jpg|center]]",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10 Version 2.jpg|center]]",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11 Version 2.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12 Version 2.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13 Version 2.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14 Version 2.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15 Version 2.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Consider the age and skill of those involved. Creating a parallel circuit is an excellent and easy experiment for students learning about electricity. This method of building a parallel circuit is excellent for younger students: they may have limited dexterity, and you may not want them to use sharp tools.[[Image:Make a Parallel Circuit Step 1 Version 2.jpg|center]]",
+                    "#Choose your power source. The cheapest and most convenient power source for your parallel circuit project is a battery. A 9-volt battery is an excellent choice.[[Image:Make a Parallel Circuit Step 2 Version 2.jpg|center]]",
+                    "#Choose your load. This is the item that you'll be hooking up to the power source. We'll describe making a parallel circuit with lightbulbs (you'll need two); flashlight bulbs are also a good choice.[[Image:Make a Parallel Circuit Step 3 Version 2.jpg|center]]",
+                    "#Prepare your conductors. You are using aluminum foil as your conductor in this method of building a parallel circuit. The foil will be used to connect the power source to the loads.[[Image:Make a Parallel Circuit Step 4.jpg|center]]",
+                    "#Connect the first of the conducting strips to the battery. You're now ready to start hooking up your parallel circuit.[[Image:Make a Parallel Circuit Step 5.jpg|center]]",
+                    "#Hook up your lightbulbs. You're now ready to connect your loads to the conducting material.[[Image:Make a Parallel Circuit Step 6.jpg|center]]",
+                    "#Complete the parallel circuit. Once you finish connecting all of the elements of the parallel circuit, your lightbulbs should glow.[[Image:Make a Parallel Circuit Step 7.jpg|center]]",
+                    "#Choose this method as a slightly advanced project. While creating a parallel circuit is not complicated, this method requires you to use wire and a switch; it may be suited for slightly older students.[[Image:Make a Parallel Circuit Step 8.jpg|center]]",
+                    "#Gather the main components of a parallel circuit. You don't need much to complete this project: You need a power source, a conducting material, at least two loads (the items which use electricity), and a switch.[[Image:Make a Parallel Circuit Step 9.jpg|center]]",
+                    "#Prepare your wires. The wire is your conducting material, which will create the circuits between the power source and your leads.[[Image:Make a Parallel Circuit Step 10.jpg|center]]",
+                    "#Connect the first lightbulb to the battery. Attach one of the wires to the positive terminal of the battery and wind the other end around the left side of one of the lightbulbs. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 11.jpg|center]]",
+                    "#Begin to connect the switch to the battery. Take a separate piece of wire and connect it to the negative terminal of the battery. Take the other end of the wire and connect it to the switch. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 12.jpg|center]]",
+                    "#Connect the switch to the first lightbulb. Using yet another piece of wire, connect it first to the switch, and then wind it around the right side of the first lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 13.jpg|center]]",
+                    "#Connect the second lightbulb. Take your fourth piece of wire and wind it around the left side of the first lightbulb, and then wind the other end around the left side of the second lightbulb. <ref>http://www.sciencefairadventure.com/Make_a_Parallel_Circuit.aspx</ref>[[Image:Make a Parallel Circuit Step 14.jpg|center]]",
+                    "#Complete the parallel circuit. Using your remaining piece of wire, wrap one end around the right side of the first lightbulb, and the other end around the right side of the second lightbulb.[[Image:Make a Parallel Circuit Step 15.jpg|center]]",
+                    "#Turn on the switch. Flip the switch, and you should see both bulbs light up. Congratulations—you successfully built a parallel circuit![[Image:Make a Parallel Circuit Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "20242379",
+            "user": "P code",
+            "timestamp": "23:47, 17 May 2016",
+            "anon": false,
+            "size": "(7,860 bytes)",
+            "change": -1,
+            "summary": "(RCP reverted edits by 161.0.159.63 (talk) to  revision #19954020 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "20242371",
+            "user": "161.0.159.63",
+            "timestamp": "23:44, 17 May 2016",
+            "anon": true,
+            "size": "(7,861 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "P code"
+        },
+        {
+            "id": "19954020",
+            "user": "Votebot",
+            "timestamp": "08:43, 5 April 2016",
+            "anon": false,
+            "size": "(7,860 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "19762647",
+            "user": "Votebot",
+            "timestamp": "09:43, 5 March 2016",
+            "anon": false,
+            "size": "(7,860 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "19572838",
+            "user": "Votebot",
+            "timestamp": "09:55, 3 February 2016",
+            "anon": false,
+            "size": "(7,860 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "19386424",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:24, 12 January 2016",
+            "anon": false,
+            "size": "(7,860 bytes)",
+            "change": -185,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "19305240",
+            "user": "SarahB",
+            "timestamp": "14:54, 8 January 2016",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 8045,
+            "summary": "(RCP reverted edits by 208.108.195.253 (talk) to  revision #19182151 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB"
+        },
+        {
+            "id": "19305071",
+            "user": "208.108.195.253",
+            "timestamp": "14:31, 8 January 2016",
+            "anon": true,
+            "size": "(empty)",
+            "change": -8045,
+            "summary": "(Removing all content from page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "SarahB"
+        },
+        {
+            "id": "19182151",
+            "user": "Votebot",
+            "timestamp": "09:42, 3 January 2016",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "18983812",
+            "user": "Votebot",
+            "timestamp": "09:43, 3 December 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "18814039",
+            "user": "WikiHowUser20220204205835",
+            "timestamp": "09:00, 8 November 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": -12,
+            "summary": "(RCP reverted edits by 49.147.114.115 (talk) to  revision #18486265 by Worldsgreatestnerd)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "18814014",
+            "user": "49.147.114.115",
+            "timestamp": "08:45, 8 November 2015",
+            "anon": true,
+            "size": "(8,057 bytes)",
+            "change": 12,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20220204205835"
+        },
+        {
+            "id": "18486265",
+            "user": "WikiHowUser20200421170915",
+            "timestamp": "12:06, 22 September 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 1,
+            "summary": "(RCP reverted edits by 212.28.244.221 (talk) to  revision #18411885 by Kenna18155)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "WikiHowUser20220204205835"
+        },
+        {
+            "id": "18485948",
+            "user": "212.28.244.221",
+            "timestamp": "10:50, 22 September 2015",
+            "anon": true,
+            "size": "(8,044 bytes)",
+            "change": -1,
+            "summary": "(Editing from step editor)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "WikiHowUser20200421170915"
+        },
+        {
+            "id": "18411885",
+            "user": "Kenna18155",
+            "timestamp": "00:24, 11 September 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 5,
+            "summary": "(RCP reverted edits by 121.54.44.94 (talk) to  revision #18350434 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "WikiHowUser20200421170915"
+        },
+        {
+            "id": "18411830",
+            "user": "121.54.44.94",
+            "timestamp": "00:13, 11 September 2015",
+            "anon": true,
+            "size": "(8,040 bytes)",
+            "change": -5,
+            "summary": "(Editing from step editor)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Kenna18155"
+        },
+        {
+            "id": "18350434",
+            "user": "Votebot",
+            "timestamp": "08:43, 1 September 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "17489948",
+            "user": "Votebot",
+            "timestamp": "12:40, 31 May 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "16990341",
+            "user": "Votebot",
+            "timestamp": "13:04, 30 March 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "16660498",
+            "user": "WikiHow Intern",
+            "timestamp": "07:37, 16 February 2015",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": -2,
+            "summary": "(fixing order)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "16543556",
+            "user": "GeekySonic",
+            "timestamp": "17:01, 4 February 2015",
+            "anon": false,
+            "size": "(8,047 bytes)",
+            "change": 8047,
+            "summary": "(RCP reverted edits by 81.145.129.115 (talk) to  revision #16265939 by Wikivisual)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "16541811",
+            "user": "81.145.129.115",
+            "timestamp": "13:10, 4 February 2015",
+            "anon": true,
+            "size": "(empty)",
+            "change": -8047,
+            "summary": "(Removing all content from page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "GeekySonic"
+        },
+        {
+            "id": "16265939",
+            "user": "Wikivisual",
+            "timestamp": "18:55, 31 December 2014",
+            "anon": false,
+            "size": "(8,047 bytes)",
+            "change": 780,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "GeekySonic"
+        },
+        {
+            "id": "16237941",
+            "user": "Votebot",
+            "timestamp": "14:12, 27 December 2014",
+            "anon": false,
+            "size": "(7,267 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "16187109",
+            "user": "Dr. Carrie",
+            "timestamp": "00:10, 19 December 2014",
+            "anon": false,
+            "size": "(7,268 bytes)",
+            "change": 5866,
+            "summary": "(significant expansion with multiple methods and additional sources, improved accuracy)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing"
+        },
+        {
+            "id": "15318244",
+            "user": "Naste Adrian",
+            "timestamp": "14:07, 10 September 2014",
+            "anon": false,
+            "size": "(1,402 bytes)",
+            "change": 48,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "13077274",
+            "user": "Wikiphoto",
+            "timestamp": "01:55, 25 March 2014",
+            "anon": false,
+            "size": "(1,354 bytes)",
+            "change": 19,
+            "summary": "(Removing intro images; Made final step out of former intro image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "13029077",
+            "user": "Wikiphoto",
+            "timestamp": "19:26, 19 March 2014",
+            "anon": false,
+            "size": "(1,335 bytes)",
+            "change": 28,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "13029076",
+            "user": "Wikiphoto",
+            "timestamp": "19:26, 19 March 2014",
+            "anon": false,
+            "size": "(1,307 bytes)",
+            "change": 164,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "12758324",
+            "user": "Serendipitee",
+            "timestamp": "23:06, 20 February 2014",
+            "anon": false,
+            "size": "(1,143 bytes)",
+            "change": 13,
+            "summary": "(change category to newly created category)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "12363139",
+            "user": "Chris H",
+            "timestamp": "00:27, 11 January 2014",
+            "anon": false,
+            "size": "(1,130 bytes)",
+            "change": 0,
+            "summary": "(Build a Parallel Circuit moved to Make a Parallel Circuit: more commonly searched)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "12127787",
+            "user": "112.207.151.223",
+            "timestamp": "02:34, 17 December 2013",
+            "anon": true,
+            "size": "(1,130 bytes)",
+            "change": -74,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "12127776",
+            "user": "112.207.151.223",
+            "timestamp": "02:33, 17 December 2013",
+            "anon": true,
+            "size": "(1,204 bytes)",
+            "change": 72,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "11574404",
+            "user": "Votebot",
+            "timestamp": "21:01, 27 October 2013",
+            "anon": false,
+            "size": "(1,132 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bhoimus"
+        },
+        {
+            "id": "9811131",
+            "user": "67.250.69.104",
+            "timestamp": "23:32, 5 May 2013",
+            "anon": true,
+            "size": "(1,131 bytes)",
+            "change": 10,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "8744424",
+            "user": "Sharli",
+            "timestamp": "18:46, 18 November 2012",
+            "anon": false,
+            "size": "(1,121 bytes)",
+            "change": 60,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "8728517",
+            "user": "BR",
+            "timestamp": "02:20, 15 November 2012",
+            "anon": false,
+            "size": "(1,061 bytes)",
+            "change": -3,
+            "summary": "(Reverted edits by 153.107.33.157 (Talk); changed back to last version by 70.124.61.223)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "8728110",
+            "user": "153.107.33.157",
+            "timestamp": "01:20, 15 November 2012",
+            "anon": true,
+            "size": "(1,064 bytes)",
+            "change": 3,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR"
+        },
+        {
+            "id": "7543504",
+            "user": "70.124.61.223",
+            "timestamp": "02:28, 5 April 2012",
+            "anon": true,
+            "size": "(1,061 bytes)",
+            "change": -7,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR"
+        },
+        {
+            "id": "7542766",
+            "user": "Ttrimm",
+            "timestamp": "00:28, 5 April 2012",
+            "anon": false,
+            "size": "(1,068 bytes)",
+            "change": 74,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7542764",
+            "user": "Ttrimm",
+            "timestamp": "00:28, 5 April 2012",
+            "anon": false,
+            "size": "(994 bytes)",
+            "change": 94,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7542761",
+            "user": "Ttrimm",
+            "timestamp": "00:28, 5 April 2012",
+            "anon": false,
+            "size": "(900 bytes)",
+            "change": 42,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7542759",
+            "user": "Ttrimm",
+            "timestamp": "00:28, 5 April 2012",
+            "anon": false,
+            "size": "(858 bytes)",
+            "change": 90,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7542757",
+            "user": "Ttrimm",
+            "timestamp": "00:28, 5 April 2012",
+            "anon": false,
+            "size": "(768 bytes)",
+            "change": 84,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7542656",
+            "user": "EpcotMagic",
+            "timestamp": "00:03, 5 April 2012",
+            "anon": false,
+            "size": "(684 bytes)",
+            "change": 36,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "7541057",
+            "user": "Redra10",
+            "timestamp": "17:42, 4 April 2012",
+            "anon": false,
+            "size": "(648 bytes)",
+            "change": 648,
+            "summary": "(Creating a new article (HTML5))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,249 @@
+{
+    "title": "Test-a-Light-Switch",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:51:11.774473",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "31794890",
+            "user": "Thomas_Ch",
+            "timestamp": "23:54, 18 July 2023",
+            "anon": false,
+            "size": "(7,886 bytes)",
+            "change": 309,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical maintenance, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Richard Taylor | interview}} with [v162392_b01].",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31745524",
+            "user": "Seymour Edits",
+            "timestamp": "20:36, 27 June 2023",
+            "anon": false,
+            "size": "(7,577 bytes)",
+            "change": 78,
+            "summary": "(Added Expert Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Place a lead wire on each terminal. It doesn’t matter which lead wire you place on which screw. Once you have the lead wires in place, you should have a completed circuit and your voltmeter should flash and/or beep.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>[[Image:Test a Light Switch Step 7.jpg|center]]",
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmmeters.”<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>[[Image:Test a Light Switch Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Place a lead wire on each terminal. It doesn’t matter which lead wire you place on which screw. Once you have the lead wires in place, you should have a completed circuit and your voltmeter should flash and/or beep.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>[[Image:Test a Light Switch Step 7.jpg|center]]",
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>[[Image:Test a Light Switch Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27504441",
+            "user": "Patrick Moore",
+            "timestamp": "14:37, 18 December 2019",
+            "anon": false,
+            "size": "(7,499 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>[[Image:Test a Light Switch Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>[[Image:Test a Light Switch Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27221715",
+            "user": "Votebot",
+            "timestamp": "10:17, 16 October 2019",
+            "anon": false,
+            "size": "(7,498 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    "* If your switch tests out ok but you continue to experience electrical difficulties, contact a professional electrician as this could indicate that there is a problem with the wiring in your home.",
+                    ""
+                ],
+                "removed": [
+                    "==Warnings==",
+                    "* If your switch tests out ok but you continue to experience electrical difficulties, contact a professional electrician as this could indicate that there is a problem with the wiring in your home."
+                ]
+            }
+        },
+        {
+            "id": "27018626",
+            "user": "Wikivisual",
+            "timestamp": "13:12, 2 September 2019",
+            "anon": false,
+            "size": "(7,495 bytes)",
+            "change": 517,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the power to the light switch. You do this by accessing the correct circuit breaker and switching it to the “off” position. Circuit breakers are usually found in basements or closets, behind an electrical panel door. If you’re lucky, your breakers are labeled so you can easily identify which circuits they each operate.<ref> https://www.youtube.com/watch?v=eNwz2BA-R98</ref>[[Image:Test a Light Switch Step 1.jpg|center]]",
+                    "#Remove the switch panel cover. Most light switches are covered by a decorative panel. You will need to remove this in order to access the switch. Remove the screws that hold the panel onto the wall. If the screws have one groove in the head, you’ll need to use a flat-head screwdriver to remove them. If they have something that looks like a star or cross on their head, you’ll need to use a Phillips-head screw driver.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>[[Image:Test a Light Switch Step 2.jpg|center]]",
+                    "#Test for live voltage before proceeding. Whenever you work with electricity, caution is important. Use a non-contact voltage tester to make sure you’ve shut the power off to your switch. These work simply by moving them around near the terminals of your switch.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>[[Image:Test a Light Switch Step 3.jpg|center]]",
+                    "#Pull the light switch from the wall. Once you’ve confirmed that there’s no electrical current in your switch you are ready to remove it. Your switch may be attached to a frame by screws which you’ll need to take out, or it may just be sitting up against the wall.[[Image:Test a Light Switch Step 4.jpg|center]]",
+                    "#Separate the switch from your house wires. Loosen any terminal and grounding screws with your screw driver. You want to loosen them just enough so that you can remove the wires that are attached.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>   [[Image:Test a Light Switch Step 5.jpg|center]]",
+                    "#Identify the terminal screws on your switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Light Switch Step 6.jpg|center]]",
+                    "#Place a lead wire on each terminal. It doesn’t matter which lead wire you place on which screw. Once you have the lead wires in place, you should have a completed circuit and your voltmeter should flash and/or beep.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>[[Image:Test a Light Switch Step 7.jpg|center]]",
+                    "#Interpret your test results. If you don’t get any response from the voltmeter, your switch is broken and will need to be replaced. If you do get a positive indication from your voltmeter that means your switch is working.[[Image:Test a Light Switch Step 8.jpg|center]]",
+                    "#Locate the terminal screws on the light switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.[[Image:Test a Light Switch Step 9.jpg|center]]",
+                    "#Place the terminal and lead wire on your terminal screws. Your tester will have a long metal terminal and a lead wire. Use these to complete a circuit with the switch. It doesn’t matter which screw touches the tester terminal and which one touches the lead wire. The main thing is to make sure you have completed the circuit.[[Image:Test a Light Switch Step 10.jpg|center]]",
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>[[Image:Test a Light Switch Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the power to the light switch. You do this by accessing the correct circuit breaker and switching it to the “off” position. Circuit breakers are usually found in basements or closets, behind an electrical panel door. If you’re lucky, your breakers are labeled so you can easily identify which circuits they each operate.<ref> https://www.youtube.com/watch?v=eNwz2BA-R98</ref>",
+                    "#Remove the switch panel cover. Most light switches are covered by a decorative panel. You will need to remove this in order to access the switch. Remove the screws that hold the panel onto the wall. If the screws have one groove in the head, you’ll need to use a flat-head screwdriver to remove them. If they have something that looks like a star or cross on their head, you’ll need to use a Phillips-head screw driver.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#Test for live voltage before proceeding. Whenever you work with electricity, caution is important. Use a non-contact voltage tester to make sure you’ve shut the power off to your switch. These work simply by moving them around near the terminals of your switch.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#Pull the light switch from the wall. Once you’ve confirmed that there’s no electrical current in your switch you are ready to remove it. Your switch may be attached to a frame by screws which you’ll need to take out, or it may just be sitting up against the wall.",
+                    "#Separate the switch from your house wires. Loosen any terminal and grounding screws with your screw driver. You want to loosen them just enough so that you can remove the wires that are attached.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#Identify the terminal screws on your switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Place a lead wire on each terminal. It doesn’t matter which lead wire you place on which screw. Once you have the lead wires in place, you should have a completed circuit and your voltmeter should flash and/or beep.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#Interpret your test results. If you don’t get any response from the voltmeter, your switch is broken and will need to be replaced. If you do get a positive indication from your voltmeter that means your switch is working.",
+                    "#Locate the terminal screws on the light switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.",
+                    "#Place the terminal and lead wire on your terminal screws. Your tester will have a long metal terminal and a lead wire. Use these to complete a circuit with the switch. It doesn’t matter which screw touches the tester terminal and which one touches the lead wire. The main thing is to make sure you have completed the circuit.",
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26340788",
+            "user": "MiscBot",
+            "timestamp": "07:10, 29 March 2019",
+            "anon": false,
+            "size": "(6,978 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25953942",
+            "user": "Christy17",
+            "timestamp": "14:40, 29 January 2019",
+            "anon": false,
+            "size": "(6,987 bytes)",
+            "change": 50,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "If you suspect that your light switch may be faulty, you can do a simple test to find out. Many people automatically shy away from electrical work and it can be dangerous, so it's worth hiring a professional electrician to do this for you. However, you can safely do this task yourself as long as you turn off the electricity to your switch before working on it. With a few simple tools and some basic safety precautions, you can troubleshoot your light switch.",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "If you suspect that your light switch may be faulty, you can do a simple test to find out. Many people automatically shy away from electrical work and it can be dangerous, so it's worth hiring a professional electrician to do this for you. However, you can safely do this task yourself as long as you turn off the electricity to your switch before working on it. With a few simple tools and some basic safety precautions, you can troubleshoot your light switch."
+                ]
+            }
+        },
+        {
+            "id": "25952495",
+            "user": "Or Gozal",
+            "timestamp": "05:20, 29 January 2019",
+            "anon": false,
+            "size": "(6,937 bytes)",
+            "change": 6937,
+            "summary": "(new trainee article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you suspect that your light switch may be faulty, you can do a simple test to find out. Many people automatically shy away from electrical work and it can be dangerous, so it's worth hiring a professional electrician to do this for you. However, you can safely do this task yourself as long as you turn off the electricity to your switch before working on it. With a few simple tools and some basic safety precautions, you can troubleshoot your light switch.",
+                    "==Steps==",
+                    "===Removing the Light Switch===",
+                    "#Turn off the power to the light switch. You do this by accessing the correct circuit breaker and switching it to the “off” position. Circuit breakers are usually found in basements or closets, behind an electrical panel door. If you’re lucky, your breakers are labeled so you can easily identify which circuits they each operate.<ref> https://www.youtube.com/watch?v=eNwz2BA-R98</ref>",
+                    "#*If you’re unfamiliar with how your circuits are wired, you can flip each breaker until you find the one that shuts off the circuit you need to access.",
+                    "#Remove the switch panel cover. Most light switches are covered by a decorative panel. You will need to remove this in order to access the switch. Remove the screws that hold the panel onto the wall. If the screws have one groove in the head, you’ll need to use a flat-head screwdriver to remove them. If they have something that looks like a star or cross on their head, you’ll need to use a Phillips-head screw driver.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#*Keep your screws and panel cover together and place them out of your way. Unless you’re replacing the cover, you’ll want to put these back on at some point.",
+                    "#Test for live voltage before proceeding. Whenever you work with electricity, caution is important. Use a non-contact voltage tester to make sure you’ve shut the power off to your switch. These work simply by moving them around near the terminals of your switch.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#*Wave the voltage tester all around the front and sides of the switch without making direct contact.",
+                    "#*If it beeps, you should stop working on the switch immediately and shut the power off before proceeding.",
+                    "#Pull the light switch from the wall. Once you’ve confirmed that there’s no electrical current in your switch you are ready to remove it. Your switch may be attached to a frame by screws which you’ll need to take out, or it may just be sitting up against the wall.",
+                    "#*Depending on how long it’s been there, you may have to apply a little elbow grease to pry the switch out of the wall.<ref> https://www.youtube.com/watch?v=I93nCsFfL4o</ref>",
+                    "#Separate the switch from your house wires. Loosen any terminal and grounding screws with your screw driver. You want to loosen them just enough so that you can remove the wires that are attached.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "===Testing Your Switch with a Voltmeter===",
+                    "#Identify the terminal screws on your switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*The most common switch will have two screws on one side, these are the electrical terminals.<ref>https://www.youtube.com/watch?v=zYk_kY7hk58</ref>",
+                    "#Place a lead wire on each terminal. It doesn’t matter which lead wire you place on which screw. Once you have the lead wires in place, you should have a completed circuit and your voltmeter should flash and/or beep.<ref>https://www.youtube.com/watch?v=qSAnXWiMyLg</ref>",
+                    "#*A voltmeter will have an indicator light, an alarm sound, or both. This will alert you when the unit’s two lead wires complete a circuit.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*Voltmeters generally require batteries to function.<ref>https://ask-the-electrician.com/testing-a-light-switch-2/</ref>",
+                    "#Interpret your test results. If you don’t get any response from the voltmeter, your switch is broken and will need to be replaced. If you do get a positive indication from your voltmeter that means your switch is working.",
+                    "#*If you continue having difficulties once your switch has passed the test, that could mean you have a bigger electrical problem in your home. Turn the power off to that circuit and call a professional electrician to do additional testing for you.",
+                    "===Testing Your Switch with a Continuity-Tester===",
+                    "#Locate the terminal screws on the light switch. These are the screws that attach your switch to the wiring in the wall. You will find these on the sides of the switch.",
+                    "#*The most common switch will have two screws on one side, these are the electrical terminals.<ref>https://www.youtube.com/watch?v=zYk_kY7hk58 </ref>",
+                    "#Place the terminal and lead wire on your terminal screws. Your tester will have a long metal terminal and a lead wire. Use these to complete a circuit with the switch. It doesn’t matter which screw touches the tester terminal and which one touches the lead wire. The main thing is to make sure you have completed the circuit.",
+                    "#*Once both pieces of the tester are in place, you should get a reading in the form of a flashing light, a beep, or digital readout with a positive number.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Interpret your results. Your tester will measure the resistance in an electrical circuit and will let you know if your circuit is broken. Since resistance is measured in ohms, these are sometimes called “ohmeters.”<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>",
+                    "#*If your continuity tester gives you a number at or very close to 0, that’s an indication that current cannot flow through your circuit and the switch is broken.<ref>https://www.youtube.com/watch?v=aLA1mH1Biao</ref>",
+                    "#*If you continue having difficulties once your switch has passed the test, that could mean you have a bigger electrical problem in your home. Turn the power off to that circuit and call a professional electrician to do additional testing for you.",
+                    "==Tips==",
+                    "* The most important thing when working with electricity is to make sure you turn the power off before you touch anything.",
+                    "==Warnings==",
+                    "* It’s important to make sure you can positively identify the correct circuit breaker for the switch in question. If you have difficulty, consult a professional electrician before proceeding.",
+                    "* If your switch tests out ok but you continue to experience electrical difficulties, contact a professional electrician as this could indicate that there is a problem with the wiring in your home.",
+                    "==Things You’ll Need==",
+                    "*Flat-head screwdriver",
+                    "*Phillips-head screwdriver",
+                    "*Voltmeter/continuity tester",
+                    "*Non-contact voltage tester",
+                    "*Needle-nose pliers",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

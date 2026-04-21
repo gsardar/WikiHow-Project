@@ -1,0 +1,871 @@
+{
+    "title": "Use-Soldering-Flux",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:12:08.689722",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33761651",
+            "user": "Votebot",
+            "timestamp": "08:58, 17 October 2025",
+            "anon": false,
+            "size": "(17,304 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ],
+                "removed": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ]
+            }
+        },
+        {
+            "id": "33726777",
+            "user": "MiscBot",
+            "timestamp": "11:02, 8 October 2025",
+            "anon": false,
+            "size": "(17,304 bytes)",
+            "change": -62,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Rosin-based flux consists of a distillation product from pine tree sap, dissolved in a suitable organic solvent."
+                ],
+                "removed": [
+                    "#*Rosin-based flux consists of a distillation product from pine tree sap, dissolved in a suitable organic solvent.<ref> http://soldering-irons.com/how-to-solder/use-flux/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "33617655",
+            "user": "Votebot",
+            "timestamp": "08:49, 16 August 2025",
+            "anon": false,
+            "size": "(17,366 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ],
+                "removed": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ]
+            }
+        },
+        {
+            "id": "33554418",
+            "user": "Votebot",
+            "timestamp": "08:51, 16 July 2025",
+            "anon": false,
+            "size": "(17,366 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Do not touch the tip of the soldering iron or the completed solder until it is completely cool."
+                ],
+                "removed": [
+                    "*Do not touch the tip of the soldering iron or the completed solder until it is completely cool."
+                ]
+            }
+        },
+        {
+            "id": "33223469",
+            "user": "MiscBot",
+            "timestamp": "20:07, 10 March 2025",
+            "anon": false,
+            "size": "(17,366 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32896704",
+            "user": "Hopedemi",
+            "timestamp": "22:13, 29 October 2024",
+            "anon": false,
+            "size": "(17,347 bytes)",
+            "change": 333,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about metalworking, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Jones Welding & Industrial Supply Company part 2 | interview}} with [v162393_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32846094",
+            "user": "Thomas_Ch",
+            "timestamp": "18:24, 9 October 2024",
+            "anon": false,
+            "size": "(17,014 bytes)",
+            "change": -333,
+            "summary": "(removed broken interview section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about metalworking, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Jones Welding & Industrial Supply Company part 2 | interview}} with [v162393_b01]."
+                ]
+            }
+        },
+        {
+            "id": "32645163",
+            "user": "Seymour Edits",
+            "timestamp": "22:45, 11 July 2024",
+            "anon": false,
+            "size": "(17,347 bytes)",
+            "change": 363,
+            "summary": "(Added AB treatment)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger<ref>[v162393_b01]. 1 June 2023.</ref>. Although it's safe when it's unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "",
+                    "==How to Apply Soldering Flux==",
+                    "Use a paintbrush to spread a small amount of flux over the area you’ll be soldering. Press your soldering gun into one side of the coated segment until the flux melts but isn’t bubbly. Poke the tip of the solder into the opposite side and hold until the flux is fully melted. Let the solder cool and harden."
+                ],
+                "removed": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger<ref>[v162393_b01]. 1 June 2023.</ref>. Although it's safe when it's unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer."
+                ]
+            }
+        },
+        {
+            "id": "32475891",
+            "user": "Votebot",
+            "timestamp": "08:51, 1 May 2024",
+            "anon": false,
+            "size": "(16,984 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ],
+                "removed": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ]
+            }
+        },
+        {
+            "id": "32462158",
+            "user": "WikiHow Horizon",
+            "timestamp": "14:37, 25 April 2024",
+            "anon": false,
+            "size": "(16,984 bytes)",
+            "change": -96,
+            "summary": "(Removing broken link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead, so it works much better for larger soldering projects. Ask for pipe or silvered solder at your local hardware store when working with pipes. [[Image:Use Soldering Flux Step 4.jpg|center]]"
+                ],
+                "removed": [
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead, so it works much better for larger soldering projects. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>[[Image:Use Soldering Flux Step 4.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32445093",
+            "user": "Seymour Edits",
+            "timestamp": "11:30, 18 April 2024",
+            "anon": false,
+            "size": "(17,080 bytes)",
+            "change": 172,
+            "summary": "(Replaced bad references for wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Use Soldering Flux Step 1.jpg|center]] Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://www.chemtronics.com/essential-guide-to-flux-for-soldering-electronics</ref>",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it better for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://www.chemtronics.com/essential-guide-to-flux-for-soldering-electronics</ref> Here are a few key differences in types of solder that may come up:[[Image:Use Soldering Flux Step 3.jpg|center]]",
+                    "#*Lead-free electrical solder will also work for small wiring projects. It is more environmentally-friendly as it doesn't contain lead, but also will not hold quite as strong.<ref>https://www.chemtronics.com/essential-guide-to-flux-for-soldering-electronics</ref>",
+                    "#*Some leaded solders will come with a rosin core. This means that they are slightly hollow and will have a thin line of rosin flux running through the middle. It will only be a small amount, so it shouldn't replace other flux, but it will increase the flux coating of your wires.<ref>https://www.chemtronics.com/essential-guide-to-flux-for-soldering-electronics</ref>"
+                ],
+                "removed": [
+                    "#  [[Image:Use Soldering Flux Step 1.jpg|center]] Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it better for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:[[Image:Use Soldering Flux Step 3.jpg|center]]",
+                    "#*Lead-free electrical solder will also work for small wiring projects. It is more environmentally-friendly as it doesn't contain lead, but also will not hold quite as strong.<ref>https://youtu.be/Zu3TYBs65FM?t=169</ref>",
+                    "#*Some leaded solders will come with a rosin core. This means that they are slightly hollow and will have a thin line of rosin flux running through the middle. It will only be a small amount, so it shouldn't replace other flux, but it will increase the flux coating of your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=187</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32440586",
+            "user": "WikiHow Horizon 2",
+            "timestamp": "17:37, 16 April 2024",
+            "anon": false,
+            "size": "(16,908 bytes)",
+            "change": 43,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Use Soldering Flux|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31783269",
+            "user": "Thomas_Ch",
+            "timestamp": "17:44, 13 July 2023",
+            "anon": false,
+            "size": "(16,865 bytes)",
+            "change": 333,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about metalworking, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Jones Welding & Industrial Supply Company part 2 | interview}} with [v162393_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31740219",
+            "user": "Seymour Edits",
+            "timestamp": "10:48, 26 June 2023",
+            "anon": false,
+            "size": "(16,532 bytes)",
+            "change": 38,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If you are using leaded solder, make sure to wash your hands once you have finished working with it as the lead is toxic<ref>[v162393_b01]. 1 June 2023.</ref>."
+                ],
+                "removed": [
+                    "#*If you are using leaded solder, make sure to wash your hands once you have finished working with it as the lead is toxic."
+                ]
+            }
+        },
+        {
+            "id": "31740215",
+            "user": "Seymour Edits",
+            "timestamp": "10:46, 26 June 2023",
+            "anon": false,
+            "size": "(16,494 bytes)",
+            "change": 38,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger<ref>[v162393_b01]. 1 June 2023.</ref>. Although it's safe when it's unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer."
+                ],
+                "removed": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it's safe when it's unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer."
+                ]
+            }
+        },
+        {
+            "id": "31740213",
+            "user": "Seymour Edits",
+            "timestamp": "10:45, 26 June 2023",
+            "anon": false,
+            "size": "(16,456 bytes)",
+            "change": 38,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Always work in a well-ventilated area when soldering<ref>[v162393_b01]. 1 June 2023.</ref>. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ],
+                "removed": [
+                    "*Always work in a well-ventilated area when soldering. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ]
+            }
+        },
+        {
+            "id": "30782219",
+            "user": "LittleJennyWren",
+            "timestamp": "12:25, 15 August 2022",
+            "anon": false,
+            "size": "(16,418 bytes)",
+            "change": 2,
+            "summary": "(Quick edit while patrolling, formatting picture)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Use Soldering Flux Step 1.jpg|center]] Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#*Many kinds of solder wire used for soldering in electronics come with their core already filled with rosin flux."
+                ],
+                "removed": [
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#*Many kinds of solder wire used for soldering in electronics come with their core already filled with rosin flux. [[Image:Use Soldering Flux Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30782082",
+            "user": "WikiHow Horizon",
+            "timestamp": "11:31, 15 August 2022",
+            "anon": false,
+            "size": "(16,416 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Many kinds of solder wire used for soldering in electronics come with their core already filled with rosin flux. [[Image:Use Soldering Flux Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "#*Many kinds of solder wire used for soldering in electronics come with their core already filled with rosin flux.",
+                    "",
+                    "",
+                    "[[Image:Use Soldering Flux Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30657819",
+            "user": "Sini Saja",
+            "timestamp": "21:08, 27 June 2022",
+            "anon": false,
+            "size": "(16,418 bytes)",
+            "change": 442,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#*Rosin-based flux consists of a distillation product from pine tree sap, dissolved in a suitable organic solvent.<ref> http://soldering-irons.com/how-to-solder/use-flux/</ref>",
+                    "#*This kind of flux is solid at room temperature. Heating with soldering iron causes rosin flux to liquefy and become slightly chemically active.",
+                    "#*Many kinds of solder wire used for soldering in electronics come with their core already filled with rosin flux.",
+                    "",
+                    "",
+                    "[[Image:Use Soldering Flux Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>[[Image:Use Soldering Flux Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29197294",
+            "user": "Kendzir1",
+            "timestamp": "22:08, 10 February 2021",
+            "anon": false,
+            "size": "(15,976 bytes)",
+            "change": 105,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If the solder doesn't run into the joint and forms small beads that roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. The pipe may have also been heated too much or too little, which will also cause the solder to bead off. Wait until the pipes are cooled, disconnect them and start again."
+                ],
+                "removed": [
+                    "#*If the solder doesn't run into the joint and forms small beads that roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again."
+                ]
+            }
+        },
+        {
+            "id": "28659087",
+            "user": "HelperOnWikihow",
+            "timestamp": "17:02, 25 September 2020",
+            "anon": false,
+            "size": "(15,871 bytes)",
+            "change": -76,
+            "summary": "(RCP reverted edits by Manoj Kumar Raghav (talk) to  revision #27410749 by Seymour Edits)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*Soldering flux"
+                ],
+                "removed": [
+                    "*[Soldering flux]https://smtinsight.com/what-is-flux-used-for-how-to-use-flux-in-soldering/"
+                ]
+            }
+        },
+        {
+            "id": "28659062",
+            "user": "Manoj Kumar Raghav",
+            "timestamp": "16:50, 25 September 2020",
+            "anon": false,
+            "size": "(15,947 bytes)",
+            "change": 76,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HelperOnWikihow",
+            "exact_contribution": {
+                "added": [
+                    "*[Soldering flux]https://smtinsight.com/what-is-flux-used-for-how-to-use-flux-in-soldering/"
+                ],
+                "removed": [
+                    "*Soldering flux"
+                ]
+            }
+        },
+        {
+            "id": "27410749",
+            "user": "Seymour Edits",
+            "timestamp": "19:07, 25 November 2019",
+            "anon": false,
+            "size": "(15,871 bytes)",
+            "change": 137,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HelperOnWikihow",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-Soldering-Flux}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27040704",
+            "user": "ExoticComet",
+            "timestamp": "06:55, 6 September 2019",
+            "anon": false,
+            "size": "(15,734 bytes)",
+            "change": -26,
+            "summary": "(improving apostrophe consistency)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it's safe when it's unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#*Always keep your soldering iron in a stand while it is on. The tip will get very hot, so it shouldn't be allowed to rest on any surfaces as this may start a fire. Don't leave your soldering iron unattended while you are using it.",
+                    "#*Getting the perfect temperature with a blowtorch may take more practice than when working with a soldering iron. If the flux you are working with begins smoldering and turns black, it's a sign you are using too much heat. If the solder doesn't melt when touched to pipes, you might not be using enough. Keep practicing until you get a sense of the right way to work.",
+                    "#*Soldering flux is only corrosive once it is heated up and in its liquid form. As long as it is still a paste when you start working with it, you don't need to worry about getting any on your skin.",
+                    "#Clean the area that you'll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more sturdy connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 12.jpg|center]]",
+                    "#*Any type of flux that you have will work when soldering pipes together. Acid flux will be more corrosive, but may damage pipes that are too fragile. Tinning flux will help hold your pipes together more strongly, but may be more difficult to find or more expensive. If you're unsure, ask at your local hardware store for advice on the best type of flux to use for the job you're working on.",
+                    "#*If the solder doesn't run into the joint and forms small beads that roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again.",
+                    "#*It's easier to reach around the back side of the pipe if you bend a small hook in the solder wire before you begin soldering.",
+                    "==Things You'll Need=="
+                ],
+                "removed": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#*Always keep your soldering iron in a stand while it is on. The tip will get very hot, so it shouldn’t be allowed to rest on any surfaces as this may start a fire. Don’t leave your soldering iron unattended while you are using it.",
+                    "#*Getting the perfect temperature with a blowtorch may take more practice than when working with a soldering iron. If the flux you are working with begins smoldering and turns black, it’s a sign you are using too much heat. If the solder doesn’t melt when touched to pipes, you might not be using enough. Keep practicing until you get a sense of the right way to work.",
+                    "#*Soldering flux is only corrosive once it is heated up and in its liquid form. As long as it is still a paste when you start working with it, you don’t need to worry about getting any on your skin.",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more sturdy connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 12.jpg|center]]",
+                    "#*Any type of flux that you have will work when soldering pipes together. Acid flux will be more corrosive, but may damage pipes that are too fragile. Tinning flux will help hold your pipes together more strongly, but may be more difficult to find or more expensive. If you’re unsure, ask at your local hardware store for advice on the best type of flux to use for the job you’re working on.",
+                    "#*If the solder doesn’t run into the joint and forms small beads that roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again.",
+                    "#*It’s easier to reach around the back side of the pipe if you bend a small hook in the solder wire before you begin soldering.",
+                    "==Things You’ll Need=="
+                ]
+            }
+        },
+        {
+            "id": "26346596",
+            "user": "MiscBot",
+            "timestamp": "07:46, 29 March 2019",
+            "anon": false,
+            "size": "(15,760 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "26102798",
+            "user": "Votebot",
+            "timestamp": "10:22, 28 February 2019",
+            "anon": false,
+            "size": "(15,769 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings =="
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "25618915",
+            "user": "Wikivisual",
+            "timestamp": "12:46, 19 November 2018",
+            "anon": false,
+            "size": "(15,767 bytes)",
+            "change": 790,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>[[Image:Use Soldering Flux Step 1.jpg|center]]",
+                    "#Go for an acid flux when soldering pipes. If you're working with something bigger than electrical wiring, such as copper piping, you'll need something more corrosive. Acid flux or tinning flux will remove larger areas of oxidization and give you a much stronger soldering job.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 2.jpg|center]]",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it better for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:[[Image:Use Soldering Flux Step 3.jpg|center]]",
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead, so it works much better for larger soldering projects. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>[[Image:Use Soldering Flux Step 4.jpg|center]]",
+                    "#Turn on your soldering iron and clean it when working with electronics. Plug in or turn on your soldering iron to start heating it up. Once it is hot, use a damp sponge to clean away any solder left on the tip of the iron, making sure to never touch the hot end of the iron while it is on.<ref>https://youtu.be/Zu3TYBs65FM?t=541</ref>[[Image:Use Soldering Flux Step 5.jpg|center]]",
+                    "#Go for a blowtorch when soldering pipes. As pipes are much bigger and more solid than intricate wiring, a soldering iron may take a long time to heat a pipe up to the right temperature. Use a propane torch or something similar when soldering with pipes. For the best results, adjust the torch until you have a blue flame around {{convert|2|in|cm}} long, and hold the tip of the flame to the pipes.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 6.jpg|center]]",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to make a small cross symbol and begin twisting each together over and around the other wire. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>[[Image:Use Soldering Flux Step 7.jpg|center]]",
+                    "#Coat the wires with the soldering flux. Use a small paintbrush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before soldering.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>[[Image:Use Soldering Flux Step 8.jpg|center]]",
+                    "#Press the soldering gun onto one side of the wires to melt the flux. Once the soldering iron is hot, press it against one section of the wires to start heating it up. The flux should very quickly melt and turn into a liquid that will run into the wiring. Keep holding the iron to the wires until the flux has melted, just before it starts bubbling.<ref>https://youtu.be/Zu3TYBs65FM?t=571</ref>[[Image:Use Soldering Flux Step 9.jpg|center]]",
+                    "#Feed the solder into the wires to hold them together. With the iron still pressed against the wires to keep them hot, press the tip of your solder onto the opposite side of the wires. If the wiring is hot enough, the solder should melt immediately as you press it to the wires and cover the connection entirely. Make sure all of the wires are coated in solder before removing the iron.<ref>https://youtu.be/Zu3TYBs65FM?t=591</ref>[[Image:Use Soldering Flux Step 10.jpg|center]]",
+                    "#Let the solder cool and harden. Take the soldering iron away from the wires to let them begin cooling. As they do, the solder should very quickly solidify over the course of a few seconds. Once the solder has set, you should see no exposed wiring, and the two wires should be very strongly connected together.<ref>https://youtu.be/Zu3TYBs65FM?t=605</ref>[[Image:Use Soldering Flux Step 11.jpg|center]]",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more sturdy connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 12.jpg|center]]",
+                    "#Apply flux to the outside to your pipes. Use a small paintbrush to cover the ends of your pipes and the insides of your pipe fittings with a thin layer of flux. Look around the edges of the pipe for any large lumps of flux and brush them away.<ref>https://youtu.be/zqhmKshcPt0?t=122</ref>[[Image:Use Soldering Flux Step 13.jpg|center]]",
+                    "#Connect the pipes and fittings together. Hold the two sections you need to connect together in each hand, keeping them off of your work surface to prevent any flux from rubbing off. Push the two ends together securely until they are fully connected. Wipe away any flux that comes off with a clean paintbrush.<ref>https://youtu.be/zqhmKshcPt0?t=174</ref>[[Image:Use Soldering Flux Step 14.jpg|center]]",
+                    "#Heat the fitting or female connector up with a soldering iron or blowtorch. Heat will make the metal expand, so you should always heat the larger sections of your pipes up before the smaller sections. Hold a soldering iron to the pipe, or use a blowtorch to heat the metal up until the soldering flux melts into the joint and begins to bubble slightly.[[Image:Use Soldering Flux Step 15.jpg|center]]",
+                    "#Press the solder to the opposite side of the pipe. When the flux is just starting to bubble and the pipe is hot, press the tip of the solder to the opposite side as you are holding the blowtorch. The solder should melt immediately and work into the joint to hold it together. Pull the torch away and quickly run the solder around the circumference of the joint to completely seal it.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 16.jpg|center]]",
+                    "#Examine the joints to make sure they are completely soldered. Once the pipes have cooled a little, look around the edges of the joints to make sure they are evenly coated with solder. If you notice any sections without solder, apply a small amount of flux on the area and let it melt with the residual heat of the pipes. Use the blowtorch to heat the pipe up again and apply a small amount of solder to the bare area.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>[[Image:Use Soldering Flux Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#Go for an acid flux when soldering pipes. If you're working with something bigger than electrical wiring, such as copper piping, you'll need something more corrosive. Acid flux or tinning flux will remove larger areas of oxidization and give you a much stronger soldering job.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it better for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:",
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead, so it works much better for larger soldering projects. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>",
+                    "#Turn on your soldering iron and clean it when working with electronics. Plug in or turn on your soldering iron to start heating it up. Once it is hot, use a damp sponge to clean away any solder left on the tip of the iron, making sure to never touch the hot end of the iron while it is on.<ref>https://youtu.be/Zu3TYBs65FM?t=541</ref>",
+                    "#Go for a blowtorch when soldering pipes. As pipes are much bigger and more solid than intricate wiring, a soldering iron may take a long time to heat a pipe up to the right temperature. Use a propane torch or something similar when soldering with pipes. For the best results, adjust the torch until you have a blue flame around {{convert|2|in|cm}} long, and hold the tip of the flame to the pipes.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to make a small cross symbol and begin twisting each together over and around the other wire. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#Coat the wires with the soldering flux. Use a small paintbrush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before soldering.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#Press the soldering gun onto one side of the wires to melt the flux. Once the soldering iron is hot, press it against one section of the wires to start heating it up. The flux should very quickly melt and turn into a liquid that will run into the wiring. Keep holding the iron to the wires until the flux has melted, just before it starts bubbling.<ref>https://youtu.be/Zu3TYBs65FM?t=571</ref>",
+                    "#Feed the solder into the wires to hold them together. With the iron still pressed against the wires to keep them hot, press the tip of your solder onto the opposite side of the wires. If the wiring is hot enough, the solder should melt immediately as you press it to the wires and cover the connection entirely. Make sure all of the wires are coated in solder before removing the iron.<ref>https://youtu.be/Zu3TYBs65FM?t=591</ref>",
+                    "#Let the solder cool and harden. Take the soldering iron away from the wires to let them begin cooling. As they do, the solder should very quickly solidify over the course of a few seconds. Once the solder has set, you should see no exposed wiring, and the two wires should be very strongly connected together.<ref>https://youtu.be/Zu3TYBs65FM?t=605</ref>",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more sturdy connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Apply flux to the outside to your pipes. Use a small paintbrush to cover the ends of your pipes and the insides of your pipe fittings with a thin layer of flux. Look around the edges of the pipe for any large lumps of flux and brush them away.<ref>https://youtu.be/zqhmKshcPt0?t=122</ref>",
+                    "#Connect the pipes and fittings together. Hold the two sections you need to connect together in each hand, keeping them off of your work surface to prevent any flux from rubbing off. Push the two ends together securely until they are fully connected. Wipe away any flux that comes off with a clean paintbrush.<ref>https://youtu.be/zqhmKshcPt0?t=174</ref>",
+                    "#Heat the fitting or female connector up with a soldering iron or blowtorch. Heat will make the metal expand, so you should always heat the larger sections of your pipes up before the smaller sections. Hold a soldering iron to the pipe, or use a blowtorch to heat the metal up until the soldering flux melts into the joint and begins to bubble slightly.",
+                    "#Press the solder to the opposite side of the pipe. When the flux is just starting to bubble and the pipe is hot, press the tip of the solder to the opposite side as you are holding the blowtorch. The solder should melt immediately and work into the joint to hold it together. Pull the torch away and quickly run the solder around the circumference of the joint to completely seal it.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Examine the joints to make sure they are completely soldered. Once the pipes have cooled a little, look around the edges of the joints to make sure they are evenly coated with solder. If you notice any sections without solder, apply a small amount of flux on the area and let it melt with the residual heat of the pipes. Use the blowtorch to heat the pipe up again and apply a small amount of solder to the bare area.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25518971",
+            "user": "Seymour Edits",
+            "timestamp": "23:36, 31 October 2018",
+            "anon": false,
+            "size": "(14,977 bytes)",
+            "change": 1936,
+            "summary": "(Expanded 1.3, 1.4, 2.1, 2.2, 2.4, 3.1, fixed minor spelling and grammar errors)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "HelperOnWikihow",
+            "exact_contribution": {
+                "added": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so learning how to work with it properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#*Leaded solders that are solid all the way through and don't have a rosin core are also a solid choice. These may oxidize slightly more, but as long as you are using soldering flux they should still hold strongly for a long time.",
+                    "#*While lead-free solder may work when soldering pipes, it won't be as strong or as durable as silvered solder.",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to make a small cross symbol and begin twisting each together over and around the other wire. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#*You should only need to expose around {{convert|1|in|cm}} of each wire to wrap them together.",
+                    "#*You should be twisting the two wires around each other, so that the wires cross and intertwine near the middle of the joint. This is about holding the wires together more than it is intricately connecting them.",
+                    "#Coat the wires with the soldering flux. Use a small paintbrush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before soldering.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#*You should coat the portion of the wire that has been twisted together, as this is the area that needs soldering. You don't need to solder any point closer to the wire insulation where the wires don't overlap.",
+                    "#*It may help to grip the solder wire around {{convert|5|in|cm}} from the tip of the wire that is being soldered, so as to distance your hands from the hot solder. For extra safety, wear heat-resistant leather gloves while working.",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more sturdy connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*You should only need to clean around {{convert|1|to|2|in|cm}} of the piping to give you room to solder easily. If you're using a larger pipe fitting, you may need to clean more to ensure the point of overlap between the pipe and the fitting is prepared for soldering.",
+                    "#*Use 120-grit sandpaper or grade 1 steel wool for cleaning your pipe fittings. This should be enough to strip away dirt and grime without damaging the pipes themselves.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe/view-all/</ref>",
+                    "#Apply flux to the outside to your pipes. Use a small paintbrush to cover the ends of your pipes and the insides of your pipe fittings with a thin layer of flux. Look around the edges of the pipe for any large lumps of flux and brush them away.<ref>https://youtu.be/zqhmKshcPt0?t=122</ref>",
+                    "#Connect the pipes and fittings together. Hold the two sections you need to connect together in each hand, keeping them off of your work surface to prevent any flux from rubbing off. Push the two ends together securely until they are fully connected. Wipe away any flux that comes off with a clean paintbrush.<ref>https://youtu.be/zqhmKshcPt0?t=174</ref>",
+                    "#*If the solder doesn’t run into the joint and forms small beads that roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again.",
+                    "#*Grip the solder far enough away from the tip that you won't risk melted solder getting on your hands. For extra safety, wear fire-resistant gloves as you work.",
+                    "*Always work in a well-ventilated area when soldering. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale. Wearing a face mask or respirator may help, but nothing will be as good as proper ventilation."
+                ],
+                "removed": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so learning how to work with properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to make a small cross symbol and begin twisting them together. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#Coat the wires with the soldering flux. Use a brush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before soldering.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Apply flux to the outside to your pipes. Use a small brush to cover the ends of your pipes and the insides of your pipe fittings with a thin layer of flux. Look around the edges of the pipe for any large lumps of flux and brush them away.<ref>https://youtu.be/zqhmKshcPt0?t=122</ref>",
+                    "#Connect the pipes and fittings together. Hold the two sections you need to connect together in each hand, keeping them off of your work surface to prevent any flux from rubbing off. Push the two ends together securely until they are fully connected. Wipe away any flux that comes off with a clean brush.<ref>https://youtu.be/zqhmKshcPt0?t=174</ref>",
+                    "#*If the solder doesn’t run into the joint and forms small beads the roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again.",
+                    "*Always work in a well-ventilated area when soldering. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale."
+                ]
+            }
+        },
+        {
+            "id": "25463042",
+            "user": "Mheerah",
+            "timestamp": "13:48, 22 October 2018",
+            "anon": false,
+            "size": "(13,041 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt from any areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>"
+                ],
+                "removed": [
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt fromany areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25459134",
+            "user": "Seymour Edits",
+            "timestamp": "21:45, 21 October 2018",
+            "anon": false,
+            "size": "(13,040 bytes)",
+            "change": 298,
+            "summary": "(Rewrote intro, altered tone throughout, expanded 1.6 and 2.2.2.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HelperOnWikihow",
+            "exact_contribution": {
+                "added": [
+                    "Soldering different metals together is a great way to keep them secure for a long time, and soldering flux only makes this bond stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so learning how to work with properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#Use rosin-based flux for electrical soldering. If you need to remove oxidization from wires, a rosin-based solder is your best bet. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#Go for an acid flux when soldering pipes. If you're working with something bigger than electrical wiring, such as copper piping, you'll need something more corrosive. Acid flux or tinning flux will remove larger areas of oxidization and give you a much stronger soldering job.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it better for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:",
+                    "#*Lead-free electrical solder will also work for small wiring projects. It is more environmentally-friendly as it doesn't contain lead, but also will not hold quite as strong.<ref>https://youtu.be/Zu3TYBs65FM?t=169</ref>",
+                    "#*Some leaded solders will come with a rosin core. This means that they are slightly hollow and will have a thin line of rosin flux running through the middle. It will only be a small amount, so it shouldn't replace other flux, but it will increase the flux coating of your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=187</ref>",
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead, so it works much better for larger soldering projects. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>",
+                    "#Turn on your soldering iron and clean it when working with electronics. Plug in or turn on your soldering iron to start heating it up. Once it is hot, use a damp sponge to clean away any solder left on the tip of the iron, making sure to never touch the hot end of the iron while it is on.<ref>https://youtu.be/Zu3TYBs65FM?t=541</ref>",
+                    "#*Apply a small amount of solder to the end of your soldering iron once it has heated up and been cleaned. Once the tip is covered and has a shiny appearance, you can wipe away any excess on the same damp sponge. This is called \"tinning\" your iron and will stop it from oxidizing as you work with it.",
+                    "#*Make sure you always light your blowtorch away from yourself and use proper safety precautions when working with it. Wear protective, tinted glasses, fire-proof leather gloves and flame-retardant clothing for extra safety.",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to make a small cross symbol and begin twisting them together. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#Coat the wires with the soldering flux. Use a brush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before soldering.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#*It may help to get something that can hold the wires off of your work surface as you solder them together. A \"helping hands\" wire holder or another similar clamp will work perfectly and should be available from your local hardware store.",
+                    "#Feed the solder into the wires to hold them together. With the iron still pressed against the wires to keep them hot, press the tip of your solder onto the opposite side of the wires. If the wiring is hot enough, the solder should melt immediately as you press it to the wires and cover the connection entirely. Make sure all of the wires are coated in solder before removing the iron.<ref>https://youtu.be/Zu3TYBs65FM?t=591</ref>",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to clean away any grime or dirt fromany areas of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connection.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Heat the fitting or female connector up with a soldering iron or blowtorch. Heat will make the metal expand, so you should always heat the larger sections of your pipes up before the smaller sections. Hold a soldering iron to the pipe, or use a blowtorch to heat the metal up until the soldering flux melts into the joint and begins to bubble slightly.",
+                    "#*If the solder doesn’t run into the joint and forms small beads the roll away from it instead, you might have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again."
+                ],
+                "removed": [
+                    "Soldering flux is a key part of any professional looking solder, preventing oxidization and making the connection much stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so knowing how to work with properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "#Use rosin-based flux for electrical soldering. Rosin-based solders are made from organic compounds and tend to be less aggressive when removing oxidization from wires. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#Go for an acid flux when soldering pipes. Acid flux is more corrosive than a rosin-based flux, so is more suited for larger soldering jobs such as working with pipes. Acid flux or tinning flux will remove larger areas of oxidization and give you a much stronger soldering job.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it more suitable for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:",
+                    "#*Lead-free electrical solder will also work for small wiring projects. It is more environmentally-friendly as it does not contain lead, but also will not hold quite as strong.<ref>https://youtu.be/Zu3TYBs65FM?t=169</ref>",
+                    "#*Some leaded solders will come with a rosin core. This means that they are slightly hollow and will have a thin line of rosin flux running through the middle. It will only be a small amount to complement the other flux you use, but it will increase the flux coating of your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=187</ref>",
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead and will be much more suitable for larger soldering projects when working with pipes. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>",
+                    "#Turn on your soldering iron and clean it when working with electronics. Plug in or turn on your soldering iron of choice to start heating it up. Once it is hot, use a damp sponge to clean away any solder left on the tip of the iron, making sure to never touch the hot end of the iron while it is on.<ref>https://youtu.be/Zu3TYBs65FM?t=541</ref>",
+                    "#*To prevent the tip of your iron from oxidizing as you use it, apply a small amount of solder to the end once it has heated up and been cleaned. Once the tip is covered and has a shiny appearance, you can wipe away any excess on the same damp sponge. This is called \"tinning\" your iron.",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to create a small cross symbol and begin twisting them together. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#Coat the wires with the soldering flux. Use a brush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before proceeding.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#*It may help to get something that can hold the wires off of your work surface as you solder them together.",
+                    "#Feed the solder into the wires to bind them. With the iron still pressed against the wires to keep them hot, begin pressing the tip of your solder onto the opposite side of the wires. If the wiring is hot enough, the solder should melt immediately as you press it to the wires and cover the connection entirely. Make sure all wires are coated in solder before removing the iron.<ref>https://youtu.be/Zu3TYBs65FM?t=591</ref>",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to remove any impurities from area of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connector.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#Heat the fitting or female connector up with a soldering iron or blowtorch. Direct heat will make the metal expand, so you should always heat the larger sections of your pipes up before the smaller sections. Hold a soldering iron to the pipe, or use a blowtorch to heat the metal up until the soldering flux melts into the joint and begins to bubble slightly.",
+                    "#*If the solder doesn’t run into the joint and instead forms small beads the roll away from the joint, you may have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again."
+                ]
+            }
+        },
+        {
+            "id": "25455000",
+            "user": "Starlette",
+            "timestamp": "01:33, 21 October 2018",
+            "anon": false,
+            "size": "(12,742 bytes)",
+            "change": 35,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Soldering and Brazing]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "25453965",
+            "user": "WRM",
+            "timestamp": "22:21, 20 October 2018",
+            "anon": false,
+            "size": "(12,707 bytes)",
+            "change": 12707,
+            "summary": "(Created new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Soldering flux is a key part of any professional looking solder, preventing oxidization and making the connection much stronger. Although it’s safe when it’s unmelted, hot soldering flux is very corrosive, so knowing how to work with properly is essential to any soldering job. By knowing which type of flux to use and the right way to work with it, you can learn to use flux to make your soldering last longer.",
+                    "==Steps==",
+                    "===Choosing the Right Equipment===",
+                    "#Use rosin-based flux for electrical soldering. Rosin-based solders are made from organic compounds and tend to be less aggressive when removing oxidization from wires. As most electronics use more fragile, thinner wires, anything too corrosive may risk damaging them and shorting your circuit. Find a rosin-based solder at your local hardware store when working with electronics.<ref>https://youtu.be/Zu3TYBs65FM?t=241</ref>",
+                    "#Go for an acid flux when soldering pipes. Acid flux is more corrosive than a rosin-based flux, so is more suited for larger soldering jobs such as working with pipes. Acid flux or tinning flux will remove larger areas of oxidization and give you a much stronger soldering job.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*Tinning flux has small amounts of a powdered metal alloy mixed into the paste. The powder will melt with the flux and help fill the inside of the pipe you are soldering, making it more waterproof and longer-lasting.",
+                    "#Opt for leaded solder when working with electronics. Leaded solder will melt at a lower temperature than other types, which makes it more suitable for delicate electrical wiring. Ask at your local hardware or electronics store for leaded or electrical solder and you should have a small variety of types to choose from.<ref>https://youtu.be/Zu3TYBs65FM?t=144</ref> Here are a few key differences in types of solder that may come up:",
+                    "#*Lead-free electrical solder will also work for small wiring projects. It is more environmentally-friendly as it does not contain lead, but also will not hold quite as strong.<ref>https://youtu.be/Zu3TYBs65FM?t=169</ref>",
+                    "#*Some leaded solders will come with a rosin core. This means that they are slightly hollow and will have a thin line of rosin flux running through the middle. It will only be a small amount to complement the other flux you use, but it will increase the flux coating of your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=187</ref>",
+                    "#*If you are using leaded solder, make sure to wash your hands once you have finished working with it as the lead is toxic.",
+                    "#Choose silvered solder for soldering pipes together. Silver has a much higher melting point than lead and will be much more suitable for larger soldering projects when working with pipes. Ask for pipe or silvered solder at your local hardware store when working with pipes.<ref>http://www.howtobrew.com/book/appendices/appendix-b/soldering-brazing-and-welding-tips</ref>",
+                    "#*You should never use lead-based solder when working with piping that will carry water, as the lead is toxic and will make the water unsafe to drink.",
+                    "#Turn on your soldering iron and clean it when working with electronics. Plug in or turn on your soldering iron of choice to start heating it up. Once it is hot, use a damp sponge to clean away any solder left on the tip of the iron, making sure to never touch the hot end of the iron while it is on.<ref>https://youtu.be/Zu3TYBs65FM?t=541</ref>",
+                    "#*Always keep your soldering iron in a stand while it is on. The tip will get very hot, so it shouldn’t be allowed to rest on any surfaces as this may start a fire. Don’t leave your soldering iron unattended while you are using it.",
+                    "#*To prevent the tip of your iron from oxidizing as you use it, apply a small amount of solder to the end once it has heated up and been cleaned. Once the tip is covered and has a shiny appearance, you can wipe away any excess on the same damp sponge. This is called \"tinning\" your iron.",
+                    "#Go for a blowtorch when soldering pipes. As pipes are much bigger and more solid than intricate wiring, a soldering iron may take a long time to heat a pipe up to the right temperature. Use a propane torch or something similar when soldering with pipes. For the best results, adjust the torch until you have a blue flame around {{convert|2|in|cm}} long, and hold the tip of the flame to the pipes.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*Getting the perfect temperature with a blowtorch may take more practice than when working with a soldering iron. If the flux you are working with begins smoldering and turns black, it’s a sign you are using too much heat. If the solder doesn’t melt when touched to pipes, you might not be using enough. Keep practicing until you get a sense of the right way to work.",
+                    "===Soldering Wires with Soldering Flux===",
+                    "#Twist the exposed ends of your wires together. Overlap your two wires to create a small cross symbol and begin twisting them together. Keep wrapping the wires together until the ends of each wire are pushed down into the other wire. There should be no pointed ends, but a clear, intertwining pattern along your wires.<ref>https://youtu.be/Zu3TYBs65FM?t=454</ref>",
+                    "#*If you want to apply heat-shrink tubing over your soldering, you should do so before twisting the wires together. Make sure the tubing is as small as you can get it, to ensure it shrinks tightly to the wires.<ref>https://youtu.be/Zu3TYBs65FM?t=417</ref>",
+                    "#*You can also mesh the two wires together to hold them together. Unravel and spread apart the individual strands of each end of wire before pushing them together. Twist the wires together to keep them connected.",
+                    "#Coat the wires with the soldering flux. Use a brush or your fingers to scoop up a small amount of soldering flux. Spread the flux over the area you will be soldering, making sure to cover the wires fully. Wipe any excess flux off your fingers or brush before proceeding.<ref>https://youtu.be/3Z8CzB4BYJA?t=99</ref>",
+                    "#*Soldering flux is only corrosive once it is heated up and in its liquid form. As long as it is still a paste when you start working with it, you don’t need to worry about getting any on your skin.",
+                    "#*It may help to get something that can hold the wires off of your work surface as you solder them together.",
+                    "#Press the soldering gun onto one side of the wires to melt the flux. Once the soldering iron is hot, press it against one section of the wires to start heating it up. The flux should very quickly melt and turn into a liquid that will run into the wiring. Keep holding the iron to the wires until the flux has melted, just before it starts bubbling.<ref>https://youtu.be/Zu3TYBs65FM?t=571</ref>",
+                    "#*To speed up the heat transfer between the iron and the wires, press a tiny amount of solder onto the tip of the iron just as you press it to the wire.",
+                    "#Feed the solder into the wires to bind them. With the iron still pressed against the wires to keep them hot, begin pressing the tip of your solder onto the opposite side of the wires. If the wiring is hot enough, the solder should melt immediately as you press it to the wires and cover the connection entirely. Make sure all wires are coated in solder before removing the iron.<ref>https://youtu.be/Zu3TYBs65FM?t=591</ref>",
+                    "#*You only need a very small amount of solder to keep the wires connected. Press the tip of your solder onto the wires for a second or two at first, adding more solder if you need it.",
+                    "#Let the solder cool and harden. Take the soldering iron away from the wires to let them begin cooling. As they do, the solder should very quickly solidify over the course of a few seconds. Once the solder has set, you should see no exposed wiring, and the two wires should be very strongly connected together.<ref>https://youtu.be/Zu3TYBs65FM?t=605</ref>",
+                    "#*If you are covering your soldering with heat-shrink tubing, feed it over the connection at this point. Use a heat gun to begin shrinking the tubing, starting at the middle and working to each edge to prevent air from getting trapped inside.<ref>https://youtu.be/Zu3TYBs65FM?t=677</ref>",
+                    "===Soldering Pipes with Soldering Flux===",
+                    "#Clean the area that you’ll be soldering. Use sandpaper, steel wool, or anything else abrasive to remove any impurities from area of your pipes and fittings that need to be soldered. This will let your solder hold more tightly to the pipe and result in a more study connector.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*If you plan on cutting and soldering a lot of pipes, you might benefit from a specialised pipe cleaner. This will let you more easily scrub away any impurities on the inside and outside of your pipes. Ask at your local hardware store or look online to find one that suits your needs.",
+                    "#Apply flux to the outside to your pipes. Use a small brush to cover the ends of your pipes and the insides of your pipe fittings with a thin layer of flux. Look around the edges of the pipe for any large lumps of flux and brush them away.<ref>https://youtu.be/zqhmKshcPt0?t=122</ref>",
+                    "#*Any type of flux that you have will work when soldering pipes together. Acid flux will be more corrosive, but may damage pipes that are too fragile. Tinning flux will help hold your pipes together more strongly, but may be more difficult to find or more expensive. If you’re unsure, ask at your local hardware store for advice on the best type of flux to use for the job you’re working on.",
+                    "#Connect the pipes and fittings together. Hold the two sections you need to connect together in each hand, keeping them off of your work surface to prevent any flux from rubbing off. Push the two ends together securely until they are fully connected. Wipe away any flux that comes off with a clean brush.<ref>https://youtu.be/zqhmKshcPt0?t=174</ref>",
+                    "#*You should connect a section of a few pipes together before you begin to solder them. Working one at a time may be very slow, and trying to deal with a long section all at once may be very difficult! Work with a few pieces at a time.",
+                    "#Heat the fitting or female connector up with a soldering iron or blowtorch. Direct heat will make the metal expand, so you should always heat the larger sections of your pipes up before the smaller sections. Hold a soldering iron to the pipe, or use a blowtorch to heat the metal up until the soldering flux melts into the joint and begins to bubble slightly.",
+                    "#Press the solder to the opposite side of the pipe. When the flux is just starting to bubble and the pipe is hot, press the tip of the solder to the opposite side as you are holding the blowtorch. The solder should melt immediately and work into the joint to hold it together. Pull the torch away and quickly run the solder around the circumference of the joint to completely seal it.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*You should only need to use around {{convert|3/4|in|cm}} of the solder to completely seal the pipe.",
+                    "#*If the solder doesn’t run into the joint and instead forms small beads the roll away from the joint, you may have burnt the flux or may not have cleaned the pipe properly. Wait until the pipes are cooled, disconnect them and start again.",
+                    "#*It’s easier to reach around the back side of the pipe if you bend a small hook in the solder wire before you begin soldering.",
+                    "#Examine the joints to make sure they are completely soldered. Once the pipes have cooled a little, look around the edges of the joints to make sure they are evenly coated with solder. If you notice any sections without solder, apply a small amount of flux on the area and let it melt with the residual heat of the pipes. Use the blowtorch to heat the pipe up again and apply a small amount of solder to the bare area.<ref>https://www.familyhandyman.com/plumbing/how-to-solder-copper-pipe-joints/view-all/</ref>",
+                    "#*It may take a while to get a good feel for when pipes are completely soldered. As a general rule of thumb, as long as there is a thin, silvery trim around the edges of your fittings, the pipe should be fully soldered.",
+                    "",
+                    "==Warnings==",
+                    "*Always work in a well-ventilated area when soldering. Take care not to breathe in the smoke that comes off the solder as you work, as this can be dangerous to inhale.",
+                    "*Do not touch the tip of the soldering iron or the completed solder until it is completely cool.",
+                    "*Keep a fire extinguisher nearby when working with soldering irons or blowtorches, just in case.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Soldering flux",
+                    "*Solder",
+                    "*Soldering iron or blowtorch",
+                    "*Sponge",
+                    "*Small brush",
+                    "*Wires or pipes to solder",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

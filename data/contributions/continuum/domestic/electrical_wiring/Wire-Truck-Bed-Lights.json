@@ -1,0 +1,470 @@
+{
+    "title": "Wire-Truck-Bed-Lights",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:52:01.130677",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34128975",
+            "user": "Votebot",
+            "timestamp": "10:13, 8 March 2026",
+            "anon": false,
+            "size": "(15,119 bytes)",
+            "change": 4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    "== Warnings ==",
+                    "*Never solder an in-line fuse holder to a positive wire with the fuse in it. That way, there’s no chance of getting shocked."
+                ],
+                "removed": [
+                    "==Tips==",
+                    "==Warnings==",
+                    "*Never solder an in-line fuse holder to a positive wire with the fuse in it. That way, there’s no chance of getting shocked."
+                ]
+            }
+        },
+        {
+            "id": "33225725",
+            "user": "MiscBot",
+            "timestamp": "20:37, 10 March 2025",
+            "anon": false,
+            "size": "(15,115 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31171190",
+            "user": "Seymour Edits",
+            "timestamp": "08:02, 15 December 2022",
+            "anon": false,
+            "size": "(15,096 bytes)",
+            "change": 86,
+            "summary": "(Expert citation addition)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*You can also identify the tail light’s ground wire by [[Use a Multimeter|using a multimeter]] to test the wires.<ref>[v162126_b01]. 14 February 2022.</ref> Ground wires have no electrical current.",
+                    "#*If the lights don’t immediately turn on, make sure the on/off switch is toggled to the “on” position. You can also test connections with a multimeter to determine if there are any that aren’t working and re-connect them with more solder and heat shrink.<ref>[v162126_b01]. 14 February 2022.</ref>"
+                ],
+                "removed": [
+                    "#*You can also identify the tail light’s ground wire by [[Use a Multimeter|using a multimeter]] to test the wires. Ground wires have no electrical current.",
+                    "#*If the lights don’t immediately turn on, make sure the on/off switch is toggled to the “on” position. You can also test connections with a multimeter to determine if there are any that aren’t working and re-connect them with more solder and heat shrink."
+                ]
+            }
+        },
+        {
+            "id": "29295806",
+            "user": "Wikivisual",
+            "timestamp": "16:51, 5 March 2021",
+            "anon": false,
+            "size": "(15,010 bytes)",
+            "change": 40,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Slide a piece of heat shrink over the light strip’s ground wire. Pick a piece of heat shrink that’s wider in diameter than the wire. Slip it onto the end of the wire far enough that the exposed wires are poking out again.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 6 Version 2.jpg|center]]",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 9 Version 2.jpg|center]]",
+                    "#Connect the open end of the fuse holder to the positive battery terminal. Slide a piece of heat shrink onto the open end of the fuse holder wire. Use a crimping tool to crimp a ring terminal connector onto the wire. Remove the nut from the vehicle battery’s positive terminal and slide the ring over the bolt, then tighten the nut back on with a socket wrench. Shrink the heat shrink over the wire and terminal with a heat gun.<ref>https://www.youtube.com/watch?t=846&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 13 Version 2.jpg|center]]",
+                    "#Put a fuse in the in-line fuse holder near the battery. Use a fuse that’s about twice as big as the amp load of the LED lights. Flip open the cover on the in-line fuse holder and click the fuse into place in the slot. Press the cover back into place over the fuse.<ref>https://www.youtube.com/watch?t=1300&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Slide a piece of heat shrink over the light strip’s ground wire. Pick a piece of heat shrink that’s wider in diameter than the wire. Slip it onto the end of the wire far enough that the exposed wires are poking out again.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 6.jpg|center]]",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 9.jpg|center]]",
+                    "#Connect the open end of the fuse holder to the positive battery terminal. Slide a piece of heat shrink onto the open end of the fuse holder wire. Use a crimping tool to crimp a ring terminal connector onto the wire. Remove the nut from the vehicle battery’s positive terminal and slide the ring over the bolt, then tighten the nut back on with a socket wrench. Shrink the heat shrink over the wire and terminal with a heat gun.<ref>https://www.youtube.com/watch?t=846&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 13.jpg|center]]",
+                    "#Put a fuse in the in-line fuse holder near the battery. Use a fuse that’s about twice as big as the amp load of the LED lights. Flip open the cover on the in-line fuse holder and click the fuse into place in the slot. Press the cover back into place over the fuse.<ref>https://www.youtube.com/watch?t=1300&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29203037",
+            "user": "Snowflakeiesta",
+            "timestamp": "00:30, 12 February 2021",
+            "anon": false,
+            "size": "(14,970 bytes)",
+            "change": -2,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*You can choose any type of LED truck bed lights with an adhesive backside for this. Many of these types of light strips have either an automatic on/off switch or a toggle-style on-off switch. There are different colors and brightness available as well."
+                ],
+                "removed": [
+                    "#*You can choose any type of LED truck bed lights with an adhesive backside for this. Many of these types of light strips have either an automatic on/off switch or a toggle-style on-off switch. There are different colors and brightnesses available as well."
+                ]
+            }
+        },
+        {
+            "id": "29190124",
+            "user": "New Horizons",
+            "timestamp": "09:10, 9 February 2021",
+            "anon": false,
+            "size": "(14,972 bytes)",
+            "change": -2,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is a set of nice bright LED truck bed lights, a few common hand tools, and some basic electrical wiring supplies. The whole thing can cost less than $30 USD!"
+                ],
+                "removed": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is a set of nice bright LED truck bed lights, a few common hand tools, and some basic electrical wiring supplies. The whole shabang can cost less than $30 USD!"
+                ]
+            }
+        },
+        {
+            "id": "29186530",
+            "user": "Wikivisual",
+            "timestamp": "10:16, 8 February 2021",
+            "anon": false,
+            "size": "(14,974 bytes)",
+            "change": 485,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>[[Image:Wire Truck Bed Lights Step 1.jpg|center]]",
+                    "#Lay the LED light strip out along the truck bed walls to position it. Tape 1 end of the lights on top of the truck bed wall with masking tape where you want the lighting to start. Run the lights along the top of the truck bed walls and put a piece of tape at each corner to hold them in place.<ref>https://www.youtube.com/watch?t=239&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 2.jpg|center]]",
+                    "#Wipe down the truck bed with isopropyl alcohol and a lint-free cloth. Decide where exactly you’re going to stick the lights, which is usually under the lips of the bed rails or along the sides of the bed rails. Pour some isopropyl alcohol out onto a clean, lint-free cloth and thoroughly wipe down the surfaces where you plan to stick the lights.<ref>https://www.youtube.com/watch?t=260&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 3.jpg|center]]",
+                    "#Stick the light strip to the truck bed’s walls along the bed rails. Start at 1 end of the lighting strip and start peeling off the backing from the adhesive side. Press the lights firmly against the truck bed wall, underneath or along the inside edge of the bed rail. Continue peeling off the backing and pressing the LED strip into place until you reach the other end.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 4.jpg|center]]",
+                    "#Remove the driver’s side tail light. Pull down your truck bed’s tailgate to access the tail light’s screws. Use the appropriate screwdriver to loosen and remove the 2 screws holding the tail light in place on the inside corner of the truck bed. Carefully pull the tail light out and let it hang against the side of the truck bed.<ref>https://www.youtube.com/watch?t=397&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 5.jpg|center]]",
+                    "#Slide a piece of heat shrink over the light strip’s ground wire. Pick a piece of heat shrink that’s wider in diameter than the wire. Slip it onto the end of the wire far enough that the exposed wires are poking out again.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 6.jpg|center]]",
+                    "#Connect the light strip’s ground wire to the tail light’s ground wire with [[Solder Wires Together|solder]]. Find the ground circuit wire at the back of the tail light you removed. Twist the end of the LED lights’ ground wire onto the exposed metal of the tail light’s ground wire. Use a soldering gun to melt a piece of solder onto the wires to secure them together.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 7.jpg|center]]",
+                    "#Secure the heat shrink over the wires by warming it up with a heat gun. Slide the piece of heat shrink over the soldered wires, so the spot where they connect is about in the center of the shrink wrap. Turn on a heat gun and wave the tip back and forth over the heat shrink until it shrinks down tightly around the 2 wires.<ref>https://www.youtube.com/watch?t=807&v=yebfwewtZjg&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 8.jpg|center]]",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 9.jpg|center]]",
+                    "#Cover the wire in a wire protector and snake it under the truck’s body. Press the length of wire into the slit on the side of an equal or slightly shorter length of wire protector. Hold 1 end of the wire by the battery and feed the rest down through the engine compartment. Pull the other end of the wire along the underside of the truck, near the vehicle’s main wire harness, and poke it up through the slot where the tail light goes.<ref>https://www.youtube.com/watch?t=983&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 10.jpg|center]]",
+                    "#Zip-tie the wire protector to the vehicle’s main wire harness. Locate the wire harness, which is typically covered in a wire protector itself, running along under your vehicle from the battery to the tail light. Use {{convert|8|in|cm|abbr=on}} zip ties to secure your battery wire to the main wire harness at regular intervals.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 11.jpg|center]]",
+                    "#Solder an in-line fuse holder to the end of the red wire near the battery. Slide a piece of heat shrink over the end of the red wire that you just ran from the engine compartment to the tail light. Twist the red wire onto the wire on 1 side of the fuse holder. Melt a piece of solder down through the twisted wires with a soldering gun to connect them. Use a heat gun to shrink the heat shrink over the soldered connection.<ref>https://www.youtube.com/watch?t=393&v=yebfwewtZjg&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 12.jpg|center]]",
+                    "#Connect the open end of the fuse holder to the positive battery terminal. Slide a piece of heat shrink onto the open end of the fuse holder wire. Use a crimping tool to crimp a ring terminal connector onto the wire. Remove the nut from the vehicle battery’s positive terminal and slide the ring over the bolt, then tighten the nut back on with a socket wrench. Shrink the heat shrink over the wire and terminal with a heat gun.<ref>https://www.youtube.com/watch?t=846&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 13.jpg|center]]",
+                    "#Solder the far end of the battery wire to the LED light strip’s positive wire. Head to the driver’s side tail light and slip a piece of heat shrink over that end of the battery wire. Twist the battery wire together with the positive wire coming from the LED lights. Solder the wires together and shrink the heat shrink over the connection.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 14.jpg|center]]",
+                    "#Re-install the driver’s side tail light. Tuck all the wires neatly in behind the light and press the tail light back into place in its hole. Put the 2 tail light screws back in their holes and tighten them all the way with a screwdriver.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 15.jpg|center]]",
+                    "#Put a fuse in the in-line fuse holder near the battery. Use a fuse that’s about twice as big as the amp load of the LED lights. Flip open the cover on the in-line fuse holder and click the fuse into place in the slot. Press the cover back into place over the fuse.<ref>https://www.youtube.com/watch?t=1300&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Wire Truck Bed Lights Step 16.jpg|center]]",
+                    "#Test your new truck bed lights. Go back to the driver’s side tail light and flip the on/off toggle switch to the “on” position. Look at the lights to ensure that they’re all on.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Wire Truck Bed Lights Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>[[Image:Study-for-a-Test-when-You-Don't-Understand-the-Material-Step-9-Version-2.jpg|center]]",
+                    "#Lay the LED light strip out along the truck bed walls to position it. Tape 1 end of the lights on top of the truck bed wall with masking tape where you want the lighting to start. Run the lights along the top of the truck bed walls and put a piece of tape at each corner to hold them in place.<ref>https://www.youtube.com/watch?t=239&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Wipe down the truck bed with isopropyl alcohol and a lint-free cloth. Decide where exactly you’re going to stick the lights, which is usually under the lips of the bed rails or along the sides of the bed rails. Pour some isopropyl alcohol out onto a clean, lint-free cloth and thoroughly wipe down the surfaces where you plan to stick the lights.<ref>https://www.youtube.com/watch?t=260&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Stick the light strip to the truck bed’s walls along the bed rails. Start at 1 end of the lighting strip and start peeling off the backing from the adhesive side. Press the lights firmly against the truck bed wall, underneath or along the inside edge of the bed rail. Continue peeling off the backing and pressing the LED strip into place until you reach the other end.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Remove the driver’s side tail light. Pull down your truck bed’s tailgate to access the tail light’s screws. Use the appropriate screwdriver to loosen and remove the 2 screws holding the tail light in place on the inside corner of the truck bed. Carefully pull the tail light out and let it hang against the side of the truck bed.<ref>https://www.youtube.com/watch?t=397&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Set-Up-a-Rightline-Gear-Truck-Tent-Step-1.jpg|center]]",
+                    "#Slide a piece of heat shrink over the light strip’s ground wire. Pick a piece of heat shrink that’s wider in diameter than the wire. Slip it onto the end of the wire far enough that the exposed wires are poking out again.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Connect the light strip’s ground wire to the tail light’s ground wire with [[Solder Wires Together|solder]]. Find the ground circuit wire at the back of the tail light you removed. Twist the end of the LED lights’ ground wire onto the exposed metal of the tail light’s ground wire. Use a soldering gun to melt a piece of solder onto the wires to secure them together.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Secure the heat shrink over the wires by warming it up with a heat gun. Slide the piece of heat shrink over the soldered wires, so the spot where they connect is about in the center of the shrink wrap. Turn on a heat gun and wave the tip back and forth over the heat shrink until it shrinks down tightly around the 2 wires.<ref>https://www.youtube.com/watch?t=807&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Install a Car Volt Amp Gauge Step 16 Version 2.jpg|center]]",
+                    "#Cover the wire in a wire protector and snake it under the truck’s body. Press the length of wire into the slit on the side of an equal or slightly shorter length of wire protector. Hold 1 end of the wire by the battery and feed the rest down through the engine compartment. Pull the other end of the wire along the underside of the truck, near the vehicle’s main wire harness, and poke it up through the slot where the tail light goes.<ref>https://www.youtube.com/watch?t=983&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Zip-tie the wire protector to the vehicle’s main wire harness. Locate the wire harness, which is typically covered in a wire protector itself, running along under your vehicle from the battery to the tail light. Use {{convert|8|in|cm|abbr=on}} zip ties to secure your battery wire to the main wire harness at regular intervals.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Solder an in-line fuse holder to the end of the red wire near the battery. Slide a piece of heat shrink over the end of the red wire that you just ran from the engine compartment to the tail light. Twist the red wire onto the wire on 1 side of the fuse holder. Melt a piece of solder down through the twisted wires with a soldering gun to connect them. Use a heat gun to shrink the heat shrink over the soldered connection.<ref>https://www.youtube.com/watch?t=393&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "#Connect the open end of the fuse holder to the positive battery terminal. Slide a piece of heat shrink onto the open end of the fuse holder wire. Use a crimping tool to crimp a ring terminal connector onto the wire. Remove the nut from the vehicle battery’s positive terminal and slide the ring over the bolt, then tighten the nut back on with a socket wrench. Shrink the heat shrink over the wire and terminal with a heat gun.<ref>https://www.youtube.com/watch?t=846&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Solder the far end of the battery wire to the LED light strip’s positive wire. Head to the driver’s side tail light and slip a piece of heat shrink over that end of the battery wire. Twist the battery wire together with the positive wire coming from the LED lights. Solder the wires together and shrink the heat shrink over the connection.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Re-install the driver’s side tail light. Tuck all the wires neatly in behind the light and press the tail light back into place in its hole. Put the 2 tail light screws back in their holes and tighten them all the way with a screwdriver.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Replace a Broken Taillight or Turn Signal Cover Step 11.jpg|center]]",
+                    "#Put a fuse in the in-line fuse holder near the battery. Use a fuse that’s about twice as big as the amp load of the LED lights. Flip open the cover on the in-line fuse holder and click the fuse into place in the slot. Press the cover back into place over the fuse.<ref>https://www.youtube.com/watch?t=1300&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Test your new truck bed lights. Go back to the driver’s side tail light and flip the on/off toggle switch to the “on” position. Look at the lights to ensure that they’re all on.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Start-a-Diesel-Truck-Step-4-Version-2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29136332",
+            "user": "WikiHow Projects",
+            "timestamp": "10:33, 26 January 2021",
+            "anon": false,
+            "size": "(14,489 bytes)",
+            "change": 36,
+            "summary": "(Added Images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>[[Image:Study-for-a-Test-when-You-Don't-Understand-the-Material-Step-9-Version-2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>[[Image:Find-a-Job-in-Dubai-Step-6-Version-2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29136284",
+            "user": "WikiHow Projects",
+            "timestamp": "10:27, 26 January 2021",
+            "anon": false,
+            "size": "(14,453 bytes)",
+            "change": 320,
+            "summary": "(Added Images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>[[Image:Find-a-Job-in-Dubai-Step-6-Version-2.jpg|center]]",
+                    "#Remove the driver’s side tail light. Pull down your truck bed’s tailgate to access the tail light’s screws. Use the appropriate screwdriver to loosen and remove the 2 screws holding the tail light in place on the inside corner of the truck bed. Carefully pull the tail light out and let it hang against the side of the truck bed.<ref>https://www.youtube.com/watch?t=397&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Set-Up-a-Rightline-Gear-Truck-Tent-Step-1.jpg|center]]",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>[[Image:Install a Car Volt Amp Gauge Step 16 Version 2.jpg|center]]",
+                    "#Re-install the driver’s side tail light. Tuck all the wires neatly in behind the light and press the tail light back into place in its hole. Put the 2 tail light screws back in their holes and tighten them all the way with a screwdriver.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Replace a Broken Taillight or Turn Signal Cover Step 11.jpg|center]]",
+                    "#Test your new truck bed lights. Go back to the driver’s side tail light and flip the on/off toggle switch to the “on” position. Look at the lights to ensure that they’re all on.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>[[Image:Start-a-Diesel-Truck-Step-4-Version-2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>",
+                    "#Remove the driver’s side tail light. Pull down your truck bed’s tailgate to access the tail light’s screws. Use the appropriate screwdriver to loosen and remove the 2 screws holding the tail light in place on the inside corner of the truck bed. Carefully pull the tail light out and let it hang against the side of the truck bed.<ref>https://www.youtube.com/watch?t=397&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Re-install the driver’s side tail light. Tuck all the wires neatly in behind the light and press the tail light back into place in its hole. Put the 2 tail light screws back in their holes and tighten them all the way with a screwdriver.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#Test your new truck bed lights. Go back to the driver’s side tail light and flip the on/off toggle switch to the “on” position. Look at the lights to ensure that they’re all on.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "29133511",
+            "user": "Seymour Edits",
+            "timestamp": "17:32, 25 January 2021",
+            "anon": false,
+            "size": "(14,133 bytes)",
+            "change": 1700,
+            "summary": "(Added details and clarification, revised for flow, etc.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is a set of nice bright LED truck bed lights, a few common hand tools, and some basic electrical wiring supplies. The whole shabang can cost less than $30 USD!",
+                    "#*You can choose any type of LED truck bed lights with an adhesive backside for this. Many of these types of light strips have either an automatic on/off switch or a toggle-style on-off switch. There are different colors and brightnesses available as well.",
+                    "#*You’ll also need a fuse, a fuse holder, red 14-gauge electrical wire, wire protector, heat shrink, {{convert|8|in|cm|abbr=on}} zip ties, electrical terminal connectors, solder, a soldering iron, a screwdriver, a wire stripper, a crimping tool, a socket wrench, isopropyl alcohol, a lint-free cloth, a heat gun, and masking tape for this project.",
+                    "#*There are also easy-to-install truck bed lighting kits available that come with additional supplies like wires and other items you need to hook up the lights in your truck bed.",
+                    "#*Peel up the tape and adjust the light strip as needed to position the lights symmetrically along the truck bed.",
+                    "#*For the most illumination, it’s best to put lights along the entire length of each of the 2 side walls and the back wall.",
+                    "#Wipe down the truck bed with isopropyl alcohol and a lint-free cloth. Decide where exactly you’re going to stick the lights, which is usually under the lips of the bed rails or along the sides of the bed rails. Pour some isopropyl alcohol out onto a clean, lint-free cloth and thoroughly wipe down the surfaces where you plan to stick the lights.<ref>https://www.youtube.com/watch?t=260&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*For the cleanest look, try to tuck the lights up under the bed wall lips as much as possible.",
+                    "#*Consult your owner’s manual if you’re ever unsure where certain wires and other components are on your specific vehicle.",
+                    "#*The ground wire is typically black, but it could be another color. Consult the manufacturer’s instructions for the LED lights if you’re not sure which wire is the ground wire.",
+                    "#*You can also identify the tail light’s ground wire by [[Use a Multimeter|using a multimeter]] to test the wires. Ground wires have no electrical current.",
+                    "#Secure the heat shrink over the wires by warming it up with a heat gun. Slide the piece of heat shrink over the soldered wires, so the spot where they connect is about in the center of the shrink wrap. Turn on a heat gun and wave the tip back and forth over the heat shrink until it shrinks down tightly around the 2 wires.<ref>https://www.youtube.com/watch?t=807&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "===Connecting to the Battery===",
+                    "#Cover the wire in a wire protector and snake it under the truck’s body. Press the length of wire into the slit on the side of an equal or slightly shorter length of wire protector. Hold 1 end of the wire by the battery and feed the rest down through the engine compartment. Pull the other end of the wire along the underside of the truck, near the vehicle’s main wire harness, and poke it up through the slot where the tail light goes.<ref>https://www.youtube.com/watch?t=983&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Solder an in-line fuse holder to the end of the red wire near the battery. Slide a piece of heat shrink over the end of the red wire that you just ran from the engine compartment to the tail light. Twist the red wire onto the wire on 1 side of the fuse holder. Melt a piece of solder down through the twisted wires with a soldering gun to connect them. Use a heat gun to shrink the heat shrink over the soldered connection.<ref>https://www.youtube.com/watch?t=393&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "===Reassembling and Testing the Lights===",
+                    "#*The amp load for the LED lights is clearly listed on the packaging and in the manufacturer’s instructions.",
+                    "#*If the lights don’t immediately turn on, make sure the on/off switch is toggled to the “on” position. You can also test connections with a multimeter to determine if there are any that aren’t working and re-connect them with more solder and heat shrink.",
+                    "*On/off switch (optional)",
+                    "*Multimeter (optional)"
+                ],
+                "removed": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is some nice bright LED truck bed lights and some common hand tools and electrical wiring supplies. The whole thing can cost less than $30 USD!",
+                    "#*There are easy-to-install truck bed lighting kits available that come with additional supplies like wires and other items you need to hook up the lights in your truck bed.",
+                    "#*Peel up the tape and adjust where the lighting starts if the strip isn’t long enough to completely line all the walls, so the lights are positioned symmetrically.",
+                    "#Clean the application surface with isopropyl alcohol and a lint-free cloth. Decide where exactly you’re going to stick the lights, which is usually under the lips of the bed rails or along the sides of the bed rails. Pour some isopropyl alcohol out onto a clean, lint-free cloth and thoroughly wipe down the surfaces where you plan to stick the lights.<ref>https://www.youtube.com/watch?t=260&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*Consult your owner’s manual if you’re seeing something different or if you’re not sure how to do something.",
+                    "#Shrink the heat shrink over the wires with a heat gun. Slide the piece of heat shrink over the soldered wires, so the spot where they connect is about in the center of the shrink wrap. Turn on a heat gun and wave the tip back and forth over the heat shrink until it shrinks down tightly around the 2 wires.<ref>https://www.youtube.com/watch?t=807&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "===Connecting the Battery Wire===",
+                    "#Cover the wire in a wire protector and snake it under the truck’s body. Press the length of wire into the slit on the side of an equal or slightly shorter length of wire protector. Hold 1 end of the wire by the battery and feed the rest down through the engine compartment. Pull the other end of the wire along the underside of the truck and poke it up through the slot where the tail light goes.<ref>https://www.youtube.com/watch?t=983&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#Solder an in-line fuse holder to the end of the battery wire. Slide a piece of heat shrink over the end of the battery wire. Twist the battery wire onto the wire on 1 side of the fuse holder. Melt a piece of solder down through the twisted wires with a soldering gun to connect them. Use a heat gun to shrink the heat shrink over the soldered connection.<ref>https://www.youtube.com/watch?t=393&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "===Wrapping up===",
+                    "*On/off switch"
+                ]
+            }
+        },
+        {
+            "id": "29119760",
+            "user": "KAYDEN REDMAN",
+            "timestamp": "14:26, 21 January 2021",
+            "anon": false,
+            "size": "(12,433 bytes)",
+            "change": -2,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is some nice bright LED truck bed lights and some common hand tools and electrical wiring supplies. The whole thing can cost less than $30 USD!"
+                ],
+                "removed": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is some nice bright LED truck bed lights and some common hand tools and electrical wiring supplies. The whole shabang can cost less than $30 USD!"
+                ]
+            }
+        },
+        {
+            "id": "29118023",
+            "user": "HelperOnWikihow",
+            "timestamp": "02:17, 21 January 2021",
+            "anon": false,
+            "size": "(12,435 bytes)",
+            "change": -9,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Car Lighting]]"
+                ],
+                "removed": [
+                    "[[Category:Cars & Other Vehicles]]"
+                ]
+            }
+        },
+        {
+            "id": "29117975",
+            "user": "Mullyzee",
+            "timestamp": "02:04, 21 January 2021",
+            "anon": false,
+            "size": "(12,444 bytes)",
+            "change": 35,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Cars & Other Vehicles]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29117397",
+            "user": "WRM",
+            "timestamp": "21:19, 20 January 2021",
+            "anon": false,
+            "size": "(12,409 bytes)",
+            "change": 12409,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re tired of fumbling around in the dark to find things in your truck bed, why not install some truck bed lights to illuminate it? Though it helps to have some familiarity with automotive electrical work to get the job done, it’s something that almost anybody can do relatively safely and easily. All you need is some nice bright LED truck bed lights and some common hand tools and electrical wiring supplies. The whole shabang can cost less than $30 USD!",
+                    "==Steps==",
+                    "===Installing an LED Light Strip===",
+                    "#Purchase a strip of LED truck bed lights long enough for your truck bed. Search online or wherever they sell automotive accessories and. Buy a strip of LED lights that’s long enough to line the walls of your truck bed that you want to illuminate.<ref>https://www.autoguide.com/best-led-truck-bed-lights</ref>",
+                    "#*For example, if your truck bed is {{convert|7|ft|m|abbr=on}} by {{convert|5|ft|m|abbr=on}} and you want to light up the back wall and both side walls, get a strip that’s about {{convert|19|ft|m|abbr=on}} long.",
+                    "#*There are easy-to-install truck bed lighting kits available that come with additional supplies like wires and other items you need to hook up the lights in your truck bed.",
+                    "#Lay the LED light strip out along the truck bed walls to position it. Tape 1 end of the lights on top of the truck bed wall with masking tape where you want the lighting to start. Run the lights along the top of the truck bed walls and put a piece of tape at each corner to hold them in place.<ref>https://www.youtube.com/watch?t=239&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*This just lets you visualize the positioning so you can plan where you’re going to stick the lights.",
+                    "#*Peel up the tape and adjust where the lighting starts if the strip isn’t long enough to completely line all the walls, so the lights are positioned symmetrically.",
+                    "#Clean the application surface with isopropyl alcohol and a lint-free cloth. Decide where exactly you’re going to stick the lights, which is usually under the lips of the bed rails or along the sides of the bed rails. Pour some isopropyl alcohol out onto a clean, lint-free cloth and thoroughly wipe down the surfaces where you plan to stick the lights.<ref>https://www.youtube.com/watch?t=260&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*For example, a microfiber cloth or an old cotton T-shirt work well for this.",
+                    "#*This gets rid of dirt, dust, oils, and other contaminants that can prevent the lights from adhering properly.",
+                    "#Stick the light strip to the truck bed’s walls along the bed rails. Start at 1 end of the lighting strip and start peeling off the backing from the adhesive side. Press the lights firmly against the truck bed wall, underneath or along the inside edge of the bed rail. Continue peeling off the backing and pressing the LED strip into place until you reach the other end.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*Adhesive LED truck bed lights stick best to flat, metal surfaces that are either painted or unpainted.",
+                    "#*If you have to stick the lights onto any plastic or textured surfaces, clean them off again with isopropyl alcohol and a lint-free cloth to ensure proper adhesion.",
+                    "",
+                    "===Soldering the Ground Wire===",
+                    "#Remove the driver’s side tail light. Pull down your truck bed’s tailgate to access the tail light’s screws. Use the appropriate screwdriver to loosen and remove the 2 screws holding the tail light in place on the inside corner of the truck bed. Carefully pull the tail light out and let it hang against the side of the truck bed.<ref>https://www.youtube.com/watch?t=397&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*Note that, for the rest of the installation and wiring process, things might look different on different vehicle makes and models.",
+                    "#*Consult your owner’s manual if you’re seeing something different or if you’re not sure how to do something.",
+                    "#Slide a piece of heat shrink over the light strip’s ground wire. Pick a piece of heat shrink that’s wider in diameter than the wire. Slip it onto the end of the wire far enough that the exposed wires are poking out again.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*Always remember to put the heat shrink on before you connect the ends of 2 wires because you can’t put it on after they’re soldered together.",
+                    "#*Heat shrink insulates and protects the wires once they’re soldered together for a more durable and waterproof connection.",
+                    "#Connect the light strip’s ground wire to the tail light’s ground wire with [[Solder Wires Together|solder]]. Find the ground circuit wire at the back of the tail light you removed. Twist the end of the LED lights’ ground wire onto the exposed metal of the tail light’s ground wire. Use a soldering gun to melt a piece of solder onto the wires to secure them together.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*Ground wires can be different colors, but they’re usually black, brown, or green. Consult the owner’s manual for your vehicle and the instructions for the LED lights if you aren’t sure which wire is which.",
+                    "#*An alternative to soldering the LED lights’ ground wire to the tail light’s ground wire is to solder it to an exposed, unpainted piece of metal somewhere inside the hole where the tail light goes.",
+                    "#Shrink the heat shrink over the wires with a heat gun. Slide the piece of heat shrink over the soldered wires, so the spot where they connect is about in the center of the shrink wrap. Turn on a heat gun and wave the tip back and forth over the heat shrink until it shrinks down tightly around the 2 wires.<ref>https://www.youtube.com/watch?t=807&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "#*Don’t touch the wires with the tip of the heat gun or you might damage them.",
+                    "#*It only takes a few seconds for the heat shrink to shrink down in size.",
+                    "",
+                    "===Connecting the Battery Wire===",
+                    "#Run a 14-gauge red wire from the battery to the lights’ positive wire. Have a helper hold 1 end of the wire next to the driver’s side tail light. Walk to the battery while holding the spool of wire, unrolling it loosely as you move, until you have a piece of wire that’s long enough to reach from the back of the truck bed to the battery under the hood.<ref>https://www.youtube.com/watch?t=801&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*Don’t stretch the wire out tightly because you want some slack to ensure that the wire still reaches the battery after it’s in its final position.",
+                    "#Cover the wire in a wire protector and snake it under the truck’s body. Press the length of wire into the slit on the side of an equal or slightly shorter length of wire protector. Hold 1 end of the wire by the battery and feed the rest down through the engine compartment. Pull the other end of the wire along the underside of the truck and poke it up through the slot where the tail light goes.<ref>https://www.youtube.com/watch?t=983&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*Wire protector is a flexible shielding for electrical wires that prevents them from directly rubbing against surfaces and potentially fraying.",
+                    "#Zip-tie the wire protector to the vehicle’s main wire harness. Locate the wire harness, which is typically covered in a wire protector itself, running along under your vehicle from the battery to the tail light. Use {{convert|8|in|cm|abbr=on}} zip ties to secure your battery wire to the main wire harness at regular intervals.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*Around 6 zip ties should be sufficient, but use as many as you feel is necessary to secure the wire in place.",
+                    "#*This keeps all your wiring neatly and safely together.",
+                    "#Solder an in-line fuse holder to the end of the battery wire. Slide a piece of heat shrink over the end of the battery wire. Twist the battery wire onto the wire on 1 side of the fuse holder. Melt a piece of solder down through the twisted wires with a soldering gun to connect them. Use a heat gun to shrink the heat shrink over the soldered connection.<ref>https://www.youtube.com/watch?t=393&v=yebfwewtZjg&feature=youtu.be</ref>",
+                    "#*Take the fuse out of the fuse holder if it already has a fuse in it to be safe.",
+                    "#*Using an in-line fuse holder ensures that if there is ever a short circuit in your LED battery wire, the fuse will blow and it won’t cause an electrical fire in your engine compartment.",
+                    "#Connect the open end of the fuse holder to the positive battery terminal. Slide a piece of heat shrink onto the open end of the fuse holder wire. Use a crimping tool to crimp a ring terminal connector onto the wire. Remove the nut from the vehicle battery’s positive terminal and slide the ring over the bolt, then tighten the nut back on with a socket wrench. Shrink the heat shrink over the wire and terminal with a heat gun.<ref>https://www.youtube.com/watch?t=846&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*Tuck the wiring in somewhere around the battery to make everything neat and tidy.",
+                    "#Solder the far end of the battery wire to the LED light strip’s positive wire. Head to the driver’s side tail light and slip a piece of heat shrink over that end of the battery wire. Twist the battery wire together with the positive wire coming from the LED lights. Solder the wires together and shrink the heat shrink over the connection.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*The positive wire is usually red. If you don’t see a red wire coming from the lights or you’re unsure, check the manufacturer’s instructions for the lights.",
+                    "#*If your LED lights don’t have a built-in on/off switch, solder a [[Install a Toggle Switch|toggle switch]] in between the positive wires, so you can easily turn the lights on and off.",
+                    "",
+                    "===Wrapping up===",
+                    "#Re-install the driver’s side tail light. Tuck all the wires neatly in behind the light and press the tail light back into place in its hole. Put the 2 tail light screws back in their holes and tighten them all the way with a screwdriver.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*If there are any wires peeking out between the tail light and the end of the LED light strip, look for discreet areas to tuck them into, such as behind the truck bed liner.",
+                    "#Put a fuse in the in-line fuse holder near the battery. Use a fuse that’s about twice as big as the amp load of the LED lights. Flip open the cover on the in-line fuse holder and click the fuse into place in the slot. Press the cover back into place over the fuse.<ref>https://www.youtube.com/watch?t=1300&v=77t1UW4Qc7g&feature=youtu.be</ref>",
+                    "#*For example, if the LED lights have an amp load of 5, use a 10-amp fuse.",
+                    "#Test your new truck bed lights. Go back to the driver’s side tail light and flip the on/off toggle switch to the “on” position. Look at the lights to ensure that they’re all on.<ref>https://multimedia.3m.com/mws/media/616038O/application-guidelines-3m-truck-bed-lighting-kit-standard.pdf</ref>",
+                    "#*Wait until it’s dark out or do this in a dark garage to really see how the lights illuminate your truck bed!",
+                    "",
+                    "==Tips==",
+                    "*Get an LED truck bed lighting kit that comes with most of what you need to wire the lights and follow the provided instructions for an easy option.",
+                    "*Remember that how exactly you wire truck bed lights depends on what model of vehicle you have and the specific lights you use, but the general process and the connections you have to make stays the same.",
+                    "",
+                    "==Warnings==",
+                    "*If you aren’t comfortable performing automotive electrical work, get a professional to do it to avoid any mistakes that could cause an accident.",
+                    "*Never solder an in-line fuse holder to a positive wire with the fuse in it. That way, there’s no chance of getting shocked.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*LED light strip",
+                    "*Fuse",
+                    "*Fuse holder",
+                    "*On/off switch",
+                    "*Wire stripper",
+                    "*Crimping tool",
+                    "*Socket wrench",
+                    "*Red 14-gauge electrical wire",
+                    "*Wire protector",
+                    "*Isopropyl alcohol",
+                    "*Lint-free cloth",
+                    "*{{convert|8|in|cm|abbr=on}} zip ties",
+                    "*Heat shrink",
+                    "*Heat gun",
+                    "*Electrical terminal connectors",
+                    "*Soldering iron",
+                    "*Solder",
+                    "*Masking tape",
+                    "*Screwdriver",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

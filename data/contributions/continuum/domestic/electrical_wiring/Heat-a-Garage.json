@@ -1,0 +1,718 @@
+{
+    "title": "Heat-a-Garage",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:53:45.676308",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33235470",
+            "user": "Stub Bot",
+            "timestamp": "16:29, 11 March 2025",
+            "anon": false,
+            "size": "(3,602 bytes)",
+            "change": -24,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ],
+                "removed": [
+                    "{{stub|date=2017-05-05}}An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ]
+            }
+        },
+        {
+            "id": "29980308",
+            "user": "WikiHow Projects",
+            "timestamp": "15:23, 17 October 2021",
+            "anon": false,
+            "size": "(3,626 bytes)",
+            "change": -230,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "== References ==",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Heating---Cooling/Heating/how-to-heat-a-garage/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Heating---Cooling/Heating/how-to-heat-a-garage/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "26294476",
+            "user": "MiscBot",
+            "timestamp": "02:38, 29 March 2019",
+            "anon": false,
+            "size": "(3,856 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "24033303",
+            "user": "WikiHow Intern",
+            "timestamp": "13:35, 14 February 2018",
+            "anon": false,
+            "size": "(3,867 bytes)",
+            "change": -11,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Garages]]"
+                ],
+                "removed": [
+                    "",
+                    "[[Category:Sheds and Garages]]"
+                ]
+            }
+        },
+        {
+            "id": "22353685",
+            "user": "Stub Bot",
+            "timestamp": "16:35, 5 May 2017",
+            "anon": false,
+            "size": "(3,878 bytes)",
+            "change": 24,
+            "summary": "(Marking as stub because this article does not appear complete enough to be helpful to readers. Disagree? Leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2017-05-05}}An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ],
+                "removed": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ]
+            }
+        },
+        {
+            "id": "19329001",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:01, 9 January 2016",
+            "anon": false,
+            "size": "(3,854 bytes)",
+            "change": -25,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Insulate a Garage]]"
+                ],
+                "removed": [
+                    "*[[Insulate a Garage|How to Insulate a Garage]]"
+                ]
+            }
+        },
+        {
+            "id": "18064079",
+            "user": "MiscBot",
+            "timestamp": "21:12, 28 July 2015",
+            "anon": false,
+            "size": "(3,879 bytes)",
+            "change": -70,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.[[Image:Heat a Garage Step 1 Version 4.jpg|center]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.[[Image:Heat a Garage Step 2 Version 4.jpg|center]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.[[Image:Heat a Garage Step 3 Version 4.jpg|center]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.[[Image:Heat a Garage Step 4 Version 4.jpg|center]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.[[Image:Heat a Garage Step 5 Version 4.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 4.jpg|center|550px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 4.jpg|center|550px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 4.jpg|center|550px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 4.jpg|center|550px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 4.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17919412",
+            "user": "InterwikiBot",
+            "timestamp": "00:19, 25 July 2015",
+            "anon": false,
+            "size": "(3,949 bytes)",
+            "change": -73,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:mantener el calor en un garaje]]",
+                    "[[ru:обогреть гараж]]"
+                ]
+            }
+        },
+        {
+            "id": "15685912",
+            "user": "InterwikiBot",
+            "timestamp": "18:43, 21 October 2014",
+            "anon": false,
+            "size": "(4,022 bytes)",
+            "change": 35,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:обогреть гараж]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13522144",
+            "user": "Wikivisual",
+            "timestamp": "06:05, 6 May 2014",
+            "anon": false,
+            "size": "(3,987 bytes)",
+            "change": 40,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 4.jpg|center|550px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 4.jpg|center|550px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 4.jpg|center|550px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 4.jpg|center|550px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 4.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.[[Image:Heat a Garage Step 1 Version 4.jpg|center|300px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.[[Image:Heat a Garage Step 2 Version 4.jpg|center|300px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.[[Image:Heat a Garage Step 3 Version 4.jpg|center|300px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.[[Image:Heat a Garage Step 4 Version 4.jpg|center|300px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.[[Image:Heat a Garage Step 5 Version 4.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "13522143",
+            "user": "Wikivisual",
+            "timestamp": "06:05, 6 May 2014",
+            "anon": false,
+            "size": "(3,947 bytes)",
+            "change": -40,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.[[Image:Heat a Garage Step 1 Version 4.jpg|center|300px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.[[Image:Heat a Garage Step 2 Version 4.jpg|center|300px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.[[Image:Heat a Garage Step 3 Version 4.jpg|center|300px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.[[Image:Heat a Garage Step 4 Version 4.jpg|center|300px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.[[Image:Heat a Garage Step 5 Version 4.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 3.jpg|center|550px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 3.jpg|center|550px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 3.jpg|center|550px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 3.jpg|center|550px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 3.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13519678",
+            "user": "Wikivisual",
+            "timestamp": "21:40, 5 May 2014",
+            "anon": false,
+            "size": "(3,987 bytes)",
+            "change": 40,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 3.jpg|center|550px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 3.jpg|center|550px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 3.jpg|center|550px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 3.jpg|center|550px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 3.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.[[Image:Heat a Garage Step 1 Version 3.jpg|center|300px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.[[Image:Heat a Garage Step 2 Version 3.jpg|center|300px]]",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.[[Image:Heat a Garage Step 3 Version 3.jpg|center|300px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.[[Image:Heat a Garage Step 4 Version 3.jpg|center|300px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.[[Image:Heat a Garage Step 5 Version 3.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "13519676",
+            "user": "Wikivisual",
+            "timestamp": "21:40, 5 May 2014",
+            "anon": false,
+            "size": "(3,947 bytes)",
+            "change": 264,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.[[Image:Heat a Garage Step 1 Version 3.jpg|center|300px]]",
+                    "#Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.[[Image:Heat a Garage Step 2 Version 3.jpg|center|300px]]",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.",
+                    "#Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.[[Image:Heat a Garage Step 3 Version 3.jpg|center|300px]]",
+                    "#Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.[[Image:Heat a Garage Step 4 Version 3.jpg|center|300px]]",
+                    "#Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.[[Image:Heat a Garage Step 5 Version 3.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.<br><br>",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.<br><br>",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside."
+                ]
+            }
+        },
+        {
+            "id": "13141206",
+            "user": "InterwikiBot",
+            "timestamp": "00:18, 1 April 2014",
+            "anon": false,
+            "size": "(3,683 bytes)",
+            "change": 38,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:mantener el calor en un garaje]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13085979",
+            "user": "Wikiphoto",
+            "timestamp": "23:57, 25 March 2014",
+            "anon": false,
+            "size": "(3,645 bytes)",
+            "change": -325,
+            "summary": "(Removing all images from article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside."
+                ],
+                "removed": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 2.jpg|center|550px]]",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 2.jpg|center|550px]]",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 2.jpg|center|550px]]",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 2.jpg|center|550px]]",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 2.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "12543157",
+            "user": "Wikiphoto",
+            "timestamp": "05:56, 30 January 2014",
+            "anon": false,
+            "size": "(3,970 bytes)",
+            "change": 5,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1 Version 2.jpg|center|550px]]",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2 Version 2.jpg|center|550px]]",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3 Version 2.jpg|center|550px]]",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4 Version 2.jpg|center|550px]]",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5 Version 2.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# [[Image:Heat a Garage Step 1 Version 2.jpg|right|300px]]Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>",
+                    "# [[Image:Heat a Garage Step 2 Version 2.jpg|right|300px]]Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>",
+                    "# [[Image:Heat a Garage Step 3 Version 2.jpg|right|300px]]Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>",
+                    "# [[Image:Heat a Garage Step 4 Version 2.jpg|right|300px]]Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>",
+                    "# [[Image:Heat a Garage Step 5 Version 2.jpg|right|300px]]Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>"
+                ]
+            }
+        },
+        {
+            "id": "12543156",
+            "user": "Wikiphoto",
+            "timestamp": "05:56, 30 January 2014",
+            "anon": false,
+            "size": "(3,965 bytes)",
+            "change": -63,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Heat a Garage Step 1 Version 2.jpg|right|300px]]Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>",
+                    "# [[Image:Heat a Garage Step 2 Version 2.jpg|right|300px]]Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.<br><br>",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.<br><br>",
+                    "# [[Image:Heat a Garage Step 3 Version 2.jpg|right|300px]]Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>",
+                    "# [[Image:Heat a Garage Step 4 Version 2.jpg|right|300px]]Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>",
+                    "# [[Image:Heat a Garage Step 5 Version 2.jpg|right|300px]]Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>"
+                ],
+                "removed": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1.jpg|center|550px]]",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2.jpg|center|550px]]",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.<br><br>[[Image:Heat a Garage Step 2Bullet1.jpg|center|550px]]",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.<br><br>[[Image:Heat a Garage Step 2Bullet2.jpg|center|550px]]",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3.jpg|center|550px]]",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4.jpg|center|550px]]",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "12451115",
+            "user": "Wikiphoto",
+            "timestamp": "12:27, 20 January 2014",
+            "anon": false,
+            "size": "(4,028 bytes)",
+            "change": 64,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.<br><br>[[Image:Heat a Garage Step 1.jpg|center|550px]]",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.<br><br>[[Image:Heat a Garage Step 2.jpg|center|550px]]",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.<br><br>[[Image:Heat a Garage Step 2Bullet1.jpg|center|550px]]",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.<br><br>[[Image:Heat a Garage Step 2Bullet2.jpg|center|550px]]",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.<br><br>[[Image:Heat a Garage Step 3.jpg|center|550px]]",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.<br><br>[[Image:Heat a Garage Step 4.jpg|center|550px]]",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.<br><br>[[Image:Heat a Garage Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Heat a Garage Step 1.jpg|right|300px]]Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# [[Image:Heat a Garage Step 2.jpg|right|300px]]Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "#* [[Image:Heat a Garage Step 2Bullet1.jpg|right|300px]]Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.",
+                    "#* [[Image:Heat a Garage Step 2Bullet2.jpg|right|300px]]Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.",
+                    "# [[Image:Heat a Garage Step 3.jpg|right|300px]]Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# [[Image:Heat a Garage Step 4.jpg|right|300px]]Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# [[Image:Heat a Garage Step 5.jpg|right|300px]]Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside."
+                ]
+            }
+        },
+        {
+            "id": "12451114",
+            "user": "Wikiphoto",
+            "timestamp": "12:27, 20 January 2014",
+            "anon": false,
+            "size": "(3,964 bytes)",
+            "change": 336,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Heat a Garage Step 1.jpg|right|300px]]Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# [[Image:Heat a Garage Step 2.jpg|right|300px]]Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "#* [[Image:Heat a Garage Step 2Bullet1.jpg|right|300px]]Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.",
+                    "#* [[Image:Heat a Garage Step 2Bullet2.jpg|right|300px]]Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.",
+                    "# [[Image:Heat a Garage Step 3.jpg|right|300px]]Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# [[Image:Heat a Garage Step 4.jpg|right|300px]]Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# [[Image:Heat a Garage Step 5.jpg|right|300px]]Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside."
+                ],
+                "removed": [
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside."
+                ]
+            }
+        },
+        {
+            "id": "7666977",
+            "user": "Gloster flyer",
+            "timestamp": "15:37, 29 April 2012",
+            "anon": false,
+            "size": "(3,628 bytes)",
+            "change": 2,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and duct work installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "* Do not attempt to route your home's duct work into the garage to provide heat. Doing so will allow vehicle fumes, sawdust, and other fumes or particulate matter to enter your home."
+                ],
+                "removed": [
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and ductwork installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "* Do not attempt to route your home's ductwork into the garage to provide heat. Doing so will allow vehicle fumes, sawdust, and other fumes or particulate matter to enter your home."
+                ]
+            }
+        },
+        {
+            "id": "6724151",
+            "user": "Maniac",
+            "timestamp": "00:16, 9 October 2011",
+            "anon": false,
+            "size": "(3,626 bytes)",
+            "change": -54,
+            "summary": "(Edit via Quality Guardian: Removed image that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ],
+                "removed": [
+                    "[[Image:That burning sensation.jpg|thumb|right|251px]]An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ]
+            }
+        },
+        {
+            "id": "6658532",
+            "user": "Boosnap510",
+            "timestamp": "00:53, 22 September 2011",
+            "anon": false,
+            "size": "(3,680 bytes)",
+            "change": 55,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:That burning sensation.jpg|thumb|right|251px]]An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product.",
+                    ""
+                ],
+                "removed": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ]
+            }
+        },
+        {
+            "id": "6654882",
+            "user": "BR",
+            "timestamp": "00:13, 21 September 2011",
+            "anon": false,
+            "size": "(3,625 bytes)",
+            "change": -46,
+            "summary": "(Reverted edits by 911emo (Talk); changed back to last version by Wendy Weaver)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ],
+                "removed": [
+                    "[[Image:Me in Class 4.jpg|thumb|right|251px]]An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6654845",
+            "user": "911emo",
+            "timestamp": "00:03, 21 September 2011",
+            "anon": false,
+            "size": "(3,671 bytes)",
+            "change": 46,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Me in Class 4.jpg|thumb|right|251px]]An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product.",
+                    ""
+                ],
+                "removed": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product."
+                ]
+            }
+        },
+        {
+            "id": "6651653",
+            "user": "Wendy Weaver",
+            "timestamp": "00:43, 20 September 2011",
+            "anon": false,
+            "size": "(3,625 bytes)",
+            "change": 73,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Insulate a Garage|How to Insulate a Garage]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6602832",
+            "user": "WRM",
+            "timestamp": "05:15, 7 September 2011",
+            "anon": false,
+            "size": "(3,552 bytes)",
+            "change": -120,
+            "summary": "(→‎Sources and Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://www.garagewoodwork.com/garage-workshop-heating.php http://www.garagewoodwork.com/garage-workshop-heating.php]"
+                ]
+            }
+        },
+        {
+            "id": "6061128",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "11:11, 24 May 2011",
+            "anon": false,
+            "size": "(3,672 bytes)",
+            "change": 32,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Sheds and Garages]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5870568",
+            "user": "WRM",
+            "timestamp": "18:00, 14 April 2011",
+            "anon": false,
+            "size": "(3,640 bytes)",
+            "change": 3640,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "An unheated garage can be a nuisance for those who like to use the space for home improvement or other projects. Heating a garage is a good option to provide year-round comfort for both workshop use and everyday use. Learning how to heat a garage is a matter of assessing your needs and choosing the right product.",
+                    "== Steps ==",
+                    "# Insulate your garage walls and ceiling. Installing a heater in an uninsulated garage represents a tremendous waste of time and money, as the heat produced will quickly escape outside. Aim for at least an R-value of 19 (the equivalent U-value is 0.053) in both the walls and ceiling. A 6-inch (15 cm) layer of fiberglass batt insulation provides an R-value of 19. In fact, insulating your garage may provide enough comfort for you to forgo installing a heater.",
+                    "# Choose the right heater for your garage. Heating with natural gas is by far the most economical choice, and there are 2 main options for natural gas heaters: forced-air systems and infrared tube heaters. Forced-air heaters blow warm air through a vent, and infrared systems radiate heat from a metal heating element.",
+                    "#* Forced-air heaters are cheaper to install, and don't have very exacting space requirements. They will stir up air and keep dust airborne, however, so they aren't a great option if you plan on doing any painting or staining in your garage. Forced-air heaters will also take longer to reheat your garage after the door has been opened and closed.",
+                    "#* Infrared tube heaters are more expensive, and have very specific space allowances. Most will have to be installed at least 7 feet (2.1 m) from the floor, and cannot be placed within 3 feet (0.9 m) of any objects. Infrared heat is more uniform, however, and the units typically cost less to operate. They do not stir up dust, so they are the ideal choice if you use your garage for woodworking projects.",
+                    "# Understand the installation requirements of each heater. Both forced-air and infrared heaters will require a natural gas line, an electrical hookup, and ventilation to the outside. Infrared units are best placed on the back wall of a garage facing towards the garage door and angled down at a 45 degree angle. Forced-air units can be placed nearly anywhere, but are best placed in a corner near an electrical outlet.",
+                    "# Purchase and install a heater. The heater's installation is best left to a contractor who specializes in HVAC equipment, as the installation requires electrical wiring and ductwork installation. A contractor can also help advise you on which model is suited for your garage and the ideal location of the heater. If you are feeling particularly handy, though, install the heater according to the installation specifications included with the product. The tools needed will vary based on the model and the extent of the changes needed to accommodate the installation.",
+                    "# Operate the heater. Once the heater is installed, let it run to enjoy a warm, comfortable garage. Leave the garage door closed as much as possible to avoid losing heat to the outside.",
+                    "",
+                    "== Warnings ==",
+                    "* Do not attempt to route your home's ductwork into the garage to provide heat. Doing so will allow vehicle fumes, sawdust, and other fumes or particulate matter to enter your home.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Insulation",
+                    "* Heater",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Heating---Cooling/Heating/how-to-heat-a-garage/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Heating---Cooling/Heating/how-to-heat-a-garage/Step-By-Step]",
+                    "* [http://www.garagewoodwork.com/garage-workshop-heating.php http://www.garagewoodwork.com/garage-workshop-heating.php]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

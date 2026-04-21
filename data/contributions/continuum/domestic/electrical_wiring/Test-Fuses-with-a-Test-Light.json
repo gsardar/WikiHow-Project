@@ -1,0 +1,469 @@
+{
+    "title": "Test-Fuses-with-a-Test-Light",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:16:44.977572",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34069699",
+            "user": "Maintenance script",
+            "timestamp": "21:46, 18 February 2026",
+            "anon": false,
+            "size": "(9,960 bytes)",
+            "change": 0,
+            "summary": "(Protected \"Test Fuses with a Test Light\": Protecting page (infinite) ([Edit=Staff and Admins only] (indefinite) [Move=Staff and Admins only] (indefinite)))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "33353753",
+            "user": "Votebot",
+            "timestamp": "09:07, 27 April 2025",
+            "anon": false,
+            "size": "(9,960 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "33228142",
+            "user": "MiscBot",
+            "timestamp": "21:11, 10 March 2025",
+            "anon": false,
+            "size": "(9,958 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33108733",
+            "user": "WikiHow Projects",
+            "timestamp": "20:04, 30 January 2025",
+            "anon": false,
+            "size": "(9,939 bytes)",
+            "change": 6,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://www.emanualonline.com/blog/how-to-use-an-automotive-test-light</ref>[[Image:Test Fuses with a Test Light Step 04 Version 2.jpg|center]]",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://www.emanualonline.com/blog/how-to-use-an-automotive-test-light</ref>[[Image:Test Fuses with a Test Light Step 05 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 04 Version 2.jpg|center]]",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 05 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32761032",
+            "user": "Hopedemi",
+            "timestamp": "00:52, 4 September 2024",
+            "anon": false,
+            "size": "(9,933 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32729868",
+            "user": "WikiHow Projects",
+            "timestamp": "11:12, 20 August 2024",
+            "anon": false,
+            "size": "(9,627 bytes)",
+            "change": 39,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Test lights are generally cheaper than multimeters, but they don’t provide you with additional info like voltage.<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ],
+                "removed": [
+                    "*Test lights are generally cheaper than multimeters, but they don’t provide you with additional info like voltage."
+                ]
+            }
+        },
+        {
+            "id": "32155944",
+            "user": "Seymour Edits",
+            "timestamp": "16:34, 22 December 2023",
+            "anon": false,
+            "size": "(9,588 bytes)",
+            "change": 309,
+            "summary": "(added \"the takeaway\" for project)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "==The Takeaway: Using a Fuse Tester==",
+                    "To test vehicle fuses, place the test light’s clamp over the car battery’s negative terminal. Then, poke the tip of the test light’s probe into the fuse you want to test in your vehicle’s fuse box. If the test light doesn’t light up, the fuse is likely blown."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30265843",
+            "user": "Seymour Edits",
+            "timestamp": "03:31, 3 February 2022",
+            "anon": false,
+            "size": "(9,279 bytes)",
+            "change": -446,
+            "summary": "(wikihaus internal edit--please do not roll this back)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "A test light is a tool used to check fuse power that consists of a cable with a grounding clamp, a handle with a probe, and a light. This wikiHow article will teach you how to test fuses in your vehicle and your home with a test light."
+                ],
+                "removed": [
+                    "A test light is a tool that you can use to check fuse power. They're most commonly used to troubleshoot electrical issues in cars, but you can also use them to check fuses in your home's breaker box. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses so you can be sure you’re getting accurate results."
+                ]
+            }
+        },
+        {
+            "id": "28510306",
+            "user": "Wikivisual",
+            "timestamp": "14:46, 20 August 2020",
+            "anon": false,
+            "size": "(9,725 bytes)",
+            "change": 70,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Poke the tip of the test light’s probe into 1 of the holes on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into 1 of the 2 round or square holes on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}[[Image:Test Fuses with a Test Light Step 03 Version 2.jpg|center]]",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 04 Version 2.jpg|center]]",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 05 Version 2.jpg|center]]",
+                    "#Clip the test light’s clip onto the bare metal of the breaker box. Squeeze the test light’s alligator clip or clamp to open it up, then clip it onto a piece of bare metal on the breaker box that surrounds the fuse panel.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 08 Version 2.jpg|center]]",
+                    "#Watch to see if the test light turns on to find out if the fuse works. The test light will light up immediately if the fuse is working properly. The fuse is likely bad if the test light does not turn on.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 10 Version 2.jpg|center]]",
+                    "#Touch the tip of the test light’s probe to a positive power source. The probe is the metal needle at the end of the cable that has the handle. Hold the test light by the handle and touch the end of this needle against the car battery’s positive terminal or any other positive power source.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 12 Version 2.jpg|center]]",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}[[Image:Test Fuses with a Test Light Step 13 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Poke the tip of the test light’s probe into 1 of the holes on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into 1 of the 2 round or square holes on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}[[Image:Test Fuses with a Test Light Step 03.jpg|center]]",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 04.jpg|center]]",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 05.jpg|center]]",
+                    "#Clip the test light’s clip onto the bare metal of the breaker box. Squeeze the test light’s alligator clip or clamp to open it up, then clip it onto a piece of bare metal on the breaker box that surrounds the fuse panel.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 08.jpg|center]]",
+                    "#Watch to see if the test light turns on to find out if the fuse works. The test light will light up immediately if the fuse is working properly. The fuse is likely bad if the test light does not turn on.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 10.jpg|center]]",
+                    "#Touch the tip of the test light’s probe to a positive power source. The probe is the metal needle at the end of the cable that has the handle. Hold the test light by the handle and touch the end of this needle against the car battery’s positive terminal or any other positive power source.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 12.jpg|center]]",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}[[Image:Test Fuses with a Test Light Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28344598",
+            "user": "Wikivisual",
+            "timestamp": "11:22, 6 July 2020",
+            "anon": false,
+            "size": "(9,655 bytes)",
+            "change": 511,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>[[Image:Test Fuses with a Test Light Step 01.jpg|center]]",
+                    "#Ground the test light’s clip or clamp on a grounded metal surface. Squeeze the clip or clamp to open it up and place it over the car battery’s negative terminal, a bolt, or another nearby, unpainted metal surface on the vehicle. The test light must be grounded for it to work.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=202</ref>[[Image:Test Fuses with a Test Light Step 02.jpg|center]]",
+                    "#Poke the tip of the test light’s probe into 1 of the holes on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into 1 of the 2 round or square holes on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}[[Image:Test Fuses with a Test Light Step 03.jpg|center]]",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 04.jpg|center]]",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>[[Image:Test Fuses with a Test Light Step 05.jpg|center]]",
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>[[Image:Test Fuses with a Test Light Step 06.jpg|center]]",
+                    "#Make sure the fuse you want to test is in the “on” position. Open up your breaker box and locate the switch for the fuse you want to test. Flip the fuse switch on if it is off or partially off.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>[[Image:Test Fuses with a Test Light Step 07.jpg|center]]",
+                    "#Clip the test light’s clip onto the bare metal of the breaker box. Squeeze the test light’s alligator clip or clamp to open it up, then clip it onto a piece of bare metal on the breaker box that surrounds the fuse panel.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 08.jpg|center]]",
+                    "#Touch the test light’s probe to the fuse’s screw. Look for the exposed screw to the left or right of the breaker switch you want to test. Hold your test light by the handle and touch the pointy metal tip of the probe to the fuse’s screw.<ref>https://www.youtube.com/watch?v=GdlAxZHLDys&feature=youtu.be&t=47</ref>[[Image:Test Fuses with a Test Light Step 09.jpg|center]]",
+                    "#Watch to see if the test light turns on to find out if the fuse works. The test light will light up immediately if the fuse is working properly. The fuse is likely bad if the test light does not turn on.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 10.jpg|center]]",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 11.jpg|center]]",
+                    "#Touch the tip of the test light’s probe to a positive power source. The probe is the metal needle at the end of the cable that has the handle. Hold the test light by the handle and touch the end of this needle against the car battery’s positive terminal or any other positive power source.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Test Fuses with a Test Light Step 12.jpg|center]]",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}[[Image:Test Fuses with a Test Light Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>[[Image:Check-Fuses-Step-1-Version-7.jpg|center]]",
+                    "#Ground the test light’s clip or clamp on a grounded metal surface. Squeeze the clip or clamp to open it up and place it over the car battery’s negative terminal, a bolt, or another nearby, unpainted metal surface on the vehicle. The test light must be grounded for it to work.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=202</ref>",
+                    "#Poke the tip of the test light’s probe into 1 of the holes on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into 1 of the 2 round or square holes on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>[[Image:Deactivate-Onstar-Step-4.jpg|center]]",
+                    "#Make sure the fuse you want to test is in the “on” position. Open up your breaker box and locate the switch for the fuse you want to test. Flip the fuse switch on if it is off or partially off.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>",
+                    "#Clip the test light’s clip onto the bare metal of the breaker box. Squeeze the test light’s alligator clip or clamp to open it up, then clip it onto a piece of bare metal on the breaker box that surrounds the fuse panel.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#Touch the test light’s probe to the fuse’s screw. Look for the exposed screw to the left or right of the breaker switch you want to test. Hold your test light by the handle and touch the pointy metal tip of the probe to the fuse’s screw.<ref>https://www.youtube.com/watch?v=GdlAxZHLDys&feature=youtu.be&t=47</ref>",
+                    "#Watch to see if the test light turns on to find out if the fuse works. The test light will light up immediately if the fuse is working properly. The fuse is likely bad if the test light does not turn on.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Check-Fuses-Step-10-Version-6.jpg|center]]",
+                    "#Touch the tip of the test light’s probe to a positive power source. The probe is the metal needle at the end of the cable that has the handle. Hold the test light by the handle and touch the end of this needle against the car battery’s positive terminal or any other positive power source.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}[[Image:Diagnose-a-Non-Working-Air-Conditioning-in-a-Car-Step-6-Version-3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28106370",
+            "user": "WikiHow Projects",
+            "timestamp": "15:22, 12 May 2020",
+            "anon": false,
+            "size": "(9,144 bytes)",
+            "change": 230,
+            "summary": "(Added Images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>[[Image:Check-Fuses-Step-1-Version-7.jpg|center]]",
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>[[Image:Deactivate-Onstar-Step-4.jpg|center]]",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>[[Image:Check-Fuses-Step-10-Version-6.jpg|center]]",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}[[Image:Diagnose-a-Non-Working-Air-Conditioning-in-a-Car-Step-6-Version-3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>",
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}"
+                ]
+            }
+        },
+        {
+            "id": "28094774",
+            "user": "Seymour Edits",
+            "timestamp": "15:44, 9 May 2020",
+            "anon": false,
+            "size": "(8,914 bytes)",
+            "change": -14,
+            "summary": "(Replaced video source)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>",
+                    "#Make sure the fuse you want to test is in the “on” position. Open up your breaker box and locate the switch for the fuse you want to test. Flip the fuse switch on if it is off or partially off.<ref>https://www.bobvila.com/articles/circuit-breaker-tripping/</ref>",
+                    "#Touch the test light’s probe to the fuse’s screw. Look for the exposed screw to the left or right of the breaker switch you want to test. Hold your test light by the handle and touch the pointy metal tip of the probe to the fuse’s screw.<ref>https://www.youtube.com/watch?v=GdlAxZHLDys&feature=youtu.be&t=47</ref>"
+                ],
+                "removed": [
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=21</ref>",
+                    "#Make sure the fuse you want to test is in the “on” position. Open up your breaker box and locate the switch for the fuse you want to test. Flip the fuse switch on if it is off or partially off.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=26</ref>",
+                    "#Touch the test light’s probe to the fuse’s screw. Look for the exposed screw to the left or right of the breaker switch you want to test. Hold your test light by the handle and touch the pointy metal tip of the probe to the fuse’s screw.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=39</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28092490",
+            "user": "Sophia B",
+            "timestamp": "21:44, 8 May 2020",
+            "anon": false,
+            "size": "(8,928 bytes)",
+            "change": 7,
+            "summary": "(grammatical edits and wording adjustments)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A test light is a tool that you can use to check fuse power. They're most commonly used to troubleshoot electrical issues in cars, but you can also use them to check fuses in your home's breaker box. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses so you can be sure you’re getting accurate results.",
+                    "===Checking Fuse Power in a Vehicle===",
+                    "#*Your breaker box probably has a list of the breakers and the areas of the home that they correspond to, or it might have labels right next to the breaker switches themselves.",
+                    "#*Breaker boxes are usually located in a basement, garage, utility closet or kitchen. Some homes may have them in different places. If you aren’t sure where yours is, just look around for a panel on a wall that you can open up."
+                ],
+                "removed": [
+                    "A test light is a utensil that you can use to check fuse power. They're most commonly used to troubleshoot electrical issues in cats, but you can also use them to check fuses in your home's breaker box. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses, so you can be sure you’re getting accurate results.",
+                    "===Checking Fuse Power===",
+                    "#*Your breaker box probably has a list of the breakers and the areas of the house that they correspond to, or it might have labels right next to the breaker switches themselves.",
+                    "#*Breaker boxes are usually located in a basement, garage, utility closet or kitchen. Some houses may have them in different places. If you aren’t sure where yours is, just look around for a panel on a wall that you can open up."
+                ]
+            }
+        },
+        {
+            "id": "28092399",
+            "user": "Seymour Edits",
+            "timestamp": "21:11, 8 May 2020",
+            "anon": false,
+            "size": "(8,921 bytes)",
+            "change": 3572,
+            "summary": "(Added section, reorganized, edits to content.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A test light is a utensil that you can use to check fuse power. They're most commonly used to troubleshoot electrical issues in cats, but you can also use them to check fuses in your home's breaker box. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses, so you can be sure you’re getting accurate results.",
+                    "===Checking Fuse Power===",
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>",
+                    "#*Different vehicles have fuse box panels in different places. Read your owner’s manual or search online if you can’t find the fuse box panel in your vehicle.",
+                    "#*Note that some vehicles may have multiple fuse boxes.",
+                    "#Ground the test light’s clip or clamp on a grounded metal surface. Squeeze the clip or clamp to open it up and place it over the car battery’s negative terminal, a bolt, or another nearby, unpainted metal surface on the vehicle. The test light must be grounded for it to work.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=202</ref>",
+                    "#*What you ground the test light to depends on where the fuse box panel is located. For example, if it is located underneath the dash, the test light cable won’t reach the car’s battery. However, you could find a nearby bolt on the car door hinge.",
+                    "#*Any unpainted piece of metal on the vehicle will work to ground the test light. For instance, it could be a part of the metal frame under the hood or a nut or bolt on the engine block.",
+                    "#Poke the tip of the test light’s probe into 1 of the holes on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into 1 of the 2 round or square holes on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}",
+                    "#*Note that you don’t need to have your vehicle or any of its accessories powered on to test a fuse and you don’t have to pull out the fuses to test them.",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#*If you find a blown fuse, you can just pull it out with your fingers or a pair of pliers and replace it with a new fuse to fix the issue.",
+                    "#Test the second hole on the fuse. Stick the metal tip of the probe into the other hole. Watch for the test light to go on to verify that the fuse is fully functional.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#*The 2 holes on each fuse are for testing the power in and the power out, so make sure to check both the holes to ensure the fuse is working 100%. If only 1 of the holes lights up the test light, the fuse is probably blown.",
+                    "",
+                    "===Testing Home Fuses===",
+                    "#Turn off any electronics in the area that you are testing the fuse for. Turn off all the lights and unplug any electrical appliances from outlets in the room that you want to test the fuse for. This will help avoid electrical surges.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=21</ref>",
+                    "#*For example, if you’re testing the fuse that supplies power to the bathroom, turn off all the bathroom lights and unplug things like hair dryers from the outlets.",
+                    "#Make sure the fuse you want to test is in the “on” position. Open up your breaker box and locate the switch for the fuse you want to test. Flip the fuse switch on if it is off or partially off.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=26</ref>",
+                    "#*Your breaker box probably has a list of the breakers and the areas of the house that they correspond to, or it might have labels right next to the breaker switches themselves.",
+                    "#*Breaker boxes are usually located in a basement, garage, utility closet or kitchen. Some houses may have them in different places. If you aren’t sure where yours is, just look around for a panel on a wall that you can open up.",
+                    "#Clip the test light’s clip onto the bare metal of the breaker box. Squeeze the test light’s alligator clip or clamp to open it up, then clip it onto a piece of bare metal on the breaker box that surrounds the fuse panel.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#*Some fuse panels have a grounding screw that you can attach the clip to. This screw is usually located just above the main breaker. If you aren’t sure, just stick to grounding the clip on the surrounding metal box.",
+                    "#Touch the test light’s probe to the fuse’s screw. Look for the exposed screw to the left or right of the breaker switch you want to test. Hold your test light by the handle and touch the pointy metal tip of the probe to the fuse’s screw.<ref>https://www.youtube.com/watch?v=Q9iEg0TRreE&feature=youtu.be&t=39</ref>",
+                    "#*Each breaker switch has 1 corresponding screw that attaches the wires to the switch, so it should be very clear which screw you need to touch to test each breaker.",
+                    "#Watch to see if the test light turns on to find out if the fuse works. The test light will light up immediately if the fuse is working properly. The fuse is likely bad if the test light does not turn on.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#*If a breaker switch flips off before you can test it or while you’re testing it, and there is no electricity being used in the room you’re testing that fuse for, there could be a wiring problem. If this happens, contact a licensed electrician to come and check your wiring out and troubleshoot the issue.",
+                    "",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power. The procedure is exactly the same. You just connect the test light’s clip to the battery’s negative terminal, then probe the positive terminal and watch for the test light to go on.}}",
+                    "*If you find and remove a blown fuse, save it and take it to an automotive supply shop and ask for a replacement."
+                ],
+                "removed": [
+                    "A test light is a utensil that you can use to check fuse power, especially in cars to troubleshoot electrical issues. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses, so you can be sure you’re getting accurate results.",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power.}}",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "",
+                    "===Checking Fuse Power===",
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>",
+                    "#*Different vehicles have fuse box panels in different places. Read your owner’s manual or search online if you can’t find the fuse box panel in your vehicle.",
+                    "#Ground the test light’s clip or clamp on a grounded metal surface. Squeeze the clip or clamp to open it up and place it over the car battery’s negative terminal, a bolt, or another nearby metal surface on the vehicle. The test light must be grounded for it to work.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=202</ref>",
+                    "#*What you ground the test light to depends on where the fuse box panel is located. For example, if it is located underneath the dash, the test light cable won’t reach the car’s battery. However, you could find a nearby bolt on the car door hinge.",
+                    "#Poke the tip of the test light’s probe into the hole on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into the round or square hole on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}",
+                    "#*Note that you don’t need to have your vehicle or any of its accessories powered on to test a fuse.",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#*The fuses on a vehicle’s fuse panel have 2 holes on them, 1 for power in and 1 for power out, so make sure to check both the holes on each fuse you want to test to ensure the fuse is both receiving and providing power.",
+                    "*You don’t need to pull out fuses to check them with a test light.",
+                    "*If your test light doesn’t light up when you probe a certain fuse, you can remove and replace that fuse to restore power to the circuit. Just pull the fuse out with your fingers or pliers and take it to an automotive supply shop and ask for a replacement."
+                ]
+            }
+        },
+        {
+            "id": "28087082",
+            "user": "Azoo1368",
+            "timestamp": "20:00, 7 May 2020",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 26,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Car Lighting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28086580",
+            "user": "WRM",
+            "timestamp": "18:00, 7 May 2020",
+            "anon": false,
+            "size": "(5,323 bytes)",
+            "change": 5323,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A test light is a utensil that you can use to check fuse power, especially in cars to troubleshoot electrical issues. Test lights consist of a cable that has a clamp or clip at one end, used for grounding, and a handle with a probe and a light at the other end, which you use to test the fuses. A test light won’t give you voltage readouts like a [[Test a Fuse With a Multimeter|multimeter]], but you can use one to quickly determine which fuses have power and which don’t. Make sure your test light is working before you start testing fuses, so you can be sure you’re getting accurate results.",
+                    "==Steps==",
+                    "===Trying the Test Light===",
+                    "#Connect the test light’s clip or clamp to a metal surface to ground it. Any metal surface on the car or the car battery’s negative terminal will work for this. Squeeze the clip or clamp open and slide it onto the ground source, then release the clip or clamp to secure it in place.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>{{greenbox: '''Tip''': If you know your test light is working, you can also use this method to check whether a car battery has power.}}",
+                    "#*You can buy a test light online for as little as $10 USD. You could also purchase one at an auto supply shop or home improvement center.",
+                    "#Touch the tip of the test light’s probe to a positive power source. The probe is the metal needle at the end of the cable that has the handle. Hold the test light by the handle and touch the end of this needle against the car battery’s positive terminal or any other positive power source.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#*You could use any positive battery cable or a fuse that you know is working for this.",
+                    "#Watch for the test light to light up to see if it is working. The test light will light up as soon as you touch the probe to the power source. Proceed with testing your fuses once you are sure that your test light is working properly.<ref>https://www.2carpros.com/articles/how-to-use-a-test-light-circuit-tester</ref>",
+                    "#*If the test light doesn’t light up, double-check that it is grounded or try a different power source. If it still doesn’t light up after testing it again, you may need to replace it.",
+                    "",
+                    "===Checking Fuse Power===",
+                    "#Find your vehicle’s fuse box panel and remove the panel’s cover. The fuse box panel is usually located under the hood, underneath or on the side of the dash, in the glovebox, or in the trunk. The fuse box panel is a panel with different colored and numbered fuses. Pry the plastic cover off once you find the panel.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=22</ref>",
+                    "#*Different vehicles have fuse box panels in different places. Read your owner’s manual or search online if you can’t find the fuse box panel in your vehicle.",
+                    "#Ground the test light’s clip or clamp on a grounded metal surface. Squeeze the clip or clamp to open it up and place it over the car battery’s negative terminal, a bolt, or another nearby metal surface on the vehicle. The test light must be grounded for it to work.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=202</ref>",
+                    "#*What you ground the test light to depends on where the fuse box panel is located. For example, if it is located underneath the dash, the test light cable won’t reach the car’s battery. However, you could find a nearby bolt on the car door hinge.",
+                    "#Poke the tip of the test light’s probe into the hole on a fuse to test it. Pick a fuse that you want to test. Hold the test light by the handle and stick the pointy metal tip of the probe into the round or square hole on the fuse.<ref>https://www.youtube.com/watch?v=gKgmIcmp7eo&feature=youtu.be&t=287</ref>{{greenbox: '''Tip''': If you aren’t sure which fuse you need to test, check the inside of the fuse box panel’s cover for the different fuses listed with numbers that correspond to their location on the panel. If the cover doesn’t have a list, look in your vehicle’s owner’s manual.}}",
+                    "#*Note that you don’t need to have your vehicle or any of its accessories powered on to test a fuse.",
+                    "#Wait for the test light to light up to determine whether a fuse is working. The test light will light up right away when you poke the probe into a working fuse. The fuse is likely blown if the test light doesn’t light up.<ref>https://blog.emanualonline.com/how-to-use-an-automotive-test-light/</ref>",
+                    "#*The fuses on a vehicle’s fuse panel have 2 holes on them, 1 for power in and 1 for power out, so make sure to check both the holes on each fuse you want to test to ensure the fuse is both receiving and providing power.",
+                    "",
+                    "==Tips==",
+                    "*You don’t need to pull out fuses to check them with a test light.",
+                    "*Test lights are generally cheaper than multimeters, but they don’t provide you with additional info like voltage.",
+                    "*If your test light doesn’t light up when you probe a certain fuse, you can remove and replace that fuse to restore power to the circuit. Just pull the fuse out with your fingers or pliers and take it to an automotive supply shop and ask for a replacement.",
+                    "",
+                    "==Warnings==",
+                    "*Always hold a test light by the handle when you’re probing a fuse to avoid electrical shocks.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Test light",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,407 @@
+{
+    "title": "Gauge-Wire",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:23:15.843406",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34014640",
+            "user": "Maintenance script",
+            "timestamp": "18:28, 27 January 2026",
+            "anon": false,
+            "size": "(9,676 bytes)",
+            "change": 0,
+            "summary": "(Protected \"Gauge Wire\": Protecting page (infinite) ([Edit=Staff and Admins only] (indefinite) [Move=Staff and Admins only] (indefinite)))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "33538423",
+            "user": "Seymour Edits",
+            "timestamp": "02:24, 8 July 2025",
+            "anon": false,
+            "size": "(9,676 bytes)",
+            "change": 64,
+            "summary": "(Added and updated sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "The “gauge” of a piece of wire refers to its diameter. On the American Wire Gauge (AWG) scale, gauge sizes run from 0000 (also written 4/0) to nearly 60.<ref>https://energyeducation.ca/encyclopedia/Wire_gauge</ref> The larger the diameter of the wire, the smaller its gauge number will be. You can measure the gauge on either round solid wire (an individual wire with no insulation) or stranded wire (a number of strands wrapped together). To measure the gauge of a piece of wire, you’ll need to strip any insulation (the plastic coating which surrounds the wire), and then use a wire-gauge tool to measure the size.",
+                    "#Multiply the wire’s diameter by itself. To calculate the gauge of stranded wire, you’ll need to double the diameter. So, if you’ve measured a wire’s diameter to be 0.005 inches (0.127 mm), multiply this value by itself. The result will be 0.000025 in (0.000635 mm).<ref>https://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 10.jpg|center]]",
+                    "#Multiply the result by the number of strands in the wire. Depending on the size of the wire, it could have any number of individual, entwined strands. Count the individual strands, and multiply the result of the squared wire diameter by the number of strands. In this example, if the wire has 21 strands, multiply 0.000025 in (0.000635 mm) by 21. The result will be 0.000525 in (0.013335 mm).<ref>https://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 11.jpg|center]]",
+                    "#Find the wire’s corresponding AWG value. Once you’ve found the Circular Mils value of stranded wire, you’ll need to consult an online table in order to find the corresponding AWG value. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>https://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "The “gauge” of a piece of wire refers to its diameter. On the American Wire Gauge (AWG) scale, gauge sizes run from 0000 (also written 4/0) to nearly 60. The larger the diameter of the wire, the smaller its gauge number will be. You can measure the gauge on either round solid wire (an individual wire with no insulation) or stranded wire (a number of strands wrapped together). To measure the gauge of a piece of wire, you’ll need to strip any insulation (the plastic coating which surrounds the wire), and then use a wire-gauge tool to measure the size.",
+                    "#Multiply the wire’s diameter by itself. To calculate the gauge of stranded wire, you’ll need to double the diameter. So, if you’ve measured a wire’s diameter to be 0.005 inches (0.127 mm), multiply this value by itself. The result will be 0.000025 in (0.000635 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 10.jpg|center]]",
+                    "#Multiply the result by the number of strands in the wire. Depending on the size of the wire, it could have any number of individual, entwined strands. Count the individual strands, and multiply the result of the squared wire diameter by the number of strands. In this example, if the wire has 21 strands, multiply 0.000025 in (0.000635 mm) by 21. The result will be 0.000525 in (0.013335 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 11.jpg|center]]",
+                    "#Find the wire’s corresponding AWG value. Once you’ve found the Circular Mils value of stranded wire, you’ll need to consult an online table in order to find the corresponding AWG value. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 12.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33229070",
+            "user": "MiscBot",
+            "timestamp": "21:24, 10 March 2025",
+            "anon": false,
+            "size": "(9,612 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32446948",
+            "user": "MiscBot",
+            "timestamp": "00:16, 19 April 2024",
+            "anon": false,
+            "size": "(9,593 bytes)",
+            "change": -52,
+            "summary": "(Celebrity Green boxes converted to use new format)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#* The diameter measurement will not be an actual gauge size, since only uninsulated solid wires are gauged.{{celebritygreenbox:162861|Understanding wire gauges is crucial for safe, effective electrical work. The gauge refers to thickness, with smaller numbers representing thicker wires and larger numbers indicating thinner ones. This allows professionals to quickly determine properties like resistance and load capacity. The right gauge ensures safety and efficiency.}}"
+                ],
+                "removed": [
+                    "#* The diameter measurement will not be an actual gauge size, since only uninsulated solid wires are gauged.{{celebritygreenbox:Rex Cauldwell|Renowned Electrician|Image:Rex-Cauldwell.png|Understanding wire gauges is crucial for safe, effective electrical work. The gauge refers to thickness, with smaller numbers representing thicker wires and larger numbers indicating thinner ones. This allows professionals to quickly determine properties like resistance and load capacity. The right gauge ensures safety and efficiency.}}"
+                ]
+            }
+        },
+        {
+            "id": "32237679",
+            "user": "WikiHow Projects",
+            "timestamp": "17:02, 26 January 2024",
+            "anon": false,
+            "size": "(9,645 bytes)",
+            "change": 415,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* The diameter measurement will not be an actual gauge size, since only uninsulated solid wires are gauged.{{celebritygreenbox:Rex Cauldwell|Renowned Electrician|Image:Rex-Cauldwell.png|Understanding wire gauges is crucial for safe, effective electrical work. The gauge refers to thickness, with smaller numbers representing thicker wires and larger numbers indicating thinner ones. This allows professionals to quickly determine properties like resistance and load capacity. The right gauge ensures safety and efficiency.}}"
+                ],
+                "removed": [
+                    "#* The diameter measurement will not be an actual gauge size, since only uninsulated solid wires are gauged.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "31756003",
+            "user": "Seymour Edits",
+            "timestamp": "12:07, 2 July 2023",
+            "anon": false,
+            "size": "(9,230 bytes)",
+            "change": -50,
+            "summary": "(Replaced bad references for wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Estimate the gauge size of the wire. Begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. This will save you time that you’d otherwise spend on trying to fit the wire into many too-large or too-small gauge grooves.<ref>https://www.youtube.com/watch?v=v2YaSLWKOQE</ref>[[Image:Gauge Wire Step 6.jpg|center]]",
+                    "#Slide your wire into the gauge groove and see where it fits. Place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.youtube.com/watch?v=v2YaSLWKOQE</ref>[[Image:Gauge Wire Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#Estimate the gauge size of the wire. Begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. This will save you time that you’d otherwise spend on trying to fit the wire into many too-large or too-small gauge grooves.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>[[Image:Gauge Wire Step 6.jpg|center]]",
+                    "#Slide your wire into the gauge groove and see where it fits. Place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>[[Image:Gauge Wire Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28259865",
+            "user": "WikiHow Expert Review",
+            "timestamp": "16:41, 17 June 2020",
+            "anon": false,
+            "size": "(9,280 bytes)",
+            "change": 7,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* Rather than providing a one-size-fits-all wire-gauging hole, many pairs of wire strippers are themselves gauged. A gauged stripper will have about 10 holes of varying gauge sizes running up and down the interior of the tool’s ‘blades.’<ref>[v161396_b01]. 6 May 2020.</ref>",
+                    "#Measure the diameter of a single wire. Stranded wire consists of multiple thin wire filaments that have been twisted together to form a single composite “wire.” To calculate the gauge of stranded wire, you’ll need to find the diameter of a single wire strand in either millimeters or inches.<ref>[v161396_b01]. 6 May 2020.</ref> [[Image:Gauge Wire Step 9.jpg|center]]"
+                ],
+                "removed": [
+                    "#* Rather than providing a one-size-fits-all wire-gauging hole, many pairs of wire strippers are themselves gauged. A gauged stripper will have about 10 holes of varying gauge sizes running up and down the interior of the tool’s ‘blades.’",
+                    "#Measure the diameter of a single wire. Stranded wire consists of multiple thin wire filaments that have been twisted together to form a single composite “wire.” To calculate the gauge of stranded wire, you’ll need to find the diameter of a single wire strand in either millimeters or inches.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>[[Image:Gauge Wire Step 9.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27071531",
+            "user": "Seymour Edits",
+            "timestamp": "21:27, 12 September 2019",
+            "anon": false,
+            "size": "(9,273 bytes)",
+            "change": 129,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Gauge-Wire}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26286867",
+            "user": "MiscBot",
+            "timestamp": "02:04, 29 March 2019",
+            "anon": false,
+            "size": "(9,144 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25136758",
+            "user": "Votebot",
+            "timestamp": "09:18, 25 August 2018",
+            "anon": false,
+            "size": "(9,153 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    "* Wire gauges are most commonly used in work with either electrical wiring or jewelry.<ref>https://jewelrytutorialhq.com/jewelry-wire-gauges-explained/</ref>",
+                    "* The American Wire Gauge (AWG) measurement system can also be referred to as the “Brown and Sharpe Gage.”<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "* If you live outside of North America, you may encounter other common gauge-measurement systems, including Circular Mils (CMA), the Standard Wire Gauge (SWG) in Britain, and the Birmingham Wire Gauge (BWG), an old British system that was used worldwide.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>"
+                ],
+                "removed": [
+                    "==Tips==",
+                    "* Wire gauges are most commonly used in work with either electrical wiring or jewelry.<ref>https://jewelrytutorialhq.com/jewelry-wire-gauges-explained/</ref>",
+                    "* The American Wire Gauge (AWG) measurement system can also be referred to as the “Brown and Sharpe Gage.”<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "* If you live outside of North America, you may encounter other common gauge-measurement systems, including Circular Mils (CMA), the Standard Wire Gauge (SWG) in Britain, and the Birmingham Wire Gauge (BWG), an old British system that was used worldwide.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23222855",
+            "user": "Wikivisual",
+            "timestamp": "15:11, 16 September 2017",
+            "anon": false,
+            "size": "(9,156 bytes)",
+            "change": 431,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a wire-stripping tool. As it’s impossible to gauge a wire with the insulation on, you’ll need to remove this thin plastic protective coating before measuring the wire gauge. The wire-stripping tool is specifically designed for this task: it looks a little like a pair of pliers. The tool has a small hole near its tip, which is lined with a sharp blade to cut through and remove plastic insulation.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>[[Image:Gauge Wire Step 1.jpg|center]]",
+                    "#Place two inches of wire through the stripping tool. Your insulated wire should fit tightly into the small, sharp hole in the wire-stripping tool. Stripping the insulation off of about 2 inches (5 cm) of wire will give you plenty to work with when measuring gauge.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>[[Image:Gauge Wire Step 2.jpg|center]]",
+                    "#Clamp down and pull off the insulation. Once the wire has been inserted into the stripper tool’s hole, squeeze the handles together. Pull the stripper tool away from the full piece of wire to slice through the plastic insulation and slide it off the end of the wire.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>[[Image:Gauge Wire Step 3.jpg|center]]",
+                    "#Contact the wire manufacturer for the diameter of insulated wire. If it’s important to your electrical project that you know the exact diameter of insulated wire, you’ll need to get in touch with the manufacturer directly. If you’re unsure which company manufactured the wire, take it to your local hardware store. They may be able to identify the company, and if not, they can measure the wire for you anyway.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>[[Image:Gauge Wire Step 4.jpg|center]]",
+                    "#Purchase a wire gauging tool. A wire gauging tool is a piece of metal (typically circular or rectangular) which is studded with dozens of holes around its perimeter. Each hole is labeled with—and corresponds to—a different gauge size.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>[[Image:Gauge Wire Step 5.jpg|center]]",
+                    "#Estimate the gauge size of the wire. Begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. This will save you time that you’d otherwise spend on trying to fit the wire into many too-large or too-small gauge grooves.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>[[Image:Gauge Wire Step 6.jpg|center]]",
+                    "#Slide your wire into the gauge groove and see where it fits. Place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>[[Image:Gauge Wire Step 7.jpg|center]]",
+                    "#Compare the wire against another wire whose gauge is known. If you do not have a wire gauge tool, you can still find a wire’s gauge by measuring it against another wire of known gauge size. For example, if you have a small-diameter section of wire, hold it next to wires of known gauge (e.g. 20, 21, and 22) to see which your segment matches.[[Image:Gauge Wire Step 8.jpg|center]]",
+                    "#Measure the diameter of a single wire. Stranded wire consists of multiple thin wire filaments that have been twisted together to form a single composite “wire.” To calculate the gauge of stranded wire, you’ll need to find the diameter of a single wire strand in either millimeters or inches.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>[[Image:Gauge Wire Step 9.jpg|center]]",
+                    "#Multiply the wire’s diameter by itself. To calculate the gauge of stranded wire, you’ll need to double the diameter. So, if you’ve measured a wire’s diameter to be 0.005 inches (0.127 mm), multiply this value by itself. The result will be 0.000025 in (0.000635 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 10.jpg|center]]",
+                    "#Multiply the result by the number of strands in the wire. Depending on the size of the wire, it could have any number of individual, entwined strands. Count the individual strands, and multiply the result of the squared wire diameter by the number of strands. In this example, if the wire has 21 strands, multiply 0.000025 in (0.000635 mm) by 21. The result will be 0.000525 in (0.013335 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 11.jpg|center]]",
+                    "#Find the wire’s corresponding AWG value. Once you’ve found the Circular Mils value of stranded wire, you’ll need to consult an online table in order to find the corresponding AWG value. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>[[Image:Gauge Wire Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "# Purchase a wire-stripping tool. As it’s impossible to gauge a wire with the insulation on, you’ll need to remove this thin plastic protective coating before measuring the wire gauge. The wire-stripping tool is specifically designed for this task: it looks a little like a pair of pliers. The tool has a small hole near its tip, which is lined with a sharp blade to cut through and remove plastic insulation.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "# Place two inches of wire through the stripping tool. Your insulated wire should fit tightly into the small, sharp hole in the wire-stripping tool. Stripping the insulation off of about 2 inches (5 cm) of wire will give you plenty to work with when measuring gauge.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "# Clamp down and pull off the insulation. Once the wire has been inserted into the stripper tool’s hole, squeeze the handles together. Pull the stripper tool away from the full piece of wire to slice through the plastic insulation and slide it off the end of the wire.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "# Contact the wire manufacturer for the diameter of insulated wire. If it’s important to your electrical project that you know the exact diameter of insulated wire, you’ll need to get in touch with the manufacturer directly. If you’re unsure which company manufactured the wire, take it to your local hardware store. They may be able to identify the company, and if not, they can measure the wire for you anyway.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "# Purchase a wire gauging tool. A wire gauging tool is a piece of metal (typically circular or rectangular) which is studded with dozens of holes around its perimeter. Each hole is labeled with—and corresponds to—a different gauge size.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "# Estimate the gauge size of the wire. Begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. This will save you time that you’d otherwise spend on trying to fit the wire into many too-large or too-small gauge grooves.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "# Slide your wire into the gauge groove and see where it fits. Place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "# Compare the wire against another wire whose gauge is known. If you do not have a wire gauge tool, you can still find a wire’s gauge by measuring it against another wire of known gauge size. For example, if you have a small-diameter section of wire, hold it next to wires of known gauge (e.g. 20, 21, and 22) to see which your segment matches.",
+                    "# Measure the diameter of a single wire. Stranded wire consists of multiple thin wire filaments that have been twisted together to form a single composite “wire.” To calculate the gauge of stranded wire, you’ll need to find the diameter of a single wire strand in either millimeters or inches.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "# Multiply the wire’s diameter by itself. To calculate the gauge of stranded wire, you’ll need to double the diameter. So, if you’ve measured a wire’s diameter to be 0.005 inches (0.127 mm), multiply this value by itself. The result will be 0.000025 in (0.000635 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "# Multiply the result by the number of strands in the wire. Depending on the size of the wire, it could have any number of individual, entwined strands. Count the individual strands, and multiply the result of the squared wire diameter by the number of strands. In this example, if the wire has 21 strands, multiply 0.000025 in (0.000635 mm) by 21. The result will be 0.000525 in (0.013335 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "# Find the wire’s corresponding AWG value. Once you’ve found the Circular Mils value of stranded wire, you’ll need to consult an online table in order to find the corresponding AWG value. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23012361",
+            "user": "Seymour Edits",
+            "timestamp": "14:13, 11 August 2017",
+            "anon": false,
+            "size": "(8,725 bytes)",
+            "change": 629,
+            "summary": "(Clarified 1.2.1, 1.4, and 3.4. Corrected minor typos. Added 2.2 and \"Things You'll Need.\")",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#* Rather than providing a one-size-fits-all wire-gauging hole, many pairs of wire strippers are themselves gauged. A gauged stripper will have about 10 holes of varying gauge sizes running up and down the interior of the tool’s ‘blades.’",
+                    "#* This means that you’ll need to approximate the gauge of the wire (even if you don’t know it beforehand) to remove the insulation from the wire.",
+                    "# Contact the wire manufacturer for the diameter of insulated wire. If it’s important to your electrical project that you know the exact diameter of insulated wire, you’ll need to get in touch with the manufacturer directly. If you’re unsure which company manufactured the wire, take it to your local hardware store. They may be able to identify the company, and if not, they can measure the wire for you anyway.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "#* Although gauge sizes are universal, different companies put different amounts of plastic insulation around their wires.",
+                    "# Purchase a wire gauging tool. A wire gauging tool is a piece of metal (typically circular or rectangular) which is studded with dozens of holes around its perimeter. Each hole is labeled with—and corresponds to—a different gauge size.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "#* You can purchase a wire gauging tool at your local hardware store or home-supply store).",
+                    "# Estimate the gauge size of the wire. Begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. This will save you time that you’d otherwise spend on trying to fit the wire into many too-large or too-small gauge grooves.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "# Slide your wire into the gauge groove and see where it fits. Place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "#* If the wire is of a very large gauge (very small diameter) and can’t be measure with a ruler, use a wire and conduit measuring device. This tool can also be purchased at any hardware store.",
+                    "#* This calculation will give you the Circular Mils (CMA) value for the stranded wire. CMA is another commonly used wire-gauge scale which calculates the circular area of wires.",
+                    "#* As a general rule, larger-gauge wire (smaller diameter) contains fewer strands. Large-gauge wires may contain as few as 7 or 8 strands, while small-gauge (large diameter) wires may contain as many as 20, 40, or even 100 strands.",
+                    "# Find the wire’s corresponding AWG value. Once you’ve found the Circular Mils value of stranded wire, you’ll need to consult an online table in order to find the corresponding AWG value. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "#* For example, if you measure the diameter of a wire strand as 0.005 inches (0.127 mm) and the stranded wire has 21 strands, this corresponds to a CMA of 525 and to an AWG of 22.",
+                    "",
+                    "==Things You'll Need==",
+                    "* wire",
+                    "* wire-stripping tool",
+                    "* wire-gauging tool",
+                    "* a range of gauged wires (optional)",
+                    "* wire and conduit measuring device",
+                    "* calculator (optional)"
+                ],
+                "removed": [
+                    "#* Many pairs of wire strippers are themselves gauged. This means that you’ll need to approximate the gauge of the wire (even if you don’t know it beforehand) to remove the insulation from the wire.",
+                    "# Contact the wire manufacturer for the diameter of insulated wire. If it’s important to your electrical project that you know the exact diameter of insulated wire, you’ll need to get in touch with the manufacturer directly. Although gauge sizes are universal, different companies put different amounts of plastic insulation around their wires.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "# Purchase a wire gauging tool. A wire gauging tool is a piece of metal (typically circular or rectangular) which is studded with dozens of holes around its perimeter. Each hold is labeled with—and corresponds to—a different gauge size.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "#* You can purchase a wire gauging tool at your local hardware store or home-supply store (like Home Depot or Lowe’s).",
+                    "#* Wire gauge tools can also be purchased any many retailers online. For the broadest selection, check the websites of well-known hardware companies, such as Grainger.<ref>https://www.grainger.com/category/hole-drill-bore-and-wire-gauges/precision-measuring-tools/machining/ecatalog/N-q2f</ref>",
+                    "# Slide your wire into the gauge groove and see where it fits. You’ll need to begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. Then begin to place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "#* If the wire is of a very large gauge (very small diameter) and can’t be measure with a ruler, use a wire and conduit measuring device.",
+                    "#* This tool can also be purchased at any hardware store.",
+                    "#* As a general rule, larger-gauge wire (smaller diameter) contain fewer strands. Large-gauge wires may contain as few as 7 or 8 strands, while small-gauge (large diameter) wires may contain as many as 20, 40, or even 100 strands.",
+                    "# Find the wire’s Circular Mils value. Circular Mils (CMA) is another commonly used wire-gauge scale which calculates the circular area of wires. In order to find the Circular Mils value of a wire strand, you’ll need to consult an online table. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "#* For example, if you measure the diameter of a wire strand as 0.005 inches (0.127 mm), this corresponds to a CMA of 525."
+                ]
+            }
+        },
+        {
+            "id": "23010059",
+            "user": "Ral2004",
+            "timestamp": "06:16, 11 August 2017",
+            "anon": false,
+            "size": "(8,096 bytes)",
+            "change": 51,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23006795",
+            "user": "WRM",
+            "timestamp": "16:41, 10 August 2017",
+            "anon": false,
+            "size": "(8,045 bytes)",
+            "change": 8045,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "The “gauge” of a piece of wire refers to its diameter. On the American Wire Gauge (AWG) scale, gauge sizes run from 0000 (also written 4/0) to nearly 60. The larger the diameter of the wire, the smaller its gauge number will be. You can measure the gauge on either round solid wire (an individual wire with no insulation) or stranded wire (a number of strands wrapped together). To measure the gauge of a piece of wire, you’ll need to strip any insulation (the plastic coating which surrounds the wire), and then use a wire-gauge tool to measure the size.",
+                    "==Steps==",
+                    "===Stripping Insulation===",
+                    "# Purchase a wire-stripping tool. As it’s impossible to gauge a wire with the insulation on, you’ll need to remove this thin plastic protective coating before measuring the wire gauge. The wire-stripping tool is specifically designed for this task: it looks a little like a pair of pliers. The tool has a small hole near its tip, which is lined with a sharp blade to cut through and remove plastic insulation.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "#* You should be able to find a wire-stripping tool at any local hardware store.",
+                    "# Place two inches of wire through the stripping tool. Your insulated wire should fit tightly into the small, sharp hole in the wire-stripping tool. Stripping the insulation off of about 2 inches (5 cm) of wire will give you plenty to work with when measuring gauge.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "#* Many pairs of wire strippers are themselves gauged. This means that you’ll need to approximate the gauge of the wire (even if you don’t know it beforehand) to remove the insulation from the wire.",
+                    "# Clamp down and pull off the insulation. Once the wire has been inserted into the stripper tool’s hole, squeeze the handles together. Pull the stripper tool away from the full piece of wire to slice through the plastic insulation and slide it off the end of the wire.<ref>https://www.sciencebuddies.org/science-fair-projects/references/wire-stripping-tutorial#stripping_hookup_wire</ref>",
+                    "#* At this point, you should have 2 inches (5 cm) of exposed wiring, of which you can measure the gauge.",
+                    "# Contact the wire manufacturer for the diameter of insulated wire. If it’s important to your electrical project that you know the exact diameter of insulated wire, you’ll need to get in touch with the manufacturer directly. Although gauge sizes are universal, different companies put different amounts of plastic insulation around their wires.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "#* The diameter measurement will not be an actual gauge size, since only uninsulated solid wires are gauged.",
+                    "",
+                    "===Gauging Round Solid Wire===",
+                    "# Purchase a wire gauging tool. A wire gauging tool is a piece of metal (typically circular or rectangular) which is studded with dozens of holes around its perimeter. Each hold is labeled with—and corresponds to—a different gauge size.<ref>http://www.dave-cushman.net/elect/wiregauge.html</ref>",
+                    "#* Make sure that the gauge tool specifies which measurement system it corresponds with. If you’re located in North America, your tool will probably measure on the AWG scale.",
+                    "#* You can purchase a wire gauging tool at your local hardware store or home-supply store (like Home Depot or Lowe’s).",
+                    "#* Wire gauge tools can also be purchased any many retailers online. For the broadest selection, check the websites of well-known hardware companies, such as Grainger.<ref>https://www.grainger.com/category/hole-drill-bore-and-wire-gauges/precision-measuring-tools/machining/ecatalog/N-q2f</ref>",
+                    "# Slide your wire into the gauge groove and see where it fits. You’ll need to begin by eyeballing the approximate size of the wire and see which gauge holes are roughly the same size. Then begin to place the wire into each groove until you find the best fit. Your wire will correspond with the size of the smallest gauge groove that it slides into. The fit should be snug but not too tight.<ref>https://www.wigjig.com/jewelry-techniques/tools/1192-wire-gauge-tool</ref>",
+                    "#* Note that each of the grooves will have a slightly larger hole located next to it. These holes are not used to measure gauge size. They’re simply on the tool to allow you to easily remove the wire from the grooves.",
+                    "# Compare the wire against another wire whose gauge is known. If you do not have a wire gauge tool, you can still find a wire’s gauge by measuring it against another wire of known gauge size. For example, if you have a small-diameter section of wire, hold it next to wires of known gauge (e.g. 20, 21, and 22) to see which your segment matches.",
+                    "#* If you don’t have any other wires whose gauge you know, take your wire strand to a local hardware store. They’ll likely have enough gauged wire in their inventory that they can pull out various sizes of wire for you to compare your strand with.",
+                    "",
+                    "===Gauging Stranded Wire===",
+                    "# Measure the diameter of a single wire. Stranded wire consists of multiple thin wire filaments that have been twisted together to form a single composite “wire.” To calculate the gauge of stranded wire, you’ll need to find the diameter of a single wire strand in either millimeters or inches.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "#* If the wire is of a very large gauge (very small diameter) and can’t be measure with a ruler, use a wire and conduit measuring device.",
+                    "#* This tool can also be purchased at any hardware store.",
+                    "# Multiply the wire’s diameter by itself. To calculate the gauge of stranded wire, you’ll need to double the diameter. So, if you’ve measured a wire’s diameter to be 0.005 inches (0.127 mm), multiply this value by itself. The result will be 0.000025 in (0.000635 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "# Multiply the result by the number of strands in the wire. Depending on the size of the wire, it could have any number of individual, entwined strands. Count the individual strands, and multiply the result of the squared wire diameter by the number of strands. In this example, if the wire has 21 strands, multiply 0.000025 in (0.000635 mm) by 21. The result will be 0.000525 in (0.013335 mm).<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "#* As a general rule, larger-gauge wire (smaller diameter) contain fewer strands. Large-gauge wires may contain as few as 7 or 8 strands, while small-gauge (large diameter) wires may contain as many as 20, 40, or even 100 strands.",
+                    "# Find the wire’s Circular Mils value. Circular Mils (CMA) is another commonly used wire-gauge scale which calculates the circular area of wires. In order to find the Circular Mils value of a wire strand, you’ll need to consult an online table. Alternately, your local hardware store may have a physical copy of gauge-comparison table.<ref>http://www.zierick.com/pdf/wire.pdf</ref>",
+                    "#* For example, if you measure the diameter of a wire strand as 0.005 inches (0.127 mm), this corresponds to a CMA of 525.",
+                    "",
+                    "==Tips==",
+                    "* Wire gauges are most commonly used in work with either electrical wiring or jewelry.<ref>https://jewelrytutorialhq.com/jewelry-wire-gauges-explained/</ref>",
+                    "* The American Wire Gauge (AWG) measurement system can also be referred to as the “Brown and Sharpe Gage.”<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "* If you live outside of North America, you may encounter other common gauge-measurement systems, including Circular Mils (CMA), the Standard Wire Gauge (SWG) in Britain, and the Birmingham Wire Gauge (BWG), an old British system that was used worldwide.<ref>https://powerwerx.com/help/wire-gauge-awg-reference-table</ref>",
+                    "",
+                    "==Warnings==",
+                    "* Whenever you’re working with electrical wires, make sure that the wire is not plugged in and that no electrical charge is running through it.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__Methods__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,2176 @@
+{
+    "title": "Construct-a-Simple-5V-DC-Power-Supply",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:29:28.610022",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32735112",
+            "user": "MiscBot",
+            "timestamp": "03:53, 23 August 2024",
+            "anon": false,
+            "size": "(5,468 bytes)",
+            "change": -62,
+            "summary": "(Removed broken YouTube video)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Construct a Simple 5V DC Power Supply|}}"
+                ]
+            }
+        },
+        {
+            "id": "32715235",
+            "user": "Hopedemi",
+            "timestamp": "16:49, 12 August 2024",
+            "anon": false,
+            "size": "(5,530 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32686256",
+            "user": "Seymour Edits",
+            "timestamp": "14:51, 30 July 2024",
+            "anon": false,
+            "size": "(5,224 bytes)",
+            "change": 69,
+            "summary": "(Added expert citation.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.<ref>[v161396_b01]. 3 March 2021.</ref>  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.[[Image:Construct a Simple 5V DC Power Supply Step 1 Version 2.jpg|center]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.[[Image:Construct a Simple 5V DC Power Supply Step 1 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30273896",
+            "user": "Votebot",
+            "timestamp": "10:17, 6 February 2022",
+            "anon": false,
+            "size": "(5,155 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications."
+                ],
+                "removed": [
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications."
+                ]
+            }
+        },
+        {
+            "id": "30259368",
+            "user": "Ranthord",
+            "timestamp": "17:54, 31 January 2022",
+            "anon": false,
+            "size": "(5,155 bytes)",
+            "change": 62,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Construct a Simple 5V DC Power Supply|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28710427",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:41, 8 October 2020",
+            "anon": false,
+            "size": "(5,093 bytes)",
+            "change": -45,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Master Do It Yourself Electrical Safety]]"
+                ]
+            }
+        },
+        {
+            "id": "27053584",
+            "user": "Votebot",
+            "timestamp": "10:09, 9 September 2019",
+            "anon": false,
+            "size": "(5,138 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave rectifier in the current design."
+                ],
+                "removed": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave rectifier in the current design."
+                ]
+            }
+        },
+        {
+            "id": "26923213",
+            "user": "Votebot",
+            "timestamp": "09:59, 9 August 2019",
+            "anon": false,
+            "size": "(5,138 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ],
+                "removed": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ]
+            }
+        },
+        {
+            "id": "24229199",
+            "user": "Votebot",
+            "timestamp": "09:01, 18 March 2018",
+            "anon": false,
+            "size": "(5,138 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "23724488",
+            "user": "Votebot",
+            "timestamp": "10:02, 15 December 2017",
+            "anon": false,
+            "size": "(5,138 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "23604686",
+            "user": "103.245.205.180",
+            "timestamp": "05:29, 23 November 2017",
+            "anon": true,
+            "size": "(5,138 bytes)",
+            "change": -3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*You use a resistor instead of an IC regulator."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "* You use a resistor instead of an IC regulator."
+                ]
+            }
+        },
+        {
+            "id": "23557354",
+            "user": "Votebot",
+            "timestamp": "09:22, 14 November 2017",
+            "anon": false,
+            "size": "(5,141 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "23386030",
+            "user": "Votebot",
+            "timestamp": "08:55, 14 October 2017",
+            "anon": false,
+            "size": "(5,141 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ],
+                "removed": [
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ]
+            }
+        },
+        {
+            "id": "22456191",
+            "user": "ExoticComet",
+            "timestamp": "19:53, 20 May 2017",
+            "anon": false,
+            "size": "(5,141 bytes)",
+            "change": 49,
+            "summary": "(New tip approved in Tips Patrol)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* You use a resistor instead of an IC regulator."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "22115943",
+            "user": "Votebot",
+            "timestamp": "08:03, 26 March 2017",
+            "anon": false,
+            "size": "(5,092 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "20824908",
+            "user": "Votebot",
+            "timestamp": "08:34, 21 August 2016",
+            "anon": false,
+            "size": "(5,092 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "20567800",
+            "user": "Votebot",
+            "timestamp": "08:31, 11 July 2016",
+            "anon": false,
+            "size": "(5,092 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ]
+            }
+        },
+        {
+            "id": "19578755",
+            "user": "Votebot",
+            "timestamp": "09:51, 4 February 2016",
+            "anon": false,
+            "size": "(5,092 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "19348379",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "02:06, 9 January 2016",
+            "anon": false,
+            "size": "(5,092 bytes)",
+            "change": -257,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Make an AC DC Converter]]",
+                    "*[[Convert a Computer ATX Power Supply to a Lab Power Supply]]",
+                    "*[[Diagnose and Replace a Failed PC Power Supply]]",
+                    "*[[Master Do It Yourself Electrical Safety]]",
+                    "*[[Keep Cats from Chewing on Electric Cords and Chargers]]"
+                ],
+                "removed": [
+                    "*[[Make an AC DC Converter|How to Make an Ac Dc Converter]]",
+                    "*[[Convert a Computer ATX Power Supply to a Lab Power Supply|How to Convert a Computer ATX Power Supply to a Lab Power Supply]]",
+                    "*[[Diagnose and Replace a Failed PC Power Supply|How to Diagnose and Replace a Failed PC Power Supply]]",
+                    "*[[Master Do It Yourself Electrical Safety|How to Master Do It Yourself Electrical Safety]]",
+                    "*[[Keep Cats from Chewing on Electric Cords and Chargers|How to Keep Cats from Chewing on Electric Cords and Chargers]]"
+                ]
+            }
+        },
+        {
+            "id": "19213502",
+            "user": "RedirectsBot",
+            "timestamp": "22:59, 5 January 2016",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 0,
+            "summary": "(Updating link to point directly to article instead of redirect)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*[[Make an AC DC Converter|How to Make an Ac Dc Converter]]"
+                ],
+                "removed": [
+                    "*[[Make an Ac Dc Converter|How to Make an Ac Dc Converter]]"
+                ]
+            }
+        },
+        {
+            "id": "19188070",
+            "user": "Votebot",
+            "timestamp": "09:53, 4 January 2016",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "18842879",
+            "user": "Votebot",
+            "timestamp": "09:50, 12 November 2015",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "18437348",
+            "user": "Votebot",
+            "timestamp": "08:38, 15 September 2015",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "18256285",
+            "user": "Wikivisual",
+            "timestamp": "06:56, 19 August 2015",
+            "anon": false,
+            "size": "(5,349 bytes)",
+            "change": 40,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.[[Image:Construct a Simple 5V DC Power Supply Step 1 Version 2.jpg|center]]",
+                    "#Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.[[Image:Construct a Simple 5V DC Power Supply Step 2 Version 2.jpg|center]]",
+                    "#Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.[[Image:Construct a Simple 5V DC Power Supply Step 3 Version 2.jpg|center]]",
+                    "#Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.[[Image:Construct a Simple 5V DC Power Supply Step 4 Version 2.jpg|center]]",
+                    "#Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.[[Image:Construct a Simple 5V DC Power Supply Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.[[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|center]]",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.[[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|center]]",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.[[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|center]]",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.[[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|center]]",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.[[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18083701",
+            "user": "MiscBot",
+            "timestamp": "03:05, 29 July 2015",
+            "anon": false,
+            "size": "(5,309 bytes)",
+            "change": -70,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.[[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|center]]",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.[[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|center]]",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.[[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|center]]",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.[[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|center]]",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.[[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|center|550px]]",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|center|550px]]",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|center|550px]]",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|center|550px]]",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17948164",
+            "user": "InterwikiBot",
+            "timestamp": "18:09, 27 July 2015",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": -173,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:construir una fuente de alimentación sencilla de 5 V CC]]",
+                    "[[it:Costruire un Semplice Alimentatore da 5V DC]]",
+                    "[[pt:Como Construir uma Fonte de Alimentação CC de 5V]]"
+                ]
+            }
+        },
+        {
+            "id": "17784117",
+            "user": "Votebot",
+            "timestamp": "12:51, 10 July 2015",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "17563619",
+            "user": "Votebot",
+            "timestamp": "13:47, 9 June 2015",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ]
+            }
+        },
+        {
+            "id": "17106177",
+            "user": "Votebot",
+            "timestamp": "13:14, 13 April 2015",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "17093013",
+            "user": "Votebot",
+            "timestamp": "13:03, 11 April 2015",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "16852118",
+            "user": "Votebot",
+            "timestamp": "14:17, 11 March 2015",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "16096474",
+            "user": "Votebot",
+            "timestamp": "15:14, 8 December 2014",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ],
+                "removed": [
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall."
+                ]
+            }
+        },
+        {
+            "id": "15949639",
+            "user": "InterwikiBot",
+            "timestamp": "14:36, 20 November 2014",
+            "anon": false,
+            "size": "(5,552 bytes)",
+            "change": 58,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Como Construir uma Fonte de Alimentação CC de 5V]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "15834421",
+            "user": "Votebot",
+            "timestamp": "14:45, 7 November 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "15564327",
+            "user": "Votebot",
+            "timestamp": "19:04, 7 October 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "15197663",
+            "user": "Votebot",
+            "timestamp": "19:33, 27 August 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ],
+                "removed": [
+                    "*Running the 5V regulator at high temperatures will shorten its life."
+                ]
+            }
+        },
+        {
+            "id": "14455683",
+            "user": "Votebot",
+            "timestamp": "17:01, 6 August 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode.",
+                    "*Even higher voltages will require some caution and a secondary regulator to drop the voltage to what can be handled by the 5V regulator."
+                ],
+                "removed": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode.",
+                    "*Even higher voltages will require some caution and a secondary regulator to drop the voltage to what can be handled by the 5V regulator."
+                ]
+            }
+        },
+        {
+            "id": "14146609",
+            "user": "Votebot",
+            "timestamp": "17:26, 6 July 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Try to use a 12V or lower AC adapter. Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*Try to use a 12V or lower AC adapter. Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "13851233",
+            "user": "Votebot",
+            "timestamp": "17:59, 6 June 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ],
+                "removed": [
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful."
+                ]
+            }
+        },
+        {
+            "id": "13688547",
+            "user": "Votebot",
+            "timestamp": "17:49, 22 May 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Add a capacitor from the 5V output to ground to give better transient response.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser.",
+                    "*This is a very simplified design, and there are some improvements that you might find in the data sheet for the TL780-05.",
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications.",
+                    "*Build the circuit on a prototyping board for easier construction.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ],
+                "removed": [
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser.",
+                    "*Add a capacitor from the 5V output to ground to give better transient response.",
+                    "*Build the circuit on a prototyping board for easier construction.",
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications.",
+                    "*This is a very simplified design, and there are some improvements that you might find in the data sheet for the TL780-05.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating."
+                ]
+            }
+        },
+        {
+            "id": "13539435",
+            "user": "Votebot",
+            "timestamp": "17:12, 7 May 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ],
+                "removed": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ]
+            }
+        },
+        {
+            "id": "13476777",
+            "user": "InterwikiBot",
+            "timestamp": "16:50, 1 May 2014",
+            "anon": false,
+            "size": "(5,494 bytes)",
+            "change": 51,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Costruire un Semplice Alimentatore da 5V DC]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13218899",
+            "user": "Votebot",
+            "timestamp": "16:39, 6 April 2014",
+            "anon": false,
+            "size": "(5,443 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser.",
+                    "*Add a capacitor from the 5V output to ground to give better transient response."
+                ],
+                "removed": [
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser.",
+                    "*Add a capacitor from the 5V output to ground to give better transient response."
+                ]
+            }
+        },
+        {
+            "id": "13143254",
+            "user": "InterwikiBot",
+            "timestamp": "00:40, 1 April 2014",
+            "anon": false,
+            "size": "(5,443 bytes)",
+            "change": 64,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:construir una fuente de alimentación sencilla de 5 V CC]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13083255",
+            "user": "Votebot",
+            "timestamp": "16:46, 25 March 2014",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser."
+                ],
+                "removed": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser."
+                ]
+            }
+        },
+        {
+            "id": "12864508",
+            "user": "Votebot",
+            "timestamp": "18:42, 2 March 2014",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ],
+                "removed": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ]
+            }
+        },
+        {
+            "id": "12173216",
+            "user": "Votebot",
+            "timestamp": "19:29, 20 December 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Try to use a 12V or lower AC adapter. Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ],
+                "removed": [
+                    "*Try to use a 12V or lower AC adapter. Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ]
+            }
+        },
+        {
+            "id": "12100356",
+            "user": "Votebot",
+            "timestamp": "19:50, 13 December 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ],
+                "removed": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ]
+            }
+        },
+        {
+            "id": "12001252",
+            "user": "Votebot",
+            "timestamp": "19:52, 4 December 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode."
+                ],
+                "removed": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode."
+                ]
+            }
+        },
+        {
+            "id": "11795792",
+            "user": "Votebot",
+            "timestamp": "19:39, 14 November 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": -7,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications."
+                ]
+            }
+        },
+        {
+            "id": "11613926",
+            "user": "Votebot",
+            "timestamp": "21:18, 30 October 2013",
+            "anon": false,
+            "size": "(5,386 bytes)",
+            "change": 7,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "*Build the circuit on a prototyping board for easier construction."
+                ],
+                "removed": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ]
+            }
+        },
+        {
+            "id": "11413304",
+            "user": "Votebot",
+            "timestamp": "16:09, 15 October 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ],
+                "removed": [
+                    "*Build the circuit on a prototyping board for easier construction."
+                ]
+            }
+        },
+        {
+            "id": "11268526",
+            "user": "Votebot",
+            "timestamp": "16:14, 30 September 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode."
+                ],
+                "removed": [
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode."
+                ]
+            }
+        },
+        {
+            "id": "10980097",
+            "user": "Votebot",
+            "timestamp": "15:35, 1 September 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave rectifier in the current design."
+                ],
+                "removed": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave rectifier in the current design."
+                ]
+            }
+        },
+        {
+            "id": "10703405",
+            "user": "MiscBot",
+            "timestamp": "00:49, 7 August 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": -14,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components."
+                ],
+                "removed": [
+                    "{{nointroimg}}For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components."
+                ]
+            }
+        },
+        {
+            "id": "10547424",
+            "user": "Wikiphoto",
+            "timestamp": "01:34, 23 July 2013",
+            "anon": false,
+            "size": "(5,393 bytes)",
+            "change": 14,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components."
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components."
+                ]
+            }
+        },
+        {
+            "id": "10543133",
+            "user": "Wikiphoto",
+            "timestamp": "17:12, 22 July 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|center|550px]]",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|center|550px]]",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|center|550px]]",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|center|550px]]",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.<br><br>[[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|right|300px]]Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|right|300px]]Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|right|300px]]Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|right|300px]]Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|right|300px]]Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground."
+                ]
+            }
+        },
+        {
+            "id": "10543131",
+            "user": "Wikiphoto",
+            "timestamp": "17:12, 22 July 2013",
+            "anon": false,
+            "size": "(5,333 bytes)",
+            "change": 306,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 1.jpg|right|300px]]Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 2.jpg|right|300px]]Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 3.jpg|right|300px]]Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 4.jpg|right|300px]]Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.",
+                    "#  [[Image:Construct a Simple 5V DC Power Supply Step 5.jpg|right|300px]]Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground."
+                ],
+                "removed": [
+                    "[[Image:Power Supply.jpg|thumb|right|251px]]For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components.",
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground."
+                ]
+            }
+        },
+        {
+            "id": "10364341",
+            "user": "Votebot",
+            "timestamp": "18:39, 3 July 2013",
+            "anon": false,
+            "size": "(5,027 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ],
+                "removed": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ]
+            }
+        },
+        {
+            "id": "10170403",
+            "user": "Lilliesx53",
+            "timestamp": "09:03, 13 June 2013",
+            "anon": false,
+            "size": "(5,027 bytes)",
+            "change": 45,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Power Supply.jpg|thumb|right|251px]]For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components.",
+                    ""
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components."
+                ]
+            }
+        },
+        {
+            "id": "10073788",
+            "user": "Votebot",
+            "timestamp": "15:35, 3 June 2013",
+            "anon": false,
+            "size": "(4,982 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser."
+                ],
+                "removed": [
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser."
+                ]
+            }
+        },
+        {
+            "id": "10050044",
+            "user": "Votebot",
+            "timestamp": "16:42, 31 May 2013",
+            "anon": false,
+            "size": "(4,982 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Even higher voltages will require some caution and a secondary regulator to drop the voltage to what can be handled by the 5V regulator."
+                ],
+                "removed": [
+                    "*Even higher voltages will require some caution and a secondary regulator to drop the voltage to what can be handled by the 5V regulator."
+                ]
+            }
+        },
+        {
+            "id": "9808439",
+            "user": "Votebot",
+            "timestamp": "15:59, 5 May 2013",
+            "anon": false,
+            "size": "(4,982 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Add a capacitor from the 5V output to ground to give better transient response."
+                ],
+                "removed": [
+                    "*Add a capacitor from the 5V output to ground to give better transient response."
+                ]
+            }
+        },
+        {
+            "id": "6421698",
+            "user": "Wendy Weaver",
+            "timestamp": "00:22, 30 July 2011",
+            "anon": false,
+            "size": "(4,982 bytes)",
+            "change": 60,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Make an Ac Dc Converter|How to Make an Ac Dc Converter]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4660569",
+            "user": "99.231.227.103",
+            "timestamp": "02:38, 3 June 2010",
+            "anon": true,
+            "size": "(4,922 bytes)",
+            "change": -4,
+            "summary": "(Replaced incorrect word \"different\" with correct word \"various\")",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the various components.",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter."
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components.",
+                    "",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter."
+                ]
+            }
+        },
+        {
+            "id": "4317208",
+            "user": "115.133.72.203",
+            "timestamp": "08:02, 21 February 2010",
+            "anon": true,
+            "size": "(4,926 bytes)",
+            "change": 895,
+            "summary": "(+more info and elaboration)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "#  Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter.",
+                    "#  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.",
+                    "*Build the circuit on a prototyping board for easier construction.",
+                    "*Even higher voltages will require some caution and a secondary regulator to drop the voltage to what can be handled by the 5V regulator.",
+                    "*Your new voltage regulator will give up to 1.5 Amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications.",
+                    "*The lead closest to the stripe of the diode is always the cathode (negative side) of the diode.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser.",
+                    "*Running the 5V regulator at high temperatures will shorten its life.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal and that the voltage across the capacitor doesn't exceed the capacitor's voltage rating.",
+                    "*A soldering iron and solder (if you're not using a prototype board)."
+                ],
+                "removed": [
+                    "#Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white.  This is the negative side, which you should connect to the ground terminal of the AC adapter.  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+                    "# Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.",
+                    "*Build the circuit on a prototyping board for easier construction",
+                    "*Your new voltage regulator will give up to 1.5 amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal.",
+                    "*A soldering iron and solder"
+                ]
+            }
+        },
+        {
+            "id": "3040607",
+            "user": "Flickety",
+            "timestamp": "09:13, 26 January 2009",
+            "anon": false,
+            "size": "(4,031 bytes)",
+            "change": -2,
+            "summary": "(Reverted edits by 116.71.176.206 (Talk); changed back to last version by 24.16.52.178)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*Build the circuit on a prototyping board for easier construction"
+                ],
+                "removed": [
+                    "*reBuild the circuit on a prototyping board for easier construction"
+                ]
+            }
+        },
+        {
+            "id": "3040499",
+            "user": "116.71.176.206",
+            "timestamp": "07:23, 26 January 2009",
+            "anon": true,
+            "size": "(4,033 bytes)",
+            "change": 2,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Flickety",
+            "exact_contribution": {
+                "added": [
+                    "*reBuild the circuit on a prototyping board for easier construction"
+                ],
+                "removed": [
+                    "*Build the circuit on a prototyping board for easier construction"
+                ]
+            }
+        },
+        {
+            "id": "2497097",
+            "user": "24.16.52.178",
+            "timestamp": "06:06, 2 September 2008",
+            "anon": true,
+            "size": "(4,031 bytes)",
+            "change": 48,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Flickety",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts (although most now take a range of 3-15 volts) .  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components."
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components."
+                ]
+            }
+        },
+        {
+            "id": "2387940",
+            "user": "Ttrimm",
+            "timestamp": "08:29, 5 August 2008",
+            "anon": false,
+            "size": "(3,983 bytes)",
+            "change": -8,
+            "summary": "(Reverted edits by 72.148.120.135 (Talk); changed back to last version by Cipher_nemo)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "jhfgjdf"
+                ]
+            }
+        },
+        {
+            "id": "2386833",
+            "user": "72.148.120.135",
+            "timestamp": "01:06, 5 August 2008",
+            "anon": true,
+            "size": "(3,991 bytes)",
+            "change": 8,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Ttrimm",
+            "exact_contribution": {
+                "added": [
+                    "jhfgjdf"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2134451",
+            "user": "Cipher_nemo",
+            "timestamp": "20:15, 4 June 2008",
+            "anon": false,
+            "size": "(3,983 bytes)",
+            "change": -18,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Ttrimm",
+            "exact_contribution": {
+                "added": [
+                    "# Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.",
+                    "*Try to use a 12V or lower AC adapter. Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot.",
+                    "*An AC adapter (generic) giving anywhere from 8-30V AC output and up to 1.5 amps of output"
+                ],
+                "removed": [
+                    "# Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground.",
+                    "*Try to use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot.",
+                    "*An AC adapter (the “wall wart” kind) giving anywhere from 8-30V AC output and up to 1.5 amps of output"
+                ]
+            }
+        },
+        {
+            "id": "2134227",
+            "user": "HotGus56",
+            "timestamp": "19:23, 4 June 2008",
+            "anon": false,
+            "size": "(4,001 bytes)",
+            "change": -4,
+            "summary": "(clarified using AC adapter with proper voltage)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Try to use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ],
+                "removed": [
+                    "*Try not to use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ]
+            }
+        },
+        {
+            "id": "1801580",
+            "user": "Cipher_nemo",
+            "timestamp": "22:41, 13 March 2008",
+            "anon": false,
+            "size": "(4,005 bytes)",
+            "change": 0,
+            "summary": "(Construct a Simple 5V Dc Power Supply moved to Construct a Simple 5V DC Power Supply: caps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Ttrimm"
+        },
+        {
+            "id": "1411586",
+            "user": "76.179.150.17",
+            "timestamp": "17:18, 3 December 2007",
+            "anon": true,
+            "size": "(4,005 bytes)",
+            "change": 37,
+            "summary": "(7805 is the common numbering for this voltage regulator.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*A TL780-05 5V fixed voltage regulator IC or equivalent in a TO-220 package (if it is marked 7805 it will work.)"
+                ],
+                "removed": [
+                    "*A TL780-05 5V fixed voltage regulator IC or equivalent in a TO-220 package"
+                ]
+            }
+        },
+        {
+            "id": "983259",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "06:22, 31 July 2007",
+            "anon": false,
+            "size": "(3,968 bytes)",
+            "change": -146,
+            "summary": "(removing unlicensed images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "# Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ],
+                "removed": [
+                    "#  [[Image:5VPsupply.JPG|thumb|Schematic diagram of the 5V power supply]]Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  [[Image:5VRegPins.jpg|thumb|Pin diagram of the TL780-05 5V regulator IC]]Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ]
+            }
+        },
+        {
+            "id": "756508",
+            "user": "Dreamgal2",
+            "timestamp": "13:44, 26 May 2007",
+            "anon": false,
+            "size": "(4,114 bytes)",
+            "change": -129,
+            "summary": "(repaired broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "*[[Make a 12V Nimh Battery Charger from an Atx  Power Supply|How to Make a 12V Nimh Battery Charger from an Atx  Power Supply]]"
+                ]
+            }
+        },
+        {
+            "id": "562114",
+            "user": "Wacky",
+            "timestamp": "06:23, 24 February 2007",
+            "anon": false,
+            "size": "(4,243 bytes)",
+            "change": 21,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, micro controllers, and other digital ICs {integrated circuits} run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components.",
+                    "*This is a very simplified design, and there are some improvements that you might find in the data sheet for the TL780-05.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful.",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode.  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal."
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, microcontrollers, and other digital IC’s run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components.",
+                    "*This is a very simplified design, and there are some improvements that you might find in the datasheet for the TL780-05.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful!",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal."
+                ]
+            }
+        },
+        {
+            "id": "498261",
+            "user": "66.140.84.108",
+            "timestamp": "07:24, 21 January 2007",
+            "anon": true,
+            "size": "(4,222 bytes)",
+            "change": 3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Try not to use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ],
+                "removed": [
+                    "*Try and use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot."
+                ]
+            }
+        },
+        {
+            "id": "417238",
+            "user": "Hafarr6ft",
+            "timestamp": "21:29, 4 December 2006",
+            "anon": false,
+            "size": "(4,219 bytes)",
+            "change": 11,
+            "summary": "(recat to internal comp)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Internal Components]]"
+                ],
+                "removed": [
+                    "[[Category:Hardware]]"
+                ]
+            }
+        },
+        {
+            "id": "384927",
+            "user": "HotGus56",
+            "timestamp": "19:59, 16 November 2006",
+            "anon": false,
+            "size": "(4,208 bytes)",
+            "change": -11,
+            "summary": "(this article does not refer to an internal component of a computer.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Hardware]]"
+                ],
+                "removed": [
+                    "[[Category:Internal Components]]"
+                ]
+            }
+        },
+        {
+            "id": "375146",
+            "user": "Tviren",
+            "timestamp": "21:13, 10 November 2006",
+            "anon": false,
+            "size": "(4,219 bytes)",
+            "change": 11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Internal Components]]"
+                ],
+                "removed": [
+                    "[[Category:Hardware]]"
+                ]
+            }
+        },
+        {
+            "id": "372495",
+            "user": "HotGus56",
+            "timestamp": "17:05, 9 November 2006",
+            "anon": false,
+            "size": "(4,208 bytes)",
+            "change": 244,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, microcontrollers, and other digital IC’s run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.  You will need to solder together the different components.",
+                    "*Try and use a 9V or 12V AC adapter.  Higher voltages will cause the 5V regulator to have to dissipate more power, causing it to get very hot and possibly too hot.",
+                    "*A soldering iron and solder",
+                    "",
+                    "*[[Convert a Computer ATX Power Supply to a Lab Power Supply|How to Convert a Computer ATX Power Supply to a Lab Power Supply]]",
+                    "*[[Make a 12V Nimh Battery Charger from an Atx  Power Supply|How to Make a 12V Nimh Battery Charger from an Atx  Power Supply]]",
+                    "*[[Diagnose and Replace a Failed PC Power Supply|How to Diagnose and Replace a Failed PC Power Supply]]",
+                    "*[[Master Do It Yourself Electrical Safety|How to Master Do It Yourself Electrical Safety]]",
+                    "*[[Keep Cats from Chewing on Electric Cords and Chargers|How to Keep Cats from Chewing on Electric Cords and Chargers]]"
+                ],
+                "removed": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, microcontrollers, and other digital IC’s run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.",
+                    "*  [[Convert a Computer ATX Power Supply to a Lab Power Supply|How to Convert a Computer ATX Power Supply to a Lab Power Supply]]",
+                    "*  [[Make a 12V Nimh Battery Charger from an Atx  Power Supply|How to Make a 12V Nimh Battery Charger from an Atx  Power Supply]]",
+                    "*  [[Diagnose and Replace a Failed PC Power Supply|How to Diagnose and Replace a Failed PC Power Supply]]",
+                    "*  [[Master Do It Yourself Electrical Safety|How to Master Do It Yourself Electrical Safety]]",
+                    "*  [[Keep Cats from Chewing on Electric Cords and Chargers|How to Keep Cats from Chewing on Electric Cords and Chargers]]"
+                ]
+            }
+        },
+        {
+            "id": "349848",
+            "user": "Davecrosby",
+            "timestamp": "01:03, 27 October 2006",
+            "anon": false,
+            "size": "(3,964 bytes)",
+            "change": 605,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "== Related wikiHows ==",
+                    "*  [[Convert a Computer ATX Power Supply to a Lab Power Supply|How to Convert a Computer ATX Power Supply to a Lab Power Supply]]",
+                    "*  [[Make a 12V Nimh Battery Charger from an Atx  Power Supply|How to Make a 12V Nimh Battery Charger from an Atx  Power Supply]]",
+                    "*  [[Diagnose and Replace a Failed PC Power Supply|How to Diagnose and Replace a Failed PC Power Supply]]",
+                    "*  [[Master Do It Yourself Electrical Safety|How to Master Do It Yourself Electrical Safety]]",
+                    "*  [[Keep Cats from Chewing on Electric Cords and Chargers|How to Keep Cats from Chewing on Electric Cords and Chargers]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "332527",
+            "user": "HotGus56",
+            "timestamp": "05:16, 17 October 2006",
+            "anon": false,
+            "size": "(3,359 bytes)",
+            "change": 34,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is always at a lower voltage than the positive terminal.",
+                    "*An AC adapter (the “wall wart” kind) giving anywhere from 8-30V AC output and up to 1.5 amps of output",
+                    "*A 100uF electrolytic capacitor, radial leaded, rated for at least 35V"
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is at a lower voltage than the positive terminal.",
+                    "*An AC adapter (the “wall wart” kind) giving anywhere from 8-30V output and up to 1.5 amps of output",
+                    "*A 100uF electrolytic capacitor, radial leaded"
+                ]
+            }
+        },
+        {
+            "id": "331182",
+            "user": "HotGus56",
+            "timestamp": "00:41, 16 October 2006",
+            "anon": false,
+            "size": "(3,325 bytes)",
+            "change": 11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter you choose is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ],
+                "removed": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ]
+            }
+        },
+        {
+            "id": "331181",
+            "user": "HotGus56",
+            "timestamp": "00:39, 16 October 2006",
+            "anon": false,
+            "size": "(3,314 bytes)",
+            "change": 204,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*The TL780-05 5V regulator is capable of delivering 1.5A of current, but if the AC adapter is not then the current output of your power supply will be limited to the current capability of the AC adapter."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "324806",
+            "user": "HotGus56",
+            "timestamp": "06:40, 11 October 2006",
+            "anon": false,
+            "size": "(3,110 bytes)",
+            "change": 5,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is at a lower voltage than the positive terminal."
+                ],
+                "removed": [
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is lower in voltage than the other terminal."
+                ]
+            }
+        },
+        {
+            "id": "324805",
+            "user": "HotGus56",
+            "timestamp": "06:38, 11 October 2006",
+            "anon": false,
+            "size": "(3,105 bytes)",
+            "change": -7,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave rectifier in the current design."
+                ],
+                "removed": [
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave bridge rectifier in the current design."
+                ]
+            }
+        },
+        {
+            "id": "324804",
+            "user": "HotGus56",
+            "timestamp": "06:37, 11 October 2006",
+            "anon": false,
+            "size": "(3,112 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:5VPsupply.JPG|thumb|Schematic diagram of the 5V power supply]]Consider one wire from the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on."
+                ],
+                "removed": [
+                    "#  [[Image:5VPsupply.JPG|thumb|Schematic diagram of the 5V power supply]]Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on."
+                ]
+            }
+        },
+        {
+            "id": "324660",
+            "user": "HotGus56",
+            "timestamp": "04:25, 11 October 2006",
+            "anon": false,
+            "size": "(3,110 bytes)",
+            "change": 143,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:5VPsupply.JPG|thumb|Schematic diagram of the 5V power supply]]Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  [[Image:5VRegPins.jpg|thumb|Pin diagram of the TL780-05 5V regulator IC]]Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ],
+                "removed": [
+                    "#  Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ]
+            }
+        },
+        {
+            "id": "324658",
+            "user": "HotGus56",
+            "timestamp": "04:23, 11 October 2006",
+            "anon": false,
+            "size": "(2,967 bytes)",
+            "change": 21,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Hardware]]"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "324656",
+            "user": "HotGus56",
+            "timestamp": "04:23, 11 October 2006",
+            "anon": false,
+            "size": "(2,946 bytes)",
+            "change": -24,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[Image:5VPsupply.jpg]]"
+                ]
+            }
+        },
+        {
+            "id": "324653",
+            "user": "HotGus56",
+            "timestamp": "04:22, 11 October 2006",
+            "anon": false,
+            "size": "(2,970 bytes)",
+            "change": 25,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Image:5VPsupply.jpg]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "324631",
+            "user": "155.33.165.12",
+            "timestamp": "04:11, 11 October 2006",
+            "anon": true,
+            "size": "(2,945 bytes)",
+            "change": -12,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+                    "#  Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white.  This is the negative side, which you should connect to the ground terminal of the AC adapter.  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+                    "#  Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ],
+                "removed": [
+                    "#  1. Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  2. Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+                    "#  3. Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white.  This is the negative side, which you should connect to the ground terminal of the AC adapter.  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+                    "#  4. Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground."
+                ]
+            }
+        },
+        {
+            "id": "324619",
+            "user": "155.33.165.12",
+            "timestamp": "04:07, 11 October 2006",
+            "anon": true,
+            "size": "(2,957 bytes)",
+            "change": 2957,
+            "summary": "(Initial authoring)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "For the electronics enthusiast, having a 5 volt DC power supply around in your workspace can be very useful.  Many op amps, microcontrollers, and other digital IC’s run off 5 volts.  Here is how to build a very simple 5 volt DC power supply that can deliver up to 1.5A of current.",
+                    "== Steps ==",
+                    "#  1. Consider one wire of the AC adapter the positive terminal.  Consider the other wire ground.  At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+                    "#  2. Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+                    "#  3. Locate the lead on the side of the capacitor that has a stripe.  Usually this stripe is white.  This is the negative side, which you should connect to the ground terminal of the AC adapter.  Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+                    "#  4. Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.  Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.  Pin 3 is the output.  There will be 5 volts held between Pin 3 and ground.",
+                    "",
+                    "== Tips ==",
+                    "*Build the circuit on a prototyping board for easier construction",
+                    "*Your new voltage regulator will give up to 1.5 amperes of current at 5V.  The 5V regulator IC will get hot as you draw more current out of it, so you might want to add a heat sink to it for higher power applications.",
+                    "*This is a very simplified design, and there are some improvements that you might find in the datasheet for the TL780-05.",
+                    "*To improve this design, add a full wave bridge rectifier instead of the half wave bridge rectifier in the current design.",
+                    "*Add a capacitor from the 5V output to ground to give better transient response.",
+                    "*You can find all the parts you need from electronics distributors such as Digikey and Mouser",
+                    "",
+                    "== Warnings ==",
+                    "*None of the voltages used in this design are harmful.  The AC adapter is the only component that contacts high voltage from the wall outlet.  If you want to open the plastic casing of the AC adapter, be sure to do so while it is unplugged from the wall.",
+                    "*The 5V regulator will get very hot when drawing a lot of current out of the supply.  It may be hot enough to burn you so be careful!",
+                    "*Connecting electrolytic capacitors backwards can cause them to explode!  Make sure that the negative terminal of the capacitor (marked with the white stripe) is lower in voltage than the other terminal.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*An AC adapter (the “wall wart” kind) giving anywhere from 8-30V output and up to 1.5 amps of output",
+                    "*A rectifying diode such as a 1N5392, or equivalent capable of at least 1.5A average forward current and 50V reverse voltage",
+                    "*A 100uF electrolytic capacitor, radial leaded",
+                    "*A TL780-05 5V fixed voltage regulator IC or equivalent in a TO-220 package"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

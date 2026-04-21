@@ -1,0 +1,545 @@
+{
+    "title": "Wire-a-Wall-Switch",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:12:22.976866",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33487176",
+            "user": "ChocoCat1122",
+            "timestamp": "17:41, 14 June 2025",
+            "anon": false,
+            "size": "(4,585 bytes)",
+            "change": 18,
+            "summary": "(adding HTOC)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32307610",
+            "user": "WikiHow Projects",
+            "timestamp": "03:06, 22 February 2024",
+            "anon": false,
+            "size": "(4,567 bytes)",
+            "change": -117,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[http://www.allaboutcircuits.com/worksheets/switches.html http://www.allaboutcircuits.com/worksheets/switches.html]"
+                ]
+            }
+        },
+        {
+            "id": "29921597",
+            "user": "WikiHow Projects",
+            "timestamp": "08:01, 25 September 2021",
+            "anon": false,
+            "size": "(4,684 bytes)",
+            "change": 71,
+            "summary": "(formatting article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "=== Preparing Your Wall ===",
+                    "=== Installing a Wall Switch ===",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "29815091",
+            "user": "Seymour Edits",
+            "timestamp": "16:08, 17 August 2021",
+            "anon": false,
+            "size": "(4,613 bytes)",
+            "change": 53,
+            "summary": "(Added expert ref)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the electricity carefully.<ref>[v161834_b01]. 16 August 2021.</ref>[[Image:Wire a Wall Switch Step 2.jpg|center]]",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Turn off the electricity carefully.[[Image:Wire a Wall Switch Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26349538",
+            "user": "MiscBot",
+            "timestamp": "08:05, 29 March 2019",
+            "anon": false,
+            "size": "(4,560 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "21297800",
+            "user": "Flickety",
+            "timestamp": "21:51, 7 November 2016",
+            "anon": false,
+            "size": "(4,571 bytes)",
+            "change": 11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Wiring and Safety Switches]]"
+                ]
+            }
+        },
+        {
+            "id": "21297796",
+            "user": "Flickety",
+            "timestamp": "21:51, 7 November 2016",
+            "anon": false,
+            "size": "(4,560 bytes)",
+            "change": 1,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Wiring and Safety Switches]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Lighting and Light Switches]]"
+                ]
+            }
+        },
+        {
+            "id": "20867042",
+            "user": "WikiHow Projects",
+            "timestamp": "04:11, 28 August 2016",
+            "anon": false,
+            "size": "(4,559 bytes)",
+            "change": -87,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[http://www.lightswitchesandsockets.co.uk/ http://www.lightswitchesandsockets.co.uk/]"
+                ]
+            }
+        },
+        {
+            "id": "20250177",
+            "user": "77Ecrivan",
+            "timestamp": "10:25, 19 May 2016",
+            "anon": false,
+            "size": "(4,646 bytes)",
+            "change": 42,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Wire a Wall Switch|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "18077569",
+            "user": "MiscBot",
+            "timestamp": "00:58, 29 July 2015",
+            "anon": false,
+            "size": "(4,604 bytes)",
+            "change": -196,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Pick a single-pole light switch for most applications.[[Image:Wire a Wall Switch Step 1.jpg|center]]",
+                    "#Turn off the electricity carefully.[[Image:Wire a Wall Switch Step 2.jpg|center]]",
+                    "#Confirm the electricity is off at the spot you want to install the switch.[[Image:Wire a Wall Switch Step 3.jpg|center]]",
+                    "#Unscrew the top and bottom of the switch in place, and remove it gently from the box.[[Image:Wire a Wall Switch Step 4.jpg|center]]",
+                    "#Disconnect the wires from the existing switch with a screwdriver.[[Image:Wire a Wall Switch Step 5.jpg|center]]",
+                    "#Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.[[Image:Wire a Wall Switch Step 6.jpg|center]]",
+                    "#Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.[[Image:Wire a Wall Switch Step 7.jpg|center]]",
+                    "#Ground the new switch.[[Image:Wire a Wall Switch Step 8.jpg|center]]",
+                    "#Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.[[Image:Wire a Wall Switch Step 9.jpg|center]]",
+                    "#Screw the top and bottom of the switch body to the top and bottom of the box.[[Image:Wire a Wall Switch Step 10.jpg|center]]",
+                    "#Screw on the faceplate.[[Image:Wire a Wall Switch Step 11.jpg|center]]",
+                    "#Restore the electricity by turning the circuit breaker back on.[[Image:Wire a Wall Switch Step 12.jpg|center]]",
+                    "#Test the light switch.[[Image:Wire a Wall Switch Step 13.jpg|center]]",
+                    "#Finished.[[Image:Wire a Wall Switch Final.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pick a single-pole light switch for most applications.<br><br>[[Image:Wire a Wall Switch Step 1.jpg|center|550px]]",
+                    "#Turn off the electricity carefully.<br><br>[[Image:Wire a Wall Switch Step 2.jpg|center|550px]]",
+                    "#Confirm the electricity is off at the spot you want to install the switch.<br><br>[[Image:Wire a Wall Switch Step 3.jpg|center|550px]]",
+                    "#Unscrew the top and bottom of the switch in place, and remove it gently from the box.<br><br>[[Image:Wire a Wall Switch Step 4.jpg|center|550px]]",
+                    "#Disconnect the wires from the existing switch with a screwdriver.<br><br>[[Image:Wire a Wall Switch Step 5.jpg|center|550px]]",
+                    "#Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.<br><br>[[Image:Wire a Wall Switch Step 6.jpg|center|550px]]",
+                    "#Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.<br><br>[[Image:Wire a Wall Switch Step 7.jpg|center|550px]]",
+                    "#Ground the new switch.<br><br>[[Image:Wire a Wall Switch Step 8.jpg|center|550px]]",
+                    "#Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.<br><br>[[Image:Wire a Wall Switch Step 9.jpg|center|550px]]",
+                    "#Screw the top and bottom of the switch body to the top and bottom of the box.<br><br>[[Image:Wire a Wall Switch Step 10.jpg|center|550px]]",
+                    "#Screw on the faceplate.<br><br>[[Image:Wire a Wall Switch Step 11.jpg|center|550px]]",
+                    "#Restore the electricity by turning the circuit breaker back on.<br><br>[[Image:Wire a Wall Switch Step 12.jpg|center|550px]]",
+                    "#Test the light switch.<br><br>[[Image:Wire a Wall Switch Step 13.jpg|center|550px]]",
+                    "#Finished.<br><br>[[Image:Wire a Wall Switch Final.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "14222089",
+            "user": "Wikivisual",
+            "timestamp": "19:17, 14 July 2014",
+            "anon": false,
+            "size": "(4,800 bytes)",
+            "change": 113,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pick a single-pole light switch for most applications.<br><br>[[Image:Wire a Wall Switch Step 1.jpg|center|550px]]",
+                    "#Turn off the electricity carefully.<br><br>[[Image:Wire a Wall Switch Step 2.jpg|center|550px]]",
+                    "#Confirm the electricity is off at the spot you want to install the switch.<br><br>[[Image:Wire a Wall Switch Step 3.jpg|center|550px]]",
+                    "#Unscrew the top and bottom of the switch in place, and remove it gently from the box.<br><br>[[Image:Wire a Wall Switch Step 4.jpg|center|550px]]",
+                    "#Disconnect the wires from the existing switch with a screwdriver.<br><br>[[Image:Wire a Wall Switch Step 5.jpg|center|550px]]",
+                    "#Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.<br><br>[[Image:Wire a Wall Switch Step 6.jpg|center|550px]]",
+                    "#Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.<br><br>[[Image:Wire a Wall Switch Step 7.jpg|center|550px]]",
+                    "#Ground the new switch.<br><br>[[Image:Wire a Wall Switch Step 8.jpg|center|550px]]",
+                    "#Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.<br><br>[[Image:Wire a Wall Switch Step 9.jpg|center|550px]]",
+                    "#Screw the top and bottom of the switch body to the top and bottom of the box.<br><br>[[Image:Wire a Wall Switch Step 10.jpg|center|550px]]",
+                    "#Screw on the faceplate.<br><br>[[Image:Wire a Wall Switch Step 11.jpg|center|550px]]",
+                    "#Restore the electricity by turning the circuit breaker back on.<br><br>[[Image:Wire a Wall Switch Step 12.jpg|center|550px]]",
+                    "#Test the light switch.<br><br>[[Image:Wire a Wall Switch Step 13.jpg|center|550px]]",
+                    "#Finished.<br><br>[[Image:Wire a Wall Switch Final.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#Pick a single-pole light switch for most applications.[[Image:Wire a Wall Switch Step 1.jpg|center|300px]]",
+                    "#Turn off the electricity carefully.[[Image:Wire a Wall Switch Step 2.jpg|center|300px]]",
+                    "#Confirm the electricity is off at the spot you want to install the switch.[[Image:Wire a Wall Switch Step 3.jpg|center|300px]]",
+                    "#Unscrew the top and bottom of the switch in place, and remove it gently from the box.[[Image:Wire a Wall Switch Step 4.jpg|center|300px]]",
+                    "#Disconnect the wires from the existing switch with a screwdriver.[[Image:Wire a Wall Switch Step 5.jpg|center|300px]]",
+                    "#Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.[[Image:Wire a Wall Switch Step 6.jpg|center|300px]]",
+                    "#Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.[[Image:Wire a Wall Switch Step 7.jpg|center|300px]]",
+                    "#Ground the new switch.[[Image:Wire a Wall Switch Step 8.jpg|center|300px]]",
+                    "#Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.[[Image:Wire a Wall Switch Step 9.jpg|center|300px]]",
+                    "#Screw the top and bottom of the switch body to the top and bottom of the box.[[Image:Wire a Wall Switch Step 10.jpg|center|300px]]",
+                    "#Screw on the faceplate.[[Image:Wire a Wall Switch Step 11.jpg|center|300px]]",
+                    "#Restore the electricity by turning the circuit breaker back on.[[Image:Wire a Wall Switch Step 12.jpg|center|300px]]",
+                    "#Test the light switch.[[Image:Wire a Wall Switch Step 13.jpg|center|300px]]",
+                    "#Finished.[[Image:Wire a Wall Switch Final.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "14222088",
+            "user": "Wikivisual",
+            "timestamp": "19:17, 14 July 2014",
+            "anon": false,
+            "size": "(4,687 bytes)",
+            "change": 685,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Electric wall switches last a long time. Still, you will want to replace a switch when it wears out, in part, because it presents a fire hazard. Another reason to change out the switch is appearances; you may want to change the size, color, or style of the switch. As with all things electrical, safety is a real issue, so you need to know how to wire a wall switch safely, securely, and easily.",
+                    "#Pick a single-pole light switch for most applications.[[Image:Wire a Wall Switch Step 1.jpg|center|300px]]",
+                    "#Turn off the electricity carefully.[[Image:Wire a Wall Switch Step 2.jpg|center|300px]]",
+                    "#Confirm the electricity is off at the spot you want to install the switch.[[Image:Wire a Wall Switch Step 3.jpg|center|300px]]",
+                    "#Unscrew the top and bottom of the switch in place, and remove it gently from the box.[[Image:Wire a Wall Switch Step 4.jpg|center|300px]]",
+                    "#Disconnect the wires from the existing switch with a screwdriver.[[Image:Wire a Wall Switch Step 5.jpg|center|300px]]",
+                    "#Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.[[Image:Wire a Wall Switch Step 6.jpg|center|300px]]",
+                    "#Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.[[Image:Wire a Wall Switch Step 7.jpg|center|300px]]",
+                    "#Ground the new switch.[[Image:Wire a Wall Switch Step 8.jpg|center|300px]]",
+                    "#Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.[[Image:Wire a Wall Switch Step 9.jpg|center|300px]]",
+                    "#Screw the top and bottom of the switch body to the top and bottom of the box.[[Image:Wire a Wall Switch Step 10.jpg|center|300px]]",
+                    "#Screw on the faceplate.[[Image:Wire a Wall Switch Step 11.jpg|center|300px]]",
+                    "#Restore the electricity by turning the circuit breaker back on.[[Image:Wire a Wall Switch Step 12.jpg|center|300px]]",
+                    "#Test the light switch.[[Image:Wire a Wall Switch Step 13.jpg|center|300px]]",
+                    "#Finished.[[Image:Wire a Wall Switch Final.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "[[Image:Fingers hurt.jpg|thumb|right|251px]]Electric wall switches last a long time. Still, you will want to replace a switch when it wears out, in part, because it presents a fire hazard. Another reason to change out the switch is appearances; you may want to change the size, color, or style of the switch. As with all things electrical, safety is a real issue, so you need to know how to wire a wall switch safely, securely, and easily.",
+                    "# Pick a single-pole light switch for most applications.",
+                    "# Turn off the electricity carefully.",
+                    "# Confirm the electricity is off at the spot you want to install the switch.",
+                    "# Unscrew the top and bottom of the switch in place, and remove it gently from the box.",
+                    "# Disconnect the wires from the existing switch with a screwdriver.",
+                    "# Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.",
+                    "# Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.",
+                    "# Ground the new switch.",
+                    "# Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.",
+                    "# Screw the top and bottom of the switch body to the top and bottom of the box.",
+                    "# Screw on the faceplate.",
+                    "# Restore the electricity by turning the circuit breaker back on.",
+                    "# Test the light switch."
+                ]
+            }
+        },
+        {
+            "id": "11589212",
+            "user": "Votebot",
+            "timestamp": "22:53, 28 October 2013",
+            "anon": false,
+            "size": "(4,002 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11099376",
+            "user": "Votebot",
+            "timestamp": "16:04, 13 September 2013",
+            "anon": false,
+            "size": "(4,001 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Call an electrician to do the work if the wires are aluminum, silvery gray instead of shiny copper. Aluminum wiring requires trained professional handling."
+                ],
+                "removed": [
+                    "*Call an electrician to do the work if the wires are aluminum, silvery gray instead of shiny copper. Aluminum wiring requires trained professional handling."
+                ]
+            }
+        },
+        {
+            "id": "7007507",
+            "user": "75.164.96.30",
+            "timestamp": "16:47, 15 December 2011",
+            "anon": true,
+            "size": "(4,001 bytes)",
+            "change": -16,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Once you turn off circuit breaker, place a piece of electrical tape across the circuit breaker switch as a warning to others in the household who might turn on the switch.",
+                    "*Turn circuit breakers off and on with one hand; do not let the other hand touch the circuit breaker in case there is not adequate grounding.",
+                    "*Call an electrician to do the work if the wires are aluminum, silvery gray instead of shiny copper. Aluminum wiring requires trained professional handling.",
+                    "*Single-pole light switch",
+                    "*Flat-end and Phillips head screwdrivers",
+                    "*Wire strippers",
+                    "*Non-contact voltage detector",
+                    "*Electrical tape",
+                    "*Tape measure",
+                    "*Needle-nose pliers",
+                    "*[http://www.electrical-online.com/lightsandswitches/ http://www.electrical-online.com/lightsandswitches/]",
+                    "*[http://www.allaboutcircuits.com/worksheets/switches.html http://www.allaboutcircuits.com/worksheets/switches.html]",
+                    "*[http://www.lightswitchesandsockets.co.uk/ http://www.lightswitchesandsockets.co.uk/]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "* Once you turn off circuit breaker, place a piece of electrical tape across the circuit breaker switch as a warning to others in the household who might turn on the switch.",
+                    "* Turn circuit breakers off and on with one hand; do not let the other hand touch the circuit breaker in case there is not adequate grounding.",
+                    "* Call an electrician to do the work if the wires are aluminum, silvery gray instead of shiny copper. Aluminum wiring requires trained professional handling.",
+                    "* Single-pole light switch",
+                    "* Flat-end and Phillips head screwdrivers",
+                    "* Wire strippers",
+                    "* Non-contact voltage detector",
+                    "* Electrical tape",
+                    "* Tape measure",
+                    "* Needle-nose pliers",
+                    "* [http://www.electrical-online.com/lightsandswitches/ http://www.electrical-online.com/lightsandswitches/]",
+                    "* [http://www.allaboutcircuits.com/worksheets/switches.html http://www.allaboutcircuits.com/worksheets/switches.html]",
+                    "* [http://www.lightswitchesandsockets.co.uk/ http://www.lightswitchesandsockets.co.uk/]"
+                ]
+            }
+        },
+        {
+            "id": "6504162",
+            "user": "Auscompgeek",
+            "timestamp": "05:00, 15 August 2011",
+            "anon": false,
+            "size": "(4,017 bytes)",
+            "change": 45,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Fingers hurt.jpg|thumb|right|251px]]Electric wall switches last a long time. Still, you will want to replace a switch when it wears out, in part, because it presents a fire hazard. Another reason to change out the switch is appearances; you may want to change the size, color, or style of the switch. As with all things electrical, safety is a real issue, so you need to know how to wire a wall switch safely, securely, and easily.",
+                    ""
+                ],
+                "removed": [
+                    "Electric wall switches last a long time. Still, you will want to replace a switch when it wears out, in part, because it presents a fire hazard. Another reason to change out the switch is appearances; you may want to change the size, color, or style of the switch. As with all things electrical, safety is a real issue, so you need to know how to wire a wall switch safely, securely, and easily."
+                ]
+            }
+        },
+        {
+            "id": "6497643",
+            "user": "Harri",
+            "timestamp": "13:24, 13 August 2011",
+            "anon": false,
+            "size": "(3,972 bytes)",
+            "change": 42,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Lighting and Light Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5958814",
+            "user": "WRM",
+            "timestamp": "12:00, 3 May 2011",
+            "anon": false,
+            "size": "(3,930 bytes)",
+            "change": 3930,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Electric wall switches last a long time. Still, you will want to replace a switch when it wears out, in part, because it presents a fire hazard. Another reason to change out the switch is appearances; you may want to change the size, color, or style of the switch. As with all things electrical, safety is a real issue, so you need to know how to wire a wall switch safely, securely, and easily.",
+                    "== Steps ==",
+                    "# Pick a single-pole light switch for most applications.",
+                    "#* Common applications include ceiling or hallway light switches, a cellar or attic light, a ceiling fan or chandelier, or an outdoor patio light.",
+                    "#* A single-pole wall switch usually has a lever or toggle that completes the circuit when it is flipped up to turn a light, device, or appliance on.",
+                    "#* When the toggle is flipped down, the circuit is broken, and the power goes off.",
+                    "#* Single-pole switches have 2 brass terminal screws on the side, and newly purchased switches usually have a ground wire.",
+                    "# Turn off the electricity carefully.",
+                    "#* Locate your circuit breaker box and the circuit breaker specific to the switch to be wired.",
+                    "#* Turn off that circuit breaker.",
+                    "# Confirm the electricity is off at the spot you want to install the switch.",
+                    "#* Remove the faceplate from the switch with a screwdriver.",
+                    "#* Touch a non-contact voltage detector near each of the 2 screw terminals.",
+                    "#* If the voltage detector lights, electricity is still on, and you are at risk, so return to the circuit breaker to determine if it is off and/or if it is the correct circuit breaker.",
+                    "#* If the voltage detector does not light, the electricity is off, and you can proceed.",
+                    "# Unscrew the top and bottom of the switch in place, and remove it gently from the box.",
+                    "#* Measure the height, width, and depth of the electrical box in place to determine if your new light switch will fit.",
+                    "# Disconnect the wires from the existing switch with a screwdriver.",
+                    "#* Keep the wires separate; the wire from the top terminal should be positioned differently from the wire from the bottom terminal.",
+                    "# Strip insulation away on each wire to expose 3/8 inch (0.9525 cm) of wire.",
+                    "# Attach the wires in the box to the appropriate terminal, top or bottom, on the new switch.",
+                    "#* Use needle-nose pliers to shape a loop at end of each wire.",
+                    "#* Place loops over terminals and tighten terminal screws with screwdriver.",
+                    "# Ground the new switch.",
+                    "#* Attach the ground wire to the ground post in the box.",
+                    "#* Clip a grounding clip to the bottom edge of the box if there is no grounding post.",
+                    "# Bundle the package together in your hand, and gently insert it into the wall box without undoing any of the connections.",
+                    "#* Try to fold the wires like an accordion to avoid crowding.",
+                    "# Screw the top and bottom of the switch body to the top and bottom of the box.",
+                    "# Screw on the faceplate.",
+                    "# Restore the electricity by turning the circuit breaker back on.",
+                    "# Test the light switch.",
+                    "",
+                    "== Tips ==",
+                    "* Once you turn off circuit breaker, place a piece of electrical tape across the circuit breaker switch as a warning to others in the household who might turn on the switch.",
+                    "",
+                    "== Warnings ==",
+                    "* Turn circuit breakers off and on with one hand; do not let the other hand touch the circuit breaker in case there is not adequate grounding.",
+                    "* Call an electrician to do the work if the wires are aluminum, silvery gray instead of shiny copper. Aluminum wiring requires trained professional handling.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Single-pole light switch",
+                    "* Flat-end and Phillips head screwdrivers",
+                    "* Wire strippers",
+                    "* Non-contact voltage detector",
+                    "* Electrical tape",
+                    "* Tape measure",
+                    "* Needle-nose pliers",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.electrical-online.com/lightsandswitches/ http://www.electrical-online.com/lightsandswitches/]",
+                    "* [http://www.allaboutcircuits.com/worksheets/switches.html http://www.allaboutcircuits.com/worksheets/switches.html]",
+                    "* [http://www.lightswitchesandsockets.co.uk/ http://www.lightswitchesandsockets.co.uk/]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

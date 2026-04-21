@@ -1,0 +1,356 @@
+{
+    "title": "Wire-a-Light-Sensor",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:18:37.249000",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33446261",
+            "user": "Votebot",
+            "timestamp": "09:05, 3 June 2025",
+            "anon": false,
+            "size": "(11,212 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you are not experienced or comfortable performing electrical wiring on your own, hire a licensed electrician to do it for you to avoid accidents."
+                ],
+                "removed": [
+                    "*If you are not experienced or comfortable performing electrical wiring on your own, hire a licensed electrician to do it for you to avoid accidents."
+                ]
+            }
+        },
+        {
+            "id": "33021035",
+            "user": "WikiHow Projects",
+            "timestamp": "14:35, 24 December 2024",
+            "anon": false,
+            "size": "(11,212 bytes)",
+            "change": 44,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Light Sensor|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30806494",
+            "user": "Votebot",
+            "timestamp": "09:07, 23 August 2022",
+            "anon": false,
+            "size": "(11,168 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings =="
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "30572099",
+            "user": "Seymour Edits",
+            "timestamp": "06:44, 25 May 2022",
+            "anon": false,
+            "size": "(11,166 bytes)",
+            "change": 90,
+            "summary": "(Adding subtitle, wikiHaus test please do not remove)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "<div class='subtitle'> Steps for installing sensors for different kinds of lights </div>",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30450522",
+            "user": "JayneG",
+            "timestamp": "23:23, 7 April 2022",
+            "anon": false,
+            "size": "(11,076 bytes)",
+            "change": -91,
+            "summary": "(Reverted edits by Dora zhang (Talk); changed back to last version by Wikivisual)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage. Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents."
+                ],
+                "removed": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage.<ref>https://hokolite.com/a/blog/buying-guide-reviews-the-4-best-motion-sensor-lights</ref> Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents."
+                ]
+            }
+        },
+        {
+            "id": "30448535",
+            "user": "Dora zhang",
+            "timestamp": "08:05, 7 April 2022",
+            "anon": false,
+            "size": "(11,167 bytes)",
+            "change": 91,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "JayneG",
+            "exact_contribution": {
+                "added": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage.<ref>https://hokolite.com/a/blog/buying-guide-reviews-the-4-best-motion-sensor-lights</ref> Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents."
+                ],
+                "removed": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage. Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents."
+                ]
+            }
+        },
+        {
+            "id": "27994843",
+            "user": "Wikivisual",
+            "timestamp": "12:00, 16 April 2020",
+            "anon": false,
+            "size": "(11,076 bytes)",
+            "change": 10,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "JayneG",
+            "exact_contribution": {
+                "added": [
+                    "#Connect the black, white, and red wires from the light sensor to the wall wires. Twist the hot black wires together and screw a plastic wire nut onto the ends. Repeat this for the neutral white wires and red load wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}[[Image:Wire a Light Sensor Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Connect the black, white, and red wires from the light sensor to the wall wires. Twist the hot black wires together and screw a plastic wire nut onto the ends. Repeat this for the neutral white wires and red load wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}[[Image:Wire a Light Sensor Step 4.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27976379",
+            "user": "Wikivisual",
+            "timestamp": "15:21, 12 April 2020",
+            "anon": false,
+            "size": "(11,066 bytes)",
+            "change": 711,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "JayneG",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off power to the room at the main fuse box. Flip the breaker that supplies electricity to the room where you plan to install the light switch sensor. Test the lights in the room to make sure they are really cut off from power.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>[[Image:Wire a Light Sensor Step 1.jpg|center]]",
+                    "#Remove the light switch’s faceplate by unscrewing or prying it off. Use a screwdriver to take out the screws if it has any, then pull it off the wall and set it aside. Pop it off the light switch by sliding something flat and skinny under an edge and prying it off the wall if it doesn’t have any screws.[[Image:Wire a Light Sensor Step 2.jpg|center]]",
+                    "#Unscrew the existing light switch from the wall and pull it out. Use a screwdriver to remove the 2 screws that attach the light switch to the electrical box in the wall. Disconnect the wires by twisting off any plastic wire nuts or unwrapping any electrical tape and untwisting the wires if they are twisted together. Pull the light switch out of the wall and set it aside.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>[[Image:Wire a Light Sensor Step 3.jpg|center]]",
+                    "#Connect the black, white, and red wires from the light sensor to the wall wires. Twist the hot black wires together and screw a plastic wire nut onto the ends. Repeat this for the neutral white wires and red load wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}[[Image:Wire a Light Sensor Step 4.jpg|center]]",
+                    "#Wire the green wire from the light sensor to the copper wire in the wall. Twist them together and cover them with a plastic wire nut. These are the ground wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=297</ref>[[Image:Wire a Light Sensor Step 5.jpg|center]]",
+                    "#Mount the light switch sensor on the wall with the provided hardware. Tuck all the wires into the electrical box in the wall. Screw the light sensor onto the wall using the provided screws and a screwdriver or electric drill. Snap the wall faceplate into place.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=371</ref>[[Image:Wire a Light Sensor Step 6.jpg|center]]",
+                    "#Turn the power back on and test the light switch sensor. Flip the breaker that supplies electricity to the room back on at the main fuse box. Flip the power switch on the light switch sensor to the ON position to check if it turns the light on, then set it to the AUTO position. Go out of the room until the light turns off, then walk back in to see if the light turns on automatically.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=395</ref>[[Image:Wire a Light Sensor Step 7.jpg|center]]",
+                    "#Turn off power at the main fuse box. Flip off the main power breaker so that there is no electricity being supplied while you work. Test a light switch or outlet where you plan to install the motion sensor to ensure that there is no electricity flowing to the area.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>[[Image:Wire a Light Sensor Step 8.jpg|center]]",
+                    "#[[Install a Junction Box|Install 2 junction boxes]] with wire connections on a ceiling or wall. Screw 2 junction boxes onto a wall or ceiling and connect them to the power supply. Run a wire for connecting the light sensor to the LED light between the 2 boxes.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=23</ref>{{greenbox: '''Warning''': If you don’t have any experience with electrical work, hire a licensed electrician to install junction boxes and connect them to the power supply. It is not safe to try and do this yourself unless you know exactly what you’re doing. An electrician can also easily install the motion sensor and LED light for you at the same time.}}[[Image:Wire a Light Sensor Step 9.jpg|center]]",
+                    "#Connect the black live wires and white neutral wires using wire nuts. Twist the exposed metal ends of the black wires from the motion sensor and the junction box together and screw a plastic wire nut onto them to hold them together. Repeat this for the white wires.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=97</ref>[[Image:Wire a Light Sensor Step 10.jpg|center]]",
+                    "#Connect the red wire from the motion sensor to the other junction box’s live wire. Hold the exposed metal end of the motion sensor’s red wire together with the end of the black live wire that goes to the other junction box for your LED light. Put a plastic wire nut on top of the ends to hold them together.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=181</ref>[[Image:Wire a Light Sensor Step 11.jpg|center]]",
+                    "#Secure the 2 copper ground wires together using a wire nut. Twist the end of the motion sensor’s copper ground wire together with the end of the junction box’s copper ground wire. Twist a wire nut over the ends to secure them together.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>[[Image:Wire a Light Sensor Step 12.jpg|center]]",
+                    "#Mount the motion sensor on the junction box using the provided hardware. Tuck all the wires up into the junction box. Screw the motion sensor in place using the provided screws and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=224</ref>[[Image:Wire a Light Sensor Step 13.jpg|center]]",
+                    "#Repeat the process to wire and mount the LED light. Connect the colored wires from the junction box to the matching colors of wires on the back of the LED light fixture using plastic wire nuts. Screw the LED light fixture into place on the junction box using the provided hardware and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=257</ref>[[Image:Wire a Light Sensor Step 14.jpg|center]]",
+                    "#Turn on the power and test the light. Switch the power breaker back on at the main fuse box. Walk by the motion sensor to check that it turns on the light.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>[[Image:Wire a Light Sensor Step 15.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off power to the room at the main fuse box. Flip the breaker that supplies electricity to the room where you plan to install the light switch sensor. Test the lights in the room to make sure they are really cut off from power.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#Remove the light switch’s faceplate by unscrewing or prying it off. Use a screwdriver to take out the screws if it has any, then pull it off the wall and set it aside. Pop it off the light switch by sliding something flat and skinny under an edge and prying it off the wall if it doesn’t have any screws.",
+                    "#Unscrew the existing light switch from the wall and pull it out. Use a screwdriver to remove the 2 screws that attach the light switch to the electrical box in the wall. Disconnect the wires by twisting off any plastic wire nuts or unwrapping any electrical tape and untwisting the wires if they are twisted together. Pull the light switch out of the wall and set it aside.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#Connect the black, white, and red wires from the light sensor to the wall wires. Twist the hot black wires together and screw a plastic wire nut onto the ends. Repeat this for the neutral white wires and red load wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}",
+                    "#Wire the green wire from the light sensor to the copper wire in the wall. Twist them together and cover them with a plastic wire nut. These are the ground wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=297</ref>",
+                    "#Mount the light switch sensor on the wall with the provided hardware. Tuck all the wires into the electrical box in the wall. Screw the light sensor onto the wall using the provided screws and a screwdriver or electric drill. Snap the wall faceplate into place.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=371</ref>",
+                    "#Turn the power back on and test the light switch sensor. Flip the breaker that supplies electricity to the room back on at the main fuse box. Flip the power switch on the light switch sensor to the ON position to check if it turns the light on, then set it to the AUTO position. Go out of the room until the light turns off, then walk back in to see if the light turns on automatically.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=395</ref>",
+                    "#Turn off power at the main fuse box. Flip off the main power breaker so that there is no electricity being supplied while you work. Test a light switch or outlet where you plan to install the motion sensor to ensure that there is no electricity flowing to the area.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#[[Install a Junction Box|Install 2 junction boxes]] with wire connections on a ceiling or wall. Screw 2 junction boxes onto a wall or ceiling and connect them to the power supply. Run a wire for connecting the light sensor to the LED light between the 2 boxes.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=23</ref>{{greenbox: '''Warning''': If you don’t have any experience with electrical work, hire a licensed electrician to install junction boxes and connect them to the power supply. It is not safe to try and do this yourself unless you know exactly what you’re doing. An electrician can also easily install the motion sensor and LED light for you at the same time.}}",
+                    "#Connect the black live wires and white neutral wires using wire nuts. Twist the exposed metal ends of the black wires from the motion sensor and the junction box together and screw a plastic wire nut onto them to hold them together. Repeat this for the white wires.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=97</ref>",
+                    "#Connect the red wire from the motion sensor to the other junction box’s live wire. Hold the exposed metal end of the motion sensor’s red wire together with the end of the black live wire that goes to the other junction box for your LED light. Put a plastic wire nut on top of the ends to hold them together.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=181</ref>",
+                    "#Secure the 2 copper ground wires together using a wire nut. Twist the end of the motion sensor’s copper ground wire together with the end of the junction box’s copper ground wire. Twist a wire nut over the ends to secure them together.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#Mount the motion sensor on the junction box using the provided hardware. Tuck all the wires up into the junction box. Screw the motion sensor in place using the provided screws and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=224</ref>",
+                    "#Repeat the process to wire and mount the LED light. Connect the colored wires from the junction box to the matching colors of wires on the back of the LED light fixture using plastic wire nuts. Screw the LED light fixture into place on the junction box using the provided hardware and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=257</ref>",
+                    "#Turn on the power and test the light. Switch the power breaker back on at the main fuse box. Walk by the motion sensor to check that it turns on the light.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27904184",
+            "user": "Seymour Edits",
+            "timestamp": "15:19, 26 March 2020",
+            "anon": false,
+            "size": "(10,355 bytes)",
+            "change": 1087,
+            "summary": "(Expanded into more steps, revised step titles, wrap, intro, and substeps. Replaced sources. Edited M1 title. Added details.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage. Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents.",
+                    "",
+                    "===Installing a Light Switch Sensor for an Existing Light===",
+                    "#Remove the light switch’s faceplate by unscrewing or prying it off. Use a screwdriver to take out the screws if it has any, then pull it off the wall and set it aside. Pop it off the light switch by sliding something flat and skinny under an edge and prying it off the wall if it doesn’t have any screws.",
+                    "#Unscrew the existing light switch from the wall and pull it out. Use a screwdriver to remove the 2 screws that attach the light switch to the electrical box in the wall. Disconnect the wires by twisting off any plastic wire nuts or unwrapping any electrical tape and untwisting the wires if they are twisted together. Pull the light switch out of the wall and set it aside.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#*Plastic wire nuts are cone-shaped plastic caps that screw onto a set of wires to keep them connected. Your light sensor might come with them or you can buy them separately at a hardware store or online.",
+                    "#Connect the black, white, and red wires from the light sensor to the wall wires. Twist the hot black wires together and screw a plastic wire nut onto the ends. Repeat this for the neutral white wires and red load wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}",
+                    "#*The live and neutral wires are always black and white, respectively.",
+                    "#*The load wire is the wire that connects to the light fixture. It might be a different color than red in your wall, such as black. It usually comes out of the top of the electrical box in the wall, since it is coming down from the ceiling. However, you can only be sure which wire it is if you test all the wires with a [[Use a Multimeter|multimeter]].",
+                    "#Wire the green wire from the light sensor to the copper wire in the wall. Twist them together and cover them with a plastic wire nut. These are the ground wires.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=297</ref>",
+                    "#*The ground wire in your wall will always be bare copper.",
+                    "#Mount the light switch sensor on the wall with the provided hardware. Tuck all the wires into the electrical box in the wall. Screw the light sensor onto the wall using the provided screws and a screwdriver or electric drill. Snap the wall faceplate into place.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=371</ref>",
+                    "#[[Install a Junction Box|Install 2 junction boxes]] with wire connections on a ceiling or wall. Screw 2 junction boxes onto a wall or ceiling and connect them to the power supply. Run a wire for connecting the light sensor to the LED light between the 2 boxes.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=23</ref>{{greenbox: '''Warning''': If you don’t have any experience with electrical work, hire a licensed electrician to install junction boxes and connect them to the power supply. It is not safe to try and do this yourself unless you know exactly what you’re doing. An electrician can also easily install the motion sensor and LED light for you at the same time.}}",
+                    "#*You could install more than 2 junction boxes and wire them all to the box for the motion sensor if you want to connect more than 1 light to the sensor.",
+                    "#Secure the 2 copper ground wires together using a wire nut. Twist the end of the motion sensor’s copper ground wire together with the end of the junction box’s copper ground wire. Twist a wire nut over the ends to secure them together.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#Mount the motion sensor on the junction box using the provided hardware. Tuck all the wires up into the junction box. Screw the motion sensor in place using the provided screws and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=224</ref>",
+                    "===Installing a Light Switch Sensor for an Existing Light==="
+                ],
+                "removed": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on or if you want to illuminate a dark area without fumbling for a light switch or leaving the light on all the time. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage. Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents.",
+                    "===Installing a Light Switch Sensor===",
+                    "#Remove the existing light switch from the wall. Unscrew and remove the faceplate and unscrew the light switch from the electrical box in the wall. Disconnect the wires by removing any plastic wire nuts or electrical tape and untwisting the wires if they are twisted together. Pull the light switch out of the wall and set it aside.<ref>https://www.fourgenerationsoneroof.com/how-to-install-a-motion-sensor-light-switch-diy/</ref>",
+                    "#Connect the light switch sensor’s colored wires to the corresponding wall wires. Twist the hot black wires together and twist a plastic wire nut onto the ends, then repeat this for the neutral white wires and red load wires. Connect the green ground wire from the light sensor to the copper ground wire in the wall using the same technique.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}",
+                    "#*Keep in mind that although the light switch sensor will have the wires clearly labelled and colored, the wires in your wall might be different. For example, the load wire for the light fixture in your wall can be either red or black.",
+                    "#Mount the light switch sensor on the wall. Tuck all the wires into the electrical box in the wall. Screw the light sensor onto the wall using the provided screws and a screwdriver or electric drill. Snap the wall faceplate into place.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=371</ref>",
+                    "#Set up 2 [[Install a Junction Box|junction boxes]] with wire connections. Install 2 junction boxes on a wall or ceiling and connect them to the power supply. Run a wire for connecting the light sensor to the LED light between the 2 boxes.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=23</ref>{{greenbox: '''Warning''': If you don’t have any experience with electrical work, hire a licensed electrician to install junction boxes and connect them to the power supply. It is not safe to try and do this yourself unless you know exactly what you’re doing. An electrician can also easily install the motion sensor and LED light for you at the same time.}}",
+                    "#Secure the 2 copper ground wires together using a wire nut. Twist the end of the motion sensor’s copper ground wire together with the end of the junction box’s copper ground wire. Twist a wire nut over the ends to secure them together.<ref>https://www.accessfixtures.com/install-motion-sensor-light/</ref>",
+                    "#Mount the motion sensor on the junction box. Tuck all the wires up into the junction box. Screw the motion sensor in place using the provided mounting hardware and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=224</ref>",
+                    "===Installing a Light Switch Sensor==="
+                ]
+            }
+        },
+        {
+            "id": "27898147",
+            "user": "Carolyn Barratt",
+            "timestamp": "03:35, 25 March 2020",
+            "anon": false,
+            "size": "(9,268 bytes)",
+            "change": 16,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:DIY]]"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "27895927",
+            "user": "WRM",
+            "timestamp": "19:09, 24 March 2020",
+            "anon": false,
+            "size": "(9,252 bytes)",
+            "change": 9252,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A light sensor is a great solution if someone in your household tends to leave certain lights on or if you want to illuminate a dark area without fumbling for a light switch or leaving the light on all the time. This is easily achieved by replacing any existing light switch with a motion sensor light switch. You could also install a brand new LED light and motion sensor somewhere like an unfinished basement or garage. Keep in mind that if you don’t have any experience with electrical wiring, you should contract a licensed electrician to perform this job for you so you don’t cause any accidents.",
+                    "==Steps==",
+                    "===Installing a Light Switch Sensor===",
+                    "#Turn off power to the room at the main fuse box. Flip the breaker that supplies electricity to the room where you plan to install the light switch sensor. Test the lights in the room to make sure they are really cut off from power.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#*Never start installing a light sensor or performing other electrical work without shutting off the power first.",
+                    "#*Use this method when you want to install a light sensor in a finished room that already has a light connected to a switch, such as a bedroom, living room, bathroom, or hallway, for example.",
+                    "#Remove the existing light switch from the wall. Unscrew and remove the faceplate and unscrew the light switch from the electrical box in the wall. Disconnect the wires by removing any plastic wire nuts or electrical tape and untwisting the wires if they are twisted together. Pull the light switch out of the wall and set it aside.<ref>https://www.fourgenerationsoneroof.com/how-to-install-a-motion-sensor-light-switch-diy/</ref>",
+                    "#*Some light switches might have screws on the backside that hold the wires from the walls in place. If this is the case, use a screwdriver to loosen them until you can detach the wires.",
+                    "#Connect the light switch sensor’s colored wires to the corresponding wall wires. Twist the hot black wires together and twist a plastic wire nut onto the ends, then repeat this for the neutral white wires and red load wires. Connect the green ground wire from the light sensor to the copper ground wire in the wall using the same technique.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=265</ref>{{greenbox: '''Warning''': If you aren’t sure which wires are which in your wall, do not attempt to complete the wiring yourself. Call a licensed electrician so they can come test the wires for you.}}",
+                    "#*Keep in mind that although the light switch sensor will have the wires clearly labelled and colored, the wires in your wall might be different. For example, the load wire for the light fixture in your wall can be either red or black.",
+                    "#Mount the light switch sensor on the wall. Tuck all the wires into the electrical box in the wall. Screw the light sensor onto the wall using the provided screws and a screwdriver or electric drill. Snap the wall faceplate into place.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=371</ref>",
+                    "#*You can leave the faceplate off until after you test the light if you want.",
+                    "#Turn the power back on and test the light switch sensor. Flip the breaker that supplies electricity to the room back on at the main fuse box. Flip the power switch on the light switch sensor to the ON position to check if it turns the light on, then set it to the AUTO position. Go out of the room until the light turns off, then walk back in to see if the light turns on automatically.<ref>https://www.youtube.com/watch?v=LUSTJBykvL0&feature=youtu.be&t=395</ref>",
+                    "#*Read the light switch sensor’s owner’s manual for any instructions about how to adjust the timing and sensitivity for your specific light sensor. Some models allow you to make the sensor more or less sensitive, adjust how long it keeps the light on, or even change the dimness of the light.",
+                    "",
+                    "===Connecting a Sensor to an LED Light===",
+                    "#Turn off power at the main fuse box. Flip off the main power breaker so that there is no electricity being supplied while you work. Test a light switch or outlet where you plan to install the motion sensor to ensure that there is no electricity flowing to the area.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#*Always do this first before you perform any kind of electrical work.",
+                    "#*This method is a good option if you want to install a motion sensor light in an unfinished room like a basement or garage. It doesn’t make sense to do it in a finished room where you could more easily install a light switch sensor.",
+                    "#Set up 2 [[Install a Junction Box|junction boxes]] with wire connections. Install 2 junction boxes on a wall or ceiling and connect them to the power supply. Run a wire for connecting the light sensor to the LED light between the 2 boxes.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=23</ref>{{greenbox: '''Warning''': If you don’t have any experience with electrical work, hire a licensed electrician to install junction boxes and connect them to the power supply. It is not safe to try and do this yourself unless you know exactly what you’re doing. An electrician can also easily install the motion sensor and LED light for you at the same time.}}",
+                    "#*If you have an existing light that you want to connect a light sensor to, like an [[Install an Outdoor Motion Sensor Light|outdoor light]] or a light bulb with no switch, you can just swap the whole light for a fixture with a built-in motion sensor.",
+                    "#Connect the black live wires and white neutral wires using wire nuts. Twist the exposed metal ends of the black wires from the motion sensor and the junction box together and screw a plastic wire nut onto them to hold them together. Repeat this for the white wires.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=97</ref>",
+                    "#*Your motion sensor might have different colored wires, such as a brown wire instead of a black wire. If so, refer to the manufacturer’s instructions to be sure which wire is the live wire.",
+                    "#*Some motion sensors have an easy-to-read wiring diagram on the back that shows you which wires to connect.",
+                    "#*The neutral wire on the motion sensor can also be blue or green instead of white.",
+                    "#Connect the red wire from the motion sensor to the other junction box’s live wire. Hold the exposed metal end of the motion sensor’s red wire together with the end of the black live wire that goes to the other junction box for your LED light. Put a plastic wire nut on top of the ends to hold them together.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=181</ref>",
+                    "#*This will make your motion sensor function as the light switch for your LED light.",
+                    "#Secure the 2 copper ground wires together using a wire nut. Twist the end of the motion sensor’s copper ground wire together with the end of the junction box’s copper ground wire. Twist a wire nut over the ends to secure them together.<ref>https://www.accessfixtures.com/install-motion-sensor-light/</ref>",
+                    "#Mount the motion sensor on the junction box. Tuck all the wires up into the junction box. Screw the motion sensor in place using the provided mounting hardware and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=224</ref>",
+                    "#*Depending on the specific model of motion sensor, there might be a mounting bracket that you have to install first or it might just screw directly onto the junction box.",
+                    "#Repeat the process to wire and mount the LED light. Connect the colored wires from the junction box to the matching colors of wires on the back of the LED light fixture using plastic wire nuts. Screw the LED light fixture into place on the junction box using the provided hardware and a screwdriver or power drill.<ref>https://www.youtube.com/watch?v=4pBUosKT3E4&feature=youtu.be&t=257</ref>",
+                    "#*You can use any kind of LED light fixture for this. For example, if you are installing a motion sensor light somewhere like a basement with low clearance, you could use a low-profile, flush-mount LED light.",
+                    "#Turn on the power and test the light. Switch the power breaker back on at the main fuse box. Walk by the motion sensor to check that it turns on the light.<ref>https://www.thisoldhouse.com/garages/21016403/how-to-install-a-garage-floodlight</ref>",
+                    "#*If you used an adjustable light fixture of some type, you can now adjust it so the light hits exactly where you want it to.",
+                    "",
+                    "==Tips==",
+                    "*If you want to install a motion sensor on an existing outdoor light or another light fixture without a switch, you can just replace the light fixture with one that has a built-in motion sensor.",
+                    "",
+                    "==Warnings==",
+                    "*Always turn off the power supply before you start any kind of electrical work.",
+                    "*If you are not experienced or comfortable performing electrical wiring on your own, hire a licensed electrician to do it for you to avoid accidents.",
+                    "",
+                    "==Things You’ll Need==",
+                    "===Installing a Light Switch Sensor===",
+                    "*Light switch sensor",
+                    "*Screwdriver",
+                    "*Wire nuts",
+                    "*Electric drill (optional)",
+                    "",
+                    "===Connecting a Sensor to an LED Light===",
+                    "*2 junction boxes with wires",
+                    "*Motion sensor",
+                    "*LED light",
+                    "*Wire nuts",
+                    "*Screwdriver or power drill",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

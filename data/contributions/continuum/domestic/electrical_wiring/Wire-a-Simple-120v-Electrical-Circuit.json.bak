@@ -1,0 +1,2093 @@
+{
+    "title": "Wire-a-Simple-120v-Electrical-Circuit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:06:08.595547",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34096119",
+            "user": "MiscBot",
+            "timestamp": "19:38, 19 February 2026",
+            "anon": false,
+            "size": "(20,011 bytes)",
+            "change": -106,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Make a Simple Electrical Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "34080483",
+            "user": "MiscBot",
+            "timestamp": "02:38, 19 February 2026",
+            "anon": false,
+            "size": "(20,117 bytes)",
+            "change": 108,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Make a Simple Electrical Circuit]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34064628",
+            "user": "MiscBot",
+            "timestamp": "19:28, 18 February 2026",
+            "anon": false,
+            "size": "(20,009 bytes)",
+            "change": -108,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Make a Simple Electrical Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "33320289",
+            "user": "MiscBot",
+            "timestamp": "11:00, 15 April 2025",
+            "anon": false,
+            "size": "(20,117 bytes)",
+            "change": -162,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32652703",
+            "user": "Votebot",
+            "timestamp": "08:56, 15 July 2024",
+            "anon": false,
+            "size": "(20,279 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire."
+                ],
+                "removed": [
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire."
+                ]
+            }
+        },
+        {
+            "id": "32322565",
+            "user": "FlowerPower555",
+            "timestamp": "20:35, 27 February 2024",
+            "anon": false,
+            "size": "(20,279 bytes)",
+            "change": 42,
+            "summary": "(Reverted edits by 164.58.141.7 (Talk); changed back to last version by Rupert28)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going the you thr o familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32322562",
+            "user": "164.58.141.7",
+            "timestamp": "20:34, 27 February 2024",
+            "anon": true,
+            "size": "(20,237 bytes)",
+            "change": -42,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "FlowerPower555",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going the you thr o familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30876642",
+            "user": "SnowyRiver28",
+            "timestamp": "11:32, 14 September 2022",
+            "anon": false,
+            "size": "(20,279 bytes)",
+            "change": 15806,
+            "summary": "(RCP reverted edits by Royalweldingwires (talk) to  revision #29935746 by Seymour Edits)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Hiring an electrician is usually the best way to go where 120 volt circuits are concerned, but if you are up to it, you might save money by doing some basic electrical work yourself. This article covers the steps for installing a simple  15A (15''ampere'') circuit with one receptacle.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "",
+                    "== Steps ==",
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "# This wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center]]",
+                    "#*Choosing and installing electrical boxes.",
+                    "#*Selecting and installing conduit.",
+                    "#*Upgrading an existing electrical panel box to accommodate a new circuit.",
+                    "#  Look at the following requirements that must be considered before proceeding with this project.  These are beyond the scope of this article, so these items should be addressed before starting.[[Image:Wire a Simple 120v Electrical Circuit Step 3.jpg|center]]",
+                    "#* You will need to get and install the receptacle (junction) box.  For flush installation in a drywall wall, you may choose a ''cut in'' or ''repair type'', for other installations, a surface mounted cast aluminum or PVC weather resistant (''damp location'') box may be applicable.",
+                    "#* You will need to determine the path for the wires between the receptacle box and the electrical panel box.",
+                    "#** You will need to install conduit if you use single insulated wires.",
+                    "#** Install the actual wires if you use a non-metallic cable (Romex).",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center]]",
+                    "#*  If you have installed conduit and the run is very short, you may be able to just push the wire from the outlet box back through to the electric panel.",
+                    "#* For long runs, you may need to push a \"fish tape\" through the conduit so you can hook onto the wire and pull it through.",
+                    "#* If you don't have conduit, you will have to \"fish\" the cable  or remove wallboard and possibly drill 5/8 inch or larger holes through the wall studs to feed the wire through.",
+                    "#* Either way, you have to get the wire run between the electric panel and the outlet box in a way that it is not exposed and the insulating \"jacket\" is not damaged.",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.<ref>[v161396_b01]. 6 May 2020.</ref>  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#* If you can't  strip the jacket, use the \"14 gauge\" jaws.  Using the 12 gauge jaws of the tool significantly decreases the chance of nicking the wire.  When using the 14 gauge jaws, hold the tool at a right angle to the wire, otherwise you will damage the wire.  Also strip the end of the ground wire if it is insulated. If you cut too deep, don't worry... Cut the end off and try again. You have 3 or 4 tries before the wires will start to get too short to work with.  It is very important to '''NOT''' nick the wire.",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center]]",
+                    "#  Repeat this procedure for the remaining wires.  If you have a metal box, you'll need to cut an extra bare / green wire pigtail to ground the box.[[Image:Wire a Simple 120v Electrical Circuit Step 12.jpg|center]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center]]",
+                    "#* NOTE:  You can use either the wiring screws or the quick connects.  However, the screws are the preferred method as they provide a better contact between the wires and the outlet.  Also, if you fail to strip enough wire for the quick connect, the wire can work itself loose over time causing all the outlets downstream to fail.",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<ref>https://www.homedepot.com/c/ah/how-to-add-an-outdoor-outlet/9ba683603be9fa5395fab905e702719</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center]]",
+                    "#  That completes wiring of the outlet end of the circuit.[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center]]",
+                    "#  Gently push all the wires back into the electrical box, screw the outlet into place, and put the cover on it.[[Image:Wire a Simple 120v Electrical Circuit Step 17.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.<ref>https://www.esv.vic.gov.au/safety-education/electrical-safety-at-home/using-electricity-safely/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.<ref>https://mrelectric.com/blog/electrical-wire-color-codes</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Find an unused terminal on this grounding bar, unscrew it part way, insert the ground wire, and then tighten the screw back down onto the exposed copper until the wire is secure.  Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.[[Image:Wire a Simple 120v Electrical Circuit Step 22.jpg|center]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Locate the open slot in the electrical panel that you want to install this circuit into. Note that there is a \"hot\" conductive bar that sticks out on one side, and a plastic or grounded metal tab on the other (depending on panel manufacturer).[[Image:Wire a Simple 120v Electrical Circuit Step 25.jpg|center]]",
+                    "#  Being careful to not touch anything conductive, determine the length of wire needed to reach this slot easily, also following a path around the outside of the panel. Cut the wire to length.[[Image:Wire a Simple 120v Electrical Circuit Step 26.jpg|center]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center]]",
+                    "#  Locate the ''single'' binding screw on the new circuit breaker. Don't put the breaker in place yet, but take a look at how there is a slot for the tab in the panel to fit into, and there is another slot where the conductive bar will fit.[[Image:Wire a Simple 120v Electrical Circuit Step 28.jpg|center]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]",
+                    "#  Make sure that your new breaker is switched off.[[Image:Wire a Simple 120v Electrical Circuit Step 30.jpg|center]]",
+                    "#  Standing on the rubber mat, place one hand at your side or behind your back... This is not a tasteless joke, but is actually a safety measure. Working with two hands is dangerous because if you ever touch anything that is hot, current can run in one arm, through your heart, and back out the other arm. One hand is all you need, so keep the other out of the way.[[Image:Wire a Simple 120v Electrical Circuit Step 31.jpg|center]]",
+                    "#  Using your remaining hand, slide the slot in the breaker over the tab in the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 32.jpg|center]]",
+                    "#  Then firmly push the other end of the breaker in over the electrical contact until it is seated in line with the other breakers.[[Image:Wire a Simple 120v Electrical Circuit Step 33.jpg|center]]",
+                    "#  Locate the place on the panel cover where this new breaker needs to be exposed. There is very likely a metal tab that needs to be broken out of the panel so the new breaker can stick out from it. Break out this metal tab and put the cover back on the panel.[[Image:Wire a Simple 120v Electrical Circuit Step 34.jpg|center]]",
+                    "#  Restore power to the panel.  Reverse the order of the shut down procedure in the first step by turning the main breaker back on. This large current switch has no load on it and will be less stressful on it as a result.  Continue restoring power to the circuits by moving remaining circuit breaker handles to the on position, one at a time.  Hold off on turning the new circuit on for last.  Once all the other circuits have been restored, check that all the original electrical circuits & devices are functioning once again.  If any breaker immediately trips, it probably indicates that you created a short circuit. In this case, you will need to either shut all the power off and carefully inspect the panel and / or other work to find it; or call in an electrician.[[Image:Wire a Simple 120v Electrical Circuit Step 35.jpg|center]]",
+                    "#  Turn the new circuit on.  If it immediately trips, you will need to recheck your work and connections.[[Image:Wire a Simple 120v Electrical Circuit Step 36.jpg|center]]",
+                    "#  Plug a lamp into your new circuit to test it. Odds are that it will now work just as it should. Smile because you just saved yourself $300 or more![[Image:Wire a Simple 120v Electrical Circuit Step 37.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Simple 120v Electrical Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*This same procedure can be used to create a 20 amp circuit if (and only if) you substitute a 20 amp breaker, 12 gauge wire, and a 20 amp outlet in combination. Do not substitute one of these parts without substituting ALL of them.",
+                    "*Apply for a permit for this work in your town's building or code enforcement office.",
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire.",
+                    "",
+                    "== Warnings ==",
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel.",
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max.",
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work.",
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits).",
+                    "*If you see red or black wires clamped to the grounding post or to the neutral binding post, DO NOT PROCEED. This indicates non-standard and potentially dangerous existing wiring. It is best to close the panel back up and hire a professional electrician to advise you on it or do the work.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*A 15 Amp circuit breaker",
+                    "*14 gauge \"2-wire with ground\" wire of sufficient length to reach where you want the outlet",
+                    "*A 15 amp rated electrical outlet",
+                    "*An installed outlet box, ready for the outlet and wire",
+                    "*A path, whether in conduit or other approved method for the wire to run from the box back to an electrical panel",
+                    "*One open slot in the electrical panel for the new circuit to be installed",
+                    "*Wire strippers",
+                    "*Needle nose pliers",
+                    "*For long runs, electrical \"fish-tape\" may be required",
+                    "*Rubber soled shoes, ideally with a rubber floor mat.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Make a Simple Electrical Circuit]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "<h1>WHAT ARE LOW HEAT ALUMINUM WELDING RODS & BENEFITS ?</h1>",
+                    "<p>Low heat aluminum welding rods are perfect for a variety of applications, from welding thin metal sheets together to repairing small holes.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>What are Low Heat Aluminum Welding Rods?</p>",
+                    "<p>Low heat aluminum welding rods are made out of a special type of aluminum that is designed to withstand temperatures below 600 degrees Fahrenheit. This makes them ideal for use with low-heat soldering and welding techniques, like brazing and mig welding.</p>",
+                    "<p>Why Use Low Heat Aluminum Welding Rods?</p>",
+                    "<p>There are many reasons why you might want to use low heat aluminum welding rods. For example, they're ideal for repairing small holes or filing off sharp edges on metal pieces. They also make great choices if you're working with thin metal sheets, since they can easily join those sheets together without causing too much damage.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>How Do I Choose the Right Low Heat Aluminum Welding Rod for My Project?</p>",
+                    "<p>There's no one-size-fits-all answer to this question, since the right low heat aluminum welding rod will depend on the specific project that you're working on. However, some tips to keep in mind include checking the manufacturer's specs to see what type of heat resistance the rod offers and looking for a rod</p>",
+                    "<h2>What are Low Heat Aluminum Welding Rods?</h2>",
+                    "<p>Low heat aluminum welding rods are typically made of an alloy of aluminum and other metals that has a lower melting point than pure aluminum. This allows the rod to be welded at a lower temperature, which reduces the amount of heat that is needed to join the pieces of metal. This also results in a stronger joint.</p>",
+                    "<h2>How Do They Work?</h2>",
+                    "<p>When it comes to welding, there are a few different types of welding rods that are available on the market. Each type of welding rod has its own benefits and drawbacks, so it's important to know what kind of welding rod is right for the job at hand.</p>",
+                    "<p>Low heat aluminum welding rods are a good option if you're looking to weld small pieces of metal. They're also good for welding thin metals with a low carbon content.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>The downside to low heat aluminum welding rods is that they don't work well with hard materials like steel. That's why they're often used for welding small pieces of metal or light metals.</p>",
+                    "<h2>Benefits of Using Low Heat Aluminum Welding Rods</h2>",
+                    "<p>When it comes to welding, there are a number of benefits to using low heat aluminum welding rods. The most notable of these is the fact that they are much less likely to cause weld joint failures due to thermal shock. This is because the heat needed to properly weld with high heat aluminum welding rods can cause the metal to reach temperatures well in excess of 1,000 degrees Fahrenheit. As a result, low heat aluminum welding rods can be used to weld metals that would otherwise be too difficult or dangerous to weld. Additionally, low heat aluminum welding rods are also easier on the eyes and throat, making them ideal for use in areas where eye and throat protection are necessary.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<h2>What to Look For When Purchasing Low Heat Aluminum Welding Rods</h2>",
+                    "<p>When purchasing low heat aluminum welding rods, make sure to look for those that are made from high quality materials. This will ensure that the rods will last longer and produce better quality results. Additionally, be sure to find welding rods with a range of temperatures so you can use them for a variety of welding applications.</p>",
+                    "<h2>Conclusion</h2>",
+                    "<p>If you're looking for low heat aluminum welding rods, then you've come to the right place! At AWS Welding Supplies, we offer a wide variety of low heat aluminum welding rods in both spool and sheet form. Our welders are experts at using these welding rods to produce high quality welds without excessively heating the material. We also offer a 100% satisfaction guarantee on all our products, so make sure to check out our selection today!</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>"
+                ]
+            }
+        },
+        {
+            "id": "30876612",
+            "user": "Royalweldingwires",
+            "timestamp": "11:21, 14 September 2022",
+            "anon": false,
+            "size": "(4,473 bytes)",
+            "change": -15806,
+            "summary": "(Low heat aluminum welding rods are perfect for a variety of applications, from welding thin metal sheets together to repairing small holes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "<h1>WHAT ARE LOW HEAT ALUMINUM WELDING RODS & BENEFITS ?</h1>",
+                    "<p>Low heat aluminum welding rods are perfect for a variety of applications, from welding thin metal sheets together to repairing small holes.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>What are Low Heat Aluminum Welding Rods?</p>",
+                    "<p>Low heat aluminum welding rods are made out of a special type of aluminum that is designed to withstand temperatures below 600 degrees Fahrenheit. This makes them ideal for use with low-heat soldering and welding techniques, like brazing and mig welding.</p>",
+                    "<p>Why Use Low Heat Aluminum Welding Rods?</p>",
+                    "<p>There are many reasons why you might want to use low heat aluminum welding rods. For example, they're ideal for repairing small holes or filing off sharp edges on metal pieces. They also make great choices if you're working with thin metal sheets, since they can easily join those sheets together without causing too much damage.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>How Do I Choose the Right Low Heat Aluminum Welding Rod for My Project?</p>",
+                    "<p>There's no one-size-fits-all answer to this question, since the right low heat aluminum welding rod will depend on the specific project that you're working on. However, some tips to keep in mind include checking the manufacturer's specs to see what type of heat resistance the rod offers and looking for a rod</p>",
+                    "<h2>What are Low Heat Aluminum Welding Rods?</h2>",
+                    "<p>Low heat aluminum welding rods are typically made of an alloy of aluminum and other metals that has a lower melting point than pure aluminum. This allows the rod to be welded at a lower temperature, which reduces the amount of heat that is needed to join the pieces of metal. This also results in a stronger joint.</p>",
+                    "<h2>How Do They Work?</h2>",
+                    "<p>When it comes to welding, there are a few different types of welding rods that are available on the market. Each type of welding rod has its own benefits and drawbacks, so it's important to know what kind of welding rod is right for the job at hand.</p>",
+                    "<p>Low heat aluminum welding rods are a good option if you're looking to weld small pieces of metal. They're also good for welding thin metals with a low carbon content.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<p>The downside to low heat aluminum welding rods is that they don't work well with hard materials like steel. That's why they're often used for welding small pieces of metal or light metals.</p>",
+                    "<h2>Benefits of Using Low Heat Aluminum Welding Rods</h2>",
+                    "<p>When it comes to welding, there are a number of benefits to using low heat aluminum welding rods. The most notable of these is the fact that they are much less likely to cause weld joint failures due to thermal shock. This is because the heat needed to properly weld with high heat aluminum welding rods can cause the metal to reach temperatures well in excess of 1,000 degrees Fahrenheit. As a result, low heat aluminum welding rods can be used to weld metals that would otherwise be too difficult or dangerous to weld. Additionally, low heat aluminum welding rods are also easier on the eyes and throat, making them ideal for use in areas where eye and throat protection are necessary.</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>",
+                    "<h2>What to Look For When Purchasing Low Heat Aluminum Welding Rods</h2>",
+                    "<p>When purchasing low heat aluminum welding rods, make sure to look for those that are made from high quality materials. This will ensure that the rods will last longer and produce better quality results. Additionally, be sure to find welding rods with a range of temperatures so you can use them for a variety of welding applications.</p>",
+                    "<h2>Conclusion</h2>",
+                    "<p>If you're looking for low heat aluminum welding rods, then you've come to the right place! At AWS Welding Supplies, we offer a wide variety of low heat aluminum welding rods in both spool and sheet form. Our welders are experts at using these welding rods to produce high quality welds without excessively heating the material. We also offer a 100% satisfaction guarantee on all our products, so make sure to check out our selection today!</p>",
+                    "<p style=\"text-align: center;\">\"http://royalweldingwires.com/\"<strong>ROYAL WELDING WIRES</strong></p>"
+                ],
+                "removed": [
+                    "Hiring an electrician is usually the best way to go where 120 volt circuits are concerned, but if you are up to it, you might save money by doing some basic electrical work yourself. This article covers the steps for installing a simple  15A (15''ampere'') circuit with one receptacle.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "",
+                    "== Steps ==",
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "# This wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center]]",
+                    "#*Choosing and installing electrical boxes.",
+                    "#*Selecting and installing conduit.",
+                    "#*Upgrading an existing electrical panel box to accommodate a new circuit.",
+                    "#  Look at the following requirements that must be considered before proceeding with this project.  These are beyond the scope of this article, so these items should be addressed before starting.[[Image:Wire a Simple 120v Electrical Circuit Step 3.jpg|center]]",
+                    "#* You will need to get and install the receptacle (junction) box.  For flush installation in a drywall wall, you may choose a ''cut in'' or ''repair type'', for other installations, a surface mounted cast aluminum or PVC weather resistant (''damp location'') box may be applicable.",
+                    "#* You will need to determine the path for the wires between the receptacle box and the electrical panel box.",
+                    "#** You will need to install conduit if you use single insulated wires.",
+                    "#** Install the actual wires if you use a non-metallic cable (Romex).",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center]]",
+                    "#*  If you have installed conduit and the run is very short, you may be able to just push the wire from the outlet box back through to the electric panel.",
+                    "#* For long runs, you may need to push a \"fish tape\" through the conduit so you can hook onto the wire and pull it through.",
+                    "#* If you don't have conduit, you will have to \"fish\" the cable  or remove wallboard and possibly drill 5/8 inch or larger holes through the wall studs to feed the wire through.",
+                    "#* Either way, you have to get the wire run between the electric panel and the outlet box in a way that it is not exposed and the insulating \"jacket\" is not damaged.",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.<ref>[v161396_b01]. 6 May 2020.</ref>  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#* If you can't  strip the jacket, use the \"14 gauge\" jaws.  Using the 12 gauge jaws of the tool significantly decreases the chance of nicking the wire.  When using the 14 gauge jaws, hold the tool at a right angle to the wire, otherwise you will damage the wire.  Also strip the end of the ground wire if it is insulated. If you cut too deep, don't worry... Cut the end off and try again. You have 3 or 4 tries before the wires will start to get too short to work with.  It is very important to '''NOT''' nick the wire.",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center]]",
+                    "#  Repeat this procedure for the remaining wires.  If you have a metal box, you'll need to cut an extra bare / green wire pigtail to ground the box.[[Image:Wire a Simple 120v Electrical Circuit Step 12.jpg|center]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center]]",
+                    "#* NOTE:  You can use either the wiring screws or the quick connects.  However, the screws are the preferred method as they provide a better contact between the wires and the outlet.  Also, if you fail to strip enough wire for the quick connect, the wire can work itself loose over time causing all the outlets downstream to fail.",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<ref>https://www.homedepot.com/c/ah/how-to-add-an-outdoor-outlet/9ba683603be9fa5395fab905e702719</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center]]",
+                    "#  That completes wiring of the outlet end of the circuit.[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center]]",
+                    "#  Gently push all the wires back into the electrical box, screw the outlet into place, and put the cover on it.[[Image:Wire a Simple 120v Electrical Circuit Step 17.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.<ref>https://www.esv.vic.gov.au/safety-education/electrical-safety-at-home/using-electricity-safely/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.<ref>https://mrelectric.com/blog/electrical-wire-color-codes</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Find an unused terminal on this grounding bar, unscrew it part way, insert the ground wire, and then tighten the screw back down onto the exposed copper until the wire is secure.  Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.[[Image:Wire a Simple 120v Electrical Circuit Step 22.jpg|center]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Locate the open slot in the electrical panel that you want to install this circuit into. Note that there is a \"hot\" conductive bar that sticks out on one side, and a plastic or grounded metal tab on the other (depending on panel manufacturer).[[Image:Wire a Simple 120v Electrical Circuit Step 25.jpg|center]]",
+                    "#  Being careful to not touch anything conductive, determine the length of wire needed to reach this slot easily, also following a path around the outside of the panel. Cut the wire to length.[[Image:Wire a Simple 120v Electrical Circuit Step 26.jpg|center]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center]]",
+                    "#  Locate the ''single'' binding screw on the new circuit breaker. Don't put the breaker in place yet, but take a look at how there is a slot for the tab in the panel to fit into, and there is another slot where the conductive bar will fit.[[Image:Wire a Simple 120v Electrical Circuit Step 28.jpg|center]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]",
+                    "#  Make sure that your new breaker is switched off.[[Image:Wire a Simple 120v Electrical Circuit Step 30.jpg|center]]",
+                    "#  Standing on the rubber mat, place one hand at your side or behind your back... This is not a tasteless joke, but is actually a safety measure. Working with two hands is dangerous because if you ever touch anything that is hot, current can run in one arm, through your heart, and back out the other arm. One hand is all you need, so keep the other out of the way.[[Image:Wire a Simple 120v Electrical Circuit Step 31.jpg|center]]",
+                    "#  Using your remaining hand, slide the slot in the breaker over the tab in the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 32.jpg|center]]",
+                    "#  Then firmly push the other end of the breaker in over the electrical contact until it is seated in line with the other breakers.[[Image:Wire a Simple 120v Electrical Circuit Step 33.jpg|center]]",
+                    "#  Locate the place on the panel cover where this new breaker needs to be exposed. There is very likely a metal tab that needs to be broken out of the panel so the new breaker can stick out from it. Break out this metal tab and put the cover back on the panel.[[Image:Wire a Simple 120v Electrical Circuit Step 34.jpg|center]]",
+                    "#  Restore power to the panel.  Reverse the order of the shut down procedure in the first step by turning the main breaker back on. This large current switch has no load on it and will be less stressful on it as a result.  Continue restoring power to the circuits by moving remaining circuit breaker handles to the on position, one at a time.  Hold off on turning the new circuit on for last.  Once all the other circuits have been restored, check that all the original electrical circuits & devices are functioning once again.  If any breaker immediately trips, it probably indicates that you created a short circuit. In this case, you will need to either shut all the power off and carefully inspect the panel and / or other work to find it; or call in an electrician.[[Image:Wire a Simple 120v Electrical Circuit Step 35.jpg|center]]",
+                    "#  Turn the new circuit on.  If it immediately trips, you will need to recheck your work and connections.[[Image:Wire a Simple 120v Electrical Circuit Step 36.jpg|center]]",
+                    "#  Plug a lamp into your new circuit to test it. Odds are that it will now work just as it should. Smile because you just saved yourself $300 or more![[Image:Wire a Simple 120v Electrical Circuit Step 37.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Simple 120v Electrical Circuit|}}",
+                    "",
+                    "== Tips ==",
+                    "*This same procedure can be used to create a 20 amp circuit if (and only if) you substitute a 20 amp breaker, 12 gauge wire, and a 20 amp outlet in combination. Do not substitute one of these parts without substituting ALL of them.",
+                    "*Apply for a permit for this work in your town's building or code enforcement office.",
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire.",
+                    "",
+                    "== Warnings ==",
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel.",
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max.",
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work.",
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits).",
+                    "*If you see red or black wires clamped to the grounding post or to the neutral binding post, DO NOT PROCEED. This indicates non-standard and potentially dangerous existing wiring. It is best to close the panel back up and hire a professional electrician to advise you on it or do the work.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*A 15 Amp circuit breaker",
+                    "*14 gauge \"2-wire with ground\" wire of sufficient length to reach where you want the outlet",
+                    "*A 15 amp rated electrical outlet",
+                    "*An installed outlet box, ready for the outlet and wire",
+                    "*A path, whether in conduit or other approved method for the wire to run from the box back to an electrical panel",
+                    "*One open slot in the electrical panel for the new circuit to be installed",
+                    "*Wire strippers",
+                    "*Needle nose pliers",
+                    "*For long runs, electrical \"fish-tape\" may be required",
+                    "*Rubber soled shoes, ideally with a rubber floor mat.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Make a Simple Electrical Circuit]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ]
+            }
+        },
+        {
+            "id": "29935746",
+            "user": "Seymour Edits",
+            "timestamp": "15:40, 30 September 2021",
+            "anon": false,
+            "size": "(20,279 bytes)",
+            "change": 37,
+            "summary": "(adding expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.<ref>[v161396_b01]. 6 May 2020.</ref>  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29514958",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "10:00, 6 May 2021",
+            "anon": false,
+            "size": "(20,242 bytes)",
+            "change": -34,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Do Common Electrical Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "29326774",
+            "user": "GB742",
+            "timestamp": "17:41, 13 March 2021",
+            "anon": false,
+            "size": "(20,276 bytes)",
+            "change": -46,
+            "summary": "(Reverted edits by BananaAppleChocolate (Talk); changed back to last version by Caitlynn L)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]"
+                ],
+                "removed": [
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20&nbsp;cm (8\") sticks out of the outlet box, and about 80&nbsp;cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15&nbsp;cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5&nbsp;cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5&nbsp;cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5&nbsp;cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5&nbsp;cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Strip 1.5&nbsp;cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29326520",
+            "user": "BananaAppleChocolate",
+            "timestamp": "17:23, 13 March 2021",
+            "anon": false,
+            "size": "(20,322 bytes)",
+            "change": 46,
+            "summary": "(→‎Steps: Cleaned up page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "GB742",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20&nbsp;cm (8\") sticks out of the outlet box, and about 80&nbsp;cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15&nbsp;cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5&nbsp;cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5&nbsp;cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5&nbsp;cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5&nbsp;cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Strip 1.5&nbsp;cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]"
+                ],
+                "removed": [
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28908013",
+            "user": "Caitlynn L",
+            "timestamp": "18:33, 23 November 2020",
+            "anon": false,
+            "size": "(20,276 bytes)",
+            "change": -87,
+            "summary": "(updating link to avoid redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "GB742",
+            "exact_contribution": {
+                "added": [
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.familyhandyman.com/project/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28710250",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:40, 8 October 2020",
+            "anon": false,
+            "size": "(20,363 bytes)",
+            "change": -45,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Master Do It Yourself Electrical Safety]]"
+                ]
+            }
+        },
+        {
+            "id": "27763630",
+            "user": "Luna~Cookie",
+            "timestamp": "03:58, 23 February 2020",
+            "anon": false,
+            "size": "(20,408 bytes)",
+            "change": 61,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Wire a Simple 120v Electrical Circuit|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26954149",
+            "user": "Votebot",
+            "timestamp": "09:43, 16 August 2019",
+            "anon": false,
+            "size": "(20,347 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Apply for a permit for this work in your town's building or code enforcement office."
+                ],
+                "removed": [
+                    "*Apply for a permit for this work in your town's building or code enforcement office."
+                ]
+            }
+        },
+        {
+            "id": "26903545",
+            "user": "Seymour Edits",
+            "timestamp": "12:50, 5 August 2019",
+            "anon": false,
+            "size": "(20,347 bytes)",
+            "change": 1579,
+            "summary": "(Added sources for the wikihaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center]]",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<ref>https://www.constructionprotips.com/jobsite-tips/installing-an-electrical-outlet-anywhere/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.<ref>https://www.familyhandyman.com/electrical/wiring-outlets/add-electrical-outlet/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<ref>https://www.familyhandyman.com/electrical/wiring/tips-for-easier-electrical-wiring/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<ref>https://www.homedepot.com/c/ah/how-to-add-an-outdoor-outlet/9ba683603be9fa5395fab905e702719</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.<ref>https://www.esv.vic.gov.au/safety-education/electrical-safety-at-home/using-electricity-safely/</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.<ref>https://mrelectric.com/blog/electrical-wire-color-codes</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.<ref>https://www.youtube.com/watch?v=A5OHrf_l3b8</ref>[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center]]",
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "25489535",
+            "user": "Seymour Edits",
+            "timestamp": "16:38, 26 October 2018",
+            "anon": false,
+            "size": "(18,768 bytes)",
+            "change": 13,
+            "summary": "(Weaving the Web of Links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Cut-Wire|Cut the wire]] to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Cut the wire to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "25032311",
+            "user": "Votebot",
+            "timestamp": "10:16, 6 August 2018",
+            "anon": false,
+            "size": "(18,755 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ],
+                "removed": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ]
+            }
+        },
+        {
+            "id": "24113958",
+            "user": "MiscBot",
+            "timestamp": "20:02, 26 February 2018",
+            "anon": false,
+            "size": "(18,755 bytes)",
+            "change": -16,
+            "summary": "(Removing Summarized magic word that isn’t necessary anymore.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "__SUMMARIZED__"
+                ]
+            }
+        },
+        {
+            "id": "23280368",
+            "user": "JuliaMMartins",
+            "timestamp": "23:38, 26 September 2017",
+            "anon": false,
+            "size": "(18,771 bytes)",
+            "change": -384,
+            "summary": "(removed \"In a Hurry?\" summary (for wikiHaus, please don't revert))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "==In a Hurry?==",
+                    "The best way to wire a simple 120v electrical circuit is to turn off the circuit breakers and the main switch in the panel you’re working in. Cover exposed wires with electrical tape, and stand on a rubber mat as you work. Work slowly and carefully so you don’t electrocute yourself. To learn how to wire the outlet end of the circuit and finish the job, read on!"
+                ]
+            }
+        },
+        {
+            "id": "23257476",
+            "user": "Seymour Edits",
+            "timestamp": "22:59, 22 September 2017",
+            "anon": false,
+            "size": "(19,155 bytes)",
+            "change": 3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "The best way to wire a simple 120v electrical circuit is to turn off the circuit breakers and the main switch in the panel you’re working in. Cover exposed wires with electrical tape, and stand on a rubber mat as you work. Work slowly and carefully so you don’t electrocute yourself. To learn how to wire the outlet end of the circuit and finish the job, read on!"
+                ],
+                "removed": [
+                    "The best way to wire a simple 120v electrical circuit is to work slowly and carefully so you don’t electrocute yourself. Turn off the circuit breakers and the main switch in the panel you’re working in. Cover exposed wires with electrical tape. Stand on a rubber mat as you work. To learn how to wire the outlet end of the circuit and finish the job, read on!"
+                ]
+            }
+        },
+        {
+            "id": "23246804",
+            "user": "Seymour Edits",
+            "timestamp": "21:31, 20 September 2017",
+            "anon": false,
+            "size": "(19,152 bytes)",
+            "change": 396,
+            "summary": "(Editing “In a Hurry?” test for wikiHaus experiment)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SnowyRiver28",
+            "exact_contribution": {
+                "added": [
+                    "==In a Hurry?==",
+                    "The best way to wire a simple 120v electrical circuit is to work slowly and carefully so you don’t electrocute yourself. Turn off the circuit breakers and the main switch in the panel you’re working in. Cover exposed wires with electrical tape. Stand on a rubber mat as you work. To learn how to wire the outlet end of the circuit and finish the job, read on!",
+                    "",
+                    "__SUMMARIZED__"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "22699114",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "22:09, 26 June 2017",
+            "anon": false,
+            "size": "(18,756 bytes)",
+            "change": -110,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Detect Cross Lines Between 2 or More Electrical Circuits]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "21291803",
+            "user": "Flickety",
+            "timestamp": "23:43, 6 November 2016",
+            "anon": false,
+            "size": "(18,866 bytes)",
+            "change": 17,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "21071249",
+            "user": "Votebot",
+            "timestamp": "08:37, 4 October 2016",
+            "anon": false,
+            "size": "(18,849 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits)."
+                ],
+                "removed": [
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits)."
+                ]
+            }
+        },
+        {
+            "id": "19587007",
+            "user": "Lutherus Shyrilser",
+            "timestamp": "08:16, 5 February 2016",
+            "anon": false,
+            "size": "(18,849 bytes)",
+            "change": 3,
+            "summary": "(Reverted edits by 185.100.86.86 (Talk); changed back to last version by RelatedWikihowsBot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#*Upgrading an existing electrical panel box to accommodate a new circuit.",
+                    ""
+                ],
+                "removed": [
+                    "#*Upgrading an existing electrical panel box to accommodate a new circui"
+                ]
+            }
+        },
+        {
+            "id": "19586871",
+            "user": "185.100.86.86",
+            "timestamp": "07:55, 5 February 2016",
+            "anon": true,
+            "size": "(18,846 bytes)",
+            "change": -3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Lutherus Shyrilser",
+            "exact_contribution": {
+                "added": [
+                    "#*Upgrading an existing electrical panel box to accommodate a new circui"
+                ],
+                "removed": [
+                    "#*Upgrading an existing electrical panel box to accommodate a new circuit.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "19407544",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "06:25, 12 January 2016",
+            "anon": false,
+            "size": "(18,849 bytes)",
+            "change": -285,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Lutherus Shyrilser",
+            "exact_contribution": {
+                "added": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Master Do It Yourself Electrical Safety]]",
+                    "*[[Detect Cross Lines Between 2 or More Electrical Circuits]]",
+                    "*[[Do Common Electrical Repairs]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*[[Make a Simple Electrical Circuit]]"
+                ],
+                "removed": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box|How to Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Master Do It Yourself Electrical Safety|How to Master Do It Yourself Electrical Safety]]",
+                    "*[[Detect Cross Lines Between 2 or More Electrical Circuits|How to Detect Cross Lines Between 2 or More Electrical Circuits]]",
+                    "*[[Do Common Electrical Repairs|How to Do Common Electrical Repairs]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*[[Make a Simple Electrical Circuit|How to Make a Simple Electrical Circuit]]"
+                ]
+            }
+        },
+        {
+            "id": "18792934",
+            "user": "Votebot",
+            "timestamp": "09:40, 5 November 2015",
+            "anon": false,
+            "size": "(19,134 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ],
+                "removed": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ]
+            }
+        },
+        {
+            "id": "18492211",
+            "user": "Votebot",
+            "timestamp": "08:34, 23 September 2015",
+            "anon": false,
+            "size": "(19,134 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel."
+                ],
+                "removed": [
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel."
+                ]
+            }
+        },
+        {
+            "id": "18285659",
+            "user": "Votebot",
+            "timestamp": "08:31, 23 August 2015",
+            "anon": false,
+            "size": "(19,134 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "18112725",
+            "user": "MiscBot",
+            "timestamp": "15:46, 29 July 2015",
+            "anon": false,
+            "size": "(19,134 bytes)",
+            "change": -518,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center]]",
+                    "# This wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center]]",
+                    "#  Look at the following requirements that must be considered before proceeding with this project.  These are beyond the scope of this article, so these items should be addressed before starting.[[Image:Wire a Simple 120v Electrical Circuit Step 3.jpg|center]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center]]",
+                    "#  Cut the wire to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center]]",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center]]",
+                    "#  Repeat this procedure for the remaining wires.  If you have a metal box, you'll need to cut an extra bare / green wire pigtail to ground the box.[[Image:Wire a Simple 120v Electrical Circuit Step 12.jpg|center]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center]]",
+                    "#  That completes wiring of the outlet end of the circuit.[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center]]",
+                    "#  Gently push all the wires back into the electrical box, screw the outlet into place, and put the cover on it.[[Image:Wire a Simple 120v Electrical Circuit Step 17.jpg|center]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center]]",
+                    "#  Find an unused terminal on this grounding bar, unscrew it part way, insert the ground wire, and then tighten the screw back down onto the exposed copper until the wire is secure.  Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.[[Image:Wire a Simple 120v Electrical Circuit Step 22.jpg|center]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center]]",
+                    "#  Locate the open slot in the electrical panel that you want to install this circuit into. Note that there is a \"hot\" conductive bar that sticks out on one side, and a plastic or grounded metal tab on the other (depending on panel manufacturer).[[Image:Wire a Simple 120v Electrical Circuit Step 25.jpg|center]]",
+                    "#  Being careful to not touch anything conductive, determine the length of wire needed to reach this slot easily, also following a path around the outside of the panel. Cut the wire to length.[[Image:Wire a Simple 120v Electrical Circuit Step 26.jpg|center]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center]]",
+                    "#  Locate the ''single'' binding screw on the new circuit breaker. Don't put the breaker in place yet, but take a look at how there is a slot for the tab in the panel to fit into, and there is another slot where the conductive bar will fit.[[Image:Wire a Simple 120v Electrical Circuit Step 28.jpg|center]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center]]",
+                    "#  Make sure that your new breaker is switched off.[[Image:Wire a Simple 120v Electrical Circuit Step 30.jpg|center]]",
+                    "#  Standing on the rubber mat, place one hand at your side or behind your back... This is not a tasteless joke, but is actually a safety measure. Working with two hands is dangerous because if you ever touch anything that is hot, current can run in one arm, through your heart, and back out the other arm. One hand is all you need, so keep the other out of the way.[[Image:Wire a Simple 120v Electrical Circuit Step 31.jpg|center]]",
+                    "#  Using your remaining hand, slide the slot in the breaker over the tab in the electrical panel.[[Image:Wire a Simple 120v Electrical Circuit Step 32.jpg|center]]",
+                    "#  Then firmly push the other end of the breaker in over the electrical contact until it is seated in line with the other breakers.[[Image:Wire a Simple 120v Electrical Circuit Step 33.jpg|center]]",
+                    "#  Locate the place on the panel cover where this new breaker needs to be exposed. There is very likely a metal tab that needs to be broken out of the panel so the new breaker can stick out from it. Break out this metal tab and put the cover back on the panel.[[Image:Wire a Simple 120v Electrical Circuit Step 34.jpg|center]]",
+                    "#  Restore power to the panel.  Reverse the order of the shut down procedure in the first step by turning the main breaker back on. This large current switch has no load on it and will be less stressful on it as a result.  Continue restoring power to the circuits by moving remaining circuit breaker handles to the on position, one at a time.  Hold off on turning the new circuit on for last.  Once all the other circuits have been restored, check that all the original electrical circuits & devices are functioning once again.  If any breaker immediately trips, it probably indicates that you created a short circuit. In this case, you will need to either shut all the power off and carefully inspect the panel and / or other work to find it; or call in an electrician.[[Image:Wire a Simple 120v Electrical Circuit Step 35.jpg|center]]",
+                    "#  Turn the new circuit on.  If it immediately trips, you will need to recheck your work and connections.[[Image:Wire a Simple 120v Electrical Circuit Step 36.jpg|center]]",
+                    "#  Plug a lamp into your new circuit to test it. Odds are that it will now work just as it should. Smile because you just saved yourself $300 or more![[Image:Wire a Simple 120v Electrical Circuit Step 37.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center|550px]]",
+                    "# This wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center|550px]]",
+                    "#  Look at the following requirements that must be considered before proceeding with this project.  These are beyond the scope of this article, so these items should be addressed before starting.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 3.jpg|center|550px]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center|550px]]",
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center|550px]]",
+                    "#  Cut the wire to length so that 20cm (8\") sticks out of the outlet box, and about 80cm (30\") sticks out at the electrical panel.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 6.jpg|center|550px]]",
+                    "#  '''Cut about 15cm (6\") of the (usually yellow or gray) outer jacket away''' from the wire, being careful to not damage the inner black or white jackets. This usually leaves one bare copper or green wire (the ''ground'' wire), one black wire (the ''hot'' wire) and one white wire (the ''neutral'' wire).<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 7.jpg|center|550px]]",
+                    "#  Strip about 1.5 cm (5/8\") of the insulation away from the end of both the black and white wires.  If you have wire strippers, simply clamp the insulated wire in the slot that matches the size of your wire, turn the strippers half a turn to score the insulation, and pull the wire through.  This will remove the insulation without damaging the copper conductor inside it.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 8.jpg|center|550px]]",
+                    "# Use the needle nose pliers to form a small hook at the exposed copper ends of all the wires to attach to the terminals on your receptacle if you are not going to feed additions devices through this outlet.  Otherwise, cut 8\" pieces of black, white and bare / green wires from the unused portion of the roll to be used as \"pigtails\".<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 9.jpg|center|550px]]",
+                    "#  Carefully strip both ends of the pigtails as outlined above.  Gather all of the \"hot\" wires (black or red usually) and the 8\" black ''pigtail''.  Twist them together and spin a properly sized wire nut securely over the top.  No exposed copper should be seen extending from the insulating cover of the wire nut.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 10.jpg|center|550px]]",
+                    "#  Fold the group towards the back of the box, with the pigtail sticking out to the front of the box.  Use the needle nose pliers to form a small hook the exposed copper end of pigtail.  This lone black wire represents the bundle of blacks, and will be easier to work with than a whole bundle of wires.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 11.jpg|center|550px]]",
+                    "#  Repeat this procedure for the remaining wires.  If you have a metal box, you'll need to cut an extra bare / green wire pigtail to ground the box.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 12.jpg|center|550px]]",
+                    "#  '''Look at the outlet'''. On the side of the outlet, you will see screws. The screws will be darker on one side than the other, usually, brass for the dark side, and silver for the lighter side. On the back of the outlet, you will see 2 or 4 sets of small round holes near the screws.  These are the \"quick connect\" points.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 13.jpg|center|550px]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center|550px]]",
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center|550px]]",
+                    "#  That completes wiring of the outlet end of the circuit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center|550px]]",
+                    "#  Gently push all the wires back into the electrical box, screw the outlet into place, and put the cover on it.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 17.jpg|center|550px]]",
+                    "#  '''Go to the electric panel'''.  Make sure you '''double-check that the power is turned off'''. Still, it is a good idea to treat all exposed wires and conductive metal as though it is ''live'' (energized, or ''hot'').<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 18.jpg|center|550px]]",
+                    "#  Put the rubber mat down and stand on it while you do your work, and bend the wires out away from the panel while preparing them, so that your hands are not working close to potentially live circuits.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 19.jpg|center|550px]]",
+                    "#  Locate the neutral / grounding bus bar.  This is a long bar with many screw terminals with existing uninsulated and green insulated (ground) wires terminated to it and often times will have white wires terminated to it as well.  ''Most'' properties with only one electrical panel has a single such bus bar (as described above) for the termination of both ground and neutral wires. ''Most'' properties that have ''more than one'' electrical panel (a second panel for a detached garage or dedicated shop area; or provided during expansion of or addition to a home - are common scenarios), are required to have a bus bar for the termination of ground wires and a ''separate bus bar'' for the termination of neutral wires.  Suffice to say, if the panel has one bar used to terminate only white wires and another bus bar used to terminate only green or / and bare wires, it is ''very important'' to maintain the integrity of these two systems by adding ground wires only to the ground bus bar and neutral wires only to the neutral bus bar.  Failure to do so is a code violation and a potential shock hazard.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 20.jpg|center|550px]]",
+                    "#  Cut the ground wire to length so that it comfortably reaches the grounding post after following a path out of the way of other wires, typically following right-angles across the bottom of the panel and up to the grounding post. Don't cut it too short, but don't leave too much slack either. If the ground wire has a green jacket, strip 1.5cm (5/8\") of the jacket from the end of the wire.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 21.jpg|center|550px]]",
+                    "#  Find an unused terminal on this grounding bar, unscrew it part way, insert the ground wire, and then tighten the screw back down onto the exposed copper until the wire is secure.  Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 22.jpg|center|550px]]",
+                    "#  Locate the neutral bar if there is one. This is similar to the grounding post, except that it will have only white wires hooked into it. In many cases, the neutral bar and ground bar are the same. If this is the case, both the ground wire and the white neutral wire may be terminated to the same grounding bar.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 23.jpg|center|550px]]",
+                    "#  Cut the white neutral wire to length, then strip 1.5cm (5/8\") of the jacket off and bind it to the neutral binding post the same way as you did for the ground wire.   Place only one wire per terminal.  Do not over tighten and crush the conductor under the screw.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 24.jpg|center|550px]]",
+                    "#  Locate the open slot in the electrical panel that you want to install this circuit into. Note that there is a \"hot\" conductive bar that sticks out on one side, and a plastic or grounded metal tab on the other (depending on panel manufacturer).<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 25.jpg|center|550px]]",
+                    "#  Being careful to not touch anything conductive, determine the length of wire needed to reach this slot easily, also following a path around the outside of the panel. Cut the wire to length.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 26.jpg|center|550px]]",
+                    "#  Check or select a circuit breaker suitable for the task and panel.  The panel cover will provide a list of circuit breakers models that have been tested with and are approved for use in the panel by an independent test facility such as UL (Underwriters Labs), FM (Factory Mutual), etc..  Under no circumstances should any circuit breaker that does not appear on this list be installed into the panel - regardless if it fits; or not.  Circuit breakers made by Square D, Murray, ITE, Sylvania, Westinghouse, etc. are to be installed in panels made by the same breaker manufacturer.  Do not make the mistake of trying to install a Square D (or other manufacturer) circuit breaker into a different manufacturer's panel.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 27.jpg|center|550px]]",
+                    "#  Locate the ''single'' binding screw on the new circuit breaker. Don't put the breaker in place yet, but take a look at how there is a slot for the tab in the panel to fit into, and there is another slot where the conductive bar will fit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 28.jpg|center|550px]]",
+                    "#  Strip 1.5cm (5/8\") of the end of the black wire, insert it into the breaker, and bind it securely to the breaker.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 29.jpg|center|550px]]",
+                    "#  Make sure that your new breaker is switched off.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 30.jpg|center|550px]]",
+                    "#  Standing on the rubber mat, place one hand at your side or behind your back... This is not a tasteless joke, but is actually a safety measure. Working with two hands is dangerous because if you ever touch anything that is hot, current can run in one arm, through your heart, and back out the other arm. One hand is all you need, so keep the other out of the way.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 31.jpg|center|550px]]",
+                    "#  Using your remaining hand, slide the slot in the breaker over the tab in the electrical panel.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 32.jpg|center|550px]]",
+                    "#  Then firmly push the other end of the breaker in over the electrical contact until it is seated in line with the other breakers.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 33.jpg|center|550px]]",
+                    "#  Locate the place on the panel cover where this new breaker needs to be exposed. There is very likely a metal tab that needs to be broken out of the panel so the new breaker can stick out from it. Break out this metal tab and put the cover back on the panel.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 34.jpg|center|550px]]",
+                    "#  Restore power to the panel.  Reverse the order of the shut down procedure in the first step by turning the main breaker back on. This large current switch has no load on it and will be less stressful on it as a result.  Continue restoring power to the circuits by moving remaining circuit breaker handles to the on position, one at a time.  Hold off on turning the new circuit on for last.  Once all the other circuits have been restored, check that all the original electrical circuits & devices are functioning once again.  If any breaker immediately trips, it probably indicates that you created a short circuit. In this case, you will need to either shut all the power off and carefully inspect the panel and / or other work to find it; or call in an electrician.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 35.jpg|center|550px]]",
+                    "#  Turn the new circuit on.  If it immediately trips, you will need to recheck your work and connections.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 36.jpg|center|550px]]",
+                    "#  Plug a lamp into your new circuit to test it. Odds are that it will now work just as it should. Smile because you just saved yourself $300 or more!<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 37.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17988945",
+            "user": "InterwikiBot",
+            "timestamp": "08:01, 28 July 2015",
+            "anon": false,
+            "size": "(19,652 bytes)",
+            "change": -112,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:instalar un circuito eléctrico simple de 120 V]]",
+                    "[[it:Installare un Circuito Elettrico Semplice di 120v]]"
+                ]
+            }
+        },
+        {
+            "id": "17887253",
+            "user": "Votebot",
+            "timestamp": "08:37, 23 July 2015",
+            "anon": false,
+            "size": "(19,764 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max."
+                ],
+                "removed": [
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max."
+                ]
+            }
+        },
+        {
+            "id": "17169121",
+            "user": "Votebot",
+            "timestamp": "12:59, 21 April 2015",
+            "anon": false,
+            "size": "(19,764 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ],
+                "removed": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ]
+            }
+        },
+        {
+            "id": "16924513",
+            "user": "Votebot",
+            "timestamp": "13:19, 21 March 2015",
+            "anon": false,
+            "size": "(19,764 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits)."
+                ],
+                "removed": [
+                    "*Do not use 15 amp breakers with 20 amp outlets. 20 Amp outlets look different than 15 amp outlets, and use of a 20 amp outlet indicates to future users that there are 20 amps of power available. This will not be true with a 15 amp breaker (this applies in commercial and industrial buildings only as residential buildings do not need 20 amp outlets even if on 20 amp circuits)."
+                ]
+            }
+        },
+        {
+            "id": "16546928",
+            "user": "MiscBot",
+            "timestamp": "19:47, 4 February 2015",
+            "anon": false,
+            "size": "(19,764 bytes)",
+            "change": 1,
+            "summary": "(Correcting spelling and/or grammar.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches an exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#  Feed the wires through the conduit from the receptacle box. '''Put a couple of pieces of electrical tape''' over the end of your wires, so the copper is not exposed. This way, if your wire touches a exposed live conductor while feeding it through, it won't short out or conduct the current back to you.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15591699",
+            "user": "David Carroll Jr",
+            "timestamp": "07:33, 10 October 2014",
+            "anon": false,
+            "size": "(19,763 bytes)",
+            "change": -17,
+            "summary": "(Quick edit while using the SpellChecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center|550px]]",
+                    "# This wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center|550px]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also, allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center|550px]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to back-wiring, and most electricians use this technique on their own houses because of it.  If you insist on back-wiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#  Turn off the power feeding the panel you are going to be working in.  It may help to take a few minutes to familiarize yourself with all of the tips in the related wikiHow article on \"How to [[Master Do It Yourself Electrical Safety]]\".  Shut off all the individual circuit breakers in the panel and then shut off the main switch that supplies the power to the panel.  This is preferable as it is much safer to operate many smaller current devices, one at a time; than to operate a single, large current device just once.  When all the smaller circuit breakers are off, the amount of current flowing through the larger 50, 100 (or more) amp circuit breaker should be zero.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 1.jpg|center|550px]]",
+                    "# Understand that this wikiHow is about ''wiring a simple electrical circuit''. It doesn't cover the following information, which may vary depending on the type of installation you are doing, and the type of existing wiring you may be connecting to.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 2.jpg|center|550px]]",
+                    "#  Measure the distance from the electrical panel box to the location your new outlet will be installed, following the path you have selected, and trying to determine the actual distance the wire must run.  Allow a little extra for corners, especially if you are installing in conduit, since these have ride radius curves for turning sharp angles. Also allow at least 24 inches for hooking the wires to the breaker or fuse block and neutral and ground terminals in the panel box, and 6 or 8 inches for terminating in the receptacle box.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 4.jpg|center|550px]]",
+                    "#  Wrap the hook you made on the wires around the screw terminals of the outlet.  Doing this provides a significantly superior connection compared to backwiring, and most electricians use this technique on their own houses because of it.  If you insist on backwiring, insert the tip of the black wire into one of the holes nearest the dark screws and push it in as far as it will go. You may need to use the needle nose pliers to push the wire in, as these can be really stiff sometimes. The wire should go nearly the full 1.5 cm (5/8\") in. Repeat this with the white wire into a hole near the lighter colored screws.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 14.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15427806",
+            "user": "Votebot",
+            "timestamp": "19:03, 22 September 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ],
+                "removed": [
+                    "*If you aren't fully aware of the safety requirements of electrical work, don't do this. Mistakes are literally deadly in this kind of work."
+                ]
+            }
+        },
+        {
+            "id": "15151348",
+            "user": "Votebot",
+            "timestamp": "18:55, 22 August 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel."
+                ],
+                "removed": [
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel."
+                ]
+            }
+        },
+        {
+            "id": "14300734",
+            "user": "Votebot",
+            "timestamp": "18:29, 22 July 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max.",
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel.",
+                    "*If you see red or black wires clamped to the grounding post or to the neutral binding post, DO NOT PROCEED. This indicates non-standard and potentially dangerous existing wiring. It is best to close the panel back up and hire a professional electrician to advise you on it or do the work."
+                ],
+                "removed": [
+                    "*Inside an electrical panel, EVEN WHEN THE MAIN BREAKER IS OFF, deadly high voltage currents can be exposed. This is true by design in many cases, so DO NOT assume you are safe just because you have a new well maintained panel.",
+                    "*If you see red or black wires clamped to the grounding post or to the neutral binding post, DO NOT PROCEED. This indicates non-standard and potentially dangerous existing wiring. It is best to close the panel back up and hire a professional electrician to advise you on it or do the work.",
+                    "*Do not use 20 amp breakers with #14 gauge or smaller wire. This creates a fire hazard as #14 is rated for 15 amps max."
+                ]
+            }
+        },
+        {
+            "id": "14123591",
+            "user": "Votebot",
+            "timestamp": "17:52, 3 July 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire."
+                ],
+                "removed": [
+                    "*Have your work inspected.  That $300 you saved is peanuts if you lose all your  possessions or a loved one to an electrical fire."
+                ]
+            }
+        },
+        {
+            "id": "13997932",
+            "user": "Katie Hope",
+            "timestamp": "02:14, 22 June 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": -226,
+            "summary": "(RCP reverted edits by 189.222.135.110 (talk) to  revision #13437647 by Nick C.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center|550px]]",
+                    "#  That completes wiring of the outlet end of the circuit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step .  Do not go by this picture, you will short out the receptacle!!! |center|550px]]",
+                    "#  That completes wiring of the outlet end of the circuit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step this picture also shows the wires shorted, the white wire goes on one side of the receptacle (the silver screw), the black wire goes on the other side (the brass screw)!!! |center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13997432",
+            "user": "189.222.135.110",
+            "timestamp": "23:28, 21 June 2014",
+            "anon": true,
+            "size": "(20,006 bytes)",
+            "change": 226,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Katie Hope",
+            "exact_contribution": {
+                "added": [
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step .  Do not go by this picture, you will short out the receptacle!!! |center|550px]]",
+                    "#  That completes wiring of the outlet end of the circuit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step this picture also shows the wires shorted, the white wire goes on one side of the receptacle (the silver screw), the black wire goes on the other side (the brass screw)!!! |center|550px]]"
+                ],
+                "removed": [
+                    "#  Look on one end of the outlet for a green screw. '''Put the hook you made in the ground wire clockwise around the green screw'''. Tighten the screw until it is secure.  This connection must be tight.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 15.jpg|center|550px]]",
+                    "#  That completes wiring of the outlet end of the circuit.<br><br>[[Image:Wire a Simple 120v Electrical Circuit Step 16.jpg|center|550px]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "13437647",
+            "user": "Nick C.",
+            "timestamp": "18:48, 27 April 2014",
+            "anon": false,
+            "size": "(19,780 bytes)",
+            "change": -4,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Katie Hope",
+            "exact_contribution": {
+                "added": [
+                    "#** Install the actual wires if you use a non-metallic cable (Romex)."
+                ],
+                "removed": [
+                    "#** Install the actual wires if you use a non-metallic cable (''romex'')."
+                ]
+            }
+        },
+        {
+            "id": "13152163",
+            "user": "InterwikiBot",
+            "timestamp": "02:21, 1 April 2014",
+            "anon": false,
+            "size": "(19,784 bytes)",
+            "change": 57,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Installare un Circuito Elettrico Semplice di 120v]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12857326",
+            "user": "Votebot",
+            "timestamp": "18:56, 1 March 2014",
+            "anon": false,
+            "size": "(19,727 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Apply for a permit for this work in your town's building or code enforcement office."
+                ],
+                "removed": [
+                    "*Apply for a permit for this work in your town's building or code enforcement office."
+                ]
+            }
+        },
+        {
+            "id": "12326776",
+            "user": "InterwikiBot",
+            "timestamp": "18:03, 7 January 2014",
+            "anon": false,
+            "size": "(19,727 bytes)",
+            "change": 1,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:instalar un circuito eléctrico simple de 120 V]]"
+                ],
+                "removed": [
+                    "[[es:instalar un circuito eléctrico simple de 120v]]"
+                ]
+            }
+        },
+        {
+            "id": "12278979",
+            "user": "InterwikiBot",
+            "timestamp": "16:40, 2 January 2014",
+            "anon": false,
+            "size": "(19,726 bytes)",
+            "change": 54,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:instalar un circuito eléctrico simple de 120v]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12147591",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "19:47, 18 December 2013",
+            "anon": false,
+            "size": "(19,672 bytes)",
+            "change": 18459,
+            "summary": "(Revert to last good)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "12147566",
+            "user": "66.147.51.46",
+            "timestamp": "19:44, 18 December 2013",
+            "anon": true,
+            "size": "(1,213 bytes)",
+            "change": -18853,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion"
+        },
+        {
+            "id": "12147514",
+            "user": "66.147.51.46",
+            "timestamp": "19:31, 18 December 2013",
+            "anon": true,
+            "size": "(20,066 bytes)",
+            "change": 16,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "12147482",
+            "user": "74.143.4.14",
+            "timestamp": "19:27, 18 December 2013",
+            "anon": true,
+            "size": "(20,050 bytes)",
+            "change": 75,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "12147378",
+            "user": "74.143.4.14",
+            "timestamp": "19:11, 18 December 2013",
+            "anon": true,
+            "size": "(19,975 bytes)",
+            "change": 303,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "11782346",
+            "user": "Votebot",
+            "timestamp": "18:47, 13 November 2013",
+            "anon": false,
+            "size": "(19,672 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "11599024",
+            "user": "Votebot",
+            "timestamp": "21:12, 29 October 2013",
+            "anon": false,
+            "size": "(19,675 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "11063272",
+            "user": "Wikiphoto",
+            "timestamp": "05:47, 10 September 2013",
+            "anon": false,
+            "size": "(19,672 bytes)",
+            "change": 334,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "11063269",
+            "user": "Wikiphoto",
+            "timestamp": "05:47, 10 September 2013",
+            "anon": false,
+            "size": "(19,338 bytes)",
+            "change": 2143,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "10847673",
+            "user": "Votebot",
+            "timestamp": "16:49, 18 August 2013",
+            "anon": false,
+            "size": "(17,195 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "10801206",
+            "user": "Votebot",
+            "timestamp": "17:42, 13 August 2013",
+            "anon": false,
+            "size": "(17,195 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "10634612",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "10:52, 31 July 2013",
+            "anon": false,
+            "size": "(17,195 bytes)",
+            "change": 6,
+            "summary": "(Updating old title link to reflect current article redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "9448921",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "17:19, 21 March 2013",
+            "anon": false,
+            "size": "(17,189 bytes)",
+            "change": 0,
+            "summary": "(Reverted edits by 169.139.224.100 (Talk); changed back to last version by Stevecon)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "9448750",
+            "user": "169.139.224.100",
+            "timestamp": "16:49, 21 March 2013",
+            "anon": true,
+            "size": "(17,189 bytes)",
+            "change": 0,
+            "summary": "(pimplrgfvudhjvb)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "8172018",
+            "user": "Stevecon",
+            "timestamp": "19:24, 30 July 2012",
+            "anon": false,
+            "size": "(17,189 bytes)",
+            "change": 2759,
+            "summary": "(→‎Steps:  added panel grounding and neutral  issues.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "7357958",
+            "user": "Ttrimm",
+            "timestamp": "03:38, 29 February 2012",
+            "anon": false,
+            "size": "(14,430 bytes)",
+            "change": 78,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "6965780",
+            "user": "WildRoseBeef",
+            "timestamp": "18:15, 5 December 2011",
+            "anon": false,
+            "size": "(14,352 bytes)",
+            "change": 0,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "6965290",
+            "user": "142.56.86.35",
+            "timestamp": "15:20, 5 December 2011",
+            "anon": true,
+            "size": "(14,352 bytes)",
+            "change": 336,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "6277167",
+            "user": "Wendy Weaver",
+            "timestamp": "22:56, 28 June 2011",
+            "anon": false,
+            "size": "(14,016 bytes)",
+            "change": 94,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "5084373",
+            "user": "BoldStepFixer",
+            "timestamp": "14:28, 29 September 2010",
+            "anon": false,
+            "size": "(13,922 bytes)",
+            "change": -150,
+            "summary": "(fixing the bold issue)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "4442213",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "17:47, 31 March 2010",
+            "anon": false,
+            "size": "(14,072 bytes)",
+            "change": -3,
+            "summary": "(Reverted edits by 74.255.60.75 (Talk); changed back to last version by 173.48.131.35)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "4441794",
+            "user": "74.255.60.75",
+            "timestamp": "16:06, 31 March 2010",
+            "anon": true,
+            "size": "(14,075 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "4441792",
+            "user": "74.255.60.75",
+            "timestamp": "16:05, 31 March 2010",
+            "anon": true,
+            "size": "(14,073 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "4247299",
+            "user": "173.48.131.35",
+            "timestamp": "19:27, 30 January 2010",
+            "anon": true,
+            "size": "(14,072 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "3326913",
+            "user": "Deardivebuddy",
+            "timestamp": "19:00, 18 April 2009",
+            "anon": false,
+            "size": "(14,071 bytes)",
+            "change": 1,
+            "summary": "(Grammar)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup"
+        },
+        {
+            "id": "2780643",
+            "user": "Flickety",
+            "timestamp": "06:06, 23 November 2008",
+            "anon": false,
+            "size": "(14,070 bytes)",
+            "change": -6,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "2435678",
+            "user": "BR",
+            "timestamp": "20:25, 17 August 2008",
+            "anon": false,
+            "size": "(14,076 bytes)",
+            "change": 2133,
+            "summary": "(Copyedit)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "2435468",
+            "user": "BR",
+            "timestamp": "18:56, 17 August 2008",
+            "anon": false,
+            "size": "(11,943 bytes)",
+            "change": 38,
+            "summary": "(preparing to edit page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "2435261",
+            "user": "Ttrimm",
+            "timestamp": "17:15, 17 August 2008",
+            "anon": false,
+            "size": "(11,905 bytes)",
+            "change": 198,
+            "summary": "(Fixed formatting and removed formatting template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup"
+        },
+        {
+            "id": "2324455",
+            "user": "D rae",
+            "timestamp": "20:11, 20 July 2008",
+            "anon": false,
+            "size": "(11,707 bytes)",
+            "change": 27,
+            "summary": "(Reverted edits by 98.210.78.109 (Talk); changed back to last version by 125.238.248.106)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "2324293",
+            "user": "98.210.78.109",
+            "timestamp": "19:02, 20 July 2008",
+            "anon": true,
+            "size": "(11,680 bytes)",
+            "change": -27,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "D rae"
+        },
+        {
+            "id": "1558191",
+            "user": "125.238.248.106",
+            "timestamp": "00:58, 13 January 2008",
+            "anon": true,
+            "size": "(11,707 bytes)",
+            "change": 9,
+            "summary": "(→‎Steps:   voltage will bite you.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "D rae"
+        },
+        {
+            "id": "1405349",
+            "user": "Myrmidon101",
+            "timestamp": "18:45, 1 December 2007",
+            "anon": false,
+            "size": "(11,698 bytes)",
+            "change": 27,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1054184",
+            "user": "68.21.0.79",
+            "timestamp": "17:29, 19 August 2007",
+            "anon": true,
+            "size": "(11,671 bytes)",
+            "change": -6,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "1054183",
+            "user": "68.21.0.79",
+            "timestamp": "17:29, 19 August 2007",
+            "anon": true,
+            "size": "(11,677 bytes)",
+            "change": 6,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "898796",
+            "user": "Stevecon",
+            "timestamp": "02:43, 6 July 2007",
+            "anon": false,
+            "size": "(11,671 bytes)",
+            "change": 1908,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "WikiHowUser20221012045502"
+        },
+        {
+            "id": "873357",
+            "user": "Eric",
+            "timestamp": "22:05, 28 June 2007",
+            "anon": false,
+            "size": "(9,763 bytes)",
+            "change": 91,
+            "summary": "(Related wikiHow)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "272113",
+            "user": "Tviren",
+            "timestamp": "21:39, 30 August 2006",
+            "anon": false,
+            "size": "(9,672 bytes)",
+            "change": -1,
+            "summary": "(new cat)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "252875",
+            "user": "HumanJHawkins",
+            "timestamp": "07:52, 13 August 2006",
+            "anon": false,
+            "size": "(9,673 bytes)",
+            "change": -51,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "239662",
+            "user": "HumanJHawkins",
+            "timestamp": "05:40, 1 August 2006",
+            "anon": false,
+            "size": "(9,724 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "239660",
+            "user": "HumanJHawkins",
+            "timestamp": "05:37, 1 August 2006",
+            "anon": false,
+            "size": "(9,723 bytes)",
+            "change": 407,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "239646",
+            "user": "HumanJHawkins",
+            "timestamp": "05:02, 1 August 2006",
+            "anon": false,
+            "size": "(9,316 bytes)",
+            "change": 166,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "239645",
+            "user": "HumanJHawkins",
+            "timestamp": "05:00, 1 August 2006",
+            "anon": false,
+            "size": "(9,150 bytes)",
+            "change": 477,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "239644",
+            "user": "HumanJHawkins",
+            "timestamp": "04:56, 1 August 2006",
+            "anon": false,
+            "size": "(8,673 bytes)",
+            "change": 1958,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "239619",
+            "user": "HumanJHawkins",
+            "timestamp": "04:12, 1 August 2006",
+            "anon": false,
+            "size": "(6,715 bytes)",
+            "change": 1232,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "239608",
+            "user": "HumanJHawkins",
+            "timestamp": "04:00, 1 August 2006",
+            "anon": false,
+            "size": "(5,483 bytes)",
+            "change": 1775,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "239587",
+            "user": "HumanJHawkins",
+            "timestamp": "03:43, 1 August 2006",
+            "anon": false,
+            "size": "(3,708 bytes)",
+            "change": 3708,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        }
+    ],
+    "discussions": []
+}

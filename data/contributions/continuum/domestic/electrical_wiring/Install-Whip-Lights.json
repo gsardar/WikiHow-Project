@@ -1,0 +1,504 @@
+{
+    "title": "Install-Whip-Lights",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:03:26.630013",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33233168",
+            "user": "MiscBot",
+            "timestamp": "22:20, 10 March 2025",
+            "anon": false,
+            "size": "(23,807 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32715218",
+            "user": "Hopedemi",
+            "timestamp": "16:48, 12 August 2024",
+            "anon": false,
+            "size": "(23,788 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about installing lights, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32685184",
+            "user": "Seymour Edits",
+            "timestamp": "02:54, 30 July 2024",
+            "anon": false,
+            "size": "(23,482 bytes)",
+            "change": 117,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Measure the distance from the lights to the battery for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be.<ref>[v161396_b01]. 3 March 2021.</ref> When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.[[Image:Install Whip Lights Step 9.jpg|center]]",
+                    "#*Make sure the wiring is intact and at the right length. Once you cut it, you can’t take it back. You would have to start all over to replace wires cut too short.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "*Handle electrical components with caution to avoid shock. Always turn off your vehicle before touching the battery or any wiring.<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ],
+                "removed": [
+                    "#Measure the distance from the lights to the battery for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.[[Image:Install Whip Lights Step 9.jpg|center]]",
+                    "#*Make sure the wiring is intact and at the right length. Once you cut it, you can’t take it back. You would have to start all over to replace wires cut too short.",
+                    "*Handle electrical components with caution to avoid shock. Always turn off your vehicle before touching the battery or any wiring."
+                ]
+            }
+        },
+        {
+            "id": "28540220",
+            "user": "Wikivisual",
+            "timestamp": "10:01, 28 August 2020",
+            "anon": false,
+            "size": "(23,365 bytes)",
+            "change": 1383,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Locate a hole on the back end of the vehicle’s frame. Many vehicles these days, including trucks and ATVs, have a spot you can use to mount whip lights. Walk to the back end of your vehicle and search along the bumper for holes. They may be covered by bolts, but they won’t have wires or other parts running through them. Most vehicles have several different points you can take advantage of to quickly install your cool, new lights.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>[[Image:Install Whip Lights Step 1.jpg|center]]",
+                    "#Use a socket wrench to remove the bolt covering the hole. The hole will have a metal bolt through it with a locking nut on the bottom. Reach underneath the hole to get at the nut. Rotate it counterclockwise until you’re able to slide it off the bolt. Then, move the socket wrench to the top of the bolt and turn it counterclockwise to remove it as well.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=49</ref>[[Image:Install Whip Lights Step 2.jpg|center]]",
+                    "#Remove the base on the whip light by turning it counterclockwise. Every whip light has a black, plastic base at one end. Turn the base counterclockwise by hand to remove it. Set the whip light aside for later. The base is much easier to mount and wire without the light getting in your way.<ref>https://www.youtube.com/watch?v=Pi7ZqTcpLiw&feature=youtu.be&t=30</ref>[[Image:Install Whip Lights Step 3.jpg|center]]",
+                    "#Set the whip light base on top of the hole to mount it. Pick up the power cord running from the bottom of the base and slip it through the hole. Make sure the quick connect base rests flat against the frame. Then, reattach the nut to the bottom of the base and turn it clockwise to tighten it.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>[[Image:Install Whip Lights Step 4.jpg|center]]",
+                    "#Hang clips on the frame for an alternative place to install whip lights. There are different types of mounts available, but the common ones are rings that you can clip to different parts of your vehicle. Remove the screws on the clips, then attach them to a spot like the roll cage or another exposed bar on the frame. Slide the whip light base into the mounts and replace the screws and nut to hold it in place.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=426</ref>[[Image:Install Whip Lights Step 5.jpg|center]]",
+                    "#Strip {{convert|1/2|in|cm|abbr=on}} off the ends of the light’s power wires. The wires will likely be way too short to reach your vehicle’s battery, but you can fix this by [[Splice Wire|splicing]] in additional wiring. The base usually has a red wire and a black wire. Clamp wire strippers to the end of each wire to break through the casing, leaving a small length of the underlying copper wire exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Install Whip Lights Step 6.jpg|center]]",
+                    "#Plug the stripped power wires into a quick connector for splicing. Quick connectors are small plugs that both cover exposed wires and help you easily connect them to other wires. To make the electrical wiring simple, get a quick disconnection with a pair of terminals to plug the wires into. Push the exposed copper wires from the cable into the terminals.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=543</ref>[[Image:Install Whip Lights Step 7.jpg|center]]",
+                    "#Connect 18-gauge power wires to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base, usually both a black and red wire. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>[[Image:Install Whip Lights Step 8.jpg|center]]",
+                    "#Measure the distance from the lights to the battery for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.[[Image:Install Whip Lights Step 9.jpg|center]]",
+                    "#Cut the 18-gauge power wires to length with pliers. Use something strong, like lineman’s pliers or wire cutters, to break through the wire. Cut both the red and black 18-gauge wires to the same length. To protect the actual wiring, don’t strip off the casing until you have finished routing them through the vehicle.<ref>https://www.bobvila.com/articles/how-to-splice-wires/</ref>[[Image:Install Whip Lights Step 10.jpg|center]]",
+                    "#Route the 18-gauge wires to the battery for small ATVs. Your vehicle will have its battery in the back. Look underneath and behind the seat. The battery will likely be exposed as well, so you won’t even have to remove anything to reach it. Just connect the wires directly to the battery to power the lights.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=206</ref>[[Image:Install Whip Lights Step 11.jpg|center]]",
+                    "#Run the 18-gauge wires through the back end if you have a larger vehicle. Look underneath your vehicle for a small opening leading to the rear seats. Tuck the wires through the opening to get them inside your ride’s cab. Check inside the cab to make sure the wires have gone all the way through it. If you are able to, you can remove the bumper so you’re better able to track the wires.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=125</ref>[[Image:Install Whip Lights Step 12.jpg|center]]",
+                    "#Pull the wires along one side of the vehicle toward the front end. Reach into the cab to find the wires and pull them forward. Keep them up against one side of the vehicle. Try running the wire along the frame, if it’s exposed. If your vehicle has carpeting, pull up the carpeting to hide the wires underneath it.[[Image:Install Whip Lights Step 13.jpg|center]]",
+                    "#Open the hood or front cover on larger vehicles to expose the battery. If you’re working on a truck, pop open the hood. For other types of vehicles, including ATVs and 4x4s, look for a removable cover in front of the dashboard. It will have at least one bolt on its left and right sides. Use a Torx screwdriver to turn the screws counterclockwise. Pop the hood off and set it aside afterward.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=192</ref>[[Image:Install Whip Lights Step 14.jpg|center]]",
+                    "#Pull out the dashboard, seats, and other components in trucks and large ATVs. Look for a pair of push pins on top of the dashboard, then pull them out with pliers. Pull the dashboard toward the front of the vehicle gently, then unplug any wires connected to it. Check for a hole you can use to route electrical wires through the dashboard and into the cab. If you don’t see one, take out parts like the seats and center console with a Torx screwdriver to give yourself a little extra room to work with.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=48</ref>[[Image:Install Whip Lights Step 15.jpg|center]]",
+                    "#Route the light’s power wires through a hole in the engine compartment. Pull the cable along the sides of your vehicle until you reach the dashboard. Depending on how you’re routing the wires, the hole can be small and hard to see. Shine a flashlight on the dashboard and center console to find it. Look for a thick rubber plug covering it.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=94</ref>[[Image:Install Whip Lights Step 16.jpg|center]]",
+                    "#Use wire strippers to trim {{convert|1/2|in|cm|abbr=on}} of casing off each wire. Expose the wires so you’re able to finish connecting them to your vehicle’s power supply. Trim the ends gently to avoid breaking the copper strands underneath the casing. After stripping one of the wires, take the copper strands and twist them together so they fit inside an electrical connector.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Install Whip Lights Step 17.jpg|center]]",
+                    "#Hang an inline fuse on the frame if your vehicle has room for one. These parts don’t usually come with whip lights, so purchase an inline fuse holder, a 3-amp fuse, and zip ties to install in your vehicle. Find an open spot close to the battery. Then, set the fuse down and wrap a couple of zip ties around it to hold it in place. Plug the 3-amp fuse into the slot on the fuse holder afterward.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>[[Image:Install Whip Lights Step 18.jpg|center]]",
+                    "#Plug the red power wire into one end of the inline fuse holder. The fuse will have a pair of terminals on it. Take the power wire running from the power lights and push it into the holder. Then, check the top of the fuse holder for a couple of screws over the terminals. Rotate the terminal screw clockwise so that the wire stays stuck in place.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>[[Image:Install Whip Lights Step 19.jpg|center]]",
+                    "#Cut a length of red wiring to fit between the fuse and battery. Use another piece of 18-gauge red wire. Measure the distance from the fuse to the battery or simply stretch the wire between them to figure out the proper length. Then, cut off the excess length with a wire-cutting tool and strip {{convert|1/2|in|cm|abbr=on}} of casing off both ends.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>[[Image:Install Whip Lights Step 20.jpg|center]]",
+                    "#Secure a ring terminal to one end of the red wire. Ring terminals are small connectors that fit on things like battery terminals, and they are very easy to use. Push the exposed wire into the open, insulated end of the terminal. Then, press down on the insulation with a pair of pliers to close it over the wire.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=483</ref>[[Image:Install Whip Lights Step 21.jpg|center]]",
+                    "#Use a wrench to remove the nuts from the vehicle’s battery cables. Rotate the nuts clockwise to detach them. Each terminal on the battery will have one nut holding a power cable in place. Note which terminal connects to a black cable and which one connects to a red one. The lighting wires have to be placed on the same terminals.<ref>https://www.popularmechanics.com/cars/how-to/a1454/4213127/</ref>[[Image:Install Whip Lights Step 22.jpg|center]]",
+                    "#Secure the red wire onto the battery’s positive terminal. Slip the ring terminal over the battery terminal. Then, place the locking nut back onto the terminal. Rotate it clockwise with a wrench to secure the wire in place. As long as the wire is in place, your whip lights have a power source.<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=124</ref>[[Image:Install Whip Lights Step 23.jpg|center]]",
+                    "#Connect the black wire to the battery’s negative terminal. Locate the black wire running from the whip lights. This one attaches directly to the battery. Remove {{convert|1/2|in|cm|abbr=on}} of casing from the end if you haven’t yet, then secure a ring terminal to it. Place it on the battery terminal before reattaching the locking nut.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>[[Image:Install Whip Lights Step 24.jpg|center]]",
+                    "#Wrap the wire connectors in electrical tape to protect them. Although they are pretty damage-resistant, cover them up so the wires are less prone to fraying. Cover the connector under the whip light first. If you used any other connectors, tie them up as well.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=173</ref>[[Image:Install Whip Lights Step 25.jpg|center]]",
+                    "#Bind the wiring to the vehicle’s frame with zip ties. Find any spots where the wiring looks a little loose and droops of the frame. Wrap a zip tie around the wires and the frame. The black and red wires can be safely bound together. Keep the wiring wrapped tightly against the frame to shield it from damage.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=201</ref>[[Image:Install Whip Lights Step 26.jpg|center]]",
+                    "#Screw the whip light into its base on the back end of your vehicle. Slot the tube back into the base you mounted earlier. Push it down while rotating it clockwise until you feel it lock in place. Make sure the whip light is well-mounted to your vehicle. If the base feels a little loose, check that the mounts and light are both secure on the frame.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=386</ref>[[Image:Install Whip Lights Step 27.jpg|center]]",
+                    "#Turn on the vehicle to test the lighting. Before reassembling all the parts you removed during the installation, give the lights a test run. Turn on your vehicle to power up the lights. Then, use the control switch for the lights to turn them on. If everything is working, the lights will glow and light up your ride.[[Image:Install Whip Lights Step 28.jpg|center]]",
+                    "#Replace the hood, dashboard, and any other components you removed. If you took down any panels from inside the vehicle, put them back first. Start with the dashboard and the central console underneath it. Screw in the seats as well. Then, replace the hood. When you’re done, take your ride out to show off its new glow!<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=130</ref>[[Image:Install Whip Lights Step 29.jpg|center]]"
+                ],
+                "removed": [
+                    "#Locate a hole on the back end of the vehicle’s frame. Many vehicles these days, including trucks and ATVs, have a spot you can use to mount whip lights. Walk to the back end of your vehicle and search along the bumper for holes. They may be covered by bolts, but they won’t have wires or other parts running through them. Most vehicles have several different points you can take advantage of to quickly install your cool, new lights.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#Use a socket wrench to remove the bolt covering the hole. The hole will have a metal bolt through it with a locking nut on the bottom. Reach underneath the hole to get at the nut. Rotate it counterclockwise until you’re able to slide it off the bolt. Then, move the socket wrench to the top of the bolt and turn it counterclockwise to remove it as well.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=49</ref>",
+                    "#Remove the base on the whip light by turning it counterclockwise. Every whip light has a black, plastic base at one end. Turn the base counterclockwise by hand to remove it. Set the whip light aside for later. The base is much easier to mount and wire without the light getting in your way.<ref>https://www.youtube.com/watch?v=Pi7ZqTcpLiw&feature=youtu.be&t=30</ref>",
+                    "#Set the whip light base on top of the hole to mount it. Pick up the power cord running from the bottom of the base and slip it through the hole. Make sure the quick connect base rests flat against the frame. Then, reattach the nut to the bottom of the base and turn it clockwise to tighten it.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#Hang clips on the frame for an alternative place to install whip lights. There are different types of mounts available, but the common ones are rings that you can clip to different parts of your vehicle. Remove the screws on the clips, then attach them to a spot like the roll cage or another exposed bar on the frame. Slide the whip light base into the mounts and replace the screws and nut to hold it in place.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=426</ref>",
+                    "#Strip {{convert|1/2|in|cm|abbr=on}} off the ends of the light’s power wires. The wires will likely be way too short to reach your vehicle’s battery, but you can fix this by [[Splice Wire|splicing]] in additional wiring. The base usually has a red wire and a black wire. Clamp wire strippers to the end of each wire to break through the casing, leaving a small length of the underlying copper wire exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Plug the stripped power wires into a quick connector for splicing. Quick connectors are small plugs that both cover exposed wires and help you easily connect them to other wires. To make the electrical wiring simple, get a quick disconnection with a pair of terminals to plug the wires into. Push the exposed copper wires from the cable into the terminals.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=543</ref>",
+                    "#Connect 18-gauge power wires to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base, usually both a black and red wire. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#Measure the distance from the lights to the battery for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.",
+                    "#Cut the 18-gauge power wires to length with pliers. Use something strong, like lineman’s pliers or wire cutters, to break through the wire. Cut both the red and black 18-gauge wires to the same length. To protect the actual wiring, don’t strip off the casing until you have finished routing them through the vehicle.<ref>https://www.bobvila.com/articles/how-to-splice-wires/</ref>",
+                    "#Route the 18-gauge wires to the battery for small ATVs. Your vehicle will have its battery in the back. Look underneath and behind the seat. The battery will likely be exposed as well, so you won’t even have to remove anything to reach it. Just connect the wires directly to the battery to power the lights.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=206</ref>",
+                    "#Run the 18-gauge wires through the back end if you have a larger vehicle. Look underneath your vehicle for a small opening leading to the rear seats. Tuck the wires through the opening to get them inside your ride’s cab. Check inside the cab to make sure the wires have gone all the way through it. If you are able to, you can remove the bumper so you’re better able to track the wires.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=125</ref>",
+                    "#Pull the wires along one side of the vehicle toward the front end. Reach into the cab to find the wires and pull them forward. Keep them up against one side of the vehicle. Try running the wire along the frame, if it’s exposed. If your vehicle has carpeting, pull up the carpeting to hide the wires underneath it.",
+                    "#Open the hood or front cover on larger vehicles to expose the battery. If you’re working on a truck, pop open the hood. For other types of vehicles, including ATVs and 4x4s, look for a removable cover in front of the dashboard. It will have at least one bolt on its left and right sides. Use a Torx screwdriver to turn the screws counterclockwise. Pop the hood off and set it aside afterward.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=192</ref>",
+                    "#Pull out the dashboard, seats, and other components in trucks and large ATVs. Look for a pair of push pins on top of the dashboard, then pull them out with pliers. Pull the dashboard toward the front of the vehicle gently, then unplug any wires connected to it. Check for a hole you can use to route electrical wires through the dashboard and into the cab. If you don’t see one, take out parts like the seats and center console with a Torx screwdriver to give yourself a little extra room to work with.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=48</ref>",
+                    "#Route the light’s power wires through a hole in the engine compartment. Pull the cable along the sides of your vehicle until you reach the dashboard. Depending on how you’re routing the wires, the hole can be small and hard to see. Shine a flashlight on the dashboard and center console to find it. Look for a thick rubber plug covering it.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=94</ref>",
+                    "#Use wire strippers to trim {{convert|1/2|in|cm|abbr=on}} of casing off each wire. Expose the wires so you’re able to finish connecting them to your vehicle’s power supply. Trim the ends gently to avoid breaking the copper strands underneath the casing. After stripping one of the wires, take the copper strands and twist them together so they fit inside an electrical connector.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Hang an inline fuse on the frame if your vehicle has room for one. These parts don’t usually come with whip lights, so purchase an inline fuse holder, a 3-amp fuse, and zip ties to install in your vehicle. Find an open spot close to the battery. Then, set the fuse down and wrap a couple of zip ties around it to hold it in place. Plug the 3-amp fuse into the slot on the fuse holder afterward.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#Plug the red power wire into one end of the inline fuse holder. The fuse will have a pair of terminals on it. Take the power wire running from the power lights and push it into the holder. Then, check the top of the fuse holder for a couple of screws over the terminals. Rotate the terminal screw clockwise so that the wire stays stuck in place.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#Cut a length of red wiring to fit between the fuse and battery. Use another piece of 18-gauge red wire. Measure the distance from the fuse to the battery or simply stretch the wire between them to figure out the proper length. Then, cut off the excess length with a wire-cutting tool and strip {{convert|1/2|in|cm|abbr=on}} of casing off both ends.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#Secure a ring terminal to one end of the red wire. Ring terminals are small connectors that fit on things like battery terminals, and they are very easy to use. Push the exposed wire into the open, insulated end of the terminal. Then, press down on the insulation with a pair of pliers to close it over the wire.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=483</ref>",
+                    "#Use a wrench to remove the nuts from the vehicle’s battery cables. Rotate the nuts clockwise to detach them. Each terminal on the battery will have one nut holding a power cable in place. Note which terminal connects to a black cable and which one connects to a red one. The lighting wires have to be placed on the same terminals.<ref>https://www.popularmechanics.com/cars/how-to/a1454/4213127/</ref>",
+                    "#Secure the red wire onto the battery’s positive terminal. Slip the ring terminal over the battery terminal. Then, place the locking nut back onto the terminal. Rotate it clockwise with a wrench to secure the wire in place. As long as the wire is in place, your whip lights have a power source.<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=124</ref>",
+                    "#Connect the black wire to the battery’s negative terminal. Locate the black wire running from the whip lights. This one attaches directly to the battery. Remove {{convert|1/2|in|cm|abbr=on}} of casing from the end if you haven’t yet, then secure a ring terminal to it. Place it on the battery terminal before reattaching the locking nut.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#Wrap the wire connectors in electrical tape to protect them. Although they are pretty damage-resistant, cover them up so the wires are less prone to fraying. Cover the connector under the whip light first. If you used any other connectors, tie them up as well.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=173</ref>",
+                    "#Bind the wiring to the vehicle’s frame with zip ties. Find any spots where the wiring looks a little loose and droops of the frame. Wrap a zip tie around the wires and the frame. The black and red wires can be safely bound together. Keep the wiring wrapped tightly against the frame to shield it from damage.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=201</ref>",
+                    "#Screw the whip light into its base on the back end of your vehicle. Slot the tube back into the base you mounted earlier. Push it down while rotating it clockwise until you feel it lock in place. Make sure the whip light is well-mounted to your vehicle. If the base feels a little loose, check that the mounts and light are both secure on the frame.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=386</ref>",
+                    "#Turn on the vehicle to test the lighting. Before reassembling all the parts you removed during the installation, give the lights a test run. Turn on your vehicle to power up the lights. Then, use the control switch for the lights to turn them on. If everything is working, the lights will glow and light up your ride.",
+                    "#Replace the hood, dashboard, and any other components you removed. If you took down any panels from inside the vehicle, put them back first. Start with the dashboard and the central console underneath it. Screw in the seats as well. Then, replace the hood. When you’re done, take your ride out to show off its new glow!<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=130</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28046094",
+            "user": "Unicorn293829",
+            "timestamp": "10:51, 28 April 2020",
+            "anon": false,
+            "size": "(21,982 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*Depending on the way your lights work, you may have to connect it to a bus-bar or a dashboard rocker switch instead."
+                ],
+                "removed": [
+                    "#*Depending on the way your lights work, you may have to connect it to a busbar or a dashboard rocker switch instead."
+                ]
+            }
+        },
+        {
+            "id": "28041923",
+            "user": "Artsy Koala",
+            "timestamp": "16:35, 27 April 2020",
+            "anon": false,
+            "size": "(21,981 bytes)",
+            "change": -1,
+            "summary": "(RCP reverted edits by Sophia Latorre (talk) to  revision #28036209 by Unicorn293829)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ],
+                "removed": [
+                    "*Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ]
+            }
+        },
+        {
+            "id": "28041717",
+            "user": "Sophia B",
+            "timestamp": "15:55, 27 April 2020",
+            "anon": false,
+            "size": "(21,982 bytes)",
+            "change": 1,
+            "summary": "(fixed formatting)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "*Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ],
+                "removed": [
+                    "Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ]
+            }
+        },
+        {
+            "id": "28036209",
+            "user": "Unicorn293829",
+            "timestamp": "13:50, 26 April 2020",
+            "anon": false,
+            "size": "(21,981 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "Artsy Koala",
+            "exact_contribution": {
+                "added": [
+                    "#*Some vehicles, like big ATVs, have a metal strip called a bus bar behind the dashboard. You can connect the wires to it to power the lights."
+                ],
+                "removed": [
+                    "#*Some vehicles, like big ATVs, have a metal strip called a busbar behind the dashboard. You can connect the wires to it to power the lights."
+                ]
+            }
+        },
+        {
+            "id": "28033825",
+            "user": "Seymour Edits",
+            "timestamp": "14:37, 25 April 2020",
+            "anon": false,
+            "size": "(21,980 bytes)",
+            "change": -139,
+            "summary": "(Shortening a step.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Connect 18-gauge power wires to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base, usually both a black and red wire. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#*For example, position the new red wire in the terminal opposite from the red base wire, for example, then do the same for the black wire."
+                ],
+                "removed": [
+                    "#Connect 18-gauge power wires to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base. You will usually have to purchase both red and black wiring. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base. Position the new red wire in the terminal opposite from the red base wire, for example, then do the same for the black wire.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#*Make sure the wire gauge and coloring matches the power wires on the lights. Check the owner’s manual for more information."
+                ]
+            }
+        },
+        {
+            "id": "28033790",
+            "user": "Seymour Edits",
+            "timestamp": "14:30, 25 April 2020",
+            "anon": false,
+            "size": "(22,119 bytes)",
+            "change": 1455,
+            "summary": "(New step/step and part titles.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re a fan of off-roading, then you might already be accustomed to setting yourself apart from the pack. Whip lights are a way to show off your flair no matter where you travel. They are tubes of LED lights that stand like flags on dirt bikes, ATVs, 4x4s, motorcycles, and even trucks. They are not difficult to install even if you don’t have much mechanical experience. Wire whip lights to your vehicle’s battery so that you can show off your colors whenever you’re out on the trails.",
+                    "===Mounting the Light Base===",
+                    "#Locate a hole on the back end of the vehicle’s frame. Many vehicles these days, including trucks and ATVs, have a spot you can use to mount whip lights. Walk to the back end of your vehicle and search along the bumper for holes. They may be covered by bolts, but they won’t have wires or other parts running through them. Most vehicles have several different points you can take advantage of to quickly install your cool, new lights.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#*Another option is to drill a hole through the vehicle’s frame. For example, if you have a truck, you could drill through its bed. Place the whip light on top of the hole with the power lights hanging beneath it.",
+                    "#Remove the base on the whip light by turning it counterclockwise. Every whip light has a black, plastic base at one end. Turn the base counterclockwise by hand to remove it. Set the whip light aside for later. The base is much easier to mount and wire without the light getting in your way.<ref>https://www.youtube.com/watch?v=Pi7ZqTcpLiw&feature=youtu.be&t=30</ref>",
+                    "#Set the whip light base on top of the hole to mount it. Pick up the power cord running from the bottom of the base and slip it through the hole. Make sure the quick connect base rests flat against the frame. Then, reattach the nut to the bottom of the base and turn it clockwise to tighten it.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "===Running Wiring to the Battery===",
+                    "#Strip {{convert|1/2|in|cm|abbr=on}} off the ends of the light’s power wires. The wires will likely be way too short to reach your vehicle’s battery, but you can fix this by [[Splice Wire|splicing]] in additional wiring. The base usually has a red wire and a black wire. Clamp wire strippers to the end of each wire to break through the casing, leaving a small length of the underlying copper wire exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Plug the stripped power wires into a quick connector for splicing. Quick connectors are small plugs that both cover exposed wires and help you easily connect them to other wires. To make the electrical wiring simple, get a quick disconnection with a pair of terminals to plug the wires into. Push the exposed copper wires from the cable into the terminals.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=543</ref>",
+                    "#Connect 18-gauge power wires to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base. You will usually have to purchase both red and black wiring. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base. Position the new red wire in the terminal opposite from the red base wire, for example, then do the same for the black wire.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#Measure the distance from the lights to the battery for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.",
+                    "#Cut the 18-gauge power wires to length with pliers. Use something strong, like lineman’s pliers or wire cutters, to break through the wire. Cut both the red and black 18-gauge wires to the same length. To protect the actual wiring, don’t strip off the casing until you have finished routing them through the vehicle.<ref>https://www.bobvila.com/articles/how-to-splice-wires/</ref>",
+                    "#Route the 18-gauge wires to the battery for small ATVs. Your vehicle will have its battery in the back. Look underneath and behind the seat. The battery will likely be exposed as well, so you won’t even have to remove anything to reach it. Just connect the wires directly to the battery to power the lights.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=206</ref>",
+                    "#*To prevent the wires from getting damaged, loop them around the frame and tie them in place before attempting to connect them to the battery.",
+                    "#Run the 18-gauge wires through the back end if you have a larger vehicle. Look underneath your vehicle for a small opening leading to the rear seats. Tuck the wires through the opening to get them inside your ride’s cab. Check inside the cab to make sure the wires have gone all the way through it. If you are able to, you can remove the bumper so you’re better able to track the wires.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=125</ref>",
+                    "#*If your vehicle has an exposed battery, like some small, one-seat ATVs, then route the wires directly to the battery instead.",
+                    "#Pull the wires along one side of the vehicle toward the front end. Reach into the cab to find the wires and pull them forward. Keep them up against one side of the vehicle. Try running the wire along the frame, if it’s exposed. If your vehicle has carpeting, pull up the carpeting to hide the wires underneath it.",
+                    "#*For example, if you have a truck, you may be able to pry off the plastic trim panels along the door to lift up the carpeting.",
+                    "#Open the hood or front cover on larger vehicles to expose the battery. If you’re working on a truck, pop open the hood. For other types of vehicles, including ATVs and 4x4s, look for a removable cover in front of the dashboard. It will have at least one bolt on its left and right sides. Use a Torx screwdriver to turn the screws counterclockwise. Pop the hood off and set it aside afterward.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=192</ref>",
+                    "#*Make sure you’re able to access the battery and have a clear view of what is around it.",
+                    "#Pull out the dashboard, seats, and other components in trucks and large ATVs. Look for a pair of push pins on top of the dashboard, then pull them out with pliers. Pull the dashboard toward the front of the vehicle gently, then unplug any wires connected to it. Check for a hole you can use to route electrical wires through the dashboard and into the cab. If you don’t see one, take out parts like the seats and center console with a Torx screwdriver to give yourself a little extra room to work with.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=48</ref>",
+                    "#*For smaller vehicles like one-seat 4-wheelers, the battery is on the back end, so you won’t have to go through all of this extra work.",
+                    "#Route the light’s power wires through a hole in the engine compartment. Pull the cable along the sides of your vehicle until you reach the dashboard. Depending on how you’re routing the wires, the hole can be small and hard to see. Shine a flashlight on the dashboard and center console to find it. Look for a thick rubber plug covering it.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=94</ref>",
+                    "#Hang an inline fuse on the frame if your vehicle has room for one. These parts don’t usually come with whip lights, so purchase an inline fuse holder, a 3-amp fuse, and zip ties to install in your vehicle. Find an open spot close to the battery. Then, set the fuse down and wrap a couple of zip ties around it to hold it in place. Plug the 3-amp fuse into the slot on the fuse holder afterward.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#*You should use a fuse no matter what. It’s helpful for bigger vehicles like trucks but also good for most smaller ones. If your vehicle has an enclosed engine compartment, you can most likely find a spot to hang a fuse.",
+                    "#*If you have a vehicle with an exposed battery, like a small ATV, you could go without the fuse. You wouldn’t have anywhere to hang it and keep it safe. Whip lights don’t use a lot of power, so you won’t notice any problems.",
+                    "#*If you’re unsure about installing a fuse or what kind to get, check the owner’s manual for your whip lights.",
+                    "===Connecting Wiring to the Battery===",
+                    "===Installing and Testing Lights===",
+                    "*Whip lights come in several different lengths and colors, and many of them can change colors as well. Your whip lights may come with a wireless remote similar to a TV remote you can use after finishing the installation.",
+                    "Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ],
+                "removed": [
+                    "If you’re a fan of off-roading, then you might already be accustomed to setting yourself apart from the pack. Whip lights are a way to show off your flair no matter where you travel. They are tubes of LED lights that stand like flags on dirt bikes, ATVs, 4x4s, motorcycles, and even trucks. They are not difficult to install even if you don’t have much mechanical experience. Connect the lights to your vehicle’s electrical wire so you can show off your colors whenever you’re out on the trails.",
+                    "===Mounting Lights===",
+                    "#Locate a hole on the back end of the vehicle’s frame. Many vehicles these days, such as ATVs, have a spot you can use to mount whip lights. Walk to the back end of your vehicle and search along the bumper for holes. They may be covered by bolts, but they won’t have wires or other parts running through them. Most vehicles have several different points you can take advantage of to quickly install your cool, new lights.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#*If the holes are covered, use a socket wrench to undo the bolts. Reach underneath the bolts first to",
+                    "#Remove the quick connect base by turning it counterclockwise. Every whip light has a black, plastic base at one end. Turn the base counterclockwise by hand to remove it. Set the whip light aside for later. The base is much easier to mount and wire without the light getting in your way.<ref>https://www.youtube.com/watch?v=Pi7ZqTcpLiw&feature=youtu.be&t=30</ref>",
+                    "#Thread the whip light base through the hole on your vehicle. Pick up the power cord running from the bottom of the base and slip it through the hole. Make sure the quick connect base rests flat against the frame. Then, reattach the nut to the bottom of the base and turn it clockwise to tighten it.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "===Installing Wiring===",
+                    "#Strip {{convert|1/2|in|cm|abbr=on}} off the ends off of the base wires. The wires will likely be way too short to reach your vehicle’s battery, but you can fix this by [[Splice Wire|splicing]] in additional wiring. The base usually has a red wire and a black wire. Clamp wire strippers to the end of each wire to break through the casing, leaving a small length of the underlying copper wire exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Plug the wires into a quick connector for protection. Quick connectors are small plugs that both cover exposed wires and help you easily connect them to other wires. To make the electrical wiring simple, get a quick disconnection with a pair of terminals to plug the wires into. Push the exposed copper wires from the cable into the terminals.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=543</ref>",
+                    "#Connect 18-gauge wiring to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base. You will usually have to purchase both red and black wiring. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base. Position the new red wire in the terminal opposite from the red base wire, for example, then do the same for the black wire.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#Measure the distance from the lights to the vehicle for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.",
+                    "#Cut the power wires to length with pliers. Use something strong, like lineman’s pliers or wire cutters, to break through the wire. Cut both the red and black 18-gauge wires to the same length. To protect the actual wiring, don’t strip off the casing until you have finished routing them through the vehicle.<ref>https://www.bobvila.com/articles/how-to-splice-wires/</ref>",
+                    "#Run the wires through the back end of the vehicle. Look underneath your vehicle for a small opening leading to the rear seats. Tuck the wires through the opening to get them inside your ride’s cab. Check inside the cab to make sure the wires have gone all the way through it. If you are able to, you can remove the bumper so you’re better able to track the wires.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=125</ref>",
+                    "#*Some smaller vehicles, like one-seat ATVs, have a battery in the back. If your vehicle is like this, then connecting the wiring is very easy. Just loop the wires around the frame and tie them in place.",
+                    "#Pull the wires along one side of the vehicle toward the front end. Reach into the cab to find the wires and pull them forward. Keep them up against one side of the vehicle. Try running the wire along the frame, if it’s exposed. Otherwise, tuck the wires underneath the carpeting next to the doors.",
+                    "#Remove the hood to route power wires to the whip lights. On ATVs, 4x4s, and other small vehicles, the hood is in the way. To remove it, walk to the front of your vehicle to look for the bolts on top of it. It will have one on the left and right. Use a Torx screwdriver to turn the screws counterclockwise. Pop the hood off and set it aside afterward.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=192</ref>",
+                    "#Pull out the dashboard, seats, and other components in the way. Look for a pair of push pins on top of the dashboard, then pull them out with pliers. Pull the dashboard toward the front of the vehicle gently, then unplug any wires connected to it. Check for a hole you can use to route electrical wires through the dashboard and into the cab. If you don’t see one, take out parts like the seats and center console with a Torx screwdriver to give yourself a little extra room to work with.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=48</ref>",
+                    "#*If you’re routing a basic whip light that uses a remote control, you may not have to remove the dashboard at all.",
+                    "#Run cables through the cab to the battery. Pull the cable along the sides of your vehicle until you reach the dashboard. Depending on how you’re routing the wires, the hole can be small and hard to see. Shine a flashlight on the dashboard and center console to find it. Look for a thick rubber plug covering it.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=94</ref>",
+                    "#Hang an inline fuse on the frame if your vehicle requires one. These parts don’t usually come with whip lights, so purchase an inline fuse holder, a 3-amp fuse, and zip ties to install in your vehicle. Find an open spot close to the battery. Then, set the fuse down and wrap a couple of zip ties around it to hold it in place. Plug the 3-amp fuse into the slot on the fuse holder afterward.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#*What you need to power whip lights depends on the manufacturer and the vehicle you have. Check the owner’s manual that came with the whip lights for more information.",
+                    "#*Not all whip light setups require you to use a fuse, but use one if you have the option. If something happens to the electrical system, the fuse will blow instead of the lights.",
+                    "===Connecting the Battery===",
+                    "===Securing and Testing Lights===",
+                    "*Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color."
+                ]
+            }
+        },
+        {
+            "id": "28032449",
+            "user": "Snowflakeiesta",
+            "timestamp": "11:23, 25 April 2020",
+            "anon": false,
+            "size": "(20,664 bytes)",
+            "change": 0,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*On ATVs and other open vehicles, tape and shrink tubes are very helpful. Without them, the connectors are left exposed to everything."
+                ],
+                "removed": [
+                    "#*On ATVs and other open vehicles, tape and shrink tubes are very helpful. WIthout them, the connectors are left exposed to everything."
+                ]
+            }
+        },
+        {
+            "id": "28030658",
+            "user": "Starlette",
+            "timestamp": "21:07, 24 April 2020",
+            "anon": false,
+            "size": "(20,664 bytes)",
+            "change": 22,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Lighting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28030368",
+            "user": "WRM",
+            "timestamp": "18:36, 24 April 2020",
+            "anon": false,
+            "size": "(20,642 bytes)",
+            "change": 20642,
+            "summary": "(Creating article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re a fan of off-roading, then you might already be accustomed to setting yourself apart from the pack. Whip lights are a way to show off your flair no matter where you travel. They are tubes of LED lights that stand like flags on dirt bikes, ATVs, 4x4s, motorcycles, and even trucks. They are not difficult to install even if you don’t have much mechanical experience. Connect the lights to your vehicle’s electrical wire so you can show off your colors whenever you’re out on the trails.",
+                    "==Steps==",
+                    "===Mounting Lights===",
+                    "#Locate a hole on the back end of the vehicle’s frame. Many vehicles these days, such as ATVs, have a spot you can use to mount whip lights. Walk to the back end of your vehicle and search along the bumper for holes. They may be covered by bolts, but they won’t have wires or other parts running through them. Most vehicles have several different points you can take advantage of to quickly install your cool, new lights.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#*If the holes are covered, use a socket wrench to undo the bolts. Reach underneath the bolts first to",
+                    "#*If your vehicle doesn’t have an accessible frame hole, use mounting brackets instead. Find a spot to connect the brackets to the frame, such as on an ATV’s roll cage.",
+                    "#*Many offroad vehicles have holes for flagpoles. If your vehicle has one, it’s the perfect place to install a whip light.",
+                    "#Use a socket wrench to remove the bolt covering the hole. The hole will have a metal bolt through it with a locking nut on the bottom. Reach underneath the hole to get at the nut. Rotate it counterclockwise until you’re able to slide it off the bolt. Then, move the socket wrench to the top of the bolt and turn it counterclockwise to remove it as well.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=49</ref>",
+                    "#*If the rear bumper is in your way, unscrew it. Look for a series of bolts around the edges of the frame that you can undo with a socket wrench.",
+                    "#Remove the quick connect base by turning it counterclockwise. Every whip light has a black, plastic base at one end. Turn the base counterclockwise by hand to remove it. Set the whip light aside for later. The base is much easier to mount and wire without the light getting in your way.<ref>https://www.youtube.com/watch?v=Pi7ZqTcpLiw&feature=youtu.be&t=30</ref>",
+                    "#*Place the light on the ground, such as on a clean towel, while removing the base. Although the base isn’t difficult to remove, play it safe so you don’t end up dropping anything.",
+                    "#Thread the whip light base through the hole on your vehicle. Pick up the power cord running from the bottom of the base and slip it through the hole. Make sure the quick connect base rests flat against the frame. Then, reattach the nut to the bottom of the base and turn it clockwise to tighten it.<ref>http://www.plasmaglow.com/install/LED%20Whip%20Install%20Instructions.pdf</ref>",
+                    "#*The base is meant to be on top of the hole so the light is above your vehicle. The power cord will also be underneath it so it can be hidden along the frame.",
+                    "#Hang clips on the frame for an alternative place to install whip lights. There are different types of mounts available, but the common ones are rings that you can clip to different parts of your vehicle. Remove the screws on the clips, then attach them to a spot like the roll cage or another exposed bar on the frame. Slide the whip light base into the mounts and replace the screws and nut to hold it in place.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=426</ref>",
+                    "#*One possible spot for mounting clips is on an ATV’s roll cage. Hang clips on its outer edges right above the vehicle’s frame.",
+                    "#*Most mounting clips hang vertically, but there are some that can be positioned horizontally. If you’re planning on connecting the lights to a horizontal bar, use a horizontal clip. The lights will still rise straight up into the air when you use these clips.",
+                    "",
+                    "===Installing Wiring===",
+                    "#Strip {{convert|1/2|in|cm|abbr=on}} off the ends off of the base wires. The wires will likely be way too short to reach your vehicle’s battery, but you can fix this by [[Splice Wire|splicing]] in additional wiring. The base usually has a red wire and a black wire. Clamp wire strippers to the end of each wire to break through the casing, leaving a small length of the underlying copper wire exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Note that proper wiring varies a lot depending on the whip lights you bought. No matter where you set up the lights, the set up is similar, but you should refer to the owner’s manual that came with the whip lights for more information.",
+                    "#*Some whip lights come with wiring harnesses so you won’t have to splice in separate wires. Some of them have 3 wires instead of 2.",
+                    "#Plug the wires into a quick connector for protection. Quick connectors are small plugs that both cover exposed wires and help you easily connect them to other wires. To make the electrical wiring simple, get a quick disconnection with a pair of terminals to plug the wires into. Push the exposed copper wires from the cable into the terminals.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=543</ref>",
+                    "#*There are other ways to splice wires together, such as by soldering and covering them with a heat shrink tube. It doesn’t matter what technique you use as long as the power wires are well-connected.",
+                    "#*The connector usually isn’t included with whip lights. Other components, like additional wiring, also has to be bought separately online. Look online or visit your local hardware store.",
+                    "#Connect 18-gauge wiring to the other end of the connector. Select wiring that matches the coloring of the power wires running from the whip light base. You will usually have to purchase both red and black wiring. Strip {{convert|1/2|in|cm|abbr=on}} of casing off the end of each wire to slot them into your connector. Make sure the wire colors match the ones coming from the whip light base. Position the new red wire in the terminal opposite from the red base wire, for example, then do the same for the black wire.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=138</ref>",
+                    "#*Make sure the wire gauge and coloring matches the power wires on the lights. Check the owner’s manual for more information.",
+                    "#Measure the distance from the lights to the vehicle for the wiring. The 18-gauge wiring keeps your lights powered, but cutting it to the right length can be trickier than you might expect. To ensure you get the right length, use a tape measure to estimate the length of your vehicle. In general, you’re better off cutting the wire longer than you think you will need it to be. When you finish routing and tying it along the frame, it won’t stretch quite as far as you anticipate.",
+                    "#*If your whip lights come with a full power cord, then you won’t have to do any sort of measuring or cutting. It’s only necessary if you’re using additional wiring to join the power cord to the battery.",
+                    "#*You won’t be able to route the whole roll of wiring through the hole in the back end, so you will have to cut it in order to get it to the battery up front.",
+                    "#Cut the power wires to length with pliers. Use something strong, like lineman’s pliers or wire cutters, to break through the wire. Cut both the red and black 18-gauge wires to the same length. To protect the actual wiring, don’t strip off the casing until you have finished routing them through the vehicle.<ref>https://www.bobvila.com/articles/how-to-splice-wires/</ref>",
+                    "#*Make sure the wiring is intact and at the right length. Once you cut it, you can’t take it back. You would have to start all over to replace wires cut too short.",
+                    "#Run the wires through the back end of the vehicle. Look underneath your vehicle for a small opening leading to the rear seats. Tuck the wires through the opening to get them inside your ride’s cab. Check inside the cab to make sure the wires have gone all the way through it. If you are able to, you can remove the bumper so you’re better able to track the wires.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=125</ref>",
+                    "#*Some smaller vehicles, like one-seat ATVs, have a battery in the back. If your vehicle is like this, then connecting the wiring is very easy. Just loop the wires around the frame and tie them in place.",
+                    "#Pull the wires along one side of the vehicle toward the front end. Reach into the cab to find the wires and pull them forward. Keep them up against one side of the vehicle. Try running the wire along the frame, if it’s exposed. Otherwise, tuck the wires underneath the carpeting next to the doors.",
+                    "#*If you’re installing multiple lights, run the wires along opposite sides.",
+                    "",
+                    "===Installing an Inline Fuse===",
+                    "#Remove the hood to route power wires to the whip lights. On ATVs, 4x4s, and other small vehicles, the hood is in the way. To remove it, walk to the front of your vehicle to look for the bolts on top of it. It will have one on the left and right. Use a Torx screwdriver to turn the screws counterclockwise. Pop the hood off and set it aside afterward.<ref>https://www.youtube.com/watch?v=8I8EXBE3-B8&feature=youtu.be&t=192</ref>",
+                    "#*For trucks and other vehicles, you can remove the hood but don’t usually have to. As long as you’re able to find a hole underneath the dashboard to route the cables through, you can leave it alone.",
+                    "#Pull out the dashboard, seats, and other components in the way. Look for a pair of push pins on top of the dashboard, then pull them out with pliers. Pull the dashboard toward the front of the vehicle gently, then unplug any wires connected to it. Check for a hole you can use to route electrical wires through the dashboard and into the cab. If you don’t see one, take out parts like the seats and center console with a Torx screwdriver to give yourself a little extra room to work with.<ref>https://www.youtube.com/watch?v=7BIJov7Hagw&feature=youtu.be&t=48</ref>",
+                    "#*The setup depends on your vehicle and the lights you’re installing. Some whip lights have a dashboard switch. You can pry off one of the buttons on the dashboard, then route the wires through there to install a new control button.",
+                    "#*If you’re routing a basic whip light that uses a remote control, you may not have to remove the dashboard at all.",
+                    "#*The seats and other components don’t usually have to be removed, but dealing with the wiring is much easier when they are gone.",
+                    "#Run cables through the cab to the battery. Pull the cable along the sides of your vehicle until you reach the dashboard. Depending on how you’re routing the wires, the hole can be small and hard to see. Shine a flashlight on the dashboard and center console to find it. Look for a thick rubber plug covering it.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=94</ref>",
+                    "#*If you’re installing a rocker switch to control the lights from the dashboard, such as on an ATV, then you can just route the wires through the dashboard.",
+                    "#*Cars and trucks usually have several holes. Check behind the glove compartment for an accessible one. You can use it even if it already has wires running through it.",
+                    "#Use wire strippers to trim {{convert|1/2|in|cm|abbr=on}} of casing off each wire. Expose the wires so you’re able to finish connecting them to your vehicle’s power supply. Trim the ends gently to avoid breaking the copper strands underneath the casing. After stripping one of the wires, take the copper strands and twist them together so they fit inside an electrical connector.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Cut through the insulation casing the wire rather than the copper wire itself. If the wire is damaged, swap it out with a fresh length of wire.",
+                    "#Hang an inline fuse on the frame if your vehicle requires one. These parts don’t usually come with whip lights, so purchase an inline fuse holder, a 3-amp fuse, and zip ties to install in your vehicle. Find an open spot close to the battery. Then, set the fuse down and wrap a couple of zip ties around it to hold it in place. Plug the 3-amp fuse into the slot on the fuse holder afterward.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#*What you need to power whip lights depends on the manufacturer and the vehicle you have. Check the owner’s manual that came with the whip lights for more information.",
+                    "#*Not all whip light setups require you to use a fuse, but use one if you have the option. If something happens to the electrical system, the fuse will blow instead of the lights.",
+                    "#Plug the red power wire into one end of the inline fuse holder. The fuse will have a pair of terminals on it. Take the power wire running from the power lights and push it into the holder. Then, check the top of the fuse holder for a couple of screws over the terminals. Rotate the terminal screw clockwise so that the wire stays stuck in place.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#*The fuse is meant to be used with the power wire. It routes power to the light from the battery. If you install the black wire by accident, it won’t work.",
+                    "",
+                    "===Connecting the Battery===",
+                    "#Cut a length of red wiring to fit between the fuse and battery. Use another piece of 18-gauge red wire. Measure the distance from the fuse to the battery or simply stretch the wire between them to figure out the proper length. Then, cut off the excess length with a wire-cutting tool and strip {{convert|1/2|in|cm|abbr=on}} of casing off both ends.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#Secure a ring terminal to one end of the red wire. Ring terminals are small connectors that fit on things like battery terminals, and they are very easy to use. Push the exposed wire into the open, insulated end of the terminal. Then, press down on the insulation with a pair of pliers to close it over the wire.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=483</ref>",
+                    "#*Some ring terminals double as heat shrink tubing. To connect them to wires, warm them gently with a heat gun or another heat source.",
+                    "#Use a wrench to remove the nuts from the vehicle’s battery cables. Rotate the nuts clockwise to detach them. Each terminal on the battery will have one nut holding a power cable in place. Note which terminal connects to a black cable and which one connects to a red one. The lighting wires have to be placed on the same terminals.<ref>https://www.popularmechanics.com/cars/how-to/a1454/4213127/</ref>",
+                    "#*The battery’s terminals will be labeled as positive or negative in case you forget where the wires go. Look for a plus sign for positive and a minus sign for negative.",
+                    "#*Keep in mind that the setup may vary depending on the lights and vehicle you’re using. Some whip lights don’t connect to the battery at all. If yours has a rocker switch to place on the dashboard, you will most likely join the wires to the switch instead.",
+                    "#Secure the red wire onto the battery’s positive terminal. Slip the ring terminal over the battery terminal. Then, place the locking nut back onto the terminal. Rotate it clockwise with a wrench to secure the wire in place. As long as the wire is in place, your whip lights have a power source.<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=124</ref>",
+                    "#*Double-check that the red wire is on the positive terminal. If you attach the wires the wrong way, the fuse could blow. Replace it to get your whip lights working again.",
+                    "#*Some vehicles, like big ATVs, have a metal strip called a busbar behind the dashboard. You can connect the wires to it to power the lights.",
+                    "#Connect the black wire to the battery’s negative terminal. Locate the black wire running from the whip lights. This one attaches directly to the battery. Remove {{convert|1/2|in|cm|abbr=on}} of casing from the end if you haven’t yet, then secure a ring terminal to it. Place it on the battery terminal before reattaching the locking nut.<ref>https://cdn.shopify.com/s/files/1/0311/6485/8503/files/SPXWPRGB4_5_Manual_Web.pdf?v=1585169427</ref>",
+                    "#*Depending on the way your lights work, you may have to connect it to a busbar or a dashboard rocker switch instead.",
+                    "",
+                    "===Securing and Testing Lights===",
+                    "#Wrap the wire connectors in electrical tape to protect them. Although they are pretty damage-resistant, cover them up so the wires are less prone to fraying. Cover the connector under the whip light first. If you used any other connectors, tie them up as well.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=173</ref>",
+                    "#*Another option is to fit a shrink wrap tube over each connector, but they can’t be placed once you have installed the wires. Fit them on before connecting the wires or detach them temporarily, then gently heat the tubes to shrink them over the connectors.",
+                    "#*On ATVs and other open vehicles, tape and shrink tubes are very helpful. WIthout them, the connectors are left exposed to everything.",
+                    "#Bind the wiring to the vehicle’s frame with zip ties. Find any spots where the wiring looks a little loose and droops of the frame. Wrap a zip tie around the wires and the frame. The black and red wires can be safely bound together. Keep the wiring wrapped tightly against the frame to shield it from damage.<ref>https://www.youtube.com/watch?v=V_q8UDMlp_c&feature=youtu.be&t=201</ref>",
+                    "#*Keep the wiring secured as firmly to the frame as possible. It’s harder to damage when it isn’t exposed and left hanging. If you’re in a truck, you can leave it underneath the carpeting.",
+                    "#Screw the whip light into its base on the back end of your vehicle. Slot the tube back into the base you mounted earlier. Push it down while rotating it clockwise until you feel it lock in place. Make sure the whip light is well-mounted to your vehicle. If the base feels a little loose, check that the mounts and light are both secure on the frame.<ref>https://www.youtube.com/watch?v=E-SdFw4PjjQ&feature=youtu.be&t=386</ref>",
+                    "#*The light tube doesn’t attach to the vehicle’s frame. It only connects to the base, so it will be straight up in the air when you’re driving.",
+                    "#Turn on the vehicle to test the lighting. Before reassembling all the parts you removed during the installation, give the lights a test run. Turn on your vehicle to power up the lights. Then, use the control switch for the lights to turn them on. If everything is working, the lights will glow and light up your ride.",
+                    "#*Some lighting systems have a remote switch. Some operate through a switch on the dashboard. Others use a phone app. It depends on which kind you bought.",
+                    "#*If the lights aren’t working, turn off your vehicle and check the connections. The wiring might be in the wrong place, for instance.",
+                    "#Replace the hood, dashboard, and any other components you removed. If you took down any panels from inside the vehicle, put them back first. Start with the dashboard and the central console underneath it. Screw in the seats as well. Then, replace the hood. When you’re done, take your ride out to show off its new glow!<ref>https://www.youtube.com/watch?v=cSTf2WX3X8M&feature=youtu.be&t=130</ref>",
+                    "#*Test the lights thoroughly before reassembling your vehicle. Connection issues are so much easier to fix when you don’t have to take everything back apart.",
+                    "",
+                    "==Tips==",
+                    "*If you’re unsure how to set up whip lights on your specific vehicle, contact the lighting manufacturer. The setup varies a little depending on the kind of vehicle or product you’re using, but customer support can usually help.",
+                    "*Whip lights come in several different lengths and a variety of colors, although many of them can change colors. Use the remote, if your light has one, to set its color.",
+                    "*Whip lights can usually be joined to existing wiring, such as other lighting you have installed. Cut the old wiring and splice it with the new wiring.",
+                    "",
+                    "==Warnings==",
+                    "*Handle electrical components with caution to avoid shock. Always turn off your vehicle before touching the battery or any wiring.",
+                    "*Make sure you connect all wiring properly and according to the manufacturer’s instructions. If you arrange wiring wrong, it could burn out.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Torx screwdriver",
+                    "*Pliers",
+                    "*Wire cutters",
+                    "*Wire strippers",
+                    "*Red 18-gauge wire",
+                    "*Black 18-gauge wire",
+                    "*3-amp fuse",
+                    "*3-amp inline fuse",
+                    "*Wire connectors",
+                    "*Ring terminals",
+                    "*Electrical tape or shrink wrap",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

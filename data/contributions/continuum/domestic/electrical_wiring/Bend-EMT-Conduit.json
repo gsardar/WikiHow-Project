@@ -1,0 +1,1231 @@
+{
+    "title": "Bend-EMT-Conduit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:29:37.832892",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34091611",
+            "user": "MiscBot",
+            "timestamp": "18:39, 19 February 2026",
+            "anon": false,
+            "size": "(15,664 bytes)",
+            "change": -37,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Bend Pipe]]"
+                ]
+            }
+        },
+        {
+            "id": "34075762",
+            "user": "MiscBot",
+            "timestamp": "01:29, 19 February 2026",
+            "anon": false,
+            "size": "(15,701 bytes)",
+            "change": 39,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Bend Pipe]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34059839",
+            "user": "MiscBot",
+            "timestamp": "18:17, 18 February 2026",
+            "anon": false,
+            "size": "(15,662 bytes)",
+            "change": -39,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Bend Pipe]]"
+                ]
+            }
+        },
+        {
+            "id": "33435429",
+            "user": "Votebot",
+            "timestamp": "09:02, 29 May 2025",
+            "anon": false,
+            "size": "(15,701 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Many benders label the 22½º mark 22º for space reasons. This is actually a 22½º angle."
+                ],
+                "removed": [
+                    "*Many benders label the 22½º mark 22º for space reasons. This is actually a 22½º angle."
+                ]
+            }
+        },
+        {
+            "id": "33230191",
+            "user": "MiscBot",
+            "timestamp": "21:39, 10 March 2025",
+            "anon": false,
+            "size": "(15,701 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33106681",
+            "user": "WikiHow Projects",
+            "timestamp": "01:38, 30 January 2025",
+            "anon": false,
+            "size": "(15,682 bytes)",
+            "change": -447,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit. Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5 Version 3.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.[[Image:Bend EMT Conduit Step 6 Version 2.jpg|center]]",
+                    "*Mark conduit with a pencil instead of a permanent marker if the conduit will be visible. Permanent marker can prevent paint from adhering to the conduit."
+                ],
+                "removed": [
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5 Version 3.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>[[Image:Bend EMT Conduit Step 6 Version 2.jpg|center]]",
+                    "*Mark conduit with a pencil instead of a permanent marker if the conduit will be visible. Permanent marker can prevent paint from adhering to the conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32626933",
+            "user": "WikiHow Projects",
+            "timestamp": "12:59, 4 July 2024",
+            "anon": false,
+            "size": "(16,129 bytes)",
+            "change": 41,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Bend EMT Conduit|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32230094",
+            "user": "WikiHow Horizon",
+            "timestamp": "13:33, 23 January 2024",
+            "anon": false,
+            "size": "(16,088 bytes)",
+            "change": -192,
+            "summary": "(Updated link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref>[[Image:Bend EMT Conduit Step 8 Version 2.jpg|center]]",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:[[Image:Bend EMT Conduit Step 15 Version 2.jpg|center]]",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref> Follow this example if you're having trouble with this step:[[Image:Bend EMT Conduit Step 17 Version 2.jpg|center]]",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref>[[Image:Bend EMT Conduit Step 20 Version 2.jpg|center]]",
+                    "#*Measure the distance from the desired position of the conduit end to the ''center'' of the obstacle.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref>",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle. Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>https://drive.google.com/file/d/1cpkOHeQiiGHSoWOJrw5TPPs4a_RtujPs/view</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 8 Version 2.jpg|center]]",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:[[Image:Bend EMT Conduit Step 15 Version 2.jpg|center]]",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:[[Image:Bend EMT Conduit Step 17 Version 2.jpg|center]]",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 20 Version 2.jpg|center]]",
+                    "#*Measure the distance from the desired position of the conduit end to the ''center'' of the obstacle.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle. Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31302148",
+            "user": "WikiHow Projects",
+            "timestamp": "18:20, 29 January 2023",
+            "anon": false,
+            "size": "(16,280 bytes)",
+            "change": -917,
+            "summary": "(removing broken links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Hickey benders tend to crush or kink EMT conduit. Use a bender with a curved track for the conduit to slot into.",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.[[Image:Bend EMT Conduit Step 10 Version 2.jpg|center]]",
+                    "#*Do not rely on the nominal diameter of your conduit, which is slightly smaller than its actual size.",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:[[Image:Bend EMT Conduit Step 14 Version 2.jpg|center]]",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.[[Image:Bend EMT Conduit Step 16 Version 2.jpg|center]]",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.[[Image:Bend EMT Conduit Step 18 Version 2.jpg|center]]",
+                    "#*Instead of calculating this by hand, you can look up a Three-Point Saddle chart online to give you these values.",
+                    "*The bends in a single run of EMT conduit should never add up to more than 360º. If you need to exceed this amount, install a pull box to facilitate wire installation."
+                ],
+                "removed": [
+                    "#*Hickey benders tend to crush or kink EMT conduit. Use a bender with a curved track for the conduit to slot into.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 10 Version 2.jpg|center]]",
+                    "#*Do not rely on the nominal diameter of your conduit, which is slightly smaller than its actual size.<ref>http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/bolted_framing/strut_systems/rd-emtrigidaluminumconduit.pdf</ref>",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 14 Version 2.jpg|center]]",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 16 Version 2.jpg|center]]",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 18 Version 2.jpg|center]]",
+                    "#*Instead of calculating this by hand, you can look up a Three-Point Saddle chart online to give you these values.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "*The bends in a single run of EMT conduit should never add up to more than 360º. If you need to exceed this amount, install a pull box to facilitate wire installation.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28752437",
+            "user": "WikiHow Expert Review",
+            "timestamp": "20:50, 16 October 2020",
+            "anon": false,
+            "size": "(17,197 bytes)",
+            "change": 155,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>[v161397_b01]. 30 June 2020.</ref>[[Image:Bend EMT Conduit Step 3 Version 3.jpg|center]]",
+                    "#*A conduit bender will allow you to make any type of bend, from a few degrees up to 90°.<ref>[v161397_b01]. 30 June 2020.</ref>",
+                    "#*You can also use a bender to make an offset, or hump.<ref>[v161397_b01]. 30 June 2020.</ref>"
+                ],
+                "removed": [
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28199322",
+            "user": "Seymour Edits",
+            "timestamp": "07:01, 3 June 2020",
+            "anon": false,
+            "size": "(17,042 bytes)",
+            "change": -64,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Many benders label the 22½º mark 22º for space reasons. This is actually a 22½º angle."
+                ],
+                "removed": [
+                    "*Many benders label the 22½º mark 22º for space reasons. This is actually a 22½º angle.<ref>http://www.electrihelp.com/ConduitBending/Saddle.aspx</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27790317",
+            "user": "Vidbot",
+            "timestamp": "08:29, 28 February 2020",
+            "anon": false,
+            "size": "(17,106 bytes)",
+            "change": -48,
+            "summary": "(Removing unavailable video from article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Bend EMT Conduit|how too}}"
+                ]
+            }
+        },
+        {
+            "id": "27605622",
+            "user": "Cjennings",
+            "timestamp": "15:58, 16 January 2020",
+            "anon": false,
+            "size": "(17,154 bytes)",
+            "change": 48,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Bend EMT Conduit|how too}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26257232",
+            "user": "MiscBot",
+            "timestamp": "23:49, 28 March 2019",
+            "anon": false,
+            "size": "(17,106 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25364947",
+            "user": "Seymour Edits",
+            "timestamp": "22:37, 5 October 2018",
+            "anon": false,
+            "size": "(17,115 bytes)",
+            "change": 135,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Bend-EMT-Conduit}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24631402",
+            "user": "WikiHow Projects",
+            "timestamp": "00:34, 23 May 2018",
+            "anon": false,
+            "size": "(16,980 bytes)",
+            "change": -129,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.[[Image:Bend EMT Conduit Step 1 Version 3.jpg|center]]",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle. Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>[[Image:Bend EMT Conduit Step 1 Version 3.jpg|center]]",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "21291814",
+            "user": "Flickety",
+            "timestamp": "23:46, 6 November 2016",
+            "anon": false,
+            "size": "(17,109 bytes)",
+            "change": 15,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "20509239",
+            "user": "Wikivisual",
+            "timestamp": "08:01, 1 July 2016",
+            "anon": false,
+            "size": "(17,094 bytes)",
+            "change": 210,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>[[Image:Bend EMT Conduit Step 1 Version 3.jpg|center]]",
+                    "#Measure the desired length of the stub. A stub up bend is a 90º bend near the end of the conduit. Measure the distance on the wall from the end of the conduit to the position of the bend.[[Image:Bend EMT Conduit Step 2 Version 3.jpg|center]]",
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3 Version 3.jpg|center]]",
+                    "#Line the arrow mark on your bender to this measurement. Place your conduit on the floor. Measure from the end of the conduit to the new length you calculated, and mark the conduit at this point. Line the arrow symbol on your bender up so it points to this mark. Slot your bender onto the conduit. Make sure the bender handle is angled toward the end you measured from.[[Image:Bend EMT Conduit Step 4 Version 3.jpg|center]]",
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5 Version 3.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>[[Image:Bend EMT Conduit Step 6 Version 2.jpg|center]]",
+                    "#Make a stub up bend. \"Back to back\" refers to a distance from the back of one 90º bend to the back of the other. In other words, this is the distance between the two parallel lines of a U bend, measuring from the outside edges. To create the first bend of the U, follow the instructions above for a stub up bend.[[Image:Bend EMT Conduit Step 7 Version 2.jpg|center]]",
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 8 Version 2.jpg|center]]",
+                    "#Mark this distance on your conduit. Place the bent stub end of the conduit against a wall. Measure from this wall along your conduit, to the desired length. Mark the conduit at this length using a permanent marker or pencil.[[Image:Bend EMT Conduit Step 9 Version 2.jpg|center]]",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 10 Version 2.jpg|center]]",
+                    "#Bend the conduit. Place the length of conduit you measured flat on the floor. Apply firm pressure on the foot pedal until the conduit bends to a 90º angle. Checking this angle with a level is highly recommended, since it's important that the two bends of the U are parallel.[[Image:Bend EMT Conduit Step 11 Version 2.jpg|center]]",
+                    "#Use offset bends to shift the position of the conduit. An offset bend requires you to bend the conduit in two places at opposite angles, usually between 10 and 45 degrees. Use this to shift the conduit to avoid an obstacle or change elevation, the continue in its original direction.[[Image:Bend EMT Conduit Step 12 Version 2.jpg|center]]",
+                    "#Measure the depth of the offset. Measure the distance between the two parallel locations where the conduit will run before and after the bend. Measure at right angles, not along the bend. Always measure between two identical positions on the conduit (base-to-base, center-to-center, or top-to-top).<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>[[Image:Bend EMT Conduit Step 13 Version 2.jpg|center]]",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 14 Version 2.jpg|center]]",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:[[Image:Bend EMT Conduit Step 15 Version 2.jpg|center]]",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 16 Version 2.jpg|center]]",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:[[Image:Bend EMT Conduit Step 17 Version 2.jpg|center]]",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 18 Version 2.jpg|center]]",
+                    "#Flip the conduit and bender upside down. To prepare for the second bend, leave the bender attached to the conduit. Pick up the bender and place the handle end on the floor, leaning it against your leg to keep it stable. Slide the bender back toward you until the arrow lines up with the second mark on your conduit.[[Image:Bend EMT Conduit Step 19 Version 2.jpg|center]]",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 20 Version 2.jpg|center]]",
+                    "#Create the second bend by hand. Brace the bender handle against your foot and leg. Confirm the arrow on the head still lines up with the mark you made. Grip close to the bender head and pull slowly down until the conduit touches the desired angle mark on the bender.[[Image:Bend EMT Conduit Step 21 Version 2.jpg|center]]",
+                    "#Familiarize yourself with other bends. A three-point saddle bend raises the conduit in a triangle to clear a narrow obstacle. This requires calculations and techniques described above in the offset bend method.[[Image:Bend EMT Conduit Step 22 Version 2.jpg|center]]",
+                    "#Mark the position of the center bend. The three-point saddle includes one bend to lift the conduit off the floor, a second bend to bend it down over the obstacle, and a third bend to make the conduit level with the floor again. Calculate the position of the center bend as though it were an offset. For example, conduct these calculations for a 30º–60º–30º saddle, the easiest setup to memorize:[[Image:Bend EMT Conduit Step 23 Version 2.jpg|center]]",
+                    "#Mark the positions of the two other bends. Calculate the distance between bends as you would an offset. Measure this distance twice, starting from the center mark and measuring in both directions.[[Image:Bend EMT Conduit Step 24 Version 2.jpg|center]]",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25 Version 2.jpg|center]]",
+                    "#Complete the saddle bend. Turn the conduit over and brace the handle against your foot, as you would to finish an offset bend. Rotate the conduit exactly 180º in the bender so your bend is in the correct direction. Line up the arrow mark on your bender with one of the marks on your conduit, and bend to exactly ½ the angle of the center saddle bend. Repeat for the third bend of the saddle.[[Image:Bend EMT Conduit Step 26 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>[[Image:Bend EMT Conduit Step 1 Version 2.jpg|center]]",
+                    "#Measure the desired length of the stub. A stub up bend is a 90º bend near the end of the conduit. Measure the distance on the wall from the end of the conduit to the position of the bend.[[Image:Bend EMT Conduit Step 2 Version 2.jpg|center]]",
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3 Version 2.jpg|center]]",
+                    "#Line the arrow mark on your bender to this measurement. Place your conduit on the floor. Measure from the end of the conduit to the new length you calculated, and mark the conduit at this point. Line the arrow symbol on your bender up so it points to this mark. Slot your bender onto the conduit. Make sure the bender handle is angled toward the end you measured from.[[Image:Bend EMT Conduit Step 4 Version 2.jpg|center]]",
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5 Version 2.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>[[Image:Bend EMT Conduit Step 6.jpg|center]]",
+                    "#Make a stub up bend. \"Back to back\" refers to a distance from the back of one 90º bend to the back of the other. In other words, this is the distance between the two parallel lines of a U bend, measuring from the outside edges. To create the first bend of the U, follow the instructions above for a stub up bend.[[Image:Bend EMT Conduit Step 7.jpg|center]]",
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 8.jpg|center]]",
+                    "#Mark this distance on your conduit. Place the bent stub end of the conduit against a wall. Measure from this wall along your conduit, to the desired length. Mark the conduit at this length using a permanent marker or pencil.[[Image:Bend EMT Conduit Step 9.jpg|center]]",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 10.jpg|center]]",
+                    "#Bend the conduit. Place the length of conduit you measured flat on the floor. Apply firm pressure on the foot pedal until the conduit bends to a 90º angle. Checking this angle with a level is highly recommended, since it's important that the two bends of the U are parallel.[[Image:Bend EMT Conduit Step 11.jpg|center]]",
+                    "#Use offset bends to shift the position of the conduit. An offset bend requires you to bend the conduit in two places at opposite angles, usually between 10 and 45 degrees. Use this to shift the conduit to avoid an obstacle or change elevation, the continue in its original direction.[[Image:Bend EMT Conduit Step 12.jpg|center]]",
+                    "#Measure the depth of the offset. Measure the distance between the two parallel locations where the conduit will run before and after the bend. Measure at right angles, not along the bend. Always measure between two identical positions on the conduit (base-to-base, center-to-center, or top-to-top).<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>[[Image:Bend EMT Conduit Step 13.jpg|center]]",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 14.jpg|center]]",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:[[Image:Bend EMT Conduit Step 15.jpg|center]]",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 16.jpg|center]]",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:[[Image:Bend EMT Conduit Step 17.jpg|center]]",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 18.jpg|center]]",
+                    "#Flip the conduit and bender upside down. To prepare for the second bend, leave the bender attached to the conduit. Pick up the bender and place the handle end on the floor, leaning it against your leg to keep it stable. Slide the bender back toward you until the arrow lines up with the second mark on your conduit.[[Image:Bend EMT Conduit Step 19.jpg|center]]",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 20.jpg|center]]",
+                    "#Create the second bend by hand. Brace the bender handle against your foot and leg. Confirm the arrow on the head still lines up with the mark you made. Grip close to the bender head and pull slowly down until the conduit touches the desired angle mark on the bender.[[Image:Bend EMT Conduit Step 21.jpg|center]]",
+                    "#Familiarize yourself with other bends. A three-point saddle bend raises the conduit in a triangle to clear a narrow obstacle. This requires calculations and techniques described above in the offset bend method.[[Image:Bend EMT Conduit Step 22.jpg|center]]",
+                    "#Mark the position of the center bend. The three-point saddle includes one bend to lift the conduit off the floor, a second bend to bend it down over the obstacle, and a third bend to make the conduit level with the floor again. Calculate the position of the center bend as though it were an offset. For example, conduct these calculations for a 30º–60º–30º saddle, the easiest setup to memorize:[[Image:Bend EMT Conduit Step 23.jpg|center]]",
+                    "#Mark the positions of the two other bends. Calculate the distance between bends as you would an offset. Measure this distance twice, starting from the center mark and measuring in both directions.[[Image:Bend EMT Conduit Step 24.jpg|center]]",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25.jpg|center]]",
+                    "#Complete the saddle bend. Turn the conduit over and brace the handle against your foot, as you would to finish an offset bend. Rotate the conduit exactly 180º in the bender so your bend is in the correct direction. Line up the arrow mark on your bender with one of the marks on your conduit, and bend to exactly ½ the angle of the center saddle bend. Repeat for the third bend of the saddle.[[Image:Bend EMT Conduit Step 26.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "20509103",
+            "user": "Wikivisual",
+            "timestamp": "07:26, 1 July 2016",
+            "anon": false,
+            "size": "(16,884 bytes)",
+            "change": 1035,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>[[Image:Bend EMT Conduit Step 1 Version 2.jpg|center]]",
+                    "#Measure the desired length of the stub. A stub up bend is a 90º bend near the end of the conduit. Measure the distance on the wall from the end of the conduit to the position of the bend.[[Image:Bend EMT Conduit Step 2 Version 2.jpg|center]]",
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3 Version 2.jpg|center]]",
+                    "#Line the arrow mark on your bender to this measurement. Place your conduit on the floor. Measure from the end of the conduit to the new length you calculated, and mark the conduit at this point. Line the arrow symbol on your bender up so it points to this mark. Slot your bender onto the conduit. Make sure the bender handle is angled toward the end you measured from.[[Image:Bend EMT Conduit Step 4 Version 2.jpg|center]]",
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5 Version 2.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>[[Image:Bend EMT Conduit Step 6.jpg|center]]",
+                    "#Make a stub up bend. \"Back to back\" refers to a distance from the back of one 90º bend to the back of the other. In other words, this is the distance between the two parallel lines of a U bend, measuring from the outside edges. To create the first bend of the U, follow the instructions above for a stub up bend.[[Image:Bend EMT Conduit Step 7.jpg|center]]",
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 8.jpg|center]]",
+                    "#Mark this distance on your conduit. Place the bent stub end of the conduit against a wall. Measure from this wall along your conduit, to the desired length. Mark the conduit at this length using a permanent marker or pencil.[[Image:Bend EMT Conduit Step 9.jpg|center]]",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 10.jpg|center]]",
+                    "#Bend the conduit. Place the length of conduit you measured flat on the floor. Apply firm pressure on the foot pedal until the conduit bends to a 90º angle. Checking this angle with a level is highly recommended, since it's important that the two bends of the U are parallel.[[Image:Bend EMT Conduit Step 11.jpg|center]]",
+                    "#Use offset bends to shift the position of the conduit. An offset bend requires you to bend the conduit in two places at opposite angles, usually between 10 and 45 degrees. Use this to shift the conduit to avoid an obstacle or change elevation, the continue in its original direction.[[Image:Bend EMT Conduit Step 12.jpg|center]]",
+                    "#Measure the depth of the offset. Measure the distance between the two parallel locations where the conduit will run before and after the bend. Measure at right angles, not along the bend. Always measure between two identical positions on the conduit (base-to-base, center-to-center, or top-to-top).<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>[[Image:Bend EMT Conduit Step 13.jpg|center]]",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 14.jpg|center]]",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:[[Image:Bend EMT Conduit Step 15.jpg|center]]",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 16.jpg|center]]",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:[[Image:Bend EMT Conduit Step 17.jpg|center]]",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 18.jpg|center]]",
+                    "#Flip the conduit and bender upside down. To prepare for the second bend, leave the bender attached to the conduit. Pick up the bender and place the handle end on the floor, leaning it against your leg to keep it stable. Slide the bender back toward you until the arrow lines up with the second mark on your conduit.[[Image:Bend EMT Conduit Step 19.jpg|center]]",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>[[Image:Bend EMT Conduit Step 20.jpg|center]]",
+                    "#Create the second bend by hand. Brace the bender handle against your foot and leg. Confirm the arrow on the head still lines up with the mark you made. Grip close to the bender head and pull slowly down until the conduit touches the desired angle mark on the bender.[[Image:Bend EMT Conduit Step 21.jpg|center]]",
+                    "#Familiarize yourself with other bends. A three-point saddle bend raises the conduit in a triangle to clear a narrow obstacle. This requires calculations and techniques described above in the offset bend method.[[Image:Bend EMT Conduit Step 22.jpg|center]]",
+                    "#Mark the position of the center bend. The three-point saddle includes one bend to lift the conduit off the floor, a second bend to bend it down over the obstacle, and a third bend to make the conduit level with the floor again. Calculate the position of the center bend as though it were an offset. For example, conduct these calculations for a 30º–60º–30º saddle, the easiest setup to memorize:[[Image:Bend EMT Conduit Step 23.jpg|center]]",
+                    "#Mark the positions of the two other bends. Calculate the distance between bends as you would an offset. Measure this distance twice, starting from the center mark and measuring in both directions.[[Image:Bend EMT Conduit Step 24.jpg|center]]",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.[[Image:Bend EMT Conduit Step 25.jpg|center]]",
+                    "#Complete the saddle bend. Turn the conduit over and brace the handle against your foot, as you would to finish an offset bend. Rotate the conduit exactly 180º in the bender so your bend is in the correct direction. Line up the arrow mark on your bender with one of the marks on your conduit, and bend to exactly ½ the angle of the center saddle bend. Repeat for the third bend of the saddle.[[Image:Bend EMT Conduit Step 26.jpg|center]]"
+                ],
+                "removed": [
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>",
+                    "#Measure the desired length of the stub. A stub up bend is a 90º bend near the end of the conduit. Measure the distance on the wall from the end of the conduit to the position of the bend.[[Image:Bend EMT Conduit Step 1.jpg|center]]",
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#Line the arrow mark on your bender to this measurement. Place your conduit on the floor. Measure from the end of the conduit to the new length you calculated, and mark the conduit at this point. Line the arrow symbol on your bender up so it points to this mark. Slot your bender onto the conduit. Make sure the bender handle is angled toward the end you measured from.[[Image:Bend EMT Conduit Step 4.jpg|center]]",
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5.jpg|center]]",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>",
+                    "#Make a stub up bend. \"Back to back\" refers to a distance from the back of one 90º bend to the back of the other. In other words, this is the distance between the two parallel lines of a U bend, measuring from the outside edges. To create the first bend of the U, follow the instructions above for a stub up bend.",
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#Mark this distance on your conduit. Place the bent stub end of the conduit against a wall. Measure from this wall along your conduit, to the desired length. Mark the conduit at this length using a permanent marker or pencil.",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Bend the conduit. Place the length of conduit you measured flat on the floor. Apply firm pressure on the foot pedal until the conduit bends to a 90º angle. Checking this angle with a level is highly recommended, since it's important that the two bends of the U are parallel.",
+                    "#Use offset bends to shift the position of the conduit. An offset bend requires you to bend the conduit in two places at opposite angles, usually between 10 and 45 degrees. Use this to shift the conduit to avoid an obstacle or change elevation, the continue in its original direction.",
+                    "#Measure the depth of the offset. Measure the distance between the two parallel locations where the conduit will run before and after the bend. Measure at right angles, not along the bend. Always measure between two identical positions on the conduit (base-to-base, center-to-center, or top-to-top).<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Flip the conduit and bender upside down. To prepare for the second bend, leave the bender attached to the conduit. Pick up the bender and place the handle end on the floor, leaning it against your leg to keep it stable. Slide the bender back toward you until the arrow lines up with the second mark on your conduit.",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#Create the second bend by hand. Brace the bender handle against your foot and leg. Confirm the arrow on the head still lines up with the mark you made. Grip close to the bender head and pull slowly down until the conduit touches the desired angle mark on the bender.",
+                    "#Familiarize yourself with other bends. A three-point saddle bend raises the conduit in a triangle to clear a narrow obstacle. This requires calculations and techniques described above in the offset bend method.",
+                    "#Mark the position of the center bend. The three-point saddle includes one bend to lift the conduit off the floor, a second bend to bend it down over the obstacle, and a third bend to make the conduit level with the floor again. Calculate the position of the center bend as though it were an offset. For example, conduct these calculations for a 30º–60º–30º saddle, the easiest setup to memorize:",
+                    "#Mark the positions of the two other bends. Calculate the distance between bends as you would an offset. Measure this distance twice, starting from the center mark and measuring in both directions.",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.",
+                    "#Complete the saddle bend. Turn the conduit over and brace the handle against your foot, as you would to finish an offset bend. Rotate the conduit exactly 180º in the bender so your bend is in the correct direction. Line up the arrow mark on your bender with one of the marks on your conduit, and bend to exactly ½ the angle of the center saddle bend. Repeat for the third bend of the saddle."
+                ]
+            }
+        },
+        {
+            "id": "20316569",
+            "user": "Myles_Schaller",
+            "timestamp": "04:19, 30 May 2016",
+            "anon": false,
+            "size": "(15,849 bytes)",
+            "change": 14609,
+            "summary": "(expanding to include multiple types of bends)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Also called thin-wall, Electrical Metallic Tubing (EMT) is a lightweight conduit that any electrician should learn to use. The majority of bends you'll perform follow just three templates. No matter which bend you need today, it's easiest to learn them in the order presented below, from simple to complex.",
+                    "",
+                    "",
+                    "===90º Stub Up Bend===",
+                    "#Select the correct bender. Make sure your bender is designed for EMT conduit of the size you are using. Even a universal bender may require attaching a shoe and/or follow bar designed for EMT.<ref>http://www.ecmag.com/products/choosing-right-bender</ref>",
+                    "#*This article focuses on hand benders. If you are using a hydraulic or power bender (recommended for conduit with a nominal size over 2 inches), find instructions for your specific bender model.",
+                    "#*Hickey benders tend to crush or kink EMT conduit. Use a bender with a curved track for the conduit to slot into.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Measure the desired length of the stub. A stub up bend is a 90º bend near the end of the conduit. Measure the distance on the wall from the end of the conduit to the position of the bend.[[Image:Bend EMT Conduit Step 1.jpg|center]]",
+                    "#Subtract the take-up height. The radius of the bend will add extra length to the bent end of your conduit. Take this into account by subtracting a certain amount from your measurement:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#*If you are using ½\" EMT conduit, subtract 5\" (12.7 cm).",
+                    "#*¾\" conduit: subtract 6\" (15.2 cm).",
+                    "#*1\" conduit: subtract 8\" (20.3 cm.",
+                    "#*1¼\" conduit: subtract 11\" (27.9 cm).",
+                    "#Line the arrow mark on your bender to this measurement. Place your conduit on the floor. Measure from the end of the conduit to the new length you calculated, and mark the conduit at this point. Line the arrow symbol on your bender up so it points to this mark. Slot your bender onto the conduit. Make sure the bender handle is angled toward the end you measured from.[[Image:Bend EMT Conduit Step 4.jpg|center]]",
+                    "#*If your bender does not have an arrow symbol, you may need to find the instructions for your",
+                    "#Press down on the foot pedal to bend the conduit. Your foot should provide most if not all of the pressure. Without pulling, use one hand to steady the handle on your bender, and the other to steady the conduit end once it rises within reach. Apply firm, constant foot pressure, as a pause could create a kink in your conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref> Bend until the end of the conduit is vertical, or very slightly past vertical.[[Image:Bend EMT Conduit Step 5.jpg|center]]",
+                    "#*If your conduit is 1¼\" or larger, you may need an assistant to operate the handle.",
+                    "#Confirm the bend with a spirit level (recommended). Attach a level to the vertical length of conduit. If necessary, make small adjustments to the bend until the bubble of the level is centered. The conduit will flex back slightly after you remove the bender, so bending slightly too far will provide the best results.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>",
+                    "",
+                    "===Back to Back Bend===",
+                    "#Make a stub up bend. \"Back to back\" refers to a distance from the back of one 90º bend to the back of the other. In other words, this is the distance between the two parallel lines of a U bend, measuring from the outside edges. To create the first bend of the U, follow the instructions above for a stub up bend.",
+                    "#Measure the distance the conduit needs to fit between. Measure the distance the two bends need to fit between, such as the distance between two parallel walls.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#Mark this distance on your conduit. Place the bent stub end of the conduit against a wall. Measure from this wall along your conduit, to the desired length. Mark the conduit at this length using a permanent marker or pencil.",
+                    "#Line the star symbol on the bender to this mark. Unlike the placement for the stub bend, the bender's handle should be pointed ''away'' from end you measured from. For bends like this, line the star symbol on your bender head up with the mark.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#*If your bender does not have a star symbol, refer to your bender's instructions.",
+                    "#*If the distance between the bends is too short for your bender, use the stub up system instead. In other words, turn your bender the other way, subtract the take-up distance described in the stub-up section, and line the conduit up with the arrow mark instead.",
+                    "#Bend the conduit. Place the length of conduit you measured flat on the floor. Apply firm pressure on the foot pedal until the conduit bends to a 90º angle. Checking this angle with a level is highly recommended, since it's important that the two bends of the U are parallel.",
+                    "",
+                    "===Offset Bend===",
+                    "#Use offset bends to shift the position of the conduit. An offset bend requires you to bend the conduit in two places at opposite angles, usually between 10 and 45 degrees. Use this to shift the conduit to avoid an obstacle or change elevation, the continue in its original direction.",
+                    "#Measure the depth of the offset. Measure the distance between the two parallel locations where the conduit will run before and after the bend. Measure at right angles, not along the bend. Always measure between two identical positions on the conduit (base-to-base, center-to-center, or top-to-top).<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>",
+                    "#*Do not rely on the nominal diameter of your conduit, which is slightly smaller than its actual size.<ref>http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/bolted_framing/strut_systems/rd-emtrigidaluminumconduit.pdf</ref>",
+                    "#Choose an angle for the bend. As a general rule, the shorter the offset distance, the smaller the angle. An offset of a few inches can use a 10º or 22.5º angle, but an offset of several feet may call for 30º or 45º.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref> Smaller angles will \"use up\" less of your conduit, but may be more difficult to bend precisely. If your conduit layout requires precise measurements, calculate the amount of shrinkage, or additional length required for the bend:<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#*A 10º angle uses an additional 1/16\" of length per inch of offset depth.",
+                    "#*A 22.5º angle uses 3/16\" per inch of offset depth.",
+                    "#*A 30º angle uses ¼\" per inch.",
+                    "#*A 45º angle uses ⅜\" per inch.",
+                    "#*A 60º angle uses ½\" per inch.",
+                    "#*To find the total shrinkage, multiply the offset depth in inches by the shrinkage value above.",
+                    "#Find the position of the far bend. Find the total shrinkage using the instructions in the previous step. Add this number to the distance from the end of your conduit to the obstacle. Mark the conduit at this length.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Here's an example for a conduit you plan to bend at a 30º angle to overcome a 10\" step:",
+                    "#*The shrinkage for a 30º angle is ¼ inch per inch of rise. (See previous step.)",
+                    "#*Multiply ¼ by 10 inches of rise: ¼ x 10\" = 2.5 inches. This is the total shrinkage.",
+                    "#*Let's say the conduit will run from an electrical box 40 inches from the step. Add this distance to the shrinkage: 40 inches + 2.5 inches = '''42.5 inches'''.",
+                    "#*Measure 42.5 inches from the end of the conduit and mark it with a marker or pencil.",
+                    "#Use the offset multiplier to find the distance between the two bends. Each angle has its own offset multiplier, listed below this step. Multiply this value by the offset depth to get the length between your two bends.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#*For a 10º angle, multiply the offset depth by 5.8.",
+                    "#*For a 22.5º angle, multiply offset depth by 2.6.",
+                    "#*For a 30º angle, multiply by 2.",
+                    "#*For a 45º angle, multiply by 1.4.",
+                    "#*For a 60º angle, multiply by 1.2.",
+                    "#*Some benders list the offset multipliers on one side of the head, directly opposite the corresponding angles on the other side. These may not match the numbers above perfectly due to rounding.",
+                    "#Mark the position of the near bend. Place the tape measure against the first mark you made, for the far bend. Measure back toward the end of the conduit, until you get to the length you calculated. Mark the conduit at this spot, the position of the near bend.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Follow this example if you're having trouble with this step:",
+                    "#*Return to the earlier example of a 30º angle up a 10\" rise.",
+                    "#*A 30º has an offset multiplier of exactly 2. Multiply the offset depth (10\") by 2 to get 20\".",
+                    "#*Place the tape measure against your first mark, 42.5\" from the end (calculated in the steps above).",
+                    "#*Measure 20\" toward the end of the conduit and make another mark. This is the position of the other bend.",
+                    "#Bend the far bend using the stub up system. Place the conduit on the floor. Line up the arrow on your bender with the mark farthest from the end you measured from. (This is the first mark you made.) Slot the bender onto the conduit, and apply steady foot pressure to bend the conduit. Watch the degree mark on the side of your bender that matches the angle you chose. Continue bending until this mark touches the horizontal portion of the conduit.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#*Position the bender so the foot pedal is between the two marks.",
+                    "#*For example, if you plan to bend at a 30º angle, bend until the 30º mark touches the edge of the conduit.",
+                    "#*You can use any mark on your bender instead of the arrow, as long as you use the same mark to create the second bend. A different mark may be more convenient for bends near the end of the conduit.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>",
+                    "#Flip the conduit and bender upside down. To prepare for the second bend, leave the bender attached to the conduit. Pick up the bender and place the handle end on the floor, leaning it against your leg to keep it stable. Slide the bender back toward you until the arrow lines up with the second mark on your conduit.",
+                    "#Roll the conduit 180º. Without taking it out of the bender, rotate the conduit exactly 180º. Sight along the conduit to make sure the bent end lies along exactly the same plane as your bender. If the bend is sticking out to one side, your conduit will not lie flat.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#*You may lean the bent end down against the ground to support it.",
+                    "#Create the second bend by hand. Brace the bender handle against your foot and leg. Confirm the arrow on the head still lines up with the mark you made. Grip close to the bender head and pull slowly down until the conduit touches the desired angle mark on the bender.",
+                    "#*The farther away you hold the conduit, the less accurate the bend will be. Grip as close to the mark as you can without making the task unreasonably difficult.<ref>https://dengarden.com/home-improvement/a-conduit-bending-guide-on-how-to-bend-an-offset</ref>",
+                    "",
+                    "===Three Point Saddle Bend===",
+                    "#Familiarize yourself with other bends. A three-point saddle bend raises the conduit in a triangle to clear a narrow obstacle. This requires calculations and techniques described above in the offset bend method.",
+                    "#Mark the position of the center bend. The three-point saddle includes one bend to lift the conduit off the floor, a second bend to bend it down over the obstacle, and a third bend to make the conduit level with the floor again. Calculate the position of the center bend as though it were an offset. For example, conduct these calculations for a 30º–60º–30º saddle, the easiest setup to memorize:",
+                    "#*A 30º creates ¼\" shrinkage for each inch of rise. Multiply ¼\" by the height of the obstacles in inches to find the total shrinkage.",
+                    "#*Measure the distance from the desired position of the conduit end to the ''center'' of the obstacle.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref>",
+                    "#*Add these two values together. Measure this length from the end of the conduit and mark it.",
+                    "#*'''Note:''' Many benders only have a teardrop mark to show the position of a 45º saddle bend. In this case, a 22.5º–45º–22.5º saddle is the easiest type to bend.",
+                    "#Mark the positions of the two other bends. Calculate the distance between bends as you would an offset. Measure this distance twice, starting from the center mark and measuring in both directions.",
+                    "#*For example, since a 30º angle has an offset multiplier of 2, a 3\" high obstacle requires bends 2 x 3\" = 6\" apart. Draw a mark 6\" to the left of the center mark, and another mark 6\" to the right of the center.",
+                    "#*Instead of calculating this by hand, you can look up a Three-Point Saddle chart online to give you these values.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "#Bend the center. Most benders have a teardrop mark used for the center of a 22.5º–45º–22.5º saddle.<ref>http://www.ecmag.com/products/cool-tools-conduit-benders</ref> Others may have three notches or marks along the rim, next to a \"center bend\" mark that looks like a semicircle with an arrow at the center. These three notches correspond to 30º, 45º, and 60º angles.<ref>http://www.gridalternatives.org/sites/default/files/assets/Team%20Leader%20docs/ConduitBenderGuide.pdf</ref> Line up the appropriate mark with the center mark on your conduit, and bend until the conduit touches the correct angle mark on your bender.",
+                    "#Complete the saddle bend. Turn the conduit over and brace the handle against your foot, as you would to finish an offset bend. Rotate the conduit exactly 180º in the bender so your bend is in the correct direction. Line up the arrow mark on your bender with one of the marks on your conduit, and bend to exactly ½ the angle of the center saddle bend. Repeat for the third bend of the saddle.",
+                    "*Mark conduit with a pencil instead of a permanent marker if the conduit will be visible. Permanent marker can prevent paint from adhering to the conduit.<ref>https://dengarden.com/home-improvement/EMT-Electrical-Conduit-Pipe-Bending-Instructions-a-Conduit-Bending-Guide-for-Beginning-Electricians</ref>",
+                    "*Many benders label the 22½º mark 22º for space reasons. This is actually a 22½º angle.<ref>http://www.electrihelp.com/ConduitBending/Saddle.aspx</ref>",
+                    "",
+                    "==Warnings==",
+                    "*The bends in a single run of EMT conduit should never add up to more than 360º. If you need to exceed this amount, install a pull box to facilitate wire installation.<ref>http://www.browntechnical.org/content/Resourcs/Hand_bending_conduit_and_tubing_by_Bill_Bamford.pdf</ref>",
+                    "*pencil or permanent marker",
+                    "*EMT bender of the appropriate size",
+                    "*EMT conduit",
+                    "*Spirit level",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner.",
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".[[Image:Bend EMT Conduit Step 1.jpg|center]]",
+                    "# Measure from the end of the pipe and make a mark at 24\".[[Image:Bend EMT Conduit Step 2.jpg|center]]",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a second mark at {{convert|19|in|cm|1}} from the end you originally measured from.[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#  Now take your bender and slide it onto the pipe with the foot pad facing the opposite end of the pipe you marked. Align the arrow on the bender to your {{convert|19|in|cm|1}} mark.[[Image:Bend EMT Conduit Step 4.jpg|center]]",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender.[[Image:Bend EMT Conduit Step 5.jpg|center]]",
+                    "*Don't use a permanent marker unless you are going to hide or paint the pipe.",
+                    "*pencil",
+                    "*1/2\" EMT bender",
+                    "*a piece of EMT"
+                ]
+            }
+        },
+        {
+            "id": "19233638",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "18:10, 6 January 2016",
+            "anon": false,
+            "size": "(1,240 bytes)",
+            "change": -17,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Bend Pipe]]"
+                ],
+                "removed": [
+                    "*[[Bend Pipe|How to Bend Pipe]]"
+                ]
+            }
+        },
+        {
+            "id": "18156732",
+            "user": "50.134.151.130",
+            "timestamp": "22:31, 4 August 2015",
+            "anon": true,
+            "size": "(1,257 bytes)",
+            "change": -14,
+            "summary": "(adds more-precise minor wording)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a second mark at {{convert|19|in|cm|1}} from the end you originally measured from.[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#  Now take your bender and slide it onto the pipe with the foot pad facing the opposite end of the pipe you marked. Align the arrow on the bender to your {{convert|19|in|cm|1}} mark.[[Image:Bend EMT Conduit Step 4.jpg|center]]"
+                ],
+                "removed": [
+                    "",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a mark. Which will give you a measurement of {{convert|19|in|cm|1}} from the end you originally measured from.[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.[[Image:Bend EMT Conduit Step 4.jpg|center]]",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "17961037",
+            "user": "MiscBot",
+            "timestamp": "18:48, 27 July 2015",
+            "anon": false,
+            "size": "(1,271 bytes)",
+            "change": -70,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".[[Image:Bend EMT Conduit Step 1.jpg|center]]",
+                    "# Measure from the end of the pipe and make a mark at 24\".[[Image:Bend EMT Conduit Step 2.jpg|center]]",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a mark. Which will give you a measurement of {{convert|19|in|cm|1}} from the end you originally measured from.[[Image:Bend EMT Conduit Step 3.jpg|center]]",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.[[Image:Bend EMT Conduit Step 4.jpg|center]]",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender.[[Image:Bend EMT Conduit Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".<br><br>[[Image:Bend EMT Conduit Step 1.jpg|center|550px]]",
+                    "# Measure from the end of the pipe and make a mark at 24\".<br><br>[[Image:Bend EMT Conduit Step 2.jpg|center|550px]]",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a mark. Which will give you a measurement of {{convert|19|in|cm|1}} from the end you originally measured from.<br><br>[[Image:Bend EMT Conduit Step 3.jpg|center|550px]]",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.<br><br>[[Image:Bend EMT Conduit Step 4.jpg|center|550px]]",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender.<br><br>[[Image:Bend EMT Conduit Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "16823357",
+            "user": "Bobbyfrank",
+            "timestamp": "10:24, 7 March 2015",
+            "anon": false,
+            "size": "(1,341 bytes)",
+            "change": -56,
+            "summary": "(RCP reverted edits by Dark Owl (talk) to  revision #15812337 by MiscBot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* Use a level to ensure the pipe is exactly 90 degrees."
+                ]
+            }
+        },
+        {
+            "id": "16823229",
+            "user": "Dark Owl",
+            "timestamp": "09:49, 7 March 2015",
+            "anon": false,
+            "size": "(1,397 bytes)",
+            "change": 56,
+            "summary": "(New tip approved in Tips Patrol)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bobbyfrank",
+            "exact_contribution": {
+                "added": [
+                    "* Use a level to ensure the pipe is exactly 90 degrees."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "15812337",
+            "user": "MiscBot",
+            "timestamp": "21:36, 5 November 2014",
+            "anon": false,
+            "size": "(1,341 bytes)",
+            "change": 26,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bobbyfrank",
+            "exact_contribution": {
+                "added": [
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct {{convert|5|in|cm|1}} from your 24\" and make a mark. Which will give you a measurement of {{convert|19|in|cm|1}} from the end you originally measured from.<br><br>[[Image:Bend EMT Conduit Step 3.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.<br><br>[[Image:Bend EMT Conduit Step 3.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "12721309",
+            "user": "Wikiphoto",
+            "timestamp": "04:01, 18 February 2014",
+            "anon": false,
+            "size": "(1,315 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".<br><br>[[Image:Bend EMT Conduit Step 1.jpg|center|550px]]",
+                    "# Measure from the end of the pipe and make a mark at 24\".<br><br>[[Image:Bend EMT Conduit Step 2.jpg|center|550px]]",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.<br><br>[[Image:Bend EMT Conduit Step 3.jpg|center|550px]]",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.<br><br>[[Image:Bend EMT Conduit Step 4.jpg|center|550px]]",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender.<br><br>[[Image:Bend EMT Conduit Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Bend EMT Conduit Step 1.jpg|right|300px]]We need to determine the height of the stub you are going to make. For this example we will use 24\".",
+                    "# [[Image:Bend EMT Conduit Step 2.jpg|right|300px]]Measure from the end of the pipe and make a mark at 24\".",
+                    "# [[Image:Bend EMT Conduit Step 3.jpg|right|300px]]Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  [[Image:Bend EMT Conduit Step 4.jpg|right|300px]]Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.",
+                    "#  [[Image:Bend EMT Conduit Step 5.jpg|right|300px]]With even foot pressure pull the handle back till it reads 90 degrees on the bender."
+                ]
+            }
+        },
+        {
+            "id": "12721308",
+            "user": "Wikiphoto",
+            "timestamp": "04:01, 18 February 2014",
+            "anon": false,
+            "size": "(1,269 bytes)",
+            "change": 245,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Bend EMT Conduit Step 1.jpg|right|300px]]We need to determine the height of the stub you are going to make. For this example we will use 24\".",
+                    "# [[Image:Bend EMT Conduit Step 2.jpg|right|300px]]Measure from the end of the pipe and make a mark at 24\".",
+                    "# [[Image:Bend EMT Conduit Step 3.jpg|right|300px]]Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  [[Image:Bend EMT Conduit Step 4.jpg|right|300px]]Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.",
+                    "#  [[Image:Bend EMT Conduit Step 5.jpg|right|300px]]With even foot pressure pull the handle back till it reads 90 degrees on the bender."
+                ],
+                "removed": [
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".",
+                    "# Measure from the end of the pipe and make a mark at 24\".",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender."
+                ]
+            }
+        },
+        {
+            "id": "12556334",
+            "user": "Supercentenarian",
+            "timestamp": "02:47, 31 January 2014",
+            "anon": false,
+            "size": "(1,024 bytes)",
+            "change": 36,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12555862",
+            "user": "Serendipitee",
+            "timestamp": "01:05, 31 January 2014",
+            "anon": false,
+            "size": "(988 bytes)",
+            "change": -319,
+            "summary": "(rm inappropriate category and relateds)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[Category:Water Features & Appliances]]",
+                    "*[[Make Fake Rocks for Your Pond|How to Make Fake Rocks for Your Pond]]",
+                    "*[[Build a Backyard Pond|How to Build a Backyard Pond]]",
+                    "*[[Create a Water Playground for Small Children|How to Create a Water Playground for Small Children]]",
+                    "*[[Build a Frog Pond|How to Build a Frog Pond]]"
+                ]
+            }
+        },
+        {
+            "id": "11614129",
+            "user": "Votebot",
+            "timestamp": "21:23, 30 October 2013",
+            "anon": false,
+            "size": "(1,307 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8366105",
+            "user": "BR",
+            "timestamp": "20:18, 1 September 2012",
+            "anon": false,
+            "size": "(1,306 bytes)",
+            "change": -42,
+            "summary": "(Reverted edits by Byankno1 (Talk); changed back to last version by BR)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ],
+                "removed": [
+                    "[[Image:IMG_3253 2.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "8366081",
+            "user": "EpcotMagic",
+            "timestamp": "20:15, 1 September 2012",
+            "anon": false,
+            "size": "(1,348 bytes)",
+            "change": 42,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:IMG_3253 2.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ],
+                "removed": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "7356290",
+            "user": "BR",
+            "timestamp": "22:41, 28 February 2012",
+            "anon": false,
+            "size": "(1,306 bytes)",
+            "change": -42,
+            "summary": "(Reverted edits by FB_100003592279210 (Talk); changed back to last version by Ttrimm)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ],
+                "removed": [
+                    "[[Image:IMG_3253 1.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "7355932",
+            "user": "FB_100003592279210",
+            "timestamp": "21:05, 28 February 2012",
+            "anon": false,
+            "size": "(1,348 bytes)",
+            "change": 42,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:IMG_3253 1.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ],
+                "removed": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "6954351",
+            "user": "Ttrimm",
+            "timestamp": "08:19, 2 December 2011",
+            "anon": false,
+            "size": "(1,306 bytes)",
+            "change": 32,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*[[Bend Pipe|How to Bend Pipe]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6556870",
+            "user": "Kanhu",
+            "timestamp": "14:13, 27 August 2011",
+            "anon": false,
+            "size": "(1,274 bytes)",
+            "change": -40,
+            "summary": "(Edit via Quality Guardian: Removed image that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ],
+                "removed": [
+                    "[[Image:IMG_3253.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "6555744",
+            "user": "Stropynine",
+            "timestamp": "04:10, 27 August 2011",
+            "anon": false,
+            "size": "(1,314 bytes)",
+            "change": 41,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:IMG_3253.jpg|thumb|right|251px]]You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner.",
+                    ""
+                ],
+                "removed": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner."
+                ]
+            }
+        },
+        {
+            "id": "3749468",
+            "user": "71.38.92.223",
+            "timestamp": "16:51, 25 August 2009",
+            "anon": true,
+            "size": "(1,273 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Don't use a permanent marker unless you are going to hide or paint the pipe."
+                ],
+                "removed": [
+                    "*Don't use a permanent marker unless you are going to hid or paint the pipe."
+                ]
+            }
+        },
+        {
+            "id": "3327467",
+            "user": "Glutted",
+            "timestamp": "22:00, 18 April 2009",
+            "anon": false,
+            "size": "(1,272 bytes)",
+            "change": 301,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Make Fake Rocks for Your Pond|How to Make Fake Rocks for Your Pond]]",
+                    "*[[Build a Backyard Pond|How to Build a Backyard Pond]]",
+                    "*[[Create a Water Playground for Small Children|How to Create a Water Playground for Small Children]]",
+                    "*[[Build a Frog Pond|How to Build a Frog Pond]]"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "3295042",
+            "user": "Ttrimm",
+            "timestamp": "02:28, 9 April 2009",
+            "anon": false,
+            "size": "(971 bytes)",
+            "change": -392,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "You bought a bender and some EMT pipe but none of your bends are turning out right. Here is a simple formula for the beginner.",
+                    "# We need to determine the height of the stub you are going to make. For this example we will use 24\".",
+                    "# Measure from the end of the pipe and make a mark at 24\".",
+                    "# Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  With even foot pressure pull the handle back till it reads 90 degrees on the bender.",
+                    "*Don't use a permanent marker unless you are going to hid or paint the pipe."
+                ],
+                "removed": [
+                    "You bought a bender and some EMT pipe but none of your bends are turnig out right. Here is a simple formula for the beginner.",
+                    "#  Typically you take a whole class on conduit bending along with some basic trigonometry classes. But I think I can have you turning out some halfway decent bends with these steps and a little practice. There are three basic types of bends. A 90 degree elbow, offset and a saddle. We will cover the 90 degree elbow on 1/2\" EMT using a hand bender in the article.",
+                    "#  1. We need to determine the height of the stub you are going to make. For this example we will use 24\".",
+                    "#  2. Measure from the end of the pipe and make a mark at 24\".",
+                    "#  3. Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  With even foot pressure pull the handle back till it reads 90 degress on the bender.",
+                    "*Dont use a permanent marker unless you are going to hid or paint the pipe.",
+                    "*Lots of practice"
+                ]
+            }
+        },
+        {
+            "id": "3140404",
+            "user": "Puddyyo",
+            "timestamp": "18:20, 22 February 2009",
+            "anon": false,
+            "size": "(1,363 bytes)",
+            "change": 42,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Water Features & Appliances]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "3137362",
+            "user": "Perryelec",
+            "timestamp": "21:06, 21 February 2009",
+            "anon": false,
+            "size": "(1,321 bytes)",
+            "change": -1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Typically you take a whole class on conduit bending along with some basic trigonometry classes. But I think I can have you turning out some halfway decent bends with these steps and a little practice. There are three basic types of bends. A 90 degree elbow, offset and a saddle. We will cover the 90 degree elbow on 1/2\" EMT using a hand bender in the article.",
+                    "#  1. We need to determine the height of the stub you are going to make. For this example we will use 24\"."
+                ],
+                "removed": [
+                    "#  Typically you take a whole class on conduit bending along with some basic trigonometry classes. But i think i can have you turning out some halfway decent bends with these steps and a little practice. There are three basic types of bends. A 90 degree elbow, offset and a saddle. We will cover the 90 degree elbow on 1/2\" EMT using a hand bender in the article.",
+                    "#  1. We need to determine the heighth of the stub you are going to make. For this example we will use 24\"."
+                ]
+            }
+        },
+        {
+            "id": "3137351",
+            "user": "Perryelec",
+            "timestamp": "21:03, 21 February 2009",
+            "anon": false,
+            "size": "(1,322 bytes)",
+            "change": 1322,
+            "summary": "(New page: You bought a bender and some EMT pipe but none of your bends are turnig out right. Here is a simple formula for the beginner. == Steps == #  Typically you take a whole class on conduit ben...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "You bought a bender and some EMT pipe but none of your bends are turnig out right. Here is a simple formula for the beginner.",
+                    "== Steps ==",
+                    "#  Typically you take a whole class on conduit bending along with some basic trigonometry classes. But i think i can have you turning out some halfway decent bends with these steps and a little practice. There are three basic types of bends. A 90 degree elbow, offset and a saddle. We will cover the 90 degree elbow on 1/2\" EMT using a hand bender in the article.",
+                    "#  1. We need to determine the heighth of the stub you are going to make. For this example we will use 24\".",
+                    "#  2. Measure from the end of the pipe and make a mark at 24\".",
+                    "#  3. Now we need to deduct our \"take up\" which on 1/2\" EMT is 5\"s. So deduct 5 inches from your 24\" and make a mark. Which will give you a measurement of 19 inches from the end you originally measured from.",
+                    "#  Now take your bender and slide it on the pipe with the foot pad facing the opposite side of the pipe you marked. Align the arrow on the bender to your second mark.",
+                    "#  With even foot pressure pull the handle back till it reads 90 degress on the bender.",
+                    "== Tips ==",
+                    "*Dont use a permanent marker unless you are going to hid or paint the pipe.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Tape measure",
+                    "*pencil",
+                    "*1/2\" EMT bender",
+                    "*a piece of EMT",
+                    "*Lots of practice"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

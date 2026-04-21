@@ -1,0 +1,428 @@
+{
+    "title": "Test-an-Outlet-with-a-Multimeter",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:31:12.962891",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33128658",
+            "user": "Seymour Edits",
+            "timestamp": "01:59, 7 February 2025",
+            "anon": false,
+            "size": "(7,477 bytes)",
+            "change": 1,
+            "summary": "(Added and replaced sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Insert 1 prong into the left side and 1 into the right side of the outlet. The multimeter should have 2 prongs, one red and one black. Insert 1 of them into the left side of the outlet and the other into the right side of the outlet.<ref>https://youtu.be/GwAFzY0anXQ?t=7</ref>[[Image:Test an Outlet with a Multimeter Step 3.jpg|center]]",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a [[Use-a-Digital-Multimeter|digital multimeter]], the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://youtu.be/GwAFzY0anXQ?t=10</ref>[[Image:Test an Outlet with a Multimeter Step 4.jpg|center]]",
+                    "#Switch on the multimeter and turn the dial to the AC setting. AC stands for alternating current and this setting measures the volts that an outlet is putting out.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref> Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, such as with an A followed by a squiggly line.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>[[Image:Test an Outlet with a Multimeter Step 5.jpg|center]]",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are in place, look at the screen or analog dial on your multimeter. The reading should be 0 or 0.001 volts. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://youtu.be/os2sWYz74h4?t=244</ref>[[Image:Test an Outlet with a Multimeter Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insert 1 prong into the left side and 1 into the right side of the outlet. The multimeter should have 2 prongs, one red and one black. Insert 1 of them into the left side of the outlet and the other into the right side of the outlet.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=65</ref>[[Image:Test an Outlet with a Multimeter Step 3.jpg|center]]",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a [[Use-a-Digital-Multimeter|digital multimeter]], the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>[[Image:Test an Outlet with a Multimeter Step 4.jpg|center]]",
+                    "#Switch on the multimeter and turn the dial to the AC setting. AC stands for alternating current and this setting measures the volts that an outlet is putting out. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, such as with an A followed by a squiggly line.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>[[Image:Test an Outlet with a Multimeter Step 5.jpg|center]]",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are in place, look at the screen or analog dial on your multimeter. The reading should be 0 or 0.001 volts. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>[[Image:Test an Outlet with a Multimeter Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32725701",
+            "user": "WikiHow Projects",
+            "timestamp": "12:53, 18 August 2024",
+            "anon": false,
+            "size": "(7,476 bytes)",
+            "change": 58,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Test an Outlet with a Multimeter|}}",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32476571",
+            "user": "WikiHow Projects",
+            "timestamp": "13:42, 1 May 2024",
+            "anon": false,
+            "size": "(7,418 bytes)",
+            "change": 83,
+            "summary": "(Adding internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Electricians and engineers regularly use multimeters to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to [[Use-a-Multimeter|use a multimeter]] to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe.",
+                    "#*It’s especially important to make sure that the multimeter is capable of [[Test-Voltage-with-a-Multimeter|testing the voltage]] of the outlet. If the voltage is too high for the multimeter to measure, you may break it by trying to measure it.",
+                    "#*Even though the prongs are different colors, it doesn’t matter which one you put into each side of the outlet. The colors only matter for [[Test-a-Circuit|testing circuits]] and other types of electrical currents.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>{{Greenbox: '''Warning''': Hold the prongs by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>}}",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a [[Use-a-Digital-Multimeter|digital multimeter]], the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>[[Image:Test an Outlet with a Multimeter Step 4.jpg|center]]"
+                ],
+                "removed": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe.",
+                    "#*It’s especially important to make sure that the multimeter is capable of testing the voltage of the outlet. If the voltage is too high for the multimeter to measure, you may break it by trying to measure it.",
+                    "#*Even though the prongs are different colors, it doesn’t matter which one you put into each side of the outlet. The colors only matter for testing circuits and other types of electrical currents.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>{{Greenbox: '''Warning''': Hold the prongs by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>}}",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a digital multimeter, the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>[[Image:Test an Outlet with a Multimeter Step 4.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32446909",
+            "user": "MiscBot",
+            "timestamp": "00:16, 19 April 2024",
+            "anon": false,
+            "size": "(7,335 bytes)",
+            "change": -53,
+            "summary": "(Celebrity Green boxes converted to use new format)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Pull the prongs out of the outlet and switch off the multimeter after you’re done checking the outlet.{{celebritygreenbox:162938|Testing outlets with a multimeter is a crucial safety step before any electrical work. Set the device to AC voltage mode and insert the leads correctly, with one prong in the hot slot and one in neutral. A normal reading is 110-120 volts. Abnormal readings indicate a wiring issue that must be addressed before proceeding, potentially preventing electrocution or fire.}}"
+                ],
+                "removed": [
+                    "#*Pull the prongs out of the outlet and switch off the multimeter after you’re done checking the outlet.{{celebritygreenbox:Mike Holt|Residential Wiring Specialist|Image:Mike Holt.png|Testing outlets with a multimeter is a crucial safety step before any electrical work. Set the device to AC voltage mode and insert the leads correctly, with one prong in the hot slot and one in neutral. A normal reading is 110-120 volts. Abnormal readings indicate a wiring issue that must be addressed before proceeding, potentially preventing electrocution or fire.}}"
+                ]
+            }
+        },
+        {
+            "id": "32233392",
+            "user": "WikiHow Projects",
+            "timestamp": "18:01, 24 January 2024",
+            "anon": false,
+            "size": "(7,388 bytes)",
+            "change": 450,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Pull the prongs out of the outlet and switch off the multimeter after you’re done checking the outlet.{{celebritygreenbox:Mike Holt|Residential Wiring Specialist|Image:Mike Holt.png|Testing outlets with a multimeter is a crucial safety step before any electrical work. Set the device to AC voltage mode and insert the leads correctly, with one prong in the hot slot and one in neutral. A normal reading is 110-120 volts. Abnormal readings indicate a wiring issue that must be addressed before proceeding, potentially preventing electrocution or fire.}}"
+                ],
+                "removed": [
+                    "#*Pull the prongs out of the outlet and switch off the multimeter after you’re done checking the outlet."
+                ]
+            }
+        },
+        {
+            "id": "32014263",
+            "user": "Agusbou2015",
+            "timestamp": "02:16, 20 October 2023",
+            "anon": false,
+            "size": "(6,938 bytes)",
+            "change": -13,
+            "summary": "(RCP reverted edits by 131.242.30.32 (talk) to  revision #31022504 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe."
+                ],
+                "removed": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you yeet a child can also check the casing of an outlet to make sure it’s safe."
+                ]
+            }
+        },
+        {
+            "id": "32014254",
+            "user": "131.242.30.32",
+            "timestamp": "02:12, 20 October 2023",
+            "anon": true,
+            "size": "(6,951 bytes)",
+            "change": 13,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you yeet a child can also check the casing of an outlet to make sure it’s safe."
+                ],
+                "removed": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe."
+                ]
+            }
+        },
+        {
+            "id": "31022504",
+            "user": "Votebot",
+            "timestamp": "08:54, 29 October 2022",
+            "anon": false,
+            "size": "(6,938 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    ""
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "30004918",
+            "user": "Votebot",
+            "timestamp": "08:55, 25 October 2021",
+            "anon": false,
+            "size": "(6,935 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    ""
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "28561465",
+            "user": "Kittyyy",
+            "timestamp": "09:04, 2 September 2020",
+            "anon": false,
+            "size": "(6,932 bytes)",
+            "change": 0,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "*If a fuse is broken, the circuit will read as an open line on a multimeter.<ref>[v161396_b01]. 6 May 2020.</ref>"
+                ],
+                "removed": [
+                    "*If a fuse is broken, the circuit will read as an open line on a mutlimeter.<ref>[v161396_b01]. 6 May 2020.</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28559780",
+            "user": "Seymour Edits",
+            "timestamp": "19:59, 1 September 2020",
+            "anon": false,
+            "size": "(6,932 bytes)",
+            "change": 113,
+            "summary": "(NCA edit.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Even though the prongs are different colors, it doesn’t matter which one you put into each side of the outlet. The colors only matter for testing circuits and other types of electrical currents.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>{{Greenbox: '''Warning''': Hold the prongs by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>}}",
+                    "*If a fuse is broken, the circuit will read as an open line on a mutlimeter.<ref>[v161396_b01]. 6 May 2020.</ref>",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "#*Even though the prongs are different colors, it doesn’t matter which one you put into each side of the outlet. The colors only matter for testing circuits and other types of electrical currents.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref> {{Greenbox: '''Warning''': Hold the prongs by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>}}",
+                    "__Methods__"
+                ]
+            }
+        },
+        {
+            "id": "27244341",
+            "user": "Wikivisual",
+            "timestamp": "06:11, 21 October 2019",
+            "anon": false,
+            "size": "(6,819 bytes)",
+            "change": 479,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Read the instructions that came with your multimeter before you use it. Even if you’ve used a multimeter before, the instructions of different models can vary and it’s important to read them to keep yourself safe. Read the instructions that came with your multimeter and check for specific information on how to safely test an outlet with the device.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>[[Image:Test an Outlet with a Multimeter Step 1.jpg|center]]",
+                    "#Turn on the multimeter and switch the dial to the AC setting. AC stands for alternating current and it is usually represented by an A with a squiggly line beside or above it, such as ~A or A~.<ref>https://sciencing.com/read-multimeter-settings-8563799.html</ref> Locate the power switch on the multimeter and switch it on. Then, turn the dial on the front of the multimeter to the AC setting. The dial may be clearly marked to indicate what the AC setting is, or you might need to check the manual if it uses symbols.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>[[Image:Test an Outlet with a Multimeter Step 2.jpg|center]]",
+                    "#Insert 1 prong into the left side and 1 into the right side of the outlet. The multimeter should have 2 prongs, one red and one black. Insert 1 of them into the left side of the outlet and the other into the right side of the outlet.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=65</ref>[[Image:Test an Outlet with a Multimeter Step 3.jpg|center]]",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a digital multimeter, the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>[[Image:Test an Outlet with a Multimeter Step 4.jpg|center]]",
+                    "#Switch on the multimeter and turn the dial to the AC setting. AC stands for alternating current and this setting measures the volts that an outlet is putting out. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, such as with an A followed by a squiggly line.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>[[Image:Test an Outlet with a Multimeter Step 5.jpg|center]]",
+                    "#Press the black prong against a screw or other metal part of the fixture. To ensure that no electricity is reaching the outside of your outlet, hold the black prong by the insulated part. Then, press the metal tip of the prong against a screw or another piece of metal on the outlet fixture.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=105</ref>[[Image:Test an Outlet with a Multimeter Step 6.jpg|center]]",
+                    "#Insert the red prong into the bottom hole of the outlet. Next, hold the red prong by the insulated part and insert the metal prong into the bottom hole of the outlet. This hole is round with 1 flat edge. If the hole is grounded as it should be, no electricity should come out of it.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=111</ref>{{Greenbox: '''Tip''': If you want, you can also check the left side of the socket while pressing the black prong against a screw. No electricity should come out of the left slot of your socket either. Only the right side of the socket should have an electrical current.}}[[Image:Test an Outlet with a Multimeter Step 7.jpg|center]]",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are in place, look at the screen or analog dial on your multimeter. The reading should be 0 or 0.001 volts. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>[[Image:Test an Outlet with a Multimeter Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Read the instructions that came with your multimeter before you use it. Even if you’ve used a multimeter before, the instructions of different models can vary and it’s important to read them to keep yourself safe. Read the instructions that came with your multimeter and check for specific information on how to safely test an outlet with the device.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>",
+                    "#Turn on the multimeter and switch the dial to the AC setting. AC stands for alternating current and it is usually represented by an A with a squiggly line beside or above it, such as ~A or A~.<ref>https://sciencing.com/read-multimeter-settings-8563799.html</ref> Locate the power switch on the multimeter and switch it on. Then, turn the dial on the front of the multimeter to the AC setting. The dial may be clearly marked to indicate what the AC setting is, or you might need to check the manual if it uses symbols.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#Insert 1 prong into the left side and 1 into the right side of the outlet. The multimeter should have 2 prongs, one red and one black. Insert 1 of them into the left side of the outlet and the other into the right side of the outlet.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=65</ref>",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a digital multimeter, the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>",
+                    "#Switch on the multimeter and turn the dial to the AC setting. AC stands for alternating current and this setting measures the volts that an outlet is putting out. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, such as with an A followed by a squiggly line.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#Press the black prong against a screw or other metal part of the fixture. To ensure that no electricity is reaching the outside of your outlet, hold the black prong by the insulated part. Then, press the metal tip of the prong against a screw or another piece of metal on the outlet fixture.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=105</ref>",
+                    "#Insert the red prong into the bottom hole of the outlet. Next, hold the red prong by the insulated part and insert the metal prong into the bottom hole of the outlet. This hole is round with 1 flat edge. If the hole is grounded as it should be, no electricity should come out of it.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=111</ref>{{Greenbox: '''Tip''': If you want, you can also check the left side of the socket while pressing the black prong against a screw. No electricity should come out of the left slot of your socket either. Only the right side of the socket should have an electrical current.}}",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are in place, look at the screen or analog dial on your multimeter. The reading should be 0 or 0.001 volts. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27000127",
+            "user": "Sophia B",
+            "timestamp": "16:19, 28 August 2019",
+            "anon": false,
+            "size": "(6,340 bytes)",
+            "change": 127,
+            "summary": "(added a warning)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*You can get a basic, inexpensive multimeter for around $20 USD.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>",
+                    "*Hold the prongs on the multimeter by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!"
+                ],
+                "removed": [
+                    "*You can get a basic, inexpensive multimeter for around $20USD.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26999371",
+            "user": "Jean17",
+            "timestamp": "12:26, 28 August 2019",
+            "anon": false,
+            "size": "(6,213 bytes)",
+            "change": 582,
+            "summary": "(revising for clarity)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. You might want to use a multimeter to check the voltage of an outlet and ensure that the casing is safe. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe.",
+                    "#Read the instructions that came with your multimeter before you use it. Even if you’ve used a multimeter before, the instructions of different models can vary and it’s important to read them to keep yourself safe. Read the instructions that came with your multimeter and check for specific information on how to safely test an outlet with the device.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>",
+                    "#Turn on the multimeter and switch the dial to the AC setting. AC stands for alternating current and it is usually represented by an A with a squiggly line beside or above it, such as ~A or A~.<ref>https://sciencing.com/read-multimeter-settings-8563799.html</ref> Locate the power switch on the multimeter and switch it on. Then, turn the dial on the front of the multimeter to the AC setting. The dial may be clearly marked to indicate what the AC setting is, or you might need to check the manual if it uses symbols.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*A typical reading for a household outlet in the United States is 120 volts. However, if it’s lower or higher, the outlet may be malfunctioning.",
+                    "#Switch on the multimeter and turn the dial to the AC setting. AC stands for alternating current and this setting measures the volts that an outlet is putting out. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, such as with an A followed by a squiggly line.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*Look at your multimeter’s instruction manual if you are not sure how to turn it on or select the AC setting.",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are in place, look at the screen or analog dial on your multimeter. The reading should be 0 or 0.001 volts. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>"
+                ],
+                "removed": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe.",
+                    "#Read the instructions that came with your multimeter before you use it. Even if you’ve used a multimeter before, the instructions of different models can vary. Read the instructions that came with your multimeter and check for specific information on how to test an outlet with the device.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>",
+                    "#Turn on the multimeter and turn the dial to the AC setting. Locate the power switch on the multimeter and switch it on. Then, turn the dial on the front of the multimeter to the AC setting. The dial may be clearly marked to indicate what the AC setting is, or you might need to check the manual if it uses symbols.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*A typical reading for a household outlet in the United States is 120 volts.",
+                    "#Switch on the multimeter and turn the dial to the AC setting. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, or you might need to check the user’s manual.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*Look at your multimeter’s instruction manual if you are not sure how to turn it on.",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are both in place, look at the screen on your multimeter. The reading should be 0 or 0.001. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26982595",
+            "user": "JayneG",
+            "timestamp": "23:23, 23 August 2019",
+            "anon": false,
+            "size": "(5,631 bytes)",
+            "change": 24,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*A typical reading for a household outlet in the United States is 120 volts.",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are both in place, look at the screen on your multimeter. The reading should be 0 or 0.001. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electrocution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>",
+                    "*You can get a basic, inexpensive multimeter for around $20USD.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>"
+                ],
+                "removed": [
+                    "#*A typical reading for a household outlet is 120 volts.",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are both in place, look at the screen on your multimeter. The reading should be 0 or 0.001. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electricution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>",
+                    "*You can get a basic, inexpensive multimeter for around $20.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26981540",
+            "user": "Jean17",
+            "timestamp": "16:10, 23 August 2019",
+            "anon": false,
+            "size": "(5,607 bytes)",
+            "change": 5607,
+            "summary": "(created article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Electricians and engineers regularly [[Use-a-Multimeter|use multimeters]] to check the voltage of circuits. However, these handy tools are now widely available and affordable enough for anyone to buy one. To test an outlet with a multimeter, read the instructions that came with your device first and be careful not to touch the metal prongs. If you do, you could be electrocuted. The process of checking an outlet’s voltage is quick and easy, and you can also check the casing of an outlet to make sure it’s safe.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "==Steps==",
+                    "===Checking the Voltage of an Outlet’s Sockets===",
+                    "#Read the instructions that came with your multimeter before you use it. Even if you’ve used a multimeter before, the instructions of different models can vary. Read the instructions that came with your multimeter and check for specific information on how to test an outlet with the device.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>",
+                    "#*It’s especially important to make sure that the multimeter is capable of testing the voltage of the outlet. If the voltage is too high for the multimeter to measure, you may break it by trying to measure it.",
+                    "#Turn on the multimeter and turn the dial to the AC setting. Locate the power switch on the multimeter and switch it on. Then, turn the dial on the front of the multimeter to the AC setting. The dial may be clearly marked to indicate what the AC setting is, or you might need to check the manual if it uses symbols.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*Check your multimeter’s manual if you are unsure of how to turn it on.",
+                    "#Insert 1 prong into the left side and 1 into the right side of the outlet. The multimeter should have 2 prongs, one red and one black. Insert 1 of them into the left side of the outlet and the other into the right side of the outlet.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=65</ref>",
+                    "#*Even though the prongs are different colors, it doesn’t matter which one you put into each side of the outlet. The colors only matter for testing circuits and other types of electrical currents.<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref> {{Greenbox: '''Warning''': Hold the prongs by the insulated parts only. Do not touch the metal parts or you may electrocute yourself!<ref>https://www.bobvila.com/articles/how-to-use-a-multimeter/</ref>}}",
+                    "#Check the reading on the multimeter to determine the outlet’s voltage. Once the prongs are in place, look at the front of the multimeter. If it’s a digital multimeter, the number will be displayed clearly on the screen. If it’s an analog multimeter, look at where the needle is pointing to get the reading.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=72</ref>",
+                    "#*A typical reading for a household outlet is 120 volts.",
+                    "#*Pull the prongs out of the outlet and switch off the multimeter after you’re done checking the outlet.",
+                    "===Ensuring that the Casing is Grounded===",
+                    "#Switch on the multimeter and turn the dial to the AC setting. Find the power switch on your multimeter and switch it on. Then, locate the dial on the front of the multimeter and turn it to the AC setting. The dial may be marked to indicate the AC setting, or you might need to check the user’s manual.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=30</ref>",
+                    "#*Look at your multimeter’s instruction manual if you are not sure how to turn it on.",
+                    "#Press the black prong against a screw or other metal part of the fixture. To ensure that no electricity is reaching the outside of your outlet, hold the black prong by the insulated part. Then, press the metal tip of the prong against a screw or another piece of metal on the outlet fixture.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=105</ref>",
+                    "#*Do not touch the metal prong at any point while you’re doing this!",
+                    "#Insert the red prong into the bottom hole of the outlet. Next, hold the red prong by the insulated part and insert the metal prong into the bottom hole of the outlet. This hole is round with 1 flat edge. If the hole is grounded as it should be, no electricity should come out of it.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=111</ref>{{Greenbox: '''Tip''': If you want, you can also check the left side of the socket while pressing the black prong against a screw. No electricity should come out of the left slot of your socket either. Only the right side of the socket should have an electrical current.}}",
+                    "#Look for a reading of 0.001 on the multimeter screen. Once the red prong and the black prong are both in place, look at the screen on your multimeter. The reading should be 0 or 0.001. This indicates that no electricity is reaching the outside of the outlet and it is well grounded. If the number is higher than this, the casing is a potential electricution hazard. Call an electrician for assistance.<ref>https://www.youtube.com/watch?v=cXlVVgsp64c&feature=youtu.be&t=115</ref>",
+                    "#*Remove the prongs from the outlet and switch off the multimeter when you’re done.",
+                    "==Tips==",
+                    "*You can get a basic, inexpensive multimeter for around $20.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>",
+                    "==Warnings==",
+                    "*Although multimeters are easy to use, it’s important to exercise caution when using your multimeter. Using it improperly may lead to injury or damage the multimeter.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/</ref>",
+                    "==References==",
+                    "{{reflist}}",
+                    "__Methods__"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "discussions": []
+}

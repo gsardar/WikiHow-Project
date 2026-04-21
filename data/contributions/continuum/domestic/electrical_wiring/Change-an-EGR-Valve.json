@@ -1,0 +1,1131 @@
+{
+    "title": "Change-an-EGR-Valve",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:24:38.556486",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "29615248",
+            "user": "Chris H",
+            "timestamp": "17:54, 1 June 2021",
+            "anon": false,
+            "size": "(9,069 bytes)",
+            "change": -40,
+            "summary": "(Promoting article to fully published status. Disagree? Contact me or leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[Category:Articles in Quality Review]]"
+                ]
+            }
+        },
+        {
+            "id": "29452958",
+            "user": "Chris H",
+            "timestamp": "21:01, 15 April 2021",
+            "anon": false,
+            "size": "(9,109 bytes)",
+            "change": 40,
+            "summary": "(Moving article to quality review. Disagree? Contact me or leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Articles in Quality Review]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28065195",
+            "user": "WikiHow Projects",
+            "timestamp": "08:56, 3 May 2020",
+            "anon": false,
+            "size": "(9,069 bytes)",
+            "change": -100,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Let your engine cool. Wait for several hours before you begin working on your vehicle. You can injure yourself very easily while working on a hot engine so let it set a few hours.[[Image:Change an EGR Valve Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Let your engine cool. Wait for several hours before you begin working on your vehicle. You can injure yourself very easily while working on a hot engine so let it set a few hours.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>[[Image:Change an EGR Valve Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27783523",
+            "user": "WikiHow Projects",
+            "timestamp": "10:51, 27 February 2020",
+            "anon": false,
+            "size": "(9,169 bytes)",
+            "change": -108,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Disconnect the vacuum line. Twist and pull each line until they slide off the EGR valve. Each line connects with a specific port. Label each one so that you can easily reconnect them. [[Image:Change an EGR Valve Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Disconnect the vacuum line. Twist and pull each line until they slide off the EGR valve. Each line connects with a specific port. Label each one so that you can easily reconnect them. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>[[Image:Change an EGR Valve Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26263344",
+            "user": "MiscBot",
+            "timestamp": "00:15, 29 March 2019",
+            "anon": false,
+            "size": "(9,277 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25501080",
+            "user": "Seymour Edits",
+            "timestamp": "02:18, 29 October 2018",
+            "anon": false,
+            "size": "(9,288 bytes)",
+            "change": 138,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Change-an-EGR-Valve}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "20237155",
+            "user": "Lojjik",
+            "timestamp": "00:48, 17 May 2016",
+            "anon": false,
+            "size": "(9,150 bytes)",
+            "change": 173,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*New EGR valve for your vehicle (if you don't know the part #, an auto parts store or website can help you find it)",
+                    "*OBD2 scan tool (for vehicles built 1996 and later)",
+                    "*Multimeter (auto-ranging is preferred)",
+                    "*Flat-blade screwdriver"
+                ],
+                "removed": [
+                    "*EGR valve",
+                    "*Scan Tool",
+                    "*Multimeter",
+                    "*Flat-bladed Screwdriver"
+                ]
+            }
+        },
+        {
+            "id": "18451168",
+            "user": "Votebot",
+            "timestamp": "08:07, 17 September 2015",
+            "anon": false,
+            "size": "(8,977 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "16641052",
+            "user": "WikiHow Intern",
+            "timestamp": "05:50, 13 February 2015",
+            "anon": false,
+            "size": "(8,975 bytes)",
+            "change": -4,
+            "summary": "(order)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "==Tips==",
+                    "*Consult your owner’s manual and write down the security code for your car’s radio, disc player, or display device. Disconnecting the battery will cause the radio to reset and lock, and you will need this code to unlock it.",
+                    "*Always wear safety glasses when working near your car.",
+                    "==Things You'll Need=="
+                ],
+                "removed": [
+                    "==Thing’s You'll Need==",
+                    "",
+                    "==Tips==",
+                    "*Consult your owner’s manual and write down the security code for your car’s radio, disc player, or display device. Disconnecting the battery will cause the radio to reset and lock, and you will need this code to unlock it.",
+                    "*Always wear safety glasses when working near your car."
+                ]
+            }
+        },
+        {
+            "id": "16533913",
+            "user": "WikiHow Intern",
+            "timestamp": "10:10, 3 February 2015",
+            "anon": false,
+            "size": "(8,979 bytes)",
+            "change": -102,
+            "summary": "(removing broken link)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Consult your owner’s manual and write down the security code for your car’s radio, disc player, or display device. Disconnecting the battery will cause the radio to reset and lock, and you will need this code to unlock it."
+                ],
+                "removed": [
+                    "*Consult your owner’s manual and write down the security code for your car’s radio, disc player, or display device. Disconnecting the battery will cause the radio to reset and lock, and you will need this code to unlock it.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16338100",
+            "user": "Wikivisual",
+            "timestamp": "16:40, 9 January 2015",
+            "anon": false,
+            "size": "(9,081 bytes)",
+            "change": 1235,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Use a car scan to test the EGR valve. A scan tool reads information from your On-board Diagnostics, version II (OBD-II) system. This system collects information from the sensors in your engine. If the sensor detects something wrong, it reports it as an error code to the OBD-II. A scan tool allows you to read this code. The scan tool plugs into OBD-II data link connector, which is usually located under the dash.<ref>http://www.popularmechanics.com/cars/how-to/maintenance/4267896</ref>[[Image:Change an EGR Valve Step 1.jpg|center]]",
+                    "#Locate the OBD-II data connector. The most common location for the OBD-II connector is under the dash by the steering wheel. The owner's manual should have the exact location if you have trouble finding it.[[Image:Change an EGR Valve Step 2.jpg|center]]",
+                    "#Turn the ignition to the on position. Place your key in the ignition and turn it to on, but do not start the engine. You only want the electrical systems running.[[Image:Change an EGR Valve Step 3.jpg|center]]",
+                    "#Connect the scan tool to the OBD-II data link connector. The scan tool will prompt you to fill in some information about your vehicle. It usually requires information about the make, model, engine, and year of the vehicle.[[Image:Change an EGR Valve Step 4.jpg|center]]",
+                    "#Read the results. The scan tool will display any error codes the OBD-II reports. If the result is in the P0400 to PR409 range, then the EGR valve may be faulty.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>[[Image:Change an EGR Valve Step 5.jpg|center]]",
+                    "#Use a multimeter to test the EGR valve. A multimeter tests the electrical wiring in your vehicle. The multimeter has a few settings, but you only need to set it to Volts for this test. The multimeter has black (negative) and red (positive) leads with metal clamps that connect to the wiring in your engine.<ref>http://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all</ref>[[Image:Change an EGR Valve Step 6.jpg|center]]",
+                    "#Set the multimeter to read Volts.  A large “V” denotes the voltage setting. The range for the volts is located between two bold lines.[[Image:Change an EGR Valve Step 7.jpg|center]]",
+                    "#Find the EGR valve. Consult your owner’s manual to find the exact location of the valve as it varies depending on the make and model of your vehicle. Once you have located the valve, look for an electrical connector on top of it. This connector will have the circuits you need to test.[[Image:Change an EGR Valve Step 8.jpg|center]]",
+                    "#Clip the multimeter’s read lead onto the “C” circuit. Each circuit on the EGR is labeled from \"A\" to \"E.\" <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>[[Image:Change an EGR Valve Step 9.jpg|center]]",
+                    "#Clip the multimeter's negative lead to a ground in the engine. The easiest and closest ground is the negative post on the vehicle’s battery.[[Image:Change an EGR Valve Step 10.jpg|center]]",
+                    "#Look the readings. If the results on the multimeter show a reading above .9 Volts, then something (most likely carbon) is blocking the EGR valve. If the multimeter shows little or no voltage, then the EGR valve is most likely faulty. If the reading is between .6 and .9 Volts, then this means the EGR valve is working properly.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>[[Image:Change an EGR Valve Step 11.jpg|center]]",
+                    "#Purchase the correct EGR valve for the make and model of your vehicle. Check with your owner’s manual to find the right one. If you cannot find the correct EGR there, check a parts manual or with an associate at an auto parts stores.<ref>http://www.ebay.com/gds/How-to-Replace-EGR-Components-/10000000178532985/g.html</ref>[[Image:Change an EGR Valve Step 12.jpg|center]]",
+                    "#Let your engine cool. Wait for several hours before you begin working on your vehicle. You can injure yourself very easily while working on a hot engine so let it set a few hours.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>[[Image:Change an EGR Valve Step 13.jpg|center]]",
+                    "#Disconnect the battery. Use a wrench to loosen the clamps on the battery’s two terminals. Be sure to wait at least 5 minutes after disconnecting the battery before you begin working on the engine. You want the system to discharge completely.[[Image:Change an EGR Valve Step 14.jpg|center]]",
+                    "#Locate the EGR. The EGR is usually located on either the top or backside of the engine. Consult your owner’s manual if you need help finding it.[[Image:Change an EGR Valve Step 15.jpg|center]]",
+                    "#Disconnect the vacuum line. Twist and pull each line until they slide off the EGR valve. Each line connects with a specific port. Label each one so that you can easily reconnect them. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>[[Image:Change an EGR Valve Step 16.jpg|center]]",
+                    "#Disconnect the electrical cable. The electrical cable is located on top of the EGR valve. Grab the electrical cable with your hands and pull it.[[Image:Change an EGR Valve Step 17.jpg|center]]",
+                    "#Use a wrench to remove the bolts on the EGR valve's mount. Use lubricant spray on the bolts because they are usually very tight.[[Image:Change an EGR Valve Step 18.jpg|center]]",
+                    "#Take out the old EGR valve. Now that you removed the bolts, use your hands to remove the valve from its mount.[[Image:Change an EGR Valve Step 19.jpg|center]]",
+                    "#Clean the valve base and passages. Use a scratch awl or something similar to remove any carbon buildup. Clean any debris or building in the gasket case.[[Image:Change an EGR Valve Step 20.jpg|center]]",
+                    "#Install the new EGR valve. Thread the bolts through the EGR and gasket onto the mount with your hands first. Then use a socket wrench with a swivel extension to tighten the mounting bolts when you seat the EGR valve in the engine.[[Image:Change an EGR Valve Step 21.jpg|center]]",
+                    "#Reconnect the electrical cable. Plug the cable back into the top of the EGR valve using your hands.[[Image:Change an EGR Valve Step 22.jpg|center]]",
+                    "#Hook up the vacuum line. Reattach the line with using your hands. Make sure that it’s tight to prevent leaks.[[Image:Change an EGR Valve Step 23.jpg|center]]",
+                    "#Reconnect the battery. Attach the engine leads to the battery terminals. Use a wrench to tighten the bolts.[[Image:Change an EGR Valve Step 24.jpg|center]]",
+                    "#Clear your scan tool. If you used a scan tool to test your EGR valve, clear any error codes related to the valve. Then test again to see if any error codes appear.[[Image:Change an EGR Valve Step 25.jpg|center]]",
+                    "#Listen for leaks. Start your engine and listen for any leaks near the EGR valve. The two possible places leaks might occur will be with the vacuum hose or exhaust. Drive the vehicle to make sure that it runs correctly. Pay close attention to the idling and gas mileage of your vehicle as poor performance in these areas indicate that the EGR valve is faulty.[[Image:Change an EGR Valve Step 26.jpg|center]]"
+                ],
+                "removed": [
+                    "#Use a car scan to test the EGR valve. A scan tool reads information from your On-board Diagnostics, version II (OBD-II) system. This system collects information from the sensors in your engine. If the sensor detects something wrong, it reports it as an error code to the OBD-II. A scan tool allows you to read this code. The scan tool plugs into OBD-II data link connector, which is usually located under the dash.<ref>http://www.popularmechanics.com/cars/how-to/maintenance/4267896</ref>",
+                    "#Locate the OBD-II data connector. The most common location for the OBD-II connector is under the dash by the steering wheel. The owner's manual should have the exact location if you have trouble finding it.",
+                    "#Turn the ignition to the on position. Place your key in the ignition and turn it to on, but do not start the engine. You only want the electrical systems running.",
+                    "#Connect the scan tool to the OBD-II data link connector. The scan tool will prompt you to fill in some information about your vehicle. It usually requires information about the make, model, engine, and year of the vehicle.",
+                    "#Read the results. The scan tool will display any error codes the OBD-II reports. If the result is in the P0400 to PR409 range, then the EGR valve may be faulty.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>",
+                    "#Use a multimeter to test the EGR valve. A multimeter tests the electrical wiring in your vehicle. The multimeter has a few settings, but you only need to set it to Volts for this test. The multimeter has black (negative) and red (positive) leads with metal clamps that connect to the wiring in your engine.<ref>http://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all</ref>",
+                    "#Set the multimeter to read Volts.  A large “V” denotes the voltage setting. The range for the volts is located between two bold lines.",
+                    "#Find the EGR valve. Consult your owner’s manual to find the exact location of the valve as it varies depending on the make and model of your vehicle. Once you have located the valve, look for an electrical connector on top of it. This connector will have the circuits you need to test.",
+                    "#Clip the multimeter’s read lead onto the “C” circuit. Each circuit on the EGR is labeled from \"A\" to \"E.\" <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "#Clip the multimeter's negative lead to a ground in the engine. The easiest and closest ground is the negative post on the vehicle’s battery.",
+                    "#Look the readings. If the results on the multimeter show a reading above .9 Volts, then something (most likely carbon) is blocking the EGR valve. If the multimeter shows little or no voltage, then the EGR valve is most likely faulty. If the reading is between .6 and .9 Volts, then this means the EGR valve is working properly.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "#Purchase the correct EGR valve for the make and model of your vehicle. Check with your owner’s manual to find the right one. If you cannot find the correct EGR there, check a parts manual or with an associate at an auto parts stores.<ref>http://www.ebay.com/gds/How-to-Replace-EGR-Components-/10000000178532985/g.html</ref>",
+                    "#Let your engine cool. Wait for several hours before you begin working on your vehicle. You can injure yourself very easily while working on a hot engine so let it set a few hours.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#Disconnect the battery. Use a wrench to loosen the clamps on the battery’s two terminals. Be sure to wait at least 5 minutes after disconnecting the battery before you begin working on the engine. You want the system to discharge completely.",
+                    "#Locate the EGR. The EGR is usually located on either the top or backside of the engine. Consult your owner’s manual if you need help finding it.",
+                    "#Disconnect the vacuum line. Twist and pull each line until they slide off the EGR valve. Each line connects with a specific port. Label each one so that you can easily reconnect them. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Disconnect the electrical cable. The electrical cable is located on top of the EGR valve. Grab the electrical cable with your hands and pull it.",
+                    "#Use a wrench to remove the bolts on the EGR valve's mount. Use lubricant spray on the bolts because they are usually very tight.",
+                    "#Take out the old EGR valve. Now that you removed the bolts, use your hands to remove the valve from its mount.",
+                    "#Clean the valve base and passages. Use a scratch awl or something similar to remove any carbon buildup. Clean any debris or building in the gasket case.",
+                    "#Install the new EGR valve. Thread the bolts through the EGR and gasket onto the mount with your hands first. Then use a socket wrench with a swivel extension to tighten the mounting bolts when you seat the EGR valve in the engine.",
+                    "#Reconnect the electrical cable. Plug the cable back into the top of the EGR valve using your hands.",
+                    "#Hook up the vacuum line. Reattach the line with using your hands. Make sure that it’s tight to prevent leaks.",
+                    "#Reconnect the battery. Attach the engine leads to the battery terminals. Use a wrench to tighten the bolts.",
+                    "#Clear your scan tool. If you used a scan tool to test your EGR valve, clear any error codes related to the valve. Then test again to see if any error codes appear.",
+                    "#Listen for leaks. Start your engine and listen for any leaks near the EGR valve. The two possible places leaks might occur will be with the vacuum hose or exhaust. Drive the vehicle to make sure that it runs correctly. Pay close attention to the idling and gas mileage of your vehicle as poor performance in these areas indicate that the EGR valve is faulty."
+                ]
+            }
+        },
+        {
+            "id": "16171137",
+            "user": "Painis_Cupcake_IWEY",
+            "timestamp": "15:18, 17 December 2014",
+            "anon": false,
+            "size": "(7,846 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase the correct EGR valve for the make and model of your vehicle. Check with your owner’s manual to find the right one. If you cannot find the correct EGR there, check a parts manual or with an associate at an auto parts stores.<ref>http://www.ebay.com/gds/How-to-Replace-EGR-Components-/10000000178532985/g.html</ref>"
+                ],
+                "removed": [
+                    "#Purchase the correct EGR valve for the make and model of your vehicle. Check with your owner’s manual to find the right one. If you cannot find the correct EGR there, check a parts manual or with an associate at an autoparts stores.<ref>http://www.ebay.com/gds/How-to-Replace-EGR-Components-/10000000178532985/g.html</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16158620",
+            "user": "Chris H",
+            "timestamp": "23:33, 15 December 2014",
+            "anon": false,
+            "size": "(7,845 bytes)",
+            "change": -102,
+            "summary": "(remove dead link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Disconnect the battery. Use a wrench to loosen the clamps on the battery’s two terminals. Be sure to wait at least 5 minutes after disconnecting the battery before you begin working on the engine. You want the system to discharge completely."
+                ],
+                "removed": [
+                    "#Disconnect the battery. Use a wrench to loosen the clamps on the battery’s two terminals. Be sure to wait at least 5 minutes after disconnecting the battery before you begin working on the engine. You want the system to discharge completely.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16158477",
+            "user": "Chris H",
+            "timestamp": "23:23, 15 December 2014",
+            "anon": false,
+            "size": "(7,947 bytes)",
+            "change": 4,
+            "summary": "(not all codes definitely show a problem with EGR valve)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Read the results. The scan tool will display any error codes the OBD-II reports. If the result is in the P0400 to PR409 range, then the EGR valve may be faulty.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>"
+                ],
+                "removed": [
+                    "#Read the results. The scan tool will display any error codes the OBD-II reports. If the result is in the P0400 to PR409 range, then the EGR valve is faulty.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16109485",
+            "user": "Kasc1996",
+            "timestamp": "23:15, 9 December 2014",
+            "anon": false,
+            "size": "(7,943 bytes)",
+            "change": 27,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Engine Parts]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "16109183",
+            "user": "Seymour Edits",
+            "timestamp": "22:16, 9 December 2014",
+            "anon": false,
+            "size": "(7,916 bytes)",
+            "change": 0,
+            "summary": "(→‎Thing’s You\"ll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "==Thing’s You'll Need=="
+                ],
+                "removed": [
+                    "==Thing’s You\"ll Need=="
+                ]
+            }
+        },
+        {
+            "id": "16109155",
+            "user": "Seymour Edits",
+            "timestamp": "22:09, 9 December 2014",
+            "anon": false,
+            "size": "(7,916 bytes)",
+            "change": 3,
+            "summary": "(→‎Thing’s You Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "==Thing’s You\"ll Need=="
+                ],
+                "removed": [
+                    "==Thing’s You Need=="
+                ]
+            }
+        },
+        {
+            "id": "16109135",
+            "user": "Seymour Edits",
+            "timestamp": "22:04, 9 December 2014",
+            "anon": false,
+            "size": "(7,913 bytes)",
+            "change": -190,
+            "summary": "(expanded steps, added better sources)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Most vehicles are now equipped with an Exhaust Gas Recirculation (EGR) valve to reduce emissions. Several symptoms can point to EGR valve problems: failed emissions test, poor idling, or random changes in engine speed. There are a few methods for testing an EGR if you’re unsure that it’s defective. If the EGR is faulty, it takes only a few steps and tools to replace it.",
+                    "#Use a car scan to test the EGR valve. A scan tool reads information from your On-board Diagnostics, version II (OBD-II) system. This system collects information from the sensors in your engine. If the sensor detects something wrong, it reports it as an error code to the OBD-II. A scan tool allows you to read this code. The scan tool plugs into OBD-II data link connector, which is usually located under the dash.<ref>http://www.popularmechanics.com/cars/how-to/maintenance/4267896</ref>",
+                    "#Locate the OBD-II data connector. The most common location for the OBD-II connector is under the dash by the steering wheel. The owner's manual should have the exact location if you have trouble finding it.",
+                    "#Turn the ignition to the on position. Place your key in the ignition and turn it to on, but do not start the engine. You only want the electrical systems running.",
+                    "#Connect the scan tool to the OBD-II data link connector. The scan tool will prompt you to fill in some information about your vehicle. It usually requires information about the make, model, engine, and year of the vehicle.",
+                    "#*Most scan tools draw power from the vehicle’s battery and do not require a separate power source.",
+                    "#Read the results. The scan tool will display any error codes the OBD-II reports. If the result is in the P0400 to PR409 range, then the EGR valve is faulty.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>",
+                    "#Use a multimeter to test the EGR valve. A multimeter tests the electrical wiring in your vehicle. The multimeter has a few settings, but you only need to set it to Volts for this test. The multimeter has black (negative) and red (positive) leads with metal clamps that connect to the wiring in your engine.<ref>http://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all</ref>",
+                    "#*It’s recommended that you use a digital multimeter for this test. A digital multimeter will display only the test results. An analog multimeter will be harder to read because every possible result on its range is printed at the top.",
+                    "#Set the multimeter to read Volts.  A large “V” denotes the voltage setting. The range for the volts is located between two bold lines.",
+                    "#Find the EGR valve. Consult your owner’s manual to find the exact location of the valve as it varies depending on the make and model of your vehicle. Once you have located the valve, look for an electrical connector on top of it. This connector will have the circuits you need to test.",
+                    "#Clip the multimeter’s read lead onto the “C” circuit. Each circuit on the EGR is labeled from \"A\" to \"E.\" <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "#Clip the multimeter's negative lead to a ground in the engine. The easiest and closest ground is the negative post on the vehicle’s battery.",
+                    "#Look the readings. If the results on the multimeter show a reading above .9 Volts, then something (most likely carbon) is blocking the EGR valve. If the multimeter shows little or no voltage, then the EGR valve is most likely faulty. If the reading is between .6 and .9 Volts, then this means the EGR valve is working properly.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "===Replacing The EGR===",
+                    "#Purchase the correct EGR valve for the make and model of your vehicle. Check with your owner’s manual to find the right one. If you cannot find the correct EGR there, check a parts manual or with an associate at an autoparts stores.<ref>http://www.ebay.com/gds/How-to-Replace-EGR-Components-/10000000178532985/g.html</ref>",
+                    "#Let your engine cool. Wait for several hours before you begin working on your vehicle. You can injure yourself very easily while working on a hot engine so let it set a few hours.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#Disconnect the battery. Use a wrench to loosen the clamps on the battery’s two terminals. Be sure to wait at least 5 minutes after disconnecting the battery before you begin working on the engine. You want the system to discharge completely.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "#*Always wear the appropriate safety gear before working on your engine.",
+                    "#Locate the EGR. The EGR is usually located on either the top or backside of the engine. Consult your owner’s manual if you need help finding it.",
+                    "#Disconnect the vacuum line. Twist and pull each line until they slide off the EGR valve. Each line connects with a specific port. Label each one so that you can easily reconnect them. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Disconnect the electrical cable. The electrical cable is located on top of the EGR valve. Grab the electrical cable with your hands and pull it.",
+                    "#*If the electrical cable is held in by a clip or clamp, use a flat-bladed screwdriver to press it down and release it.",
+                    "#Use a wrench to remove the bolts on the EGR valve's mount. Use lubricant spray on the bolts because they are usually very tight.",
+                    "#Take out the old EGR valve. Now that you removed the bolts, use your hands to remove the valve from its mount.",
+                    "#*Inspect the valve for signs of carbon buildup. Sometimes this buildup causes the valve to malfunction. If you find buildup, clean it off and reinstall the valve. Test the valve again to see if it works after cleaning it.",
+                    "#Clean the valve base and passages. Use a scratch awl or something similar to remove any carbon buildup. Clean any debris or building in the gasket case.",
+                    "#*Use carburetor or intake cleaner to help remove the carbon.",
+                    "#Install the new EGR valve. Thread the bolts through the EGR and gasket onto the mount with your hands first. Then use a socket wrench with a swivel extension to tighten the mounting bolts when you seat the EGR valve in the engine.",
+                    "#*When purchasing a new valve, see if it comes with a new gasket. You will have to purchase one if it doesn’t.",
+                    "#Reconnect the electrical cable. Plug the cable back into the top of the EGR valve using your hands.",
+                    "#Hook up the vacuum line. Reattach the line with using your hands. Make sure that it’s tight to prevent leaks.",
+                    "#Reconnect the battery. Attach the engine leads to the battery terminals. Use a wrench to tighten the bolts.",
+                    "#Clear your scan tool. If you used a scan tool to test your EGR valve, clear any error codes related to the valve. Then test again to see if any error codes appear.",
+                    "#Listen for leaks. Start your engine and listen for any leaks near the EGR valve. The two possible places leaks might occur will be with the vacuum hose or exhaust. Drive the vehicle to make sure that it runs correctly. Pay close attention to the idling and gas mileage of your vehicle as poor performance in these areas indicate that the EGR valve is faulty.",
+                    "",
+                    "",
+                    "*Lubricant Spray",
+                    "*Socket Wrench with swivel extension",
+                    "*EGR valve",
+                    "*Scan Tool",
+                    "*Multimeter",
+                    "*Scratch awl",
+                    "*Flat-bladed Screwdriver",
+                    "",
+                    "*Consult your owner’s manual and write down the security code for your car’s radio, disc player, or display device. Disconnecting the battery will cause the radio to reset and lock, and you will need this code to unlock it.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    ""
+                ],
+                "removed": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. Several symptoms can point to EGR valve problems: failed emissions test, poor idling, or random changes in engine speed. There are a few methods for testing an EGR if you’re unsure that it’s defective. If the EGR is faulty, it takes only a few steps and tools to replace it.",
+                    "[[Category:Car Maintenance and Repair]]",
+                    "",
+                    "#Use a car scan tool. A car code reader/scanner tool reads information from your On-board Diagnostics, version II (OBD-II). The OBD-II system collects information from the sensors in your car. If one of these sensors reports that something is malfunctioning, then you can connect a scan tool to the OBD-II to the find the error. While code readers and scanners used to be expensive and specific to one manufacturer, there are now universal code scan tools that are affordable. The scan tool plugs into the OBD data link connector, which is usually located under the dash. Once connected, the tool displays any trouble codes. If your EGR is faulty, then the scan tool will display the corresponding codes. (PCM).<ref>http://www.popularmechanics.com/cars/how-to/maintenance/4267896</ref>",
+                    "#Find the OBD-II data link connector. This is usually located under the dash near the steering wheel. Consult your owner’s manual for location if you have trouble locating it.",
+                    "#Place your key in the ignition and turn it to the on position. Do not start the engine.",
+                    "#Plug the scan tool into the OBD data link connector. The scan tool will ask for specific information about your car such as the vehicle information number, the vehicle's make and model, and the engine type.",
+                    "#*Most scan tools will draw power from the car’s battery and do not require their own power source.",
+                    "#Check the trouble code. The scan tool will give you an option to look at the trouble codes. Section this option and read the results. The EGR fault codes range from P0400 to PR409.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>",
+                    "#Grab a multimeter. A multimeter is a black box of electronic circuitry used to test electrical wiring or devices. There is a large dial in the center of the multimeter where you can adjust the settings. The multimeter uses black (negative) and red (positive) leads to test electrical currency and resistance. These leads usually have metal clamps at the end of them. While the multimeter can seem daunting because of its many numbers and dials, you only need to use one setting for this test.<ref>http://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all</ref>",
+                    "#*It is best to use a digital multimeter for this test. A digital multimeter shows the exact number result of the test. An analog multimeter is harder to read because every possible result is listed at the top.",
+                    "#Set your multimeter to volts. A large “V” denotes the voltage setting. The range for volts is located between two large, bolded lines on the multimeter.",
+                    "#Locate the EGR valve. Check your owner’s manual for the exact location.",
+                    "#Place the multimeter’s red lead onto the EGR circuit labeled “C.” <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "#*There are five circuits on the EGR. They are labeled A, B, C, D, and E.",
+                    "#Clip the multimeter’s negative lead to a ground point in the engine. The main two ground points can be found by following the wire that leads from the negative battery terminal into the engine wall or following the wire that leads from the alternator into the engine wall. These wires are attached to bolts. Attach the negative lead onto one of these bolts for grounding.",
+                    "#*You can also attach the multimeter’s negative lead to the car battery’s negative terminal.",
+                    "#Place your key in the ignition and turn it to the on position. Do not start your engine.",
+                    "#Evaluate the multimeter's reading. If the multimeter displays a reading above .9 Volts, then the EGR is being blocked by pieces of carbon. If the multimeter show no or very little voltage, this means the EGR is bad. If the multimeter reads between .6 and .9 Volts, then this means that the EGR is good, but a sensor is most likely bad. <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "===Replacing Your EGR===",
+                    "#Disconnect your battery. Leave the battery disconnected for at least 5 minutes to discharge the system fully.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "#Locate the EGR valve. Check your owner’s manual if you need help finding it.",
+                    "#*Make sure the engine is cold when you do this. An EGR valve can be hot and dangerous to work with.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#Unplug the electrical harness. Remove the electrical plug going into the EGR by hand.",
+                    "#Remove the vacuum lines from the EGR valve. Once the vacuum line is removed, the EGR valve will be exposed.",
+                    "#*Mark each line so that you know what port it goes into. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Remove the air hose. This hose comes from the air filter.",
+                    "#Remove the EGR mounting bolts. Use a wrench to remove the two connecting bolts on the sides of the valve. Remove the entire gasket system by hand with care not to break it.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#*Use Liquid Wrench or WD-40 to loosen the bolts. This will make them easier to remove. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Remove the EGR valve. Once the bolts are gone, you should be able to remove the valve by hand.",
+                    "#Clean the valve passages. Use a scratch awl to remove any carbon deposits. Be careful not to damage the passages themselves.",
+                    "#*Most automotive parts stores sell cleaning sprays that help clean the inside of your engine.",
+                    "#Clean the base and gasket case. If the valve has any melted or gasket debris materials on the base of the gasket case, clean these up with a plastic scraper. The scraper is helpful in that it will not damage the system.",
+                    "#Attach the new EGR valve with the original mounting bolts. Torque the bolts to the manufacturer's specifications. Follow the Vehicle manufactures proper Torque Specifications before replacing the Bolt",
+                    "#*If your new EGR valve came with a new gasket, make sure to seat it facing the right direction. This will prevent leaks.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "#Reconnect the vacuum line, air hose, electrical connector, and battery. If you fail to reconnect one of these, then your vehicle will not run.",
+                    "#Test-drive your vehicle to verify the repair. Watch for any exhaust leaks.",
+                    "*Set of ratchets for various bolt sizes",
+                    "*Spray lubricant such as WD-40",
+                    "*Wrench",
+                    "*Phillip's-head screwdriver",
+                    "*Flat-head screwdriver",
+                    "*New EGR Valve",
+                    "*Scratch Awl",
+                    "*Plastic Scraper",
+                    "*Be sure you write down any security codes for your radio or other entertainment devices. This code can be found in your owner’s manual. <ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "*The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "*Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ]
+            }
+        },
+        {
+            "id": "16073531",
+            "user": "Buildabearpro123",
+            "timestamp": "15:07, 5 December 2014",
+            "anon": false,
+            "size": "(8,103 bytes)",
+            "change": 41,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Car Maintenance and Repair]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "16067537",
+            "user": "Seymour Edits",
+            "timestamp": "19:29, 4 December 2014",
+            "anon": false,
+            "size": "(8,062 bytes)",
+            "change": 4539,
+            "summary": "(expanded into multiple parts, added more sources)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. Several symptoms can point to EGR valve problems: failed emissions test, poor idling, or random changes in engine speed. There are a few methods for testing an EGR if you’re unsure that it’s defective. If the EGR is faulty, it takes only a few steps and tools to replace it.",
+                    "==Steps==",
+                    "===Testing with a Scan Tool===",
+                    "#Use a car scan tool. A car code reader/scanner tool reads information from your On-board Diagnostics, version II (OBD-II). The OBD-II system collects information from the sensors in your car. If one of these sensors reports that something is malfunctioning, then you can connect a scan tool to the OBD-II to the find the error. While code readers and scanners used to be expensive and specific to one manufacturer, there are now universal code scan tools that are affordable. The scan tool plugs into the OBD data link connector, which is usually located under the dash. Once connected, the tool displays any trouble codes. If your EGR is faulty, then the scan tool will display the corresponding codes. (PCM).<ref>http://www.popularmechanics.com/cars/how-to/maintenance/4267896</ref>",
+                    "#Find the OBD-II data link connector. This is usually located under the dash near the steering wheel. Consult your owner’s manual for location if you have trouble locating it.",
+                    "#Place your key in the ignition and turn it to the on position. Do not start the engine.",
+                    "#Plug the scan tool into the OBD data link connector. The scan tool will ask for specific information about your car such as the vehicle information number, the vehicle's make and model, and the engine type.",
+                    "#*Most scan tools will draw power from the car’s battery and do not require their own power source.",
+                    "#Check the trouble code. The scan tool will give you an option to look at the trouble codes. Section this option and read the results. The EGR fault codes range from P0400 to PR409.<ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-1</ref>",
+                    "===Testing with a Multimeter===",
+                    "#Grab a multimeter. A multimeter is a black box of electronic circuitry used to test electrical wiring or devices. There is a large dial in the center of the multimeter where you can adjust the settings. The multimeter uses black (negative) and red (positive) leads to test electrical currency and resistance. These leads usually have metal clamps at the end of them. While the multimeter can seem daunting because of its many numbers and dials, you only need to use one setting for this test.<ref>http://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all</ref>",
+                    "#*It is best to use a digital multimeter for this test. A digital multimeter shows the exact number result of the test. An analog multimeter is harder to read because every possible result is listed at the top.",
+                    "#Set your multimeter to volts. A large “V” denotes the voltage setting. The range for volts is located between two large, bolded lines on the multimeter.",
+                    "#Locate the EGR valve. Check your owner’s manual for the exact location.",
+                    "#Place the multimeter’s red lead onto the EGR circuit labeled “C.” <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "#*There are five circuits on the EGR. They are labeled A, B, C, D, and E.",
+                    "#Clip the multimeter’s negative lead to a ground point in the engine. The main two ground points can be found by following the wire that leads from the negative battery terminal into the engine wall or following the wire that leads from the alternator into the engine wall. These wires are attached to bolts. Attach the negative lead onto one of these bolts for grounding.",
+                    "#*You can also attach the multimeter’s negative lead to the car battery’s negative terminal.",
+                    "#Place your key in the ignition and turn it to the on position. Do not start your engine.",
+                    "#Evaluate the multimeter's reading. If the multimeter displays a reading above .9 Volts, then the EGR is being blocked by pieces of carbon. If the multimeter show no or very little voltage, this means the EGR is bad. If the multimeter reads between .6 and .9 Volts, then this means that the EGR is good, but a sensor is most likely bad. <ref>http://easyautodiagnostics.com/gm/4.3L-5.0L-5.7L/egr-valve-tests-2</ref>",
+                    "===Replacing Your EGR===",
+                    "#Disconnect your battery. Leave the battery disconnected for at least 5 minutes to discharge the system fully.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "#Locate the EGR valve. Check your owner’s manual if you need help finding it.",
+                    "#*Make sure the engine is cold when you do this. An EGR valve can be hot and dangerous to work with.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#Unplug the electrical harness. Remove the electrical plug going into the EGR by hand.",
+                    "#Remove the vacuum lines from the EGR valve. Once the vacuum line is removed, the EGR valve will be exposed.",
+                    "#*Mark each line so that you know what port it goes into. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Remove the air hose. This hose comes from the air filter.",
+                    "#Remove the EGR mounting bolts. Use a wrench to remove the two connecting bolts on the sides of the valve. Remove the entire gasket system by hand with care not to break it.<ref>http://www.carsdirect.com/car-maintenance/egr-valve-cleaning-and-replacement-instructions</ref>",
+                    "#*Use Liquid Wrench or WD-40 to loosen the bolts. This will make them easier to remove. <ref>http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html</ref>",
+                    "#Remove the EGR valve. Once the bolts are gone, you should be able to remove the valve by hand.",
+                    "#Clean the valve passages. Use a scratch awl to remove any carbon deposits. Be careful not to damage the passages themselves.",
+                    "#*Most automotive parts stores sell cleaning sprays that help clean the inside of your engine.",
+                    "#Clean the base and gasket case. If the valve has any melted or gasket debris materials on the base of the gasket case, clean these up with a plastic scraper. The scraper is helpful in that it will not damage the system.",
+                    "#Attach the new EGR valve with the original mounting bolts. Torque the bolts to the manufacturer's specifications. Follow the Vehicle manufactures proper Torque Specifications before replacing the Bolt",
+                    "#*If your new EGR valve came with a new gasket, make sure to seat it facing the right direction. This will prevent leaks.<ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "#Reconnect the vacuum line, air hose, electrical connector, and battery. If you fail to reconnect one of these, then your vehicle will not run.",
+                    "#Test-drive your vehicle to verify the repair. Watch for any exhaust leaks.",
+                    "==Thing’s You Need==",
+                    "*Spray lubricant such as WD-40",
+                    "*Scratch Awl",
+                    "*Safety Glasses",
+                    "*Plastic Scraper",
+                    "==Tips==",
+                    "*Be sure you write down any security codes for your radio or other entertainment devices. This code can be found in your owner’s manual. <ref>http://www.autohub360.com/index.php/how-to-replace-an-egr-valve-on-a-chevy-31l-engine-7031/</ref>",
+                    "*Always wear safety glasses when working near your car.",
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "*The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "*Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools.",
+                    "[[Category:Engine Parts]]",
+                    "== Steps ==",
+                    "# Locate your vehicle owner's manual and keep it handy; it will help when needing to buy replacement parts.",
+                    "# Unscrew the car battery's negative terminal.",
+                    "# Locate the EGR valve. If you are not sure where it is, check your owner's manual.",
+                    "# Disconnect the air intake hose from the EGR valve.",
+                    "# Disconnect the vacuum hoses from the EGR valve.",
+                    "# Remove the wiring harness that connects to the EGR valve.",
+                    "# Unscrew the bolts that mount the valve to the car's engine.",
+                    "# Disconnect the EGR valve and remove. If you have not yet purchased a replacement, do not discard the old parts.",
+                    "# Seat the new EGR valve gasket.",
+                    "# Attach the new EGR valve using the old mounting bolts.",
+                    "# Check the manufacturer's instructions for tightening the bolts.",
+                    "# Reconnect the wiring harness to the valve.",
+                    "# Reattach the vacuum hoses.",
+                    "# Tighten any clamps.",
+                    "# Reconnect the battery cable.",
+                    "# Connect a new air hose.",
+                    "# Turn the car on and take a test drive to check for exhaust leaks.",
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an EGR Valve|}}",
+                    "",
+                    "== Tips ==",
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "*The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "*Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "",
+                    "== Warnings ==",
+                    "*If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help.",
+                    "*Make sure to take all safety precautions when working with car engine parts. Wear protective glasses, sturdy shoes (no open toes), and protective gloves. Do not wear loose clothing.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Spray lubricant",
+                    "*New air hose",
+                    "*Paper towels",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Test for a Faulty EGR Valve|How to Test for a Faulty EGR Valve]]",
+                    "*[[Change the EGR Valve on a 1998 Isuzu Trooper|How to Change the EGR Valve on a 1998 Isuzu Trooper]]",
+                    "*[[Check an Idle Air Control Valve|How to Check an Idle Air Control Valve]]",
+                    "",
+                    "*[http://www.1aauto.com/1A/EGRValve http://www.1aauto.com/1A/EGRValve]",
+                    "*[http://www.automd.com/266/how-to-replace-an-egr-valve/ http://www.automd.com/266/how-to-replace-an-egr-valve/]",
+                    "*[http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html]"
+                ]
+            }
+        },
+        {
+            "id": "15928297",
+            "user": "Votebot",
+            "timestamp": "15:11, 18 November 2014",
+            "anon": false,
+            "size": "(3,523 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ],
+                "removed": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ]
+            }
+        },
+        {
+            "id": "15638251",
+            "user": "Bobby T",
+            "timestamp": "17:24, 15 October 2014",
+            "anon": false,
+            "size": "(3,523 bytes)",
+            "change": 44,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an EGR Valve|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13814397",
+            "user": "Votebot",
+            "timestamp": "17:51, 3 June 2014",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ],
+                "removed": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ]
+            }
+        },
+        {
+            "id": "13182674",
+            "user": "Votebot",
+            "timestamp": "17:20, 2 April 2014",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ],
+                "removed": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ]
+            }
+        },
+        {
+            "id": "12051122",
+            "user": "Votebot",
+            "timestamp": "18:39, 9 December 2013",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": -4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "11599171",
+            "user": "Votebot",
+            "timestamp": "21:16, 29 October 2013",
+            "anon": false,
+            "size": "(3,483 bytes)",
+            "change": 4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11258025",
+            "user": "Votebot",
+            "timestamp": "15:47, 29 September 2013",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ],
+                "removed": [
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately."
+                ]
+            }
+        },
+        {
+            "id": "10964383",
+            "user": "Votebot",
+            "timestamp": "16:10, 30 August 2013",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "*If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help."
+                ],
+                "removed": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "*If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help."
+                ]
+            }
+        },
+        {
+            "id": "10918183",
+            "user": "Votebot",
+            "timestamp": "16:50, 25 August 2013",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ],
+                "removed": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ]
+            }
+        },
+        {
+            "id": "10443353",
+            "user": "Votebot",
+            "timestamp": "16:24, 11 July 2013",
+            "anon": false,
+            "size": "(3,479 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ],
+                "removed": [
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals."
+                ]
+            }
+        },
+        {
+            "id": "10290086",
+            "user": "213.233.148.12",
+            "timestamp": "19:54, 25 June 2013",
+            "anon": true,
+            "size": "(3,479 bytes)",
+            "change": -26,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "*It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "*Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "*When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "*Make sure to take all safety precautions when working with car engine parts. Wear protective glasses, sturdy shoes (no open toes), and protective gloves. Do not wear loose clothing.",
+                    "*If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help.",
+                    "*Set of ratchets for various bolt sizes",
+                    "*Spray lubricant",
+                    "*Wrench",
+                    "*Phillip's-head screwdriver",
+                    "*Flat-head screwdriver",
+                    "*New EGR Valve",
+                    "*New air hose",
+                    "*Paper towels",
+                    "*[[Test for a Faulty EGR Valve|How to Test for a Faulty EGR Valve]]",
+                    "*[[Change the EGR Valve on a 1998 Isuzu Trooper|How to Change the EGR Valve on a 1998 Isuzu Trooper]]",
+                    "*[[Check an Idle Air Control Valve|How to Check an Idle Air Control Valve]]",
+                    "*[http://www.1aauto.com/1A/EGRValve http://www.1aauto.com/1A/EGRValve]",
+                    "*[http://www.automd.com/266/how-to-replace-an-egr-valve/ http://www.automd.com/266/how-to-replace-an-egr-valve/]",
+                    "*[http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "* The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "* It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "* Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "* When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "* Make sure to take all safety precautions when working with car engine parts. Wear protective glasses, sturdy shoes (no open toes), and protective gloves. Do not wear loose clothing.",
+                    "* If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help.",
+                    "* Set of ratchets for various bolt sizes",
+                    "* Spray lubricant",
+                    "* Wrench",
+                    "* Phillip's-head screwdriver",
+                    "* Flat-head screwdriver",
+                    "* New EGR Valve",
+                    "* New air hose",
+                    "* Paper towels",
+                    "",
+                    "*  [[Test for a Faulty EGR Valve|How to Test for a Faulty EGR Valve]]",
+                    "*  [[Change the EGR Valve on a 1998 Isuzu Trooper|How to Change the EGR Valve on a 1998 Isuzu Trooper]]",
+                    "*  [[Check an Idle Air Control Valve|How to Check an Idle Air Control Valve]]",
+                    "* [http://www.1aauto.com/1A/EGRValve http://www.1aauto.com/1A/EGRValve]",
+                    "* [http://www.automd.com/266/how-to-replace-an-egr-valve/ http://www.automd.com/266/how-to-replace-an-egr-valve/]",
+                    "* [http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html]"
+                ]
+            }
+        },
+        {
+            "id": "9065009",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "03:44, 20 January 2013",
+            "anon": false,
+            "size": "(3,505 bytes)",
+            "change": 277,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*  [[Test for a Faulty EGR Valve|How to Test for a Faulty EGR Valve]]",
+                    "*  [[Change the EGR Valve on a 1998 Isuzu Trooper|How to Change the EGR Valve on a 1998 Isuzu Trooper]]",
+                    "*  [[Check an Idle Air Control Valve|How to Check an Idle Air Control Valve]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6069776",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "17:58, 25 May 2011",
+            "anon": false,
+            "size": "(3,228 bytes)",
+            "change": -14,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Engine Parts]]"
+                ],
+                "removed": [
+                    "[[Category:Car Maintenance and Repair]]"
+                ]
+            }
+        },
+        {
+            "id": "6037642",
+            "user": "Jordan",
+            "timestamp": "14:41, 20 May 2011",
+            "anon": false,
+            "size": "(3,242 bytes)",
+            "change": -52,
+            "summary": "(Reverted edits by Deathbones26 (Talk); changed back to last version by Ron_G)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools."
+                ],
+                "removed": [
+                    "[[Image:Death Of A Doornail.jpg|thumb|right|251px]]Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6037576",
+            "user": "Deathbones26",
+            "timestamp": "14:18, 20 May 2011",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": 52,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Jordan",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Death Of A Doornail.jpg|thumb|right|251px]]Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools.",
+                    ""
+                ],
+                "removed": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools."
+                ]
+            }
+        },
+        {
+            "id": "6035664",
+            "user": "Ron_G",
+            "timestamp": "04:02, 20 May 2011",
+            "anon": false,
+            "size": "(3,242 bytes)",
+            "change": 41,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Jordan",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Car Maintenance and Repair]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6016270",
+            "user": "WRM",
+            "timestamp": "07:00, 16 May 2011",
+            "anon": false,
+            "size": "(3,201 bytes)",
+            "change": 3201,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Most vehicles are now equipped with an exhaust gas recirculation (EGR) valve to reduce emissions. When the car's engine is warm, the EGR valve is open. An EGR valve works by induction or computer signal to allow the car's exhaust to return to the engine's air-fuel mixture. This mixture lowers the temperature of combustion, which increases gas mileage and reduces emissions that pollute the air, such as oxides of nitrogen (NOx). Several symptoms can point to EGR-valve problems, such as a failed emissions test, poor idling, or random changes in engine speed. If you have tested your vehicle and find that you need to replace the EGR valve, it takes only a few steps and tools.",
+                    "== Steps ==",
+                    "# Locate your vehicle owner's manual and keep it handy; it will help when needing to buy replacement parts.",
+                    "# Unscrew the car battery's negative terminal.",
+                    "# Locate the EGR valve. If you are not sure where it is, check your owner's manual.",
+                    "# Disconnect the air intake hose from the EGR valve.",
+                    "# Disconnect the vacuum hoses from the EGR valve.",
+                    "# Remove the wiring harness that connects to the EGR valve.",
+                    "# Unscrew the bolts that mount the valve to the car's engine.",
+                    "# Disconnect the EGR valve and remove. If you have not yet purchased a replacement, do not discard the old parts.",
+                    "# Seat the new EGR valve gasket.",
+                    "# Attach the new EGR valve using the old mounting bolts.",
+                    "# Check the manufacturer's instructions for tightening the bolts.",
+                    "# Reconnect the wiring harness to the valve.",
+                    "# Reattach the vacuum hoses.",
+                    "# Tighten any clamps.",
+                    "# Reconnect the battery cable.",
+                    "# Connect a new air hose.",
+                    "# Turn the car on and take a test drive to check for exhaust leaks.",
+                    "",
+                    "== Tips ==",
+                    "* The EGR gasket is an important part. If not correctly installed, it will create a vacuum leak.",
+                    "* It is always a good idea to mark all hoses using tape and a marker so that you can reconnect them to the correct terminals.",
+                    "* Always check the specifications for new parts in your owner's manual. It is also a good idea to take the old, removed parts to the auto-part supply store to avoid buying the wrong size for your specific vehicle.",
+                    "* When buying your new EGR valve, make sure that all parts that you need are included, such as a new EGR gasket. If it is not included, you'll need to purchase it separately.",
+                    "",
+                    "== Warnings ==",
+                    "* Make sure to take all safety precautions when working with car engine parts. Wear protective glasses, sturdy shoes (no open toes), and protective gloves. Do not wear loose clothing.",
+                    "* If you have any worries about your ability to change the EGR valve, it is best to ask a professional mechanic for help.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Set of ratchets for various bolt sizes",
+                    "* Spray lubricant",
+                    "* Wrench",
+                    "* Phillip's-head screwdriver",
+                    "* Flat-head screwdriver",
+                    "* New EGR Valve",
+                    "* New air hose",
+                    "* Paper towels",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.1aauto.com/1A/EGRValve http://www.1aauto.com/1A/EGRValve]",
+                    "* [http://www.automd.com/266/how-to-replace-an-egr-valve/ http://www.automd.com/266/how-to-replace-an-egr-valve/]",
+                    "* [http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html http://www.adrianneyoung.com/serendipity/index.php?/archives/214-How-to-Replace-an-EGR-Valve.html]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

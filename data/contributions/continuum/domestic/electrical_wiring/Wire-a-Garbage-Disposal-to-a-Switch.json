@@ -1,0 +1,601 @@
+{
+    "title": "Wire-a-Garbage-Disposal-to-a-Switch",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:18:02.358547",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34069546",
+            "user": "Maintenance script",
+            "timestamp": "21:22, 18 February 2026",
+            "anon": false,
+            "size": "(20,571 bytes)",
+            "change": 0,
+            "summary": "(Protected \"Wire a Garbage Disposal to a Switch\": Protecting page (infinite) ([Edit=Staff and Admins only] (indefinite) [Move=Staff and Admins only] (indefinite)))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "33225952",
+            "user": "MiscBot",
+            "timestamp": "20:41, 10 March 2025",
+            "anon": false,
+            "size": "(20,571 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32861017",
+            "user": "WikiHow Horizon 3",
+            "timestamp": "15:58, 15 October 2024",
+            "anon": false,
+            "size": "(20,552 bytes)",
+            "change": 60,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Garbage Disposal to a Switch|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32608024",
+            "user": "Votebot",
+            "timestamp": "08:51, 26 June 2024",
+            "anon": false,
+            "size": "(20,492 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never work on electrical wiring while it’s still connected to power since you could shock or electrocute yourself."
+                ],
+                "removed": [
+                    "*Never work on electrical wiring while it’s still connected to power since you could shock or electrocute yourself."
+                ]
+            }
+        },
+        {
+            "id": "31729777",
+            "user": "Votebot",
+            "timestamp": "08:33, 22 June 2023",
+            "anon": false,
+            "size": "(20,492 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Keep your hands out of the garbage disposal while it’s connected to power since you could get seriously injured if it turns on."
+                ],
+                "removed": [
+                    "*Keep your hands out of the garbage disposal while it’s connected to power since you could get seriously injured if it turns on."
+                ]
+            }
+        },
+        {
+            "id": "30849336",
+            "user": "Seymour Edits",
+            "timestamp": "17:24, 5 September 2022",
+            "anon": false,
+            "size": "(20,492 bytes)",
+            "change": 117,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the circuit in the area where you’re working.<ref>[v161834_b01]. 21 June 2021.</ref> Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 1 Version 2.jpg|center]]",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made for the switch.<ref>[v161834_b01]. 21 June 2021.</ref> The electrician will leave enough excess wiring for you to add you to connect the switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 7.jpg|center]]",
+                    "#*A 12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.<ref>[v161834_b01]. 21 June 2021.</ref>"
+                ],
+                "removed": [
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 1 Version 2.jpg|center]]",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made for the switch. The electrician will leave enough excess wiring for you to add you to connect the switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 7.jpg|center]]",
+                    "#*A 12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire."
+                ]
+            }
+        },
+        {
+            "id": "29894516",
+            "user": "MiscBot",
+            "timestamp": "06:20, 16 September 2021",
+            "anon": false,
+            "size": "(20,375 bytes)",
+            "change": -4,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Kitchen Appliances]]"
+                ],
+                "removed": [
+                    "[[Category:Garbage Disposal Units]]"
+                ]
+            }
+        },
+        {
+            "id": "29115275",
+            "user": "Votebot",
+            "timestamp": "10:03, 20 January 2021",
+            "anon": false,
+            "size": "(20,379 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    ""
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "27957407",
+            "user": "Wikivisual",
+            "timestamp": "15:51, 7 April 2020",
+            "anon": false,
+            "size": "(20,376 bytes)",
+            "change": 30,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 1 Version 2.jpg|center]]",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cables. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>[[Image:Wire a Garbage Disposal to a Switch Step 15 Version 2.jpg|center]]",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw, which you can find on the bottom right side of the switch. Tighten the screw to secure the wire against the switch so it provides a steady current. Keep the other end of the jumper wire unattached inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>[[Image:Wire a Garbage Disposal to a Switch Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 1.jpg|center]]",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cables. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>[[Image:Wire a Garbage Disposal to a Switch Step 15.jpg|center]]",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw, which you can find on the bottom right side of the switch. Tighten the screw to secure the wire against the switch so it provides a steady current. Keep the other end of the jumper wire unattached inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>[[Image:Wire a Garbage Disposal to a Switch Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27882099",
+            "user": "Wikivisual",
+            "timestamp": "09:12, 21 March 2020",
+            "anon": false,
+            "size": "(20,346 bytes)",
+            "change": 1783,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 1.jpg|center]]",
+                    "#Check for studs in the walls above and below your sink using a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud behind the drywall. Mark its location with a pencil using the line at the top of the finder as a guide. Then put the stud finder against the wall underneath your sink and mark the location of the stud you find.<ref>https://youtu.be/08733z958qY?t=75</ref>[[Image:Wire a Garbage Disposal to a Switch Step 2.jpg|center]]",
+                    "#Buy electrical boxes for your switch and disposal outlet. Look for standard electrical boxes that are about {{Convert|2–3|in|cm}} deep for both the switch and the disposal so you have room for all of the wiring. Choose plastic electrical boxes that have winged hinges on the top and bottom since they’re easier to install and don’t require a stud as an anchor.<ref>https://youtu.be/egHkOIr4RNE?t=14</ref>[[Image:Wire a Garbage Disposal to a Switch Step 3.jpg|center]]",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over your countertop. Try to position the box directly above the sink so it’s easier to run the wires down to the outlet below it. Make sure that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>[[Image:Wire a Garbage Disposal to a Switch Step 4.jpg|center]]",
+                    "#Position the outlet’s electrical box under your sink and trace its outline. Access the wall underneath your sink basin and find a spot that lines up vertically with the switch box. Hold the front of the outlet’s electrical box against the wall and ensure the top stays level. Use a pencil to draw an outline around the box so you know where to cut through the wall.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>[[Image:Wire a Garbage Disposal to a Switch Step 5.jpg|center]]",
+                    "#Cut around the outlines for the boxes with a drywall saw. Hold the tip of the saw against the corner of your outline and slowly push it through your drywall. Use a back and forth sawing motion to cut a straight line until you reach the corner on the opposite side. Pull the saw out from the drywall and push the blade through the next line. Remove the cut-out section of drywall when you’re finished, and repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>[[Image:Wire a Garbage Disposal to a Switch Step 6.jpg|center]]",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made for the switch. The electrician will leave enough excess wiring for you to add you to connect the switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 7.jpg|center]]",
+                    "#Fish a 12/3 cord between the holes for the switch and outlet. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the wall. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging out of the switch hole.<ref>https://www.nytimes.com/1997/09/21/nyregion/home-clinic-how-to-run-wires-through-walls.html</ref>[[Image:Wire a Garbage Disposal to a Switch Step 8.jpg|center]]",
+                    "#Feed the cords into the backs of the electrical boxes. Grab the end of the 12/2 cord and push it through one of the holes on the top of the switch box. Feed it from the back corner so the cord ends inside of the box. Then take the 12/3 cord and put it into one of the bottom corners of the switch box. Push the other end of the 12/3 cord into the top of the outlet box so it doesn’t move around or come loose.<ref>https://youtu.be/egHkOIr4RNE?t=40</ref>[[Image:Wire a Garbage Disposal to a Switch Step 9.jpg|center]]",
+                    "#Screw the electrical boxes into the matching holes you cut. Push the switch’s electrical box into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched behind the wall. Use a screwdriver to tighten the screws in the corners of the electrical box so it stays in the drywall without falling out. Then attach the outlet’s electrical box the same way underneath your sink.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>[[Image:Wire a Garbage Disposal to a Switch Step 10.jpg|center]]",
+                    "#Cut a {{convert|4|in|cm|abbr=on}} piece of black 12-gauge wire to form a jumper. Use any 12-gauge electrical wire that has black insulation so you know there’s power running through it. Use a pair of wire cutters to cut off a section that’s at least {{convert|4|in|cm}} long. Set your jumper wire aside for now while you work on the rest of the wiring.<ref>https://youtu.be/fnImb8blIm8?t=302</ref>[[Image:Wire a Garbage Disposal to a Switch Step 11.jpg|center]]",
+                    "#Remove {{Convert|4|in|cm|abbr=on}} of insulation of the 12/2 and 12/3 cords. Carefully push the blade of a utility knife into the insulation at the end of the 12/2 cord. Make a {{Convert|1|in|cm|abbr=on}} slit and peel back the insulation to expose the wires inside the cord. Take off about {{convert|4|in|cm}} of the insulation from the end so you can easily manipulate the interior wires. Then remove the same amount of insulation from the 12/3 cord coming through the bottom of the box.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Garbage Disposal to a Switch Step 12.jpg|center]]",
+                    "#Strip {{Convert|1/2|in|cm|abbr=on}} off the ends of each wire using wire strippers. Only grip 1 wire at a time so you make the cleanest cuts. Position the wire strippers {{Convert|1/2|in|cm}} from the end of the wire and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue taking the insulation off of each wire from both the 12/2 and 12/3 cords.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Garbage Disposal to a Switch Step 13.jpg|center]]",
+                    "#Wrap the red wire around the top brass screw on a switch. Hold your switch upright so the On position points to the top. Locate the brass-colored screw, which is usually on the right side of the switch. Loop the exposed end of the 12/3 cable’s red wire around the brass screw. Tighten the screw with a screwdriver to secure the wire to the switch.<ref>https://youtu.be/fnImb8blIm8?t=336</ref>[[Image:Wire a Garbage Disposal to a Switch Step 14.jpg|center]]",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cables. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>[[Image:Wire a Garbage Disposal to a Switch Step 15.jpg|center]]",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw, which you can find on the bottom right side of the switch. Tighten the screw to secure the wire against the switch so it provides a steady current. Keep the other end of the jumper wire unattached inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>[[Image:Wire a Garbage Disposal to a Switch Step 16.jpg|center]]",
+                    "#Secure a wire nut onto the jumper and black wires from the cords. Gather the ends of the black wires from the 12/2 cord, 12/3 cord, and jumper wire so they line up with one another. Twist the exposed ends of the wires by hand to splice them together. Set a wire cap on top of the spliced wires and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>[[Image:Wire a Garbage Disposal to a Switch Step 17.jpg|center]]",
+                    "#Screw the ends of the white wires together with a wire nut. Hold the ends of the white wires from each cord together so they line up. Twist the exposed wires together by hand until they’re wound tightly. Set a wire cap on top of the splice and turn it clockwise until you can’t tighten it any further.<ref>https://youtu.be/fnImb8blIm8?t=342</ref>[[Image:Wire a Garbage Disposal to a Switch Step 18.jpg|center]]",
+                    "#Attach the switch plate into the electrical box. Push all of the wires into the electrical box so you can position the switch plate flush against the drywall. Use the provided mounting screws for the switch and attach the metal exterior plate to the holes on the top and bottom of the box. Screw the switch in tightly so it doesn’t fall out or come loose.<Ref>https://youtu.be/rYUrXbQqLP0?t=166</ref>[[Image:Wire a Garbage Disposal to a Switch Step 19.jpg|center]]",
+                    "#Cut through {{convert|3|in|cm|abbr=on}} of the 12/3 cord’s insulation with a utility knife. Make a {{Convert|1|in|cm|abbr=on}} slit at the end of the 12/3 cord, being careful not to damage any of the internal wires. Peel back about {{Convert|3|in|cm}} of the cord’s insulation so you’re able to maneuver the wires easier.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Garbage Disposal to a Switch Step 20.jpg|center]]",
+                    "#Strip the last {{convert|1/2|in|cm|abbr=on}} of insulation from each wire. Only work on a single wire at a time so you don’t damage them. Grip the last {{Convert|1/2|in|cm}} of wire in the strippers and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Then strip the rest of the wires from inside the 12/3 cord so the ends are exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Garbage Disposal to a Switch Step 21.jpg|center]]",
+                    "#Break off the tab between a grounded outlet’s brass screws. Use a grounded outlet that accepts plugs with 3 prongs so you can safely use the disposal. Locate the brass screws on the right side of the outlet and find the metal tab holding them together. Grip the brass tab with a pair of needlenose pliers and slowly bend it backward using firm pressure until it snaps off.<ref>https://youtu.be/-cgL3Qkp9Xs?t=127</ref>[[Image:Wire a Garbage Disposal to a Switch Step 22.jpg|center]]",
+                    "#Attach the black wire to the bottom brass screw on the outlet. Loop the end of the black wire around the brass screw on the bottom right side of the outlet. Tighten the screw with a screwdriver to hold the wire in place so it doesn’t fall out. Lightly pull on the wire to ensure it has a firm connection, and tighten the screw more if needed.<ref>https://youtu.be/-cgL3Qkp9Xs?t=349</ref>[[Image:Wire a Garbage Disposal to a Switch Step 23.jpg|center]]",
+                    "#Wrap the red wire around the outlet’s top brass screw. Loop the exposed end of the red wire clockwise around the brass screw on the top right side. Turn the screw clockwise with a screwdriver to tighten it until the wire presses firmly against the outlet. Tug on the wire lightly to check that it doesn’t pull out.<ref>https://youtu.be/fnImb8blIm8?t=319</ref>[[Image:Wire a Garbage Disposal to a Switch Step 24.jpg|center]]",
+                    "#Connect the white wire to the silver neutral screw on the outlet. Locate the silver screw on the top left side of the outlet. Loop the white wire around the bottom of the screw and tighten it with a screwdriver. Tuck the remaining white wire back into the electrical box so it’s out of the way.<ref>https://youtu.be/-cgL3Qkp9Xs?t=316</ref>[[Image:Wire a Garbage Disposal to a Switch Step 25.jpg|center]]",
+                    "#Secure the ground wire to the green grounding screw. Locate the green or bare wire and attach it to the threading on the green screw, which is usually on the bottom left side of the outlet. Use a screwdriver to tighten the ground screw until it makes a firm connection with the wire.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=307</ref>[[Image:Wire a Garbage Disposal to a Switch Step 26.jpg|center]]",
+                    "#Screw the outlet into the electrical box. Push all of the wires into the electrical box and position the outlet in front of them. Put a screw through the hole on the top of the outlet so it goes into the hole in the electrical box. Turn the screw clockwise with a screwdriver until it’s tight. Then, secure the bottom screw on the outlet the same way so none of the wires extend past the wall.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=389</ref>[[Image:Wire a Garbage Disposal to a Switch Step 27.jpg|center]]",
+                    "#Turn on the circuit and plug the disposal into the top outlet. Go back to the circuit box and find the breaker that controls the new circuit for the switch and outlet you installed. Flip it to the On position so power runs through the wires. Make sure the disposal and switch are turned off before plugging the disposal into the top plug. Flip the wall switch to the On position and your disposal will run!<Ref>https://www.bobvila.com/articles/how-to-install-a-sink-disposal/</ref>[[Image:Wire a Garbage Disposal to a Switch Step 28.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>",
+                    "#Check for studs in the walls above and below your sink using a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud behind the drywall. Mark its location with a pencil using the line at the top of the finder as a guide. Then put the stud finder against the wall underneath your sink and mark the location of the stud you find.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#Buy electrical boxes for your switch and disposal outlet. Look for standard electrical boxes that are about {{Convert|2–3|in|cm}} deep for both the switch and the disposal so you have room for all of the wiring. Choose plastic electrical boxes that have winged hinges on the top and bottom since they’re easier to install and don’t require a stud as an anchor.<ref>https://youtu.be/egHkOIr4RNE?t=14</ref>",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over your countertop. Try to position the box directly above the sink so it’s easier to run the wires down to the outlet below it. Make sure that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Position the outlet’s electrical box under your sink and trace its outline. Access the wall underneath your sink basin and find a spot that lines up vertically with the switch box. Hold the front of the outlet’s electrical box against the wall and ensure the top stays level. Use a pencil to draw an outline around the box so you know where to cut through the wall.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Cut around the outlines for the boxes with a drywall saw. Hold the tip of the saw against the corner of your outline and slowly push it through your drywall. Use a back and forth sawing motion to cut a straight line until you reach the corner on the opposite side. Pull the saw out from the drywall and push the blade through the next line. Remove the cut-out section of drywall when you’re finished, and repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made for the switch. The electrician will leave enough excess wiring for you to add you to connect the switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#Fish a 12/3 cord between the holes for the switch and outlet. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the wall. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging out of the switch hole.<ref>https://www.nytimes.com/1997/09/21/nyregion/home-clinic-how-to-run-wires-through-walls.html</ref>",
+                    "#Feed the cords into the backs of the electrical boxes. Grab the end of the 12/2 cord and push it through one of the holes on the top of the switch box. Feed it from the back corner so the cord ends inside of the box. Then take the 12/3 cord and put it into one of the bottom corners of the switch box. Push the other end of the 12/3 cord into the top of the outlet box so it doesn’t move around or come loose.<ref>https://youtu.be/egHkOIr4RNE?t=40</ref>",
+                    "#Screw the electrical boxes into the matching holes you cut. Push the switch’s electrical box into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched behind the wall. Use a screwdriver to tighten the screws in the corners of the electrical box so it stays in the drywall without falling out. Then attach the outlet’s electrical box the same way underneath your sink.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#Cut a {{convert|4|in|cm|abbr=on}} piece of black 12-gauge wire to form a jumper. Use any 12-gauge electrical wire that has black insulation so you know there’s power running through it. Use a pair of wire cutters to cut off a section that’s at least {{convert|4|in|cm}} long. Set your jumper wire aside for now while you work on the rest of the wiring.<ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#Remove {{Convert|4|in|cm|abbr=on}} of insulation of the 12/2 and 12/3 cords. Carefully push the blade of a utility knife into the insulation at the end of the 12/2 cord. Make a {{Convert|1|in|cm|abbr=on}} slit and peel back the insulation to expose the wires inside the cord. Take off about {{convert|4|in|cm}} of the insulation from the end so you can easily manipulate the interior wires. Then remove the same amount of insulation from the 12/3 cord coming through the bottom of the box.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Strip {{Convert|1/2|in|cm|abbr=on}} off the ends of each wire using wire strippers. Only grip 1 wire at a time so you make the cleanest cuts. Position the wire strippers {{Convert|1/2|in|cm}} from the end of the wire and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue taking the insulation off of each wire from both the 12/2 and 12/3 cords.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Wrap the red wire around the top brass screw on a switch. Hold your switch upright so the On position points to the top. Locate the brass-colored screw, which is usually on the right side of the switch. Loop the exposed end of the 12/3 cable’s red wire around the brass screw. Tighten the screw with a screwdriver to secure the wire to the switch.<ref>https://youtu.be/fnImb8blIm8?t=336</ref>",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cables. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw, which you can find on the bottom right side of the switch. Tighten the screw to secure the wire against the switch so it provides a steady current. Keep the other end of the jumper wire unattached inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>",
+                    "#Secure a wire nut onto the jumper and black wires from the cords. Gather the ends of the black wires from the 12/2 cord, 12/3 cord, and jumper wire so they line up with one another. Twist the exposed ends of the wires by hand to splice them together. Set a wire cap on top of the spliced wires and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#Screw the ends of the white wires together with a wire nut. Hold the ends of the white wires from each cord together so they line up. Twist the exposed wires together by hand until they’re wound tightly. Set a wire cap on top of the splice and turn it clockwise until you can’t tighten it any further.<ref>https://youtu.be/fnImb8blIm8?t=342</ref>",
+                    "#Attach the switch plate into the electrical box. Push all of the wires into the electrical box so you can position the switch plate flush against the drywall. Use the provided mounting screws for the switch and attach the metal exterior plate to the holes on the top and bottom of the box. Screw the switch in tightly so it doesn’t fall out or come loose.<Ref>https://youtu.be/rYUrXbQqLP0?t=166</ref>",
+                    "#Cut through {{convert|3|in|cm|abbr=on}} of the 12/3 cord’s insulation with a utility knife. Make a {{Convert|1|in|cm|abbr=on}} slit at the end of the 12/3 cord, being careful not to damage any of the internal wires. Peel back about {{Convert|3|in|cm}} of the cord’s insulation so you’re able to maneuver the wires easier.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Strip the last {{convert|1/2|in|cm|abbr=on}} of insulation from each wire. Only work on a single wire at a time so you don’t damage them. Grip the last {{Convert|1/2|in|cm}} of wire in the strippers and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Then strip the rest of the wires from inside the 12/3 cord so the ends are exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Break off the tab between a grounded outlet’s brass screws. Use a grounded outlet that accepts plugs with 3 prongs so you can safely use the disposal. Locate the brass screws on the right side of the outlet and find the metal tab holding them together. Grip the brass tab with a pair of needlenose pliers and slowly bend it backward using firm pressure until it snaps off.<ref>https://youtu.be/-cgL3Qkp9Xs?t=127</ref>",
+                    "#Attach the black wire to the bottom brass screw on the outlet. Loop the end of the black wire around the brass screw on the bottom right side of the outlet. Tighten the screw with a screwdriver to hold the wire in place so it doesn’t fall out. Lightly pull on the wire to ensure it has a firm connection, and tighten the screw more if needed.<ref>https://youtu.be/-cgL3Qkp9Xs?t=349</ref>",
+                    "#Wrap the red wire around the outlet’s top brass screw. Loop the exposed end of the red wire clockwise around the brass screw on the top right side. Turn the screw clockwise with a screwdriver to tighten it until the wire presses firmly against the outlet. Tug on the wire lightly to check that it doesn’t pull out.<ref>https://youtu.be/fnImb8blIm8?t=319</ref>",
+                    "#Connect the white wire to the silver neutral screw on the outlet. Locate the silver screw on the top left side of the outlet. Loop the white wire around the bottom of the screw and tighten it with a screwdriver. Tuck the remaining white wire back into the electrical box so it’s out of the way.<ref>https://youtu.be/-cgL3Qkp9Xs?t=316</ref>",
+                    "#Secure the ground wire to the green grounding screw. Locate the green or bare wire and attach it to the threading on the green screw, which is usually on the bottom left side of the outlet. Use a screwdriver to tighten the ground screw until it makes a firm connection with the wire.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=307</ref>",
+                    "#Screw the outlet into the electrical box. Push all of the wires into the electrical box and position the outlet in front of them. Put a screw through the hole on the top of the outlet so it goes into the hole in the electrical box. Turn the screw clockwise with a screwdriver until it’s tight. Then, secure the bottom screw on the outlet the same way so none of the wires extend past the wall.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=389</ref>",
+                    "#Turn on the circuit and plug the disposal into the top outlet. Go back to the circuit box and find the breaker that controls the new circuit for the switch and outlet you installed. Flip it to the On position so power runs through the wires. Make sure the disposal and switch are turned off before plugging the disposal into the top plug. Flip the wall switch to the On position and your disposal will run!<Ref>https://www.bobvila.com/articles/how-to-install-a-sink-disposal/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27750560",
+            "user": "Sophia B",
+            "timestamp": "15:21, 19 February 2020",
+            "anon": false,
+            "size": "(18,563 bytes)",
+            "change": -2,
+            "summary": "(grammatical edits)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop that connects to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with them before. However, if you have knowledge of electrical wiring and use the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#*You do not need to use a ground-fault circuit interrupter (GFCI) outlet, which shuts off power if there’s too much of an electrical load, for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when you turn the switch off.}}"
+                ],
+                "removed": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop that connects to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with them before. However, if you have knowledge on electrical wiring and are using the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#*You do not need to use a ground-fault circuit interrupter (GFCI) outlet, which shuts off power if there’s too much of an electrical load, for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when you turn switch off.}}"
+                ]
+            }
+        },
+        {
+            "id": "27746277",
+            "user": "Seymour Edits",
+            "timestamp": "22:25, 18 February 2020",
+            "anon": false,
+            "size": "(18,565 bytes)",
+            "change": 521,
+            "summary": "(Adjusting tone and confusing passages throughout)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop that connects to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with them before. However, if you have knowledge on electrical wiring and are using the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#Turn off the circuit in the area where you’re working. Look for the circuit box in your home, which is usually found in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Flip the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into a wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>",
+                    "#*If you aren’t sure what breakers control which room, contact an electrician to help you label them.",
+                    "#Check for studs in the walls above and below your sink using a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud behind the drywall. Mark its location with a pencil using the line at the top of the finder as a guide. Then put the stud finder against the wall underneath your sink and mark the location of the stud you find.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#*Typically, you would place outlets for garbage disposals underneath the sink or in a cabinet.",
+                    "#Buy electrical boxes for your switch and disposal outlet. Look for standard electrical boxes that are about {{Convert|2–3|in|cm}} deep for both the switch and the disposal so you have room for all of the wiring. Choose plastic electrical boxes that have winged hinges on the top and bottom since they’re easier to install and don’t require a stud as an anchor.<ref>https://youtu.be/egHkOIr4RNE?t=14</ref>",
+                    "#*The electrical boxes will hold the wires so they don’t get tangled or caught inside your walls.",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over your countertop. Try to position the box directly above the sink so it’s easier to run the wires down to the outlet below it. Make sure that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Position the outlet’s electrical box under your sink and trace its outline. Access the wall underneath your sink basin and find a spot that lines up vertically with the switch box. Hold the front of the outlet’s electrical box against the wall and ensure the top stays level. Use a pencil to draw an outline around the box so you know where to cut through the wall.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#*Keep the outlet and the switch between the same studs so you can run wires straight down. Otherwise, you may have to drill holes horizontally through the studs when you start wiring.",
+                    "#Cut around the outlines for the boxes with a drywall saw. Hold the tip of the saw against the corner of your outline and slowly push it through your drywall. Use a back and forth sawing motion to cut a straight line until you reach the corner on the opposite side. Pull the saw out from the drywall and push the blade through the next line. Remove the cut-out section of drywall when you’re finished, and repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made for the switch. The electrician will leave enough excess wiring for you to add you to connect the switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#*A 12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#Fish a 12/3 cord between the holes for the switch and outlet. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the wall. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging out of the switch hole.<ref>https://www.nytimes.com/1997/09/21/nyregion/home-clinic-how-to-run-wires-through-walls.html</ref>",
+                    "#*A 12/3 cord has 1 black hot wire, 1 red hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#Feed the cords into the backs of the electrical boxes. Grab the end of the 12/2 cord and push it through one of the holes on the top of the switch box. Feed it from the back corner so the cord ends inside of the box. Then take the 12/3 cord and put it into one of the bottom corners of the switch box. Push the other end of the 12/3 cord into the top of the outlet box so it doesn’t move around or come loose.<ref>https://youtu.be/egHkOIr4RNE?t=40</ref>",
+                    "#Screw the electrical boxes into the matching holes you cut. Push the switch’s electrical box into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched behind the wall. Use a screwdriver to tighten the screws in the corners of the electrical box so it stays in the drywall without falling out. Then attach the outlet’s electrical box the same way underneath your sink.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#*As you tighten the screws, the winged hinges on your electrical boxes will clamp to the drywall so the box doesn’t fall out.",
+                    "#Cut a {{convert|4|in|cm|abbr=on}} piece of black 12-gauge wire to form a jumper. Use any 12-gauge electrical wire that has black insulation so you know there’s power running through it. Use a pair of wire cutters to cut off a section that’s at least {{convert|4|in|cm}} long. Set your jumper wire aside for now while you work on the rest of the wiring.<ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*You can splice a jumper wire onto another hot wire to provide electricity to another input.{{greenbox:'''Variation:''' If you don’t have any black wire, wrap a piece of black electrical tape around the insulation on the piece you use to indicate that it has a current running through it.}}",
+                    "#Remove {{Convert|4|in|cm|abbr=on}} of insulation of the 12/2 and 12/3 cords. Carefully push the blade of a utility knife into the insulation at the end of the 12/2 cord. Make a {{Convert|1|in|cm|abbr=on}} slit and peel back the insulation to expose the wires inside the cord. Take off about {{convert|4|in|cm}} of the insulation from the end so you can easily manipulate the interior wires. Then remove the same amount of insulation from the 12/3 cord coming through the bottom of the box.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Be careful not to cut through the interior wires, or else they will be too short to work with properly.",
+                    "#Strip {{Convert|1/2|in|cm|abbr=on}} off the ends of each wire using wire strippers. Only grip 1 wire at a time so you make the cleanest cuts. Position the wire strippers {{Convert|1/2|in|cm}} from the end of the wire and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue taking the insulation off of each wire from both the 12/2 and 12/3 cords.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Wrap the red wire around the top brass screw on a switch. Hold your switch upright so the On position points to the top. Locate the brass-colored screw, which is usually on the right side of the switch. Loop the exposed end of the 12/3 cable’s red wire around the brass screw. Tighten the screw with a screwdriver to secure the wire to the switch.<ref>https://youtu.be/fnImb8blIm8?t=336</ref>",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cables. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw, which you can find on the bottom right side of the switch. Tighten the screw to secure the wire against the switch so it provides a steady current. Keep the other end of the jumper wire unattached inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>",
+                    "#*The black wire will always carry power between the switch and the outlet.",
+                    "#Secure a wire nut onto the jumper and black wires from the cords. Gather the ends of the black wires from the 12/2 cord, 12/3 cord, and jumper wire so they line up with one another. Twist the exposed ends of the wires by hand to splice them together. Set a wire cap on top of the spliced wires and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#Attach the switch plate into the electrical box. Push all of the wires into the electrical box so you can position the switch plate flush against the drywall. Use the provided mounting screws for the switch and attach the metal exterior plate to the holes on the top and bottom of the box. Screw the switch in tightly so it doesn’t fall out or come loose.<Ref>https://youtu.be/rYUrXbQqLP0?t=166</ref>",
+                    "#*If you damage the internal wires, cut them with wire cutters just below the damaged section.",
+                    "#Strip the last {{convert|1/2|in|cm|abbr=on}} of insulation from each wire. Only work on a single wire at a time so you don’t damage them. Grip the last {{Convert|1/2|in|cm}} of wire in the strippers and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Then strip the rest of the wires from inside the 12/3 cord so the ends are exposed.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Break off the tab between a grounded outlet’s brass screws. Use a grounded outlet that accepts plugs with 3 prongs so you can safely use the disposal. Locate the brass screws on the right side of the outlet and find the metal tab holding them together. Grip the brass tab with a pair of needlenose pliers and slowly bend it backward using firm pressure until it snaps off.<ref>https://youtu.be/-cgL3Qkp9Xs?t=127</ref>",
+                    "#*You do not need to use a ground-fault circuit interrupter (GFCI) outlet, which shuts off power if there’s too much of an electrical load, for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when you turn switch off.}}",
+                    "#Attach the black wire to the bottom brass screw on the outlet. Loop the end of the black wire around the brass screw on the bottom right side of the outlet. Tighten the screw with a screwdriver to hold the wire in place so it doesn’t fall out. Lightly pull on the wire to ensure it has a firm connection, and tighten the screw more if needed.<ref>https://youtu.be/-cgL3Qkp9Xs?t=349</ref>",
+                    "#Wrap the red wire around the outlet’s top brass screw. Loop the exposed end of the red wire clockwise around the brass screw on the top right side. Turn the screw clockwise with a screwdriver to tighten it until the wire presses firmly against the outlet. Tug on the wire lightly to check that it doesn’t pull out.<ref>https://youtu.be/fnImb8blIm8?t=319</ref>",
+                    "#*The top outlet will only work when you turn on the switch. Since you broke off the tab between the brass screws, the top outlet will lose power when you turn off the switch.",
+                    "#Connect the white wire to the silver neutral screw on the outlet. Locate the silver screw on the top left side of the outlet. Loop the white wire around the bottom of the screw and tighten it with a screwdriver. Tuck the remaining white wire back into the electrical box so it’s out of the way.<ref>https://youtu.be/-cgL3Qkp9Xs?t=316</ref>",
+                    "#*The white wire is neutral and completes the circuit so power can flow through the outlet safely.",
+                    "#Secure the ground wire to the green grounding screw. Locate the green or bare wire and attach it to the threading on the green screw, which is usually on the bottom left side of the outlet. Use a screwdriver to tighten the ground screw until it makes a firm connection with the wire.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=307</ref>",
+                    "#*The grounding screw prevents you from getting any electrical injury by directing the current back to the circuit breaker.",
+                    "#Screw the outlet into the electrical box. Push all of the wires into the electrical box and position the outlet in front of them. Put a screw through the hole on the top of the outlet so it goes into the hole in the electrical box. Turn the screw clockwise with a screwdriver until it’s tight. Then, secure the bottom screw on the outlet the same way so none of the wires extend past the wall.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=389</ref>",
+                    "#Turn on the circuit and plug the disposal into the top outlet. Go back to the circuit box and find the breaker that controls the new circuit for the switch and outlet you installed. Flip it to the On position so power runs through the wires. Make sure the disposal and switch are turned off before plugging the disposal into the top plug. Flip the wall switch to the On position and your disposal will run!<Ref>https://www.bobvila.com/articles/how-to-install-a-sink-disposal/</ref>"
+                ],
+                "removed": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with electrical components before. However, if you have knowledge on electrical wiring and the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#Turn off the circuit for the area where you’re working. Look for the circuit box in your home, which is usually in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Turn the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into another wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>",
+                    "#*If you aren’t sure which breakers control which room, contact an electrician to help you label them.",
+                    "#Check for studs in the wall above and below your sink with a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud behind it. Mark the location of the object with a pencil using the line at the top of the finder as a guide. Continue locating the studs in each spot of the wall where you want your electrical boxes.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#*Typically, outlets for garbage disposals are underneath the sink or in a cabinet.",
+                    "#Get electrical boxes for your switch and disposal outlet. Use standard electrical boxes that are about {{Convert|2–3|in|cm}} deep for both the switch and the disposal so you have room for all of the wiring. Opt for plastic electrical boxes that have winged hinges on the top and bottom since they’re easier to install and don’t require a stud. <ref>https://youtu.be/egHkOIr4RNE?t=14</ref>",
+                    "#*The electrical boxes hold the wiring so they don’t get tangled or caught on something else inside your walls.",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over the countertop. Try to position the box directly above the sink so it’s easier to run the wires down to the outlet. Check that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Position the outlet electrical box under your sink and trace its outline. Access the wall underneath your sink basin and find a spot that vertically lines up with the switch box. Hold the front of the outlet’s electrical box against the wall so the top is level. Use a pencil to outline around the box so you know where to cut through the wall.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#*Keep the outlet and the switch between the same studs so you can run wires straight down. Otherwise, you may have to drill holes through the studs when you start wiring.",
+                    "#Cut around the outlines on your wall with a drywall saw. Hold the tip of the drywall saw against the corner of your outline and slowly push it through. Use a back and forth sawing motion along the outline until you reach the corner on the other side. Pull the saw completely out and align the blade before pushing it in again. Remove the cut-out section of drywall when you’re finished. Repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made. The electrician will leave enough excess wiring for you to add your switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#*12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#Fish 12/3 cord through the wall between the switch and outlet holes. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the hole. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging from the switch hole.<ref>https://www.nytimes.com/1997/09/21/nyregion/home-clinic-how-to-run-wires-through-walls.html</ref>",
+                    "#*12/3 cords have 1 black hot wire, 1 red hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#Feed the cords into the backs of the electrical boxes. Grab the end of the 12/2 cord and push it through one of the holes on the top of the switch box. Feed it in from the back so the cord is inside of the box. Then take the 12/3 cord and put it into one of the bottom corners of the switch box. Push the other end of the 12/3 cord into the top corner of the outlet box so they’re secure.<ref>https://youtu.be/egHkOIr4RNE?t=40</ref>",
+                    "#Screw the electrical boxes into the matching holes you cut. Push the electrical box for the switch into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched. Use a screwdriver to tighten the screws in the corners of the electrical box so it holds in place. Repeat the process with the electrical box for the outlet.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#*As you tighten the screws, winged hinges will clamp to the drywall so the box holds in place.",
+                    "#Cut a {{convert|4|in|cm|abbr=on}} piece of black 12-gauge wire to form a jumper. Use any 12-gauge electrical wire that has black insulation so you know there’s power running through it. Use a pair of wire cutters to cut off a section that’s at least {{convert|4|in|cm}} long. Set the piece of wire aside for now.<ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*A jumper wire splices onto another hot wire to provide power to another input.{{greenbox:'''Variation:''' If you don’t have any black wire, wrap a piece of black electrical tape around the piece you use to indicate that it’s hot.}}",
+                    "#Slice through {{Convert|4|in|cm|abbr=on}} of insulation on the 12/2 and 12/3 cords. Carefully push the blade of a utility knife into the insulation on the end of the 12/2 cord. Make a {{Convert|1|in|cm|abbr=on}} slit and peel back the insulation to expose the wires inside the cord. Remove about {{convert|4|in|cm}} of the insulation from the end so you can work with the interior wires. Repeat the process on the end of the 12/3 cord in the bottom of the box.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Be careful not to cut through the interior wires, or else you may not be able to wire the disposal properly.",
+                    "#Strip {{Convert|1/2|in|cm|abbr=on}} from the ends of each wire using wire strippers. Only grip 1 wire at a time to ensure the cleanest cut. Position the wire strippers {{Convert|1/2|in|cm}} from the end of the wire and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue removing the insulation from each wire from both cords.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Wrap the red wire around the top brass screw of a switch. Hold your switch upright so the On position points up. Locate the brass-colored screw, which is usually on the right side of the switch. Loop the exposed end of the 12/3 cable’s red wire clockwise around the top brass screw. Tighten the screw with a screwdriver to secure the wire in place.<ref>https://youtu.be/fnImb8blIm8?t=336</ref>",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cable. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw on the bottom right side of the switch. Tighten the screw to secure the wire against the screw so it provides a steady current. Keep the other end of the jumper wire inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>",
+                    "#*The black wire will always carry power between the switch the outlet.",
+                    "#Secure a wire nut onto the jumper and black wires from the cords. Line up the ends of the black wires from the 12/2 and 12/3 cords with the open end of the jumper wire. Twist the exposed ends of the wires together by hand to splice them together. Set a wire cap on top of the splice and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#Attach the switch plate into the electrical box. Push all of the wires into the electrical box so you can position the switch flush with the front. Use the provided mounting screws for the switch and attach the metal exterior plate to the holes on the top and bottom of the box. Screw the switch in tightly so it doesn’t fall out or come loose.<Ref>https://youtu.be/rYUrXbQqLP0?t=166</ref>",
+                    "#*If you damage the internal wires, slice through them with wire cutters just behind the damaged section.",
+                    "#Strip the last {{convert|1/2|in|cm|abbr=on}} of insulation from each wire. Only work on a single wire at a time so you don’t damage them. Grip the last {{Convert|1/2|in|cm}} of wire in the strippers and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue stripping the rest of the wires from the 12/3 cord.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Break off the tab between a grounded outlet’s brass screws. Use a grounded outlet that accepts plugs with 3 prongs so you can safely use the disposal. Locate the brass screws on the right side of the outlet and find the brass tab holding them together. Grip the brass tab with a pair of needlenose pliers and slowly bend it back and forth. Apply firm pressure while bending the tab until it snaps off.<ref>https://youtu.be/-cgL3Qkp9Xs?t=127</ref>",
+                    "#*You do not need to use a ground-fault circuit interrupter(GFCI) outlet, which shuts off power if there’s too much of an electrical load, for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when the switch is turned off.}}",
+                    "#Attach the black wire to the bottom brass screw on the outlet. Loop the end of the black wire around the bottom brass screw on the right side of the outlet. Tighten the screw with a screwdriver to hold the wire securely in place so it doesn’t come loose. Lightly pull on the wire to ensure it has a firm connection.<ref>https://youtu.be/-cgL3Qkp9Xs?t=349</ref>",
+                    "#Wrap the red wire around the outlet’s top brass screw. Put the exposed end of the red wire clockwise around the base of the top brass screw on the right side. Turn the screw clockwise with a screwdriver to tighten it until the wire is secure. Tug on the wire lightly to check that it doesn’t pull out.<ref>https://youtu.be/fnImb8blIm8?t=319</ref>",
+                    "#*The top outlet will only work when you turn on the switch. Since you broke off the tab between the brass screws, the top outlet will power down when you turn the switch off.",
+                    "#Connect the white wire to the silver neutral screw on the outlet. Locate the silver screw on the top left side of the outlet. Loop the white wire around the bottom of the screw and tighten it with a screwdriver. Tug the rest of the white wire back into the electrical box so it’s out of the way.<ref>https://youtu.be/-cgL3Qkp9Xs?t=316</ref>",
+                    "#*The white wire is neutral and completes the circuit so power can flow through everything safely.",
+                    "#Secure the ground wire to the green grounding screw. Locate the green or bare wire and attach it to the threading on the green screw, which is usually on the bottom left side. Use a screwdriver to tighten the ground screw until it makes a firm connection with the wire.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=307</ref>",
+                    "#*The grounding screw prevents you from any electrical injury by directing current back to the circuit breaker.",
+                    "#Screw the outlet into the electrical box. Push all of the wires into the electrical box and position the outlet on the front. Put a screw through the hole on the top of the outlet so it goes into the hole on the electrical box. Turn the screw clockwise with a screwdriver until it’s tight. Secure the bottom screw on the outlet the same way so none of the wires extend past the wall.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=389</ref>",
+                    "#Turn on the circuit and plug the disposal into the top outlet. Go back to the circuit box and find the breaker that controls the new disposal switch and outlet. Turn it to the On position so power runs through it. Make sure the disposal and switch are turned off before plugging the disposal into the top plug. Flip the switch to the On position and your disposal will run!<Ref>https://www.bobvila.com/articles/how-to-install-a-sink-disposal/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27695156",
+            "user": "Sophia B",
+            "timestamp": "17:21, 6 February 2020",
+            "anon": false,
+            "size": "(18,044 bytes)",
+            "change": 7,
+            "summary": "(corrected a few phrases)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with electrical components before. However, if you have knowledge on electrical wiring and the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over the countertop. Try to position the box directly above the sink so it’s easier to run the wires down to the outlet. Check that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>"
+                ],
+                "removed": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with electronics before. However, if you have knowledge on electrical wiring and the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over the countertop. Try to position the box so you’re above the sink so it’s easier to run the wires down to the outlet. Check that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27694753",
+            "user": "Seymour Edits",
+            "timestamp": "16:29, 6 February 2020",
+            "anon": false,
+            "size": "(18,037 bytes)",
+            "change": 1084,
+            "summary": "(Adding new steps, clarifying step titles and information)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. If you don’t want to reach under your sink and plug in the disposal each time you use it, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal can be complex and requires some experience working with electrical components, so it may be dangerous if you haven’t worked with electronics before. However, if you have knowledge on electrical wiring and the proper tools, you can have your garbage disposal connected and running within a day!",
+                    "#Check for studs in the wall above and below your sink with a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud behind it. Mark the location of the object with a pencil using the line at the top of the finder as a guide. Continue locating the studs in each spot of the wall where you want your electrical boxes.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#*The electrical boxes hold the wiring so they don’t get tangled or caught on something else inside your walls.",
+                    "#*If you have an outlet for a dishwasher underneath your sink, you can also use it for your garbage disposal and don’t need to buy a new box.",
+                    "#Trace the switch’s electrical box on the wall above your sink. Hold the front of the switch’s box against the wall over the countertop. Try to position the box so you’re above the sink so it’s easier to run the wires down to the outlet. Check that the top of the box is level before tracing around it with a pencil.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#*If you can’t position the switch box right above the sink, try to keep it between the studs on either side of the sink since you’ll still be able to run wires down easily.",
+                    "#Position the outlet electrical box under your sink and trace its outline. Access the wall underneath your sink basin and find a spot that vertically lines up with the switch box. Hold the front of the outlet’s electrical box against the wall so the top is level. Use a pencil to outline around the box so you know where to cut through the wall.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Cut around the outlines on your wall with a drywall saw. Hold the tip of the drywall saw against the corner of your outline and slowly push it through. Use a back and forth sawing motion along the outline until you reach the corner on the other side. Pull the saw completely out and align the blade before pushing it in again. Remove the cut-out section of drywall when you’re finished. Repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#Have an electrician run a 12/2 wire from the circuit box to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made. The electrician will leave enough excess wiring for you to add your switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#*12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#*If you have a dishwasher, the electrician may connect the garbage disposal wiring to the same circuit.{{greenbox:'''Warning:''' Avoid trying to run wires to the circuit box on your own since there are specific electrical codes to follow and you could cause damage to your home.<ref>https://youtu.be/BgyJGk3mLRY?t=59</ref>}}",
+                    "#Fish 12/3 cord through the wall between the switch and outlet holes. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the hole. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging from the switch hole.<ref>https://www.nytimes.com/1997/09/21/nyregion/home-clinic-how-to-run-wires-through-walls.html</ref>",
+                    "#Screw the electrical boxes into the matching holes you cut. Push the electrical box for the switch into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched. Use a screwdriver to tighten the screws in the corners of the electrical box so it holds in place. Repeat the process with the electrical box for the outlet.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#Secure a wire nut onto the jumper and black wires from the cords. Line up the ends of the black wires from the 12/2 and 12/3 cords with the open end of the jumper wire. Twist the exposed ends of the wires together by hand to splice them together. Set a wire cap on top of the splice and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*You do not need to use a ground-fault circuit interrupter(GFCI) outlet, which shuts off power if there’s too much of an electrical load, for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when the switch is turned off.}}"
+                ],
+                "removed": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. To make the disposal easier to use, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal does require some experience working with electrical components, and it could be dangerous if you do it incorrectly. However, if you have knowledge on electrical wiring and the proper tools, you can connect install a new switch and outlet within a day.",
+                    "#Check for pipes and studs in your wall with a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud or pipe behind it. Mark the location of the object with a pencil using the line at the top of the finder as a guide. Continue locating the studs and pipes in each spot of the wall where you want your electrical boxes.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#Trace the electrical boxes on the wall where you want to place them. Hold the front of the switch’s box against the wall above the countertop. Check that the top of the box is level before tracing around it with a pencil. Then go underneath your sink with the outlet’s box and hold it against the wall. Try to position the outlet box so it’s vertically aligned with the switch box so it’s easier to wire. Outline around the switch box.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#Cut through the wall with a drywall saw. Hold the tip of the drywall saw against the corner of your outline and slowly push it through. Use a back and forth sawing motion along the outline until you reach the corner on the other side. Pull the saw completely out and align the blade before pushing it in again. Remove the cut-out section of drywall when you’re finished. Repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#Have an electrician run a 12/2 wire from a new circuit to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made. The electrician will leave enough excess wiring for you to add your switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#*12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.{{greenbox:'''Warning:''' Avoid trying to run wires to the circuit box on your own since there are specific electrical codes to follow and you could cause damage to your home.}}",
+                    "#Fish 12/3 cord through the wall between the holes. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the hole. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging from the switch hole.<ref>https://youtu.be/PO2hX1m3Hps?t=14</ref>",
+                    "#*If you have a dishwasher, you can power the disposal using the same circuit.",
+                    "#Screw the electrical boxes into the holes. Push the electrical box for the switch into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched. Use a screwdriver to tighten the screws in the corners of the electrical box so it holds in place. Repeat the process with the electrical box for the outlet.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#Secure a wire nut onto the jumper and the black wires from the cords. Line up the ends of the black wires from the 12/2 and 12/3 cords with the open end of the jumper wire. Twist the exposed ends of the wires together by hand to splice them together. Set a wire cap on top of the splice and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*You do not need to use a GFCI outlet for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when the switch is turned off.}}"
+                ]
+            }
+        },
+        {
+            "id": "27688628",
+            "user": "WikiHowUser20201201000533",
+            "timestamp": "22:27, 5 February 2020",
+            "anon": false,
+            "size": "(16,953 bytes)",
+            "change": 36,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Garbage Disposal Units]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27688291",
+            "user": "WRM",
+            "timestamp": "20:55, 5 February 2020",
+            "anon": false,
+            "size": "(16,917 bytes)",
+            "change": 16917,
+            "summary": "(Adding new parts, sources, and greenboxes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Garbage disposals break down food washed into your sink to help prevent your pipes from clogging. To make the disposal easier to use, you can wire a switch above your countertop to the disposal’s outlet. Wiring a disposal does require some experience working with electrical components, and it could be dangerous if you do it incorrectly. However, if you have knowledge on electrical wiring and the proper tools, you can connect install a new switch and outlet within a day.",
+                    "==Steps==",
+                    "===Installing the Outlet and Switch Boxes===",
+                    "#Turn off the circuit for the area where you’re working. Look for the circuit box in your home, which is usually in a basement, kitchen, or hallway. Even though you’ll use a new circuit for the garbage disposal, locate the breaker switch that controls the other outlets in your kitchen. Turn the breaker to the Off position so you don’t risk getting shocked if you accidentally cut into another wire.<ref>https://www.nytimes.com/1999/01/03/nyregion/home-clinic-steps-to-installing-an-electrical-box.html</ref>",
+                    "#*Never cut into your walls or start working while there’s still power to the circuit, or else you could get electrocuted.",
+                    "#*If you aren’t sure which breakers control which room, contact an electrician to help you label them.",
+                    "#Check for pipes and studs in your wall with a stud finder. Hold the finder flat against the wall and turn it on. Slowly move the stud finder horizontally until it beeps, which means there’s a stud or pipe behind it. Mark the location of the object with a pencil using the line at the top of the finder as a guide. Continue locating the studs and pipes in each spot of the wall where you want your electrical boxes.<ref>https://youtu.be/08733z958qY?t=75</ref>",
+                    "#*Typically, outlets for garbage disposals are underneath the sink or in a cabinet.",
+                    "#Get electrical boxes for your switch and disposal outlet. Use standard electrical boxes that are about {{Convert|2–3|in|cm}} deep for both the switch and the disposal so you have room for all of the wiring. Opt for plastic electrical boxes that have winged hinges on the top and bottom since they’re easier to install and don’t require a stud. <ref>https://youtu.be/egHkOIr4RNE?t=14</ref>",
+                    "#*You can get electrical boxes from your local hardware store.",
+                    "#Trace the electrical boxes on the wall where you want to place them. Hold the front of the switch’s box against the wall above the countertop. Check that the top of the box is level before tracing around it with a pencil. Then go underneath your sink with the outlet’s box and hold it against the wall. Try to position the outlet box so it’s vertically aligned with the switch box so it’s easier to wire. Outline around the switch box.<Ref>https://youtu.be/WON0DKCe5P8?t=59</ref>",
+                    "#*Keep the outlet and the switch between the same studs so you can run wires straight down. Otherwise, you may have to drill holes through the studs when you start wiring.",
+                    "#Cut through the wall with a drywall saw. Hold the tip of the drywall saw against the corner of your outline and slowly push it through. Use a back and forth sawing motion along the outline until you reach the corner on the other side. Pull the saw completely out and align the blade before pushing it in again. Remove the cut-out section of drywall when you’re finished. Repeat the process on the hole for the outlet.<Ref>https://youtu.be/WON0DKCe5P8?t=100</ref>",
+                    "#*If you’re unable to cut through your wall with a drywall saw, you may need to contact a professional or use a [[Use-a-Reciprocating-Saw|reciprocating saw]].",
+                    "#Have an electrician run a 12/2 wire from a new circuit to the switch hole. Contact an electrician and let them know you’re installing a new switch and outlet for a garbage disposal. Allow them to install a dedicated circuit in your home’s main electrical box and let them run wires to the hole you made. The electrician will leave enough excess wiring for you to add your switch.<ref>https://ask-the-electrician.com/disposal-wiring-diagram.html</ref>",
+                    "#*12/2 cord contains 1 black hot wire, 1 white neutral wire, and 1 green or bare ground wire.{{greenbox:'''Warning:''' Avoid trying to run wires to the circuit box on your own since there are specific electrical codes to follow and you could cause damage to your home.}}",
+                    "#Fish 12/3 cord through the wall between the holes. Attach the end of a 12/3 cord to the hooked end of a wire fish tape. Slide the fish tape into the switch hole above your counter and push it down. When you see the fish tape from the outlet hole under your sink, pull about {{Convert|1|ft|cm}} out from the hole. Cut the 12/3 wire with a pair of wire cutters so there’s {{Convert|1|ft|cm}} of excess hanging from the switch hole.<ref>https://youtu.be/PO2hX1m3Hps?t=14</ref>",
+                    "#*You can buy 12/3 cord and wire fish tape from your local hardware store.",
+                    "#*12/3 cords have 1 black hot wire, 1 red hot wire, 1 white neutral wire, and 1 green or bare ground wire.",
+                    "#*If you have a dishwasher, you can power the disposal using the same circuit.",
+                    "#Feed the cords into the backs of the electrical boxes. Grab the end of the 12/2 cord and push it through one of the holes on the top of the switch box. Feed it in from the back so the cord is inside of the box. Then take the 12/3 cord and put it into one of the bottom corners of the switch box. Push the other end of the 12/3 cord into the top corner of the outlet box so they’re secure.<ref>https://youtu.be/egHkOIr4RNE?t=40</ref>",
+                    "#*If you don’t see any holes on the back of the electrical boxes, you may need to punch them out with a screwdriver.",
+                    "#Screw the electrical boxes into the holes. Push the electrical box for the switch into the hole so the front is flush with the wall. Pull the ends of the cord into the electrical box so they don’t get pinched. Use a screwdriver to tighten the screws in the corners of the electrical box so it holds in place. Repeat the process with the electrical box for the outlet.<ref>https://youtu.be/egHkOIr4RNE?t=104</ref>",
+                    "#*As you tighten the screws, winged hinges will clamp to the drywall so the box holds in place.",
+                    "",
+                    "===Wiring the Switch===",
+                    "#Cut a {{convert|4|in|cm|abbr=on}} piece of black 12-gauge wire to form a jumper. Use any 12-gauge electrical wire that has black insulation so you know there’s power running through it. Use a pair of wire cutters to cut off a section that’s at least {{convert|4|in|cm}} long. Set the piece of wire aside for now.<ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*A jumper wire splices onto another hot wire to provide power to another input.{{greenbox:'''Variation:''' If you don’t have any black wire, wrap a piece of black electrical tape around the piece you use to indicate that it’s hot.}}",
+                    "#Slice through {{Convert|4|in|cm|abbr=on}} of insulation on the 12/2 and 12/3 cords. Carefully push the blade of a utility knife into the insulation on the end of the 12/2 cord. Make a {{Convert|1|in|cm|abbr=on}} slit and peel back the insulation to expose the wires inside the cord. Remove about {{convert|4|in|cm}} of the insulation from the end so you can work with the interior wires. Repeat the process on the end of the 12/3 cord in the bottom of the box.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Be careful not to cut through the interior wires, or else you may not be able to wire the disposal properly.",
+                    "#Strip {{Convert|1/2|in|cm|abbr=on}} from the ends of each wire using wire strippers. Only grip 1 wire at a time to ensure the cleanest cut. Position the wire strippers {{Convert|1/2|in|cm}} from the end of the wire and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue removing the insulation from each wire from both cords.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Avoid stripping off more than {{Convert|1/2|in|cm}} of insulation since you could increase the risk of an electrical short or fire.",
+                    "#Wrap the red wire around the top brass screw of a switch. Hold your switch upright so the On position points up. Locate the brass-colored screw, which is usually on the right side of the switch. Loop the exposed end of the 12/3 cable’s red wire clockwise around the top brass screw. Tighten the screw with a screwdriver to secure the wire in place.<ref>https://youtu.be/fnImb8blIm8?t=336</ref>",
+                    "#*You can use any kind of switch for your garbage disposal as long as it has set On and Off positions.",
+                    "#*The red wire powers the garbage disposal’s outlet when you turn the switch on.",
+                    "#Attach the ground wires to the green screw on the switch. Locate the green or bare ground wires running from both the 12/2 and 12/3 cable. Loop the ends of the ground wires around the green screw on the switch, which is usually located on the bottom left side. Turn the screw clockwise with a screwdriver to tighten it against the wires.<Ref>https://youtu.be/rYUrXbQqLP0?t=92</ref>",
+                    "#*The ground wires will carry electricity away from the disposal in case there’s an electrical surge.",
+                    "#Connect one end of the jumper wire to the switch’s bottom brass screw. Twist the end of the {{Convert|4|in|cm|abbr=on}} jumper wire onto the brass screw on the bottom right side of the switch. Tighten the screw to secure the wire against the screw so it provides a steady current. Keep the other end of the jumper wire inside the electrical box.<ref>https://youtu.be/fnImb8blIm8?t=306</ref>",
+                    "#*The black wire will always carry power between the switch the outlet.",
+                    "#Secure a wire nut onto the jumper and the black wires from the cords. Line up the ends of the black wires from the 12/2 and 12/3 cords with the open end of the jumper wire. Twist the exposed ends of the wires together by hand to splice them together. Set a wire cap on top of the splice and screw it on clockwise until it’s tight.<Ref>https://youtu.be/fnImb8blIm8?t=302</ref>",
+                    "#*Wire caps are small plastic pieces that hide exposed wiring and ensure the splice has a tight connection. You can buy them from your local hardware store.",
+                    "#*The splice now allows power to travel from the circuit to the switch and outlet.",
+                    "#Screw the ends of the white wires together with a wire nut. Hold the ends of the white wires from each cord together so they line up. Twist the exposed wires together by hand until they’re wound tightly. Set a wire cap on top of the splice and turn it clockwise until you can’t tighten it any further.<ref>https://youtu.be/fnImb8blIm8?t=342</ref>",
+                    "#*The white wires do not attach to the switch at all. Instead, they will attach to the outlet to complete the circuit.",
+                    "#Attach the switch plate into the electrical box. Push all of the wires into the electrical box so you can position the switch flush with the front. Use the provided mounting screws for the switch and attach the metal exterior plate to the holes on the top and bottom of the box. Screw the switch in tightly so it doesn’t fall out or come loose.<Ref>https://youtu.be/rYUrXbQqLP0?t=166</ref>",
+                    "#*You do not have to attach a switch cover until you’re sure the wiring works properly.",
+                    "",
+                    "===Connecting the Disposal Outlet===",
+                    "#Cut through {{convert|3|in|cm|abbr=on}} of the 12/3 cord’s insulation with a utility knife. Make a {{Convert|1|in|cm|abbr=on}} slit at the end of the 12/3 cord, being careful not to damage any of the internal wires. Peel back about {{Convert|3|in|cm}} of the cord’s insulation so you’re able to maneuver the wires easier.<Ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*If you damage the internal wires, slice through them with wire cutters just behind the damaged section.",
+                    "#*Avoid removing more insulation from the 12/3 cord since you could tangle the wires easier.",
+                    "#Strip the last {{convert|1/2|in|cm|abbr=on}} of insulation from each wire. Only work on a single wire at a time so you don’t damage them. Grip the last {{Convert|1/2|in|cm}} of wire in the strippers and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation. Continue stripping the rest of the wires from the 12/3 cord.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#*Don’t remove any more insulation from the wires since you could risk electrical problems or sparks later on.",
+                    "#Break off the tab between a grounded outlet’s brass screws. Use a grounded outlet that accepts plugs with 3 prongs so you can safely use the disposal. Locate the brass screws on the right side of the outlet and find the brass tab holding them together. Grip the brass tab with a pair of needlenose pliers and slowly bend it back and forth. Apply firm pressure while bending the tab until it snaps off.<ref>https://youtu.be/-cgL3Qkp9Xs?t=127</ref>",
+                    "#*You can buy a grounded outlet from your local hardware store.",
+                    "#*Avoid using outlets that don’t have grounding bars on them since they could short more easily and possibly cause shock or fire.",
+                    "#*You do not need to use a GFCI outlet for a garbage disposal.{{greenbox:'''Warning:''' If you don’t snap off the brass tab, the garbage disposal will run while it’s plugged in even when the switch is turned off.}}",
+                    "#Attach the black wire to the bottom brass screw on the outlet. Loop the end of the black wire around the bottom brass screw on the right side of the outlet. Tighten the screw with a screwdriver to hold the wire securely in place so it doesn’t come loose. Lightly pull on the wire to ensure it has a firm connection.<ref>https://youtu.be/-cgL3Qkp9Xs?t=349</ref>",
+                    "#*The bottom receptacle on the outlet will always have power, so avoid plugging the garbage disposal into it. You can use the bottom outlet for a dishwasher if you have one.",
+                    "#Wrap the red wire around the outlet’s top brass screw. Put the exposed end of the red wire clockwise around the base of the top brass screw on the right side. Turn the screw clockwise with a screwdriver to tighten it until the wire is secure. Tug on the wire lightly to check that it doesn’t pull out.<ref>https://youtu.be/fnImb8blIm8?t=319</ref>",
+                    "#*The top outlet will only work when you turn on the switch. Since you broke off the tab between the brass screws, the top outlet will power down when you turn the switch off.",
+                    "#Connect the white wire to the silver neutral screw on the outlet. Locate the silver screw on the top left side of the outlet. Loop the white wire around the bottom of the screw and tighten it with a screwdriver. Tug the rest of the white wire back into the electrical box so it’s out of the way.<ref>https://youtu.be/-cgL3Qkp9Xs?t=316</ref>",
+                    "#*The white wire is neutral and completes the circuit so power can flow through everything safely.",
+                    "#Secure the ground wire to the green grounding screw. Locate the green or bare wire and attach it to the threading on the green screw, which is usually on the bottom left side. Use a screwdriver to tighten the ground screw until it makes a firm connection with the wire.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=307</ref>",
+                    "#*The grounding screw prevents you from any electrical injury by directing current back to the circuit breaker.",
+                    "#Screw the outlet into the electrical box. Push all of the wires into the electrical box and position the outlet on the front. Put a screw through the hole on the top of the outlet so it goes into the hole on the electrical box. Turn the screw clockwise with a screwdriver until it’s tight. Secure the bottom screw on the outlet the same way so none of the wires extend past the wall.<Ref>https://youtu.be/-cgL3Qkp9Xs?t=389</ref>",
+                    "#*Leave the outlet exposed for now so you can adjust the wiring if you need to.",
+                    "#Turn on the circuit and plug the disposal into the top outlet. Go back to the circuit box and find the breaker that controls the new disposal switch and outlet. Turn it to the On position so power runs through it. Make sure the disposal and switch are turned off before plugging the disposal into the top plug. Flip the switch to the On position and your disposal will run!<Ref>https://www.bobvila.com/articles/how-to-install-a-sink-disposal/</ref>",
+                    "#*Never put your hands inside a garbage disposal when it’s connected to power since you could seriously hurt yourself.",
+                    "#*If the garbage disposal doesn’t work, check the wire connections again. If you still can’t find a problem, turn off the circuit and contact an electrician.",
+                    "",
+                    "==Tips==",
+                    "*If you don’t feel comfortable working on your own wiring, contact a professional electrician to complete the work for you.",
+                    "==Warnings==",
+                    "*Never work on electrical wiring while it’s still connected to power since you could shock or electrocute yourself.",
+                    "*Keep your hands out of the garbage disposal while it’s connected to power since you could get seriously injured if it turns on.",
+                    "==Things You’ll Need==",
+                    "*Stud finder",
+                    "*Electrical boxes",
+                    "*Pencil",
+                    "*Drywall saw",
+                    "*12/2 cord",
+                    "*12/3 cord",
+                    "*Fish tape",
+                    "*Single-pole switch",
+                    "*Screwdriver",
+                    "*Wire strippers",
+                    "*Wire nuts",
+                    "*Grounded outlet",
+                    "*Needlenose pliers",
+                    "==References==",
+                    "{{Reflist}}",
+                    "__parts__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,1868 @@
+{
+    "title": "Make-a-Quick-Homemade-Bread",
+    "continuum": "domestic",
+    "subcategory": "baking",
+    "timestamp": "2026-04-16T05:34:58.416152",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34114586",
+            "user": "Votebot",
+            "timestamp": "10:18, 27 February 2026",
+            "anon": false,
+            "size": "(6,029 bytes)",
+            "change": -2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "34099948",
+            "user": "MiscBot",
+            "timestamp": "20:27, 19 February 2026",
+            "anon": false,
+            "size": "(6,031 bytes)",
+            "change": -67,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Eat a Banana]]"
+                ]
+            }
+        },
+        {
+            "id": "34084364",
+            "user": "MiscBot",
+            "timestamp": "03:33, 19 February 2026",
+            "anon": false,
+            "size": "(6,098 bytes)",
+            "change": 69,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Eat a Banana]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34068815",
+            "user": "MiscBot",
+            "timestamp": "20:40, 18 February 2026",
+            "anon": false,
+            "size": "(6,029 bytes)",
+            "change": -69,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Eat a Banana]]"
+                ]
+            }
+        },
+        {
+            "id": "33720796",
+            "user": "BlokPlaysGames",
+            "timestamp": "06:36, 7 October 2025",
+            "anon": false,
+            "size": "(6,098 bytes)",
+            "change": -1,
+            "summary": "(RCP reverted edits by Leyassine (talk) to  revision #32883400 by ButterflyInTheStars)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ],
+                "removed": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you do not always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ]
+            }
+        },
+        {
+            "id": "33719195",
+            "user": "Leyassine",
+            "timestamp": "21:06, 6 October 2025",
+            "anon": false,
+            "size": "(6,099 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BlokPlaysGames",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you do not always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ],
+                "removed": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ]
+            }
+        },
+        {
+            "id": "32883400",
+            "user": "ButterflyInTheStars",
+            "timestamp": "13:50, 24 October 2024",
+            "anon": false,
+            "size": "(6,098 bytes)",
+            "change": -14,
+            "summary": "(RCP reverted edits by 49.37.232.157 (talk) to  revision #32583819 by WikiHow Projects)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "BlokPlaysGames",
+            "exact_contribution": {
+                "added": [
+                    "== Steps =="
+                ],
+                "removed": [
+                    "== Steps ==]]]]]]]]]]]]]]"
+                ]
+            }
+        },
+        {
+            "id": "32883381",
+            "user": "49.37.232.157",
+            "timestamp": "13:33, 24 October 2024",
+            "anon": true,
+            "size": "(6,112 bytes)",
+            "change": 14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ButterflyInTheStars",
+            "exact_contribution": {
+                "added": [
+                    "== Steps ==]]]]]]]]]]]]]]"
+                ],
+                "removed": [
+                    "== Steps =="
+                ]
+            }
+        },
+        {
+            "id": "32583819",
+            "user": "WikiHow Projects",
+            "timestamp": "19:36, 17 June 2024",
+            "anon": false,
+            "size": "(6,098 bytes)",
+            "change": 96,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ButterflyInTheStars",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "==={{questionmethod}}What Are Tips For Baking Bread From Scratch?===",
+                    "{{ExpertVid|9q49SFLj0aE}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32477712",
+            "user": "WikiHow Projects",
+            "timestamp": "01:32, 2 May 2024",
+            "anon": false,
+            "size": "(6,002 bytes)",
+            "change": -76,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ButterflyInTheStars",
+            "exact_contribution": {
+                "added": [
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.[[Image:Make a Quick Homemade Bread Step 13 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31179392",
+            "user": "Seymour Edits",
+            "timestamp": "01:02, 18 December 2022",
+            "anon": false,
+            "size": "(6,078 bytes)",
+            "change": 386,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 5.jpg|center]]",
+                    "#*To make a good dough, you need self-rising flour like white lily and buttermilk.<ref>[v162027_b01]. 23 November 2021.</ref>",
+                    "#*You can use cold butter. The easiest way to use it is to grate it directly into the flour.<ref>[v162027_b01]. 23 November 2021.</ref>",
+                    "#*Then stir in the salt and buttermilk. So that it comes together in a mass.<ref>[v162027_b01]. 23 November 2021.</ref>"
+                ],
+                "removed": [
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31105837",
+            "user": "WikiHow Projects",
+            "timestamp": "13:20, 25 November 2022",
+            "anon": false,
+            "size": "(5,692 bytes)",
+            "change": -61,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ButterflyInTheStars",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.[[Image:Make a Quick Homemade Bread Step 1 Version 5.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29514245",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:56, 6 May 2021",
+            "anon": false,
+            "size": "(5,753 bytes)",
+            "change": -32,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Create a Picnic Check List]]"
+                ]
+            }
+        },
+        {
+            "id": "29288637",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "11:07, 4 March 2021",
+            "anon": false,
+            "size": "(5,785 bytes)",
+            "change": -25,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Make Zucchini Bread]]"
+                ]
+            }
+        },
+        {
+            "id": "28565817",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:41, 3 September 2020",
+            "anon": false,
+            "size": "(5,810 bytes)",
+            "change": -33,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Make Chocolate Banana Bread]]"
+                ]
+            }
+        },
+        {
+            "id": "28090971",
+            "user": "FutureHow",
+            "timestamp": "13:26, 8 May 2020",
+            "anon": false,
+            "size": "(5,843 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Add the oil, salt, and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 5.jpg|center]]"
+                ],
+                "removed": [
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27779574",
+            "user": "Caitlynn L",
+            "timestamp": "15:13, 26 February 2020",
+            "anon": false,
+            "size": "(5,842 bytes)",
+            "change": -2,
+            "summary": "(helping WikiHaus Trainee - minor rephrasing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "* You can try a similar baking method for [[Make Rye Bread|making rye bread]] as well."
+                ],
+                "removed": [
+                    "* You can try the same baking method for [[Make Rye Bread|making a rye bread]] as well."
+                ]
+            }
+        },
+        {
+            "id": "27778417",
+            "user": "WikiHaus Trainee",
+            "timestamp": "05:36, 26 February 2020",
+            "anon": false,
+            "size": "(5,844 bytes)",
+            "change": 89,
+            "summary": "(Adding relevant wikihow link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* You can try the same baking method for [[Make Rye Bread|making a rye bread]] as well."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27363186",
+            "user": "R2_d2000",
+            "timestamp": "14:04, 14 November 2019",
+            "anon": false,
+            "size": "(5,755 bytes)",
+            "change": 5680,
+            "summary": "(Reverted edits by 5.150.100.61 (Talk); changed back to last version by Galactic Radiance)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal.",
+                    "",
+                    "== Ingredients ==",
+                    "*2 cups very warm (not boiling hot) water",
+                    "*4 tablespoons instant yeast",
+                    "*1 teaspoon sugar",
+                    "*1/4 cup vegetable oil",
+                    "*5 cups flour",
+                    "*1 1/2 teaspoons salt",
+                    "",
+                    "[[Category:Breads]]",
+                    "",
+                    "== Steps ==",
+                    "===Making the Dough===",
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 5.jpg|center]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 5.jpg|center]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 5.jpg|center]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 5.jpg|center]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.[[Image:Make a Quick Homemade Bread Step 5 Version 5.jpg|center]]",
+                    "===Rising and Kneading===",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6 Version 3.jpg|center]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7 Version 3.jpg|center]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8 Version 3.jpg|center]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9 Version 3.jpg|center]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.",
+                    "#*The dough will also start to look shiny and stretchy.",
+                    "===Dividing and Baking===",
+                    "#Preheat the oven to 350 degrees Fahrenheit (180°C).[[Image:Make a Quick Homemade Bread Step 10 Version 3.jpg|center]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11 Version 3.jpg|center]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.[[Image:Make a Quick Homemade Bread Step 12 Version 3.jpg|center]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 3.jpg|center]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14 Version 3.jpg|center]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15 Version 3.jpg|center]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Quick Homemade Bread|}}",
+                    "",
+                    "== Tips ==",
+                    "*Eat within two or three days; remember, there are no preservatives to make it last a week.",
+                    "*Adjust the ingredients; use 2 cups self-raising flour, 1/2 cup whole wheat flour, and 2-3 teaspoons of flax seeds + 1 beer for a healthy bread.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Make Zucchini Bread]]",
+                    "*[[Make Chocolate Banana Bread]]",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Create a Picnic Check List]]",
+                    "*[[Eat a Banana]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__Parts__"
+                ],
+                "removed": [
+                    "bouta get that sweet bread am i right fellow skl shooters",
+                    "jamesmariott.shop"
+                ]
+            }
+        },
+        {
+            "id": "27363180",
+            "user": "5.150.100.61",
+            "timestamp": "14:03, 14 November 2019",
+            "anon": true,
+            "size": "(75 bytes)",
+            "change": -5680,
+            "summary": "(Replacing page with 'bouta get that sweet bread am i right fellow skl shooters jamesmariott.shop')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "R2_d2000",
+            "exact_contribution": {
+                "added": [
+                    "bouta get that sweet bread am i right fellow skl shooters",
+                    "jamesmariott.shop"
+                ],
+                "removed": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal.",
+                    "",
+                    "== Ingredients ==",
+                    "*2 cups very warm (not boiling hot) water",
+                    "*4 tablespoons instant yeast",
+                    "*1 teaspoon sugar",
+                    "*1/4 cup vegetable oil",
+                    "*5 cups flour",
+                    "*1 1/2 teaspoons salt",
+                    "",
+                    "[[Category:Breads]]",
+                    "",
+                    "== Steps ==",
+                    "===Making the Dough===",
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 5.jpg|center]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 5.jpg|center]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 5.jpg|center]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 5.jpg|center]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.[[Image:Make a Quick Homemade Bread Step 5 Version 5.jpg|center]]",
+                    "===Rising and Kneading===",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6 Version 3.jpg|center]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7 Version 3.jpg|center]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8 Version 3.jpg|center]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9 Version 3.jpg|center]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.",
+                    "#*The dough will also start to look shiny and stretchy.",
+                    "===Dividing and Baking===",
+                    "#Preheat the oven to 350 degrees Fahrenheit (180°C).[[Image:Make a Quick Homemade Bread Step 10 Version 3.jpg|center]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11 Version 3.jpg|center]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.[[Image:Make a Quick Homemade Bread Step 12 Version 3.jpg|center]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 3.jpg|center]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14 Version 3.jpg|center]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15 Version 3.jpg|center]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Step 16 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Quick Homemade Bread|}}",
+                    "",
+                    "== Tips ==",
+                    "*Eat within two or three days; remember, there are no preservatives to make it last a week.",
+                    "*Adjust the ingredients; use 2 cups self-raising flour, 1/2 cup whole wheat flour, and 2-3 teaspoons of flax seeds + 1 beer for a healthy bread.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Make Zucchini Bread]]",
+                    "*[[Make Chocolate Banana Bread]]",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Create a Picnic Check List]]",
+                    "*[[Eat a Banana]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__Parts__"
+                ]
+            }
+        },
+        {
+            "id": "27294579",
+            "user": "WikiHowUser20230227233914",
+            "timestamp": "00:32, 31 October 2019",
+            "anon": false,
+            "size": "(5,755 bytes)",
+            "change": 6,
+            "summary": "(adding fa tag)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ],
+                "removed": [
+                    "Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal."
+                ]
+            }
+        },
+        {
+            "id": "26313683",
+            "user": "MiscBot",
+            "timestamp": "04:35, 29 March 2019",
+            "anon": false,
+            "size": "(5,749 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "24016176",
+            "user": "Eric",
+            "timestamp": "22:57, 11 February 2018",
+            "anon": false,
+            "size": "(5,758 bytes)",
+            "change": -28,
+            "summary": "(removing broken file link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[Image:Bread.jpeg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23671218",
+            "user": "Davecrosby",
+            "timestamp": "22:47, 5 December 2017",
+            "anon": false,
+            "size": "(5,786 bytes)",
+            "change": 16,
+            "summary": "(Reverted edits by 88.202.181.13 (Talk); changed back to last version by ICanGuessItLol)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*2 cups very warm (not boiling hot) water"
+                ],
+                "removed": [
+                    "*3 cups boiling hot water"
+                ]
+            }
+        },
+        {
+            "id": "23671138",
+            "user": "88.202.181.13",
+            "timestamp": "22:27, 5 December 2017",
+            "anon": true,
+            "size": "(5,770 bytes)",
+            "change": -16,
+            "summary": "(→‎Ingredients)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Davecrosby",
+            "exact_contribution": {
+                "added": [
+                    "*3 cups boiling hot water"
+                ],
+                "removed": [
+                    "*2 cups very warm (not boiling hot) water"
+                ]
+            }
+        },
+        {
+            "id": "23598900",
+            "user": "ICanGuessItLol",
+            "timestamp": "04:21, 22 November 2017",
+            "anon": false,
+            "size": "(5,786 bytes)",
+            "change": -64,
+            "summary": "(RCP reverted edits by 108.76.192.21 (talk) to  revision #23598897 by Aiosis)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Davecrosby",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "https://www.wikihow.com/Make-a-Quick-Homemade-Bread#Ingredients"
+                ]
+            }
+        },
+        {
+            "id": "23598898",
+            "user": "108.76.192.21",
+            "timestamp": "04:20, 22 November 2017",
+            "anon": true,
+            "size": "(5,850 bytes)",
+            "change": 64,
+            "summary": "(→‎Ingredients)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "https://www.wikihow.com/Make-a-Quick-Homemade-Bread#Ingredients"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23598897",
+            "user": "Aiosis",
+            "timestamp": "04:20, 22 November 2017",
+            "anon": false,
+            "size": "(5,786 bytes)",
+            "change": -3,
+            "summary": "(Reverted edits by 108.76.192.21 (Talk); changed back to last version by Mathias Hammer)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "*1 1/2 teaspoons salt"
+                ],
+                "removed": [
+                    "*1 whole uncut pineapple"
+                ]
+            }
+        },
+        {
+            "id": "23598896",
+            "user": "108.76.192.21",
+            "timestamp": "04:19, 22 November 2017",
+            "anon": true,
+            "size": "(5,789 bytes)",
+            "change": 3,
+            "summary": "(→‎Ingredients)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "*1 whole uncut pineapple"
+                ],
+                "removed": [
+                    "*1 1/2 teaspoons salt"
+                ]
+            }
+        },
+        {
+            "id": "23598875",
+            "user": "Mathias Hammer",
+            "timestamp": "04:13, 22 November 2017",
+            "anon": false,
+            "size": "(5,786 bytes)",
+            "change": 29,
+            "summary": "(→‎Ingredients)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "*4 tablespoons instant yeast",
+                    "*1 teaspoon sugar",
+                    "[[Image:Bread.jpeg|center]]",
+                    ""
+                ],
+                "removed": [
+                    "*4 teaspoons instant yeast",
+                    "*1 tablespoon sugar"
+                ]
+            }
+        },
+        {
+            "id": "19352749",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "02:43, 9 January 2016",
+            "anon": false,
+            "size": "(5,757 bytes)",
+            "change": -145,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Make Zucchini Bread]]",
+                    "*[[Make Chocolate Banana Bread]]",
+                    "*[[Make a Chocolate Cake]]",
+                    "*[[Create a Picnic Check List]]",
+                    "*[[Eat a Banana]]"
+                ],
+                "removed": [
+                    "*[[Make Zucchini Bread|How to Make Zucchini Bread]]",
+                    "*[[Make Chocolate Banana Bread|How to Make Chocolate Banana Bread]]",
+                    "*[[Make a Chocolate Cake|How to Make a Chocolate Cake]]",
+                    "*[[Create a Picnic Check List|How to Create a Picnic Check List]]",
+                    "*[[Eat a Banana|How to Eat a Banana]]"
+                ]
+            }
+        },
+        {
+            "id": "18469983",
+            "user": "WikiHow Intern",
+            "timestamp": "04:10, 20 September 2015",
+            "anon": false,
+            "size": "(5,902 bytes)",
+            "change": -71,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.[[Image:Make a Quick Homemade Bread Step 12 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12 Version 3.jpg|center]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "17955570",
+            "user": "InterwikiBot",
+            "timestamp": "18:32, 27 July 2015",
+            "anon": false,
+            "size": "(5,973 bytes)",
+            "change": -288,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[es:hacer pan casero]]",
+                    "[[de:Schnell ein hausgemachtes Brot backen]]",
+                    "[[it:Preparare Velocemente il Pane in Casa]]",
+                    "[[pt:Fazer um Pão Caseiro Rápido]]",
+                    "[[ru:быстро приготовить домашний хлеб]]",
+                    "[[fr:préparer rapidement du pain maison]]",
+                    "[[zh:快速自制面包]]"
+                ]
+            }
+        },
+        {
+            "id": "16960735",
+            "user": "Mariya_Georgieva",
+            "timestamp": "12:08, 26 March 2015",
+            "anon": false,
+            "size": "(6,261 bytes)",
+            "change": 19,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Preheat the oven to 350 degrees Fahrenheit (180°C).[[Image:Make a Quick Homemade Bread Step 10 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10 Version 3.jpg|center]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "16960669",
+            "user": "Wikivisual",
+            "timestamp": "12:00, 26 March 2015",
+            "anon": false,
+            "size": "(6,242 bytes)",
+            "change": 10,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 5.jpg|center]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 5.jpg|center]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 5.jpg|center]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 5.jpg|center]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.[[Image:Make a Quick Homemade Bread Step 5 Version 5.jpg|center]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6 Version 3.jpg|center]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7 Version 3.jpg|center]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8 Version 3.jpg|center]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9 Version 3.jpg|center]]",
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10 Version 3.jpg|center]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11 Version 3.jpg|center]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12 Version 3.jpg|center]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 3.jpg|center]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14 Version 3.jpg|center]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15 Version 3.jpg|center]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 4.jpg|center]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 4.jpg|center]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 4.jpg|center]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 4.jpg|center]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.[[Image:Make a Quick Homemade Bread Step 5 Version 4.jpg|center]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6 Version 2.jpg|center]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7 Version 2.jpg|center]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8 Version 2.jpg|center]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9 Version 2.jpg|center]]",
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10 Version 2.jpg|center]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11 Version 2.jpg|center]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12 Version 2.jpg|center]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 2.jpg|center]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14 Version 2.jpg|center]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15 Version 2.jpg|center]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "16960477",
+            "user": "Wikivisual",
+            "timestamp": "11:40, 26 March 2015",
+            "anon": false,
+            "size": "(6,232 bytes)",
+            "change": -503,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 4.jpg|center]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 4.jpg|center]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 4.jpg|center]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 4.jpg|center]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.[[Image:Make a Quick Homemade Bread Step 5 Version 4.jpg|center]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6 Version 2.jpg|center]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7 Version 2.jpg|center]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8 Version 2.jpg|center]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9 Version 2.jpg|center]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.",
+                    "#*The dough will also start to look shiny and stretchy.",
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10 Version 2.jpg|center]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11 Version 2.jpg|center]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12 Version 2.jpg|center]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13 Version 2.jpg|center]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14 Version 2.jpg|center]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15 Version 2.jpg|center]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref><br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 3.jpg|center|550px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 3.jpg|center|550px]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.<br><br>[[Image:Make a Quick Homemade Bread Step 2Bullet1.jpg|center|550px]]",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.<br><br>[[Image:Make a Quick Homemade Bread Step 2Bullet2.jpg|center|550px]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.<br><br>[[Image:Make a Quick Homemade Bread Step 3 Version 3.jpg|center|550px]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.<br><br>[[Image:Make a Quick Homemade Bread Step 4 Version 3.jpg|center|550px]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.<br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 3.jpg|center|550px]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.<br><br>[[Image:Make a Quick Homemade Bread Step 6.jpg|center|550px]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.<br><br>[[Image:Make a Quick Homemade Bread Step 7.jpg|center|550px]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.<br><br>[[Image:Make a Quick Homemade Bread Step 8.jpg|center|550px]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.<br><br>[[Image:Make a Quick Homemade Bread Step 9.jpg|center|550px]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.<br><br>[[Image:Make a Quick Homemade Bread Step 9Bullet1.jpg|center|550px]]",
+                    "#*The dough will also start to look shiny and stretchy.<br><br>[[Image:Make a Quick Homemade Bread Step 9Bullet2.jpg|center|550px]]",
+                    "#Preheat the oven to 350 degrees.<br><br>[[Image:Make a Quick Homemade Bread Step 10.jpg|center|550px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.<br><br>[[Image:Make a Quick Homemade Bread Step 11.jpg|center|550px]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref><br><br>[[Image:Make a Quick Homemade Bread Step 12.jpg|center|550px]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.<br><br>[[Image:Make a Quick Homemade Bread Step 12Bullet1.jpg|center|550px]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref><br><br>[[Image:Make a Quick Homemade Bread Step 13.jpg|center|550px]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 14.jpg|center|550px]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.<br><br>[[Image:Make a Quick Homemade Bread Step 15.jpg|center|550px]]",
+                    "#Finished.<br><br>[[Image:Make a Quick Homemade Bread Final.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "16081246",
+            "user": "Votebot",
+            "timestamp": "15:05, 6 December 2014",
+            "anon": false,
+            "size": "(6,735 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Eat within two or three days; remember, there are no preservatives to make it last a week."
+                ],
+                "removed": [
+                    "*Eat within two or three days; remember, there are no preservatives to make it last a week."
+                ]
+            }
+        },
+        {
+            "id": "15602191",
+            "user": "Anna",
+            "timestamp": "15:52, 11 October 2014",
+            "anon": false,
+            "size": "(6,735 bytes)",
+            "change": -14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "FRIED CHICKEN"
+                ]
+            }
+        },
+        {
+            "id": "15156244",
+            "user": "Wikivisual",
+            "timestamp": "08:20, 23 August 2014",
+            "anon": false,
+            "size": "(6,749 bytes)",
+            "change": 167,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref><br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 3.jpg|center|550px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 3.jpg|center|550px]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.<br><br>[[Image:Make a Quick Homemade Bread Step 2Bullet1.jpg|center|550px]]",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.<br><br>[[Image:Make a Quick Homemade Bread Step 2Bullet2.jpg|center|550px]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.<br><br>[[Image:Make a Quick Homemade Bread Step 3 Version 3.jpg|center|550px]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.<br><br>[[Image:Make a Quick Homemade Bread Step 4 Version 3.jpg|center|550px]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough.<br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 3.jpg|center|550px]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.<br><br>[[Image:Make a Quick Homemade Bread Step 6.jpg|center|550px]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.<br><br>[[Image:Make a Quick Homemade Bread Step 7.jpg|center|550px]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.<br><br>[[Image:Make a Quick Homemade Bread Step 8.jpg|center|550px]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.<br><br>[[Image:Make a Quick Homemade Bread Step 9.jpg|center|550px]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.<br><br>[[Image:Make a Quick Homemade Bread Step 9Bullet1.jpg|center|550px]]",
+                    "#*The dough will also start to look shiny and stretchy.<br><br>[[Image:Make a Quick Homemade Bread Step 9Bullet2.jpg|center|550px]]",
+                    "#Preheat the oven to 350 degrees.<br><br>[[Image:Make a Quick Homemade Bread Step 10.jpg|center|550px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.<br><br>[[Image:Make a Quick Homemade Bread Step 11.jpg|center|550px]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref><br><br>[[Image:Make a Quick Homemade Bread Step 12.jpg|center|550px]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.<br><br>[[Image:Make a Quick Homemade Bread Step 12Bullet1.jpg|center|550px]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref><br><br>[[Image:Make a Quick Homemade Bread Step 13.jpg|center|550px]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 14.jpg|center|550px]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.<br><br>[[Image:Make a Quick Homemade Bread Step 15.jpg|center|550px]]",
+                    "#Finished.<br><br>[[Image:Make a Quick Homemade Bread Final.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 3.jpg|center|300px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 3.jpg|center|300px]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.[[Image:Make a Quick Homemade Bread Step 2Bullet1.jpg|center|300px]]",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.[[Image:Make a Quick Homemade Bread Step 2Bullet2.jpg|center|300px]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 3.jpg|center|300px]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 3.jpg|center|300px]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough. [[Image:Make a Quick Homemade Bread Step 5 Version 3.jpg|center|300px]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6.jpg|center|300px]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7.jpg|center|300px]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8.jpg|center|300px]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9.jpg|center|300px]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.[[Image:Make a Quick Homemade Bread Step 9Bullet1.jpg|center|300px]]",
+                    "#*The dough will also start to look shiny and stretchy. [[Image:Make a Quick Homemade Bread Step 9Bullet2.jpg|center|300px]]",
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10.jpg|center|300px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11.jpg|center|300px]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12.jpg|center|300px]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.[[Image:Make a Quick Homemade Bread Step 12Bullet1.jpg|center|300px]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13.jpg|center|300px]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14.jpg|center|300px]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15.jpg|center|300px]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Final.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "15156243",
+            "user": "Wikivisual",
+            "timestamp": "08:20, 23 August 2014",
+            "anon": false,
+            "size": "(6,582 bytes)",
+            "change": 1060,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref>[[Image:Make a Quick Homemade Bread Step 1 Version 3.jpg|center|300px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.[[Image:Make a Quick Homemade Bread Step 2 Version 3.jpg|center|300px]]",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.[[Image:Make a Quick Homemade Bread Step 2Bullet1.jpg|center|300px]]",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.[[Image:Make a Quick Homemade Bread Step 2Bullet2.jpg|center|300px]]",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.[[Image:Make a Quick Homemade Bread Step 3 Version 3.jpg|center|300px]]",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.[[Image:Make a Quick Homemade Bread Step 4 Version 3.jpg|center|300px]]",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough. [[Image:Make a Quick Homemade Bread Step 5 Version 3.jpg|center|300px]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.[[Image:Make a Quick Homemade Bread Step 6.jpg|center|300px]]",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.[[Image:Make a Quick Homemade Bread Step 7.jpg|center|300px]]",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.[[Image:Make a Quick Homemade Bread Step 8.jpg|center|300px]]",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.[[Image:Make a Quick Homemade Bread Step 9.jpg|center|300px]]",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.[[Image:Make a Quick Homemade Bread Step 9Bullet1.jpg|center|300px]]",
+                    "#*The dough will also start to look shiny and stretchy. [[Image:Make a Quick Homemade Bread Step 9Bullet2.jpg|center|300px]]",
+                    "#Preheat the oven to 350 degrees.[[Image:Make a Quick Homemade Bread Step 10.jpg|center|300px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.[[Image:Make a Quick Homemade Bread Step 11.jpg|center|300px]]",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 12.jpg|center|300px]]",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.[[Image:Make a Quick Homemade Bread Step 12Bullet1.jpg|center|300px]]",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>[[Image:Make a Quick Homemade Bread Step 13.jpg|center|300px]]",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.[[Image:Make a Quick Homemade Bread Step 14.jpg|center|300px]]",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews.[[Image:Make a Quick Homemade Bread Step 15.jpg|center|300px]]",
+                    "#Finished.[[Image:Make a Quick Homemade Bread Final.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref> <br><br>[[Image:Make a Quick Homemade Bread Intro.jpg|center|550px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough. <br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|center|550px]]",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.",
+                    "#*The dough will also start to look shiny and stretchy.",
+                    "#Preheat the oven to 350 degrees. <br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|center|550px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews. <br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "14007532",
+            "user": "213.121.167.8",
+            "timestamp": "11:39, 23 June 2014",
+            "anon": true,
+            "size": "(5,522 bytes)",
+            "change": 14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "FRIED CHICKEN"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13826350",
+            "user": "InterwikiBot",
+            "timestamp": "17:52, 4 June 2014",
+            "anon": false,
+            "size": "(5,508 bytes)",
+            "change": 26,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[zh:快速自制面包]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13435822",
+            "user": "InterwikiBot",
+            "timestamp": "16:39, 27 April 2014",
+            "anon": false,
+            "size": "(5,482 bytes)",
+            "change": 43,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[fr:préparer rapidement du pain maison]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13248097",
+            "user": "InterwikiBot",
+            "timestamp": "16:45, 9 April 2014",
+            "anon": false,
+            "size": "(5,439 bytes)",
+            "change": 69,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:быстро приготовить домашний хлеб]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13157862",
+            "user": "InterwikiBot",
+            "timestamp": "03:22, 1 April 2014",
+            "anon": false,
+            "size": "(5,370 bytes)",
+            "change": 37,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Fazer um Pão Caseiro Rápido]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13151680",
+            "user": "InterwikiBot",
+            "timestamp": "02:15, 1 April 2014",
+            "anon": false,
+            "size": "(5,333 bytes)",
+            "change": 45,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Preparare Velocemente il Pane in Casa]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13139179",
+            "user": "InterwikiBot",
+            "timestamp": "23:55, 31 March 2014",
+            "anon": false,
+            "size": "(5,288 bytes)",
+            "change": 45,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[de:Schnell ein hausgemachtes Brot backen]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12896475",
+            "user": "TJean",
+            "timestamp": "21:43, 5 March 2014",
+            "anon": false,
+            "size": "(5,243 bytes)",
+            "change": 3724,
+            "summary": "(Substantive edit)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Certain meals call for a loaf of fresh bread, but you don't always have time to wait hours on end for it to rise. When you need hearty, fresh bread in under an hour, making this quick recipe won't let you down. This crusty, fragrant bread is the perfect partner for any meal.",
+                    "*2 cups very warm (not boiling hot) water",
+                    "*4 teaspoons instant yeast",
+                    "*1 tablespoon sugar",
+                    "*1/4 cup vegetable oil",
+                    "*5 cups flour",
+                    "*1 1/2 teaspoons salt",
+                    "",
+                    "===Making the Dough===",
+                    "#Pour the water into a bowl. It's important that you use water that's very warm, but not too hot! Hot water could kill the yeast. Warm water will wake it up without killing it, which is what you want - that way the yeast will help the bread rise.<ref>http://www.thekitchn.com/recipe-notime-bread-40653</ref> <br><br>[[Image:Make a Quick Homemade Bread Intro.jpg|center|550px]]",
+                    "#Add the yeast and sugar. Use a spoon to stir it all together. The yeast will begin to react with the sugar, and the mixture will become bubbly and foamy. This should happen within just a few minutes.",
+                    "#*If 3 minutes have passed and nothing has happened, your yeast might be stale, and you may need to use another batch.",
+                    "#*You could also try again using water that's a little warmer or cooler, depending on what temperature you initially tried.",
+                    "#Pour the flour into a big mixing bowl. Five cups will yield two loaves of bread. You can use either all-purpose flour or bread flour. The bread flour might have a bit more height, but all-purpose flour works just fine, too.",
+                    "#Add the oil, salt and yeast mixture. Pour them one at a time over the flour.",
+                    "#Mix the dough. Use either a mixture with a dough hook attachment, a hand mixer or a wooden spoon to mix all the ingredients until they come together in a big, sticky ball of dough. <br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|center|550px]]",
+                    "===Rising and Kneading===",
+                    "#Put the ball of dough in an oiled bowl. You can wash out the mixing bowl and oil that one, or use a separate oiled bowl. It should be at least twice the size as the ball of dough, so the dough has room to rise.",
+                    "#Cover the dough and put it in a warm place. Cover it ''loosely'' with plastic wrap - it shouldn't be airtight - or place a clean dishcloth over the bowl. Put it in a warm area in your kitchen. If your kitchen tends to be drafty, preheat your oven to 200 degrees, turn it off, and put the bowl in there. It'll be just the right temperature for the dough to rise.",
+                    "#Let the dough rise for 25 minutes. During this time it will start puffing up. It won't quite double in size, but it will rise enough to give the dough a good texture.",
+                    "#Punch and knead the dough. If you have a stand mixer, use the dough hook attachment and knead the dough until it relaxes - about 5 minutes. If you don't have a mixer, you can [[Knead Dough | knead the dough by hand]]. Turn it out onto a floured surface and use the heels of your hands to knead for 10 minutes, or until the dough relaxes.",
+                    "#*You'll know the dough has relaxed when it stops pulling back into a ball shape when you pause your kneading. It should be loose and malleable.",
+                    "#*The dough will also start to look shiny and stretchy.",
+                    "===Dividing and Baking===",
+                    "#Preheat the oven to 350 degrees. <br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|center|550px]]",
+                    "#Divide the dough. Roll it out or press it into a circular shape, like a pizza crust. Use a knife to cut the dough in half, so you have two half-moons of dough.",
+                    "#Roll it up. Place one piece of dough in front of you so that one of the corners is pointing toward you. Pick up the corner and roll the dough away from your body, like you would a jelly roll. Roll it all the way up until you have a loaf. Repeat with the other piece of dough.<ref>http://thewannabecountrygirl.com/super-easy-homemade-bread/</ref>",
+                    "#*If you don't want a rolled loaf shape, you can divide and shape the dough any way you want. Make traditional loaves, dinner rolls, pizza crust, or any other shape you like.",
+                    "#Make slits in the top. Use a knife to make a few slits in the top of each loaf. This helps the bread cook more evenly.<ref>http://www.lafujimama.com/2009/09/simple-one-hour-homemade-bread/</ref>",
+                    "#Place the unbaked bread on a baking sheet. A cookie sheet works great, or you could nestle it into a loaf pan.",
+                    "#Bake the bread for 30 minutes. It's ready when the top looks slightly golden brown. Serve it with butter and jam or alongside soups and stews. <br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|center|550px]]",
+                    "*Adjust the ingredients; use 2 cups self-raising flour, 1/2 cup whole wheat flour, and 2-3 teaspoons of flax seeds + 1 beer for a healthy bread.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__Parts__"
+                ],
+                "removed": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "*2 2/3 cups self-raising flour",
+                    "*12oz can or bottle of beer",
+                    "#  Set oven to 375º F.<br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|center|550px]]",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.<br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|center|550px]]",
+                    "#  Scrape mixture into greased loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 3 Version 2.jpg|center|550px]]",
+                    "#  Bake for 55-60 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 4 Version 2.jpg|center|550px]]",
+                    "#  Cool for a about 5 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|center|550px]]",
+                    "#Finished.<br><br>[[Image:Make a Quick Homemade Bread Intro.jpg|center|550px]]",
+                    "*Adjust the ingredients; use 2 cups self-raising flour, 1/2 cup whole wheat flour, and 2-3 teaspoons of flax seeds for a healthier bread."
+                ]
+            }
+        },
+        {
+            "id": "12386729",
+            "user": "Wikiphoto",
+            "timestamp": "23:07, 13 January 2014",
+            "anon": false,
+            "size": "(1,519 bytes)",
+            "change": 19,
+            "summary": "(Removing intro images; Made final step out of former intro image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#Finished.<br><br>[[Image:Make a Quick Homemade Bread Intro.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "[[Image:Make a Quick Homemade Bread Intro.jpg|right|300px]]This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "12377513",
+            "user": "Wikiphoto",
+            "timestamp": "22:31, 12 January 2014",
+            "anon": false,
+            "size": "(1,500 bytes)",
+            "change": 5,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Set oven to 375º F.<br><br>[[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|center|550px]]",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.<br><br>[[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|center|550px]]",
+                    "#  Scrape mixture into greased loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 3 Version 2.jpg|center|550px]]",
+                    "#  Bake for 55-60 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 4 Version 2.jpg|center|550px]]",
+                    "#  Cool for a about 5 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#  [[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|right|300px]]Set oven to 375º F.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|right|300px]]Use a wooden spoon or a spatula to combine ingredients.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 3 Version 2.jpg|right|300px]]Scrape mixture into greased loaf pan.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 4 Version 2.jpg|right|300px]]Bake for 55-60 minutes.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|right|300px]]Cool for a about 5 minutes.<br><br>"
+                ]
+            }
+        },
+        {
+            "id": "12377512",
+            "user": "Wikiphoto",
+            "timestamp": "22:31, 12 January 2014",
+            "anon": false,
+            "size": "(1,495 bytes)",
+            "change": 104,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Make a Quick Homemade Bread Intro.jpg|right|300px]]This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 1 Version 2.jpg|right|300px]]Set oven to 375º F.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 2 Version 2.jpg|right|300px]]Use a wooden spoon or a spatula to combine ingredients.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 3 Version 2.jpg|right|300px]]Scrape mixture into greased loaf pan.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 4 Version 2.jpg|right|300px]]Bake for 55-60 minutes.<br><br>",
+                    "#  [[Image:Make a Quick Homemade Bread Step 5 Version 2.jpg|right|300px]]Cool for a about 5 minutes.<br><br>"
+                ],
+                "removed": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#  Set oven to 375º F.<br><br>[[Image:Make a Quick Homemade Bread Step 1.jpg|center|550px]]",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.<br><br>[[Image:Make a Quick Homemade Bread Step 2.jpg|center|550px]]",
+                    "#  Scrape mixture into greased loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 3.jpg|center|550px]]",
+                    "#  Bake for 55-60 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 4.jpg|center|550px]]",
+                    "#  Cool for a about 5 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "11178388",
+            "user": "Isorhythmic",
+            "timestamp": "18:11, 21 September 2013",
+            "anon": false,
+            "size": "(1,391 bytes)",
+            "change": -916,
+            "summary": "(Reverted edits by 31.185.186.234 (Talk); changed back to last version by Wikiphoto)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Breads]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Breads]]",
+                    "*If you like to eat fresh bread every day and you live alone, try this: use 250 grms flour, add 25 ml olive oil, 1 level tspn sea salt, about 175 ml pre-prepared brewer's yeast culture, and stir to a dough, form into a ball, and knead with one hand in such a way as to deform the dough vigorously without folding it over. Form into a disc shaped lens and spread some white flour on it to prevent sticking. Place on a pizza tin and allow to rise in an oven at 30-40 deg C. At the same time include the culture in a pyrex glass measuring jug. This is tap water heated to luke-warmth in a microwave (30 secs). Add two tspns sugar and one tspn dried brewer's yeast. Stir and make into a suspension. Place in the oven with the proving dough. After 1 to 2 hours take out the culture and turn up the oven to 190 deg C. leave for about 45 minutes or until you are satisfied with the crust. Allow to cool a bit before slicing."
+                ]
+            }
+        },
+        {
+            "id": "11170680",
+            "user": "31.185.186.234",
+            "timestamp": "23:00, 20 September 2013",
+            "anon": true,
+            "size": "(2,307 bytes)",
+            "change": 916,
+            "summary": "(My version of the same.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Isorhythmic",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Breads]]",
+                    "*If you like to eat fresh bread every day and you live alone, try this: use 250 grms flour, add 25 ml olive oil, 1 level tspn sea salt, about 175 ml pre-prepared brewer's yeast culture, and stir to a dough, form into a ball, and knead with one hand in such a way as to deform the dough vigorously without folding it over. Form into a disc shaped lens and spread some white flour on it to prevent sticking. Place on a pizza tin and allow to rise in an oven at 30-40 deg C. At the same time include the culture in a pyrex glass measuring jug. This is tap water heated to luke-warmth in a microwave (30 secs). Add two tspns sugar and one tspn dried brewer's yeast. Stir and make into a suspension. Place in the oven with the proving dough. After 1 to 2 hours take out the culture and turn up the oven to 190 deg C. leave for about 45 minutes or until you are satisfied with the crust. Allow to cool a bit before slicing."
+                ],
+                "removed": [
+                    "",
+                    "[[Category:Breads]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "9921309",
+            "user": "Wikiphoto",
+            "timestamp": "18:07, 17 May 2013",
+            "anon": false,
+            "size": "(1,391 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Isorhythmic",
+            "exact_contribution": {
+                "added": [
+                    "#  Set oven to 375º F.<br><br>[[Image:Make a Quick Homemade Bread Step 1.jpg|center|550px]]",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.<br><br>[[Image:Make a Quick Homemade Bread Step 2.jpg|center|550px]]",
+                    "#  Scrape mixture into greased loaf pan.<br><br>[[Image:Make a Quick Homemade Bread Step 3.jpg|center|550px]]",
+                    "#  Bake for 55-60 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 4.jpg|center|550px]]",
+                    "#  Cool for a about 5 minutes.<br><br>[[Image:Make a Quick Homemade Bread Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Make a Quick Homemade Bread Step 1.jpg|right|300px]]Set oven to 375º F.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 2.jpg|right|300px]]Use a wooden spoon or a spatula to combine ingredients.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 3.jpg|right|300px]]Scrape mixture into greased loaf pan.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 4.jpg|right|300px]]Bake for 55-60 minutes.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 5.jpg|right|300px]]Cool for a about 5 minutes."
+                ]
+            }
+        },
+        {
+            "id": "9921308",
+            "user": "Wikiphoto",
+            "timestamp": "18:07, 17 May 2013",
+            "anon": false,
+            "size": "(1,345 bytes)",
+            "change": 242,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Isorhythmic",
+            "exact_contribution": {
+                "added": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 1.jpg|right|300px]]Set oven to 375º F.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 2.jpg|right|300px]]Use a wooden spoon or a spatula to combine ingredients.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 3.jpg|right|300px]]Scrape mixture into greased loaf pan.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 4.jpg|right|300px]]Bake for 55-60 minutes.",
+                    "#  [[Image:Make a Quick Homemade Bread Step 5.jpg|right|300px]]Cool for a about 5 minutes."
+                ],
+                "removed": [
+                    "[[Image:20060524 batter beer bread.jpg|thumb|right|251px]]This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#  Set oven to 375º F.",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.",
+                    "#  Scrape mixture into greased loaf pan.",
+                    "#  Bake for 55-60 minutes.",
+                    "#  Cool for a about 5 minutes."
+                ]
+            }
+        },
+        {
+            "id": "9329641",
+            "user": "InterwikiBot",
+            "timestamp": "23:15, 4 March 2013",
+            "anon": false,
+            "size": "(1,103 bytes)",
+            "change": 24,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:hacer pan casero]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8743127",
+            "user": "Destroyer",
+            "timestamp": "12:03, 18 November 2012",
+            "anon": false,
+            "size": "(1,079 bytes)",
+            "change": 52,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Make a Quick Homemade Bread|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4680658",
+            "user": "Tryme2",
+            "timestamp": "23:57, 7 June 2010",
+            "anon": false,
+            "size": "(1,027 bytes)",
+            "change": 58,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:20060524 batter beer bread.jpg|thumb|right|251px]]This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise."
+                ],
+                "removed": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise."
+                ]
+            }
+        },
+        {
+            "id": "2894906",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "03:01, 20 December 2008",
+            "anon": false,
+            "size": "(969 bytes)",
+            "change": -13,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Breads]]"
+                ],
+                "removed": [
+                    "[[Category:Breads and Pastries]]"
+                ]
+            }
+        },
+        {
+            "id": "2098629",
+            "user": "X Mak X",
+            "timestamp": "13:40, 27 May 2008",
+            "anon": false,
+            "size": "(982 bytes)",
+            "change": -5,
+            "summary": "(→‎Tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Adjust the ingredients; use 2 cups self-raising flour, 1/2 cup whole wheat flour, and 2-3 teaspoons of flax seeds for a healthier bread."
+                ],
+                "removed": [
+                    "*Adjust the ingredients and use 2 cups self-raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread."
+                ]
+            }
+        },
+        {
+            "id": "1536117",
+            "user": "Viral",
+            "timestamp": "06:05, 7 January 2008",
+            "anon": false,
+            "size": "(987 bytes)",
+            "change": -7,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Ingredients ==",
+                    "*2 2/3 cups self-raising flour",
+                    "*12oz can or bottle of beer"
+                ],
+                "removed": [
+                    "",
+                    "== Things You'll Need ==",
+                    "*2 2/3 cups self-raising flour",
+                    "*12oz can or bottle of beer"
+                ]
+            }
+        },
+        {
+            "id": "965857",
+            "user": "Elocina",
+            "timestamp": "19:03, 25 July 2007",
+            "anon": false,
+            "size": "(994 bytes)",
+            "change": -22,
+            "summary": "(Reverted edits by 76.106.114.37 (Talk); changed back to last version by Filigree Peahen)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "#  Your almost there!"
+                ]
+            }
+        },
+        {
+            "id": "965856",
+            "user": "76.106.114.37",
+            "timestamp": "19:02, 25 July 2007",
+            "anon": true,
+            "size": "(1,016 bytes)",
+            "change": 18,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Elocina",
+            "exact_contribution": {
+                "added": [
+                    "#  Your almost there!"
+                ],
+                "removed": [
+                    "yay"
+                ]
+            }
+        },
+        {
+            "id": "965852",
+            "user": "76.106.114.37",
+            "timestamp": "19:02, 25 July 2007",
+            "anon": true,
+            "size": "(998 bytes)",
+            "change": 4,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Elocina",
+            "exact_contribution": {
+                "added": [
+                    "yay"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "942557",
+            "user": "Filigree Peahen",
+            "timestamp": "23:06, 18 July 2007",
+            "anon": false,
+            "size": "(994 bytes)",
+            "change": -18,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Elocina",
+            "exact_contribution": {
+                "added": [
+                    "This is so simple - you only need two ingredients. Texture is like a crunchy French bread. No kneading or waiting on bread to rise.",
+                    "#  Set oven to 375º F.",
+                    "*[[Make Zucchini Bread|How to Make Zucchini Bread]]",
+                    "*[[Make Chocolate Banana Bread|How to Make Chocolate Banana Bread]]",
+                    "*[[Make a Chocolate Cake|How to Make a Chocolate Cake]]",
+                    "*[[Create a Picnic Check List|How to Create a Picnic Check List]]",
+                    "*[[Eat a Banana|How to Eat a Banana]]"
+                ],
+                "removed": [
+                    "This is so simple and you only need two ingredients.Texture is like a crunchy french bread. No kneading or waiting on bread to rise.",
+                    "",
+                    "#  Set oven to 375 degrees F.",
+                    "*  [[Make Zucchini Bread|How to Make Zucchini Bread]]",
+                    "*  [[Make Chocolate Banana Bread|How to Make Chocolate Banana Bread]]",
+                    "*  [[Make a Chocolate Cake|How to Make a Chocolate Cake]]",
+                    "*  [[Create a Picnic Check List|How to Create a Picnic Check List]]",
+                    "*  [[Eat a Banana|How to Eat a Banana]]"
+                ]
+            }
+        },
+        {
+            "id": "545404",
+            "user": "Dreamgal2",
+            "timestamp": "02:13, 16 February 2007",
+            "anon": false,
+            "size": "(1,012 bytes)",
+            "change": 314,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*  [[Make Zucchini Bread|How to Make Zucchini Bread]]",
+                    "*  [[Make Chocolate Banana Bread|How to Make Chocolate Banana Bread]]",
+                    "*  [[Make a Chocolate Cake|How to Make a Chocolate Cake]]",
+                    "*  [[Create a Picnic Check List|How to Create a Picnic Check List]]",
+                    "*  [[Eat a Banana|How to Eat a Banana]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "392260",
+            "user": "Flickety",
+            "timestamp": "02:16, 21 November 2006",
+            "anon": false,
+            "size": "(698 bytes)",
+            "change": 6,
+            "summary": "(MT B&P)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Breads and Pastries]]",
+                    "*Adjust the ingredients and use 2 cups self-raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread.",
+                    "*Eat within two or three days; remember, there are no preservatives to make it last a week.",
+                    "",
+                    "*2 2/3 cups self-raising flour",
+                    "*12oz can or bottle of beer"
+                ],
+                "removed": [
+                    "[[Category:Breads]]",
+                    "*  Adjust the ingredients and use 2 cups self-raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread.",
+                    "*  Eat within two or three days; remember, there are no preservatives to make it last a week.",
+                    "*  2 2/3 cups self-raising flour",
+                    "*  12oz can or bottle of beer"
+                ]
+            }
+        },
+        {
+            "id": "212493",
+            "user": "Benrubes",
+            "timestamp": "20:04, 8 February 2006",
+            "anon": false,
+            "size": "(692 bytes)",
+            "change": 41,
+            "summary": "(moved ingredients to \"things you'll need\"; cat)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "This is so simple and you only need two ingredients.Texture is like a crunchy french bread. No kneading or waiting on bread to rise.",
+                    "[[Category:Breads]]",
+                    "*  Adjust the ingredients and use 2 cups self-raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread.",
+                    "*  Eat within two or three days; remember, there are no preservatives to make it last a week.",
+                    "== Things You'll Need ==",
+                    "*  2 2/3 cups self-raising flour",
+                    "*  12oz can or bottle of beer"
+                ],
+                "removed": [
+                    "This is so simple and you only need two ingredients: 2 2/3 cups self raising flour and one 12 oz can or bottle of beer. Texture is like a crunchy french bread. No kneading or waiting on bread to rise.",
+                    "*  Adjust the ingredients and use 2 cups self raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread.",
+                    "*  Eat within two or three days, remember there are no preservatives to make it last a week."
+                ]
+            }
+        },
+        {
+            "id": "84146",
+            "user": "65.144.105.98",
+            "timestamp": "15:33, 8 February 2006",
+            "anon": true,
+            "size": "(651 bytes)",
+            "change": 651,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "This is so simple and you only need two ingredients: 2 2/3 cups self raising flour and one 12 oz can or bottle of beer. Texture is like a crunchy french bread. No kneading or waiting on bread to rise.",
+                    "== Steps ==",
+                    "#  Set oven to 375 degrees F.",
+                    "#  Use a wooden spoon or a spatula to combine ingredients.",
+                    "#  Scrape mixture into greased loaf pan.",
+                    "#  Bake for 55-60 minutes.",
+                    "#  Cool for a about 5 minutes.",
+                    "",
+                    "== Tips ==",
+                    "*  Adjust the ingredients and use 2 cups self raising flour and 1/2 cup whole wheat flour and 2-3 teaspoons of flax seeds for a healthier bread.",
+                    "*  Eat within two or three days, remember there are no preservatives to make it last a week."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

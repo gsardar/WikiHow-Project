@@ -1,0 +1,558 @@
+{
+    "title": "Use-a-Transistor",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:20:47.718903",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33034123",
+            "user": "MiscBot",
+            "timestamp": "16:35, 31 December 2024",
+            "anon": false,
+            "size": "(11,876 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31499480",
+            "user": "Votebot",
+            "timestamp": "08:43, 4 April 2023",
+            "anon": false,
+            "size": "(11,857 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    "* Transistors are versatile pieces of equipment that can be used in many ways. If you'd like to learn more about how they work and how you can use them, check out an online tutorial like this one: https://learn.sparkfun.com/tutorials/transistors/all."
+                ],
+                "removed": [
+                    "==Tips==",
+                    "* Transistors are versatile pieces of equipment that can be used in many ways. If you'd like to learn more about how they work and how you can use them, check out an online tutorial like this one: https://learn.sparkfun.com/tutorials/transistors/all."
+                ]
+            }
+        },
+        {
+            "id": "31211121",
+            "user": "ICanGuessItLol",
+            "timestamp": "17:15, 28 December 2022",
+            "anon": false,
+            "size": "(11,856 bytes)",
+            "change": -586,
+            "summary": "(RCP reverted edits by Rashid bashir (talk) to  revision #31095865 by Wikivisual)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ],
+                "removed": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. It is the combination of two words transfer and resistance. It consists of two back-to-back P-N junctions manufactured in a single piece of semiconductor crystal. A transistor is simply a sandwich of one type of semiconductor material between two layers of other. They are two types.",
+                    "",
+                    "== PNP Transistor ==",
+                    "",
+                    "",
+                    "When N-type material is sandwiched between two p-type materials as shown in fig.[[Image:PNP transister.png|center]]",
+                    "",
+                    "== NPN Transistor ==",
+                    "",
+                    "",
+                    "When p-type material is sandwiched between two N-type materials as shown in fig.[[Image:Example.jpg[[Image:NPN  transister.png|center]]]]",
+                    "Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ]
+            }
+        },
+        {
+            "id": "31210835",
+            "user": "Rashid bashir",
+            "timestamp": "14:23, 28 December 2022",
+            "anon": false,
+            "size": "(12,442 bytes)",
+            "change": 55,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "When N-type material is sandwiched between two p-type materials as shown in fig.[[Image:PNP transister.png|center]]",
+                    "When p-type material is sandwiched between two N-type materials as shown in fig.[[Image:Example.jpg[[Image:NPN  transister.png|center]]]]",
+                    "Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ],
+                "removed": [
+                    "When N-type material is sandwiched between two p-type materials as shown in fig.",
+                    "When p-type material is sandwiched between two N-type materials as shown in fig.",
+                    "[[[Image:NPN transister.png|center]]]Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ]
+            }
+        },
+        {
+            "id": "31210826",
+            "user": "Rashid bashir",
+            "timestamp": "14:20, 28 December 2022",
+            "anon": false,
+            "size": "(12,387 bytes)",
+            "change": -19,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "[[[Image:NPN transister.png|center]]]Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ],
+                "removed": [
+                    "[[Image:Example.jpg][[Image:NPN transister.png|center]]]Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ]
+            }
+        },
+        {
+            "id": "31210823",
+            "user": "Rashid bashir",
+            "timestamp": "14:19, 28 December 2022",
+            "anon": false,
+            "size": "(12,406 bytes)",
+            "change": 550,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. It is the combination of two words transfer and resistance. It consists of two back-to-back P-N junctions manufactured in a single piece of semiconductor crystal. A transistor is simply a sandwich of one type of semiconductor material between two layers of other. They are two types.",
+                    "",
+                    "== PNP Transistor ==",
+                    "",
+                    "",
+                    "When N-type material is sandwiched between two p-type materials as shown in fig.",
+                    "",
+                    "== NPN Transistor ==",
+                    "",
+                    "",
+                    "When p-type material is sandwiched between two N-type materials as shown in fig.",
+                    "[[Image:Example.jpg][[Image:NPN transister.png|center]]]Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ],
+                "removed": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store."
+                ]
+            }
+        },
+        {
+            "id": "31095865",
+            "user": "Wikivisual",
+            "timestamp": "15:21, 21 November 2022",
+            "anon": false,
+            "size": "(11,856 bytes)",
+            "change": 140,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>[[Image:Use a Transistor Step 1 Version 2.jpg|center]]",
+                    "#Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>[[Image:Use a Transistor Step 2 Version 2.jpg|center]]",
+                    "#Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 3 Version 2.jpg|center]]",
+                    "#Insert the two 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another by both width and length.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>[[Image:Use a Transistor Step 4 Version 2.jpg|center]]",
+                    "#Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 5 Version 2.jpg|center]]",
+                    "#Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 6 Version 2.jpg|center]]",
+                    "#Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 7 Version 2.jpg|center]]",
+                    "#Cut 4 sections of wire from a reel of hookup wire. You’ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a {{convert|3|in|cm|abbr=on}} section of wire. Then, cut 2 more segments, each about {{convert|6|in|cm| abbr=on}} long. Finally, cut 1 short {{convert|2|in|cm| abbr=on}} long segment of wire.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 8 Version 2.jpg|center]]",
+                    "#Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 9 Version 2.jpg|center]]",
+                    "#Insert both {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of the 2 long wire segments so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 10 Version 2.jpg|center]]",
+                    "#Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end 2-3 around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 11 Version 2.jpg|center]]",
+                    "#Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire 2-3 times around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 12 Version 2.jpg|center]]",
+                    "#Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 13 Version 2.jpg|center]]",
+                    "#Touch the 2 long wires to activate the circuit. These wires are referred to as the “touch wires.” Use 1 finger and press down on the 2 touch wires. Make sure that you’re touching both at once. Press them down against the breadboard, and watch as the LED lights up.<ref>https://youtu.be/-yLAboW_E3s?t=31</ref>[[Image:Use a Transistor Step 14 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>[[Image:Use a Transistor Step 1.jpg|center]]",
+                    "#Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>[[Image:Use a Transistor Step 2.jpg|center]]",
+                    "#Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 3.jpg|center]]",
+                    "#Insert the two 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another by both width and length.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>[[Image:Use a Transistor Step 4.jpg|center]]",
+                    "#Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 5.jpg|center]]",
+                    "#Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 6.jpg|center]]",
+                    "#Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 7.jpg|center]]",
+                    "#Cut 4 sections of wire from a reel of hookup wire. You’ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a {{convert|3|in|cm|abbr=on}} section of wire. Then, cut 2 more segments, each about {{convert|6|in|cm| abbr=on}} long. Finally, cut 1 short {{convert|2|in|cm| abbr=on}} long segment of wire.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 8.jpg|center]]",
+                    "#Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 9.jpg|center]]",
+                    "#Insert both {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of the 2 long wire segments so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 10.jpg|center]]",
+                    "#Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end 2-3 around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 11.jpg|center]]",
+                    "#Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire 2-3 times around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 12.jpg|center]]",
+                    "#Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 13.jpg|center]]",
+                    "#Touch the 2 long wires to activate the circuit. These wires are referred to as the “touch wires.” Use 1 finger and press down on the 2 touch wires. Make sure that you’re touching both at once. Press them down against the breadboard, and watch as the LED lights up.<ref>https://youtu.be/-yLAboW_E3s?t=31</ref>[[Image:Use a Transistor Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26347514",
+            "user": "MiscBot",
+            "timestamp": "07:52, 29 March 2019",
+            "anon": false,
+            "size": "(11,716 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25680699",
+            "user": "Wikivisual",
+            "timestamp": "02:56, 1 December 2018",
+            "anon": false,
+            "size": "(11,727 bytes)",
+            "change": 601,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>[[Image:Use a Transistor Step 1.jpg|center]]",
+                    "#Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>[[Image:Use a Transistor Step 2.jpg|center]]",
+                    "#Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 3.jpg|center]]",
+                    "#Insert the two 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another by both width and length.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>[[Image:Use a Transistor Step 4.jpg|center]]",
+                    "#Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 5.jpg|center]]",
+                    "#Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 6.jpg|center]]",
+                    "#Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 7.jpg|center]]",
+                    "#Cut 4 sections of wire from a reel of hookup wire. You’ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a {{convert|3|in|cm|abbr=on}} section of wire. Then, cut 2 more segments, each about {{convert|6|in|cm| abbr=on}} long. Finally, cut 1 short {{convert|2|in|cm| abbr=on}} long segment of wire.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 8.jpg|center]]",
+                    "#Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 9.jpg|center]]",
+                    "#Insert both {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of the 2 long wire segments so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 10.jpg|center]]",
+                    "#Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end 2-3 around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 11.jpg|center]]",
+                    "#Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire 2-3 times around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 12.jpg|center]]",
+                    "#Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>[[Image:Use a Transistor Step 13.jpg|center]]",
+                    "#Touch the 2 long wires to activate the circuit. These wires are referred to as the “touch wires.” Use 1 finger and press down on the 2 touch wires. Make sure that you’re touching both at once. Press them down against the breadboard, and watch as the LED lights up.<ref>https://youtu.be/-yLAboW_E3s?t=31</ref>[[Image:Use a Transistor Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "# Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>",
+                    "# Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "# Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert the two 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another by both width and length.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Cut 4 sections of wire from a reel of hookup wire. You’ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a {{convert|3|in|cm|abbr=on}} section of wire. Then, cut 2 more segments, each about {{convert|6|in|cm| abbr=on}} long. Finally, cut 1 short {{convert|2|in|cm| abbr=on}} long segment of wire.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert both {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of the 2 long wire segments so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end 2-3 around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire 2-3 times around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Touch the 2 long wires to activate the circuit. These wires are referred to as the “touch wires.” Use 1 finger and press down on the 2 touch wires. Make sure that you’re touching both at once. Press them down against the breadboard, and watch as the LED lights up.<ref>https://youtu.be/-yLAboW_E3s?t=31</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25608732",
+            "user": "Seymour Edits",
+            "timestamp": "23:23, 16 November 2018",
+            "anon": false,
+            "size": "(11,126 bytes)",
+            "change": 664,
+            "summary": "(Audit revision.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "# Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "#* This may take some delicate work since each of the breadboard holes is only about {{convert|1/32|in|mm}} across.",
+                    "#* A breadboard is a roughly {{convert|10x6|in|cm|abbr=on}} piece of plastic with electrical wiring running between the individual holes. It’s commonly used in electrical experiments with transistors since electrical power will run between any metal elements connected to the breadboard.",
+                    "# Insert the two 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another by both width and length.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "#* Insert the first resistor on the upper-right hand side of the transistor within 2-3 holes of those the transistor is in. Then, place the second resistor on the lower-left side of the transistor, also within 2-3 holes of the transistor's location.",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* When you’re connecting the LED, always connect the anode to the circuit’s positive side. If you mistakenly connect the anode to the circuit's negative side, the circuit won't work and the LED won't light up.",
+                    "#* To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 2-3 twists to ensure that electricity can flow between the wires.",
+                    "# Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert both {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of the 2 long wire segments so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end 2-3 around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire 2-3 times around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "* two 470Ω resistors",
+                    "* Transistors are versatile pieces of equipment that can be used in many ways. If you'd like to learn more about how they work and how you can use them, check out an online tutorial like this one: https://learn.sparkfun.com/tutorials/transistors/all.",
+                    "* To experiment with transistors, also try using a free online transistor simulator, as found here: https://www.circuitlab.com/."
+                ],
+                "removed": [
+                    "# Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the left-most pin is the emitter, the central pin is the base, and the right-most pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "#* This may take some delicate work, since each of the breadboard holes are only about {{convert|1/32|in|mm}} across.",
+                    "#* A breadboard is a roughly {{convert|10x6|in|cm|abbr=on}} piece of plastic with electrical wiring running between the individual holes. It’s commonly used in electrical experiments with transistors, since electrical power will run between any metal elements connected to the breadboard.",
+                    "# Insert the 2 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "#* Insert the first resistor on the upper-right hand side of the transistor and the second resistor on the lower-left side of the transistor.",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* When you’re connecting the LED, always connect the anode to the circuit’s positive side.",
+                    "#* To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 3-4 twists to ensure that electricity can flow between the wires.",
+                    "# Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert your 2 {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of each wire segment so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "* 2 470Ω resistors"
+                ]
+            }
+        },
+        {
+            "id": "25545165",
+            "user": "Sophia B",
+            "timestamp": "18:46, 5 November 2018",
+            "anon": false,
+            "size": "(10,462 bytes)",
+            "change": 4,
+            "summary": "(corrected errors)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. You can easily find all the materials you'll need at an electronics supply store.",
+                    "# Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 3-4 twists to ensure that electricity can flow between the wires.",
+                    "* 1 Bipolar Junction Transmitter (BJT) transistor"
+                ],
+                "removed": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. Purchase a transistor (and the other supplies) at an electronics supply store.",
+                    "# Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the kathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* To connect the kathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 3-4 twists to ensure that electricity can flow between the wires.",
+                    "* 1 Bipolar junction transmitter (BJT) transistor"
+                ]
+            }
+        },
+        {
+            "id": "25542639",
+            "user": "StrayCatz",
+            "timestamp": "12:17, 5 November 2018",
+            "anon": false,
+            "size": "(10,458 bytes)",
+            "change": 0,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>"
+                ],
+                "removed": [
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the kathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25540185",
+            "user": "Seymour Edits",
+            "timestamp": "00:05, 5 November 2018",
+            "anon": false,
+            "size": "(10,458 bytes)",
+            "change": 1578,
+            "summary": "(Added 1.1, made copy edits, revised Tips. Added substeps explaining the materials in P1.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "===Inserting the Transistor and Resistors===",
+                    "# Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you’ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470Ω resistors, and purchase a small box (you’ll only need 2 individual resistors). Also pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=2</ref>",
+                    "#* There are many different types of transistors, and the Bipolar Junction Transistor (BJT) is one of the most popular styles. It’s also fairly straightforward to use and is a good option for anyone new to working with transistors. A BJT transistor works by receiving a small electrical current and converting it into a much larger current.<ref>https://www.elprocus.com/different-types-of-transistor-and-their-functions/</ref>",
+                    "# Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the left-most pin is the emitter, the central pin is the base, and the right-most pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "# Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* A breadboard is a roughly {{convert|10x6|in|cm|abbr=on}} piece of plastic with electrical wiring running between the individual holes. It’s commonly used in electrical experiments with transistors, since electrical power will run between any metal elements connected to the breadboard.",
+                    "# Insert the 2 470Ω resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "#* Resistors help slow down and re-direct the flow of electric current. They’re used in simple circuits to prevent the wiring and LED bulb from overheating. Resistors look like a {{convert|2|in|cm|abbr=on}} piece of wire with a {{convert|1|in|cm|abbr=on}} plastic tube wrapped around the middle.<ref>https://www.build-electronic-circuits.com/what-is-a-resistor/</ref>",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the kathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* LED bulbs burn brightly when powered with only a small amount of electric current.",
+                    "# Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* Make the connection sturdy by bending the resistor wires 2-3 times around the wires you connect them to.",
+                    "# Attach the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and – ports of the battery. Notice that 2 wires emerge from the head: 1 positive (red) and 1 negative (blue).",
+                    "* 9-volt battery",
+                    "* 830 tie-point breadboard",
+                    "* 1 reel of copper hookup wire",
+                    "* Transistors are very cheap; they typically cost less than $5 USD. They’re also relatively easy to use in simple experiments. For this reason, they’re popular in science and engineering classes in middle schools, high schools, and technical schools.",
+                    "* A single memory chip (like you’d find in your phone or computer) contains billions of tiny, compact transistors. Transistor technology is part of what makes these devices so powerful.<ref>https://www.explainthatstuff.com/howtransistorswork.html</ref>"
+                ],
+                "removed": [
+                    "===Inserting the Transistor and Resisters===",
+                    "# Identify the pins on your transistor. Your BJT transistor will have 3 small metal pins sticking out of the end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the left-most pin is the emitter, the central pin is the base, and the right-most pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "# Insert the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Insert the 2 470Ω resisters into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself, and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resister that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* Make the connection sturdy by bending the resister wires 2-3 times around the wires you connect them to.",
+                    "# Connect the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "# Attach the battery to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9 volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and – ports of the battery. 2 wires emerge from the head: 1 positive (red) and 1 negative (blue).",
+                    "* 9 volt battery",
+                    "* Breadboard",
+                    "* 1 reel of hookup wire",
+                    "* Transistors are very cheap; they typically cost less than $1 USD. Buy them at electronics stores or through major online retailers.",
+                    "* Transistors are relatively easy to use in simple experiments, and for this reason, they’re popular in science and engineering classes in middle schools, high schools, and technical schools.",
+                    "* Transistors themselves are made from silicon. Silicon is an element most often found in sand.<ref>https://www.explainthatstuff.com/howtransistorswork.html\t</ref>",
+                    "* A single memory chip (like you’d find in your phone or computer) contains billions of tiny, compact transistors.<ref>https://www.explainthatstuff.com/howtransistorswork.html</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25532050",
+            "user": "Hufflepuffle2006",
+            "timestamp": "09:38, 3 November 2018",
+            "anon": false,
+            "size": "(8,880 bytes)",
+            "change": 0,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself, and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>"
+                ],
+                "removed": [
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself, and 2 leads (thin wire filaments). One of the leads is the kathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25527973",
+            "user": "Christy17",
+            "timestamp": "18:52, 2 November 2018",
+            "anon": false,
+            "size": "(8,880 bytes)",
+            "change": 46,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. Purchase a transistor (and the other supplies) at an electronics supply store.",
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ],
+                "removed": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. Purchase a transistor (and the other supplies) at an electronics supply store."
+                ]
+            }
+        },
+        {
+            "id": "25527669",
+            "user": "WRM",
+            "timestamp": "17:36, 2 November 2018",
+            "anon": false,
+            "size": "(8,834 bytes)",
+            "change": 8834,
+            "summary": "(Created article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A transistor is an electrical device which can amplify and boost an electrical current. Transistors can also function as switches and turn different electrical currents on and off. To see how transistors work, you can use one to construct and operate a simple electrical switch. Purchase a transistor (and the other supplies) at an electronics supply store.",
+                    "==Steps==",
+                    "===Inserting the Transistor and Resisters===",
+                    "# Identify the pins on your transistor. Your BJT transistor will have 3 small metal pins sticking out of the end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the left-most pin is the emitter, the central pin is the base, and the right-most pin is the collector.<ref>https://www.elprocus.com/easy-pin-identification/</ref>",
+                    "#* These 3 pins each serve a different function, so it’s important to correctly identify them.",
+                    "# Insert the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* This may take some delicate work, since each of the breadboard holes are only about {{convert|1/32|in|mm}} across.",
+                    "# Insert the 2 470Ω resisters into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they’re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors’ size, the holes should be about 6 apart from one another.<ref>https://youtu.be/-yLAboW_E3s?t=75</ref>",
+                    "#* Insert the first resistor on the upper-right hand side of the transistor and the second resistor on the lower-left side of the transistor.",
+                    "",
+                    "===Connecting the LED Bulb===",
+                    "# Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself, and 2 leads (thin wire filaments). One of the leads is the kathode and the other is the anode. Identify the kathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if provides an indication as to which is which.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* When you’re connecting the LED, always connect the anode to the circuit’s positive side.",
+                    "# Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the kathode lead to the transistor’s collector pin.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* To connect the kathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 3-4 twists to ensure that electricity can flow between the wires.",
+                    "# Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor’s second wire to the anode of the LED. Connect the second resister that you inserted to the base (central pin) of the transistor.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* Make the connection sturdy by bending the resister wires 2-3 times around the wires you connect them to.",
+                    "",
+                    "===Wiring the Transistor Circuit===",
+                    "# Cut 4 sections of wire from a reel of hookup wire. You’ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a {{convert|3|in|cm|abbr=on}} section of wire. Then, cut 2 more segments, each about {{convert|6|in|cm| abbr=on}} long. Finally, cut 1 short {{convert|2|in|cm| abbr=on}} long segment of wire.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* If you don’t have wire cutters, purchase a pair at a local hardware or electronic-supply store.",
+                    "# Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* Identify the negative power edge of the breadboard by visually inspecting it. Both of the 2 long edges of the breadboard will have both a negative and positive rail. The negative rail will always be accompanied by a “–” sign and will be blue or black.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard</ref>",
+                    "# Insert your 2 {{convert|6|in|cm|abbr=on}} wire segments into the breadboard. Bend the last {{convert|1/2|in|cm}} of each wire segment so it’s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* Choose holes in the same row so that the 2 long wires are parallel to one another.",
+                    "#* Due to the wire segments length, the 2 ends of each segment will be inserted roughly 25 holes apart.",
+                    "# Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire’s end around the transistor’s base (the central pin).<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* If the wires are too short or too stiff to bend with your fingers, use a pair of needle-nose pliers to bend the wires.",
+                    "# Connect the second long wire to the positive rail. Wrap 1 end of your short {{convert|2|in|cm|abbr=on}} segment of wire around the end of the second long wire (that’s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* This will allow power from the battery to get to the LED, once you’ve connected the battery.",
+                    "# Attach the battery to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9 volt battery to the positive power rail.<ref>http://homediyelectronics.com/projects/transistortouchswitchsimplescienceproject/?p=3</ref>",
+                    "#* The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and – ports of the battery. 2 wires emerge from the head: 1 positive (red) and 1 negative (blue).",
+                    "# Touch the 2 long wires to activate the circuit. These wires are referred to as the “touch wires.” Use 1 finger and press down on the 2 touch wires. Make sure that you’re touching both at once. Press them down against the breadboard, and watch as the LED lights up.<ref>https://youtu.be/-yLAboW_E3s?t=31</ref>",
+                    "#* Try experimenting with different types of touch: light, heavy, etc. Depending on how much pressure you put on the wires, you’ll notice that the LED illuminates more or less brightly.",
+                    "",
+                    "==Things You’ll Need==",
+                    "* 1 Bipolar junction transmitter (BJT) transistor",
+                    "* 9 volt battery",
+                    "* 9-volt battery connector",
+                    "* LED lightbulb",
+                    "* Breadboard",
+                    "* 2 470Ω resistors",
+                    "* 1 reel of hookup wire",
+                    "* Wire cutters",
+                    "* Needle-nose pliers",
+                    "",
+                    "==Tips==",
+                    "* Transistors are very cheap; they typically cost less than $1 USD. Buy them at electronics stores or through major online retailers.",
+                    "* Transistors are relatively easy to use in simple experiments, and for this reason, they’re popular in science and engineering classes in middle schools, high schools, and technical schools.",
+                    "* Transistors themselves are made from silicon. Silicon is an element most often found in sand.<ref>https://www.explainthatstuff.com/howtransistorswork.html\t</ref>",
+                    "* A single memory chip (like you’d find in your phone or computer) contains billions of tiny, compact transistors.<ref>https://www.explainthatstuff.com/howtransistorswork.html</ref>",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}",
+                    "",
+                    "__Parts__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

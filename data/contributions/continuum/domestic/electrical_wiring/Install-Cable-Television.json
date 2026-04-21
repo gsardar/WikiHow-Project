@@ -1,0 +1,1669 @@
+{
+    "title": "Install-Cable-Television",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:22:23.458786",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34128040",
+            "user": "Votebot",
+            "timestamp": "10:26, 7 March 2026",
+            "anon": false,
+            "size": "(9,517 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34099140",
+            "user": "MiscBot",
+            "timestamp": "20:17, 19 February 2026",
+            "anon": false,
+            "size": "(9,516 bytes)",
+            "change": -38,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Crimp Coax]]"
+                ]
+            }
+        },
+        {
+            "id": "34083552",
+            "user": "MiscBot",
+            "timestamp": "03:21, 19 February 2026",
+            "anon": false,
+            "size": "(9,554 bytes)",
+            "change": 100,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Related wikiHows ==",
+                    "*[[Crimp Coax]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34067947",
+            "user": "MiscBot",
+            "timestamp": "20:27, 18 February 2026",
+            "anon": false,
+            "size": "(9,454 bytes)",
+            "change": -100,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Crimp Coax]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ]
+            }
+        },
+        {
+            "id": "33591070",
+            "user": "Votebot",
+            "timestamp": "09:01, 2 August 2025",
+            "anon": false,
+            "size": "(9,554 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ],
+                "removed": [
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ]
+            }
+        },
+        {
+            "id": "33400257",
+            "user": "MiscBot",
+            "timestamp": "23:00, 14 May 2025",
+            "anon": false,
+            "size": "(9,554 bytes)",
+            "change": 38,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>https://www.familyeducation.com/family-life/managing-your-home/improvements/how-run-tv-cable-through-walls</ref>[[Image:Install Cable Television Step 7 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>[[Image:Install Cable Television Step 7 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33232152",
+            "user": "MiscBot",
+            "timestamp": "22:06, 10 March 2025",
+            "anon": false,
+            "size": "(9,516 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33092551",
+            "user": "Freyrr",
+            "timestamp": "12:16, 24 January 2025",
+            "anon": false,
+            "size": "(9,497 bytes)",
+            "change": -4,
+            "summary": "(extra word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you'll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you'll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32715226",
+            "user": "Hopedemi",
+            "timestamp": "16:48, 12 August 2024",
+            "anon": false,
+            "size": "(9,501 bytes)",
+            "change": 316,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about installing cable television, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32685209",
+            "user": "Seymour Edits",
+            "timestamp": "03:26, 30 July 2024",
+            "anon": false,
+            "size": "(9,185 bytes)",
+            "change": 78,
+            "summary": "(Added sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.<ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Install Cable Television Step 4 Version 2.jpg|center]]",
+                    "#*When terminating the cable, ensure that there are no loose wires poking out of the connector.<ref>[v161396_b01]. 3 March 2021.</ref> This will lead to bad or no signal. Avoid using screw- or push-on connectors, as these can become loose very easily and lead to a bad connection."
+                ],
+                "removed": [
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.[[Image:Install Cable Television Step 4 Version 2.jpg|center]]",
+                    "#*When terminating the cable, ensure that there are no loose wires poking out of the connector. This will lead to bad or no signal. Avoid using screw- or push-on connectors, as these can become loose very easily and lead to a bad connection."
+                ]
+            }
+        },
+        {
+            "id": "31860601",
+            "user": "Votebot",
+            "timestamp": "08:43, 14 August 2023",
+            "anon": false,
+            "size": "(9,107 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor"
+                ],
+                "removed": [
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor"
+                ]
+            }
+        },
+        {
+            "id": "31398849",
+            "user": "Rainy M",
+            "timestamp": "03:00, 1 March 2023",
+            "anon": false,
+            "size": "(9,107 bytes)",
+            "change": 48,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Install Cable Television|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29794946",
+            "user": "MiscBot",
+            "timestamp": "14:11, 10 August 2021",
+            "anon": false,
+            "size": "(9,059 bytes)",
+            "change": -6,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Television]]"
+                ],
+                "removed": [
+                    "[[Category:Cable Television]]"
+                ]
+            }
+        },
+        {
+            "id": "27692200",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "11:18, 6 February 2020",
+            "anon": false,
+            "size": "(9,065 bytes)",
+            "change": -19,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Wire Cable TV]]"
+                ]
+            }
+        },
+        {
+            "id": "27041604",
+            "user": "ExoticComet",
+            "timestamp": "07:31, 6 September 2019",
+            "anon": false,
+            "size": "(9,084 bytes)",
+            "change": -10,
+            "summary": "(improving apostrophe consistency)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Don't want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few inches of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store.",
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you'll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center]]",
+                    "#*Ideally, you'd want to run your cable through the attic, garage, or basement until you reach a point where you can go straight up or down through the wall to reach your desired outlet location.",
+                    "#*Don't try to force the wire through the wall by pulling. Pulling can damage the cable, and most RG6 cable is only rated to 35 pounds of pressure.",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn't have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>[[Image:Install Cable Television Step 13 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few inches of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store.",
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center]]",
+                    "#*Ideally, you’d want to run your cable through the attic, garage, or basement until you reach a point where you can go straight up or down through the wall to reach your desired outlet location.",
+                    "#*Don’t try to force the wire through the wall by pulling. Pulling can damage the cable, and most RG6 cable is only rated to 35 pounds of pressure.",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>[[Image:Install Cable Television Step 13 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26297372",
+            "user": "MiscBot",
+            "timestamp": "02:51, 29 March 2019",
+            "anon": false,
+            "size": "(9,094 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25908026",
+            "user": "WikiHow Projects",
+            "timestamp": "03:49, 20 January 2019",
+            "anon": false,
+            "size": "(9,103 bytes)",
+            "change": -53,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.[[Image:Install Cable Television Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>[[Image:Install Cable Television Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24804495",
+            "user": "Flickety",
+            "timestamp": "02:13, 25 June 2018",
+            "anon": false,
+            "size": "(9,156 bytes)",
+            "change": 7,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Cable Television]]"
+                ],
+                "removed": [
+                    "[[Category:Television]]"
+                ]
+            }
+        },
+        {
+            "id": "19390791",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "01:29, 12 January 2016",
+            "anon": false,
+            "size": "(9,149 bytes)",
+            "change": -39,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Crimp Coax]]",
+                    "*[[Wire Cable TV]]"
+                ],
+                "removed": [
+                    "*[[Crimp Coax|How to Crimp Coax]]",
+                    "*[[Wire Cable TV|How to Wire Cable TV]]"
+                ]
+            }
+        },
+        {
+            "id": "18854213",
+            "user": "172.3.21.0",
+            "timestamp": "19:35, 13 November 2015",
+            "anon": true,
+            "size": "(9,188 bytes)",
+            "change": 2,
+            "summary": "(reworded \"a few FEET of wall\" to \"a few inches of wall\" - we're not rewiring a bunker here, folks...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few inches of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ],
+                "removed": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ]
+            }
+        },
+        {
+            "id": "18101708",
+            "user": "MiscBot",
+            "timestamp": "11:05, 29 July 2015",
+            "anon": false,
+            "size": "(9,186 bytes)",
+            "change": -196,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.[[Image:Install Cable Television Step 2 Version 2.jpg|center]]",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:[[Image:Install Cable Television Step 3 Version 2.jpg|center]]",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.[[Image:Install Cable Television Step 4 Version 2.jpg|center]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.[[Image:Install Cable Television Step 5 Version 2.jpg|center]]",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.[[Image:Install Cable Television Step 6 Version 2.jpg|center]]",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>[[Image:Install Cable Television Step 7 Version 2.jpg|center]]",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.[[Image:Install Cable Television Step 8 Version 2.jpg|center]]",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.[[Image:Install Cable Television Step 9 Version 2.jpg|center]]",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.[[Image:Install Cable Television Step 10 Version 2.jpg|center]]",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.[[Image:Install Cable Television Step 11 Version 2.jpg|center]]",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>[[Image:Install Cable Television Step 12 Version 2.jpg|center]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>[[Image:Install Cable Television Step 13 Version 2.jpg|center]]",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.[[Image:Install Cable Television Step 14 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.<br><br>[[Image:Install Cable Television Step 1 Version 2.jpg|center|550px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.<br><br>[[Image:Install Cable Television Step 2 Version 2.jpg|center|550px]]",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:<br><br>[[Image:Install Cable Television Step 3 Version 2.jpg|center|550px]]",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.<br><br>[[Image:Install Cable Television Step 4 Version 2.jpg|center|550px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.<br><br>[[Image:Install Cable Television Step 5 Version 2.jpg|center|550px]]",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.<br><br>[[Image:Install Cable Television Step 6 Version 2.jpg|center|550px]]",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref><br><br>[[Image:Install Cable Television Step 7 Version 2.jpg|center|550px]]",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.<br><br>[[Image:Install Cable Television Step 8 Version 2.jpg|center|550px]]",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.<br><br>[[Image:Install Cable Television Step 9 Version 2.jpg|center|550px]]",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.<br><br>[[Image:Install Cable Television Step 10 Version 2.jpg|center|550px]]",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.<br><br>[[Image:Install Cable Television Step 11 Version 2.jpg|center|550px]]",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref><br><br>[[Image:Install Cable Television Step 12 Version 2.jpg|center|550px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref><br><br>[[Image:Install Cable Television Step 13 Version 2.jpg|center|550px]]",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.<br><br>[[Image:Install Cable Television Step 14 Version 2.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "16406192",
+            "user": "SarahB",
+            "timestamp": "17:45, 18 January 2015",
+            "anon": false,
+            "size": "(9,382 bytes)",
+            "change": 9215,
+            "summary": "(RCP reverted edits by 162.249.54.6 (talk) to  revision #16361339 by Maluniu)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store.",
+                    "[[Category:Television]]",
+                    "==Steps==",
+                    "===Running the Cable to the House===",
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.<br><br>[[Image:Install Cable Television Step 1 Version 2.jpg|center|550px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.<br><br>[[Image:Install Cable Television Step 2 Version 2.jpg|center|550px]]",
+                    "#*Note: It is illegal to connect cables to the distribution point without getting permission from the cable company.",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:<br><br>[[Image:Install Cable Television Step 3 Version 2.jpg|center|550px]]",
+                    "#*You can bury \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter. When burying cable, you may want to run it through PVC piping to help prevent it from being accidentally cut by a shovel.",
+                    "#*You can run a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home. Screw a hook into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened.",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.<br><br>[[Image:Install Cable Television Step 4 Version 2.jpg|center|550px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.<br><br>[[Image:Install Cable Television Step 5 Version 2.jpg|center|550px]]",
+                    "#*When terminating the cable, ensure that there are no loose wires poking out of the connector. This will lead to bad or no signal. Avoid using screw- or push-on connectors, as these can become loose very easily and lead to a bad connection.",
+                    "#*See [[Terminate-Coaxial-Cable|this guide]] for more details on terminating coaxial cables.",
+                    "#*Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block. Make sure that it is securely fastened.",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.<br><br>[[Image:Install Cable Television Step 6 Version 2.jpg|center|550px]]",
+                    "===Installing the Cable===",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref><br><br>[[Image:Install Cable Television Step 7 Version 2.jpg|center|550px]]",
+                    "#*Make sure you seal the hole you drill after running the cable in.",
+                    "#*Ideally, you’d want to run your cable through the attic, garage, or basement until you reach a point where you can go straight up or down through the wall to reach your desired outlet location.",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.<br><br>[[Image:Install Cable Television Step 8 Version 2.jpg|center|550px]]",
+                    "#*The splitter should be installed inside, preferably at the point where the cable enters the structure.",
+                    "#*If you are splitting to more than two locations, you will likely need to install an in-line amplifier. This will boost the signal, allowing you to split to more locations without losing signal quality",
+                    "#*For cable TV, buy a splitter rated at 5-1450 MHz.",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.<br><br>[[Image:Install Cable Television Step 9 Version 2.jpg|center|550px]]",
+                    "#*Do not allow the cable to become bent or crimped, as this will cause signal degradation.",
+                    "#*Don’t try to force the wire through the wall by pulling. Pulling can damage the cable, and most RG6 cable is only rated to 35 pounds of pressure.",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.<br><br>[[Image:Install Cable Television Step 10 Version 2.jpg|center|550px]]",
+                    "#*Do not run cable underneath carpet that will be walked on. Stepping on the cable will lead to the squishing of the foam jacket, hurting signal strength. Only run cables where no one will step on them.",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.<br><br>[[Image:Install Cable Television Step 11 Version 2.jpg|center|550px]]",
+                    "#*Avoid running cables near heating ducts as well. Too much heat can warp and damage the cables.",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref><br><br>[[Image:Install Cable Television Step 12 Version 2.jpg|center|550px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref><br><br>[[Image:Install Cable Television Step 13 Version 2.jpg|center|550px]]",
+                    "#*Make sure that you tighten all your connections with a wrench. Hand-tightening will lead to loose connections, which can cause problems down the road.",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.<br><br>[[Image:Install Cable Television Step 14 Version 2.jpg|center|550px]]",
+                    "#*[[Install-a-Modem|Install a modem]]",
+                    "#*[[Connect-a-DVD-Player%2C-VCR%2C-and-Digital-Cable-Box|Install a cable box]]",
+                    "#*You can use an RF signal meter to ensure that enough signal is being transmitted through the cable.",
+                    "",
+                    "== Warnings ==",
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home.",
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor",
+                    "*Unauthorized installation of cable television from the cable television company's facilities is theft of services and punishable by law.  This article is provided for educational purposes only and not intended to promote illegal activities, but to acquaint readers with how these tasks are done.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Crimp Coax|How to Crimp Coax]]",
+                    "*[[Wire Cable TV|How to Wire Cable TV]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Don't.",
+                    "You're taking away from somebody who was taught a skill, and they need money to survive like you.",
+                    "If you're desperate, ask a neighbor, chances are, they know."
+                ]
+            }
+        },
+        {
+            "id": "16405800",
+            "user": "162.249.54.6",
+            "timestamp": "16:25, 18 January 2015",
+            "anon": true,
+            "size": "(167 bytes)",
+            "change": -9215,
+            "summary": "(Replacing page with 'Don't.  You're taking away from somebody who was taught a skill, and they need money to survive like you.  If you're desperate, ask a neighbor, chances are, they know.')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "Don't.",
+                    "You're taking away from somebody who was taught a skill, and they need money to survive like you.",
+                    "If you're desperate, ask a neighbor, chances are, they know."
+                ],
+                "removed": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store.",
+                    "[[Category:Television]]",
+                    "==Steps==",
+                    "===Running the Cable to the House===",
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.<br><br>[[Image:Install Cable Television Step 1 Version 2.jpg|center|550px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.<br><br>[[Image:Install Cable Television Step 2 Version 2.jpg|center|550px]]",
+                    "#*Note: It is illegal to connect cables to the distribution point without getting permission from the cable company.",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:<br><br>[[Image:Install Cable Television Step 3 Version 2.jpg|center|550px]]",
+                    "#*You can bury \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter. When burying cable, you may want to run it through PVC piping to help prevent it from being accidentally cut by a shovel.",
+                    "#*You can run a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home. Screw a hook into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened.",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.<br><br>[[Image:Install Cable Television Step 4 Version 2.jpg|center|550px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.<br><br>[[Image:Install Cable Television Step 5 Version 2.jpg|center|550px]]",
+                    "#*When terminating the cable, ensure that there are no loose wires poking out of the connector. This will lead to bad or no signal. Avoid using screw- or push-on connectors, as these can become loose very easily and lead to a bad connection.",
+                    "#*See [[Terminate-Coaxial-Cable|this guide]] for more details on terminating coaxial cables.",
+                    "#*Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block. Make sure that it is securely fastened.",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.<br><br>[[Image:Install Cable Television Step 6 Version 2.jpg|center|550px]]",
+                    "===Installing the Cable===",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref><br><br>[[Image:Install Cable Television Step 7 Version 2.jpg|center|550px]]",
+                    "#*Make sure you seal the hole you drill after running the cable in.",
+                    "#*Ideally, you’d want to run your cable through the attic, garage, or basement until you reach a point where you can go straight up or down through the wall to reach your desired outlet location.",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.<br><br>[[Image:Install Cable Television Step 8 Version 2.jpg|center|550px]]",
+                    "#*The splitter should be installed inside, preferably at the point where the cable enters the structure.",
+                    "#*If you are splitting to more than two locations, you will likely need to install an in-line amplifier. This will boost the signal, allowing you to split to more locations without losing signal quality",
+                    "#*For cable TV, buy a splitter rated at 5-1450 MHz.",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.<br><br>[[Image:Install Cable Television Step 9 Version 2.jpg|center|550px]]",
+                    "#*Do not allow the cable to become bent or crimped, as this will cause signal degradation.",
+                    "#*Don’t try to force the wire through the wall by pulling. Pulling can damage the cable, and most RG6 cable is only rated to 35 pounds of pressure.",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.<br><br>[[Image:Install Cable Television Step 10 Version 2.jpg|center|550px]]",
+                    "#*Do not run cable underneath carpet that will be walked on. Stepping on the cable will lead to the squishing of the foam jacket, hurting signal strength. Only run cables where no one will step on them.",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.<br><br>[[Image:Install Cable Television Step 11 Version 2.jpg|center|550px]]",
+                    "#*Avoid running cables near heating ducts as well. Too much heat can warp and damage the cables.",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref><br><br>[[Image:Install Cable Television Step 12 Version 2.jpg|center|550px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref><br><br>[[Image:Install Cable Television Step 13 Version 2.jpg|center|550px]]",
+                    "#*Make sure that you tighten all your connections with a wrench. Hand-tightening will lead to loose connections, which can cause problems down the road.",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.<br><br>[[Image:Install Cable Television Step 14 Version 2.jpg|center|550px]]",
+                    "#*[[Install-a-Modem|Install a modem]]",
+                    "#*[[Connect-a-DVD-Player%2C-VCR%2C-and-Digital-Cable-Box|Install a cable box]]",
+                    "#*You can use an RF signal meter to ensure that enough signal is being transmitted through the cable.",
+                    "",
+                    "== Warnings ==",
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home.",
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor",
+                    "*Unauthorized installation of cable television from the cable television company's facilities is theft of services and punishable by law.  This article is provided for educational purposes only and not intended to promote illegal activities, but to acquaint readers with how these tasks are done.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Crimp Coax|How to Crimp Coax]]",
+                    "*[[Wire Cable TV|How to Wire Cable TV]]",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ]
+            }
+        },
+        {
+            "id": "16361339",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "01:46, 13 January 2015",
+            "anon": false,
+            "size": "(9,382 bytes)",
+            "change": 6,
+            "summary": "(Tagging featured article via RSS feed)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "{{fa}}Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ],
+                "removed": [
+                    "Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ]
+            }
+        },
+        {
+            "id": "15510084",
+            "user": "Wikivisual",
+            "timestamp": "17:50, 1 October 2014",
+            "anon": false,
+            "size": "(9,376 bytes)",
+            "change": 113,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.<br><br>[[Image:Install Cable Television Step 1 Version 2.jpg|center|550px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.<br><br>[[Image:Install Cable Television Step 2 Version 2.jpg|center|550px]]",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:<br><br>[[Image:Install Cable Television Step 3 Version 2.jpg|center|550px]]",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.<br><br>[[Image:Install Cable Television Step 4 Version 2.jpg|center|550px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.<br><br>[[Image:Install Cable Television Step 5 Version 2.jpg|center|550px]]",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.<br><br>[[Image:Install Cable Television Step 6 Version 2.jpg|center|550px]]",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref><br><br>[[Image:Install Cable Television Step 7 Version 2.jpg|center|550px]]",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.<br><br>[[Image:Install Cable Television Step 8 Version 2.jpg|center|550px]]",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.<br><br>[[Image:Install Cable Television Step 9 Version 2.jpg|center|550px]]",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.<br><br>[[Image:Install Cable Television Step 10 Version 2.jpg|center|550px]]",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.<br><br>[[Image:Install Cable Television Step 11 Version 2.jpg|center|550px]]",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref><br><br>[[Image:Install Cable Television Step 12 Version 2.jpg|center|550px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref><br><br>[[Image:Install Cable Television Step 13 Version 2.jpg|center|550px]]",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.<br><br>[[Image:Install Cable Television Step 14 Version 2.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center|300px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.[[Image:Install Cable Television Step 2 Version 2.jpg|center|300px]]",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:[[Image:Install Cable Television Step 3 Version 2.jpg|center|300px]]",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.[[Image:Install Cable Television Step 4 Version 2.jpg|center|300px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.[[Image:Install Cable Television Step 5 Version 2.jpg|center|300px]]",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.[[Image:Install Cable Television Step 6 Version 2.jpg|center|300px]]",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>[[Image:Install Cable Television Step 7 Version 2.jpg|center|300px]]",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.[[Image:Install Cable Television Step 8 Version 2.jpg|center|300px]]",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.[[Image:Install Cable Television Step 9 Version 2.jpg|center|300px]]",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.[[Image:Install Cable Television Step 10 Version 2.jpg|center|300px]]",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.[[Image:Install Cable Television Step 11 Version 2.jpg|center|300px]]",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>[[Image:Install Cable Television Step 12 Version 2.jpg|center|300px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>[[Image:Install Cable Television Step 13 Version 2.jpg|center|300px]]",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.[[Image:Install Cable Television Step 14 Version 2.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "15510083",
+            "user": "Wikivisual",
+            "timestamp": "17:50, 1 October 2014",
+            "anon": false,
+            "size": "(9,263 bytes)",
+            "change": 957,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.[[Image:Install Cable Television Step 1 Version 2.jpg|center|300px]]",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.[[Image:Install Cable Television Step 2 Version 2.jpg|center|300px]]",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:[[Image:Install Cable Television Step 3 Version 2.jpg|center|300px]]",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.[[Image:Install Cable Television Step 4 Version 2.jpg|center|300px]]",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.[[Image:Install Cable Television Step 5 Version 2.jpg|center|300px]]",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.[[Image:Install Cable Television Step 6 Version 2.jpg|center|300px]]",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>[[Image:Install Cable Television Step 7 Version 2.jpg|center|300px]]",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.[[Image:Install Cable Television Step 8 Version 2.jpg|center|300px]]",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.[[Image:Install Cable Television Step 9 Version 2.jpg|center|300px]]",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.[[Image:Install Cable Television Step 10 Version 2.jpg|center|300px]]",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.[[Image:Install Cable Television Step 11 Version 2.jpg|center|300px]]",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>[[Image:Install Cable Television Step 12 Version 2.jpg|center|300px]]",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>[[Image:Install Cable Television Step 13 Version 2.jpg|center|300px]]",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.[[Image:Install Cable Television Step 14 Version 2.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment."
+                ]
+            }
+        },
+        {
+            "id": "14481820",
+            "user": "RG Dhruv",
+            "timestamp": "10:17, 9 August 2014",
+            "anon": false,
+            "size": "(8,306 bytes)",
+            "change": -2,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Don’t want to be subjected to the fees of professional cable installation? If you've got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ],
+                "removed": [
+                    "Don’t want to be subjected to the fees of professional cable installation? If you’ve got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store."
+                ]
+            }
+        },
+        {
+            "id": "14481663",
+            "user": "Mohil Khare",
+            "timestamp": "09:28, 9 August 2014",
+            "anon": false,
+            "size": "(8,308 bytes)",
+            "change": 24,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Television]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14479665",
+            "user": "CQinPDX",
+            "timestamp": "02:18, 9 August 2014",
+            "anon": false,
+            "size": "(8,284 bytes)",
+            "change": -385,
+            "summary": "(Rewrote and updated, added additional information, rewrote intro, added sources)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Don’t want to be subjected to the fees of professional cable installation? If you’ve got a free afternoon, you can run the cable yourself and save some money. Depending on how many different rooms you are wiring, you may only have to go through a few feet of wall. You can purchase everything you need to wire your own cable from your local hardware and electrical supply store.",
+                    "==Steps==",
+                    "===Running the Cable to the House===",
+                    "#Purchase the correct cable. RG6 is the standard for cable installation, can can be used both above- and below-ground. Make sure that you purchase about 10%-20% more than you think you’ll need in case of unforeseen complications.",
+                    "#Connect the coaxial cable to the drop. Connect a coaxial cable to the distribution point located either on the \"pedestal\", which emerges from the ground, or on an overhead utility cable at some point near the place where cable is to be installed.",
+                    "#*Note: It is illegal to connect cables to the distribution point without getting permission from the cable company.",
+                    "#Run the coaxial cable to the entry point of the house. Run the cable to the point the cable is to enter the subscriber's home or other. There are two different ways you can run this cable to the home:",
+                    "#*You can bury \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter. When burying cable, you may want to run it through PVC piping to help prevent it from being accidentally cut by a shovel.",
+                    "#*You can run a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home. Screw a hook into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened.",
+                    "#Set up the grounding box. Drive a grounding spike into the earth at or near the point where the coaxial cable enters the home or other structure, or locate a cold water pipe in the area. Fasten a 12-gauge grounding wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other. This will form a connection to the earth that will ground the coaxial shield in the cable and also serve to divert lightning strikes.",
+                    "#Terminate the coaxial cable and hook it up to the grounding box. Use the coaxial cable stripping tool to remove the insulation in layers from the coaxial cable and the external woven wire \"shield\" of the cable. Place a connector on the end of the stripped cable and crimp or compress it.",
+                    "#*When terminating the cable, ensure that there are no loose wires poking out of the connector. This will lead to bad or no signal. Avoid using screw- or push-on connectors, as these can become loose very easily and lead to a bad connection.",
+                    "#*See [[Terminate-Coaxial-Cable|this guide]] for more details on terminating coaxial cables.",
+                    "#*Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block. Make sure that it is securely fastened.",
+                    "#Prepare the cable to run inside. Fasten a coaxial cable to the other tap on the coaxial cable grounding block. This will be the cable that runs into the house. Make sure that it is long enough to reach the destination with one cable.",
+                    "===Installing the Cable===",
+                    "#Drill a hole into the home. Choose an entry point that will allow you to run the cable with the least amount of stress. Entering into the garage, basement, or attic will allow you to run the cables easier without having to go through as many walls.<ref>http://life.familyeducation.com/home-improvement/resource/47482.html</ref>",
+                    "#*Make sure you seal the hole you drill after running the cable in.",
+                    "#*Ideally, you’d want to run your cable through the attic, garage, or basement until you reach a point where you can go straight up or down through the wall to reach your desired outlet location.",
+                    "#Install a splitter to send the signal to multiple destinations. If you need cable jacks in multiple rooms, you can use a splitter to attach multiple cables inside the home. Every time you split the cable, the signal gets weaker, so avoid splitting too many times.",
+                    "#*The splitter should be installed inside, preferably at the point where the cable enters the structure.",
+                    "#*If you are splitting to more than two locations, you will likely need to install an in-line amplifier. This will boost the signal, allowing you to split to more locations without losing signal quality",
+                    "#*For cable TV, buy a splitter rated at 5-1450 MHz.",
+                    "#Use fish tape to run cables through walls. Fish tape allows you to easily pull wire through walls without having to tear the whole thing open. You can find fish tape at most hardware and electric supply stores.",
+                    "#*Do not allow the cable to become bent or crimped, as this will cause signal degradation.",
+                    "#*Don’t try to force the wire through the wall by pulling. Pulling can damage the cable, and most RG6 cable is only rated to 35 pounds of pressure.",
+                    "#Fasten cables using cable staples. When stapling cable, do not staple at even intervals. When a cable is stapled, the foam jacket inside is slightly squished. This can cause some of the signal to reflect. If the staples are evenly spaced, this can lead to a double-image. Use as few staples as possible when running your cable, and try to use cable-specific staples if possible.",
+                    "#*Do not run cable underneath carpet that will be walked on. Stepping on the cable will lead to the squishing of the foam jacket, hurting signal strength. Only run cables where no one will step on them.",
+                    "#Avoid running the coaxial cable too close to electrical wires. If the coax is too close to electrical wiring, you can get a lot of interference. Keep coaxial cables at least 6 inches away from any electrical wires. If you have to cross an electrical wiring, do so at a 90 degree angle.",
+                    "#*Avoid running cables near heating ducts as well. Too much heat can warp and damage the cables.",
+                    "#When bending the cable, keep it gradual. Avoid bending the cable at right angles when going around corners. Try to keep a radius of 2 ½ inches (6.35 cm) for the bend to avoid any signal degradation.<ref>http://www.duncancable.com/HomeWiring.html</ref>",
+                    "#Use a low-voltage box to mount a wall jack. Avoid using a standard electrical box, as this will force you to bend the cable at a 90 degree angle. A low-voltage box doesn’t have a large metal box protruding from the back, allowing you to gently curve the cable to the jack.<ref>http://www.familyhandyman.com/electrical/wiring/tips-for-coaxial-cable-wiring/view-all</ref>",
+                    "#*Make sure that you tighten all your connections with a wrench. Hand-tightening will lead to loose connections, which can cause problems down the road.",
+                    "#Connect the cable box or modem to the newly installed jack. Follow the instructions for the piece of equipment to perform the initial configuration. See the guides below for detailed instructions on setting up common cable equipment.",
+                    "#*[[Install-a-Modem|Install a modem]]",
+                    "#*[[Connect-a-DVD-Player%2C-VCR%2C-and-Digital-Cable-Box|Install a cable box]]",
+                    "#*You can use an RF signal meter to ensure that enough signal is being transmitted through the cable.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment.",
+                    "",
+                    "[[Category:Television]]",
+                    "== Steps ==",
+                    "#Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed<br><br>[[Image:Install Cable Television Step 1.jpg|center|550px]]",
+                    "#Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -<br><br>[[Image:Install Cable Television Step 2.jpg|center|550px]]",
+                    "#By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened<br><br>[[Image:Install Cable Television Step 3.jpg|center|550px]]",
+                    "#Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area<br><br>[[Image:Install Cable Television Step 4.jpg|center|550px]]",
+                    "#Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment<br><br>[[Image:Install Cable Television Step 5.jpg|center|550px]]",
+                    "#Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable<br><br>[[Image:Install Cable Television Step 6.jpg|center|550px]]",
+                    "#Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable<br><br>[[Image:Install Cable Television Step 7.jpg|center|550px]]",
+                    "#Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block<br><br>[[Image:Install Cable Television Step 8.jpg|center|550px]]",
+                    "#Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure<br><br>[[Image:Install Cable Television Step 9.jpg|center|550px]]",
+                    "#Cut another cable to run from the grounding block inside your structure to your television or other video equipment<br><br>[[Image:Install Cable Television Step 10.jpg|center|550px]]",
+                    "#Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).<br><br>[[Image:Install Cable Television Step 11.jpg|center|550px]]",
+                    "#Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.<br><br>[[Image:Install Cable Television Step 12.jpg|center|550px]]",
+                    "#If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.<br><br>[[Image:Install Cable Television Step 13.jpg|center|550px]]",
+                    "#Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment<br><br>[[Image:Install Cable Television Step 14.jpg|center|550px]]",
+                    "#Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment<br><br>[[Image:Install Cable Television Step 15.jpg|center|550px]]",
+                    "#Verify correct operation of any set-top boxes and/or remote controls used in the installation.<br><br>[[Image:Install Cable Television Step 16.jpg|center|550px]]",
+                    "",
+                    "== Things You'll Need ==",
+                    "*'''side-cutting pliers (also known as \"dykes\")''' to cut coaxial cable neatly all the way through.",
+                    "*'''flat pliers (also known as \"linesman's pliers\")''' to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*'''a coaxial cable stripping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "* '''a coaxial cable crimping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*'''a ladder''' long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*'''a flashlight''' to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts AC for that purpose).",
+                    "*'''coaxial cable''', usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*'''coaxial cable connectors''' to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*'''a tool belt''' to hold your tools, connectors and other items while you're not using them",
+                    "*'''straight-bladed ''and'' cross-point (philips) screwdrivers''' to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*'''grounding block made to accept RG-58/RG-59 cable connectors'''",
+                    "*'''a grounding spike with a bolt and wire clamp''' on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*'''heavy gauge (12 or larger) copper wire''' to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*'''a grounding clamp''' to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*'''cable clips (also known as 'roco clips')''' which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*'''a pen and paper''' to allow you to make notes on how you installed your cable for future reference"
+                ]
+            }
+        },
+        {
+            "id": "14231874",
+            "user": "Wikivisual",
+            "timestamp": "13:55, 15 July 2014",
+            "anon": false,
+            "size": "(8,669 bytes)",
+            "change": 129,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed<br><br>[[Image:Install Cable Television Step 1.jpg|center|550px]]",
+                    "#Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -<br><br>[[Image:Install Cable Television Step 2.jpg|center|550px]]",
+                    "#By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened<br><br>[[Image:Install Cable Television Step 3.jpg|center|550px]]",
+                    "#Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area<br><br>[[Image:Install Cable Television Step 4.jpg|center|550px]]",
+                    "#Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment<br><br>[[Image:Install Cable Television Step 5.jpg|center|550px]]",
+                    "#Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable<br><br>[[Image:Install Cable Television Step 6.jpg|center|550px]]",
+                    "#Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable<br><br>[[Image:Install Cable Television Step 7.jpg|center|550px]]",
+                    "#Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block<br><br>[[Image:Install Cable Television Step 8.jpg|center|550px]]",
+                    "#Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure<br><br>[[Image:Install Cable Television Step 9.jpg|center|550px]]",
+                    "#Cut another cable to run from the grounding block inside your structure to your television or other video equipment<br><br>[[Image:Install Cable Television Step 10.jpg|center|550px]]",
+                    "#Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).<br><br>[[Image:Install Cable Television Step 11.jpg|center|550px]]",
+                    "#Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.<br><br>[[Image:Install Cable Television Step 12.jpg|center|550px]]",
+                    "#If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.<br><br>[[Image:Install Cable Television Step 13.jpg|center|550px]]",
+                    "#Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment<br><br>[[Image:Install Cable Television Step 14.jpg|center|550px]]",
+                    "#Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment<br><br>[[Image:Install Cable Television Step 15.jpg|center|550px]]",
+                    "#Verify correct operation of any set-top boxes and/or remote controls used in the installation.<br><br>[[Image:Install Cable Television Step 16.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed[[Image:Install Cable Television Step 1.jpg|center|300px]]",
+                    "#Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -[[Image:Install Cable Television Step 2.jpg|center|300px]]",
+                    "#By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened[[Image:Install Cable Television Step 3.jpg|center|300px]]",
+                    "#Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area[[Image:Install Cable Television Step 4.jpg|center|300px]]",
+                    "#Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment[[Image:Install Cable Television Step 5.jpg|center|300px]]",
+                    "#Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable[[Image:Install Cable Television Step 6.jpg|center|300px]]",
+                    "#Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable[[Image:Install Cable Television Step 7.jpg|center|300px]]",
+                    "#Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block[[Image:Install Cable Television Step 8.jpg|center|300px]]",
+                    "#Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure[[Image:Install Cable Television Step 9.jpg|center|300px]]",
+                    "#Cut another cable to run from the grounding block inside your structure to your television or other video equipment[[Image:Install Cable Television Step 10.jpg|center|300px]]",
+                    "#Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).[[Image:Install Cable Television Step 11.jpg|center|300px]]",
+                    "#Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.[[Image:Install Cable Television Step 12.jpg|center|300px]]",
+                    "#If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.[[Image:Install Cable Television Step 13.jpg|center|300px]]",
+                    "#Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment[[Image:Install Cable Television Step 14.jpg|center|300px]]",
+                    "#Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment[[Image:Install Cable Television Step 15.jpg|center|300px]]",
+                    "#Verify correct operation of any set-top boxes and/or remote controls used in the installation.[[Image:Install Cable Television Step 16.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "14231873",
+            "user": "Wikivisual",
+            "timestamp": "13:55, 15 July 2014",
+            "anon": false,
+            "size": "(8,540 bytes)",
+            "change": 865,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment.",
+                    "#Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed[[Image:Install Cable Television Step 1.jpg|center|300px]]",
+                    "#Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -[[Image:Install Cable Television Step 2.jpg|center|300px]]",
+                    "#By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened[[Image:Install Cable Television Step 3.jpg|center|300px]]",
+                    "#Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area[[Image:Install Cable Television Step 4.jpg|center|300px]]",
+                    "#Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment[[Image:Install Cable Television Step 5.jpg|center|300px]]",
+                    "#Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable[[Image:Install Cable Television Step 6.jpg|center|300px]]",
+                    "#Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable[[Image:Install Cable Television Step 7.jpg|center|300px]]",
+                    "#Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block[[Image:Install Cable Television Step 8.jpg|center|300px]]",
+                    "#Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure[[Image:Install Cable Television Step 9.jpg|center|300px]]",
+                    "#Cut another cable to run from the grounding block inside your structure to your television or other video equipment[[Image:Install Cable Television Step 10.jpg|center|300px]]",
+                    "#Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).[[Image:Install Cable Television Step 11.jpg|center|300px]]",
+                    "#Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.[[Image:Install Cable Television Step 12.jpg|center|300px]]",
+                    "#If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.[[Image:Install Cable Television Step 13.jpg|center|300px]]",
+                    "#Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment[[Image:Install Cable Television Step 14.jpg|center|300px]]",
+                    "#Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment[[Image:Install Cable Television Step 15.jpg|center|300px]]",
+                    "#Verify correct operation of any set-top boxes and/or remote controls used in the installation.[[Image:Install Cable Television Step 16.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "[[Image:No cable tv.jpg|{{BASEPAGENAME}}|right|251px]]This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment.",
+                    "# Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed",
+                    "# Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "# By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "# Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "# Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "# Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable",
+                    "# Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable",
+                    "# Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block",
+                    "# Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "# Cut another cable to run from the grounding block inside your structure to your television or other video equipment",
+                    "# Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).",
+                    "# Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.",
+                    "# If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.",
+                    "# Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "# Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "# Verify correct operation of any set-top boxes and/or remote controls used in the installation."
+                ]
+            }
+        },
+        {
+            "id": "12961856",
+            "user": "Votebot",
+            "timestamp": "17:45, 12 March 2014",
+            "anon": false,
+            "size": "(7,675 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor"
+                ],
+                "removed": [
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor"
+                ]
+            }
+        },
+        {
+            "id": "12564599",
+            "user": "Krystle",
+            "timestamp": "02:01, 1 February 2014",
+            "anon": false,
+            "size": "(7,675 bytes)",
+            "change": -49,
+            "summary": "(Reverted edits by Reuben24 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install Cable Television|}}"
+                ]
+            }
+        },
+        {
+            "id": "12564255",
+            "user": "Reuben24",
+            "timestamp": "01:09, 1 February 2014",
+            "anon": false,
+            "size": "(7,724 bytes)",
+            "change": 49,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Krystle",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install Cable Television|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12032050",
+            "user": "Votebot",
+            "timestamp": "18:50, 7 December 2013",
+            "anon": false,
+            "size": "(7,675 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Krystle",
+            "exact_contribution": {
+                "added": [
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ],
+                "removed": [
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ]
+            }
+        },
+        {
+            "id": "6419461",
+            "user": "Wendy Weaver",
+            "timestamp": "23:02, 29 July 2011",
+            "anon": false,
+            "size": "(7,675 bytes)",
+            "change": 34,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Crimp Coax|How to Crimp Coax]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6418952",
+            "user": "Wendy Weaver",
+            "timestamp": "22:58, 29 July 2011",
+            "anon": false,
+            "size": "(7,641 bytes)",
+            "change": 64,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Wire Cable TV|How to Wire Cable TV]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5266952",
+            "user": "Loupgarous",
+            "timestamp": "02:19, 15 November 2010",
+            "anon": false,
+            "size": "(7,577 bytes)",
+            "change": 18,
+            "summary": "(→‎Warnings:  Capitalized first words in sentences that were left fower case by a previous editor, Added the term \"or component wear\" to the second warning sentence.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Unauthorized installation of cable television from the cable television company's facilities is theft of services and punishable by law.  This article is provided for educational purposes only and not intended to promote illegal activities, but to acquaint readers with how these tasks are done.",
+                    "*Older televisions and other video gear may have defects or component wear that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  Be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor",
+                    "*Connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ],
+                "removed": [
+                    "*unauthorized installation of cable television from the cable television company's facilities is theft of services and punishable by law.  this article is provided for educational purposes only and not intended to promote illegal activities, but to acquaint readers with how these tasks are done.",
+                    "*older televisions and other video gear may have defects that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor",
+                    "*connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home."
+                ]
+            }
+        },
+        {
+            "id": "5263410",
+            "user": "24.9.21.58",
+            "timestamp": "03:16, 14 November 2010",
+            "anon": true,
+            "size": "(7,559 bytes)",
+            "change": 139,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*'''side-cutting pliers (also known as \"dykes\")''' to cut coaxial cable neatly all the way through.",
+                    "*'''flat pliers (also known as \"linesman's pliers\")''' to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*'''a coaxial cable stripping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "* '''a coaxial cable crimping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*'''a ladder''' long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*'''a flashlight''' to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts AC for that purpose).",
+                    "*'''coaxial cable''', usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*'''coaxial cable connectors''' to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*'''a tool belt''' to hold your tools, connectors and other items while you're not using them",
+                    "*'''straight-bladed ''and'' cross-point (philips) screwdrivers''' to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*'''grounding block made to accept RG-58/RG-59 cable connectors'''",
+                    "*'''a grounding spike with a bolt and wire clamp''' on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*'''heavy gauge (12 or larger) copper wire''' to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*'''a grounding clamp''' to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*'''cable clips (also known as 'roco clips')''' which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*'''a pen and paper''' to allow you to make notes on how you installed your cable for future reference"
+                ],
+                "removed": [
+                    "*side-cutting pliers (also known as \"dykes\") to cut coaxial cable neatly all the way through.",
+                    "*flat pliers to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "* a coaxial cable crimping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*a ladder long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*a flashlight to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*a multimeter or volt-ohmmeter to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts AC for that purpose).",
+                    "*coaxial cable, usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*coaxial cable connectors to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*a tool belt to hold your tools, connectors and other items while you're not using them",
+                    "*straight-bladed ''and'' cross-point (philips) screwdrivers to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*grounding block made to accept RG-58/RG-59 cable connectors",
+                    "*a grounding spike with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*heavy gauge (12 or large) copper wire to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*a grounding clamp to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*cable clips (also known as 'roco clips') which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*a pen and paper to allow you to make notes on how you installed your cable for future reference"
+                ]
+            }
+        },
+        {
+            "id": "5241163",
+            "user": "Ttrimm",
+            "timestamp": "07:56, 8 November 2010",
+            "anon": false,
+            "size": "(7,420 bytes)",
+            "change": -112,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed",
+                    "# Run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "# By running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "# Drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "# Fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "# Use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable",
+                    "# Place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable",
+                    "# Fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block",
+                    "# Fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "# Cut another cable to run from the grounding block inside your structure to your television or other video equipment",
+                    "# Using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure).",
+                    "# Attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors.",
+                    "# If a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear.",
+                    "# Verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "# Verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "# Verify correct operation of any set-top boxes and/or remote controls used in the installation.",
+                    "*unauthorized installation of cable television from the cable television company's facilities is theft of services and punishable by law.  this article is provided for educational purposes only and not intended to promote illegal activities, but to acquaint readers with how these tasks are done.",
+                    "*older televisions and other video gear may have defects that allow dangerous voltages and currents to exist on either the outer or inner conductor of the coaxial cable.  be careful in handling any coaxial cable connected to an older television, video recorder, cable tuner or other video equipment when the cable is not connected to or through a grounding block or surge suppressor",
+                    "*connecting coaxial cable to your video equipment through a surge suppressor equipped to protect video equipment from voltage and current surges is an excellent idea to protect you, your video equipment and your home.",
+                    "*side-cutting pliers (also known as \"dykes\") to cut coaxial cable neatly all the way through.",
+                    "*flat pliers to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "* a coaxial cable crimping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*a ladder long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*a flashlight to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*a multimeter or volt-ohmmeter to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts AC for that purpose).",
+                    "*coaxial cable, usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*coaxial cable connectors to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*a tool belt to hold your tools, connectors and other items while you're not using them",
+                    "*straight-bladed ''and'' cross-point (philips) screwdrivers to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*grounding block made to accept RG-58/RG-59 cable connectors",
+                    "*a grounding spike with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*heavy gauge (12 or large) copper wire to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*a grounding clamp to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*cable clips (also known as 'roco clips') which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*a pen and paper to allow you to make notes on how you installed your cable for future reference"
+                ],
+                "removed": [
+                    "# connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed",
+                    "# run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "# by running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "# drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "# fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "# use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable",
+                    "# place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable",
+                    "#  fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block",
+                    "# fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "# cut another cable to run from the grounding block inside your structure to your television or other video equipment",
+                    "# using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure)",
+                    "# attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors",
+                    "# if a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear",
+                    "# verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "# verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "# verify correct operation of any set-top boxes and/or remote controls used in the installation.",
+                    "*UNAUTHORIZED INSTALLATION OF CABLE TELEVISION FROM THE CABLE TELEVISION COMPANY'S FACILITIES IS THEFT OF SERVICES AND PUNISHABLE BY LAW.  THIS ARTICLE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY AND NOT INTENDED TO PROMOTE ILLEGAL ACTIVITIES, BUT TO ACQUAINT READERS WITH HOW THESE TASKS ARE DONE.",
+                    "*OLDER TELEVISIONS AND OTHER VIDEO GEAR MAY HAVE DEFECTS THAT ALLOW DANGEROUS VOLTAGES AND CURRENTS TO EXIST ON EITHER THE OUTER OR INNER CONDUCTOR OF THE COAXIAL CABLE.  BE CAREFUL IN HANDLING ANY COAXIAL CABLE CONNECTED TO AN OLDER TELEVISION, VIDEO RECORDER, CABLE TUNER OR OTHER VIDEO EQUIPMENT WHEN THE CABLE IS NOT CONNECTED TO OR THROUGH A GROUNDING BLOCK OR SURGE SUPPRESSOR",
+                    "*CONNECTING COAXIAL CABLE TO YOUR VIDEO EQUIPMENT THROUGH A SURGE SUPPRESSOR EQUIPPED TO PROTECT VIDEO EQUIPMENT FROM VOLTAGE AND CURRENT SURGES IS AN EXCELLENT IDEA TO PROTECT YOU, YOUR VIDEO EQUIPMENT AND YOUR HOME.",
+                    "*'''side-cutting pliers (also known as \"dykes\")''' to cut coaxial cable neatly all the way through.",
+                    "*'''flat pliers''' to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*'''a coaxial cable stripping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "* '''a coaxial cable crimping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*'''a ladder''' long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*'''a flashlight''' to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal ('''you use the lowest \"ohms\" or \"resistance\" range on the meter for that''') and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment ('''you use a voltage scale between 100-500 volts AC for that purpose''').",
+                    "*'''coaxial cable''', usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*'''coaxial cable connectors''' to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*'''a tool belt''' to hold your tools, connectors and other items while you're not using them",
+                    "*'''straight-bladed ''and'' cross-point (philips) screwdrivers''' to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*'''grounding block''' made to accept RG-58/RG-59 cable connectors",
+                    "*'''a grounding spike''' with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*'''heavy gauge (12 or large) copper wire''' to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*'''a grounding clamp''' to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*'''cable clips (also known as 'roco clips')''' which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*'''a pen and paper''' to allow you to make notes on how you installed your cable for future reference"
+                ]
+            }
+        },
+        {
+            "id": "5240217",
+            "user": "Loupgarous",
+            "timestamp": "00:51, 8 November 2010",
+            "anon": false,
+            "size": "(7,532 bytes)",
+            "change": 180,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* '''a coaxial cable crimping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5240212",
+            "user": "Loupgarous",
+            "timestamp": "00:50, 8 November 2010",
+            "anon": false,
+            "size": "(7,352 bytes)",
+            "change": 623,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "# run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "# by running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "# drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "# fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "# use the coaxial cable stripping tool to remove the insulation in layers from both the internal wire of the coaxial cable and the external woven wire \"shield\" of the cable on both ends of the cable",
+                    "# place a coaxial cable connector fitting on each end of the stripped cable, then crimp the fitting using a coaxial cable connector crimping tool to secure it to the cable",
+                    "# fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "# cut another cable to run from the grounding block inside your structure to your television or other video equipment",
+                    "# using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure)",
+                    "# attach connectors to each end (once you've run the cable through the hole you've drilled through the wall), and securely crimp the connectors",
+                    "# if a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear",
+                    "# verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "# verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "# verify correct operation of any set-top boxes and/or remote controls used in the installation."
+                ],
+                "removed": [
+                    "#  run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "#  by running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "#  drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "#  fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "#  fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "#  using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure)",
+                    "#  if a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear",
+                    "#  verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "#  verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "#  verify correct operation of any set-top boxes and/or remote controls used in the installation."
+                ]
+            }
+        },
+        {
+            "id": "5240168",
+            "user": "Loupgarous",
+            "timestamp": "00:36, 8 November 2010",
+            "anon": false,
+            "size": "(6,729 bytes)",
+            "change": 0,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*'''side-cutting pliers (also known as \"dykes\")''' to cut coaxial cable neatly all the way through."
+                ],
+                "removed": [
+                    "*'''side-cutting pliers''' (also known as \"dykes\") to cut coaxial cable neatly all the way through."
+                ]
+            }
+        },
+        {
+            "id": "5240165",
+            "user": "Loupgarous",
+            "timestamp": "00:35, 8 November 2010",
+            "anon": false,
+            "size": "(6,729 bytes)",
+            "change": -30,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal ('''you use the lowest \"ohms\" or \"resistance\" range on the meter for that''') and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment ('''you use a voltage scale between 100-500 volts AC for that purpose''')."
+                ],
+                "removed": [
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal ('''you use the lowest \"ohms\" or \"resistance\" range on the meter for that'''''Italic text'') and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment ('''you use a voltage scale between 100-500 volts AC for that purpose'''''Italic text'')."
+                ]
+            }
+        },
+        {
+            "id": "5240161",
+            "user": "Loupgarous",
+            "timestamp": "00:34, 8 November 2010",
+            "anon": false,
+            "size": "(6,759 bytes)",
+            "change": 45,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal ('''you use the lowest \"ohms\" or \"resistance\" range on the meter for that'''''Italic text'') and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment ('''you use a voltage scale between 100-500 volts AC for that purpose'''''Italic text'')."
+                ],
+                "removed": [
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts for that purpose)."
+                ]
+            }
+        },
+        {
+            "id": "5240155",
+            "user": "Loupgarous",
+            "timestamp": "00:33, 8 November 2010",
+            "anon": false,
+            "size": "(6,714 bytes)",
+            "change": 842,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "*'''side-cutting pliers''' (also known as \"dykes\") to cut coaxial cable neatly all the way through.",
+                    "*'''flat pliers''' to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*'''a coaxial cable stripping tool''' (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*'''a ladder''' long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*'''a flashlight''' to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*'''a multimeter or volt-ohmmeter''' to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter for that) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment (you use a voltage scale between 100-500 volts for that purpose).",
+                    "*'''coaxial cable''', usually the RG-58 or RG-59 type; \"flooded\" coaxial cable if you plan to bury the cable from the signal source outside your home to the exterior wall of your home, or \"aerial\" coaxial cable with a molded-on external suspension wire to allow you to hang the coaxial cable from a utility pole or elevated fixture near a satellite dish/low noise amplifier to the eaves under the roof of the building to which you are running the cable.",
+                    "*'''coaxial cable connectors''' to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*'''a tool belt''' to hold your tools, connectors and other items while you're not using them",
+                    "*'''straight-bladed ''and'' cross-point (philips) screwdrivers''' to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*'''grounding block''' made to accept RG-58/RG-59 cable connectors",
+                    "*'''a grounding spike''' with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*'''heavy gauge (12 or large) copper wire''' to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*'''a grounding clamp''' to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*'''cable clips (also known as 'roco clips')''' which nail into wood to allow you to fasten cable runs to it.  They are basically nails with plastic or metal attachments near the nailhead to hold coaxial and other cables.",
+                    "*'''a pen and paper''' to allow you to make notes on how you installed your cable for future reference"
+                ],
+                "removed": [
+                    "*side-cutting pliers (also known as \"dykes\") to cut coaxial cable",
+                    "*flat pliers to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)",
+                    "*a ladder long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*a flashlight to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*a multimeter or volt-ohmmeter to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment",
+                    "*coaxial cable, usually the RG-58 or RG-59 type",
+                    "*coaxial cable connectors to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*a tool belt to hold your tools while you're not using them",
+                    "*both straight-bladed and cross-point (philips) screwdrivers to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*grounding block made to accept RG-58/RG-59 cable connectors",
+                    "*a grounding spike with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy",
+                    "*heavy gauge (12 or large) copper wire to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*a grounding clamp to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*a pen and paper to allow you to make notes on how you installed your cable for future reference"
+                ]
+            }
+        },
+        {
+            "id": "5233174",
+            "user": "TrippleH",
+            "timestamp": "01:23, 6 November 2010",
+            "anon": false,
+            "size": "(5,872 bytes)",
+            "change": 54,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:No cable tv.jpg|{{BASEPAGENAME}}|right|251px]]This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment."
+                ],
+                "removed": [
+                    "This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment."
+                ]
+            }
+        },
+        {
+            "id": "5229245",
+            "user": "Jordan",
+            "timestamp": "23:54, 4 November 2010",
+            "anon": false,
+            "size": "(5,818 bytes)",
+            "change": -84,
+            "summary": "(Reverted edits by Wendy Weaver (Talk); changed back to last version by Maluniu)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Terminate Coaxial Cable|How to Terminate Coaxial Cable]]"
+                ]
+            }
+        },
+        {
+            "id": "5229099",
+            "user": "Wendy Weaver",
+            "timestamp": "23:50, 4 November 2010",
+            "anon": false,
+            "size": "(5,902 bytes)",
+            "change": 84,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Jordan",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Terminate Coaxial Cable|How to Terminate Coaxial Cable]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4972482",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "18:47, 25 August 2010",
+            "anon": false,
+            "size": "(5,818 bytes)",
+            "change": 25,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Television]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4924527",
+            "user": "Loupgarous",
+            "timestamp": "05:09, 12 August 2010",
+            "anon": false,
+            "size": "(5,793 bytes)",
+            "change": 219,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*a grounding spike with a bolt and wire clamp on it which can be driven into the ground near where coaxial cable enters the building you're installing it into if no pipe or other secure earth ground connection is handy"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4924502",
+            "user": "Loupgarous",
+            "timestamp": "05:02, 12 August 2010",
+            "anon": false,
+            "size": "(5,574 bytes)",
+            "change": 1,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart)"
+                ],
+                "removed": [
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart"
+                ]
+            }
+        },
+        {
+            "id": "4924501",
+            "user": "Loupgarous",
+            "timestamp": "05:02, 12 August 2010",
+            "anon": false,
+            "size": "(5,573 bytes)",
+            "change": 160,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*UNAUTHORIZED INSTALLATION OF CABLE TELEVISION FROM THE CABLE TELEVISION COMPANY'S FACILITIES IS THEFT OF SERVICES AND PUNISHABLE BY LAW.  THIS ARTICLE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY AND NOT INTENDED TO PROMOTE ILLEGAL ACTIVITIES, BUT TO ACQUAINT READERS WITH HOW THESE TASKS ARE DONE."
+                ],
+                "removed": [
+                    "*UNAUTHORIZED INSTALLATION OF CABLE TELEVISION FROM THE CABLE TELEVISION COMPANY'S FACILITIES IS THEFT OF SERVICES AND PUNISHABLE BY LAW"
+                ]
+            }
+        },
+        {
+            "id": "4924484",
+            "user": "Loupgarous",
+            "timestamp": "04:58, 12 August 2010",
+            "anon": false,
+            "size": "(5,413 bytes)",
+            "change": 5413,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "This is how to install cable television from the pedestal to the subscriber's home.  It's also something that can give you ideas of how to run co-axial cable between separate rooms in a house or different buildings if you study it, and how to adequately ground a co-axial cable installation so lightning doesn't necessarily destroy your TV equipment.",
+                    "== Steps ==",
+                    "# connect a co-axial cable to the distribution point located either on the \"pedestal\" which emerges from the ground or is located on a overhead utility cable at some point near the place where cable is to be installed",
+                    "#  run the cable to the point the cable is to enter the subscriber's home or other structure either - by burying \"flooded\" coaxial cable from the buried distribution point or pedestal to the point at the subscriber's home or other structure where the cable will enter, or -",
+                    "#  by running a special aerial cable with molded suspension wire from the distribution point on the overhead utility cable to a point on the eaves of the subscriber's home where a hook is installed by screwing into the eaves to which the far end of the molded suspension wire on the aerial coaxial cable can be looped and fastened",
+                    "#  drive a grounding spike into the earth at or near the point where the coaxial cable enters the subscriber's home or other structure or locate a cold water pipe in the area",
+                    "#  fasten a thick wire to the grounding spike or cold water pipe at one end and to a coaxial cable grounding block at the other, forming a connection to earth ground that will earth the coaxial shield in the cable and also serve to divert lightning strikes to earth, not to the subscriber's television equipment",
+                    "#  fasten the coaxial cable from the distribution point/pedestal to one tap on the coaxial cable grounding block",
+                    "#  fasten a coaxial cable to the other tap on the coaxial cable grounding block to run inside the subscriber's home or other structure",
+                    "#  using an appropriate hole or other path through the wall of the home or other structure, pass the cable into the structure and lead it to the subscriber's television equipment (using a \"splitter\" or distribution block to provide cable service to as many cable outlets as desired inside the subscriber's home or other structure)",
+                    "#  if a surge protector with co-axial cable connections to protect video gear is available, connect the incoming co-axial cable to the surge protector and use a relatively short (less than 6 feet) coaxial cable to connect the surge protector to the \"in\" connector of your video gear",
+                    "#  verify the signal strength and quality either by use of an RF signal meter or the subscriber's own television equipment",
+                    "#  verify the correct reception of any premium channels which the subscriber has purchased by RF signal meter or the subscriber's own television equipment",
+                    "#  verify correct operation of any set-top boxes and/or remote controls used in the installation.",
+                    "== Warnings ==",
+                    "*UNAUTHORIZED INSTALLATION OF CABLE TELEVISION FROM THE CABLE TELEVISION COMPANY'S FACILITIES IS THEFT OF SERVICES AND PUNISHABLE BY LAW",
+                    "*OLDER TELEVISIONS AND OTHER VIDEO GEAR MAY HAVE DEFECTS THAT ALLOW DANGEROUS VOLTAGES AND CURRENTS TO EXIST ON EITHER THE OUTER OR INNER CONDUCTOR OF THE COAXIAL CABLE.  BE CAREFUL IN HANDLING ANY COAXIAL CABLE CONNECTED TO AN OLDER TELEVISION, VIDEO RECORDER, CABLE TUNER OR OTHER VIDEO EQUIPMENT WHEN THE CABLE IS NOT CONNECTED TO OR THROUGH A GROUNDING BLOCK OR SURGE SUPPRESSOR",
+                    "*CONNECTING COAXIAL CABLE TO YOUR VIDEO EQUIPMENT THROUGH A SURGE SUPPRESSOR EQUIPPED TO PROTECT VIDEO EQUIPMENT FROM VOLTAGE AND CURRENT SURGES IS AN EXCELLENT IDEA TO PROTECT YOU, YOUR VIDEO EQUIPMENT AND YOUR HOME.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*side-cutting pliers (also known as \"dykes\") to cut coaxial cable",
+                    "*flat pliers to allow you to tighten coaxial cables to coaxial cable connectors",
+                    "*a coaxial cable stripping tool (available at electronics stores such as RadioShack or the electronics or hardware departments of discount stores such as Wal-Mart or K-Mart",
+                    "*a ladder long enough to reach the eaves of the building to which you are attaching coaxial cable and any pedestal(s) to which you are connecting coaxial cable",
+                    "*a flashlight to allow you to see into dark spaces through which you may have to run coaxial cable",
+                    "*a multimeter or volt-ohmmeter to allow you to determine if a cable is capable of carrying signal (you use the lowest \"ohms\" or \"resistance\" range on the meter) and to check for dangerous voltages on coaxial cables or exposed metal parts of video gear or other electronic equipment",
+                    "*coaxial cable, usually the RG-58 or RG-59 type",
+                    "*coaxial cable connectors to allow you to terminate coaxial cable in secure connections to grounding blocks, pedestal taps, surge suppressors and your video gear",
+                    "*a tool belt to hold your tools while you're not using them",
+                    "*both straight-bladed and cross-point (philips) screwdrivers to allow you to loosen and tighten screws or use screws to secure grounding blocks and other gear to building walls and other surfaces",
+                    "*grounding block made to accept RG-58/RG-59 cable connectors",
+                    "*heavy gauge (12 or large) copper wire to allow you to connect grounding blocks to cold water pipes and/or other earth grounds",
+                    "*a grounding clamp to allow you to make secure connections between copper wire and pipes or other earth grounds",
+                    "*a pen and paper to allow you to make notes on how you installed your cable for future reference"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

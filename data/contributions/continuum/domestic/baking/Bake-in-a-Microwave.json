@@ -1,0 +1,654 @@
+{
+    "title": "Bake-in-a-Microwave",
+    "continuum": "domestic",
+    "subcategory": "baking",
+    "timestamp": "2026-04-16T05:32:21.460039",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34098407",
+            "user": "MiscBot",
+            "timestamp": "20:08, 19 February 2026",
+            "anon": false,
+            "size": "(14,129 bytes)",
+            "change": -92,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ]
+            }
+        },
+        {
+            "id": "34082831",
+            "user": "MiscBot",
+            "timestamp": "03:12, 19 February 2026",
+            "anon": false,
+            "size": "(14,221 bytes)",
+            "change": 94,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34067084",
+            "user": "MiscBot",
+            "timestamp": "20:03, 18 February 2026",
+            "anon": false,
+            "size": "(14,127 bytes)",
+            "change": -94,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ]
+            }
+        },
+        {
+            "id": "33719457",
+            "user": "Zalexie",
+            "timestamp": "23:42, 6 October 2025",
+            "anon": false,
+            "size": "(14,221 bytes)",
+            "change": 1,
+            "summary": "(RCP reverted edits by Leyassine (talk) to  revision #33328782 by Bhoimus)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals, like bread, pizza, cake, and brownies, in a shorter amount of time. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave has."
+                ],
+                "removed": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals, like bread, pizza, cake, and brownies, in a shorter amount of time. Just make sure you are using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave has."
+                ]
+            }
+        },
+        {
+            "id": "33719192",
+            "user": "Leyassine",
+            "timestamp": "21:05, 6 October 2025",
+            "anon": false,
+            "size": "(14,220 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Zalexie",
+            "exact_contribution": {
+                "added": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals, like bread, pizza, cake, and brownies, in a shorter amount of time. Just make sure you are using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave has."
+                ],
+                "removed": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals, like bread, pizza, cake, and brownies, in a shorter amount of time. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave has."
+                ]
+            }
+        },
+        {
+            "id": "33328782",
+            "user": "Bhoimus",
+            "timestamp": "05:34, 18 April 2025",
+            "anon": false,
+            "size": "(14,221 bytes)",
+            "change": 0,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Zalexie",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ]
+            }
+        },
+        {
+            "id": "33328780",
+            "user": "XxVxX",
+            "timestamp": "05:32, 18 April 2025",
+            "anon": false,
+            "size": "(14,221 bytes)",
+            "change": 94,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "* [[Defrost Food in the Microwave]]",
+                    "* [[Steam Food in the Microwave]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33182829",
+            "user": "MiscBot",
+            "timestamp": "19:32, 24 February 2025",
+            "anon": false,
+            "size": "(14,127 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33089892",
+            "user": "BlokPlaysGames",
+            "timestamp": "13:03, 23 January 2025",
+            "anon": false,
+            "size": "(14,108 bytes)",
+            "change": -6,
+            "summary": "(rmd)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Pour the flour mixture into the bowl with the yeast. Beat the yeast and flour mixture thoroughly using a dough hook. Stop beating once the dough has formed and is smooth.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pour the flour mixture into the bowl with the yeast. Beat the yeast and flour mixture thoroughly using a dough hook. Stop beating once the the dough has formed and it's smooth.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32826014",
+            "user": "WikiHow Horizon",
+            "timestamp": "00:18, 2 October 2024",
+            "anon": false,
+            "size": "(14,114 bytes)",
+            "change": 7,
+            "summary": "(Updated link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Melt butter and chocolate in the microwave. Add 1 stick of butter and {{convert|3|USoz|mL}} of unsweetened chocolate to a microwave-safe bowl. Microwave the butter and chocolate on high for 2 minutes. Open the microwave every 30 seconds and stir the chocolate and butter together with a spoon so they melt.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 26.jpg|center]]",
+                    "#Whisk 2 eggs and 1 cup (236.6 mL) of sugar in a bowl. Continue whisking until the eggs and sugar are thoroughly combined. Set the bowl aside.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 27.jpg|center]]",
+                    "#Prepare a flour mixture in a large bowl. Add ½ cup (118.3 mL) of flour, ½ teaspoon (2.5 mL) of baking powder, and ½ teaspoon (2.5 mL) of salt to a large bowl. Mix the flour, baking powder, and salt together thoroughly using a spoon. Use the spoon to make a hole in the center of the flour mixture.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 28.jpg|center]]",
+                    "#Pour the chocolate and egg mixtures into the center of the flour mixture. Use a spoon to stir the mixtures together. Keep stirring until all the ingredients are thoroughly blended.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 29.jpg|center]]",
+                    "#Pour the batter into a greased, microwave-safe glass pan. Make sure the pan you use is small enough to fit in your microwave. Spread the batter out in the pan so it’s even.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 30.jpg|center]]",
+                    "#Place the pan in the microwave and bake on high for 5 minutes. After 5 minutes, remove the brownies and check to see if they’re done. If there’s still liquid on top of the surface, put them back in the microwave for 1-2 more minutes.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 31.jpg|center]]",
+                    "#Let the brownies cool for 3 minutes before serving. Once the brownies have cooled down, cut them into slices using a knife. Scoop the slices out of the pan and serve.<ref>https://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 32.jpg|center]]"
+                ],
+                "removed": [
+                    "#Melt butter and chocolate in the microwave. Add 1 stick of butter and {{convert|3|USoz|mL}} of unsweetened chocolate to a microwave-safe bowl. Microwave the butter and chocolate on high for 2 minutes. Open the microwave every 30 seconds and stir the chocolate and butter together with a spoon so they melt.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 26.jpg|center]]",
+                    "#Whisk 2 eggs and 1 cup (236.6 mL) of sugar in a bowl. Continue whisking until the eggs and sugar are thoroughly combined. Set the bowl aside.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 27.jpg|center]]",
+                    "#Prepare a flour mixture in a large bowl. Add ½ cup (118.3 mL) of flour, ½ teaspoon (2.5 mL) of baking powder, and ½ teaspoon (2.5 mL) of salt to a large bowl. Mix the flour, baking powder, and salt together thoroughly using a spoon. Use the spoon to make a hole in the center of the flour mixture.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 28.jpg|center]]",
+                    "#Pour the chocolate and egg mixtures into the center of the flour mixture. Use a spoon to stir the mixtures together. Keep stirring until all the ingredients are thoroughly blended.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 29.jpg|center]]",
+                    "#Pour the batter into a greased, microwave-safe glass pan. Make sure the pan you use is small enough to fit in your microwave. Spread the batter out in the pan so it’s even.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 30.jpg|center]]",
+                    "#Place the pan in the microwave and bake on high for 5 minutes. After 5 minutes, remove the brownies and check to see if they’re done. If there’s still liquid on top of the surface, put them back in the microwave for 1-2 more minutes.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 31.jpg|center]]",
+                    "#Let the brownies cool for 3 minutes before serving. Once the brownies have cooled down, cut them into slices using a knife. Scoop the slices out of the pan and serve.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 32.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31960158",
+            "user": "Seymour Edits",
+            "timestamp": "20:47, 26 September 2023",
+            "anon": false,
+            "size": "(14,107 bytes)",
+            "change": 44,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Bake in a Microwave|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30940736",
+            "user": "Seymour Edits",
+            "timestamp": "23:24, 5 October 2022",
+            "anon": false,
+            "size": "(14,063 bytes)",
+            "change": 138,
+            "summary": "(adding expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If you want to bake a personalized cake in a mug, fill a mug a third full with batter instead.<ref>[v162181_b01]. 4 October 2022.</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30567217",
+            "user": "106.204.200.206",
+            "timestamp": "14:48, 23 May 2022",
+            "anon": true,
+            "size": "(13,925 bytes)",
+            "change": 0,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*2 cups (473.3 mL) warm milk"
+                ],
+                "removed": [
+                    "*2 cups (473.2 mL) warm milk"
+                ]
+            }
+        },
+        {
+            "id": "28072237",
+            "user": "WikiHowUser20220204205835",
+            "timestamp": "19:33, 4 May 2020",
+            "anon": false,
+            "size": "(13,925 bytes)",
+            "change": 23,
+            "summary": "(Linking)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "===Bread in a Microwave===",
+                    "===Cake in a Microwave===",
+                    "===Pizza in a Microwave===",
+                    "===Brownies in a Microwave===",
+                    "===Baking Cake in a Microwave===",
+                    "===Baking Brownies in a Microwave===",
+                    "===Baking Brownies in a Microwave==="
+                ],
+                "removed": [
+                    "===Microwave Bread===",
+                    "===Microwave Cake===",
+                    "===Microwave Pizza===",
+                    "===Microwave Brownies===",
+                    "===Baking a Microwave Cake===",
+                    "===Making Brownies in a Microwave===",
+                    "===Making Brownies in a Microwave==="
+                ]
+            }
+        },
+        {
+            "id": "26253213",
+            "user": "MiscBot",
+            "timestamp": "23:33, 28 March 2019",
+            "anon": false,
+            "size": "(13,902 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "26077997",
+            "user": "Seymour Edits",
+            "timestamp": "19:11, 23 February 2019",
+            "anon": false,
+            "size": "(13,911 bytes)",
+            "change": 138,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Bake-in-a-Microwave}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23514041",
+            "user": "Wikivisual",
+            "timestamp": "16:31, 6 November 2017",
+            "anon": false,
+            "size": "(13,773 bytes)",
+            "change": 1526,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Prepare a bowl of yeast. Add 1 ½ teaspoons (7.4 mL) of dry active yeast, ½ cup (118.3 mL) of warm water, and 2 cups (473.2 mL) of warm milk to a bowl. Stir thoroughly and set the bowl aside.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 1.jpg|center]]",
+                    "#Prepare a flour mixture in a separate large bowl. Add 3 cups (709.8 mL) of flour, 1 tablespoon (14.8 mL) of sugar, and 2 teaspoons (9.9 mL) of salt to the bowl. Use a spoon to thoroughly combine the flour, sugar, and salt.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 2.jpg|center]]",
+                    "#Pour the flour mixture into the bowl with the yeast. Beat the yeast and flour mixture thoroughly using a dough hook. Stop beating once the the dough has formed and it's smooth.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 3.jpg|center]]",
+                    "#Cover the bowl of dough with a damp towel and let it rise. Place the bowl of dough in a warm place so it rises faster. Check on the dough after an hour. If it has doubled in size, it’s finished rising. If it hasn’t, let it rise for another 15 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 4.jpg|center]]",
+                    "#Mix baking soda and warm water into the dough. Dissolve ¼ teaspoon (1.2 mL) of baking soda in ¼ teaspoon (1.2 mL) of warm water in a glass. Once the baking soda is dissolved, add the baking soda and water to the dough. Mix them into the dough using a spoon.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 5.jpg|center]]",
+                    "#Separate the dough into 2 greased microwave-safe glass pans and let it rise. Cover the pans with a damp towel and set them in a warm place. Check on them after 45 minutes to see if they’ve doubled in size. If they have, they’re finished rising.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 6.jpg|center]]",
+                    "#Microwave each pan of dough separately for 6 minutes on high. Take the damp cloth off the pans before microwaving them. After 3 minutes, open the microwave and rotate the pan of dough. Finish microwaving the dough for the remaining 3 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 7.jpg|center]]",
+                    "#Remove the bread from the microwave and let it cool. After the dough has cooled, remove it from the pan. Cut it into slices and serve.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>[[Image:Bake in a Microwave Step 8.jpg|center]]",
+                    "#Combine your dry ingredients in a large bowl. Add 3 ¼ cups (768.9 mL) of flour, 1 teaspoon (4.9 mL) of baking powder, ½ teaspoon (2.5 mL) of baking soda, and ½ teaspoon (2.5 mL) of salt to the bowl. Stir the dry ingredients thoroughly with a spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 9.jpg|center]]",
+                    "#Melt 2 sticks of butter in the microwave. Place the butter in a microwave-safe bowl and microwave it for 30 seconds. If the butter hasn't melted after 30 seconds, microwave it for another 15 seconds, or until it has melted.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 10.jpg|center]]",
+                    "#Whisk together your liquid ingredients in a separate large bowl. Add 2 eggs, 2 cups (473.2 mL) of buttermilk, and 1 tablespoon (14.8 mL) of vanilla to the bowl. Whisk until the eggs, buttermilk, and vanilla are thoroughly combined.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 11.jpg|center]]",
+                    "#Add the buttermilk mixture and melted butter to the dry ingredients. Stir everything together with a spoon until the batter is smooth. If there are any clumps in the batter, break them up with the spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 12.jpg|center]]",
+                    "#Pour the cake batter into a silicone, microwave-safe cake pan. If you’re making a cake with multiple layers, divide the batter into 2 or more silicone cake pans. Just make sure you’re only microwaving 1 layer at a time. Don’t worry about greasing the pan, the cake shouldn’t stick to the silicone.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 13.jpg|center]]",
+                    "#Put the pan in the microwave and bake on high for 2 minutes and 30 seconds. After 2 minutes and 30 seconds, check the cake to see if it's finished. If there's any liquid batter on the surface of the cake, microwave the cake for another minute, or until it's dry and fluffy.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 14.jpg|center]]",
+                    "#Let the cake cool completely before you add frosting. It could take over an hour for the cake to fully cool. Don't frost the cake when it's warm or the frosting could melt off. After you've frosted the cake, cut it into slices and serve.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>[[Image:Bake in a Microwave Step 15.jpg|center]]",
+                    "#Prepare a bowl of instant yeast. Combine ½ cup (118.3 mL) of warm water and 1 teaspoon (4.9 mL) of sugar in a small bowl. Once the sugar is dissolved, add 1 teaspoon (4.9 mL) of instant yeast to the bowl. Stir the yeast and sugar water thoroughly. Set the bowl aside for 10 minutes to rest.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=40</ref>[[Image:Bake in a Microwave Step 16.jpg|center]]",
+                    "#Mix 1 cup (236.6 mL) of flour and 1 teaspoon (4.9 mL) of salt in a large bowl. Stir the salt and flour thoroughly using a spoon. Then, make a hole in the center of the bowl using the spoon.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=58</ref>[[Image:Bake in a Microwave Step 17.jpg|center]]",
+                    "#Pour the bowl of yeast into the center of the flour mixture. Stir the yeast into the flour mixture using a spoon or your hands. Continue stirring until the dough starts to form. If the dough is too dry, add more water.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=76</ref>[[Image:Bake in a Microwave Step 18.jpg|center]]",
+                    "#Add 2 tablespoons (29.6 mL) of cooking oil to the dough and knead it for 5 minutes. To knead the dough, roll the dough back and forth in the bowl using your hand. When you’re finished, the dough should be a smooth ball.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=96</ref>[[Image:Bake in a Microwave Step 19.jpg|center]]",
+                    "#Cover the bowl of dough with a damp cloth and let it rise for an hour. After an hour, check on the dough. If it has doubled in size, it’s finished rising. If not, re-cover with the damp cloth and let it continue to rise.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=128</ref>[[Image:Bake in a Microwave Step 20.jpg|center]]",
+                    "#Separate the dough into 2 pieces and roll them out with a rolling pin. Sprinkle a pinch of flour onto the dough to help you roll it out. Bring the rolling pin back and forth so the dough gets flat and round. Keep rolling until the dough is about {{convert|8|in|cm}} in diameter. This will be the crust for your pizza.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=182</ref>[[Image:Bake in a Microwave Step 21.jpg|center]]",
+                    "#Poke tiny holes in the dough using a fork. Gently pierce the surface of the dough with the fork every {{convert|.5|in|cm}} or so across the dough's surface. The holes will let air circulate through the dough so it doesn't bubble up in the microwave.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=206</ref>[[Image:Bake in a Microwave Step 22.jpg|center]]",
+                    "#Add your favorite toppings to the pizza dough. Start with pizza sauce and cheese. Then, add your toppings of choice. You can add chopped vegetables like onions, peppers, and mushrooms. If you want to put meat on your pizza, make sure it’s already cooked all the way through.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=226</ref>[[Image:Bake in a Microwave Step 23.jpg|center]]",
+                    "#Place the pizza on a microwave-safe wire rack and microwave for 4 minutes. After 4 minutes, check on the pizza. If the cheese doesn’t look melted, microwave it for another 1-2 minutes.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=281</ref>[[Image:Bake in a Microwave Step 24.jpg|center]]",
+                    "#Cut the pizza into slices and serve. Transfer the pizza from the wire rack to a plate using a spatula. Use a knife to divide the pizza into even slices. [[Image:Bake in a Microwave Step 25.jpg|center]]",
+                    "#Melt butter and chocolate in the microwave. Add 1 stick of butter and {{convert|3|USoz|mL}} of unsweetened chocolate to a microwave-safe bowl. Microwave the butter and chocolate on high for 2 minutes. Open the microwave every 30 seconds and stir the chocolate and butter together with a spoon so they melt.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 26.jpg|center]]",
+                    "#Whisk 2 eggs and 1 cup (236.6 mL) of sugar in a bowl. Continue whisking until the eggs and sugar are thoroughly combined. Set the bowl aside.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 27.jpg|center]]",
+                    "#Prepare a flour mixture in a large bowl. Add ½ cup (118.3 mL) of flour, ½ teaspoon (2.5 mL) of baking powder, and ½ teaspoon (2.5 mL) of salt to a large bowl. Mix the flour, baking powder, and salt together thoroughly using a spoon. Use the spoon to make a hole in the center of the flour mixture.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 28.jpg|center]]",
+                    "#Pour the chocolate and egg mixtures into the center of the flour mixture. Use a spoon to stir the mixtures together. Keep stirring until all the ingredients are thoroughly blended.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 29.jpg|center]]",
+                    "#Pour the batter into a greased, microwave-safe glass pan. Make sure the pan you use is small enough to fit in your microwave. Spread the batter out in the pan so it’s even.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 30.jpg|center]]",
+                    "#Place the pan in the microwave and bake on high for 5 minutes. After 5 minutes, remove the brownies and check to see if they’re done. If there’s still liquid on top of the surface, put them back in the microwave for 1-2 more minutes.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 31.jpg|center]]",
+                    "#Let the brownies cool for 3 minutes before serving. Once the brownies have cooled down, cut them into slices using a knife. Scoop the slices out of the pan and serve.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>[[Image:Bake in a Microwave Step 32.jpg|center]]"
+                ],
+                "removed": [
+                    "#Prepare a bowl of yeast. Add 1 ½ teaspoons (7.4 mL) of dry active yeast, ½ cup (118.3 mL) of warm water, and 2 cups (473.2 mL) of warm milk to a bowl. Stir thoroughly and set the bowl aside.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Prepare a flour mixture in a separate large bowl. Add 3 cups (709.8 mL) of flour, 1 tablespoon (14.8 mL) of sugar, and 2 teaspoons (9.9 mL) of salt to the bowl. Use a spoon to thoroughly combine the flour, sugar, and salt.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Pour the flour mixture into the bowl with the yeast. Beat the yeast and flour mixture thoroughly using a dough hook. Stop beating once the the dough has formed and it's smooth.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Cover the bowl of dough with a damp towel and let it rise. Place the bowl of dough in a warm place so it rises faster. Check on the dough after an hour. If it has doubled in size, it’s finished rising. If it hasn’t, let it rise for another 15 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Mix baking soda and warm water into the dough. Dissolve ¼ teaspoon (1.2 mL) of baking soda in ¼ teaspoon (1.2 mL) of warm water in a glass. Once the baking soda is dissolved, add the baking soda and water to the dough. Mix them into the dough using a spoon.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Separate the dough into 2 greased microwave-safe glass pans and let it rise. Cover the pans with a damp towel and set them in a warm place. Check on them after 45 minutes to see if they’ve doubled in size. If they have, they’re finished rising.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Microwave each pan of dough separately for 6 minutes on high. Take the damp cloth off the pans before microwaving them. After 3 minutes, open the microwave and rotate the pan of dough. Finish microwaving the dough for the remaining 3 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Remove the bread from the microwave and let it cool. After the dough has cooled, remove it from the pan. Cut it into slices and serve.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Combine your dry ingredients in a large bowl. Add 3 ¼ cups (768.9 mL) of flour, 1 teaspoon (4.9 mL) of baking powder, ½ teaspoon (2.5 mL) of baking soda, and ½ teaspoon (2.5 mL) of salt to the bowl. Stir the dry ingredients thoroughly with a spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Melt 2 sticks of butter in the microwave. Place the butter in a microwave-safe bowl and microwave it for 30 seconds. If the butter hasn't melted after 30 seconds, microwave it for another 15 seconds, or until it has melted.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Whisk together your liquid ingredients in a separate large bowl. Add 2 eggs, 2 cups (473.2 mL) of buttermilk, and 1 tablespoon (14.8 mL) of vanilla to the bowl. Whisk until the eggs, buttermilk, and vanilla are thoroughly combined.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Add the buttermilk mixture and melted butter to the dry ingredients. Stir everything together with a spoon until the batter is smooth. If there are any clumps in the batter, break them up with the spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Pour the cake batter into a silicone, microwave-safe cake pan. If you’re making a cake with multiple layers, divide the batter into 2 or more silicone cake pans. Just make sure you’re only microwaving 1 layer at a time. Don’t worry about greasing the pan, the cake shouldn’t stick to the silicone.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Put the pan in the microwave and bake on high for 2 minutes and 30 seconds. After 2 minutes and 30 seconds, check the cake to see if it's finished. If there's any liquid batter on the surface of the cake, microwave the cake for another minute, or until it's dry and fluffy.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Let the cake cool completely before you add frosting. It could take over an hour for the cake to fully cool. Don't frost the cake when it's warm or the frosting could melt off. After you've frosted the cake, cut it into slices and serve.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Prepare a bowl of instant yeast. Combine ½ cup (118.3 mL) of warm water and 1 teaspoon (4.9 mL) of sugar in a small bowl. Once the sugar is dissolved, add 1 teaspoon (4.9 mL) of instant yeast to the bowl. Stir the yeast and sugar water thoroughly. Set the bowl aside for 10 minutes to rest.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=40</ref>",
+                    "#Mix 1 cup (236.6 mL) of flour and 1 teaspoon (4.9 mL) of salt in a large bowl. Stir the salt and flour thoroughly using a spoon. Then, make a hole in the center of the bowl using the spoon.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=58</ref>",
+                    "#Pour the bowl of yeast into the center of the flour mixture. Stir the yeast into the flour mixture using a spoon or your hands. Continue stirring until the dough starts to form. If the dough is too dry, add more water.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=76</ref>",
+                    "#Add 2 tablespoons (29.6 mL) of cooking oil to the dough and knead it for 5 minutes. To knead the dough, roll the dough back and forth in the bowl using your hand. When you’re finished, the dough should be a smooth ball.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=96</ref>",
+                    "#Cover the bowl of dough with a damp cloth and let it rise for an hour. After an hour, check on the dough. If it has doubled in size, it’s finished rising. If not, re-cover with the damp cloth and let it continue to rise.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=128</ref>",
+                    "#Separate the dough into 2 pieces and roll them out with a rolling pin. Sprinkle a pinch of flour onto the dough to help you roll it out. Bring the rolling pin back and forth so the dough gets flat and round. Keep rolling until the dough is about {{convert|8|in|cm}} in diameter. This will be the crust for your pizza.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=182</ref>",
+                    "#Poke tiny holes in the dough using a fork. Gently pierce the surface of the dough with the fork every {{convert|.5|in|cm}} or so across the dough's surface. The holes will let air circulate through the dough so it doesn't bubble up in the microwave.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=206</ref>",
+                    "#Add your favorite toppings to the pizza dough. Start with pizza sauce and cheese. Then, add your toppings of choice. You can add chopped vegetables like onions, peppers, and mushrooms. If you want to put meat on your pizza, make sure it’s already cooked all the way through.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=226</ref>",
+                    "#Place the pizza on a microwave-safe wire rack and microwave for 4 minutes. After 4 minutes, check on the pizza. If the cheese doesn’t look melted, microwave it for another 1-2 minutes.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=281</ref>",
+                    "#Cut the pizza into slices and serve. Transfer the pizza from the wire rack to a plate using a spatula. Use a knife to divide the pizza into even slices.",
+                    "#Melt butter and chocolate in the microwave. Add 1 stick of butter and {{convert|3|USoz|mL}} of unsweetened chocolate to a microwave-safe bowl. Microwave the butter and chocolate on high for 2 minutes. Open the microwave every 30 seconds and stir the chocolate and butter together with a spoon so they melt.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Whisk 2 eggs and 1 cup (236.6 mL) of sugar in a bowl. Continue whisking until the eggs and sugar are thoroughly combined. Set the bowl aside.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Prepare a flour mixture in a large bowl. Add ½ cup (118.3 mL) of flour, ½ teaspoon (2.5 mL) of baking powder, and ½ teaspoon (2.5 mL) of salt to a large bowl. Mix the flour, baking powder, and salt together thoroughly using a spoon. Use the spoon to make a hole in the center of the flour mixture.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Pour the chocolate and egg mixtures into the center of the flour mixture. Use a spoon to stir the mixtures together. Keep stirring until all the ingredients are thoroughly blended.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Pour the batter into a greased, microwave-safe glass pan. Make sure the pan you use is small enough to fit in your microwave. Spread the batter out in the pan so it’s even.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Place the pan in the microwave and bake on high for 5 minutes. After 5 minutes, remove the brownies and check to see if they’re done. If there’s still liquid on top of the surface, put them back in the microwave for 1-2 more minutes.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Let the brownies cool for 3 minutes before serving. Once the brownies have cooled down, cut them into slices using a knife. Scoop the slices out of the pan and serve.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23411388",
+            "user": "Seymour Edits",
+            "timestamp": "15:09, 18 October 2017",
+            "anon": false,
+            "size": "(12,247 bytes)",
+            "change": 1540,
+            "summary": "(implemented reviewer feedback.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals, like bread, pizza, cake, and brownies, in a shorter amount of time. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave has.",
+                    "==Ingredients==",
+                    "===Microwave Bread===",
+                    "*1 ½ teaspoons (7.4 mL) dry active yeast",
+                    "*½ cup (118.3 mL) warm water",
+                    "*2 cups (473.2 mL) warm milk",
+                    "*3 cups (709.8 mL) flour",
+                    "*1 tablespoon (14.8 mL) sugar",
+                    "*2 teaspoons (9.9 mL) salt",
+                    "*¼ teaspoon (1.2 mL) baking soda",
+                    "*¼ teaspoon (1.2 mL) warm water",
+                    "===Microwave Cake===",
+                    "*3 ¼ cups (768.9 mL) flour",
+                    "*1 teaspoon (4.9 mL) baking powder",
+                    "*½ teaspoon (2.5 mL) baking soda",
+                    "*½ teaspoon (2.5 mL) salt",
+                    "*2 sticks of butter",
+                    "*2 eggs",
+                    "*2 cups (473.2 mL) buttermilk",
+                    "*1 tablespoon (14.8 mL) vanilla",
+                    "===Microwave Pizza===",
+                    "*½ cup (118.3 mL) warm water",
+                    "*1 teaspoon (4.9 mL) sugar",
+                    "*1 teaspoon (4.9 mL) instant yeast",
+                    "*1 cup (236.6 mL) flour",
+                    "*1 teaspoon (4.9 mL) salt",
+                    "*2 tablespoons (29.6 mL) cooking oil",
+                    "*Pizza sauce",
+                    "*Cheese",
+                    "*Pizza toppings",
+                    "===Microwave Brownies===",
+                    "*3 fluid ounces (89 mL) unsweetened chocolate",
+                    "*1 stick of butter",
+                    "*2 eggs",
+                    "*1 cup (236.6 mL) sugar",
+                    "*½ cup (118.3 mL) flour",
+                    "*½ teaspoon (2.5 mL) baking powder",
+                    "*½ teaspoon (2.5 mL) salt",
+                    "#Cover the bowl of dough with a damp towel and let it rise. Place the bowl of dough in a warm place so it rises faster. Check on the dough after an hour. If it has doubled in size, it’s finished rising. If it hasn’t, let it rise for another 15 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Microwave each pan of dough separately for 6 minutes on high. Take the damp cloth off the pans before microwaving them. After 3 minutes, open the microwave and rotate the pan of dough. Finish microwaving the dough for the remaining 3 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Melt 2 sticks of butter in the microwave. Place the butter in a microwave-safe bowl and microwave it for 30 seconds. If the butter hasn't melted after 30 seconds, microwave it for another 15 seconds, or until it has melted.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Let the cake cool completely before you add frosting. It could take over an hour for the cake to fully cool. Don't frost the cake when it's warm or the frosting could melt off. After you've frosted the cake, cut it into slices and serve.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Cover the bowl of dough with a damp cloth and let it rise for an hour. After an hour, check on the dough. If it has doubled in size, it’s finished rising. If not, re-cover with the damp cloth and let it continue to rise.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=128</ref>",
+                    "#Add your favorite toppings to the pizza dough. Start with pizza sauce and cheese. Then, add your toppings of choice. You can add chopped vegetables like onions, peppers, and mushrooms. If you want to put meat on your pizza, make sure it’s already cooked all the way through.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=226</ref>",
+                    "#Place the pizza on a microwave-safe wire rack and microwave for 4 minutes. After 4 minutes, check on the pizza. If the cheese doesn’t look melted, microwave it for another 1-2 minutes.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=281</ref>",
+                    "#*If your microwave didn’t come with a wire rack, look for one online or at your local shopping center.",
+                    "",
+                    "==Things You'll Need==",
+                    "===Baking Bread in a Microwave===",
+                    "*2 large bowls",
+                    "*2 microwave-safe glass pans",
+                    "*Spoon",
+                    "*Dough hook",
+                    "*Kitchen towel",
+                    "===Baking a Microwave Cake===",
+                    "*2 large bowls",
+                    "*Microwave-safe bowl",
+                    "*Spoon",
+                    "*Silicone microwave-safe cake pan",
+                    "===Baking Pizza in a Microwave===",
+                    "*Large bowl",
+                    "*Small bowl",
+                    "*Spoon",
+                    "*Kitchen towel",
+                    "*Rolling pin",
+                    "*Fork",
+                    "*Wire rack",
+                    "===Making Brownies in a Microwave===",
+                    "*Microwave-safe bowl",
+                    "*Large bowl",
+                    "*Spoon",
+                    "*Microwave-safe glass pan",
+                    ""
+                ],
+                "removed": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals in a shorter amount of time, like bread, pizza, cake, and brownies. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave is.",
+                    "#Cover the bowl of dough with a damp towel and let it rise. Place the bowl of dough in a warm place so it rises faster. Check on the dough after an hour. If it’s doubled in size, it’s finished rising. If it hasn’t, let it rise for another 15 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Microwave each pan of dough separately for 6 minutes on high. After 3 minutes, open the microwave and rotate the pan of dough. Finish microwaving the dough for the remaining 3 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Melt 2 sticks of butter in the microwave. Place the butter in a microwave safe bowl and microwave it for 30 seconds. If the butter isn't melted after 30 seconds, microwave it for another 15 seconds, or until it's melted.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Let the cake cool completely before frosting. It could take over an hour for the cake to fully cool. Don't try to frosting the cake when it's warm or the frosting could melt off.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Cover the bowl of dough with a damp cloth and let it rise for an hour. After an hour, check on the dough. If it’s doubled in size, it’s finished rising. If not, re-cover with the damp cloth and let it continue to rise.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=128</ref>",
+                    "#Add your favorite toppings to the pizza dough. Start with a pizza sauce, add cheese, and finish with your toppings of choice. You can add chopped vegetables like onions, peppers, and mushrooms. If you want to put meat on your pizza, make sure it’s already cooked all the way through.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=226</ref>",
+                    "#Place the pizza on a microwave-safe wire wrack and microwave for 4 minutes. After 4 minutes, check on the pizza. If the cheese doesn’t look melted, microwave it for another 1-2 minutes.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=281</ref>",
+                    "#*If your microwave didn’t come with a wire wrack, look for one online or at your local shopping center."
+                ]
+            }
+        },
+        {
+            "id": "23407409",
+            "user": "Ridgebell",
+            "timestamp": "19:32, 17 October 2017",
+            "anon": false,
+            "size": "(10,707 bytes)",
+            "change": 19,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals in a shorter amount of time, like bread, pizza, cake, and brownies. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave is.",
+                    "[[Category:Baking]]",
+                    ""
+                ],
+                "removed": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals in a shorter amount of time, like bread, pizza, cake, and brownies. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave is."
+                ]
+            }
+        },
+        {
+            "id": "23405820",
+            "user": "WRM",
+            "timestamp": "16:00, 17 October 2017",
+            "anon": false,
+            "size": "(10,688 bytes)",
+            "change": 10688,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "You don’t always need an oven to bake your favorite recipes. With a microwave, you can make delicious baked meals in a shorter amount of time, like bread, pizza, cake, and brownies. Just make sure you’re using microwave-safe pans and trays! Keep in mind that exact baking times will vary depending on how many watts your microwave is.",
+                    "==Steps==",
+                    "===Baking Bread in a Microwave===",
+                    "#Prepare a bowl of yeast. Add 1 ½ teaspoons (7.4 mL) of dry active yeast, ½ cup (118.3 mL) of warm water, and 2 cups (473.2 mL) of warm milk to a bowl. Stir thoroughly and set the bowl aside.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Prepare a flour mixture in a separate large bowl. Add 3 cups (709.8 mL) of flour, 1 tablespoon (14.8 mL) of sugar, and 2 teaspoons (9.9 mL) of salt to the bowl. Use a spoon to thoroughly combine the flour, sugar, and salt.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Pour the flour mixture into the bowl with the yeast. Beat the yeast and flour mixture thoroughly using a dough hook. Stop beating once the the dough has formed and it's smooth.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Cover the bowl of dough with a damp towel and let it rise. Place the bowl of dough in a warm place so it rises faster. Check on the dough after an hour. If it’s doubled in size, it’s finished rising. If it hasn’t, let it rise for another 15 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Mix baking soda and warm water into the dough. Dissolve ¼ teaspoon (1.2 mL) of baking soda in ¼ teaspoon (1.2 mL) of warm water in a glass. Once the baking soda is dissolved, add the baking soda and water to the dough. Mix them into the dough using a spoon.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Separate the dough into 2 greased microwave-safe glass pans and let it rise. Cover the pans with a damp towel and set them in a warm place. Check on them after 45 minutes to see if they’ve doubled in size. If they have, they’re finished rising.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Microwave each pan of dough separately for 6 minutes on high. After 3 minutes, open the microwave and rotate the pan of dough. Finish microwaving the dough for the remaining 3 minutes.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "#Remove the bread from the microwave and let it cool. After the dough has cooled, remove it from the pan. Cut it into slices and serve.<ref>https://www.thedailymeal.com/cook/did-you-know-you-can-make-bread-your-microwave-oven</ref>",
+                    "===Baking a Microwave Cake===",
+                    "#Combine your dry ingredients in a large bowl. Add 3 ¼ cups (768.9 mL) of flour, 1 teaspoon (4.9 mL) of baking powder, ½ teaspoon (2.5 mL) of baking soda, and ½ teaspoon (2.5 mL) of salt to the bowl. Stir the dry ingredients thoroughly with a spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Melt 2 sticks of butter in the microwave. Place the butter in a microwave safe bowl and microwave it for 30 seconds. If the butter isn't melted after 30 seconds, microwave it for another 15 seconds, or until it's melted.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Whisk together your liquid ingredients in a separate large bowl. Add 2 eggs, 2 cups (473.2 mL) of buttermilk, and 1 tablespoon (14.8 mL) of vanilla to the bowl. Whisk until the eggs, buttermilk, and vanilla are thoroughly combined.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Add the buttermilk mixture and melted butter to the dry ingredients. Stir everything together with a spoon until the batter is smooth. If there are any clumps in the batter, break them up with the spoon.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Pour the cake batter into a silicone, microwave-safe cake pan. If you’re making a cake with multiple layers, divide the batter into 2 or more silicone cake pans. Just make sure you’re only microwaving 1 layer at a time. Don’t worry about greasing the pan, the cake shouldn’t stick to the silicone.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#*You can find a silicone, microwave-safe cake pan online or in the baking section at your local shopping center.",
+                    "#Put the pan in the microwave and bake on high for 2 minutes and 30 seconds. After 2 minutes and 30 seconds, check the cake to see if it's finished. If there's any liquid batter on the surface of the cake, microwave the cake for another minute, or until it's dry and fluffy.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "#Let the cake cool completely before frosting. It could take over an hour for the cake to fully cool. Don't try to frosting the cake when it's warm or the frosting could melt off.<ref>https://www.biggerbolderbaking.com/3-layer-cake-made-microwave/</ref>",
+                    "===Baking Pizza in a Microwave===",
+                    "#Prepare a bowl of instant yeast. Combine ½ cup (118.3 mL) of warm water and 1 teaspoon (4.9 mL) of sugar in a small bowl. Once the sugar is dissolved, add 1 teaspoon (4.9 mL) of instant yeast to the bowl. Stir the yeast and sugar water thoroughly. Set the bowl aside for 10 minutes to rest.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=40</ref>",
+                    "#Mix 1 cup (236.6 mL) of flour and 1 teaspoon (4.9 mL) of salt in a large bowl. Stir the salt and flour thoroughly using a spoon. Then, make a hole in the center of the bowl using the spoon.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=58</ref>",
+                    "#Pour the bowl of yeast into the center of the flour mixture. Stir the yeast into the flour mixture using a spoon or your hands. Continue stirring until the dough starts to form. If the dough is too dry, add more water.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=76</ref>",
+                    "#Add 2 tablespoons (29.6 mL) of cooking oil to the dough and knead it for 5 minutes. To knead the dough, roll the dough back and forth in the bowl using your hand. When you’re finished, the dough should be a smooth ball.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=96</ref>",
+                    "#Cover the bowl of dough with a damp cloth and let it rise for an hour. After an hour, check on the dough. If it’s doubled in size, it’s finished rising. If not, re-cover with the damp cloth and let it continue to rise.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=128</ref>",
+                    "#*Place the bowl of dough in a warm place to help it rise faster.",
+                    "#Separate the dough into 2 pieces and roll them out with a rolling pin. Sprinkle a pinch of flour onto the dough to help you roll it out. Bring the rolling pin back and forth so the dough gets flat and round. Keep rolling until the dough is about {{convert|8|in|cm}} in diameter. This will be the crust for your pizza.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=182</ref>",
+                    "#Poke tiny holes in the dough using a fork. Gently pierce the surface of the dough with the fork every {{convert|.5|in|cm}} or so across the dough's surface. The holes will let air circulate through the dough so it doesn't bubble up in the microwave.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=206</ref>",
+                    "#Add your favorite toppings to the pizza dough. Start with a pizza sauce, add cheese, and finish with your toppings of choice. You can add chopped vegetables like onions, peppers, and mushrooms. If you want to put meat on your pizza, make sure it’s already cooked all the way through.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=226</ref>",
+                    "#Place the pizza on a microwave-safe wire wrack and microwave for 4 minutes. After 4 minutes, check on the pizza. If the cheese doesn’t look melted, microwave it for another 1-2 minutes.<ref>https://www.youtube.com/watch?v=IbiEF5_2wIM&feature=youtu.be&t=281</ref>",
+                    "#*If your microwave didn’t come with a wire wrack, look for one online or at your local shopping center.",
+                    "#Cut the pizza into slices and serve. Transfer the pizza from the wire rack to a plate using a spatula. Use a knife to divide the pizza into even slices.",
+                    "===Making Brownies in a Microwave===",
+                    "#Melt butter and chocolate in the microwave. Add 1 stick of butter and {{convert|3|USoz|mL}} of unsweetened chocolate to a microwave-safe bowl. Microwave the butter and chocolate on high for 2 minutes. Open the microwave every 30 seconds and stir the chocolate and butter together with a spoon so they melt.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Whisk 2 eggs and 1 cup (236.6 mL) of sugar in a bowl. Continue whisking until the eggs and sugar are thoroughly combined. Set the bowl aside.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Prepare a flour mixture in a large bowl. Add ½ cup (118.3 mL) of flour, ½ teaspoon (2.5 mL) of baking powder, and ½ teaspoon (2.5 mL) of salt to a large bowl. Mix the flour, baking powder, and salt together thoroughly using a spoon. Use the spoon to make a hole in the center of the flour mixture.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Pour the chocolate and egg mixtures into the center of the flour mixture. Use a spoon to stir the mixtures together. Keep stirring until all the ingredients are thoroughly blended.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Pour the batter into a greased, microwave-safe glass pan. Make sure the pan you use is small enough to fit in your microwave. Spread the batter out in the pan so it’s even.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#*For an even better-tasting brownie, sprinkle chocolate chips on top of the batter before you bake it.",
+                    "#Place the pan in the microwave and bake on high for 5 minutes. After 5 minutes, remove the brownies and check to see if they’re done. If there’s still liquid on top of the surface, put them back in the microwave for 1-2 more minutes.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "#Let the brownies cool for 3 minutes before serving. Once the brownies have cooled down, cut them into slices using a knife. Scoop the slices out of the pan and serve.<ref>http://www.foodnetwork.com/recipes/microwave-brownies-recipe-1945462</ref>",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__Methods__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

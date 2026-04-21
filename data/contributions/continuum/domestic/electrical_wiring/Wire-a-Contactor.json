@@ -1,0 +1,732 @@
+{
+    "title": "Wire-a-Contactor",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T10:03:20.098985",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32560768",
+            "user": "Seymour Edits",
+            "timestamp": "20:30, 7 June 2024",
+            "anon": false,
+            "size": "(4,349 bytes)",
+            "change": 271,
+            "summary": "(tysk added)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{OrderedListTYSK}}<div class='subtitle'>A guide to safely routing and connecting electrical wires to a contactor </div>Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "",
+                    "==How to Do Contactor Wiring==",
+                    "#Look over the contactor manufacturer information to identify the input and output pins.",
+                    "#Determine if the contactor has an auxiliary output contact.",
+                    "#Strip the wires.",
+                    "#Run all input and output wires to the contactor.",
+                    ""
+                ],
+                "removed": [
+                    "<div class='subtitle'>A guide to safely routing and connecting electrical wires to a contactor </div>Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor."
+                ]
+            }
+        },
+        {
+            "id": "32272588",
+            "user": "WikiHow Horizon 2",
+            "timestamp": "00:44, 8 February 2024",
+            "anon": false,
+            "size": "(4,078 bytes)",
+            "change": 41,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Contactor|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30929104",
+            "user": "WikiHow Projects",
+            "timestamp": "08:42, 2 October 2022",
+            "anon": false,
+            "size": "(4,037 bytes)",
+            "change": 17,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/"
+                ],
+                "removed": [
+                    "*http://www.allaboutcircuits.com/vol_4/chpt_5/2.html"
+                ]
+            }
+        },
+        {
+            "id": "30588027",
+            "user": "Seymour Edits",
+            "timestamp": "17:31, 31 May 2022",
+            "anon": false,
+            "size": "(4,020 bytes)",
+            "change": 101,
+            "summary": "(Adding subtitle, wikiHaus test please do not remove)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "<div class='subtitle'>A guide to safely routing and connecting electrical wires to a contactor </div>Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor."
+                ],
+                "removed": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor."
+                ]
+            }
+        },
+        {
+            "id": "29377392",
+            "user": "Seymour Edits",
+            "timestamp": "21:08, 24 March 2021",
+            "anon": false,
+            "size": "(3,919 bytes)",
+            "change": 49,
+            "summary": "(NCA edit.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)<ref>[v161396_b02]. 6 May 2020.</ref>[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28104184",
+            "user": "Caitlynn L",
+            "timestamp": "23:20, 11 May 2020",
+            "anon": false,
+            "size": "(3,870 bytes)",
+            "change": -7560,
+            "summary": "(revert for wikiHaus test - message me if you have any questions)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.[[Image:Wire a Contactor Step 1.jpg|center]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.[[Image:Wire a Contactor Step 5.jpg|center]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.[[Image:Wire a Contactor Step 6.jpg|center]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.[[Image:Wire a Contactor Step 7.jpg|center]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.[[Image:Wire a Contactor Step 8.jpg|center]]",
+                    "*All voltages used for a contactor, including the 120 volts AC control voltage, are potentially fatal. Make sure that all power is turned off before any work is done on a contactor.",
+                    "*Wire",
+                    "*http://www.allaboutcircuits.com/vol_4/chpt_5/2.html"
+                ],
+                "removed": [
+                    "Many large pieces of equipment require a high voltage current to operate. The standard current in a home is only 120 volts AC, so electricians use a contactor to increase the current. To use one, plug in the wires from your home’s nearest circuit breaker on one side, then follow up with the device’s wires on the other side. Contactors help supply motors, light systems, air conditioners, and even large appliances like washers and dryers with electricity. Although wiring a contactor isn’t difficult, it requires a little bit of electrical know-how, so call a professional electrician if you need assistance getting the job done.",
+                    "===Choosing and Shutting Off Contactor===",
+                    "#Select a contactor that capable of handling the voltage and current. Contactors come with a built-in magnetic coil used to conduct electricity. Look on the top edge of the connector for a plastic tab containing information about the coil. Many devices require a 240-volt current to function, so you will need a contactor with a 240-volt coil.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 1 Version 2.jpg|center]]",
+                    "#*Contactors are available online and at many big hardware stores. Also, check out construction supply stores.",
+                    "#*Check the device you plan on hooking up to figure out what kind of power supply it needs. Some very heavy pieces of equipment may even need as much as 480 volts to function.",
+                    "#Read the user manual to identify the outlets on the contactor. The input slots are labeled on most contactors, but check the manual for more information. Take advantage of the labeling to figure out how to hook the electrical wires to the contactor. The input slots will be labeled as L and are usually on top. The output slots, labeled as T, will be on the bottom.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 2 Version 2.jpg|center]]",
+                    "#*You may also see labels like normally open (NO) and normally closed (NC). Generally, you use the NO slots to wire the contactor.",
+                    "#*The NC slot stays closed until you need to activate it. It’s used for some types of wiring, such as setting up an emergency deactivation switch. When you press the switch, the contact opens to deactivate the electricity.",
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower voltage to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3 Version 2.jpg|center]]",
+                    "#*For example, an auxiliary contactor could control the pilot light on a pump. The light would burn out if it received the 240-volt current the pump used. The auxiliary system may also be responsible for timers or display screens.",
+                    "#*A contactor can have several sets of auxiliary ports. You won’t always need them, so don’t worry if you don’t have anything to plug into them.",
+                    "#Turn off the electricity before handling the wiring. Head down to the lowest floor of your home to [[Find the Fuse Box or Circuit Breaker Box|find]] the circuit breaker or fuse box. It is usually located in an out of the way spot close to where the utility line enters your home. Open the door on the box and find the large switch on top. Flip the switch to shut off the power.<ref>https://www.familyhandyman.com/electrical/breaker-box/how-circuit-breakers-work/</ref>[[Image:Wire a Contactor Step 4 Version 2.jpg|center]]",
+                    "#*Test the electrical current by attempting to turn on lights and other nearby accessories. Make sure the power is off so you don’t end up handling any live wires!",
+                    "#*Consider putting a note on the circuit breaker or fuse box so anyone living with you knows not to turn the power back on.",
+                    "",
+                    "===Opening the Wires and Contactor===",
+                    "#Route the colored wires from your home’s electrical circuit. Gather the wires from the closest circuit to the contactor. You should have enough wires to fit in the L slots on the top half of the contactor. The wires will usually have a color scheme like red, yellow, and blue. One wire fits into each slot on the contactor.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 5 Version 2.jpg|center]]",
+                    "#*Make sure the wires are long enough to reach the connector. If you need to, trim them with [[Cut Wire|pliers]].",
+                    "#*Keep the wires separated so you know where they fit on the connector. Double-check that you have room for all of the wires on the contactor.",
+                    "#Bring the wires from the device to the contactor. The device you wish to connect needs to be within range of the contactor. Position the device first to ensure your wires are long enough. The device’s main wires should match the ones coming in from the electrical circuit. These will fit in the T slots on the bottom part of the contactor.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 6 Version 2.jpg|center]]",
+                    "#*Your device may also have some smaller 120-volt wires colored black and red. Save these wires to plug into the auxiliary slots.",
+                    "#Strip the ends of the wires by {{convert|1/2|in|cm|abbr=on}}. Cut through the insulation on the wires by using [[Use Wire Strippers|wire strippers]]. Lay a wire between the blades and then push down. After the blades break the insulation, pull the cut piece off to reveal the copper wire underneath it. Then, check the wire to ensure it doesn’t have any strands hanging from it.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>[[Image:Wire a Contactor Step 7 Version 2.jpg|center]]",
+                    "#*You can twist wire strands together to prevent them from hanging. If the wire still appears to be frayed, cut off the damaged portion and strip away more of the insulation.",
+                    "#*Stray strands may make unintended contact with a piece of equipment and cause electrical damage. Make sure the end of each wire looks neat before putting them into the contactor!",
+                    "#Use a screwdriver to loosen the holding screws on the contactor. Every slot has a noticeable metal screw on the outside of the contactor. The screws will be near the slot openings. Use a screwdriver to turn the screws counterclockwise, opening the slots to prepare them for the wires you need to insert. If you need to close the slots back up, turn the screws clockwise.<ref>https://www.youtube.com/watch?v=UJwJRlvcSFI&feature=youtu.be&t=123</ref>[[Image:Wire a Contactor Step 8 Version 2.jpg|center]]",
+                    "#*The screws can be turned clockwise to pin the wires in place once they are plugged into the contactor. Check the opened slots on the contactor to ensure they are secure before turning the power back on.",
+                    "",
+                    "===Inserting the Wires===",
+                    "#Plug the power wire into the first auxiliary port if you are using one. Find the A1 port, then get the 120-volt wire on the accessory you wish to connect. The wire is usually colored black. Push the exposed end into the contactor slot, then tighten the screw to hold it in place.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=78</ref>[[Image:Wire a Contactor Step 9.jpg|center]]",
+                    "#*Make sure you don’t see any stray wire strands hanging out from the connector socket. Either twist the wire strands together or cut the wire to find an undamaged portion.",
+                    "#Secure the white neutral wire to the next auxiliary slot. The remaining wires are all easy to connect since they fit the same way the power wire did. The 120-volt neutral wire comes next and has to be close to the power wire. It goes into the A2 slot on most contactors. This slot will be opposite from the A1 slot.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=89</ref>[[Image:Wire a Contactor Step 10.jpg|center]]",
+                    "#*The neutral wire completes the circuit so electricity can flow safely back toward the power supply.",
+                    "#Turn the electricity on momentarily to energize the contactor. Return to the fuse box or circuit box in your home. After reactivating the electricity, flip the contactor’s switch to the on position. Listen carefully to the noises coming from the contactor. If it is working correctly, you will hear the inner screw switches click as they open and close.<ref>https://www.youtube.com/watch?v=gOcImlyCRQk&feature=youtu.be&t=203</ref>[[Image:Wire a Contactor Step 11.jpg|center]]",
+                    "#*If you don’t hear the click, turn off the power and examine the wiring. You most likely put the wires into the wrong slots.",
+                    "#*Make sure the end of each wire looks neat without any noticeable strands. Also, check that the wires have been fully inserted into the contactor’s slots.",
+                    "#Connect the incoming power supply wires to the L slots. The remaining power wires in your home’s electrical circuit plug into the “line” slots labeled on the contactor or in its manual. You may have up to 3 remaining wires, usually with colors like red, blue, and yellow. Start with the first slot labeled L1 by loosening it and plugging in a wire. Fit the remaining wires to the other slots.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=419</ref>[[Image:Wire a Contactor Step 12.jpg|center]]",
+                    "#*It doesn’t really matter which of the line slots the wires go in. Try putting the red power wire in first, followed by the yellow and blue wires, for example.",
+                    "#*You may not have 3 wires to connect at this point. Remember to match the contactor to your wiring needs.",
+                    "#Fit the outputs into the T slots on the contactor. Finish wiring the contactor by plugging in the electrical device you wish to set up. Loosen the screws on the blocks, then plug the wires in one at a time. The T, or load slots, are also numbered and correspond to the L slots you used earlier. This time, the wire color matters and depends on how you arranged the line wires.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=462</ref>[[Image:Wire a Contactor Step 13.jpg|center]]",
+                    "#*As a rule of thumb, match the wire colors in the T slots to the ones in the L slots. For example, put a red wire into T1, a yellow one into T2, and a blue one into T3.",
+                    "#*Once you have the wires secure, you can reactivate the power and switch on the device you want to power.",
+                    "",
+                    "== Tips ==",
+                    "*Electrical circuits get confusing, so contact a professional electrician if you need help. It’s better to be safe than sorry when dealing with wiring.",
+                    "*The coil inside a contactor can be pulled out and replaced if it burns out. Get one with an identical voltage rating to ensure the contactor continues to function properly.",
+                    "*The color scheme used to identify wires varies depending on where you live. Red and black typically represent power wires, but keep in mind any potential differences while setting up the contractor.<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref>",
+                    "*If you suspect the contactor isn’t receiving power, test it by plugging a [[Use a Multimeter|multimeter]] into an open L and corresponding T slot.",
+                    "*Dealing with electrical circuitry is always dangerous. Make sure the power is off before touching anything.",
+                    "*Sharp pliers",
+                    "*Wires",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ]
+            }
+        },
+        {
+            "id": "27975793",
+            "user": "Votebot",
+            "timestamp": "09:25, 12 April 2020",
+            "anon": false,
+            "size": "(11,430 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "27301318",
+            "user": "Wikivisual",
+            "timestamp": "16:36, 1 November 2019",
+            "anon": false,
+            "size": "(11,428 bytes)",
+            "change": 304,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Select a contactor that capable of handling the voltage and current. Contactors come with a built-in magnetic coil used to conduct electricity. Look on the top edge of the connector for a plastic tab containing information about the coil. Many devices require a 240-volt current to function, so you will need a contactor with a 240-volt coil.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 1 Version 2.jpg|center]]",
+                    "#Read the user manual to identify the outlets on the contactor. The input slots are labeled on most contactors, but check the manual for more information. Take advantage of the labeling to figure out how to hook the electrical wires to the contactor. The input slots will be labeled as L and are usually on top. The output slots, labeled as T, will be on the bottom.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 2 Version 2.jpg|center]]",
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower voltage to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3 Version 2.jpg|center]]",
+                    "#Turn off the electricity before handling the wiring. Head down to the lowest floor of your home to [[Find the Fuse Box or Circuit Breaker Box|find]] the circuit breaker or fuse box. It is usually located in an out of the way spot close to where the utility line enters your home. Open the door on the box and find the large switch on top. Flip the switch to shut off the power.<ref>https://www.familyhandyman.com/electrical/breaker-box/how-circuit-breakers-work/</ref>[[Image:Wire a Contactor Step 4 Version 2.jpg|center]]",
+                    "#Route the colored wires from your home’s electrical circuit. Gather the wires from the closest circuit to the contactor. You should have enough wires to fit in the L slots on the top half of the contactor. The wires will usually have a color scheme like red, yellow, and blue. One wire fits into each slot on the contactor.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 5 Version 2.jpg|center]]",
+                    "#Bring the wires from the device to the contactor. The device you wish to connect needs to be within range of the contactor. Position the device first to ensure your wires are long enough. The device’s main wires should match the ones coming in from the electrical circuit. These will fit in the T slots on the bottom part of the contactor.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 6 Version 2.jpg|center]]",
+                    "#Strip the ends of the wires by {{convert|1/2|in|cm|abbr=on}}. Cut through the insulation on the wires by using [[Use Wire Strippers|wire strippers]]. Lay a wire between the blades and then push down. After the blades break the insulation, pull the cut piece off to reveal the copper wire underneath it. Then, check the wire to ensure it doesn’t have any strands hanging from it.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>[[Image:Wire a Contactor Step 7 Version 2.jpg|center]]",
+                    "#Use a screwdriver to loosen the holding screws on the contactor. Every slot has a noticeable metal screw on the outside of the contactor. The screws will be near the slot openings. Use a screwdriver to turn the screws counterclockwise, opening the slots to prepare them for the wires you need to insert. If you need to close the slots back up, turn the screws clockwise.<ref>https://www.youtube.com/watch?v=UJwJRlvcSFI&feature=youtu.be&t=123</ref>[[Image:Wire a Contactor Step 8 Version 2.jpg|center]]",
+                    "#Plug the power wire into the first auxiliary port if you are using one. Find the A1 port, then get the 120-volt wire on the accessory you wish to connect. The wire is usually colored black. Push the exposed end into the contactor slot, then tighten the screw to hold it in place.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=78</ref>[[Image:Wire a Contactor Step 9.jpg|center]]",
+                    "#Secure the white neutral wire to the next auxiliary slot. The remaining wires are all easy to connect since they fit the same way the power wire did. The 120-volt neutral wire comes next and has to be close to the power wire. It goes into the A2 slot on most contactors. This slot will be opposite from the A1 slot.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=89</ref>[[Image:Wire a Contactor Step 10.jpg|center]]",
+                    "#Turn the electricity on momentarily to energize the contactor. Return to the fuse box or circuit box in your home. After reactivating the electricity, flip the contactor’s switch to the on position. Listen carefully to the noises coming from the contactor. If it is working correctly, you will hear the inner screw switches click as they open and close.<ref>https://www.youtube.com/watch?v=gOcImlyCRQk&feature=youtu.be&t=203</ref>[[Image:Wire a Contactor Step 11.jpg|center]]",
+                    "#Connect the incoming power supply wires to the L slots. The remaining power wires in your home’s electrical circuit plug into the “line” slots labeled on the contactor or in its manual. You may have up to 3 remaining wires, usually with colors like red, blue, and yellow. Start with the first slot labeled L1 by loosening it and plugging in a wire. Fit the remaining wires to the other slots.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=419</ref>[[Image:Wire a Contactor Step 12.jpg|center]]",
+                    "#Fit the outputs into the T slots on the contactor. Finish wiring the contactor by plugging in the electrical device you wish to set up. Loosen the screws on the blocks, then plug the wires in one at a time. The T, or load slots, are also numbered and correspond to the L slots you used earlier. This time, the wire color matters and depends on how you arranged the line wires.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=462</ref>[[Image:Wire a Contactor Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Select a contactor that capable of handling the voltage and current. Contactors come with a built-in magnetic coil used to conduct electricity. Look on the top edge of the connector for a plastic tab containing information about the coil. Many devices require a 240-volt current to function, so you will need a contactor with a 240-volt coil.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 1.jpg|center]]",
+                    "#Read the user manual to identify the outlets on the contactor. The input slots are labeled on most contactors, but check the manual for more information. Take advantage of the labeling to figure out how to hook the electrical wires to the contactor. The input slots will be labeled as L and are usually on top. The output slots, labeled as T, will be on the bottom.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower voltage to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Turn off the electricity before handling the wiring. Head down to the lowest floor of your home to [[Find the Fuse Box or Circuit Breaker Box|find]] the circuit breaker or fuse box. It is usually located in an out of the way spot close to where the utility line enters your home. Open the door on the box and find the large switch on top. Flip the switch to shut off the power.<ref>https://www.familyhandyman.com/electrical/breaker-box/how-circuit-breakers-work/</ref>",
+                    "#Route the colored wires from your home’s electrical circuit. Gather the wires from the closest circuit to the contactor. You should have enough wires to fit in the L slots on the top half of the contactor. The wires will usually have a color scheme like red, yellow, and blue. One wire fits into each slot on the contactor.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#Bring the wires from the device to the contactor. The device you wish to connect needs to be within range of the contactor. Position the device first to ensure your wires are long enough. The device’s main wires should match the ones coming in from the electrical circuit. These will fit in the T slots on the bottom part of the contactor.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>",
+                    "#Strip the ends of the wires by {{convert|1/2|in|cm|abbr=on}}. Cut through the insulation on the wires by using [[Use Wire Strippers|wire strippers]]. Lay a wire between the blades and then push down. After the blades break the insulation, pull the cut piece off to reveal the copper wire underneath it. Then, check the wire to ensure it doesn’t have any strands hanging from it.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>[[Image:Wire a Contactor Step 5.jpg|center]]",
+                    "#Use a screwdriver to loosen the holding screws on the contactor. Every slot has a noticeable metal screw on the outside of the contactor. The screws will be near the slot openings. Use a screwdriver to turn the screws counterclockwise, opening the slots to prepare them for the wires you need to insert. If you need to close the slots back up, turn the screws clockwise.<ref>https://www.youtube.com/watch?v=UJwJRlvcSFI&feature=youtu.be&t=123</ref>",
+                    "#Plug the power wire into the first auxiliary port if you are using one. Find the A1 port, then get the 120-volt wire on the accessory you wish to connect. The wire is usually colored black. Push the exposed end into the contactor slot, then tighten the screw to hold it in place.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=78</ref>[[Image:Wire a Contactor Step 6.jpg|center]]",
+                    "#Secure the white neutral wire to the next auxiliary slot. The remaining wires are all easy to connect since they fit the same way the power wire did. The 120-volt neutral wire comes next and has to be close to the power wire. It goes into the A2 slot on most contactors. This slot will be opposite from the A1 slot.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=89</ref>",
+                    "#Turn the electricity on momentarily to energize the contactor. Return to the fuse box or circuit box in your home. After reactivating the electricity, flip the contactor’s switch to the on position. Listen carefully to the noises coming from the contactor. If it is working correctly, you will hear the inner screw switches click as they open and close.<ref>https://www.youtube.com/watch?v=gOcImlyCRQk&feature=youtu.be&t=203</ref>[[Image:Wire a Contactor Step 7.jpg|center]]",
+                    "#Connect the incoming power supply wires to the L slots. The remaining power wires in your home’s electrical circuit plug into the “line” slots labeled on the contactor or in its manual. You may have up to 3 remaining wires, usually with colors like red, blue, and yellow. Start with the first slot labeled L1 by loosening it and plugging in a wire. Fit the remaining wires to the other slots.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=419</ref>",
+                    "#Fit the outputs into the T slots on the contactor. Finish wiring the contactor by plugging in the electrical device you wish to set up. Loosen the screws on the blocks, then plug the wires in one at a time. The T, or load slots, are also numbered and correspond to the L slots you used earlier. This time, the wire color matters and depends on how you arranged the line wires.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=462</ref>[[Image:Wire a Contactor Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26964291",
+            "user": "Seymour Edits",
+            "timestamp": "13:31, 19 August 2019",
+            "anon": false,
+            "size": "(11,124 bytes)",
+            "change": 2,
+            "summary": "(Changing p1 title)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "===Choosing and Shutting Off Contactor==="
+                ],
+                "removed": [
+                    "===Choosing and Securing a Contactor==="
+                ]
+            }
+        },
+        {
+            "id": "26963176",
+            "user": "Icefoxdang Icefoxdang",
+            "timestamp": "09:06, 19 August 2019",
+            "anon": false,
+            "size": "(11,122 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower voltage to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower volate to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26960993",
+            "user": "Seymour Edits",
+            "timestamp": "14:10, 18 August 2019",
+            "anon": false,
+            "size": "(11,121 bytes)",
+            "change": 512,
+            "summary": "(Adding step and editing.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. These auxiliary spots signal parts of an electrical device that require a lower volate to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Route the colored wires from your home’s electrical circuit. Gather the wires from the closest circuit to the contactor. You should have enough wires to fit in the L slots on the top half of the contactor. The wires will usually have a color scheme like red, yellow, and blue. One wire fits into each slot on the contactor.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#Bring the wires from the device to the contactor. The device you wish to connect needs to be within range of the contactor. Position the device first to ensure your wires are long enough. The device’s main wires should match the ones coming in from the electrical circuit. These will fit in the T slots on the bottom part of the contactor.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>",
+                    "#*Your device may also have some smaller 120-volt wires colored black and red. Save these wires to plug into the auxiliary slots.",
+                    "#*The screws can be turned clockwise to pin the wires in place once they are plugged into the contactor. Check the opened slots on the contactor to ensure they are secure before turning the power back on."
+                ],
+                "removed": [
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. They may already be on the contactor on a separate accessory mounted to it. These auxiliary spots signal parts of an electrical device that require a lower volate to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Route the colored wires toward the contactor. Start by gathering the wires from the nearest circuit in your home. You should have a pair of wires, typically a black one and a red or white one. Then, gather the wires from your home’s wire supply and the device you wish to secure to the contactor. These wires will have a color scheme like red, yellow, and blue.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#*You can begin opening the slots now. Once you’re done plugging things in, turn the screws clockwise to pin the wires in place."
+                ]
+            }
+        },
+        {
+            "id": "26958289",
+            "user": "Seymour Edits",
+            "timestamp": "13:52, 17 August 2019",
+            "anon": false,
+            "size": "(10,609 bytes)",
+            "change": 6739,
+            "summary": "(Updating and expanding with sources.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Many large pieces of equipment require a high voltage current to operate. The standard current in a home is only 120 volts AC, so electricians use a contactor to increase the current. To use one, plug in the wires from your home’s nearest circuit breaker on one side, then follow up with the device’s wires on the other side. Contactors help supply motors, light systems, air conditioners, and even large appliances like washers and dryers with electricity. Although wiring a contactor isn’t difficult, it requires a little bit of electrical know-how, so call a professional electrician if you need assistance getting the job done.",
+                    "===Choosing and Securing a Contactor===",
+                    "#Select a contactor that capable of handling the voltage and current. Contactors come with a built-in magnetic coil used to conduct electricity. Look on the top edge of the connector for a plastic tab containing information about the coil. Many devices require a 240-volt current to function, so you will need a contactor with a 240-volt coil.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 1.jpg|center]]",
+                    "#*Contactors are available online and at many big hardware stores. Also, check out construction supply stores.",
+                    "#*Check the device you plan on hooking up to figure out what kind of power supply it needs. Some very heavy pieces of equipment may even need as much as 480 volts to function.",
+                    "#Read the user manual to identify the outlets on the contactor. The input slots are labeled on most contactors, but check the manual for more information. Take advantage of the labeling to figure out how to hook the electrical wires to the contactor. The input slots will be labeled as L and are usually on top. The output slots, labeled as T, will be on the bottom.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "#*You may also see labels like normally open (NO) and normally closed (NC). Generally, you use the NO slots to wire the contactor.",
+                    "#*The NC slot stays closed until you need to activate it. It’s used for some types of wiring, such as setting up an emergency deactivation switch. When you press the switch, the contact opens to deactivate the electricity.",
+                    "#Check for a separate auxiliary output contact on the contactor. Some contactors have an extra set of slots labeled with the letter A. They may already be on the contactor on a separate accessory mounted to it. These auxiliary spots signal parts of an electrical device that require a lower volate to operate. The auxiliary output contacts should be rated at 120 volts.<ref>https://www.allaboutcircuits.com/textbook/digital/chpt-5/contactors/</ref>[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#*For example, an auxiliary contactor could control the pilot light on a pump. The light would burn out if it received the 240-volt current the pump used. The auxiliary system may also be responsible for timers or display screens.",
+                    "#*A contactor can have several sets of auxiliary ports. You won’t always need them, so don’t worry if you don’t have anything to plug into them.",
+                    "#Turn off the electricity before handling the wiring. Head down to the lowest floor of your home to [[Find the Fuse Box or Circuit Breaker Box|find]] the circuit breaker or fuse box. It is usually located in an out of the way spot close to where the utility line enters your home. Open the door on the box and find the large switch on top. Flip the switch to shut off the power.<ref>https://www.familyhandyman.com/electrical/breaker-box/how-circuit-breakers-work/</ref>",
+                    "#*Test the electrical current by attempting to turn on lights and other nearby accessories. Make sure the power is off so you don’t end up handling any live wires!",
+                    "#*Consider putting a note on the circuit breaker or fuse box so anyone living with you knows not to turn the power back on.",
+                    "",
+                    "===Opening the Wires and Contactor===",
+                    "#Route the colored wires toward the contactor. Start by gathering the wires from the nearest circuit in your home. You should have a pair of wires, typically a black one and a red or white one. Then, gather the wires from your home’s wire supply and the device you wish to secure to the contactor. These wires will have a color scheme like red, yellow, and blue.<ref>https://www.youtube.com/watch?v=LgfAbpZTIq4&feature=youtu.be&t=249</ref>[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#*Make sure the wires are long enough to reach the connector. If you need to, trim them with [[Cut Wire|pliers]].",
+                    "#*Keep the wires separated so you know where they fit on the connector. Double-check that you have room for all of the wires on the contactor.",
+                    "#Strip the ends of the wires by {{convert|1/2|in|cm|abbr=on}}. Cut through the insulation on the wires by using [[Use Wire Strippers|wire strippers]]. Lay a wire between the blades and then push down. After the blades break the insulation, pull the cut piece off to reveal the copper wire underneath it. Then, check the wire to ensure it doesn’t have any strands hanging from it.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>[[Image:Wire a Contactor Step 5.jpg|center]]",
+                    "#*You can twist wire strands together to prevent them from hanging. If the wire still appears to be frayed, cut off the damaged portion and strip away more of the insulation.",
+                    "#*Stray strands may make unintended contact with a piece of equipment and cause electrical damage. Make sure the end of each wire looks neat before putting them into the contactor!",
+                    "#Use a screwdriver to loosen the holding screws on the contactor. Every slot has a noticeable metal screw on the outside of the contactor. The screws will be near the slot openings. Use a screwdriver to turn the screws counterclockwise, opening the slots to prepare them for the wires you need to insert. If you need to close the slots back up, turn the screws clockwise.<ref>https://www.youtube.com/watch?v=UJwJRlvcSFI&feature=youtu.be&t=123</ref>",
+                    "#*You can begin opening the slots now. Once you’re done plugging things in, turn the screws clockwise to pin the wires in place.",
+                    "",
+                    "===Inserting the Wires===",
+                    "#Plug the power wire into the first auxiliary port if you are using one. Find the A1 port, then get the 120-volt wire on the accessory you wish to connect. The wire is usually colored black. Push the exposed end into the contactor slot, then tighten the screw to hold it in place.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=78</ref>[[Image:Wire a Contactor Step 6.jpg|center]]",
+                    "#*Make sure you don’t see any stray wire strands hanging out from the connector socket. Either twist the wire strands together or cut the wire to find an undamaged portion.",
+                    "#Secure the white neutral wire to the next auxiliary slot. The remaining wires are all easy to connect since they fit the same way the power wire did. The 120-volt neutral wire comes next and has to be close to the power wire. It goes into the A2 slot on most contactors. This slot will be opposite from the A1 slot.<ref>https://www.youtube.com/watch?v=E30g5C-qdmQ&feature=youtu.be&t=89</ref>",
+                    "#*The neutral wire completes the circuit so electricity can flow safely back toward the power supply.",
+                    "#Turn the electricity on momentarily to energize the contactor. Return to the fuse box or circuit box in your home. After reactivating the electricity, flip the contactor’s switch to the on position. Listen carefully to the noises coming from the contactor. If it is working correctly, you will hear the inner screw switches click as they open and close.<ref>https://www.youtube.com/watch?v=gOcImlyCRQk&feature=youtu.be&t=203</ref>[[Image:Wire a Contactor Step 7.jpg|center]]",
+                    "#*If you don’t hear the click, turn off the power and examine the wiring. You most likely put the wires into the wrong slots.",
+                    "#*Make sure the end of each wire looks neat without any noticeable strands. Also, check that the wires have been fully inserted into the contactor’s slots.",
+                    "#Connect the incoming power supply wires to the L slots. The remaining power wires in your home’s electrical circuit plug into the “line” slots labeled on the contactor or in its manual. You may have up to 3 remaining wires, usually with colors like red, blue, and yellow. Start with the first slot labeled L1 by loosening it and plugging in a wire. Fit the remaining wires to the other slots.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=419</ref>",
+                    "#*It doesn’t really matter which of the line slots the wires go in. Try putting the red power wire in first, followed by the yellow and blue wires, for example.",
+                    "#*You may not have 3 wires to connect at this point. Remember to match the contactor to your wiring needs.",
+                    "#Fit the outputs into the T slots on the contactor. Finish wiring the contactor by plugging in the electrical device you wish to set up. Loosen the screws on the blocks, then plug the wires in one at a time. The T, or load slots, are also numbered and correspond to the L slots you used earlier. This time, the wire color matters and depends on how you arranged the line wires.<ref>https://www.youtube.com/watch?v=bkboBItqFXE&feature=youtu.be&t=462</ref>[[Image:Wire a Contactor Step 8.jpg|center]]",
+                    "#*As a rule of thumb, match the wire colors in the T slots to the ones in the L slots. For example, put a red wire into T1, a yellow one into T2, and a blue one into T3.",
+                    "#*Once you have the wires secure, you can reactivate the power and switch on the device you want to power.",
+                    "",
+                    "==Tips==",
+                    "*Electrical circuits get confusing, so contact a professional electrician if you need help. It’s better to be safe than sorry when dealing with wiring.",
+                    "*The coil inside a contactor can be pulled out and replaced if it burns out. Get one with an identical voltage rating to ensure the contactor continues to function properly.",
+                    "*The color scheme used to identify wires varies depending on where you live. Red and black typically represent power wires, but keep in mind any potential differences while setting up the contractor.<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref>",
+                    "*If you suspect the contactor isn’t receiving power, test it by plugging a [[Use a Multimeter|multimeter]] into an open L and corresponding T slot.",
+                    "*Dealing with electrical circuitry is always dangerous. Make sure the power is off before touching anything.",
+                    "*Sharp pliers",
+                    "*Wires",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.[[Image:Wire a Contactor Step 1.jpg|center]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.[[Image:Wire a Contactor Step 5.jpg|center]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.[[Image:Wire a Contactor Step 6.jpg|center]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.[[Image:Wire a Contactor Step 7.jpg|center]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.[[Image:Wire a Contactor Step 8.jpg|center]]",
+                    "*All voltages used for a contactor, including the 120 volts AC control voltage, are potentially fatal. Make sure that all power is turned off before any work is done on a contactor.",
+                    "*Wire",
+                    "*http://www.allaboutcircuits.com/vol_4/chpt_5/2.html"
+                ]
+            }
+        },
+        {
+            "id": "26591554",
+            "user": "WikiHowUser20220204205835",
+            "timestamp": "10:37, 24 May 2019",
+            "anon": false,
+            "size": "(3,870 bytes)",
+            "change": -54,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*http://www.allaboutcircuits.com/vol_4/chpt_5/2.html"
+                ],
+                "removed": [
+                    "*[http://www.allaboutcircuits.com/vol_4/chpt_5/2.html http://www.allaboutcircuits.com/vol_4/chpt_5/2.html]"
+                ]
+            }
+        },
+        {
+            "id": "26591537",
+            "user": "197.248.159.246",
+            "timestamp": "10:23, 24 May 2019",
+            "anon": true,
+            "size": "(3,924 bytes)",
+            "change": -11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*All voltages used for a contactor, including the 120 volts AC control voltage, are potentially fatal. Make sure that all power is turned off before any work is done on a contactor.",
+                    "*Contactor",
+                    "*Wire strippers",
+                    "*Screwdriver",
+                    "*Wire",
+                    "*[http://www.allaboutcircuits.com/vol_4/chpt_5/2.html http://www.allaboutcircuits.com/vol_4/chpt_5/2.html]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "* All voltages used for a contactor, including the 120 volts AC control voltage, are potentially fatal. Make sure that all power is turned off before any work is done on a contactor.",
+                    "* Contactor",
+                    "* Wire strippers",
+                    "* Screwdriver",
+                    "* Wire",
+                    "* [http://www.allaboutcircuits.com/vol_4/chpt_5/2.html http://www.allaboutcircuits.com/vol_4/chpt_5/2.html]"
+                ]
+            }
+        },
+        {
+            "id": "26349529",
+            "user": "MiscBot",
+            "timestamp": "08:05, 29 March 2019",
+            "anon": false,
+            "size": "(3,935 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "18066008",
+            "user": "MiscBot",
+            "timestamp": "21:39, 28 July 2015",
+            "anon": false,
+            "size": "(3,946 bytes)",
+            "change": -112,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.[[Image:Wire a Contactor Step 1.jpg|center]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.[[Image:Wire a Contactor Step 3.jpg|center]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.[[Image:Wire a Contactor Step 4.jpg|center]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.[[Image:Wire a Contactor Step 5.jpg|center]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.[[Image:Wire a Contactor Step 6.jpg|center]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.[[Image:Wire a Contactor Step 7.jpg|center]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.[[Image:Wire a Contactor Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.<br><br>[[Image:Wire a Contactor Step 1.jpg|center|550px]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)<br><br>[[Image:Wire a Contactor Step 2.jpg|center|550px]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.<br><br>[[Image:Wire a Contactor Step 3.jpg|center|550px]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.<br><br>[[Image:Wire a Contactor Step 4.jpg|center|550px]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.<br><br>[[Image:Wire a Contactor Step 5.jpg|center|550px]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.<br><br>[[Image:Wire a Contactor Step 6.jpg|center|550px]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.<br><br>[[Image:Wire a Contactor Step 7.jpg|center|550px]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.<br><br>[[Image:Wire a Contactor Step 8.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15526588",
+            "user": "Wikivisual",
+            "timestamp": "05:30, 3 October 2014",
+            "anon": false,
+            "size": "(4,058 bytes)",
+            "change": 65,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.<br><br>[[Image:Wire a Contactor Step 1.jpg|center|550px]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)<br><br>[[Image:Wire a Contactor Step 2.jpg|center|550px]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.<br><br>[[Image:Wire a Contactor Step 3.jpg|center|550px]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.<br><br>[[Image:Wire a Contactor Step 4.jpg|center|550px]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.<br><br>[[Image:Wire a Contactor Step 5.jpg|center|550px]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.<br><br>[[Image:Wire a Contactor Step 6.jpg|center|550px]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.<br><br>[[Image:Wire a Contactor Step 7.jpg|center|550px]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.<br><br>[[Image:Wire a Contactor Step 8.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.[[Image:Wire a Contactor Step 1.jpg|center|300px]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center|300px]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.[[Image:Wire a Contactor Step 3.jpg|center|300px]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.[[Image:Wire a Contactor Step 4.jpg|center|300px]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.[[Image:Wire a Contactor Step 5.jpg|center|300px]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.[[Image:Wire a Contactor Step 6.jpg|center|300px]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.[[Image:Wire a Contactor Step 7.jpg|center|300px]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.[[Image:Wire a Contactor Step 8.jpg|center|300px]]"
+                ]
+            }
+        },
+        {
+            "id": "15526587",
+            "user": "Wikivisual",
+            "timestamp": "05:30, 3 October 2014",
+            "anon": false,
+            "size": "(3,993 bytes)",
+            "change": 346,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "#Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.[[Image:Wire a Contactor Step 1.jpg|center|300px]]",
+                    "#Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)[[Image:Wire a Contactor Step 2.jpg|center|300px]]",
+                    "#Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.[[Image:Wire a Contactor Step 3.jpg|center|300px]]",
+                    "#Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.[[Image:Wire a Contactor Step 4.jpg|center|300px]]",
+                    "#Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.[[Image:Wire a Contactor Step 5.jpg|center|300px]]",
+                    "#Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.[[Image:Wire a Contactor Step 6.jpg|center|300px]]",
+                    "#Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.[[Image:Wire a Contactor Step 7.jpg|center|300px]]",
+                    "#Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.[[Image:Wire a Contactor Step 8.jpg|center|300px]]"
+                ],
+                "removed": [
+                    "[[Image:Under the seat.jpg|thumb|right|251px]]Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "# Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.",
+                    "# Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)",
+                    "# Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.",
+                    "# Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.",
+                    "# Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.",
+                    "# Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.",
+                    "# Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.",
+                    "# Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks."
+                ]
+            }
+        },
+        {
+            "id": "14413712",
+            "user": "WikiHow Intern",
+            "timestamp": "22:19, 1 August 2014",
+            "anon": false,
+            "size": "(3,647 bytes)",
+            "change": -136,
+            "summary": "(removed broken link)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://ecatalog.squared.com/pubs/Machine%20Control/0140CT9201.pdf http://ecatalog.squared.com/pubs/Machine%20Control/0140CT9201.pdf]"
+                ]
+            }
+        },
+        {
+            "id": "11616839",
+            "user": "Votebot",
+            "timestamp": "21:57, 30 October 2013",
+            "anon": false,
+            "size": "(3,783 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8466968",
+            "user": "Mr.Walmyr",
+            "timestamp": "23:57, 22 September 2012",
+            "anon": false,
+            "size": "(3,782 bytes)",
+            "change": 47,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Under the seat.jpg|thumb|right|251px]]Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    ""
+                ],
+                "removed": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor."
+                ]
+            }
+        },
+        {
+            "id": "6686174",
+            "user": "EpcotMagic",
+            "timestamp": "04:40, 29 September 2011",
+            "anon": false,
+            "size": "(3,735 bytes)",
+            "change": 44,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6229586",
+            "user": "WRM",
+            "timestamp": "22:00, 18 June 2011",
+            "anon": false,
+            "size": "(3,691 bytes)",
+            "change": 3691,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Many large pieces of equipment are powered directly from high voltage lines. These lines far exceed the 120 volts AC standard in most homes. 240 volts AC and 480 volts AC are commonly used for these large pieces of equipment, such as motors, industrial machines, and large household appliances like washers and dryers. These voltages must be electrically isolated from the standard 120 volts AC. Contactors are used to provide this isolation. Contactors use 120 volt standard power to energize a magnetic coil, which causes a set of internal contacts to close and provide higher power to the equipment. Use these tips to learn how to wire a contactor.",
+                    "== Steps ==",
+                    "# Acquire the contactor. Make sure that the contacts of the contactor are rated in both voltage and current to handle the expected load that will be required by the equipment being powered. Contactors are available from building and construction supply stores, as well as some larger hardware stores.",
+                    "# Study the contactor manufacturer information. The manufacturer information will identify the 2 input pins for 120 volts AC control. The may be 2 or more sets of output contacts identified. These contacts may be indicated on the label as normally open (NO) and normally closed (NC). These contacts also may be shown as a drawing of a line from 1 contact ending in a dot (the NC contact) and another line from another contact that is near the dot, but does not touch the dot (the NO contact.)",
+                    "# Check for an auxiliary output contact. Some contactors provide an auxiliary output contact as a signal to the isolated part of the circuit that the contactor has been energized. This auxiliary contact will not be rated at the higher voltage. Instead, it should be rated at 120 volts AC.",
+                    "# Route the wires. Remove all power to the wires. Run all input and output wires to the contactor. These wires should be rated in the manufacturer information. Use wire strippers to cut excess length off of the ends of the wire, making sure that the wires are long enough to reach the intended contact. Wire strippers are available at hardware stores and electric supply stores.",
+                    "# Strip the wires. Use the wire strippers to strip a half inch (13 mm) from the ends of each wire. If the wire is stranded, twist the exposed wire to ensure that no strands are left hanging. Stray strands may make unintended contact with a piece of the equipment and cause damage.",
+                    "# Wire the inputs and the auxiliary contacts. Use a screwdriver to loosen the holding screws in the contact blocks for the wires. Insert the wires only so far that no insulation is pushed into the contact area of the block. Make sure that no stray strands are jutting out from the contact block. Tighten the screws on the contact blocks.",
+                    "# Energize the contactor. Apply the control voltage to the input. Listen for the contactor to click as it engages. De-energize the contactor.",
+                    "# Connect the outputs. Put the stripped end of each wire into the appropriate contact block after loosening the screw of the block. Make sure that no stray strands of wire are jutting from the contact blocks. Tighten down the screws of the contact blocks.",
+                    "",
+                    "== Warnings ==",
+                    "* All voltages used for a contactor, including the 120 volts AC control voltage, are potentially fatal. Make sure that all power is turned off before any work is done on a contactor.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Contactor",
+                    "* Wire strippers",
+                    "* Screwdriver",
+                    "* Wire",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.allaboutcircuits.com/vol_4/chpt_5/2.html http://www.allaboutcircuits.com/vol_4/chpt_5/2.html]",
+                    "* [http://ecatalog.squared.com/pubs/Machine%20Control/0140CT9201.pdf http://ecatalog.squared.com/pubs/Machine%20Control/0140CT9201.pdf]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

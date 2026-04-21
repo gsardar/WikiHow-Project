@@ -1,0 +1,1351 @@
+{
+    "title": "Wire-a-Breaker-Circuit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:21:56.895661",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33521492",
+            "user": "ICanGuessItLol",
+            "timestamp": "03:28, 30 June 2025",
+            "anon": false,
+            "size": "(5,934 bytes)",
+            "change": -3,
+            "summary": "(Fix awkward spacing from intro)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "30811510",
+            "user": "Seymour Edits",
+            "timestamp": "20:57, 24 August 2022",
+            "anon": false,
+            "size": "(5,937 bytes)",
+            "change": 116,
+            "summary": "(wikiHow internal test, please don't roll back)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "<div class='subtitle'>Keep your breaker circuits working safely and properly with this user-friendly guide</div>",
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30228573",
+            "user": "Votebot",
+            "timestamp": "10:00, 22 January 2022",
+            "anon": false,
+            "size": "(5,821 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ]
+            }
+        },
+        {
+            "id": "29768715",
+            "user": "Votebot",
+            "timestamp": "09:07, 30 July 2021",
+            "anon": false,
+            "size": "(5,821 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit."
+                ],
+                "removed": [
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit."
+                ]
+            }
+        },
+        {
+            "id": "29546135",
+            "user": "Votebot",
+            "timestamp": "08:57, 13 May 2021",
+            "anon": false,
+            "size": "(5,821 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires."
+                ]
+            }
+        },
+        {
+            "id": "28833330",
+            "user": "MiscBot",
+            "timestamp": "10:24, 6 November 2020",
+            "anon": false,
+            "size": "(5,821 bytes)",
+            "change": -279,
+            "summary": "(Automatic link maintenance: cleaning up links to references that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "28047882",
+            "user": "Caitlynn L",
+            "timestamp": "19:24, 28 April 2020",
+            "anon": false,
+            "size": "(6,100 bytes)",
+            "change": -8834,
+            "summary": "(revert for wikiHaus test - message me if you have any questions)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "== Steps ==",
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 4.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 4.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 4.jpg|center]]",
+                    "#* Connected to this screw should be a red, black, or blue covered wire.",
+                    "#* If you have properly turned off the power, there should be no signs of voltage.",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 4.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 4.jpg|center]]",
+                    "#* Remove the lock-nut from the cable clamp.",
+                    "#* Push the cable clamp through the hole. The side that comes through the bottom should have spiral edges for screwing it in.",
+                    "#* Tighten the lock-nut back around the cable clamp by placing it at the underside of the clamp where you see the spiral edges and screwing it in with Channel-Lock pliers.",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 4.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 4.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 4.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 4.jpg|center]]",
+                    "#* Take a neutral wire and cut away about a centimeter of the covering at the end of the wire.",
+                    "#* Use your flathead screwdriver to unscrew one of the screws and then push the wire through.",
+                    "#* Screw it back in after you have inserted the neutral wire.",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 4.jpg|center]]",
+                    "#* You should find a list of acceptable circuit breakers you can use.",
+                    "#* Make sure that your circuit breaker is of acceptable size and voltage.",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 4.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 4.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 4.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 4.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 4.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 4.jpg|center]]",
+                    "== Video ==",
+                    "{{Video:Wire a Breaker Circuit|}}",
+                    "== Tips ==",
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "== Warnings ==",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "== Things You'll Need ==",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "== References ==",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing outlets or an appliance that you aren’t attaching to another circuit, you’ll need to put a new breaker on your electrical system. The breaker that you use and the way that you wire it depends on the receptacle you’re using. A single-pole breaker only has 1 hot wire and is standardly used for regular switches and outlets. A double-pole breaker is usually used for appliances that require more power and has 2 hot wires plugged into it. Ground Fault Circuit Interrupter (GFCI) breakers are required for GFCI outlets and they have an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself.",
+                    "==Steps==",
+                    "===Accessing the Breaker Panel===",
+                    "#Turn off the main power to the breaker box. Locate the metal breaker box in your home, which is usually in a basement, kitchen, or hallway. Open the main door on the breaker box and look for a single switch on the top or side labeled “Main” or “Power.” Flip the switch into the Off position to shut off all of the electricity in your home. Once you turn off the power off, the breaker box will be safe to work in.<ref>https://youtu.be/bx7alt0gvLM?t=122</ref>[[Image:Wire a Breaker Circuit Step 1 Version 5.jpg|center]]",
+                    "#*You won’t be able to use any electricity or outlets while you’re installing the breaker.",
+                    "#*Use a flashlight or a battery-powered light while you’re working so you can still see.",
+                    "#Unscrew the panel cover to access the breakers. Locate the 6–8 screws along the edges of the breaker box’s front panel. Turn the screws counterclockwise with a screwdriver to loosen them. Support the bottom of the panel cover as you remove the screws so it doesn’t fall off. Carefully lower the panel cover and set it on the ground once you remove all of the screws.<ref>https://youtu.be/FY2qGPLaK9E?t=43</ref>[[Image:Wire a Breaker Circuit Step 2 Version 5.jpg|center]]",
+                    "#*Don’t remove the panel cover without turning off the power first. There are many exposed wires underneath the panel that could shock or electrocute you.",
+                    "#Test for voltage on the wires [[Use a Multimeter|using a multimeter]]. Set the multimeter so it measures voltage, and turn the upper limit as high as you’re able to. Touch the end of the black probe against the metal bar that has green or bare wires running to it. Press the end of the red probe against one of the black terminal screws on a breaker and check the meter’s reading. If the reading is anything other than 0, call an electrician since there’s still power running through the breakers.<ref>https://youtu.be/985Su0FDWac?t=322</ref>[[Image:Wire a Breaker Circuit Step 3 Version 5.jpg|center]]",
+                    "#*Never work on your breaker box while there’s still power running.{{greenbox:'''Warning:''' The main lugs, which are 2 screws attached to a red and black wire near the main power switch, usually stay live even when the power is turned off. Do not touch the main lugs, or else you could suffer from severe electrocution or death.}}",
+                    "#Run wire conduit from the receptacle to the circuit box. The type of wire conduit depends on the receptacle you’re installing. If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires that are a 14-gauge diameter. Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker, which has 3 wires that are a 12-gauge diameter. [[Fish-Wires-Through-Walls|Fish the wires]] through your walls so they end next to your breaker box.<Ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>[[Image:Wire a Breaker Circuit Step 4 Version 5.jpg|center]]",
+                    "#*You can buy wire conduits from your local hardware store.",
+                    "#Remove a circular knockout out from the side of the box closest to the conduit. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the wire conduit running to the receptacle. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://youtu.be/BEHla0EV6iY?t=13</ref>[[Image:Wire a Breaker Circuit Step 5 Version 5.jpg|center]]",
+                    "#*Place a layer of cardboard behind the knockout if you don’t want to risk damaging any of the other breakers.",
+                    "#*Don’t use the same knockout for multiple sources since you could easily confuse what the wires attach to.",
+                    "#*If there aren’t any knockouts left on your breaker box, you can drill a hole through the side of the box where you want to feed the wires.",
+                    "#Run the wire conduit into the circuit box through the hole and secure it in place. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>[[Image:Wire a Breaker Circuit Step 6 Version 5.jpg|center]]",
+                    "#*You can buy wire clamps from your local hardware store.",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Breaker Circuit Step 7 Version 5.jpg|center]]",
+                    "#*If you don’t have a pair of wire strippers, you can also slice through the insulation with a utility knife. Be careful not to cut through any of the wires inside the conduit.",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Breaker Circuit Step 8 Version 5.jpg|center]]",
+                    "#Press the circuit breaker onto the bus bar to secure it. Make sure the new breaker you buy matches the current and voltage of what you need for the receptacle. Look for an empty place for the new breaker along the bus bars, which are the metal clips on the back of the box that the breakers attach to. Line up the hook on the breaker with the metal tab on the bus bar and firmly press the breaker until you hear it click into place.<ref>https://youtu.be/aS4fkrwZTT8?t=454</ref>[[Image:Wire a Breaker Circuit Step 9 Version 5.jpg|center]]",
+                    "#*You can buy new circuit breakers from your local hardware store.",
+                    "#*The breaker will only stay secured if it’s installed the right way. If the breaker doesn’t click or it falls out, then try repositioning it along the bus bar.",
+                    "#*Make sure the breaker switch is in the Off position before you click it into place.",
+                    "===Connecting a Single-Pole Circuit===",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://youtu.be/bx7alt0gvLM?t=946</ref>[[Image:Wire a Breaker Circuit Step 10 Version 5.jpg|center]]",
+                    "#*A single-pole circuit will only have 1 port and 1 screw.",
+                    "#*The black wire will have full current and voltage running through it when you turn the power on.",
+                    "#Secure the end of the white wire to a screw on the neutral bar. The neutral bar is a metal terminal inside your breaker box with multiple screws attached to other white wires. Turn one of the empty screws counterclockwise on the neutral bar to loosen it and slide the end of the white wire underneath it. Tighten the screw again to secure the wire in place so it doesn’t move around.<Ref>https://youtu.be/bx7alt0gvLM?t=851</ref>[[Image:Wire a Breaker Circuit Step 11 Version 5.jpg|center]]",
+                    "#*The neutral bar helps keep the current balanced so it’s less likely to overload.",
+                    "#Attach the green wire to an empty screw on the ground bar. Locate the ground bar, which is usually painted green and has multiple screws with other green or bare wires attached to them. Loosen one of the empty screws on the ground bar and slide the end of the green wire under the screw head. Turn the screw clockwise to tighten it and connect the ground wire.<Ref>https://youtu.be/bx7alt0gvLM?t=770</ref>[[Image:Wire a Breaker Circuit Step 12 Version 5.jpg|center]]",
+                    "#*The ground wire may not have any insulation on it.",
+                    "#*The ground wire helps protect your electronics in case of a power surge by directing the current to a grounded point.{{greenbox:'''Warning:''' Don’t attach the ground wire to a terminal screw that already has another wire attached to it since you could damage the other wires.}}",
+                    "===Wiring a Double-Pole Appliance Breaker===",
+                    "#Run the green wire to a terminal screw on the ground bar. Locate the bar on the side or bottom of the breaker box that has multiple screws with green and bare wires attached to them. Loosen an empty screw along the ground bar so you can slide the end of the green wire underneath it. Tighten the screw by turning it clockwise so the wire doesn’t pull out of place.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>[[Image:Wire a Breaker Circuit Step 13 Version 5.jpg|center]]",
+                    "#*The ground wire inside the conduit may not have insulation.",
+                    "#Attach the black wire to either port on the breaker. A double-pole breaker has 2 hot ports that supply power to an appliance or heavy-duty receptacle. Feed the end of the black wire into one of the ports on the breaker so it goes underneath the screw. Turn the screw clockwise to secure the wire in the port so it doesn’t fall out. Lightly tug the wire to make sure it doesn’t come undone.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>[[Image:Wire a Breaker Circuit Step 14 Version 5.jpg|center]]",
+                    "#*If the wire doesn’t push into the port on the breaker, you may need to loosen the screw above the port first.",
+                    "#Connect the white wire to the second port. Unlike a single-pole breaker, the white wire carries full power back to the receptacle rather than being neutral. Locate the second port on the breaker, which is usually right next to the first one, and feed the white wire into the port. Tighten the screw over the port so the wire stays in place.<ref>https://youtu.be/gp6EDUY6kRs?t=147</ref>[[Image:Wire a Breaker Circuit Step 15 Version 5.jpg|center]]",
+                    "#*The wire conduit may instead contain a red wire instead of a white one. Use the red wire in the second port if that’s the case.",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>[[Image:Wire a Breaker Circuit Step 16 Version 6.jpg|center]]",
+                    "#*If the wire was red, you don’t need to mark it with tape.{{greenbox:'''Tip:''' Mark the white wire inside the receptacle or outlet with tape as well so you can easily tell which wires are hot on either end.}}",
+                    "===Installing a GFCI Breaker===",
+                    "#Attach the white wire to the breaker port labeled “Neutral.'''”''' The neutral port on a GFCI breaker usually has a silver screw above it and is clearly labeled. Feed the end of the white wire from the conduit so the exposed end is completely in the port. Turn the screw clockwise to secure it so it can’t get pulled out.<ref>https://youtu.be/ivitVu8KIBM?t=22</ref>[[Image:Wire a Breaker Circuit Step 17.jpg|center]]",
+                    "#*You don’t need to attach the white wire from the conduit to the neutral bar.",
+                    "#*You do not have to label or mark the white wire since it’s still plugged into a neutral port on the breaker.",
+                    "#Secure the black wire in the port labeled “Hot” or “Power.'''”''' Look for a black screw on the breaker and find the port that’s directly underneath it. Place the exposed end of the black wire in the port and tighten the screw to make a firm connection. Give the wire a light tug to make sure it doesn’t slip out from the port.<ref>https://youtu.be/ivitVu8KIBM?t=33</ref>[[Image:Wire a Breaker Circuit Step 18.jpg|center]]",
+                    "#Run the green wire to a screw on the ground bar. Locate the bar inside your breaker box that has a row of screws attached to green or bare wires. Loosen one of the empty screws on the bar so you’re able to slide the green wire from the conduit underneath. Use your screwdriver to tighten the screw again so the wire holds securely underneath it.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>[[Image:Wire a Breaker Circuit Step 19.jpg|center]]",
+                    "#*The ground wire from the conduit may be bare rather than having green insulation.",
+                    "#Connect the white pigtail wire to a screw on the neutral bar. GFCI breakers have a curly white wire attached to them that’s used to carry neutral current. Locate the bar inside of the breaker box that has a row of screws connected to multiple white wires. Unscrew an empty screw on the neutral bar and position the end of the pigtail wire underneath the head. Turn the screw clockwise to tighten it and secure the wire.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>[[Image:Wire a Breaker Circuit Step 20.jpg|center]]",
+                    "== Video ==",
+                    "{{Video:Wire a Breaker Circuit|}}",
+                    "==Tips==",
+                    "*Make sure you buy the right size breaker for whatever type of unit you’re installing, otherwise it may overload or trip if it’s too small.",
+                    "==Warnings==",
+                    "*Do not wire your breakers while the main power is still on, or else you could suffer from extreme shock or electrocution.",
+                    "*Call an experienced electrician if you aren’t comfortable working with your wiring.",
+                    "==Things You’ll Need==",
+                    "===Accessing the Breaker Panel===",
+                    "*Screwdriver",
+                    "*Multimeter",
+                    "*Wire clamp",
+                    "*Wire stripper",
+                    "*Circuit breaker",
+                    "===Connecting a Single-Pole Circuit===",
+                    "*Screwdriver",
+                    "===Wiring a Double-Pole Appliance Breaker===",
+                    "*Screwdriver",
+                    "*Electrical tape",
+                    "===Installing a GFCI Breaker===",
+                    "*Screwdriver",
+                    "==References==",
+                    "{{reflist}}",
+                    "__methods__"
+                ]
+            }
+        },
+        {
+            "id": "27435334",
+            "user": "Wikivisual",
+            "timestamp": "16:46, 2 December 2019",
+            "anon": false,
+            "size": "(14,934 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>[[Image:Wire a Breaker Circuit Step 16 Version 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>[[Image:Wire a Breaker Circuit Step 16 Version 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27330833",
+            "user": "Wikivisual",
+            "timestamp": "15:42, 7 November 2019",
+            "anon": false,
+            "size": "(14,934 bytes)",
+            "change": 1051,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the main power to the breaker box. Locate the metal breaker box in your home, which is usually in a basement, kitchen, or hallway. Open the main door on the breaker box and look for a single switch on the top or side labeled “Main” or “Power.” Flip the switch into the Off position to shut off all of the electricity in your home. Once you turn off the power off, the breaker box will be safe to work in.<ref>https://youtu.be/bx7alt0gvLM?t=122</ref>[[Image:Wire a Breaker Circuit Step 1 Version 5.jpg|center]]",
+                    "#Unscrew the panel cover to access the breakers. Locate the 6–8 screws along the edges of the breaker box’s front panel. Turn the screws counterclockwise with a screwdriver to loosen them. Support the bottom of the panel cover as you remove the screws so it doesn’t fall off. Carefully lower the panel cover and set it on the ground once you remove all of the screws.<ref>https://youtu.be/FY2qGPLaK9E?t=43</ref>[[Image:Wire a Breaker Circuit Step 2 Version 5.jpg|center]]",
+                    "#Test for voltage on the wires [[Use a Multimeter|using a multimeter]]. Set the multimeter so it measures voltage, and turn the upper limit as high as you’re able to. Touch the end of the black probe against the metal bar that has green or bare wires running to it. Press the end of the red probe against one of the black terminal screws on a breaker and check the meter’s reading. If the reading is anything other than 0, call an electrician since there’s still power running through the breakers.<ref>https://youtu.be/985Su0FDWac?t=322</ref>[[Image:Wire a Breaker Circuit Step 3 Version 5.jpg|center]]",
+                    "#Run wire conduit from the receptacle to the circuit box. The type of wire conduit depends on the receptacle you’re installing. If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires that are a 14-gauge diameter. Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker, which has 3 wires that are a 12-gauge diameter. [[Fish-Wires-Through-Walls|Fish the wires]] through your walls so they end next to your breaker box.<Ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>[[Image:Wire a Breaker Circuit Step 4 Version 5.jpg|center]]",
+                    "#Remove a circular knockout out from the side of the box closest to the conduit. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the wire conduit running to the receptacle. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://youtu.be/BEHla0EV6iY?t=13</ref>[[Image:Wire a Breaker Circuit Step 5 Version 5.jpg|center]]",
+                    "#Run the wire conduit into the circuit box through the hole and secure it in place. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>[[Image:Wire a Breaker Circuit Step 6 Version 5.jpg|center]]",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Breaker Circuit Step 7 Version 5.jpg|center]]",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>[[Image:Wire a Breaker Circuit Step 8 Version 5.jpg|center]]",
+                    "#Press the circuit breaker onto the bus bar to secure it. Make sure the new breaker you buy matches the current and voltage of what you need for the receptacle. Look for an empty place for the new breaker along the bus bars, which are the metal clips on the back of the box that the breakers attach to. Line up the hook on the breaker with the metal tab on the bus bar and firmly press the breaker until you hear it click into place.<ref>https://youtu.be/aS4fkrwZTT8?t=454</ref>[[Image:Wire a Breaker Circuit Step 9 Version 5.jpg|center]]",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://youtu.be/bx7alt0gvLM?t=946</ref>[[Image:Wire a Breaker Circuit Step 10 Version 5.jpg|center]]",
+                    "#Secure the end of the white wire to a screw on the neutral bar. The neutral bar is a metal terminal inside your breaker box with multiple screws attached to other white wires. Turn one of the empty screws counterclockwise on the neutral bar to loosen it and slide the end of the white wire underneath it. Tighten the screw again to secure the wire in place so it doesn’t move around.<Ref>https://youtu.be/bx7alt0gvLM?t=851</ref>[[Image:Wire a Breaker Circuit Step 11 Version 5.jpg|center]]",
+                    "#Attach the green wire to an empty screw on the ground bar. Locate the ground bar, which is usually painted green and has multiple screws with other green or bare wires attached to them. Loosen one of the empty screws on the ground bar and slide the end of the green wire under the screw head. Turn the screw clockwise to tighten it and connect the ground wire.<Ref>https://youtu.be/bx7alt0gvLM?t=770</ref>[[Image:Wire a Breaker Circuit Step 12 Version 5.jpg|center]]",
+                    "#Run the green wire to a terminal screw on the ground bar. Locate the bar on the side or bottom of the breaker box that has multiple screws with green and bare wires attached to them. Loosen an empty screw along the ground bar so you can slide the end of the green wire underneath it. Tighten the screw by turning it clockwise so the wire doesn’t pull out of place.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>[[Image:Wire a Breaker Circuit Step 13 Version 5.jpg|center]]",
+                    "#Attach the black wire to either port on the breaker. A double-pole breaker has 2 hot ports that supply power to an appliance or heavy-duty receptacle. Feed the end of the black wire into one of the ports on the breaker so it goes underneath the screw. Turn the screw clockwise to secure the wire in the port so it doesn’t fall out. Lightly tug the wire to make sure it doesn’t come undone.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>[[Image:Wire a Breaker Circuit Step 14 Version 5.jpg|center]]",
+                    "#Connect the white wire to the second port. Unlike a single-pole breaker, the white wire carries full power back to the receptacle rather than being neutral. Locate the second port on the breaker, which is usually right next to the first one, and feed the white wire into the port. Tighten the screw over the port so the wire stays in place.<ref>https://youtu.be/gp6EDUY6kRs?t=147</ref>[[Image:Wire a Breaker Circuit Step 15 Version 5.jpg|center]]",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>[[Image:Wire a Breaker Circuit Step 16 Version 5.jpg|center]]",
+                    "#Attach the white wire to the breaker port labeled “Neutral.'''”''' The neutral port on a GFCI breaker usually has a silver screw above it and is clearly labeled. Feed the end of the white wire from the conduit so the exposed end is completely in the port. Turn the screw clockwise to secure it so it can’t get pulled out.<ref>https://youtu.be/ivitVu8KIBM?t=22</ref>[[Image:Wire a Breaker Circuit Step 17.jpg|center]]",
+                    "#Secure the black wire in the port labeled “Hot” or “Power.'''”''' Look for a black screw on the breaker and find the port that’s directly underneath it. Place the exposed end of the black wire in the port and tighten the screw to make a firm connection. Give the wire a light tug to make sure it doesn’t slip out from the port.<ref>https://youtu.be/ivitVu8KIBM?t=33</ref>[[Image:Wire a Breaker Circuit Step 18.jpg|center]]",
+                    "#Run the green wire to a screw on the ground bar. Locate the bar inside your breaker box that has a row of screws attached to green or bare wires. Loosen one of the empty screws on the bar so you’re able to slide the green wire from the conduit underneath. Use your screwdriver to tighten the screw again so the wire holds securely underneath it.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>[[Image:Wire a Breaker Circuit Step 19.jpg|center]]",
+                    "#Connect the white pigtail wire to a screw on the neutral bar. GFCI breakers have a curly white wire attached to them that’s used to carry neutral current. Locate the bar inside of the breaker box that has a row of screws connected to multiple white wires. Unscrew an empty screw on the neutral bar and position the end of the pigtail wire underneath the head. Turn the screw clockwise to tighten it and secure the wire.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>[[Image:Wire a Breaker Circuit Step 20.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the main power to the breaker box. Locate the metal breaker box in your home, which is usually in a basement, kitchen, or hallway. Open the main door on the breaker box and look for a single switch on the top or side labeled “Main” or “Power.” Flip the switch into the Off position to shut off all of the electricity in your home. Once you turn off the power off, the breaker box will be safe to work in.<ref>https://youtu.be/bx7alt0gvLM?t=122</ref>[[Image:Wire a Breaker Circuit Step 1 Version 4.jpg|center]]",
+                    "#Unscrew the panel cover to access the breakers. Locate the 6–8 screws along the edges of the breaker box’s front panel. Turn the screws counterclockwise with a screwdriver to loosen them. Support the bottom of the panel cover as you remove the screws so it doesn’t fall off. Carefully lower the panel cover and set it on the ground once you remove all of the screws.<ref>https://youtu.be/FY2qGPLaK9E?t=43</ref>",
+                    "#Test for voltage on the wires [[Use a Multimeter|using a multimeter]]. Set the multimeter so it measures voltage, and turn the upper limit as high as you’re able to. Touch the end of the black probe against the metal bar that has green or bare wires running to it. Press the end of the red probe against one of the black terminal screws on a breaker and check the meter’s reading. If the reading is anything other than 0, call an electrician since there’s still power running through the breakers.<ref>https://youtu.be/985Su0FDWac?t=322</ref>[[Image:Wire a Breaker Circuit Step 3 Version 4.jpg|center]]",
+                    "#Run wire conduit from the receptacle to the circuit box. The type of wire conduit depends on the receptacle you’re installing. If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires that are a 14-gauge diameter. Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker, which has 3 wires that are a 12-gauge diameter. [[Fish-Wires-Through-Walls|Fish the wires]] through your walls so they end next to your breaker box.<Ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>",
+                    "#Remove a circular knockout out from the side of the box closest to the conduit. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the wire conduit running to the receptacle. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://youtu.be/BEHla0EV6iY?t=13</ref>",
+                    "#Run the wire conduit into the circuit box through the hole and secure it in place. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Press the circuit breaker onto the bus bar to secure it. Make sure the new breaker you buy matches the current and voltage of what you need for the receptacle. Look for an empty place for the new breaker along the bus bars, which are the metal clips on the back of the box that the breakers attach to. Line up the hook on the breaker with the metal tab on the bus bar and firmly press the breaker until you hear it click into place.<ref>https://youtu.be/aS4fkrwZTT8?t=454</ref>",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://youtu.be/bx7alt0gvLM?t=946</ref>",
+                    "#Secure the end of the white wire to a screw on the neutral bar. The neutral bar is a metal terminal inside your breaker box with multiple screws attached to other white wires. Turn one of the empty screws counterclockwise on the neutral bar to loosen it and slide the end of the white wire underneath it. Tighten the screw again to secure the wire in place so it doesn’t move around.<Ref>https://youtu.be/bx7alt0gvLM?t=851</ref>",
+                    "#Attach the green wire to an empty screw on the ground bar. Locate the ground bar, which is usually painted green and has multiple screws with other green or bare wires attached to them. Loosen one of the empty screws on the ground bar and slide the end of the green wire under the screw head. Turn the screw clockwise to tighten it and connect the ground wire.<Ref>https://youtu.be/bx7alt0gvLM?t=770</ref>",
+                    "#Run the green wire to a terminal screw on the ground bar. Locate the bar on the side or bottom of the breaker box that has multiple screws with green and bare wires attached to them. Loosen an empty screw along the ground bar so you can slide the end of the green wire underneath it. Tighten the screw by turning it clockwise so the wire doesn’t pull out of place.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>",
+                    "#Attach the black wire to either port on the breaker. A double-pole breaker has 2 hot ports that supply power to an appliance or heavy-duty receptacle. Feed the end of the black wire into one of the ports on the breaker so it goes underneath the screw. Turn the screw clockwise to secure the wire in the port so it doesn’t fall out. Lightly tug the wire to make sure it doesn’t come undone.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>",
+                    "#Connect the white wire to the second port. Unlike a single-pole breaker, the white wire carries full power back to the receptacle rather than being neutral. Locate the second port on the breaker, which is usually right next to the first one, and feed the white wire into the port. Tighten the screw over the port so the wire stays in place.<ref>https://youtu.be/gp6EDUY6kRs?t=147</ref>",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>",
+                    "#Attach the white wire to the breaker port labeled “Neutral.'''”''' The neutral port on a GFCI breaker usually has a silver screw above it and is clearly labeled. Feed the end of the white wire from the conduit so the exposed end is completely in the port. Turn the screw clockwise to secure it so it can’t get pulled out.<ref>https://youtu.be/ivitVu8KIBM?t=22</ref>",
+                    "#Secure the black wire in the port labeled “Hot” or “Power.'''”''' Look for a black screw on the breaker and find the port that’s directly underneath it. Place the exposed end of the black wire in the port and tighten the screw to make a firm connection. Give the wire a light tug to make sure it doesn’t slip out from the port.<ref>https://youtu.be/ivitVu8KIBM?t=33</ref>",
+                    "#Run the green wire to a screw on the ground bar. Locate the bar inside your breaker box that has a row of screws attached to green or bare wires. Loosen one of the empty screws on the bar so you’re able to slide the green wire from the conduit underneath. Use your screwdriver to tighten the screw again so the wire holds securely underneath it.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>",
+                    "#Connect the white pigtail wire to a screw on the neutral bar. GFCI breakers have a curly white wire attached to them that’s used to carry neutral current. Locate the bar inside of the breaker box that has a row of screws connected to multiple white wires. Unscrew an empty screw on the neutral bar and position the end of the pigtail wire underneath the head. Turn the screw clockwise to tighten it and secure the wire.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27223225",
+            "user": "Sophia B",
+            "timestamp": "17:27, 16 October 2019",
+            "anon": false,
+            "size": "(13,883 bytes)",
+            "change": 35,
+            "summary": "(defined a term in the intro)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing outlets or an appliance that you aren’t attaching to another circuit, you’ll need to put a new breaker on your electrical system. The breaker that you use and the way that you wire it depends on the receptacle you’re using. A single-pole breaker only has 1 hot wire and is standardly used for regular switches and outlets. A double-pole breaker is usually used for appliances that require more power and has 2 hot wires plugged into it. Ground Fault Circuit Interrupter (GFCI) breakers are required for GFCI outlets and they have an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself."
+                ],
+                "removed": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing outlets or an appliance that you aren’t attaching to another circuit, you’ll need to put a new breaker on your electrical system. The breaker that you use and the way that you wire it depends on the receptacle you’re using. A single-pole breaker only has 1 hot wire and is standardly used for regular switches and outlets. A double-pole breaker is usually used for appliances that require more power and has 2 hot wires plugged into it. GFCI breakers are required for GFCI outlets and they have an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself."
+                ]
+            }
+        },
+        {
+            "id": "27219673",
+            "user": "Seymour Edits",
+            "timestamp": "21:10, 15 October 2019",
+            "anon": false,
+            "size": "(13,848 bytes)",
+            "change": 209,
+            "summary": "(Adding new steps, changing intro, editing sources)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing outlets or an appliance that you aren’t attaching to another circuit, you’ll need to put a new breaker on your electrical system. The breaker that you use and the way that you wire it depends on the receptacle you’re using. A single-pole breaker only has 1 hot wire and is standardly used for regular switches and outlets. A double-pole breaker is usually used for appliances that require more power and has 2 hot wires plugged into it. GFCI breakers are required for GFCI outlets and they have an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself.",
+                    "#Run wire conduit from the receptacle to the circuit box. The type of wire conduit depends on the receptacle you’re installing. If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires that are a 14-gauge diameter. Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker, which has 3 wires that are a 12-gauge diameter. [[Fish-Wires-Through-Walls|Fish the wires]] through your walls so they end next to your breaker box.<Ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>",
+                    "#*You can buy wire conduits from your local hardware store.",
+                    "#Remove a circular knockout out from the side of the box closest to the conduit. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the wire conduit running to the receptacle. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://youtu.be/BEHla0EV6iY?t=13</ref>",
+                    "#Run the wire conduit into the circuit box through the hole and secure it in place. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.bobvila.com/articles/wiring-a-breaker-box/</ref>",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.bobvila.com/articles/how-to-strip-wire/</ref>",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://youtu.be/bx7alt0gvLM?t=946</ref>",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://youtu.be/QNLqcsq7t7A?t=19</ref>",
+                    "===Connecting a Single-Pole Circuit==="
+                ],
+                "removed": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing a breaker for a new outlet or appliance in your home, how you attach the wires depends on what type of receptacle you’re using. A single-pole breaker only has 1 hot wire while a double-pole breaker has 2. If you need to install a GFCI breaker, then there’s an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself.",
+                    "#Remove a circular knockout out from the side of the box closest to the wires. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the outlet or appliance wires you’re using. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#Run the wire into the circuit box through the hole and secure it in place. The type of wire conduit you use depends on the outlet or receptacle you’re installing for the breaker. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires inside.",
+                    "#*Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker.",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "===Connecting a Single-Pole Circuit=="
+                ]
+            }
+        },
+        {
+            "id": "27214829",
+            "user": "Seymour Edits",
+            "timestamp": "18:09, 14 October 2019",
+            "anon": false,
+            "size": "(13,639 bytes)",
+            "change": 7539,
+            "summary": "(Adding new parts, sources, and greenboxes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "A breaker automatically turns off power to whatever is connected to it if the electrical load is too large. If you’re installing a breaker for a new outlet or appliance in your home, how you attach the wires depends on what type of receptacle you’re using. A single-pole breaker only has 1 hot wire while a double-pole breaker has 2. If you need to install a GFCI breaker, then there’s an additional neutral wire to connect. No matter what type of breaker you’re installing, be sure to turn off the main power before you start working so you don’t electrocute yourself.",
+                    "==Steps==",
+                    "===Accessing the Breaker Panel===",
+                    "#Turn off the main power to the breaker box. Locate the metal breaker box in your home, which is usually in a basement, kitchen, or hallway. Open the main door on the breaker box and look for a single switch on the top or side labeled “Main” or “Power.” Flip the switch into the Off position to shut off all of the electricity in your home. Once you turn off the power off, the breaker box will be safe to work in.<ref>https://youtu.be/bx7alt0gvLM?t=122</ref>[[Image:Wire a Breaker Circuit Step 1 Version 4.jpg|center]]",
+                    "#*You won’t be able to use any electricity or outlets while you’re installing the breaker.",
+                    "#*Use a flashlight or a battery-powered light while you’re working so you can still see.",
+                    "#Unscrew the panel cover to access the breakers. Locate the 6–8 screws along the edges of the breaker box’s front panel. Turn the screws counterclockwise with a screwdriver to loosen them. Support the bottom of the panel cover as you remove the screws so it doesn’t fall off. Carefully lower the panel cover and set it on the ground once you remove all of the screws.<ref>https://youtu.be/FY2qGPLaK9E?t=43</ref>",
+                    "#*Don’t remove the panel cover without turning off the power first. There are many exposed wires underneath the panel that could shock or electrocute you.",
+                    "#Test for voltage on the wires [[Use a Multimeter|using a multimeter]]. Set the multimeter so it measures voltage, and turn the upper limit as high as you’re able to. Touch the end of the black probe against the metal bar that has green or bare wires running to it. Press the end of the red probe against one of the black terminal screws on a breaker and check the meter’s reading. If the reading is anything other than 0, call an electrician since there’s still power running through the breakers.<ref>https://youtu.be/985Su0FDWac?t=322</ref>[[Image:Wire a Breaker Circuit Step 3 Version 4.jpg|center]]",
+                    "#*Never work on your breaker box while there’s still power running.{{greenbox:'''Warning:''' The main lugs, which are 2 screws attached to a red and black wire near the main power switch, usually stay live even when the power is turned off. Do not touch the main lugs, or else you could suffer from severe electrocution or death.}}",
+                    "#Remove a circular knockout out from the side of the box closest to the wires. Look along the side or top of your breaker box to find perforated circles, also known as knockouts. Choose an empty knockout that’s closest to the outlet or appliance wires you’re using. Place the edge of your screwdriver against one of the knockouts and lightly tap on the handle with a hammer. Continue hitting the screwdriver until the knockout breaks off of the side.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*Place a layer of cardboard behind the knockout if you don’t want to risk damaging any of the other breakers.",
+                    "#*Don’t use the same knockout for multiple sources since you could easily confuse what the wires attach to.",
+                    "#*If there aren’t any knockouts left on your breaker box, you can drill a hole through the side of the box where you want to feed the wires.",
+                    "#Run the wire into the circuit box through the hole and secure it in place. The type of wire conduit you use depends on the outlet or receptacle you’re installing for the breaker. Feed the end of the wire conduit through the knockout hole so you have about {{convert|8–10|in|cm}} inside of the breaker box. Secure the wire inside of the box by wrapping a wire clamp around the knockout hole so it can’t pull out on its own.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*You can buy wire clamps from your local hardware store.",
+                    "#*If you’re using a single-pole circuit breaker, then you can use a 14/2 conduit, which has 3 wires inside.",
+                    "#*Use a 12/2 wire conduit for a double-pole breaker for appliances or a GFCI breaker.",
+                    "#Strip {{Convert|6|in|cm|abbr=on}} the insulation off the wire. Grip the outside of the wire conduit with a pair of wire strippers so they’re {{Convert|6|in|cm}} from the end. Squeeze the handles of the wire strippers together as tightly as you can co clamp onto the insulation. Pull the strippers toward the end of the wire to remove the insulation. Depending on the conduit, you will either see 3 or 4 wires that were hidden inside.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*If you don’t have a pair of wire strippers, you can also slice through the insulation with a utility knife. Be careful not to cut through any of the wires inside the conduit.",
+                    "#Remove {{Convert|5/8|in|cm|abbr=on}} of the internal wires’ insulation. The wires inside the conduit will each have a layer of insulation around them. Grip the wire between the jaws of your wire strippers so it’s {{Convert|5/8|in|cm}} from the end and squeeze the handles together. Pull the strippers toward the end of the wire to remove the insulation.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#Press the circuit breaker onto the bus bar to secure it. Make sure the new breaker you buy matches the current and voltage of what you need for the receptacle. Look for an empty place for the new breaker along the bus bars, which are the metal clips on the back of the box that the breakers attach to. Line up the hook on the breaker with the metal tab on the bus bar and firmly press the breaker until you hear it click into place.<ref>https://youtu.be/aS4fkrwZTT8?t=454</ref>",
+                    "#*You can buy new circuit breakers from your local hardware store.",
+                    "#*The breaker will only stay secured if it’s installed the right way. If the breaker doesn’t click or it falls out, then try repositioning it along the bus bar.",
+                    "#*Make sure the breaker switch is in the Off position before you click it into place.",
+                    "",
+                    "===Connecting a Single-Pole Circuit===",
+                    "#Push the end of the black wire into the “hot” port on the breaker. Locate the black wire that’s running into your breaker box from the hole you knocked out. Take the end of the black wire and feed it into the port on the breaker labeled “hot” or “power” as far as you’re able to. Use a screwdriver to tighten the screw over the port to secure the wire to the breaker.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*A single-pole circuit will only have 1 port and 1 screw.",
+                    "#*The black wire will have full current and voltage running through it when you turn the power on.",
+                    "#Secure the end of the white wire to a screw on the neutral bar. The neutral bar is a metal terminal inside your breaker box with multiple screws attached to other white wires. Turn one of the empty screws counterclockwise on the neutral bar to loosen it and slide the end of the white wire underneath it. Tighten the screw again to secure the wire in place so it doesn’t move around.<Ref>https://youtu.be/bx7alt0gvLM?t=851</ref>",
+                    "#*The neutral bar helps keep the current balanced so it’s less likely to overload.",
+                    "#Attach the green wire to an empty screw on the ground bar. Locate the ground bar, which is usually painted green and has multiple screws with other green or bare wires attached to them. Loosen one of the empty screws on the ground bar and slide the end of the green wire under the screw head. Turn the screw clockwise to tighten it and connect the ground wire.<Ref>https://youtu.be/bx7alt0gvLM?t=770</ref>",
+                    "#*The ground wire may not have any insulation on it.",
+                    "#*The ground wire helps protect your electronics in case of a power surge by directing the current to a grounded point.{{greenbox:'''Warning:''' Don’t attach the ground wire to a terminal screw that already has another wire attached to it since you could damage the other wires.}}",
+                    "===Wiring a Double-Pole Appliance Breaker===",
+                    "#Run the green wire to a terminal screw on the ground bar. Locate the bar on the side or bottom of the breaker box that has multiple screws with green and bare wires attached to them. Loosen an empty screw along the ground bar so you can slide the end of the green wire underneath it. Tighten the screw by turning it clockwise so the wire doesn’t pull out of place.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>",
+                    "#*The ground wire inside the conduit may not have insulation.",
+                    "#Attach the black wire to either port on the breaker. A double-pole breaker has 2 hot ports that supply power to an appliance or heavy-duty receptacle. Feed the end of the black wire into one of the ports on the breaker so it goes underneath the screw. Turn the screw clockwise to secure the wire in the port so it doesn’t fall out. Lightly tug the wire to make sure it doesn’t come undone.<ref>https://www.nojolt.com/basic-220-circuits.shtml</ref>",
+                    "#*If the wire doesn’t push into the port on the breaker, you may need to loosen the screw above the port first.",
+                    "#Connect the white wire to the second port. Unlike a single-pole breaker, the white wire carries full power back to the receptacle rather than being neutral. Locate the second port on the breaker, which is usually right next to the first one, and feed the white wire into the port. Tighten the screw over the port so the wire stays in place.<ref>https://youtu.be/gp6EDUY6kRs?t=147</ref>",
+                    "#*The wire conduit may instead contain a red wire instead of a white one. Use the red wire in the second port if that’s the case.",
+                    "#Put electrical tape around the white wire to mark it as hot. Since white wires are normally neutral, you need to mark it so you know that it’s hot on the breaker. Wrap a piece of electrical tape about {{Convert|1|in|cm}} away from where it attaches to the breaker so you can easily tell that it’s hot. Press the tape firmly onto the wire so it doesn’t fall off.<ref>https://www.familyhandyman.com/electrical/breaker-box/breaker-box-safety-how-to-connect-a-new-circuit/</ref>",
+                    "#*If the wire was red, you don’t need to mark it with tape.{{greenbox:'''Tip:''' Mark the white wire inside the receptacle or outlet with tape as well so you can easily tell which wires are hot on either end.}}",
+                    "===Installing a GFCI Breaker===",
+                    "#Attach the white wire to the breaker port labeled “Neutral.'''”''' The neutral port on a GFCI breaker usually has a silver screw above it and is clearly labeled. Feed the end of the white wire from the conduit so the exposed end is completely in the port. Turn the screw clockwise to secure it so it can’t get pulled out.<ref>https://youtu.be/ivitVu8KIBM?t=22</ref>",
+                    "#*You don’t need to attach the white wire from the conduit to the neutral bar.",
+                    "#*You do not have to label or mark the white wire since it’s still plugged into a neutral port on the breaker.",
+                    "#Secure the black wire in the port labeled “Hot” or “Power.'''”''' Look for a black screw on the breaker and find the port that’s directly underneath it. Place the exposed end of the black wire in the port and tighten the screw to make a firm connection. Give the wire a light tug to make sure it doesn’t slip out from the port.<ref>https://youtu.be/ivitVu8KIBM?t=33</ref>",
+                    "#Run the green wire to a screw on the ground bar. Locate the bar inside your breaker box that has a row of screws attached to green or bare wires. Loosen one of the empty screws on the bar so you’re able to slide the green wire from the conduit underneath. Use your screwdriver to tighten the screw again so the wire holds securely underneath it.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>",
+                    "#*The ground wire from the conduit may be bare rather than having green insulation.",
+                    "#Connect the white pigtail wire to a screw on the neutral bar. GFCI breakers have a curly white wire attached to them that’s used to carry neutral current. Locate the bar inside of the breaker box that has a row of screws connected to multiple white wires. Unscrew an empty screw on the neutral bar and position the end of the pigtail wire underneath the head. Turn the screw clockwise to tighten it and secure the wire.<ref>https://www.dfliq.net/blog/guide-to-install-gfci-breaker/</ref>",
+                    "== Video ==",
+                    "{{Video:Wire a Breaker Circuit|}}",
+                    "==Tips==",
+                    "*Make sure you buy the right size breaker for whatever type of unit you’re installing, otherwise it may overload or trip if it’s too small.",
+                    "==Warnings==",
+                    "*Do not wire your breakers while the main power is still on, or else you could suffer from extreme shock or electrocution.",
+                    "*Call an experienced electrician if you aren’t comfortable working with your wiring.",
+                    "==Things You’ll Need==",
+                    "===Accessing the Breaker Panel===",
+                    "*Screwdriver",
+                    "*Multimeter",
+                    "*Wire clamp",
+                    "*Wire stripper",
+                    "===Connecting a Single-Pole Circuit==",
+                    "*Screwdriver",
+                    "===Wiring a Double-Pole Appliance Breaker===",
+                    "*Screwdriver",
+                    "*Electrical tape",
+                    "===Installing a GFCI Breaker===",
+                    "*Screwdriver",
+                    "==References==",
+                    "{{reflist}}",
+                    "__methods__"
+                ],
+                "removed": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "== Steps ==",
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 4.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 4.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 4.jpg|center]]",
+                    "#* Connected to this screw should be a red, black, or blue covered wire.",
+                    "#* If you have properly turned off the power, there should be no signs of voltage.",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 4.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 4.jpg|center]]",
+                    "#* Remove the lock-nut from the cable clamp.",
+                    "#* Push the cable clamp through the hole. The side that comes through the bottom should have spiral edges for screwing it in.",
+                    "#* Tighten the lock-nut back around the cable clamp by placing it at the underside of the clamp where you see the spiral edges and screwing it in with Channel-Lock pliers.",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 4.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 4.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 4.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 4.jpg|center]]",
+                    "#* Take a neutral wire and cut away about a centimeter of the covering at the end of the wire.",
+                    "#* Use your flathead screwdriver to unscrew one of the screws and then push the wire through.",
+                    "#* Screw it back in after you have inserted the neutral wire.",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 4.jpg|center]]",
+                    "#* You should find a list of acceptable circuit breakers you can use.",
+                    "#* Make sure that your circuit breaker is of acceptable size and voltage.",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 4.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 4.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 4.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 4.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 4.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 4.jpg|center]]",
+                    "== Video ==",
+                    "{{Video:Wire a Breaker Circuit|}}",
+                    "== Tips ==",
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "== Warnings ==",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "== Things You'll Need ==",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "",
+                    "== References ==",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "26349526",
+            "user": "MiscBot",
+            "timestamp": "08:05, 29 March 2019",
+            "anon": false,
+            "size": "(6,100 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25584068",
+            "user": "Wikivisual",
+            "timestamp": "18:12, 12 November 2018",
+            "anon": false,
+            "size": "(6,111 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 4.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 4.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 4.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 4.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 4.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 4.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 4.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 4.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 4.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 4.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 4.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 4.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 4.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 4.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 4.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 4.jpg|center]]"
+                ],
+                "removed": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 3.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 3.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 3.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 3.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 3.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 3.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 3.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 3.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 3.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 3.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 3.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 3.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 3.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 3.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 3.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19850663",
+            "user": "Votebot",
+            "timestamp": "08:43, 20 March 2016",
+            "anon": false,
+            "size": "(6,111 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ]
+            }
+        },
+        {
+            "id": "19679409",
+            "user": "122.129.124.233",
+            "timestamp": "11:02, 20 February 2016",
+            "anon": true,
+            "size": "(6,111 bytes)",
+            "change": -15,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "19663772",
+            "user": "Votebot",
+            "timestamp": "09:47, 18 February 2016",
+            "anon": false,
+            "size": "(6,126 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires."
+                ],
+                "removed": [
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires."
+                ]
+            }
+        },
+        {
+            "id": "16832755",
+            "user": "XxVxX",
+            "timestamp": "20:30, 8 March 2015",
+            "anon": false,
+            "size": "(6,126 bytes)",
+            "change": 15,
+            "summary": "(RCP reverted edits by 188.109.15.95 (talk) to  revision #16529274 by Wikivisual)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "16832741",
+            "user": "188.109.15.95",
+            "timestamp": "20:28, 8 March 2015",
+            "anon": true,
+            "size": "(6,111 bytes)",
+            "change": -15,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "16529274",
+            "user": "Wikivisual",
+            "timestamp": "19:51, 2 February 2015",
+            "anon": false,
+            "size": "(6,126 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 3.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 3.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 3.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 3.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 3.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 3.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 3.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 3.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 3.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 3.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 3.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 3.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 3.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 3.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 3.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 2.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 2.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 2.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 2.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 2.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 2.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 2.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 2.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 2.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 2.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 2.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 2.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 2.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 2.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 2.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "16524626",
+            "user": "Wikivisual",
+            "timestamp": "03:31, 2 February 2015",
+            "anon": false,
+            "size": "(6,126 bytes)",
+            "change": 160,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1 Version 2.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2 Version 2.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3 Version 2.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4 Version 2.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5 Version 2.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6 Version 2.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7 Version 2.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8 Version 2.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9 Version 2.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10 Version 2.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11 Version 2.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12 Version 2.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13 Version 2.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14 Version 2.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15 Version 2.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "16510724",
+            "user": "Wikivisual",
+            "timestamp": "23:55, 30 January 2015",
+            "anon": false,
+            "size": "(5,966 bytes)",
+            "change": 749,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "#Switch off the main power switch. This should be located at the top of the breaker panel.[[Image:Wire a Breaker Circuit Step 1.jpg|center]]",
+                    "#Take the cover of the breaker box off.[[Image:Wire a Breaker Circuit Step 2.jpg|center]]",
+                    "#Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.[[Image:Wire a Breaker Circuit Step 3.jpg|center]]",
+                    "#Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.[[Image:Wire a Breaker Circuit Step 4.jpg|center]]",
+                    "#Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.[[Image:Wire a Breaker Circuit Step 5.jpg|center]]",
+                    "#Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.[[Image:Wire a Breaker Circuit Step 6.jpg|center]]",
+                    "#Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.[[Image:Wire a Breaker Circuit Step 7.jpg|center]]",
+                    "#Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.[[Image:Wire a Breaker Circuit Step 8.jpg|center]]",
+                    "#Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.[[Image:Wire a Breaker Circuit Step 9.jpg|center]]",
+                    "#Locate an opening for a new circuit breaker.[[Image:Wire a Breaker Circuit Step 10.jpg|center]]",
+                    "#Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.[[Image:Wire a Breaker Circuit Step 11.jpg|center]]",
+                    "#Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.[[Image:Wire a Breaker Circuit Step 12.jpg|center]]",
+                    "#With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 13.jpg|center]]",
+                    "#Check once more to make sure the circuit breaker is switched off.[[Image:Wire a Breaker Circuit Step 14.jpg|center]]",
+                    "#Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.[[Image:Wire a Breaker Circuit Step 15.jpg|center]]",
+                    "#Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.[[Image:Wire a Breaker Circuit Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "# Switch off the main power switch. This should be located at the top of the breaker panel.",
+                    "# Take the cover of the breaker box off.",
+                    "# Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.",
+                    "# Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.",
+                    "# Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.",
+                    "# Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.",
+                    "# Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.",
+                    "# Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.",
+                    "# Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.",
+                    "# Locate an opening for a new circuit breaker.",
+                    "# Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.",
+                    "# Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.",
+                    "# With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.",
+                    "# Check once more to make sure the circuit breaker is switched off.",
+                    "# Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.",
+                    "# Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on."
+                ]
+            }
+        },
+        {
+            "id": "15855844",
+            "user": "Votebot",
+            "timestamp": "15:01, 10 November 2014",
+            "anon": false,
+            "size": "(5,217 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ]
+            }
+        },
+        {
+            "id": "14445972",
+            "user": "Votebot",
+            "timestamp": "18:24, 5 August 2014",
+            "anon": false,
+            "size": "(5,217 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires."
+                ],
+                "removed": [
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires."
+                ]
+            }
+        },
+        {
+            "id": "12790553",
+            "user": "Benas51",
+            "timestamp": "11:27, 24 February 2014",
+            "anon": false,
+            "size": "(5,217 bytes)",
+            "change": 47,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a Breaker Circuit|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11693922",
+            "user": "Votebot",
+            "timestamp": "21:52, 5 November 2013",
+            "anon": false,
+            "size": "(5,170 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ]
+            }
+        },
+        {
+            "id": "11651525",
+            "user": "Votebot",
+            "timestamp": "16:44, 2 November 2013",
+            "anon": false,
+            "size": "(5,173 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10053191",
+            "user": "Krystle",
+            "timestamp": "00:44, 1 June 2013",
+            "anon": false,
+            "size": "(5,170 bytes)",
+            "change": 76,
+            "summary": "(Reverted edits by 117.242.144.149 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "",
+                    "",
+                    "",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could . While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "10025935",
+            "user": "117.242.144.149",
+            "timestamp": "10:45, 29 May 2013",
+            "anon": true,
+            "size": "(5,094 bytes)",
+            "change": -76,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Krystle",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could . While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "*Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "*You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "*If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "*Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "*Circuit breaker",
+                    "*Channel-Lock pliers",
+                    "*Four-conductor cable",
+                    "*Flathead screwdriver",
+                    "*Utility knife",
+                    "*Electrical tester",
+                    "*[http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "*[http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "",
+                    "",
+                    "",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ]
+            }
+        },
+        {
+            "id": "9788537",
+            "user": "Votebot",
+            "timestamp": "15:59, 3 May 2013",
+            "anon": false,
+            "size": "(5,170 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Krystle",
+            "exact_contribution": {
+                "added": [
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ],
+                "removed": [
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you."
+                ]
+            }
+        },
+        {
+            "id": "8221307",
+            "user": "Elocina",
+            "timestamp": "03:14, 8 August 2012",
+            "anon": false,
+            "size": "(5,170 bytes)",
+            "change": 43,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Breakers 1.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    ""
+                ],
+                "removed": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease."
+                ]
+            }
+        },
+        {
+            "id": "6692851",
+            "user": "BR",
+            "timestamp": "01:21, 1 October 2011",
+            "anon": false,
+            "size": "(5,127 bytes)",
+            "change": -62,
+            "summary": "(Reverted edits by Queenkiwi (Talk); changed back to last version by Byankno1)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease."
+                ],
+                "removed": [
+                    "[[Image:20040508wiring basement panel.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6688478",
+            "user": "Queenkiwi",
+            "timestamp": "20:24, 29 September 2011",
+            "anon": false,
+            "size": "(5,189 bytes)",
+            "change": 62,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:20040508wiring basement panel.jpg|thumb|right|251px]]A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    ""
+                ],
+                "removed": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease."
+                ]
+            }
+        },
+        {
+            "id": "6686173",
+            "user": "EpcotMagic",
+            "timestamp": "04:39, 29 September 2011",
+            "anon": false,
+            "size": "(5,127 bytes)",
+            "change": 44,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6151582",
+            "user": "WRM",
+            "timestamp": "02:00, 7 June 2011",
+            "anon": false,
+            "size": "(5,083 bytes)",
+            "change": 5083,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A breaker circuit is an electrical switch that cuts off electrical flow in the event of a possible short circuit or overload. This device is essential in a modern world that runs on electricity. Without a circuit breaker, you could find yourself dealing with household fires on a regular basis. While you can easily call a professional electrician, you can also learn how to wire a breaker circuit yourself with relative ease.",
+                    "== Steps ==",
+                    "# Switch off the main power switch. This should be located at the top of the breaker panel.",
+                    "# Take the cover of the breaker box off.",
+                    "# Use an electrical tester by putting the tip of one probe against the ground bus bar and the other against one of the screws of a circuit breaker.",
+                    "#* Connected to this screw should be a red, black, or blue covered wire.",
+                    "#* If you have properly turned off the power, there should be no signs of voltage.",
+                    "# Remove the covering from one of the holes that runs across the breaker panel's top side. You may need a small, pointy tool, such as a screwdriver, to get them out.",
+                    "# Attach a cable clamp through the hole. The cable clamp will keep the four-conductor cable in place after you run it through the hole.",
+                    "#* Remove the lock-nut from the cable clamp.",
+                    "#* Push the cable clamp through the hole. The side that comes through the bottom should have spiral edges for screwing it in.",
+                    "#* Tighten the lock-nut back around the cable clamp by placing it at the underside of the clamp where you see the spiral edges and screwing it in with Channel-Lock pliers.",
+                    "# Run a four-conductor cable from the sub-panel breaker box through this clamp and tighten it. You may need a professional to look at your breaker box and tell you which kind of four-conductor cable you need.",
+                    "# Cut the covering of the cable and pull this covering away. Inside the covering, you'll find a copper wire (the ground wire), a white covered wire (the neutral wire), a black wire (the hot wire), and a red wire (another hot wire). In the sub-panel box, the neutral and ground wires will connect the same as they do in the main breaker box, but the red and black wires will connect to the hot bar instead of a circuit breaker.",
+                    "# Find the ground bus bar. It is a metal strip with a row of screws running down it. Using a flathead screwdriver, unscrew one of them slightly and push your ground wire through. Screw it back in tightly after you insert it.",
+                    "# Find the neutral bus bar. Like the ground bus bar, this will be a metal strip with a row of screws, but the neutral bus bar is typically white.",
+                    "#* Take a neutral wire and cut away about a centimeter of the covering at the end of the wire.",
+                    "#* Use your flathead screwdriver to unscrew one of the screws and then push the wire through.",
+                    "#* Screw it back in after you have inserted the neutral wire.",
+                    "# Locate an opening for a new circuit breaker.",
+                    "#* You should find a list of acceptable circuit breakers you can use.",
+                    "#* Make sure that your circuit breaker is of acceptable size and voltage.",
+                    "# Locate the black hot wire and attach it to the back of the circuit breaker. It will be clearly indicated where this should go. Depending on the kind of circuit breaker you must use, you may have to attach the red hot wire as well.",
+                    "# Locate the two sets of clips on the back side of the circuit breaker. One set will be on the left side, and the other on the right side.",
+                    "# With the circuit breaker held correctly (the text on it should indicate which way is right side up), push the set of clips at the right side of its back into the plastic bar in the opening.",
+                    "# Check once more to make sure the circuit breaker is switched off.",
+                    "# Push the left set of clips at the back of the circuit breaker into place on the plastic bar in the opening.",
+                    "# Get in touch with a professional electrician to test out your work on the circuit breaker before turning power back on.",
+                    "",
+                    "== Tips ==",
+                    "* If at any point you feel unsure of what you're doing, consider getting a professional electrician to do this job for you.",
+                    "* Find a diagram of a breaker box online before getting started. This will help you ensure you are working with the correct wires and bus bars as you wire a breaker circuit.",
+                    "* You can fit a piece of cardboard into the section of the breaker box you're not using as an extra guard against live wires.",
+                    "",
+                    "== Warnings ==",
+                    "* Always double check to make sure you have turned off the main power switch and the circuit breaker power.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Circuit breaker",
+                    "* Channel-Lock pliers",
+                    "* Four-conductor cable",
+                    "* Flathead screwdriver",
+                    "* Utility knife",
+                    "* Electrical tester",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr http://www.popularmechanics.com/home/improvement/electrical-plumbing/how_your_circuit_breaker_works?click=main_sr]",
+                    "* [http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step http://www.familyhandyman.com/DIY-Projects/Electrical/Electrical-Improvement/breaker-box-safety-how-to-connect-a-new-circuit/Step-By-Step]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,1716 @@
+{
+    "title": "Knock-Down-a-Wall",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:13:14.844871",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33716583",
+            "user": "Zalexie",
+            "timestamp": "15:53, 5 October 2025",
+            "anon": false,
+            "size": "(13,289 bytes)",
+            "change": 42,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Knock Down a Wall|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33182692",
+            "user": "MiscBot",
+            "timestamp": "19:30, 24 February 2025",
+            "anon": false,
+            "size": "(13,247 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33009850",
+            "user": "Votebot",
+            "timestamp": "09:56, 19 December 2024",
+            "anon": false,
+            "size": "(13,228 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings =="
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "32847883",
+            "user": "WikiHowUser20250203170141",
+            "timestamp": "13:45, 10 October 2024",
+            "anon": false,
+            "size": "(13,226 bytes)",
+            "change": 13127,
+            "summary": "(RCP reverted edits by 213.81.69.28 (talk) to  revision #32017501 by WikiHow Projects)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing.<ref>[v161734_b01]. 19 February 2021.</ref> If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a [[Use a Hammer Safely|sledgehammer]] to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "[[Category:Walls and Ceilings]]",
+                    "[[Category:Brickwork and Stone Masonry]]",
+                    "==Steps==",
+                    "===Determining If a Wall Is Load-Bearing===",
+                    "#Identify load-bearing walls by solid headers above the doorways. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 1 Version 2.jpg|center]]",
+                    "#*Look for a solid section of wood that would indicate a header was installed and the wall is load-bearing.",
+                    "#*If the space above a doorway on the wall is hollow, then it’s likely not a load-bearing wall.",
+                    "#Note that stacked walls are structural and shouldn't be removed. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 2 Version 2.jpg|center]]",
+                    "#*If the wall you plan to knock down is on the second floor, check to see if there’s a wall in the exact same place on the floor below it.",
+                    "#*Piers or girders look like solid metal beams and are used to support structures. If you see them below your wall, then it means the wall also supports the weight of the building.",
+                    "#*If you see pylons, which look like large posts, beneath your wall, it means your wall is load-bearing.",
+                    "#*Be careful crawling beneath the structure to inspect the walls.",
+                    "#See if the wall runs parallel to the frame for signs that it’s load-bearing. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load-bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load-bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>[[Image:Knock Down a Wall Step 3 Version 2.jpg|center]]",
+                    "#*If you see ceiling or floor joists at the edges of the wall, then it’s definitely a load-bearing wall.",
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 4 Version 2.jpg|center]]",
+                    "#*[[Learn to Read Blueprints|Read the blueprints]] closely to look for indicators that a wall is load-bearing. Use the key to identify structural features.",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load-bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 5 Version 2.jpg|center]]",
+                    "#*Look online for structural engineers or engineering firms you can pay to inspect your wall.",
+                    "#*Hiring a structural engineer can cost between $300-$500.<ref>https://www.homeadvisor.com/cost/architects-and-engineers/hire-an-engineer/#:~:targetText=Engineer%20Rates,of%20your%20total%20project%20cost.</ref>",
+                    "",
+                    "===Protecting the Rooms===",
+                    "#Clear the rooms on both sides of the wall. Take out any furniture, rugs, decor, and anything else from the room so they’re not in the way and they don’t get any dust or dirt on them. Make sure the rooms on both sides of the wall are completely empty.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6 Version 2.jpg|center]]",
+                    "#*Be sure to take down anything that may be hanging on the wall as well.",
+                    "#Lay down a plastic tarp over the floor to protect it. Once the rooms are clear, put down enough plastic tarp to cover all of the floors and baseboards so they’re protected from any dust, dirt, and debris that may get on them from the wall being knocked down. Use masking tape to seal the edges of the tarp and connect them to the other walls.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 7 Version 2.jpg|center]]",
+                    "#*You can also use plastic drop cloths, but make sure there aren’t any gaps between them.",
+                    "#*Find tarps and drop cloths at home improvement stores, paint supply stores, and online.",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 8 Version 2.jpg|center]]",
+                    "#*Tape the sheets to the top of the doorways so they hang down over the opening.",
+                    "#Cover any vents in the rooms to keep dust from escaping. Place towels or plastic sheets over the air vents in the room so dust isn’t distributed to the other rooms in the building. Use masking tape to seal the edges of the vents.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>[[Image:Knock Down a Wall Step 9.jpg|center]]",
+                    "#*Keep any ceiling fans turned off to minimize the dust being shifted around.{{greenbox:'''Tip:''' Turn off the air conditioning if you can to reduce the amount of dust that’s sucked into the system.}}",
+                    "",
+                    "===Removing the Wall===",
+                    "#Put on gloves, safety glasses, and a face mask to protect yourself. Knocking down a wall will produce lots of dust and dirt that you don’t want to breathe in or get into your eyes. Put on safety glasses and a face mask for safety. You’ll also want to protect your hands by wearing a sturdy pair of work gloves.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 10.jpg|center]]",
+                    "#*You can find work gloves, safety glasses, and face masks at home improvement stores, at department stores, and online.",
+                    "#Shut off power to the room before you start working. Flip the breaker that controls electricity to the room so you can knock down the wall without the risk of shocking yourself. Even if you don’t see electrical outlets on the wall, then you need to make sure there isn’t a live current before you begin working.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 11.jpg|center]]",
+                    "#*Plug in an electrical device and try to turn it on to test that the outlets are off.",
+                    "#*Test that the power to the room has been shut off by flipping the light switches on and off.",
+                    "#Score the paint and caulk where the wall meets the ceiling. Use a utility knife or a sharp knife to cut a line along where the wall meets the ceiling to make it easier to knock down the wall. Make sure the cut is deep and penetrates the paint and caulk that connects the wall and ceiling together.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 12.jpg|center]]",
+                    "#*Scoring the ceiling will help prevent the wall you’re knocking down from pulling down the ceiling.",
+                    "#Locate 2 studs so you can hammer between them. Use a stud finder or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the [[Remove Drywall|drywall]].<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 13.jpg|center]]",
+                    "#*Use a flashlight to help you see inside of the wall.",
+                    "#*Mark the location of the studs on the drywall using a pen, pencil, or marker.",
+                    "#Make a small hole in the drywall between the studs with a sledgehammer. Strike the wall with a sledgehammer to make a hole in it. 1 small hole is all you need in order to check for wiring and pipes in the wall before you start pulling off the drywall. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 14.jpg|center]]",
+                    "#*It will be much easier to remove the studs once you take down all of the drywall.{{greenbox:'''Warning:''' Be very careful when you’re swinging a sledgehammer. Always check to make sure the area is clear of any other people before you swing..}}",
+                    "#Look for plumbing and wiring and hire a professional if there are any. When you make a hole with your sledgehammer, look inside and try to identify any plumbing or electrical lines that may be running through the wall. If you do have any active electrical wiring or plumbing running through the wall, you need to hire a plumber or an electrician to remove them properly.<ref>https://www.homeadvisor.com/cost/additions-and-remodels/remove-load-bearing-wall/</ref>[[Image:Knock Down a Wall Step 15.jpg|center]]",
+                    "#*A plumber can cost between $45-$150 an hour. Look online for local plumbers you can hire.",
+                    "#*You can hire an electrician for about $50-$100 an hour. The total cost will depend on how extensive the required work is to remove the wiring.",
+                    "#Create additional holes and use your hands to pull off the drywall. Add more small holes in the drywall between wall studs with the sledgehammer. Grip the edges of the holes with your hands, pull off pieces of the drywall and dispose of them. Continue making holes and pulling off the drywall until it’s all gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 16.jpg|center]]",
+                    "#*Use the sledgehammer to break up the drywall to make it easier to remove by hand.",
+                    "#*Remove all of the drywall on 1 side of the wall, then repeat the process on the other side of the wall.",
+                    "#Bash the studs out of the way with the sledgehammer. Once the drywall is out of the way, use the sledgehammer to strike the studs and break them up into pieces. Pick up the pieces as you remove them and place them into the trash. Continue breaking the studs into pieces and removing them until the entire wall is gone.<ref>https://youtu.be/zjtI-sHUsoA?t=312</ref>[[Image:Knock Down a Wall Step 17.jpg|center]]",
+                    "#*Strike the studs from the side to break them into pieces.",
+                    "#*Use a pry bar to pull the stud out of the wall if necessary.",
+                    "#Clean up the debris, turn on the power, and replace the items in the room. When the wall has been completely knocked down, use a broom and duster to sweep up the dust, dirt, and debris from the floor and walls. Pick up the plastic sheets and dispose of the debris in the garbage. Flip the breaker to restore power to the room and then move the furniture, decor, and other objects back into the room.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 18.jpg|center]]",
+                    "#*Remove any masking tape, hanging plastic sheets, or anything else you used to protect the room.",
+                    "",
+                    "==Warnings==",
+                    "*Wear work gloves, safety glasses, and a face mask when you’re knocking down a wall.",
+                    "*Always check your surroundings before you swing a sledgehammer.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Plastic tarp",
+                    "*Masking tape",
+                    "*Utility knife",
+                    "*Sledgehammer",
+                    "*Work gloves, safety glasses, and face mask",
+                    "*Pry bar (optional)",
+                    "*Stud finder (optional)",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Knock-Down-a-Wall}}"
+                ],
+                "removed": [
+                    "from the screen to the ring to the pen to the king , wheres my crown, where my bling thats my reign"
+                ]
+            }
+        },
+        {
+            "id": "32847851",
+            "user": "213.81.69.28",
+            "timestamp": "13:26, 10 October 2024",
+            "anon": true,
+            "size": "(99 bytes)",
+            "change": -13127,
+            "summary": "(Replacing page with 'from the screen to the ring to the pen to the king , wheres my crown, where my bling thats my reign')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "WikiHowUser20250203170141",
+            "exact_contribution": {
+                "added": [
+                    "from the screen to the ring to the pen to the king , wheres my crown, where my bling thats my reign"
+                ],
+                "removed": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing.<ref>[v161734_b01]. 19 February 2021.</ref> If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a [[Use a Hammer Safely|sledgehammer]] to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "[[Category:Walls and Ceilings]]",
+                    "[[Category:Brickwork and Stone Masonry]]",
+                    "==Steps==",
+                    "===Determining If a Wall Is Load-Bearing===",
+                    "#Identify load-bearing walls by solid headers above the doorways. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 1 Version 2.jpg|center]]",
+                    "#*Look for a solid section of wood that would indicate a header was installed and the wall is load-bearing.",
+                    "#*If the space above a doorway on the wall is hollow, then it’s likely not a load-bearing wall.",
+                    "#Note that stacked walls are structural and shouldn't be removed. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 2 Version 2.jpg|center]]",
+                    "#*If the wall you plan to knock down is on the second floor, check to see if there’s a wall in the exact same place on the floor below it.",
+                    "#*Piers or girders look like solid metal beams and are used to support structures. If you see them below your wall, then it means the wall also supports the weight of the building.",
+                    "#*If you see pylons, which look like large posts, beneath your wall, it means your wall is load-bearing.",
+                    "#*Be careful crawling beneath the structure to inspect the walls.",
+                    "#See if the wall runs parallel to the frame for signs that it’s load-bearing. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load-bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load-bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>[[Image:Knock Down a Wall Step 3 Version 2.jpg|center]]",
+                    "#*If you see ceiling or floor joists at the edges of the wall, then it’s definitely a load-bearing wall.",
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 4 Version 2.jpg|center]]",
+                    "#*[[Learn to Read Blueprints|Read the blueprints]] closely to look for indicators that a wall is load-bearing. Use the key to identify structural features.",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load-bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 5 Version 2.jpg|center]]",
+                    "#*Look online for structural engineers or engineering firms you can pay to inspect your wall.",
+                    "#*Hiring a structural engineer can cost between $300-$500.<ref>https://www.homeadvisor.com/cost/architects-and-engineers/hire-an-engineer/#:~:targetText=Engineer%20Rates,of%20your%20total%20project%20cost.</ref>",
+                    "",
+                    "===Protecting the Rooms===",
+                    "#Clear the rooms on both sides of the wall. Take out any furniture, rugs, decor, and anything else from the room so they’re not in the way and they don’t get any dust or dirt on them. Make sure the rooms on both sides of the wall are completely empty.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6 Version 2.jpg|center]]",
+                    "#*Be sure to take down anything that may be hanging on the wall as well.",
+                    "#Lay down a plastic tarp over the floor to protect it. Once the rooms are clear, put down enough plastic tarp to cover all of the floors and baseboards so they’re protected from any dust, dirt, and debris that may get on them from the wall being knocked down. Use masking tape to seal the edges of the tarp and connect them to the other walls.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 7 Version 2.jpg|center]]",
+                    "#*You can also use plastic drop cloths, but make sure there aren’t any gaps between them.",
+                    "#*Find tarps and drop cloths at home improvement stores, paint supply stores, and online.",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 8 Version 2.jpg|center]]",
+                    "#*Tape the sheets to the top of the doorways so they hang down over the opening.",
+                    "#Cover any vents in the rooms to keep dust from escaping. Place towels or plastic sheets over the air vents in the room so dust isn’t distributed to the other rooms in the building. Use masking tape to seal the edges of the vents.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>[[Image:Knock Down a Wall Step 9.jpg|center]]",
+                    "#*Keep any ceiling fans turned off to minimize the dust being shifted around.{{greenbox:'''Tip:''' Turn off the air conditioning if you can to reduce the amount of dust that’s sucked into the system.}}",
+                    "",
+                    "===Removing the Wall===",
+                    "#Put on gloves, safety glasses, and a face mask to protect yourself. Knocking down a wall will produce lots of dust and dirt that you don’t want to breathe in or get into your eyes. Put on safety glasses and a face mask for safety. You’ll also want to protect your hands by wearing a sturdy pair of work gloves.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 10.jpg|center]]",
+                    "#*You can find work gloves, safety glasses, and face masks at home improvement stores, at department stores, and online.",
+                    "#Shut off power to the room before you start working. Flip the breaker that controls electricity to the room so you can knock down the wall without the risk of shocking yourself. Even if you don’t see electrical outlets on the wall, then you need to make sure there isn’t a live current before you begin working.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 11.jpg|center]]",
+                    "#*Plug in an electrical device and try to turn it on to test that the outlets are off.",
+                    "#*Test that the power to the room has been shut off by flipping the light switches on and off.",
+                    "#Score the paint and caulk where the wall meets the ceiling. Use a utility knife or a sharp knife to cut a line along where the wall meets the ceiling to make it easier to knock down the wall. Make sure the cut is deep and penetrates the paint and caulk that connects the wall and ceiling together.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 12.jpg|center]]",
+                    "#*Scoring the ceiling will help prevent the wall you’re knocking down from pulling down the ceiling.",
+                    "#Locate 2 studs so you can hammer between them. Use a stud finder or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the [[Remove Drywall|drywall]].<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 13.jpg|center]]",
+                    "#*Use a flashlight to help you see inside of the wall.",
+                    "#*Mark the location of the studs on the drywall using a pen, pencil, or marker.",
+                    "#Make a small hole in the drywall between the studs with a sledgehammer. Strike the wall with a sledgehammer to make a hole in it. 1 small hole is all you need in order to check for wiring and pipes in the wall before you start pulling off the drywall. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 14.jpg|center]]",
+                    "#*It will be much easier to remove the studs once you take down all of the drywall.{{greenbox:'''Warning:''' Be very careful when you’re swinging a sledgehammer. Always check to make sure the area is clear of any other people before you swing..}}",
+                    "#Look for plumbing and wiring and hire a professional if there are any. When you make a hole with your sledgehammer, look inside and try to identify any plumbing or electrical lines that may be running through the wall. If you do have any active electrical wiring or plumbing running through the wall, you need to hire a plumber or an electrician to remove them properly.<ref>https://www.homeadvisor.com/cost/additions-and-remodels/remove-load-bearing-wall/</ref>[[Image:Knock Down a Wall Step 15.jpg|center]]",
+                    "#*A plumber can cost between $45-$150 an hour. Look online for local plumbers you can hire.",
+                    "#*You can hire an electrician for about $50-$100 an hour. The total cost will depend on how extensive the required work is to remove the wiring.",
+                    "#Create additional holes and use your hands to pull off the drywall. Add more small holes in the drywall between wall studs with the sledgehammer. Grip the edges of the holes with your hands, pull off pieces of the drywall and dispose of them. Continue making holes and pulling off the drywall until it’s all gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 16.jpg|center]]",
+                    "#*Use the sledgehammer to break up the drywall to make it easier to remove by hand.",
+                    "#*Remove all of the drywall on 1 side of the wall, then repeat the process on the other side of the wall.",
+                    "#Bash the studs out of the way with the sledgehammer. Once the drywall is out of the way, use the sledgehammer to strike the studs and break them up into pieces. Pick up the pieces as you remove them and place them into the trash. Continue breaking the studs into pieces and removing them until the entire wall is gone.<ref>https://youtu.be/zjtI-sHUsoA?t=312</ref>[[Image:Knock Down a Wall Step 17.jpg|center]]",
+                    "#*Strike the studs from the side to break them into pieces.",
+                    "#*Use a pry bar to pull the stud out of the wall if necessary.",
+                    "#Clean up the debris, turn on the power, and replace the items in the room. When the wall has been completely knocked down, use a broom and duster to sweep up the dust, dirt, and debris from the floor and walls. Pick up the plastic sheets and dispose of the debris in the garbage. Flip the breaker to restore power to the room and then move the furniture, decor, and other objects back into the room.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 18.jpg|center]]",
+                    "#*Remove any masking tape, hanging plastic sheets, or anything else you used to protect the room.",
+                    "",
+                    "==Warnings==",
+                    "*Wear work gloves, safety glasses, and a face mask when you’re knocking down a wall.",
+                    "*Always check your surroundings before you swing a sledgehammer.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Plastic tarp",
+                    "*Masking tape",
+                    "*Utility knife",
+                    "*Sledgehammer",
+                    "*Work gloves, safety glasses, and face mask",
+                    "*Pry bar (optional)",
+                    "*Stud finder (optional)",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Knock-Down-a-Wall}}"
+                ]
+            }
+        },
+        {
+            "id": "32017501",
+            "user": "WikiHow Projects",
+            "timestamp": "05:11, 22 October 2023",
+            "anon": false,
+            "size": "(13,226 bytes)",
+            "change": 42,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20250203170141",
+            "exact_contribution": {
+                "added": [
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 4 Version 2.jpg|center]]",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/cambridge-house/21015124/how-to-take-down-a-wall</ref>[[Image:Knock Down a Wall Step 8 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>[[Image:Knock Down a Wall Step 4 Version 2.jpg|center]]",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>[[Image:Knock Down a Wall Step 8 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31344339",
+            "user": "WikiHow Projects",
+            "timestamp": "15:47, 10 February 2023",
+            "anon": false,
+            "size": "(13,184 bytes)",
+            "change": 3,
+            "summary": "(adding internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20250203170141",
+            "exact_contribution": {
+                "added": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing.<ref>[v161734_b01]. 19 February 2021.</ref> If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a [[Use a Hammer Safely|sledgehammer]] to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "#Locate 2 studs so you can hammer between them. Use a stud finder or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the [[Remove Drywall|drywall]].<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing.<ref>[v161734_b01]. 19 February 2021.</ref> If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "#Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29376358",
+            "user": "Kyle Hall",
+            "timestamp": "17:21, 24 March 2021",
+            "anon": false,
+            "size": "(13,181 bytes)",
+            "change": 43,
+            "summary": "(added expert citations)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing.<ref>[v161734_b01]. 19 February 2021.</ref> If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection."
+                ],
+                "removed": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing. If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection."
+                ]
+            }
+        },
+        {
+            "id": "27472882",
+            "user": "Wikivisual",
+            "timestamp": "14:41, 10 December 2019",
+            "anon": false,
+            "size": "(13,138 bytes)",
+            "change": 761,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Identify load-bearing walls by solid headers above the doorways. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 1 Version 2.jpg|center]]",
+                    "#Note that stacked walls are structural and shouldn't be removed. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 2 Version 2.jpg|center]]",
+                    "#See if the wall runs parallel to the frame for signs that it’s load-bearing. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load-bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load-bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>[[Image:Knock Down a Wall Step 3 Version 2.jpg|center]]",
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>[[Image:Knock Down a Wall Step 4 Version 2.jpg|center]]",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load-bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>[[Image:Knock Down a Wall Step 5 Version 2.jpg|center]]",
+                    "#Clear the rooms on both sides of the wall. Take out any furniture, rugs, decor, and anything else from the room so they’re not in the way and they don’t get any dust or dirt on them. Make sure the rooms on both sides of the wall are completely empty.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6 Version 2.jpg|center]]",
+                    "#Lay down a plastic tarp over the floor to protect it. Once the rooms are clear, put down enough plastic tarp to cover all of the floors and baseboards so they’re protected from any dust, dirt, and debris that may get on them from the wall being knocked down. Use masking tape to seal the edges of the tarp and connect them to the other walls.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 7 Version 2.jpg|center]]",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>[[Image:Knock Down a Wall Step 8 Version 2.jpg|center]]",
+                    "#Cover any vents in the rooms to keep dust from escaping. Place towels or plastic sheets over the air vents in the room so dust isn’t distributed to the other rooms in the building. Use masking tape to seal the edges of the vents.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>[[Image:Knock Down a Wall Step 9.jpg|center]]",
+                    "#Put on gloves, safety glasses, and a face mask to protect yourself. Knocking down a wall will produce lots of dust and dirt that you don’t want to breathe in or get into your eyes. Put on safety glasses and a face mask for safety. You’ll also want to protect your hands by wearing a sturdy pair of work gloves.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 10.jpg|center]]",
+                    "#Shut off power to the room before you start working. Flip the breaker that controls electricity to the room so you can knock down the wall without the risk of shocking yourself. Even if you don’t see electrical outlets on the wall, then you need to make sure there isn’t a live current before you begin working.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 11.jpg|center]]",
+                    "#Score the paint and caulk where the wall meets the ceiling. Use a utility knife or a sharp knife to cut a line along where the wall meets the ceiling to make it easier to knock down the wall. Make sure the cut is deep and penetrates the paint and caulk that connects the wall and ceiling together.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 12.jpg|center]]",
+                    "#Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 13.jpg|center]]",
+                    "#Make a small hole in the drywall between the studs with a sledgehammer. Strike the wall with a sledgehammer to make a hole in it. 1 small hole is all you need in order to check for wiring and pipes in the wall before you start pulling off the drywall. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 14.jpg|center]]",
+                    "#Look for plumbing and wiring and hire a professional if there are any. When you make a hole with your sledgehammer, look inside and try to identify any plumbing or electrical lines that may be running through the wall. If you do have any active electrical wiring or plumbing running through the wall, you need to hire a plumber or an electrician to remove them properly.<ref>https://www.homeadvisor.com/cost/additions-and-remodels/remove-load-bearing-wall/</ref>[[Image:Knock Down a Wall Step 15.jpg|center]]",
+                    "#Create additional holes and use your hands to pull off the drywall. Add more small holes in the drywall between wall studs with the sledgehammer. Grip the edges of the holes with your hands, pull off pieces of the drywall and dispose of them. Continue making holes and pulling off the drywall until it’s all gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 16.jpg|center]]",
+                    "#Bash the studs out of the way with the sledgehammer. Once the drywall is out of the way, use the sledgehammer to strike the studs and break them up into pieces. Pick up the pieces as you remove them and place them into the trash. Continue breaking the studs into pieces and removing them until the entire wall is gone.<ref>https://youtu.be/zjtI-sHUsoA?t=312</ref>[[Image:Knock Down a Wall Step 17.jpg|center]]",
+                    "#Clean up the debris, turn on the power, and replace the items in the room. When the wall has been completely knocked down, use a broom and duster to sweep up the dust, dirt, and debris from the floor and walls. Pick up the plastic sheets and dispose of the debris in the garbage. Flip the breaker to restore power to the room and then move the furniture, decor, and other objects back into the room.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 18.jpg|center]]"
+                ],
+                "removed": [
+                    "#Identify load-bearing walls by solid headers above the doorways. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Note that stacked walls are structural and shouldn't be removed. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#See if the wall runs parallel to the frame for signs that it’s load-bearing. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load-bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load-bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>",
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load-bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Clear the rooms on both sides of the wall. Take out any furniture, rugs, decor, and anything else from the room so they’re not in the way and they don’t get any dust or dirt on them. Make sure the rooms on both sides of the wall are completely empty.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#Lay down a plastic tarp over the floor to protect it. Once the rooms are clear, put down enough plastic tarp to cover all of the floors and baseboards so they’re protected from any dust, dirt, and debris that may get on them from the wall being knocked down. Use masking tape to seal the edges of the tarp and connect them to the other walls.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "#Cover any vents in the rooms to keep dust from escaping. Place towels or plastic sheets over the air vents in the room so dust isn’t distributed to the other rooms in the building. Use masking tape to seal the edges of the vents.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>",
+                    "#Put on gloves, safety glasses, and a face mask to protect yourself. Knocking down a wall will produce lots of dust and dirt that you don’t want to breathe in or get into your eyes. Put on safety glasses and a face mask for safety. You’ll also want to protect your hands by wearing a sturdy pair of work gloves.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#Shut off power to the room before you start working. Flip the breaker that controls electricity to the room so you can knock down the wall without the risk of shocking yourself. Even if you don’t see electrical outlets on the wall, then you need to make sure there isn’t a live current before you begin working.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "#Score the paint and caulk where the wall meets the ceiling. Use a utility knife or a sharp knife to cut a line along where the wall meets the ceiling to make it easier to knock down the wall. Make sure the cut is deep and penetrates the paint and caulk that connects the wall and ceiling together.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#Make a small hole in the drywall between the studs with a sledgehammer. Strike the wall with a sledgehammer to make a hole in it. 1 small hole is all you need in order to check for wiring and pipes in the wall before you start pulling off the drywall. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "#Look for plumbing and wiring and hire a professional if there are any. When you make a hole with your sledgehammer, look inside and try to identify any plumbing or electrical lines that may be running through the wall. If you do have any active electrical wiring or plumbing running through the wall, you need to hire a plumber or an electrician to remove them properly.<ref>https://www.homeadvisor.com/cost/additions-and-remodels/remove-load-bearing-wall/</ref>",
+                    "#Create additional holes and use your hands to pull off the drywall. Add more small holes in the drywall between wall studs with the sledgehammer. Grip the edges of the holes with your hands, pull off pieces of the drywall and dispose of them. Continue making holes and pulling off the drywall until it’s all gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#Bash the studs out of the way with the sledgehammer. Once the drywall is out of the way, use the sledgehammer to strike the studs and break them up into pieces. Pick up the pieces as you remove them and place them into the trash. Continue breaking the studs into pieces and removing them until the entire wall is gone.<ref>https://youtu.be/zjtI-sHUsoA?t=312</ref>[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "#Clean up the debris, turn on the power, and replace the items in the room. When the wall has been completely knocked down, use a broom and duster to sweep up the dust, dirt, and debris from the floor and walls. Pick up the plastic sheets and dispose of the debris in the garbage. Flip the breaker to restore power to the room and then move the furniture, decor, and other objects back into the room.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27450665",
+            "user": "Seymour Edits",
+            "timestamp": "15:33, 5 December 2019",
+            "anon": false,
+            "size": "(12,377 bytes)",
+            "change": 136,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Knock-Down-a-Wall}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27395496",
+            "user": "Sophia B",
+            "timestamp": "17:43, 21 November 2019",
+            "anon": false,
+            "size": "(12,241 bytes)",
+            "change": 41,
+            "summary": "(corrected capitalization, adjusted a few step titles, broke out a substep)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "===Determining If a Wall Is Load-Bearing===",
+                    "#Identify load-bearing walls by solid headers above the doorways. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Note that stacked walls are structural and shouldn't be removed. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Review the blueprints to confirm if the wall is structural. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "",
+                    "",
+                    "#Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>"
+                ],
+                "removed": [
+                    "===Determining If a Wall Is load-bearing===",
+                    "#Check above the doorways for a solid header. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Note that stacked walls are load-bearing. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Review the blueprints for load-bearing walls if you have them. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "#*Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27394716",
+            "user": "Seymour Edits",
+            "timestamp": "15:17, 21 November 2019",
+            "anon": false,
+            "size": "(12,200 bytes)",
+            "change": 2617,
+            "summary": "(updated intro; updated step titles; added info for clarity; researched to confirm/add info; added steps; replaced sources; proofread)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Taking down a standard wall consisting of drywall and wall studs can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load-bearing. If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "===Determining If a Wall Is load-bearing===",
+                    "#Check above the doorways for a solid header. A header is a solid section of wood that is installed over a doorway on a load-bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*Look for a solid section of wood that would indicate a header was installed and the wall is load-bearing.",
+                    "#*If the space above a doorway on the wall is hollow, then it’s likely not a load-bearing wall.",
+                    "#Note that stacked walls are load-bearing. Check the beneath the wall to see if it’s stacked on another wall. Go to the first floor, basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load-bearing wall. If there is, then it is likely a load-bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*If the wall you plan to knock down is on the second floor, check to see if there’s a wall in the exact same place on the floor below it.",
+                    "#*Piers or girders look like solid metal beams and are used to support structures. If you see them below your wall, then it means the wall also supports the weight of the building.",
+                    "#*If you see pylons, which look like large posts, beneath your wall, it means your wall is load-bearing.",
+                    "#See if the wall runs parallel to the frame for signs that it’s load-bearing. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load-bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load-bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>",
+                    "#*If you see ceiling or floor joists at the edges of the wall, then it’s definitely a load-bearing wall.",
+                    "#Review the blueprints for load-bearing walls if you have them. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load-bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "#*[[Learn to Read Blueprints|Read the blueprints]] closely to look for indicators that a wall is load-bearing. Use the key to identify structural features.",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load-bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*Hiring a structural engineer can cost between $300-$500.<ref>https://www.homeadvisor.com/cost/architects-and-engineers/hire-an-engineer/#:~:targetText=Engineer%20Rates,of%20your%20total%20project%20cost.</ref>",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.thisoldhouse.com/ideas/how-to-take-down-wall</ref>",
+                    "#*Plug in an electrical device and try to turn it on to test that the outlets are off.",
+                    "#*Test that the power to the room has been shut off by flipping the light switches on and off.",
+                    "#*Locate 2 studs so you can hammer between them. [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] or tap against the wall lightly against the wall and listen for a hollow or solid sound that indicates that a stud is located there. Then, locate the stud adjacent to it so you can avoid striking them when you start to break up the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#*Use a flashlight to help you see inside of the wall.",
+                    "#*Mark the location of the studs on the drywall using a pen, pencil, or marker.",
+                    "#Make a small hole in the drywall between the studs with a sledgehammer. Strike the wall with a sledgehammer to make a hole in it. 1 small hole is all you need in order to check for wiring and pipes in the wall before you start pulling off the drywall. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "#Look for plumbing and wiring and hire a professional if there are any. When you make a hole with your sledgehammer, look inside and try to identify any plumbing or electrical lines that may be running through the wall. If you do have any active electrical wiring or plumbing running through the wall, you need to hire a plumber or an electrician to remove them properly.<ref>https://www.homeadvisor.com/cost/additions-and-remodels/remove-load-bearing-wall/</ref>",
+                    "#*A plumber can cost between $45-$150 an hour. Look online for local plumbers you can hire.",
+                    "#*You can hire an electrician for about $50-$100 an hour. The total cost will depend on how extensive the required work is to remove the wiring.",
+                    "#Create additional holes and use your hands to pull off the drywall. Add more small holes in the drywall between wall studs with the sledgehammer. Grip the edges of the holes with your hands, pull off pieces of the drywall and dispose of them. Continue making holes and pulling off the drywall until it’s all gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#Clean up the debris, turn on the power, and replace the items in the room. When the wall has been completely knocked down, use a broom and duster to sweep up the dust, dirt, and debris from the floor and walls. Pick up the plastic sheets and dispose of the debris in the garbage. Flip the breaker to restore power to the room and then move the furniture, decor, and other objects back into the room.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#*Remove any masking tape, hanging plastic sheets, or anything else you used to protect the room.",
+                    "*Stud finder (optional)"
+                ],
+                "removed": [
+                    "Taking down a wall can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load bearing. If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "===Determining If a Wall Is Load Bearing===",
+                    "#Check above the doorways for a solid header. A header is a solid section of wood that is installed over a doorway on a load bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. Check above your doorway for a solid section of wood that would indicate a header was installed and the wall is load bearing.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*If the space above a doorway on the wall is hollow, then it’s likely not a load bearing wall.{{greenbox:'''Tip:''' [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.}}",
+                    "#Look at the walls from beneath to see if they’re stacked. Go into the basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load bearing wall. If the wall you plan to knock down is on the second floor, check to see if there’s a wall in the exact same place on the floor below it. If there is, then it is likely a load bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*Piers, girders, or pylons below the wall mean that the wall is also supporting the weight of the building.",
+                    "#See if the wall runs perpendicular to the frame of the building. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>",
+                    "#*If you see ceiling or floor joists at the edges of the wall, then it’s definitely a load bearing wall.",
+                    "#Review the blueprints if you have them. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.budgetdumpster.com/blog/how-to-tell-wall-load-bearing/</ref>",
+                    "#*[[Learn to Read Blueprints|Read the blueprints]] closely to look for indicators that a wall is load bearing. Use the key to identify structural features.",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>",
+                    "#*Test the outlets on the wall and the light switches in the rooms on both sides of the wall take to make sure the power is off.",
+                    "#Make holes in the drywall with a sledgehammer. Strike the wall with a sledgehammer to make large holes in it. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "#Remove the pieces of drywall by hand. As you break the drywall with the sledgehammer, remove the pieces and dispose of them. Use your hands to pull off the pieces of drywall stuck to the studs until all of the drywall is gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27386279",
+            "user": "Seymour Edits",
+            "timestamp": "20:00, 19 November 2019",
+            "anon": false,
+            "size": "(9,583 bytes)",
+            "change": 3387,
+            "summary": "(rewrote article; kept relevant images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Taking down a wall can open up a room and create a lot more space. You can knock down a wall yourself, but you need to first make sure that the wall isn’t load bearing. If it isn’t, clear the room on both sides of the wall and cover the floors, vents, and the entranceways so you can contain the dust, dirt, and debris. Use a sledgehammer to create holes in the drywall so you can remove it. Then, remove the studs by bashing them with the sledgehammer. Always wear safety glasses, a face mask, and gloves for protection.",
+                    "==Steps==",
+                    "===Determining If a Wall Is Load Bearing===",
+                    "#Check above the doorways for a solid header. A header is a solid section of wood that is installed over a doorway on a load bearing wall in order to redistribute the weight and compensate for the studs that were removed to widen the opening to install the doorway. Check above your doorway for a solid section of wood that would indicate a header was installed and the wall is load bearing.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*If the space above a doorway on the wall is hollow, then it’s likely not a load bearing wall.{{greenbox:'''Tip:''' [[Find a Stud#Using a Stud Finder_sub|Use a stud finder]] to see if the space above your door is a solid header.}}",
+                    "#Look at the walls from beneath to see if they’re stacked. Go into the basement, pilings, or crawlspace and look to see if there are piers or girders underneath the wall that would indicate that it is a load bearing wall. If the wall you plan to knock down is on the second floor, check to see if there’s a wall in the exact same place on the floor below it. If there is, then it is likely a load bearing wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*Piers, girders, or pylons below the wall mean that the wall is also supporting the weight of the building.",
+                    "#*Be careful crawling beneath the structure to inspect the walls.",
+                    "#See if the wall runs perpendicular to the frame of the building. If the wall runs through the center of the building and is beneath the trusses or frame of the structure, then it may be a load bearing wall. Just because the wall runs parallel to the framing above it doesn’t necessarily mean that it’s load bearing, but it is a sign that it could be and it needs to be confirmed before you try to knock it down.<ref>https://cottagelife.com/design-diy/how-to-tell-if-a-wall-is-load-bearing/</ref>",
+                    "#*If you see ceiling or floor joists at the edges of the wall, then it’s definitely a load bearing wall.",
+                    "#Review the blueprints if you have them. If you have the original blueprints of the building, there should be a key that includes markings to indicate which walls are load bearing. Look for an “S” which means “Structural” near walls, joists, and other features on the blueprint. Look for the wall you plan to knock down and determine whether it’s structural or not.<ref>https://www.budgetdumpster.com/blog/how-to-tell-wall-load-bearing/</ref>",
+                    "#*[[Learn to Read Blueprints|Read the blueprints]] closely to look for indicators that a wall is load bearing. Use the key to identify structural features.",
+                    "#Have the wall inspected by a structural engineer to be sure. The best way to determine that a wall isn’t load bearing is to hire a structural engineer to come out and inspect it. They’ll be able to analyze the structure and confirm whether or not it’s safe for you to knock down the wall.<ref>https://medium.com/@preppycarpenter/5-ways-to-identify-a-load-bearing-wall-de8af28d94cb</ref>",
+                    "#*Look online for structural engineers or engineering firms you can pay to inspect your wall.",
+                    "===Protecting the Rooms===",
+                    "#Clear the rooms on both sides of the wall. Take out any furniture, rugs, decor, and anything else from the room so they’re not in the way and they don’t get any dust or dirt on them. Make sure the rooms on both sides of the wall are completely empty.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#*Be sure to take down anything that may be hanging on the wall as well.",
+                    "#Lay down a plastic tarp over the floor to protect it. Once the rooms are clear, put down enough plastic tarp to cover all of the floors and baseboards so they’re protected from any dust, dirt, and debris that may get on them from the wall being knocked down. Use masking tape to seal the edges of the tarp and connect them to the other walls.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#*You can also use plastic drop cloths, but make sure there aren’t any gaps between them.",
+                    "#*Find tarps and drop cloths at home improvement stores, paint supply stores, and online.",
+                    "#Hang plastic sheeting in the doorways to block off the room. Taking down the wall can release a lot of dust and dirt in the air, which can escape into adjacent rooms through the doorways. Use masking tape to hang plastic sheets over the entrances so the room is sealed and dust is contained inside of it.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>",
+                    "#*Tape the sheets to the top of the doorways so they hang down over the opening.",
+                    "#Cover any vents in the rooms to keep dust from escaping. Place towels or plastic sheets over the air vents in the room so dust isn’t distributed to the other rooms in the building. Use masking tape to seal the edges of the vents.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>",
+                    "#*Keep any ceiling fans turned off to minimize the dust being shifted around.{{greenbox:'''Tip:''' Turn off the air conditioning if you can to reduce the amount of dust that’s sucked into the system.}}",
+                    "===Removing the Wall===",
+                    "#Put on gloves, safety glasses, and a face mask to protect yourself. Knocking down a wall will produce lots of dust and dirt that you don’t want to breathe in or get into your eyes. Put on safety glasses and a face mask for safety. You’ll also want to protect your hands by wearing a sturdy pair of work gloves.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#*You can find work gloves, safety glasses, and face masks at home improvement stores, at department stores, and online.",
+                    "#Shut off power to the room before you start working. Flip the breaker that controls electricity to the room so you can knock down the wall without the risk of shocking yourself. Even if you don’t see electrical outlets on the wall, then you need to make sure there isn’t a live current before you begin working.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "#*Test the outlets on the wall and the light switches in the rooms on both sides of the wall take to make sure the power is off.",
+                    "#Score the paint and caulk where the wall meets the ceiling. Use a utility knife or a sharp knife to cut a line along where the wall meets the ceiling to make it easier to knock down the wall. Make sure the cut is deep and penetrates the paint and caulk that connects the wall and ceiling together.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>",
+                    "#*Scoring the ceiling will help prevent the wall you’re knocking down from pulling down the ceiling.",
+                    "#Make holes in the drywall with a sledgehammer. Strike the wall with a sledgehammer to make large holes in it. If you strike a wall stud, aim your next blow to the side of where you hit so you can strike the drywall.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "#*It will be much easier to remove the studs once you take down all of the drywall.{{greenbox:'''Warning:''' Be very careful when you’re swinging a sledgehammer. Always check to make sure the area is clear of any other people before you swing..}}",
+                    "#Remove the pieces of drywall by hand. As you break the drywall with the sledgehammer, remove the pieces and dispose of them. Use your hands to pull off the pieces of drywall stuck to the studs until all of the drywall is gone.<ref>https://www.homebuilding.co.uk/knocking-down-internal-walls/</ref>",
+                    "#*Use the sledgehammer to break up the drywall to make it easier to remove by hand.",
+                    "#*Remove all of the drywall on 1 side of the wall, then repeat the process on the other side of the wall.",
+                    "#Bash the studs out of the way with the sledgehammer. Once the drywall is out of the way, use the sledgehammer to strike the studs and break them up into pieces. Pick up the pieces as you remove them and place them into the trash. Continue breaking the studs into pieces and removing them until the entire wall is gone.<ref>https://youtu.be/zjtI-sHUsoA?t=312</ref>[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "#*Strike the studs from the side to break them into pieces.",
+                    "#*Use a pry bar to pull the stud out of the wall if necessary.",
+                    "==Warnings==",
+                    "*Wear work gloves, safety glasses, and a face mask when you’re knocking down a wall.",
+                    "*Always check your surroundings before you swing a sledgehammer.",
+                    "==Things You’ll Need==",
+                    "*Plastic tarp",
+                    "*Masking tape",
+                    "*Utility knife",
+                    "*Sledgehammer",
+                    "*Work gloves, safety glasses, and face mask",
+                    "*Pry bar (optional)",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly.",
+                    "",
+                    "== Steps ==",
+                    "=== Prepare to Knock Down Your Wall ===",
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house. It helps to go into the attic, measure and see if the wall is underneath any supports.  If the wall is underneath supports for the structure above, the only way to remove the wall is to install a reinforcing beams.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>[[Image:Knock Down a Wall Step 1.jpg|center]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 3.jpg|center]]",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.[[Image:Knock Down a Wall Step 4.jpg|center]]",
+                    "=== Knock Down Your Wall ===",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 5.jpg|center]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.<ref>https://www.directline.com/home-cover/how-to-knock-down-a-wall</ref>[[Image:Knock Down a Wall Step 8.jpg|center]]",
+                    "",
+                    "== Tips ==",
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house.",
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water.",
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process.  If a large piece of drywall falls on a wood, linoleum or tile floor it will damage it.  You can also use cardboard to protect the floor.",
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building.  It helps to put a box fan in the closest window to push the dust out of the room, and keep the door and other windows open so that fresh air can come in.  Keep a vacuum with you and vacuum everything to keep the debris from getting tracked all over the home as people walk.",
+                    "",
+                    "== Warnings ==",
+                    "* A reciprocating saw can be difficult to control. If you feel you cannot safely operate the saw, then use a manual saw or have someone else operate the reciprocating saw.",
+                    "* Wear safety equipment. Safety glasses or goggles will prevent dust or debris from getting in your eyes. Safety gloves will prevent you from getting splinters.",
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match.",
+                    "* There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "== Things You'll Need ==",
+                    "* Pen or pencil",
+                    "* Crowbar",
+                    "* Utility knife",
+                    "* Hammer",
+                    "* Reciprocating saw",
+                    "* Sheets of plastic or bed sheets"
+                ]
+            }
+        },
+        {
+            "id": "26927994",
+            "user": "Votebot",
+            "timestamp": "09:51, 10 August 2019",
+            "anon": false,
+            "size": "(6,196 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Wear safety equipment. Safety glasses or goggles will prevent dust or debris from getting in your eyes. Safety gloves will prevent you from getting splinters."
+                ],
+                "removed": [
+                    "* Wear safety equipment. Safety glasses or goggles will prevent dust or debris from getting in your eyes. Safety gloves will prevent you from getting splinters."
+                ]
+            }
+        },
+        {
+            "id": "26905594",
+            "user": "Seymour Edits",
+            "timestamp": "18:14, 5 August 2019",
+            "anon": false,
+            "size": "(6,196 bytes)",
+            "change": 472,
+            "summary": "(Added sources for the wikihaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house. It helps to go into the attic, measure and see if the wall is underneath any supports.  If the wall is underneath supports for the structure above, the only way to remove the wall is to install a reinforcing beams.<ref>https://www.washingtonpost.com/news/where-we-live/wp/2015/09/15/what-you-need-to-know-before-knocking-down-that-wall-in-your-home/</ref>[[Image:Knock Down a Wall Step 1.jpg|center]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 3.jpg|center]]",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 5.jpg|center]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.<ref>https://www.budgetdumpster.com/blog/knocking-down-a-wall/</ref>[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/g2487/5-things-to-beware-of-before-demolishing-a-wall/</ref>[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.<ref>https://www.directline.com/home-cover/how-to-knock-down-a-wall</ref>[[Image:Knock Down a Wall Step 8.jpg|center]]",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house. It helps to go into the attic, measure and see if the wall is underneath any supports.  If the wall is underneath supports for the structure above, the only way to remove the wall is to install a reinforcing beams. [[Image:Knock Down a Wall Step 1.jpg|center]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.[[Image:Knock Down a Wall Step 3.jpg|center]]",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.[[Image:Knock Down a Wall Step 5.jpg|center]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.[[Image:Knock Down a Wall Step 8.jpg|center]]",
+                    "== References ==",
+                    "* [http://property.timesonline.co.uk/tol/life_and_style/property/article617333.ece http://property.timesonline.co.uk/tol/life_and_style/property/article617333.ece]"
+                ]
+            }
+        },
+        {
+            "id": "26299794",
+            "user": "MiscBot",
+            "timestamp": "03:02, 29 March 2019",
+            "anon": false,
+            "size": "(5,724 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "26033366",
+            "user": "MiscBot",
+            "timestamp": "12:20, 14 February 2019",
+            "anon": false,
+            "size": "(5,735 bytes)",
+            "change": -248,
+            "summary": "(Automatic link maintenance: cleaning up links to references that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://wcfcourier.com/lifestyles/home-and-garden/decorating/house_plans/article_a5c020d2-32f6-11e0-afa9-001cc4c002e0.html http://wcfcourier.com/lifestyles/home-and-garden/decorating/house_plans/article_a5c020d2-32f6-11e0-afa9-001cc4c002e0.html]"
+                ]
+            }
+        },
+        {
+            "id": "25761620",
+            "user": "Votebot",
+            "timestamp": "10:10, 16 December 2018",
+            "anon": false,
+            "size": "(5,983 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "25421815",
+            "user": "Votebot",
+            "timestamp": "09:13, 15 October 2018",
+            "anon": false,
+            "size": "(5,983 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ],
+                "removed": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ]
+            }
+        },
+        {
+            "id": "25389614",
+            "user": "104.129.198.141",
+            "timestamp": "23:28, 9 October 2018",
+            "anon": true,
+            "size": "(5,983 bytes)",
+            "change": 413,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process.  If a large piece of drywall falls on a wood, linoleum or tile floor it will damage it.  You can also use cardboard to protect the floor.",
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building.  It helps to put a box fan in the closest window to push the dust out of the room, and keep the door and other windows open so that fresh air can come in.  Keep a vacuum with you and vacuum everything to keep the debris from getting tracked all over the home as people walk."
+                ],
+                "removed": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process.",
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building."
+                ]
+            }
+        },
+        {
+            "id": "25389599",
+            "user": "104.129.198.141",
+            "timestamp": "23:23, 9 October 2018",
+            "anon": true,
+            "size": "(5,570 bytes)",
+            "change": 215,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house. It helps to go into the attic, measure and see if the wall is underneath any supports.  If the wall is underneath supports for the structure above, the only way to remove the wall is to install a reinforcing beams. [[Image:Knock Down a Wall Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.[[Image:Knock Down a Wall Step 1.jpg|center]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "24875500",
+            "user": "WikiHowUser20220204205835",
+            "timestamp": "11:08, 9 July 2018",
+            "anon": false,
+            "size": "(5,355 bytes)",
+            "change": -22,
+            "summary": "(RCP reverted edits by Axel BorgDuca (talk) to  revision #24592615 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "1. Tear Down The Wall"
+                ]
+            }
+        },
+        {
+            "id": "24875219",
+            "user": "Axel BorgDuca",
+            "timestamp": "10:50, 9 July 2018",
+            "anon": false,
+            "size": "(5,377 bytes)",
+            "change": 22,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "1. Tear Down The Wall"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24592615",
+            "user": "Votebot",
+            "timestamp": "09:24, 16 May 2018",
+            "anon": false,
+            "size": "(5,355 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "21242205",
+            "user": "Flickety",
+            "timestamp": "23:31, 29 October 2016",
+            "anon": false,
+            "size": "(5,355 bytes)",
+            "change": -16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Walls and Ceilings]]"
+                ],
+                "removed": [
+                    "[[Category:Interior Walls Ceilings and Floors]]"
+                ]
+            }
+        },
+        {
+            "id": "21230315",
+            "user": "Flickety",
+            "timestamp": "02:42, 28 October 2016",
+            "anon": false,
+            "size": "(5,371 bytes)",
+            "change": 51,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Interior Walls Ceilings and Floors]]",
+                    "[[Category:Brickwork and Stone Masonry]]"
+                ],
+                "removed": [
+                    "",
+                    "[[Category:Walls Fences and Decks]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "20405268",
+            "user": "Votebot",
+            "timestamp": "08:41, 14 June 2016",
+            "anon": false,
+            "size": "(5,320 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match."
+                ],
+                "removed": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "20287554",
+            "user": "Votebot",
+            "timestamp": "08:35, 25 May 2016",
+            "anon": false,
+            "size": "(5,320 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "19688219",
+            "user": "Votebot",
+            "timestamp": "09:44, 22 February 2016",
+            "anon": false,
+            "size": "(5,320 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match."
+                ],
+                "removed": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "19110676",
+            "user": "Votebot",
+            "timestamp": "09:41, 22 December 2015",
+            "anon": false,
+            "size": "(5,320 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "18827695",
+            "user": "Suresh mendon",
+            "timestamp": "11:55, 10 November 2015",
+            "anon": false,
+            "size": "(5,320 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of re-flooring all the open areas to match."
+                ],
+                "removed": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "18182886",
+            "user": "Votebot",
+            "timestamp": "08:52, 8 August 2015",
+            "anon": false,
+            "size": "(5,319 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ],
+                "removed": [
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "18084220",
+            "user": "MiscBot",
+            "timestamp": "03:13, 29 July 2015",
+            "anon": false,
+            "size": "(5,319 bytes)",
+            "change": -112,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.[[Image:Knock Down a Wall Step 1.jpg|center]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.[[Image:Knock Down a Wall Step 2.jpg|center]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.[[Image:Knock Down a Wall Step 3.jpg|center]]",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.[[Image:Knock Down a Wall Step 4.jpg|center]]",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.[[Image:Knock Down a Wall Step 5.jpg|center]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.[[Image:Knock Down a Wall Step 6.jpg|center]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.[[Image:Knock Down a Wall Step 7.jpg|center]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.[[Image:Knock Down a Wall Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.<br><br>[[Image:Knock Down a Wall Step 1.jpg|center|550px]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.<br><br>[[Image:Knock Down a Wall Step 2.jpg|center|550px]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.<br><br>[[Image:Knock Down a Wall Step 3.jpg|center|550px]]",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.<br><br>[[Image:Knock Down a Wall Step 4.jpg|center|550px]]",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.<br><br>[[Image:Knock Down a Wall Step 5.jpg|center|550px]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.<br><br>[[Image:Knock Down a Wall Step 6.jpg|center|550px]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.<br><br>[[Image:Knock Down a Wall Step 7.jpg|center|550px]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.<br><br>[[Image:Knock Down a Wall Step 8.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17420802",
+            "user": "Keller A. Teal",
+            "timestamp": "13:01, 26 May 2015",
+            "anon": false,
+            "size": "(5,431 bytes)",
+            "change": 28,
+            "summary": "(→‎Warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  In homes built before 1978, one of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "17420785",
+            "user": "Keller A. Teal",
+            "timestamp": "12:55, 26 May 2015",
+            "anon": false,
+            "size": "(5,403 bytes)",
+            "change": 0,
+            "summary": "(→‎Warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1983 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ],
+                "removed": [
+                    "* In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed."
+                ]
+            }
+        },
+        {
+            "id": "17311375",
+            "user": "Votebot",
+            "timestamp": "15:07, 10 May 2015",
+            "anon": false,
+            "size": "(5,403 bytes)",
+            "change": -5,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "* There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall."
+                ],
+                "removed": [
+                    "* In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "* There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "17293302",
+            "user": "Anna",
+            "timestamp": "15:51, 7 May 2015",
+            "anon": false,
+            "size": "(5,408 bytes)",
+            "change": 1705,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "* In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer and other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "* There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "* Also remember that when you remove walls, the footprint of the wall will remain because flooring went in ''after'' the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match.",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "17293151",
+            "user": "Picka90",
+            "timestamp": "15:25, 7 May 2015",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": -2397,
+            "summary": "(RCP reverted edits by Keller A. Teal (talk) to  revision #13133716 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "",
+                    "The article above takes little note of the hazards involved in knocking out walls in older homes.  In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, to provide fire resistance, plaster and, later, drywall  and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer & other rather horrid respiratory system ailments.  This is not to be taken lightly.   Health and safety codes insist that a certified asbestos removal contractor be called in to remove asbestos safely before interfering with the integrity of walls.",
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "17291758",
+            "user": "Keller A. Teal",
+            "timestamp": "13:41, 7 May 2015",
+            "anon": false,
+            "size": "(6,100 bytes)",
+            "change": -18,
+            "summary": "(Adds the health and safety concerns of disturbing the integrity of walls and some other practical caveats.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Picka90",
+            "exact_contribution": {
+                "added": [
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ],
+                "removed": [
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together as one unit to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls, are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "17291643",
+            "user": "Keller A. Teal",
+            "timestamp": "13:39, 7 May 2015",
+            "anon": false,
+            "size": "(6,118 bytes)",
+            "change": 18,
+            "summary": "(→‎Sources and Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Picka90",
+            "exact_contribution": {
+                "added": [
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together as one unit to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls, are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ],
+                "removed": [
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "17291541",
+            "user": "Keller A. Teal",
+            "timestamp": "13:37, 7 May 2015",
+            "anon": false,
+            "size": "(6,100 bytes)",
+            "change": 2397,
+            "summary": "(Adding health and safety hazards associated with knocking down walls and other practical concerns)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Picka90",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "The article above takes little note of the hazards involved in knocking out walls in older homes.  In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, to provide fire resistance, plaster and, later, drywall  and the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer & other rather horrid respiratory system ailments.  This is not to be taken lightly.   Health and safety codes insist that a certified asbestos removal contractor be called in to remove asbestos safely before interfering with the integrity of walls.",
+                    "There are other non-health related concerns.  Before removing any walls, a structural engineer must be called in to assess how the roof and / or upper story will be supported if support walls are removed.   Consequently, engineered beams and side supports for those beams to rest on must be added.  But even this may not be enough to prevent the home from collapse. As originally built, the joists, studs, walls, roof, and foundation of the house were meant to work together to ensure that the house stays together.  Removing one of the key elements risks serious trouble.  Four-ply laminate or steel beams, which can be quite expensive, and which are often used to replace walls are no real substitute for studs placed every 12\" and nailed into the joists above and below.  Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.",
+                    "It is also necessary to remember that when walls are removed, the footprint of that wall will remain because flooring went in AFTER the walls were in place and it will more than likely not  be at the same level as the existing flooring.  Furthermore, once separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "17291119",
+            "user": "SarahB",
+            "timestamp": "13:20, 7 May 2015",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": -1793,
+            "summary": "(RCP reverted edits by 68.45.7.29 (talk) to  revision #13133716 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "The article above takes little note of the hazards involved in knocking out walls in older homes.  In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, & the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer & other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.  Also remember that when you remove walls, the footprint of the wall will remain because flooring went in AFTER the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ]
+            }
+        },
+        {
+            "id": "17290920",
+            "user": "68.45.7.29",
+            "timestamp": "12:55, 7 May 2015",
+            "anon": true,
+            "size": "(5,496 bytes)",
+            "change": 1793,
+            "summary": "(Added some caveats about removing walls in homes built before 1978 and a few more realistic reminders of what people face when they remove walls.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "The article above takes little note of the hazards involved in knocking out walls in older homes.  In homes built before 1978 and sometimes later since code changes in some places were grandfathered in,  there are serious health hazards associated in knocking out plaster or drywall.  One of those hazards involves lead.  There will likely be layers of lead paint underneath the recent coats and lead dust will be released if the surface of those walls is disturbed.  But an even worse hazard lurks in those walls.  After 1920, plaster and later drywall, & the drywall compound used to bed taped joints between drywall sheets were impregnated with asbestos, now a banned substance because it caused lung cancer, stomach cancer & other rather horrid respiratory system ailments.  This is not to be taken lightly.   Universal building code insists that a certified asbestos removal contractor be called in to remove asbestos safely before you can proceed.",
+                    "There are other non-health related concerns.  If support walls are removed, there is nothing to support the roof and / or upper story somehow so engineered beams and supports for those beams to rest on must be added.  Four-ply laminate or  steel beams are quite expensive.   Another crucial concern is that if the home has a combination hip-gable roof, the joists run not just in one direction but two, so just about every wall in the home may be a support wall.  Also remember that when you remove walls, the footprint of the wall will remain because flooring went in AFTER the walls were in place that won't be at the same level as the existing flooring.  In addition, separate rooms originally had different flooring materials, so once walls are removed there will be the added expense of reflooring all the open areas to match."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13133716",
+            "user": "Votebot",
+            "timestamp": "16:16, 31 March 2014",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house."
+                ],
+                "removed": [
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house."
+                ]
+            }
+        },
+        {
+            "id": "12848575",
+            "user": "Votebot",
+            "timestamp": "18:55, 28 February 2014",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process."
+                ],
+                "removed": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process."
+                ]
+            }
+        },
+        {
+            "id": "12430938",
+            "user": "Votebot",
+            "timestamp": "21:57, 17 January 2014",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ],
+                "removed": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ]
+            }
+        },
+        {
+            "id": "12386008",
+            "user": "Jamie",
+            "timestamp": "21:11, 13 January 2014",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": -9,
+            "summary": "(Reverted edits by 2.99.168.89 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "Yo mama!"
+                ]
+            }
+        },
+        {
+            "id": "12385938",
+            "user": "2.99.168.89",
+            "timestamp": "20:57, 13 January 2014",
+            "anon": true,
+            "size": "(3,712 bytes)",
+            "change": 9,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "Yo mama!"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11986258",
+            "user": "Votebot",
+            "timestamp": "17:47, 3 December 2013",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building."
+                ],
+                "removed": [
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building."
+                ]
+            }
+        },
+        {
+            "id": "11665287",
+            "user": "Votebot",
+            "timestamp": "19:20, 3 November 2013",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": -4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ]
+            }
+        },
+        {
+            "id": "11455051",
+            "user": "Votebot",
+            "timestamp": "16:09, 19 October 2013",
+            "anon": false,
+            "size": "(3,707 bytes)",
+            "change": 4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house."
+                ],
+                "removed": [
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house."
+                ]
+            }
+        },
+        {
+            "id": "10939439",
+            "user": "Wikiphoto",
+            "timestamp": "00:26, 28 August 2013",
+            "anon": false,
+            "size": "(3,703 bytes)",
+            "change": 72,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.<br><br>[[Image:Knock Down a Wall Step 1.jpg|center|550px]]",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.<br><br>[[Image:Knock Down a Wall Step 2.jpg|center|550px]]",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.<br><br>[[Image:Knock Down a Wall Step 3.jpg|center|550px]]",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.<br><br>[[Image:Knock Down a Wall Step 4.jpg|center|550px]]",
+                    "=== Knock Down Your Wall ===",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.<br><br>[[Image:Knock Down a Wall Step 5.jpg|center|550px]]",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.<br><br>[[Image:Knock Down a Wall Step 6.jpg|center|550px]]",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.<br><br>[[Image:Knock Down a Wall Step 7.jpg|center|550px]]",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.<br><br>[[Image:Knock Down a Wall Step 8.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# [[Image:Knock Down a Wall Step 1.jpg|right|300px]]Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.",
+                    "# [[Image:Knock Down a Wall Step 2.jpg|right|300px]]Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.",
+                    "# [[Image:Knock Down a Wall Step 3.jpg|right|300px]]Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.",
+                    "# [[Image:Knock Down a Wall Step 4.jpg|right|300px]]Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.",
+                    "=== Knock Down Your Wall ===",
+                    "# [[Image:Knock Down a Wall Step 5.jpg|right|300px]]Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.",
+                    "# [[Image:Knock Down a Wall Step 6.jpg|right|300px]]Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.",
+                    "# [[Image:Knock Down a Wall Step 7.jpg|right|300px]]Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.",
+                    "# [[Image:Knock Down a Wall Step 8.jpg|right|300px]]Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be."
+                ]
+            }
+        },
+        {
+            "id": "10939437",
+            "user": "Wikiphoto",
+            "timestamp": "00:26, 28 August 2013",
+            "anon": false,
+            "size": "(3,631 bytes)",
+            "change": 362,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly.",
+                    "# [[Image:Knock Down a Wall Step 1.jpg|right|300px]]Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.",
+                    "# [[Image:Knock Down a Wall Step 2.jpg|right|300px]]Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.",
+                    "# [[Image:Knock Down a Wall Step 3.jpg|right|300px]]Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.",
+                    "# [[Image:Knock Down a Wall Step 4.jpg|right|300px]]Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.",
+                    "# [[Image:Knock Down a Wall Step 5.jpg|right|300px]]Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.",
+                    "# [[Image:Knock Down a Wall Step 6.jpg|right|300px]]Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.",
+                    "# [[Image:Knock Down a Wall Step 7.jpg|right|300px]]Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.",
+                    "# [[Image:Knock Down a Wall Step 8.jpg|right|300px]]Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be."
+                ],
+                "removed": [
+                    "[[Image:Rubble.jpg|thumb|right|251px]]Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly.",
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be."
+                ]
+            }
+        },
+        {
+            "id": "10935583",
+            "user": "Votebot",
+            "timestamp": "17:06, 27 August 2013",
+            "anon": false,
+            "size": "(3,269 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process."
+                ],
+                "removed": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process."
+                ]
+            }
+        },
+        {
+            "id": "10789148",
+            "user": "Votebot",
+            "timestamp": "16:54, 12 August 2013",
+            "anon": false,
+            "size": "(3,269 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ],
+                "removed": [
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water."
+                ]
+            }
+        },
+        {
+            "id": "9746333",
+            "user": "Votebot",
+            "timestamp": "16:41, 29 April 2013",
+            "anon": false,
+            "size": "(3,269 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house.",
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process."
+                ],
+                "removed": [
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process.",
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house."
+                ]
+            }
+        },
+        {
+            "id": "8062718",
+            "user": "Kas1999",
+            "timestamp": "02:45, 10 July 2012",
+            "anon": false,
+            "size": "(3,269 bytes)",
+            "change": 39,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Rubble.jpg|thumb|right|251px]]Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly.",
+                    ""
+                ],
+                "removed": [
+                    "Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly."
+                ]
+            }
+        },
+        {
+            "id": "6262281",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "16:35, 25 June 2011",
+            "anon": false,
+            "size": "(3,230 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Walls Fences and Decks]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5963600",
+            "user": "WRM",
+            "timestamp": "14:00, 4 May 2011",
+            "anon": false,
+            "size": "(3,193 bytes)",
+            "change": 3193,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Knocking down a wall will add a feeling of space to any room. Knocking down a wall can also add value to a structure. There are certain methods and precautions to be aware of when knocking down a wall. Follow these steps on how to knock down a wall safely and correctly.",
+                    "== Steps ==",
+                    "",
+                    "=== Prepare to Knock Down Your Wall ===",
+                    "# Consult with your builder or blueprints regarding the structure. Determine if the area you want to knock down is a structural component of the house. Removing a wall that is pivotal to keeping your house upright would affect the integrity of the building and could result in a collapse of the house.",
+                    "# Turn off the electricity. Turning of your electricity will eliminate getting electrocuted while in the process of knocking down your wall.",
+                    "# Remove trim from the area. With a crowbar, pry any trim from around the ceiling or floor.",
+                    "# Outline the area. If you're tearing down a section of the wall, outline the area with a pen or pencil to serve as a reference. This will help you avoid tearing down a part of the wall you meant to keep.",
+                    "",
+                    "=== Knock Down Your Wall ===",
+                    "# Cut out the area you're tearing down with a utility knife. Cut through the drywall along the lines you drew with your pen or pencil.",
+                    "# Knock through the drywall with a hammer. As you knock through the drywall, pull the drywall off of the studs.",
+                    "# Remove the studs. Cut through the studs with a reciprocating saw to remove them. A reciprocating saw is a portable power saw with a blade that moves up and down very fast to cut through the wood studs.",
+                    "# Clean up any excess debris. This can include nails sticking out where the studs were, or squaring up the edges and corners of where the wall used to be.",
+                    "",
+                    "== Tips ==",
+                    "* Enclose the area you're working in with old bedsheets or large sheets of plastic to eliminate dust throughout the building.",
+                    "* Protect the floor around the area you're working with old bedsheets or large sheets of plastic. The covering will protect the floor and simplify the clean up process.",
+                    "* Be careful not to damage the trim while removing it. It could be used in another part of your house.",
+                    "* If you're tearing down a wall near a kitchen or bathroom, be aware of any plumbing that could be in the wall. If there is plumbing present, turn off the water.",
+                    "",
+                    "== Warnings ==",
+                    "* A reciprocating saw can be difficult to control. If you feel you cannot safely operate the saw, then use a manual saw or have someone else operate the reciprocating saw.",
+                    "* Wear safety equipment. Safety glasses or goggles will prevent dust or debris from getting in your eyes. Safety gloves will prevent you from getting splinters.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Pen or pencil",
+                    "* Crowbar",
+                    "* Utility knife",
+                    "* Hammer",
+                    "* Reciprocating saw",
+                    "* Sheets of plastic or bed sheets",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://property.timesonline.co.uk/tol/life_and_style/property/article617333.ece http://property.timesonline.co.uk/tol/life_and_style/property/article617333.ece]",
+                    "* [http://wcfcourier.com/lifestyles/home-and-garden/decorating/house_plans/article_a5c020d2-32f6-11e0-afa9-001cc4c002e0.html http://wcfcourier.com/lifestyles/home-and-garden/decorating/house_plans/article_a5c020d2-32f6-11e0-afa9-001cc4c002e0.html]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,540 @@
+{
+    "title": "Check-Earthing-at-Home",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:32:29.439832",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33691900",
+            "user": "Votebot",
+            "timestamp": "08:51, 23 September 2025",
+            "anon": false,
+            "size": "(9,499 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never use an uninsulated wire or multimeter since you could get seriously shocked or electrocuted."
+                ],
+                "removed": [
+                    "*Never use an uninsulated wire or multimeter since you could get seriously shocked or electrocuted."
+                ]
+            }
+        },
+        {
+            "id": "33491578",
+            "user": "Seymour Edits",
+            "timestamp": "03:10, 17 June 2025",
+            "anon": false,
+            "size": "(9,499 bytes)",
+            "change": 112,
+            "summary": "(Added and updated sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#[[Strip-Wire|Strip]] {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3483613/</ref>[[Image:Check Earthing at Home Step 8.jpg|center]]",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/Trnsfrmr.pdf</ref>[[Image:Check Earthing at Home Step 9.jpg|center]]",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty.<ref>https://www.electricaltechnology.org/2024/03/test-grounding-earthing-multimeter.html#testing-the-grounding-earthing-system-using-a-multimeter</ref> Otherwise, the outlet is safe to use.<ref>https://www.energy.gov/energysaver/detecting-air-leaks</ref>[[Image:Check Earthing at Home Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#[[Strip-Wire|Strip]] {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>[[Image:Check Earthing at Home Step 8.jpg|center]]",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>www.usbr.gov/tsc/techreferences/mands/mands-pdfs/Trnsfrmr.pdf</ref>[[Image:Check Earthing at Home Step 9.jpg|center]]",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://www.energy.gov/energysaver/detecting-air-leaks</ref>[[Image:Check Earthing at Home Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33175583",
+            "user": "MiscBot",
+            "timestamp": "17:54, 24 February 2025",
+            "anon": false,
+            "size": "(9,387 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33007238",
+            "user": "Votebot",
+            "timestamp": "09:47, 18 December 2024",
+            "anon": false,
+            "size": "(9,368 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Call a trained electrician if you don’t feel comfortable testing your home for earthing on your own."
+                ],
+                "removed": [
+                    "*Call a trained electrician if you don’t feel comfortable testing your home for earthing on your own."
+                ]
+            }
+        },
+        {
+            "id": "32936048",
+            "user": "Votebot",
+            "timestamp": "09:47, 17 November 2024",
+            "anon": false,
+            "size": "(9,368 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never use an uninsulated wire or multimeter since you could get seriously shocked or electrocuted."
+                ],
+                "removed": [
+                    "*Never use an uninsulated wire or multimeter since you could get seriously shocked or electrocuted."
+                ]
+            }
+        },
+        {
+            "id": "32505560",
+            "user": "WikiHow Projects",
+            "timestamp": "13:11, 14 May 2024",
+            "anon": false,
+            "size": "(9,368 bytes)",
+            "change": 103,
+            "summary": "(Adding internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#[[Strip-Wire|Strip]] {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a [[Use-a-Digital-Multimeter|digital multimeter]], cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 5.jpg|center]]",
+                    "#Take a reading while the leads are in the live and neutral ports of an [[Test-an-Outlet-with-a-Multimeter|outlet]]. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 7.jpg|center]]",
+                    "#*Start by [[Test-a-Multimeter|testing your multimeter]] on an outlet that you know works so you can see what a normal reading looks like."
+                ],
+                "removed": [
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 5.jpg|center]]",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 7.jpg|center]]",
+                    "#*Start by testing your multimeter on an outlet that you know works so you can see what a normal reading looks like."
+                ]
+            }
+        },
+        {
+            "id": "31705962",
+            "user": "Seymour Edits",
+            "timestamp": "01:36, 13 June 2023",
+            "anon": false,
+            "size": "(9,265 bytes)",
+            "change": 195,
+            "summary": "(Removed/Added sources for the wikiHaus content team; Removed bad/inaccurate info)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Screw a 100-watt bulb into a base socket. Look for a standard lightbulb that has a 100-watt output on it. Then check your local hardware store for a standalone base socket to screw your lightbulb into. Choose one that already has 2 wires attached to it so you don’t have to use your own. Position the end of the lightbulb inside the socket and rotate it clockwise to secure it to the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>[[Image:Check Earthing at Home Step 1.jpg|center]]",
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/earthing-and-bonding/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 5.jpg|center]]",
+                    "#Plug the red and black leads into the matching ports on the multimeter. Your multimeter will have red and black leads that connect to the ports on the bottom of the machine. Attach the end of the red lead to the port labeled with  “V”, “Ω,” or “+”  and plug the black lead into the port labeled “COM” or “-” so you can check your outlet.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 6.jpg|center]]",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Check Earthing at Home Step 7.jpg|center]]",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>[[Image:Check Earthing at Home Step 8.jpg|center]]",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>www.usbr.gov/tsc/techreferences/mands/mands-pdfs/Trnsfrmr.pdf</ref>[[Image:Check Earthing at Home Step 9.jpg|center]]",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://www.energy.gov/energysaver/detecting-air-leaks</ref>[[Image:Check Earthing at Home Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Screw a 100-watt bulb into a base socket. Look for a standard lightbulb that has a 100-watt output on it. Then check your local hardware store for a standalone base socket to screw your lightbulb into. Choose one that already has 2 wires attached to it so you don’t have to use your own. Position the end of the lightbulb inside the socket and rotate it clockwise to secure it to the base.<ref>http://support.enjayworld.com/support/solutions/articles/163422-electrical-and-earthing-considerations</ref>[[Image:Check Earthing at Home Step 1.jpg|center]]",
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>[[Image:Check Earthing at Home Step 5.jpg|center]]",
+                    "#Plug the red and black leads into the matching ports on the multimeter. Your multimeter will have red and black leads that connect to the ports on the bottom of the machine. Attach the end of the red lead to the port labeled with  “V”, “Ω,” or “+”  and plug the black lead into the port labeled “COM” or “-” so you can check your outlet.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>[[Image:Check Earthing at Home Step 6.jpg|center]]",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://youtu.be/3JEZ4vYVEqM?t=230</ref>[[Image:Check Earthing at Home Step 7.jpg|center]]",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://youtu.be/3JEZ4vYVEqM?t=240</ref>[[Image:Check Earthing at Home Step 8.jpg|center]]",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>https://youtu.be/QIdComJj7QU?t=96</ref>[[Image:Check Earthing at Home Step 9.jpg|center]]",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://youtu.be/QIdComJj7QU?t=120</ref>[[Image:Check Earthing at Home Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31395341",
+            "user": "Rainy M",
+            "timestamp": "22:54, 27 February 2023",
+            "anon": false,
+            "size": "(9,070 bytes)",
+            "change": 47,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Check Earthing at Home|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31335226",
+            "user": "Seymour Edits",
+            "timestamp": "17:12, 7 February 2023",
+            "anon": false,
+            "size": "(9,023 bytes)",
+            "change": 39,
+            "summary": "(added expert citation tag)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the smaller slot. Then take the second wire on the base and put it into the neutral slot, which is the larger port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref><ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Check Earthing at Home Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the smaller slot. Then take the second wire on the base and put it into the neutral slot, which is the larger port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>[[Image:Check Earthing at Home Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31334863",
+            "user": "Seymour Edits",
+            "timestamp": "14:12, 7 February 2023",
+            "anon": false,
+            "size": "(8,984 bytes)",
+            "change": -11,
+            "summary": "(Added expert-requested edit; please do not revert)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the smaller slot. Then take the second wire on the base and put it into the neutral slot, which is the larger port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>[[Image:Check Earthing at Home Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the larger and longer slot. Then take the second wire on the base and put it into the neutral slot, which is the smaller port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>[[Image:Check Earthing at Home Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30279746",
+            "user": "ICanGuessItLol",
+            "timestamp": "04:47, 8 February 2022",
+            "anon": false,
+            "size": "(8,995 bytes)",
+            "change": -86,
+            "summary": "(RCP reverted edits by 47.221.238.254 (talk) to  revision #28661600 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*Warning: Illustrations do not represent North American electrical outlets properly.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "30279390",
+            "user": "47.221.238.254",
+            "timestamp": "00:45, 8 February 2022",
+            "anon": true,
+            "size": "(9,081 bytes)",
+            "change": 86,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "*Warning: Illustrations do not represent North American electrical outlets properly.",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28661600",
+            "user": "Votebot",
+            "timestamp": "09:35, 26 September 2020",
+            "anon": false,
+            "size": "(8,995 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "*Call a trained electrician if you don’t feel comfortable testing your home for earthing on your own."
+                ],
+                "removed": [
+                    "*Call a trained electrician if you don’t feel comfortable testing your home for earthing on your own."
+                ]
+            }
+        },
+        {
+            "id": "28592331",
+            "user": "Votebot",
+            "timestamp": "09:40, 9 September 2020",
+            "anon": false,
+            "size": "(8,995 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    ""
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "26936399",
+            "user": "Wikivisual",
+            "timestamp": "10:26, 12 August 2019",
+            "anon": false,
+            "size": "(8,992 bytes)",
+            "change": 501,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Screw a 100-watt bulb into a base socket. Look for a standard lightbulb that has a 100-watt output on it. Then check your local hardware store for a standalone base socket to screw your lightbulb into. Choose one that already has 2 wires attached to it so you don’t have to use your own. Position the end of the lightbulb inside the socket and rotate it clockwise to secure it to the base.<ref>http://support.enjayworld.com/support/solutions/articles/163422-electrical-and-earthing-considerations</ref>[[Image:Check Earthing at Home Step 1.jpg|center]]",
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}[[Image:Check Earthing at Home Step 2.jpg|center]]",
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the larger and longer slot. Then take the second wire on the base and put it into the neutral slot, which is the smaller port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>[[Image:Check Earthing at Home Step 3.jpg|center]]",
+                    "#Plug the wires into the live and earthing ports to see if the lightbulb turns on. Pull both wires out from their ports to begin. Take one of the wires and place it in the earthing port, which is the third hole at the top or bottom of your outlet. Place the second wire in the live port again to see if the lightbulb illuminates. If the lightbulb has the same intensity as your first test, then the outlet is properly earthed. If the light doesn’t come on at all, then the outlet doesn’t have any earthing.<ref>https://youtu.be/3JEZ4vYVEqM?t=150</ref>[[Image:Check Earthing at Home Step 4.jpg|center]]",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>[[Image:Check Earthing at Home Step 5.jpg|center]]",
+                    "#Plug the red and black leads into the matching ports on the multimeter. Your multimeter will have red and black leads that connect to the ports on the bottom of the machine. Attach the end of the red lead to the port labeled with  “V”, “Ω,” or “+”  and plug the black lead into the port labeled “COM” or “-” so you can check your outlet.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>[[Image:Check Earthing at Home Step 6.jpg|center]]",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://youtu.be/3JEZ4vYVEqM?t=230</ref>[[Image:Check Earthing at Home Step 7.jpg|center]]",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://youtu.be/3JEZ4vYVEqM?t=240</ref>[[Image:Check Earthing at Home Step 8.jpg|center]]",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>https://youtu.be/QIdComJj7QU?t=96</ref>[[Image:Check Earthing at Home Step 9.jpg|center]]",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://youtu.be/QIdComJj7QU?t=120</ref>[[Image:Check Earthing at Home Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Screw a 100-watt bulb into a base socket. Look for a standard lightbulb that has a 100-watt output on it. Then check your local hardware store for a standalone base socket to screw your lightbulb into. Choose one that already has 2 wires attached to it so you don’t have to use your own. Position the end of the lightbulb inside the socket and rotate it clockwise to secure it to the base.<ref>http://support.enjayworld.com/support/solutions/articles/163422-electrical-and-earthing-considerations</ref>",
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}",
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the larger and longer slot. Then take the second wire on the base and put it into the neutral slot, which is the smaller port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>",
+                    "#Plug the wires into the live and earthing ports to see if the lightbulb turns on. Pull both wires out from their ports to begin. Take one of the wires and place it in the earthing port, which is the third hole at the top or bottom of your outlet. Place the second wire in the live port again to see if the lightbulb illuminates. If the lightbulb has the same intensity as your first test, then the outlet is properly earthed. If the light doesn’t come on at all, then the outlet doesn’t have any earthing.<ref>https://youtu.be/3JEZ4vYVEqM?t=150</ref>",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>",
+                    "#Plug the red and black leads into the matching ports on the multimeter. Your multimeter will have red and black leads that connect to the ports on the bottom of the machine. Attach the end of the red lead to the port labeled with  “V”, “Ω,” or “+”  and plug the black lead into the port labeled “COM” or “-” so you can check your outlet.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://youtu.be/3JEZ4vYVEqM?t=230</ref>",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://youtu.be/3JEZ4vYVEqM?t=240</ref>",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>https://youtu.be/QIdComJj7QU?t=96</ref>",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://youtu.be/QIdComJj7QU?t=120</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26840649",
+            "user": "Kyle Hall",
+            "timestamp": "20:59, 25 July 2019",
+            "anon": false,
+            "size": "(8,491 bytes)",
+            "change": 159,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*The light won’t turn on if the outlet you’re testing isn’t connected to power.{{greenbox:'''Warning:''' Never hold a wire that’s exposed or has cracked insulation while it’s plugged in since you could shock or electrocute yourself.}}"
+                ],
+                "removed": [
+                    "#*The light won’t turn on if the outlet you’re testing isn’t connected to power."
+                ]
+            }
+        },
+        {
+            "id": "26840647",
+            "user": "Kyle Hall",
+            "timestamp": "20:58, 25 July 2019",
+            "anon": false,
+            "size": "(8,332 bytes)",
+            "change": -134,
+            "summary": "(moving substep to green box)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "#*Never hold a wire that’s exposed or has cracked insulation while it’s plugged in since you could shock or electrocute yourself."
+                ]
+            }
+        },
+        {
+            "id": "26840624",
+            "user": "Christy17",
+            "timestamp": "20:46, 25 July 2019",
+            "anon": false,
+            "size": "(8,466 bytes)",
+            "change": 31,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Safety]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26840371",
+            "user": "Seymour Edits",
+            "timestamp": "19:31, 25 July 2019",
+            "anon": false,
+            "size": "(8,435 bytes)",
+            "change": 161,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Avoid swapping the leads since you could cause the multimeter to short circuit.{{greenbox:'''Warning:''' Don’t use any leads that have cracks, damage, or exposed wires since you could get electrocuted while you’re testing your outlet.}}"
+                ],
+                "removed": [
+                    "#*Avoid swapping the leads since you could cause the multimeter to short circuit."
+                ]
+            }
+        },
+        {
+            "id": "26840370",
+            "user": "Seymour Edits",
+            "timestamp": "19:31, 25 July 2019",
+            "anon": false,
+            "size": "(8,274 bytes)",
+            "change": 346,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>{{greenbox:'''Tip:''' If you don’t have a wire stripper, pinch the end of the wire between the blades of a pair of scissors. Pull the wire in the opposite direction of the section you want to strip to remove the insulation. Be careful not to squeeze too hard or else you’ll cut through the wires.<ref>https://youtu.be/auMRad-8ssE?t=67</ref>}}"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "26840369",
+            "user": "WRM",
+            "timestamp": "19:30, 25 July 2019",
+            "anon": false,
+            "size": "(7,928 bytes)",
+            "change": 7928,
+            "summary": "(Adding methods, sourcing, greenboxes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Earthing is a process similar to [[Ground-an-Outlet|grounding]] that transfers discharged electricity from an appliance directly to the ground so you don’t get shocked if there’s a faulty wire. While the standard electrical code requires earthing on your system, older homes may not have earthing. If you want to check if you have proper earthing, try plugging the wires from a lightbulb base into the ports of an outlet to see if it lights up. If you want to test more accurately, use a [[Use-a-Multimeter|multimeter]] to take your readings instead.",
+                    "==Steps==",
+                    "===Testing with a Lightbulb===",
+                    "#Screw a 100-watt bulb into a base socket. Look for a standard lightbulb that has a 100-watt output on it. Then check your local hardware store for a standalone base socket to screw your lightbulb into. Choose one that already has 2 wires attached to it so you don’t have to use your own. Position the end of the lightbulb inside the socket and rotate it clockwise to secure it to the base.<ref>http://support.enjayworld.com/support/solutions/articles/163422-electrical-and-earthing-considerations</ref>",
+                    "#*Make sure the socket base is made to use with 100-watt lightbulbs. If the power rating is too strong or weak, then the test may not work.",
+                    "#Strip {{Convert|1/2|in|cm}} off the end of each wire on the base. Find the matching gauge for the wire on the base using a pair of wire strippers. Clamp one of the wires in the slot so about {{Convert|1/2|in|cm}} sticks out from the other side. Slowly pull the wire toward you to cut through the insulation and strip it so the wiring is exposed. Repeat the process for the second wire on the other side of the base.<ref>https://www.electricalknowledge.com/electricians-tools/how-to-strip-wire/</ref>",
+                    "#Push the wires on the base into the live and neutral ports of an outlet. Take either wire connected to the base and push the exposed end into the live port on your outlet, which is usually the larger and longer slot. Then take the second wire on the base and put it into the neutral slot, which is the smaller port next to the live one. If your outlet is properly working, the lightbulb will immediately turn on.<ref>https://youtu.be/3JEZ4vYVEqM?t=136</ref>",
+                    "#*The light won’t turn on if the outlet you’re testing isn’t connected to power.",
+                    "#*Never hold a wire that’s exposed or has cracked insulation while it’s plugged in since you could shock or electrocute yourself.",
+                    "#Plug the wires into the live and earthing ports to see if the lightbulb turns on. Pull both wires out from their ports to begin. Take one of the wires and place it in the earthing port, which is the third hole at the top or bottom of your outlet. Place the second wire in the live port again to see if the lightbulb illuminates. If the lightbulb has the same intensity as your first test, then the outlet is properly earthed. If the light doesn’t come on at all, then the outlet doesn’t have any earthing.<ref>https://youtu.be/3JEZ4vYVEqM?t=150</ref>",
+                    "#*If the light is dimmer than your first test, then your outlet has earthing on it, but it may be faulty. Contact an electrician to inspect your electrical system to find the source of the problem.",
+                    "",
+                    "===Checking Earthing with a Multimeter===",
+                    "#Set a multimeter to measure AC voltage. Multimeters can test various electrical components for voltage, current, and resistance. If you’re using an analog multimeter, turn the dial on the front to the letter “V” that has wavy lines next to it for AC power. If you have a digital multimeter, cycle through the settings using the buttons until you reach AC voltage. Choose the highest cutoff value for the voltage on the meter so you can get an accurate reading.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>",
+                    "#*You can buy multimeters online or from your local hardware store.",
+                    "#*Some multimeters may not have cutoff values listed on them. In that case, just switch the meter to the AC voltage setting and continue.",
+                    "#Plug the red and black leads into the matching ports on the multimeter. Your multimeter will have red and black leads that connect to the ports on the bottom of the machine. Attach the end of the red lead to the port labeled with  “V”, “Ω,” or “+”  and plug the black lead into the port labeled “COM” or “-” so you can check your outlet.<ref>https://randomnerdtutorials.com/how-to-use-a-multimeter/</ref>",
+                    "#*Avoid swapping the leads since you could cause the multimeter to short circuit.",
+                    "#Take a reading while the leads are in the live and neutral ports of an outlet. Hold the leads by the insulation wrapped around them so you don’t get shocked while you’re working. Push the pointed end of the red lead into the neutral port on the outlet, which is usually the smaller slot. Then put the end of the black lead into the live port, which is the larger and longer slot on your outlet. Check the voltage reading on the multimeter and write it down.<ref>https://youtu.be/3JEZ4vYVEqM?t=230</ref>",
+                    "#*Start by testing your multimeter on an outlet that you know works so you can see what a normal reading looks like.",
+                    "#*The ports where you attach the leads may differ depending on the type of plug you’re using. For example, on a type D or M plug, the live port is on the bottom right while the neutral port is on the bottom left.",
+                    "#Check the voltage when the leads are inserted to the live and earthing ports. Take the red lead out from the neutral port and carefully place it inside the earthing port, which is either a circular or U-shaped hole on the top or bottom of the outlet. Check the reading on the multimeter to see how many volts travel between them. Write down the measurement so you can compare your readings.<ref>https://youtu.be/3JEZ4vYVEqM?t=240</ref>",
+                    "#*If your home has earthing, then the reading should be the same as or within 5 volts of the first reading you took.",
+                    "#*If the reading between the live and earthing ports is close to 0, then you don’t have any earthing on that outlet.",
+                    "#*If your outlet doesn’t have an earthing port, then it isn’t connected and does not have earthing.",
+                    "#Test the voltage between the neutral and earthing ports on the outlet. Place the red lead in the neutral slot and the black lead into the earthing port to check the reading. The volts listed on the multimeter will be a small amount compared to the other readings you’ve taken. Write the third reading down so you know how much electricity is going between the ports.<ref>https://youtu.be/QIdComJj7QU?t=96</ref>",
+                    "#*You don’t need to test the neutral and earthing ports if you’ve already determined you don’t have earthing on the outlet.",
+                    "#Calculate the total leakage on your outlet to see if it's less than 2 V. The leakage is the number of volts that transfer from your earthing port to the outlet. Subtract the first reading you took (live to neutral) from the second (live to earthing). After solving that, add the number of volts from your third reading (neutral to earthing). If the number is greater than 2 V, then your earthing may be faulty. Otherwise, the outlet is safe to use.<ref>https://youtu.be/QIdComJj7QU?t=120</ref>",
+                    "#*For example, if your first reading was 230 V, the second reading was 231 V, and the third was 0.5 V, then your formula would be (231-230) + 0.5, which simplifies to 1.5 V.",
+                    "#*If you have faulty earthing, contact a licensed electrician to look at your electrical system to find the problem.",
+                    "",
+                    "==Tips==",
+                    "*Outlets that only have 2 ports on them are not earthed.",
+                    "==Warnings==",
+                    "*Never use an uninsulated wire or multimeter since you could get seriously shocked or electrocuted.",
+                    "*Call a trained electrician if you don’t feel comfortable testing your home for earthing on your own.",
+                    "==Things You’ll Need==",
+                    "===Using a Test Lamp===",
+                    "*100-watt lightbulb",
+                    "*Base socket",
+                    "*Wire strippers",
+                    "*Electric outlet",
+                    "===Checking Earthing with a Multimeter===",
+                    "*Multimeter",
+                    "*Electrical outlet",
+                    "==References==",
+                    "{{reflist}}",
+                    "__methods__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

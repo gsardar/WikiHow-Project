@@ -1,0 +1,1292 @@
+{
+    "title": "Change-an-Electric-Fuse",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:25:31.637783",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33874707",
+            "user": "Hopedemi",
+            "timestamp": "23:38, 4 December 2025",
+            "anon": false,
+            "size": "(9,810 bytes)",
+            "change": 1,
+            "summary": "(fixing broken references link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Reference =="
+                ]
+            }
+        },
+        {
+            "id": "33065341",
+            "user": "Bhoimus",
+            "timestamp": "05:43, 14 January 2025",
+            "anon": false,
+            "size": "(9,809 bytes)",
+            "change": -3,
+            "summary": "(reword/rm double word occurrence)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#**If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamper-proof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses."
+                ],
+                "removed": [
+                    "#**If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamper-proof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses."
+                ]
+            }
+        },
+        {
+            "id": "33017282",
+            "user": "Robalex848",
+            "timestamp": "08:32, 23 December 2024",
+            "anon": false,
+            "size": "(9,812 bytes)",
+            "change": 48,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an Electric Fuse|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32761033",
+            "user": "Hopedemi",
+            "timestamp": "00:52, 4 September 2024",
+            "anon": false,
+            "size": "(9,764 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32729897",
+            "user": "WikiHow Projects",
+            "timestamp": "11:31, 20 August 2024",
+            "anon": false,
+            "size": "(9,458 bytes)",
+            "change": 152,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#**To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.<ref>[v161396_b01]. 3 March 2021.</ref>  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for general lighting and plugs throughout your house - except for those plugs in the kitchen, dining room, clothes washer & dryer.  The #12 are for plugs in the kitchen, dining room, clothes washer and specialty or dedicated appliances such as larger room air conditioners, etc..  #10 may be used to feed an electric clothes dryer, electric water heater or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#**Put the meter probes onto the \"Common\" and \"Ohms\" jacks on the meter.  Touch the opposite ends of the probes to each other.  The meter should move to zero or close to it.  Find the thumb wheel on the meter marked Ohms Adjust or Zero Adjust.  Move the wheel to make the needle of the meter align with 0.  The continuity light is checked by touching its probes together<ref>[v161396_b01]. 3 March 2021.</ref>.  The light on it should illuminate.",
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses. It is also really straightforward.<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ],
+                "removed": [
+                    "#**To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for general lighting and plugs throughout your house - except for those plugs in the kitchen, dining room, clothes washer & dryer.  The #12 are for plugs in the kitchen, dining room, clothes washer and specialty or dedicated appliances such as larger room air conditioners, etc..  #10 may be used to feed an electric clothes dryer, electric water heater or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#**Put the meter probes onto the \"Common\" and \"Ohms\" jacks on the meter.  Touch the opposite ends of the probes to each other.  The meter should move to zero or close to it.  Find the thumb wheel on the meter marked Ohms Adjust or Zero Adjust.  Move the wheel to make the needle of the meter align with 0.  The continuity light is checked by touching its probes together.  The light on it should illuminate.",
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses."
+                ]
+            }
+        },
+        {
+            "id": "29891082",
+            "user": "Seymour Edits",
+            "timestamp": "11:41, 15 September 2021",
+            "anon": false,
+            "size": "(9,306 bytes)",
+            "change": 54,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.<ref>https://www.youtube.com/watch?v=XYd2_dpI8fI</ref>  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use.[[Image:Change an Electric Fuse Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use.[[Image:Change an Electric Fuse Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29891075",
+            "user": "Seymour Edits",
+            "timestamp": "11:37, 15 September 2021",
+            "anon": false,
+            "size": "(9,252 bytes)",
+            "change": -30,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#**If unable to visually inspect the metal link, use of a voltmeter, wiggy <ref>https://www.youtube.com/watch?v=1iHRESNMFAg</ref> or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below).",
+                    "",
+                    "== Reference ==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#**If unable to visually inspect the metal link, use of a voltmeter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below)."
+                ]
+            }
+        },
+        {
+            "id": "23448370",
+            "user": "86.175.64.39",
+            "timestamp": "17:28, 25 October 2017",
+            "anon": true,
+            "size": "(9,282 bytes)",
+            "change": -2,
+            "summary": "(how to change 30amp box)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "22704218",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "22:35, 26 June 2017",
+            "anon": false,
+            "size": "(9,284 bytes)",
+            "change": -48,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "21291818",
+            "user": "Flickety",
+            "timestamp": "23:47, 6 November 2016",
+            "anon": false,
+            "size": "(9,332 bytes)",
+            "change": 16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "19391932",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "01:45, 12 January 2016",
+            "anon": false,
+            "size": "(9,316 bytes)",
+            "change": -190,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*[[Change the Fuse in a GE Microwave]]",
+                    "*[[Repair the Thermal Fuse on an Espresso Machine]]",
+                    "*[[Lower Electricity Bills in the Summer]]"
+                ],
+                "removed": [
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*[[Change the Fuse in a GE Microwave|How to Change the Fuse in a GE Microwave]]",
+                    "*[[Repair the Thermal Fuse on an Espresso Machine|How to Repair the Thermal Fuse on an Espresso Machine]]",
+                    "*[[Lower Electricity Bills in the Summer|How to Lower Electricity Bills in the Summer]]"
+                ]
+            }
+        },
+        {
+            "id": "18102146",
+            "user": "MiscBot",
+            "timestamp": "11:21, 29 July 2015",
+            "anon": false,
+            "size": "(9,506 bytes)",
+            "change": -42,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do '''not''' need to remove covers.[[Image:Change an Electric Fuse Step 1.jpg|center]]",
+                    "# Figure out what kind of fuse needs replaced.[[Image:Change an Electric Fuse Step 2.jpg|center]]",
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use.[[Image:Change an Electric Fuse Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do '''not''' need to remove covers.<br><br>[[Image:Change an Electric Fuse Step 1.jpg|center|550px]]",
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]]",
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use.<br><br>[[Image:Change an Electric Fuse Step 3.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17970643",
+            "user": "InterwikiBot",
+            "timestamp": "19:46, 27 July 2015",
+            "anon": false,
+            "size": "(9,548 bytes)",
+            "change": -117,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:cambiar un fusible eléctrico]]",
+                    "[[ru:поменять электрический предохранитель]]"
+                ]
+            }
+        },
+        {
+            "id": "16582522",
+            "user": "MiscBot",
+            "timestamp": "17:58, 6 February 2015",
+            "anon": false,
+            "size": "(9,665 bytes)",
+            "change": -2,
+            "summary": "(Correcting spelling and/or grammar.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#**If unable to visually inspect the metal link, use of a voltmeter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below).",
+                    "#**Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked with a voltmeter \"in circuit\" or with an ohm meter or continuity tester \"out of circuit\"."
+                ],
+                "removed": [
+                    "#**If unable to visually inspect the metal link, use of a volt meter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below).",
+                    "#**Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked with a volt meter \"in circuit\" or with an ohm meter or continuity tester \"out of circuit\"."
+                ]
+            }
+        },
+        {
+            "id": "16122762",
+            "user": "Faryal_Aftab",
+            "timestamp": "10:15, 11 December 2014",
+            "anon": false,
+            "size": "(9,667 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#** The standard glass fuses, like the type \"S\" tamper-proof counterparts, are available in 15, 20 and 30 amps values.  There are also 10 and 25 amp, but are not very common."
+                ],
+                "removed": [
+                    "#** The standard glass fuses, like the type \"S\" tamperproof counterparts, are available in 15, 20 and 30 amps values.  There are also 10 and 25 amp, but are not very common."
+                ]
+            }
+        },
+        {
+            "id": "15926869",
+            "user": "Vidbot",
+            "timestamp": "12:31, 18 November 2014",
+            "anon": false,
+            "size": "(9,666 bytes)",
+            "change": -48,
+            "summary": "(Removing unavailable video from article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an Electric Fuse|}}"
+                ]
+            }
+        },
+        {
+            "id": "15902117",
+            "user": "Zygomatt",
+            "timestamp": "03:07, 15 November 2014",
+            "anon": false,
+            "size": "(9,714 bytes)",
+            "change": -34,
+            "summary": "(Reverted edits by Gerismanh (Talk); changed back to last version by Romping)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]] http://obatsakitmaagkronis.web.id"
+                ]
+            }
+        },
+        {
+            "id": "15901843",
+            "user": "Gerismanh",
+            "timestamp": "02:28, 15 November 2014",
+            "anon": false,
+            "size": "(9,748 bytes)",
+            "change": 34,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zygomatt",
+            "exact_contribution": {
+                "added": [
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]] http://obatsakitmaagkronis.web.id"
+                ],
+                "removed": [
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15721920",
+            "user": "Romping",
+            "timestamp": "15:54, 25 October 2014",
+            "anon": false,
+            "size": "(9,714 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "Zygomatt",
+            "exact_contribution": {
+                "added": [
+                    "#**Many old fuse boxes provide for MAIN and RANGE fuse holders.  The MAIN is designed for (2) 60 amp 250 volt fuses, and the range is designed for (2) 40 amp 250 volt fuses.  With the fuses and the holders still in the fusebox, touch one probe to an unpainted metal surface of the fusebox.  Locate the four small holes on the fuse holder, and press the other probe into the hole until it stops.  Check for power indication.  Repeat procedure for remaining 3 holes for this fuse holder.  The holes align with the metal caps of the fuses, and should indicate power present at ALL four holes.  Any hole without a power indication corresponds to an open fuse directly behind the hole under test."
+                ],
+                "removed": [
+                    "#**Many old fuseboxes provide for MAIN and RANGE fuse holders.  The MAIN is designed for (2) 60 amp 250 volt fuses, and the range is designed for (2) 40 amp 250 volt fuses.  With the fuses and the holders still in the fusebox, touch one probe to an unpainted metal surface of the fusebox.  Locate the four small holes on the fuse holder, and press the other probe into the hole until it stops.  Check for power indication.  Repeat procedure for remaining 3 holes for this fuse holder.  The holes align with the metal caps of the fuses, and should indicate power present at ALL four holes.  Any hole without a power indication corresponds to an open fuse directly behind the hole under test."
+                ]
+            }
+        },
+        {
+            "id": "15605732",
+            "user": "Lunar Launch",
+            "timestamp": "22:38, 11 October 2014",
+            "anon": false,
+            "size": "(9,713 bytes)",
+            "change": -47,
+            "summary": "(Edit from Article Greenhouse: CLEANUP)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuse boxes.",
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do '''not''' need to remove covers.<br><br>[[Image:Change an Electric Fuse Step 1.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "{{cleanup|date=2014-10-09}}{{format|date=2014-10-09}}Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuse boxes.",
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do NOT need to remove covers.<br><br>[[Image:Change an Electric Fuse Step 1.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15588856",
+            "user": "Anniemp",
+            "timestamp": "20:02, 9 October 2014",
+            "anon": false,
+            "size": "(9,760 bytes)",
+            "change": 53,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{cleanup|date=2014-10-09}}{{format|date=2014-10-09}}Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuse boxes."
+                ],
+                "removed": [
+                    "Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuse boxes."
+                ]
+            }
+        },
+        {
+            "id": "15585331",
+            "user": "JoySLeigh",
+            "timestamp": "15:42, 9 October 2014",
+            "anon": false,
+            "size": "(9,707 bytes)",
+            "change": 2,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuse boxes.",
+                    "#**If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamper-proof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses."
+                ],
+                "removed": [
+                    "Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuseboxes.",
+                    "#**If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamperproof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses."
+                ]
+            }
+        },
+        {
+            "id": "15531782",
+            "user": "Votebot",
+            "timestamp": "19:14, 3 October 2014",
+            "anon": false,
+            "size": "(9,705 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses."
+                ],
+                "removed": [
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses."
+                ]
+            }
+        },
+        {
+            "id": "15511581",
+            "user": "InterwikiBot",
+            "timestamp": "19:05, 1 October 2014",
+            "anon": false,
+            "size": "(9,705 bytes)",
+            "change": 80,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:поменять электрический предохранитель]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14020874",
+            "user": "Stevecon",
+            "timestamp": "14:24, 24 June 2014",
+            "anon": false,
+            "size": "(9,625 bytes)",
+            "change": 213,
+            "summary": "(→‎Steps:  Voltage ratings / testing)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#**To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for general lighting and plugs throughout your house - except for those plugs in the kitchen, dining room, clothes washer & dryer.  The #12 are for plugs in the kitchen, dining room, clothes washer and specialty or dedicated appliances such as larger room air conditioners, etc..  #10 may be used to feed an electric clothes dryer, electric water heater or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#**Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked with a volt meter \"in circuit\" or with an ohm meter or continuity tester \"out of circuit\".",
+                    "#**Remove the fuse in question and replace it with a maximum of a 40 amp fuse for the RANGE fuse holder or 60 amps for the MAIN fuse holder.  You must use fuses rated for 250 volts."
+                ],
+                "removed": [
+                    "#**To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for plugs throughout your house - except generally for those in the kitchen and dining room; and lights throughout.  The #12 are for plugs in the kitchen and dining room.  #10 may be used to feed an electric clothes dryer or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#**Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked in circuit or out of circuit via continuity test.",
+                    "#**Remove the fuse in question and replace it with a maximum of a 40 amp fuse for the RANGE fuse holder or 60 amps for the MAIN fuse holder.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "13488972",
+            "user": "InterwikiBot",
+            "timestamp": "17:02, 2 May 2014",
+            "anon": false,
+            "size": "(9,412 bytes)",
+            "change": 37,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:cambiar un fusible eléctrico]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13133984",
+            "user": "Votebot",
+            "timestamp": "16:21, 31 March 2014",
+            "anon": false,
+            "size": "(9,375 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses."
+                ],
+                "removed": [
+                    "*Using the Ohm meter or continuity test light method is the safest way to test fuses."
+                ]
+            }
+        },
+        {
+            "id": "12135789",
+            "user": "Votebot",
+            "timestamp": "19:12, 17 December 2013",
+            "anon": false,
+            "size": "(9,375 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*A visual inspection of glass fuses may not always reveal an open fuse.  Sometimes, the fuse opens in an area that can not be seen.  A meter or continuity light will reveal an opened fuse every time."
+                ],
+                "removed": [
+                    "*A visual inspection of glass fuses may not always reveal an open fuse.  Sometimes, the fuse opens in an area that can not be seen.  A meter or continuity light will reveal an opened fuse every time."
+                ]
+            }
+        },
+        {
+            "id": "12088831",
+            "user": "TJean",
+            "timestamp": "19:56, 12 December 2013",
+            "anon": false,
+            "size": "(9,375 bytes)",
+            "change": -154,
+            "summary": "(Intro reworking project. Please do not revert.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners change fuses incorrectly. Keep reading for instructions on safely checking, sizing and replacing fuses in many older residential fuseboxes."
+                ],
+                "removed": [
+                    "Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ]
+            }
+        },
+        {
+            "id": "10701654",
+            "user": "MiscBot",
+            "timestamp": "00:17, 7 August 2013",
+            "anon": false,
+            "size": "(9,529 bytes)",
+            "change": -14,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ],
+                "removed": [
+                    "{{nointroimg}}Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ]
+            }
+        },
+        {
+            "id": "9826743",
+            "user": "Votebot",
+            "timestamp": "15:41, 7 May 2013",
+            "anon": false,
+            "size": "(9,543 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*When testing fuses with an ohm meter or continuity lamp, the fuse under test must be on an insulated surface.  It must not be in you hand, either.  Failing to observe these conditions may cause erroneous results, as the surface or skin may provide an electrical path AROUND instead of THROUGH the fuse."
+                ],
+                "removed": [
+                    "*When testing fuses with an ohm meter or continuity lamp, the fuse under test must be on an insulated surface.  It must not be in you hand, either.  Failing to observe these conditions may cause erroneous results, as the surface or skin may provide an electrical path AROUND instead of THROUGH the fuse."
+                ]
+            }
+        },
+        {
+            "id": "9785338",
+            "user": "Wikiphoto",
+            "timestamp": "03:33, 3 May 2013",
+            "anon": false,
+            "size": "(9,543 bytes)",
+            "change": -40,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    ""
+                ],
+                "removed": [
+                    "[[Image:Change an Electric Fuse Intro.jpg|right|300px]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ]
+            }
+        },
+        {
+            "id": "9782080",
+            "user": "Wikiphoto",
+            "timestamp": "19:06, 2 May 2013",
+            "anon": false,
+            "size": "(9,583 bytes)",
+            "change": 28,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do NOT need to remove covers.<br><br>[[Image:Change an Electric Fuse Step 1.jpg|center|550px]]",
+                    "# Figure out what kind of fuse needs replaced.<br><br>[[Image:Change an Electric Fuse Step 2.jpg|center|550px]]",
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use.<br><br>[[Image:Change an Electric Fuse Step 3.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Change an Electric Fuse Step 1.jpg|right|300px]]Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do NOT need to remove covers.",
+                    "# [[Image:Change an Electric Fuse Step 2.jpg|right|300px]]Figure out what kind of fuse needs replaced.",
+                    "#  [[Image:Change an Electric Fuse Step 3.jpg|right|300px]]As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use."
+                ]
+            }
+        },
+        {
+            "id": "9782079",
+            "user": "Wikiphoto",
+            "timestamp": "19:05, 2 May 2013",
+            "anon": false,
+            "size": "(9,555 bytes)",
+            "change": 155,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Change an Electric Fuse Intro.jpg|right|300px]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    "#  [[Image:Change an Electric Fuse Step 1.jpg|right|300px]]Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do NOT need to remove covers.",
+                    "# [[Image:Change an Electric Fuse Step 2.jpg|right|300px]]Figure out what kind of fuse needs replaced.",
+                    "#  [[Image:Change an Electric Fuse Step 3.jpg|right|300px]]As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use."
+                ],
+                "removed": [
+                    "[[Image:Fuses 2.jpg|right|246px|thumb|Fuse box with \"Type S\" fuses]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    "#  Determine that a fuse has opened (blown) by inspecting the metal link through the glass.  You may have to open a door, but you do NOT need to remove covers.",
+                    "# Figure out what kind of fuse needs replaced.",
+                    "#  As mentioned above, another method to check fuses requires a ''continuity tester or ohm meter''.  A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester.  It must ''never'' be connected to another power source - the way a neon test light would.  Regardless of the method used (ohm meter or continuity tester), the procedure is the same, after preparing the tool for use."
+                ]
+            }
+        },
+        {
+            "id": "8888417",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "21:59, 16 December 2012",
+            "anon": false,
+            "size": "(9,400 bytes)",
+            "change": -104,
+            "summary": "(Removing broken link(s))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Connect an Electrical Distribution Board (Db)|How to Connect an Electrical Distribution Board (Db)]]"
+                ]
+            }
+        },
+        {
+            "id": "7258555",
+            "user": "Ttrimm",
+            "timestamp": "01:33, 9 February 2012",
+            "anon": false,
+            "size": "(9,504 bytes)",
+            "change": 104,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Connect an Electrical Distribution Board (Db)|How to Connect an Electrical Distribution Board (Db)]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6671358",
+            "user": "Nejc Prelovšek",
+            "timestamp": "13:03, 25 September 2011",
+            "anon": false,
+            "size": "(9,400 bytes)",
+            "change": 48,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an Electric Fuse|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5963445",
+            "user": "Stevecon",
+            "timestamp": "12:52, 4 May 2011",
+            "anon": false,
+            "size": "(9,352 bytes)",
+            "change": 19,
+            "summary": "(Added image: Fuses 2.jpg)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Fuses 2.jpg|right|246px|thumb|Fuse box with \"Type S\" fuses]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ],
+                "removed": [
+                    "[[Image:Electric thingy.jpg|thumb|right|251px]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "5963412",
+            "user": "Stevecon",
+            "timestamp": "12:44, 4 May 2011",
+            "anon": false,
+            "size": "(9,333 bytes)",
+            "change": -46,
+            "summary": "(→‎Video:   Deleted broken link to video)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Change an Electric Fuse|}}"
+                ]
+            }
+        },
+        {
+            "id": "4649603",
+            "user": "Tryme2",
+            "timestamp": "16:02, 31 May 2010",
+            "anon": false,
+            "size": "(9,379 bytes)",
+            "change": 47,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Electric thingy.jpg|thumb|right|251px]]Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ],
+                "removed": [
+                    "Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ]
+            }
+        },
+        {
+            "id": "3637431",
+            "user": "TiffanyP",
+            "timestamp": "19:37, 28 July 2009",
+            "anon": false,
+            "size": "(9,332 bytes)",
+            "change": 48,
+            "summary": "(adding video)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Change an Electric Fuse|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2780610",
+            "user": "Flickety",
+            "timestamp": "05:59, 23 November 2008",
+            "anon": false,
+            "size": "(9,284 bytes)",
+            "change": -6,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Lighting and Fans]]"
+                ]
+            }
+        },
+        {
+            "id": "2478476",
+            "user": "Ttrimm",
+            "timestamp": "10:51, 28 August 2008",
+            "anon": false,
+            "size": "(9,290 bytes)",
+            "change": 42,
+            "summary": "(Formatting changes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "# Figure out what kind of fuse needs replaced.",
+                    "#*  For the screw-in type glass and type \"S\" tamperproof [[Repair the Thermal Fuse on an Espresso Machine|fuses]]:",
+                    "#**If unable to visually inspect the metal link, use of a volt meter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below).",
+                    "#**While holding one probe or lead of the test equipment (meter, wiggy or light) to an unpainted exterior metal part of the fusebox, touch the other probe to the metal thread of the fuse holder / fuse.  This is done by pushing the probe along the outside rim of the fuse until it contacts the aluminum or copper metal in to which the fuse screws in.",
+                    "#**If you get an indication of power (120 volts indication or lamp) this is not  the fuse that has opened.  Continue checking the rest of the fuses by removing the probe from the the fuse tested, and repeating the procedure for the next fuse.",
+                    "#**A fuse that does not test to 120 volts or does not ''fully'' illuminate the lamp, is a likely candidate for replacement (meters are always preferred over test lamps as a lamp may not provide enough of a change in brilliance that can be detected by eye).",
+                    "#**Remove the fuse in doubt by turning it counter-clockwise.",
+                    "#**If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamperproof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses.",
+                    "#** The standard glass fuses, like the type \"S\" tamperproof counterparts, are available in 15, 20 and 30 amps values.  There are also 10 and 25 amp, but are not very common.",
+                    "#**To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for plugs throughout your house - except generally for those in the kitchen and dining room; and lights throughout.  The #12 are for plugs in the kitchen and dining room.  #10 may be used to feed an electric clothes dryer or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#**You will see larger wires connected to the MAIN and RANGE fuse holders, and possibly wires that connect to 2 terminals at the bottom of the fuse block.  These are usually used for an electric water heater or small panel elsewhere.  Don't worry if you don't see these wires.",
+                    "#*  For the cartridge fuse types:",
+                    "#**Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked in circuit or out of circuit via continuity test.",
+                    "#**Many old fuseboxes provide for MAIN and RANGE fuse holders.  The MAIN is designed for (2) 60 amp 250 volt fuses, and the range is designed for (2) 40 amp 250 volt fuses.  With the fuses and the holders still in the fusebox, touch one probe to an unpainted metal surface of the fusebox.  Locate the four small holes on the fuse holder, and press the other probe into the hole until it stops.  Check for power indication.  Repeat procedure for remaining 3 holes for this fuse holder.  The holes align with the metal caps of the fuses, and should indicate power present at ALL four holes.  Any hole without a power indication corresponds to an open fuse directly behind the hole under test.",
+                    "#**Check the orientation of the fuse holder by looking for the ON and / or OFF indicators in the middle of the short sides of the fuse holder.",
+                    "#**Remove the fuse holder by firmly pulling it straight out.",
+                    "#**Remove the fuse in question and replace it with a maximum of a 40 amp fuse for the RANGE fuse holder or 60 amps for the MAIN fuse holder.",
+                    "#**Return the fuse holder to the fusebox observing the orientation of the holder (if you get it wrong, simply remove it, rotate the holder 180 degrees and reinsert).",
+                    "#*  Continuity Test Light and Ohm Meter Method",
+                    "#**  Set the ohm meter to Ohms (R x 1 or R x 10 scale) / Turn the continuity tester on.",
+                    "#**Put the meter probes onto the \"Common\" and \"Ohms\" jacks on the meter.  Touch the opposite ends of the probes to each other.  The meter should move to zero or close to it.  Find the thumb wheel on the meter marked Ohms Adjust or Zero Adjust.  Move the wheel to make the needle of the meter align with 0.  The continuity light is checked by touching its probes together.  The light on it should illuminate.",
+                    "#**Remove the fuse to test from the panel completely.  All fuses must have a way for electricity to enter and exit.  Cartridge fuses have these points at the ends of their body.  They may be tested without removing them from the fuse holder. Placing the fuse or fuse in the fuse holder on a non-conductive surface, and touch a probe to each end.  A zero reading on the meter or light on the continuity tester indicates a good fuse.  Glass fuses have these points located at the center of the bottom of the fuse and the threaded sides (just like a light bulb).  Touch the probes to these points to test the fuse.  Again, we're looking for a zero reading or the continuity light to illuminate.  Lastly, the type \"S\" tamperproof fuse points are the center bottom (like the glass fuses) and any copper contact point(s) on the underside of the top of the fuse."
+                ],
+                "removed": [
+                    "{{format|date=2007-07-23}}",
+                    "#  For the screw-in type glass and type \"S\" tamperproof [[Repair the Thermal Fuse on an Espresso Machine|fuses]]:",
+                    "#*If unable to visually inspect the metal link, use of a volt meter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below).",
+                    "#*While holding one probe or lead of the test equipment (meter, wiggy or light) to an unpainted exterior metal part of the fusebox, touch the other probe to the metal thread of the fuse holder / fuse.  This is done by pushing the probe along the outside rim of the fuse until it contacts the aluminum or copper metal in to which the fuse screws in.",
+                    "#*If you get an indication of power (120 volts indication or lamp) this is not  the fuse that has opened.  Continue checking the rest of the fuses by removing the probe from the the fuse tested, and repeating the procedure for the next fuse.",
+                    "#*A fuse that does not test to 120 volts or does not ''fully'' illuminate the lamp, is a likely candidate for replacement (meters are always preferred over test lamps as a lamp may not provide enough of a change in brilliance that can be detected by eye).",
+                    "#*Remove the fuse in doubt by turning it counter-clockwise.",
+                    "#*If the fuse has ceramic or plastic threads and two small copper contacts under the head of the fuse, they are type \"S\" tamperproof fuses.  These fuses are a two piece protection system consisting of a threaded insert that is installed into the fusebox (like a regular glass fuse) and the the fuse itself that is installed into the insert.  The fuses and inserts have different threads for the different values of fuses.  The threads are such that they prevent installing a fuse with a value other than intended to protect the circuit (it is impossible to to put any fuse other than a 15 amp type \"S\" tamperproof fuse in a 15 amp insert, etc). The type \"S\" tamperproof fuse system removes the guesswork and danger of installing the wrong value fuses.",
+                    "#* The standard glass fuses, like the type \"S\" tamperproof counterparts, are available in 15, 20 and 30 amps values.  There are also 10 and 25 amp, but are not very common.",
+                    "#*To properly select glass replacement fuses, the cover of the fusebox should be removed. The 15 amp fuse is to protect #14 gauge copper wire, 20 amp fuse protect #12 copper wire, and 30 amp for #10 copper wire.  These are the most common wire sizes in the fuse box.  The #14 is the smallest wire connected to a glass fuse and the #10 is the largest wire connected to a glass fuse.  There will ''probably'' only be (2) #10 wires, (4) #12 wires and the rest #14 wires.  The #14 are used for plugs throughout your house - except generally for those in the kitchen and dining room; and lights throughout.  The #12 are for plugs in the kitchen and dining room.  #10 may be used to feed an electric clothes dryer or another small panel elsewhere - garage, etc.  These are estimates - all panels and homes differ, and this should only be considered a starting point.",
+                    "#*You will see larger wires connected to the MAIN and RANGE fuse holders, and possibly wires that connect to 2 terminals at the bottom of the fuse block.  These are usually used for an electric water heater or small panel elsewhere.  Don't worry if you don't see these wires.",
+                    "#  For the cartridge fuse types:",
+                    "#*Generally, cartridge fuses do not have any visual indicator when they open.  They must be checked in circuit or out of circuit via continuity test.",
+                    "#*Many old fuseboxes provide for MAIN and RANGE fuse holders.  The MAIN is designed for (2) 60 amp 250 volt fuses, and the range is designed for (2) 40 amp 250 volt fuses.  With the fuses and the holders still in the fusebox, touch one probe to an unpainted metal surface of the fusebox.  Locate the four small holes on the fuse holder, and press the other probe into the hole until it stops.  Check for power indication.  Repeat procedure for remaining 3 holes for this fuse holder.  The holes align with the metal caps of the fuses, and should indicate power present at ALL four holes.  Any hole without a power indication corresponds to an open fuse directly behind the hole under test.",
+                    "#*Check the orientation of the fuse holder by looking for the ON and / or OFF indicators in the middle of the short sides of the fuse holder.",
+                    "#*Remove the fuse holder by firmly pulling it straight out.",
+                    "#*Remove the fuse in question and replace it with a maximum of a 40 amp fuse for the RANGE fuse holder or 60 amps for the MAIN fuse holder.",
+                    "#*Return the fuse holder to the fusebox observing the orientation of the holder (if you get it wrong, simply remove it, rotate the holder 180 degrees and reinsert).",
+                    "#  Continuity Test Light and Ohm Meter Method",
+                    "#  Set the ohm meter to Ohms (R x 1 or R x 10 scale) / Turn the continuity tester on.",
+                    "#*Put the meter probes onto the \"Common\" and \"Ohms\" jacks on the meter.  Touch the opposite ends of the probes to each other.  The meter should move to zero or close to it.  Find the thumb wheel on the meter marked Ohms Adjust or Zero Adjust.  Move the wheel to make the needle of the meter align with 0.  The continuity light is checked by touching its probes together.  The light on it should illuminate.",
+                    "#*Remove the fuse to test from the panel completely.  All fuses must have a way for electricity to enter and exit.  Cartridge fuses have these points at the ends of their body.  They may be tested without removing them from the fuse holder. Placing the fuse or fuse in the fuse holder on a non-conductive surface, and touch a probe to each end.  A zero reading on the meter or light on the continuity tester indicates a good fuse.  Glass fuses have these points located at the center of the bottom of the fuse and the threaded sides (just like a light bulb).  Touch the probes to these points to test the fuse.  Again, we're looking for a zero reading or the continuity light to illuminate.  Lastly, the type \"S\" tamperproof fuse points are the center bottom (like the glass fuses) and any copper contact point(s) on the underside of the top of the fuse."
+                ]
+            }
+        },
+        {
+            "id": "1847436",
+            "user": "Six Degrees",
+            "timestamp": "06:47, 25 March 2008",
+            "anon": false,
+            "size": "(9,248 bytes)",
+            "change": 117,
+            "summary": "(weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Here's how to safely check, size and replace [[Change a Fuse in a Wylex Standard Fuse Box|fuses]] in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to [[Make a Circuit|circuit]] breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    "#  For the screw-in type glass and type \"S\" tamperproof [[Repair the Thermal Fuse on an Espresso Machine|fuses]]:"
+                ],
+                "removed": [
+                    "Here's how to safely check, size and replace fuses in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to circuit breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience.",
+                    "#  For the screw-in type glass and type \"S\" tamperproof fuses:"
+                ]
+            }
+        },
+        {
+            "id": "1204446",
+            "user": "Tderouin",
+            "timestamp": "14:56, 3 October 2007",
+            "anon": false,
+            "size": "(9,131 bytes)",
+            "change": 16,
+            "summary": "(Changing format of Format)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{format|date=2007-07-23}}"
+                ],
+                "removed": [
+                    "{{format}}"
+                ]
+            }
+        },
+        {
+            "id": "956010",
+            "user": "Benrubes",
+            "timestamp": "04:29, 23 July 2007",
+            "anon": false,
+            "size": "(9,115 bytes)",
+            "change": 3,
+            "summary": "(format request)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{format}}",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*[[Change the Fuse in a GE Microwave|How to Change the Fuse in a GE Microwave]]",
+                    "*[[Repair the Thermal Fuse on an Espresso Machine|How to Repair the Thermal Fuse on an Espresso Machine]]",
+                    "*[[Lower Electricity Bills in the Summer|How to Lower Electricity Bills in the Summer]]"
+                ],
+                "removed": [
+                    "*  [[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]",
+                    "*  [[Change the Fuse in a GE Microwave|How to Change the Fuse in a GE Microwave]]",
+                    "*  [[Repair the Thermal Fuse on an Espresso Machine|How to Repair the Thermal Fuse on an Espresso Machine]]",
+                    "*  [[Lower Electricity Bills in the Summer|How to Lower Electricity Bills in the Summer]]"
+                ]
+            }
+        },
+        {
+            "id": "955482",
+            "user": "Trackstar24",
+            "timestamp": "01:48, 23 July 2007",
+            "anon": false,
+            "size": "(9,112 bytes)",
+            "change": 404,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "951978",
+            "user": "Stevecon",
+            "timestamp": "21:23, 21 July 2007",
+            "anon": false,
+            "size": "(8,708 bytes)",
+            "change": 114,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If unable to visually inspect the metal link, use of a volt meter, wiggy [http://www.squared.com/us/products/machine_safety.nsf/unid/58870E11543C976885256D500050927B/$file/WiggyTech.htm] or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below)."
+                ],
+                "removed": [
+                    "#*If unable to visually inspect the metal link, use of a volt meter, wiggy or neon test light should resolve the problem by following the steps below (they may also be checked via continuity test light, this procedure is detailed further below)."
+                ]
+            }
+        },
+        {
+            "id": "950931",
+            "user": "Stevecon",
+            "timestamp": "12:58, 21 July 2007",
+            "anon": false,
+            "size": "(8,594 bytes)",
+            "change": 11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Here's how to safely check, size and replace fuses in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to circuit breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, only \"reset\" and as such offer convenience."
+                ],
+                "removed": [
+                    "Here's how to safely check, size and replace fuses in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to circuit breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, and as such are more convenient."
+                ]
+            }
+        },
+        {
+            "id": "950926",
+            "user": "Stevecon",
+            "timestamp": "12:56, 21 July 2007",
+            "anon": false,
+            "size": "(8,583 bytes)",
+            "change": -1,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "950925",
+            "user": "Stevecon",
+            "timestamp": "12:56, 21 July 2007",
+            "anon": false,
+            "size": "(8,584 bytes)",
+            "change": 289,
+            "summary": "(→‎Tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*After you've reviewed all the circuits in the fusebox, it may be wise to have the type \"S\" tamperproof fuse system installed.  An electrician might be the best source for this installation, only because if the wrong insert is installed, it will not come out without damaging the fusebox."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "950918",
+            "user": "Stevecon",
+            "timestamp": "12:50, 21 July 2007",
+            "anon": false,
+            "size": "(8,295 bytes)",
+            "change": 285,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Here's how to safely check, size and replace fuses in many older residential fuseboxes.  Contrary to popular belief, fuses offer superior protection to circuit breakers.  The downfall is that many times, homeowners simply install the \"next size up\" fuse when a circuit is overloaded.  Circuit breakers seldom need to be changed, and as such are more convenient.",
+                    "*The \"continuity test light\" or \"ohm meter\" method of checking fuses is the safest way to check fuses - as the test is conducted on the de-energized fuse while it is out of the fusebox.  For this reason, it is highly recommended."
+                ],
+                "removed": [
+                    "Here's how to safely check, size and replace fuses in many homes' fusebox.",
+                    "*The \"continuity test light\" or \"ohm meter\" method of checking fuses is the safest way to check fuses - as the test is conducted on the de-energized fuse while it is out of the fusebox.  For this reason, it is highly recommended."
+                ]
+            }
+        },
+        {
+            "id": "950910",
+            "user": "Stevecon",
+            "timestamp": "12:46, 21 July 2007",
+            "anon": false,
+            "size": "(8,010 bytes)",
+            "change": 270,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950897",
+            "user": "Stevecon",
+            "timestamp": "12:36, 21 July 2007",
+            "anon": false,
+            "size": "(7,740 bytes)",
+            "change": 37,
+            "summary": "(→‎Warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950892",
+            "user": "Stevecon",
+            "timestamp": "12:34, 21 July 2007",
+            "anon": false,
+            "size": "(7,703 bytes)",
+            "change": 200,
+            "summary": "(→‎Tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950890",
+            "user": "Stevecon",
+            "timestamp": "12:32, 21 July 2007",
+            "anon": false,
+            "size": "(7,503 bytes)",
+            "change": 163,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950169",
+            "user": "Stevecon",
+            "timestamp": "02:11, 21 July 2007",
+            "anon": false,
+            "size": "(7,340 bytes)",
+            "change": 57,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950161",
+            "user": "Stevecon",
+            "timestamp": "02:06, 21 July 2007",
+            "anon": false,
+            "size": "(7,283 bytes)",
+            "change": 260,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950133",
+            "user": "Stevecon",
+            "timestamp": "01:54, 21 July 2007",
+            "anon": false,
+            "size": "(7,023 bytes)",
+            "change": 9,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950130",
+            "user": "Stevecon",
+            "timestamp": "01:52, 21 July 2007",
+            "anon": false,
+            "size": "(7,014 bytes)",
+            "change": 232,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "950110",
+            "user": "Stevecon",
+            "timestamp": "01:44, 21 July 2007",
+            "anon": false,
+            "size": "(6,782 bytes)",
+            "change": 6782,
+            "summary": "(New page: Here's how to safely check, size and replace fuses in many homes' fusebox. Category:Electrical Lighting and Fans == Steps == #  Determine that a fuse has opened (blown) by inspecting t...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        }
+    ],
+    "discussions": []
+}

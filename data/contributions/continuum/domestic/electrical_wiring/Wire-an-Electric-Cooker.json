@@ -1,0 +1,490 @@
+{
+    "title": "Wire-an-Electric-Cooker",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:36:57.228647",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34068769",
+            "user": "Maintenance script",
+            "timestamp": "20:39, 18 February 2026",
+            "anon": false,
+            "size": "(13,635 bytes)",
+            "change": 0,
+            "summary": "(Protected \"Wire an Electric Cooker\": Protecting page (infinite) ([Edit=Staff and Admins only] (indefinite) [Move=Staff and Admins only] (indefinite)))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "33738676",
+            "user": "MiscBot",
+            "timestamp": "12:00, 10 October 2025",
+            "anon": false,
+            "size": "(13,635 bytes)",
+            "change": 2,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Get a double pole isolating switch installed by an electrician if you don’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>https://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 2.jpg|center]]",
+                    "#Find a clear spot for the control unit used to wire the cooker to the wall. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>https://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Get a double pole isolating switch installed by an electrician if you don’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 2.jpg|center]]",
+                    "#Find a clear spot for the control unit used to wire the cooker to the wall. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33505930",
+            "user": "Votebot",
+            "timestamp": "08:49, 23 June 2025",
+            "anon": false,
+            "size": "(13,633 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Working with electrical wires is dangerous, so don’t try it unless you’re aware of the risk of electrical shock. Take proper safety precautions by testing for an electrical current and never working with live wires."
+                ],
+                "removed": [
+                    "*Working with electrical wires is dangerous, so don’t try it unless you’re aware of the risk of electrical shock. Take proper safety precautions by testing for an electrical current and never working with live wires."
+                ]
+            }
+        },
+        {
+            "id": "33346003",
+            "user": "Seymour Edits",
+            "timestamp": "13:21, 24 April 2025",
+            "anon": false,
+            "size": "(13,633 bytes)",
+            "change": -8,
+            "summary": "(replaced bad references for wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Have a separate 32-amp circuit installed by an electrician. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.<ref>https://ibuilders-en.techinfus.com/duhovye-shkafy/podklyuchenie/</ref>[[Image:Wire an Electric Cooker Step 1.jpg|center]]",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.<ref>https://ibuilders-en.techinfus.com/duhovye-shkafy/podklyuchenie/</ref>[[Image:Wire an Electric Cooker Step 5.jpg|center]]",
+                    "#Loosen the terminal screws inside the outlet box. These screws hold the electrical wires in place. The cooker’s terminal box will likely have 6 screws, but you only need to loosen 3 of them. Use a crosshead screwdriver on the top right, bottom right, and middle left screws. Turn them counterclockwise to loosen them.<ref>https://ibuilders-en.techinfus.com/duhovye-shkafy/podklyuchenie/</ref>[[Image:Wire an Electric Cooker Step 6.jpg|center]]",
+                    "#Plug the power wires into the outlet box’s terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://ibuilders-en.techinfus.com/duhovye-shkafy/podklyuchenie/</ref>[[Image:Wire an Electric Cooker Step 7.jpg|center]]",
+                    "#Tighten the screws to close the terminals and outlet box. Use a crosshead screwdriver to turn the terminal screws clockwise, tightening them. Make sure they are tight enough that you can’t pull the wires out of the terminals. When you’re done, cover the outlet box, tightening any screws used to hold it in place.<ref>https://ibuilders-en.techinfus.com/duhovye-shkafy/podklyuchenie/</ref>[[Image:Wire an Electric Cooker Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Have a separate 32-amp circuit installed by an electrician. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.<ref>https://www.youtube.com/watch?v=Ra7JtiRH2tw&feature=youtu.be&t=26</ref>[[Image:Wire an Electric Cooker Step 1.jpg|center]]",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=65</ref>[[Image:Wire an Electric Cooker Step 5.jpg|center]]",
+                    "#Loosen the terminal screws inside the outlet box. These screws hold the electrical wires in place. The cooker’s terminal box will likely have 6 screws, but you only need to loosen 3 of them. Use a crosshead screwdriver on the top right, bottom right, and middle left screws. Turn them counterclockwise to loosen them.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=118</ref>[[Image:Wire an Electric Cooker Step 6.jpg|center]]",
+                    "#Plug the power wires into the outlet box’s terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>[[Image:Wire an Electric Cooker Step 7.jpg|center]]",
+                    "#Tighten the screws to close the terminals and outlet box. Use a crosshead screwdriver to turn the terminal screws clockwise, tightening them. Make sure they are tight enough that you can’t pull the wires out of the terminals. When you’re done, cover the outlet box, tightening any screws used to hold it in place.<ref>https://www.youtube.com/watch?v=Z2IfBInJPj8&feature=youtu.be&t=114</ref>[[Image:Wire an Electric Cooker Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32285074",
+            "user": "Votebot",
+            "timestamp": "09:48, 13 February 2024",
+            "anon": false,
+            "size": "(13,641 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker."
+                ],
+                "removed": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker."
+                ]
+            }
+        },
+        {
+            "id": "31996145",
+            "user": "Votebot",
+            "timestamp": "08:42, 12 October 2023",
+            "anon": false,
+            "size": "(13,641 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker."
+                ],
+                "removed": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker."
+                ]
+            }
+        },
+        {
+            "id": "31889232",
+            "user": "Votebot",
+            "timestamp": "08:42, 26 August 2023",
+            "anon": false,
+            "size": "(13,641 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker.",
+                    "== Warnings ==",
+                    "*Incorrect wiring can short out your cooker or even lead to an electrical fire. Make absolutely sure the wiring is correct before enabling the power."
+                ],
+                "removed": [
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker.",
+                    "==Warnings==",
+                    "*Incorrect wiring can short out your cooker or even lead to an electrical fire. Make absolutely sure the wiring is correct before enabling the power."
+                ]
+            }
+        },
+        {
+            "id": "31734022",
+            "user": "Seymour Edits",
+            "timestamp": "16:19, 23 June 2023",
+            "anon": false,
+            "size": "(13,639 bytes)",
+            "change": 48,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire an Electric Cooker|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31153972",
+            "user": "Votebot",
+            "timestamp": "09:58, 10 December 2022",
+            "anon": false,
+            "size": "(13,591 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "30556389",
+            "user": "Seymour Edits",
+            "timestamp": "21:39, 18 May 2022",
+            "anon": false,
+            "size": "(13,589 bytes)",
+            "change": 306,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled. Flip the switch to shut off the power. <ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 4.jpg|center]]",
+                    "#*After deactivating the switch, check the manufacturer's recommendations for installation. <ref>[v162126_b01]. 14 February 2022.</ref>",
+                    "#*Follow an electrical code book and rules for safe when wiring and installation.<ref>[v162126_b01]. 14 February 2022.</ref>",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.<ref>[v162126_b01]. 14 February 2022.</ref><ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled. Flip the switch to shut off the power.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 4.jpg|center]]",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27413814",
+            "user": "Wikivisual",
+            "timestamp": "15:41, 26 November 2019",
+            "anon": false,
+            "size": "(13,283 bytes)",
+            "change": 719,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Have a separate 32-amp circuit installed by an electrician. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.<ref>https://www.youtube.com/watch?v=Ra7JtiRH2tw&feature=youtu.be&t=26</ref>[[Image:Wire an Electric Cooker Step 1.jpg|center]]",
+                    "#Get a double pole isolating switch installed by an electrician if you don’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 2.jpg|center]]",
+                    "#Find a clear spot for the control unit used to wire the cooker to the wall. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>[[Image:Wire an Electric Cooker Step 3.jpg|center]]",
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled. Flip the switch to shut off the power.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 4.jpg|center]]",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=65</ref>[[Image:Wire an Electric Cooker Step 5.jpg|center]]",
+                    "#Loosen the terminal screws inside the outlet box. These screws hold the electrical wires in place. The cooker’s terminal box will likely have 6 screws, but you only need to loosen 3 of them. Use a crosshead screwdriver on the top right, bottom right, and middle left screws. Turn them counterclockwise to loosen them.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=118</ref>[[Image:Wire an Electric Cooker Step 6.jpg|center]]",
+                    "#Plug the power wires into the outlet box’s terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>[[Image:Wire an Electric Cooker Step 7.jpg|center]]",
+                    "#Tighten the screws to close the terminals and outlet box. Use a crosshead screwdriver to turn the terminal screws clockwise, tightening them. Make sure they are tight enough that you can’t pull the wires out of the terminals. When you’re done, cover the outlet box, tightening any screws used to hold it in place.<ref>https://www.youtube.com/watch?v=Z2IfBInJPj8&feature=youtu.be&t=114</ref>[[Image:Wire an Electric Cooker Step 8.jpg|center]]",
+                    "#Turn the isolator switches off to completely shut down the electricity. Walk over to the switch and flip both toggles to the off position. Doing this will cut all electricity to the cooker’s control unit installed nearby. You will get a chance to test this when you plug a multimeter into the unit’s exposed terminals.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=703</ref>[[Image:Wire an Electric Cooker Step 9.jpg|center]]",
+                    "#Test the control unit using a [[Use a Digital Multimeter|multimeter]] to ensure it isn’t active. Walk over to the cooker control unit situated on the wall. Turn on a handheld digital multimeter after plugging in its red and black leads. Set it to V~, or AC voltage.  Press the tip of the black probe into the terminal for the ground wire, then slot the red probe into the live wire slot. If the unit isn’t receiving activity, the multimeter will stay silent and display a 0 on its screen.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=145</ref>[[Image:Wire an Electric Cooker Step 10.jpg|center]]",
+                    "#Remove the screws to open the unit’s wire terminals. The unit has small outlets similar to the ones in the cooker’s terminal box. A standard control unit has 3 terminals. Turn the screw on each terminal counterclockwise to loosen and remove it. You will then see open slots to fit the power wires.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=231</ref>[[Image:Wire an Electric Cooker Step 11.jpg|center]]",
+                    "#Join the wires to the wall-mounted control unit’s terminals. Look inside the control unit to see approximately 3 wires of different colors. Basically, match the cooker’s wire colors to the ones in the control unit. To insert them, rest the insulated part of each wire flat against the unit, then push the exposed ends into the open slots. Use a screwdriver to tuck the ends in so they touch the exposed ends of the unit's wires.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>[[Image:Wire an Electric Cooker Step 12.jpg|center]]",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the wall-mounted control unit back up.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>[[Image:Wire an Electric Cooker Step 13.jpg|center]]",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>[[Image:Wire an Electric Cooker Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Have a separate 32-amp circuit installed by an electrician. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.<ref>https://www.youtube.com/watch?v=Ra7JtiRH2tw&feature=youtu.be&t=26</ref>",
+                    "#Get a double pole isolating switch installed by an electrician if you don’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Find a clear spot for the control unit used to wire the cooker to the wall. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled. Flip the switch to shut off the power.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=65</ref>",
+                    "#Loosen the terminal screws inside the outlet box. These screws hold the electrical wires in place. The cooker’s terminal box will likely have 6 screws, but you only need to loosen 3 of them. Use a crosshead screwdriver on the top right, bottom right, and middle left screws. Turn them counterclockwise to loosen them.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=118</ref>",
+                    "#Plug the power wires into the outlet box’s terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>",
+                    "#Tighten the screws to close the terminals and outlet box. Use a crosshead screwdriver to turn the terminal screws clockwise, tightening them. Make sure they are tight enough that you can’t pull the wires out of the terminals. When you’re done, cover the outlet box, tightening any screws used to hold it in place.<ref>https://www.youtube.com/watch?v=Z2IfBInJPj8&feature=youtu.be&t=114</ref>",
+                    "#Turn the isolator switches off to completely shut down the electricity. Walk over to the switch and flip both toggles to the off position. Doing this will cut all electricity to the cooker’s control unit installed nearby. You will get a chance to test this when you plug a multimeter into the unit’s exposed terminals.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=703</ref>",
+                    "#Test the control unit using a [[Use a Digital Multimeter|multimeter]] to ensure it isn’t active. Walk over to the cooker control unit situated on the wall. Turn on a handheld digital multimeter after plugging in its red and black leads. Set it to V~, or AC voltage.  Press the tip of the black probe into the terminal for the ground wire, then slot the red probe into the live wire slot. If the unit isn’t receiving activity, the multimeter will stay silent and display a 0 on its screen.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=145</ref>",
+                    "#Remove the screws to open the unit’s wire terminals. The unit has small outlets similar to the ones in the cooker’s terminal box. A standard control unit has 3 terminals. Turn the screw on each terminal counterclockwise to loosen and remove it. You will then see open slots to fit the power wires.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=231</ref>",
+                    "#Join the wires to the wall-mounted control unit’s terminals. Look inside the control unit to see approximately 3 wires of different colors. Basically, match the cooker’s wire colors to the ones in the control unit. To insert them, rest the insulated part of each wire flat against the unit, then push the exposed ends into the open slots. Use a screwdriver to tuck the ends in so they touch the exposed ends of the unit's wires.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the wall-mounted control unit back up.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27163553",
+            "user": "Sophia B",
+            "timestamp": "17:20, 2 October 2019",
+            "anon": false,
+            "size": "(12,564 bytes)",
+            "change": 1,
+            "summary": "(Grammatical edit.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If the wires are too long, you can [[Cut Wire|trim]] off the ends using pliers. Strip off the insulation using a [[Strip Wire|wire stripping tool]] if you need to expose more of the wire."
+                ],
+                "removed": [
+                    "",
+                    "#*If the wires are too long, you can [[Cut Wire|trim]] off the ends using pliers. Strip off the insulation using a [[Strip Wire|wire stripping tool]] if you need to expose more of a wire."
+                ]
+            }
+        },
+        {
+            "id": "27162549",
+            "user": "Seymour Edits",
+            "timestamp": "12:48, 2 October 2019",
+            "anon": false,
+            "size": "(12,563 bytes)",
+            "change": 380,
+            "summary": "(Adding ref links.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Have a separate 32-amp circuit installed by an electrician. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.<ref>https://www.youtube.com/watch?v=Ra7JtiRH2tw&feature=youtu.be&t=26</ref>",
+                    "#*In the U.S., the correct amperage rating is 240 volts.",
+                    "#Get a double pole isolating switch installed by an electrician if you don’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Find a clear spot for the control unit used to wire the cooker to the wall. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled. Flip the switch to shut off the power.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=65</ref>",
+                    "#Plug the power wires into the outlet box’s terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>",
+                    "#Join the wires to the wall-mounted control unit’s terminals. Look inside the control unit to see approximately 3 wires of different colors. Basically, match the cooker’s wire colors to the ones in the control unit. To insert them, rest the insulated part of each wire flat against the unit, then push the exposed ends into the open slots. Use a screwdriver to tuck the ends in so they touch the exposed ends of the unit's wires.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the wall-mounted control unit back up.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.<ref>https://www.ronhazelton.com/projects/how_to_install_an_electric_wall_oven</ref>"
+                ],
+                "removed": [
+                    "#Check that you have a separate 32-amp circuit for the cooker. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.",
+                    "#Purchase a double pole isolating switch if your home doesn’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Find an open, clear spot near the cooker’s wall-mounted control unit. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled.",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.",
+                    "#Plug the power wires into the corresponding terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>",
+                    "#Join the wires to the control unit’s terminals. Look inside the control unit to see approximately 3 wires of different colors. Basically, match the cooker’s wire colors to the ones in the control unit. To insert them, rest the insulated part of each wire flat against the unit, then push the exposed ends into the open slots. Use a screwdriver to tuck the ends in so they touch the exposed ends of the unit's wires.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the control unit back up. When you’re done, you can turn the power back on to test out your new cooker.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects."
+                ]
+            }
+        },
+        {
+            "id": "27159013",
+            "user": "Seymour Edits",
+            "timestamp": "17:15, 1 October 2019",
+            "anon": false,
+            "size": "(12,183 bytes)",
+            "change": 156,
+            "summary": "(Updating flow and clarifying wiring.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "An electric cooker, or stove, is a handy but powerful kitchen appliance. A standard one can have 4 burners and up to 2 ovens. Its utility means it runs on a strong current, so you have to take some special precautions when setting one up. Although the wiring work isn’t extremely difficult, it can be dangerous if you’re not accustomed to it. Speak with a professional electrician if you have any doubts about the installation process.",
+                    "===Shutting off the Electricity and Positioning the Cooker===",
+                    "#Check that you have a separate 32-amp circuit for the cooker. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. The circuit will be in the wall, running from the cooker’s control unit to the wall switch and then on to your home’s circuit breaker or fuse box. If you don’t have one, contact a licensed electrician for installation.",
+                    "#*If you’re not sure how your home’s electrical wiring is set up, ask an electrician to inspect it and make sure it is safe to use.",
+                    "#Purchase a double pole isolating switch if your home doesn’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. The toggles control both the live and neutral wires in the cooker’s electrical circuit. Single isolating switches deactivate only the live power wires, but since electric cookers use so much energy, the neutral wires retain electricity and can shock you. If your home doesn’t have one of these switches, get a licensed contractor to wire one near where you plan on installing the cooker.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#*Deactivate both switches each time you need to access the cooker’s wiring. It will help keep you safe.",
+                    "#Find an open, clear spot near the cooker’s wall-mounted control unit. You are most likely going to place the new cooker where the old one is in your home. Try to keep the cooker to the side of the control unit instead of directly in front of it. It prevents heat from the cooker blasting directly onto the wires. The wires you use to connect the two together are short, so you can’t move the cooker very far.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Plug the power wires into the corresponding terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=215</ref>",
+                    "#*The ground wire often has no casing, but leaving it exposed is dangerous. To protect it from shorting out or shocking you, purchase an electrical wire sleeve. The sleeve is a piece of insulation, usually colored green and yellow, that fits around the wire to insulate it.",
+                    "#Turn the isolator switches off to completely shut down the electricity. Walk over to the switch and flip both toggles to the off position. Doing this will cut all electricity to the cooker’s control unit installed nearby. You will get a chance to test this when you plug a multimeter into the unit’s exposed terminals.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=703</ref>",
+                    "#Test the control unit using a [[Use a Digital Multimeter|multimeter]] to ensure it isn’t active. Walk over to the cooker control unit situated on the wall. Turn on a handheld digital multimeter after plugging in its red and black leads. Set it to V~, or AC voltage.  Press the tip of the black probe into the terminal for the ground wire, then slot the red probe into the live wire slot. If the unit isn’t receiving activity, the multimeter will stay silent and display a 0 on its screen.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=145</ref>",
+                    "#Join the wires to the control unit’s terminals. Look inside the control unit to see approximately 3 wires of different colors. Basically, match the cooker’s wire colors to the ones in the control unit. To insert them, rest the insulated part of each wire flat against the unit, then push the exposed ends into the open slots. Use a screwdriver to tuck the ends in so they touch the exposed ends of the unit's wires.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the control unit back up. When you’re done, you can turn the power back on to test out your new cooker.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>"
+                ],
+                "removed": [
+                    "An electric cooker is a handy but powerful kitchen appliance. A standard one can have 4 burners and up to 2 ovens. Its utility means it runs on a strong current, so you have to take some special precautions when setting one up. Although the wiring work isn’t extremely difficult, it can be dangerous if you’re not accustomed to it. Speak with a professional electrician if you have any doubts about the installation process.",
+                    "===Positioning and Deactivating the Electrical Components===",
+                    "#Check that you have a separate 32-amp circuit for the cooker. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. If not, then contact a licensed electrician to wire a new circuit from the cooker’s control unit to the fuse or breaker box in your home.",
+                    "#*Electric cookers connect to separate control units mounted on the wall. Your home will already have one if you own an old cooker.",
+                    "#Purchase a double pole isolating switch if your home doesn’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. It is an important part of reducing the risk of electrical shock. If your home doesn’t have one of these switches, get a licensed contractor to wire one close to where you plan on installing the cooker. You can then use it to safely turn the cooker’s electrical supply on and off.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#*The switch buttons turn off different wires. Regular single switches deactivate the live wires. However, a cooker uses so much power that the neutral wires will still be active unless turned off by a separate switch.",
+                    "#Determine a safe spot close to the control unit for the cooker. You are most likely going to place the new one where the old one is in your home. If you’re looking for a new spot, it needs to be about {{convert|2|mm|in|abbr=on}} near the control unit. Try to keep the cooker to the side of the unit instead of directly in front of it. Proper positioning reduces the amount of heat blasted onto the wires.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#Plug the power wires into the corresponding terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.appliancerepair.net/oven-repair-4.html</ref>",
+                    "#*The ground wire is often little more than an exposed wire. To ensure it works correctly, purchase a green and yellow electrical wire sleeve and slide it over the wire.",
+                    "#Turn the isolator switch on to completely shut off the electricity. Walk over to the switch and flip both toggles to the off position. Doing this will cut all electricity to the cooker’s control unit installed nearby. You will get a chance to test this when you plug a multimeter into the unit’s exposed terminals.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=703</ref>",
+                    "#Test the control unit using a [[Use a Digital Multimeter|multimeter]] to ensure it isn’t active. Walk over to the cooker control unit situated on the wall. Turn on a handheld digital multimeter after plugging in its red and black leads. Set it to V~, or AC voltage.  Press the tip of the black probe into the terminal for the ground wire, then slot the red probe into the live wire slot. If the multimeter reacts, then the outlet is still live and needs to be shut off.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=145</ref>",
+                    "#Join the wires to the control unit’s terminals. You can wire the cooker to the control unit basically by matching wire colors. Look inside the control unit to see the wires connecting it to the switch. Then, plug the cooker’s power wires into the corresponding terminal. Curl the exposed end of each wire so it fits into the terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#*To more easily fit the wires, try laying them flat with the exposed ends near the terminals. Then, bend the exposed ends in by pushing on them with a screwdriver.",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each of the terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the control unit back up. When you’re done, you can turn the power back on to test out your new cooker.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27156473",
+            "user": "Starlette",
+            "timestamp": "02:22, 1 October 2019",
+            "anon": false,
+            "size": "(12,027 bytes)",
+            "change": 32,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Kitchen Appliances]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27154337",
+            "user": "WRM",
+            "timestamp": "17:29, 30 September 2019",
+            "anon": false,
+            "size": "(11,995 bytes)",
+            "change": 11995,
+            "summary": "(Creating article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "An electric cooker is a handy but powerful kitchen appliance. A standard one can have 4 burners and up to 2 ovens. Its utility means it runs on a strong current, so you have to take some special precautions when setting one up. Although the wiring work isn’t extremely difficult, it can be dangerous if you’re not accustomed to it. Speak with a professional electrician if you have any doubts about the installation process.",
+                    "==Steps==",
+                    "",
+                    "===Positioning and Deactivating the Electrical Components===",
+                    "#Check that you have a separate 32-amp circuit for the cooker. An electric cooker needs plenty of electricity to heat up, so it has to have its own powered circuit. If you already have an old cooker in place, then your home has the electrical circuit needed for the new one. If not, then contact a licensed electrician to wire a new circuit from the cooker’s control unit to the fuse or breaker box in your home.",
+                    "#*You can find out the circuit’s amp rating by checking the fuse or breaker box in your home. It is usually labeled. Compare the label to the power requirement listed in the cooker’s owner’s manual.",
+                    "#*Electric cookers connect to separate control units mounted on the wall. Your home will already have one if you own an old cooker.",
+                    "#Purchase a double pole isolating switch if your home doesn’t have one. A double pole isolating switch is basically a special type of light switch with a pair of toggles. It is an important part of reducing the risk of electrical shock. If your home doesn’t have one of these switches, get a licensed contractor to wire one close to where you plan on installing the cooker. You can then use it to safely turn the cooker’s electrical supply on and off.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#*The switch connects the cooker’s control unit to the electrical supply in your home. If you have an old cooker, then your home probably has the correct switch needed for the new one.",
+                    "#*The switch buttons turn off different wires. Regular single switches deactivate the live wires. However, a cooker uses so much power that the neutral wires will still be active unless turned off by a separate switch.",
+                    "#Determine a safe spot close to the control unit for the cooker. You are most likely going to place the new one where the old one is in your home. If you’re looking for a new spot, it needs to be about {{convert|2|mm|in|abbr=on}} near the control unit. Try to keep the cooker to the side of the unit instead of directly in front of it. Proper positioning reduces the amount of heat blasted onto the wires.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/electric-cooker-circuits</ref>",
+                    "#*You usually don’t have much choice when placing a new unit. It has to be close to the control unit and switch. If you wish to move it, ask an electrician about adjusting your home’s wiring.",
+                    "#*If you’re placing a new cooker, make sure it isn’t underneath wallpaper or other flammable objects.",
+                    "#Turn off the electricity before attempting to connect the cooker. Find the [[Find the Fuse Box or Circuit Breaker Box|fuse box or circuit breaker]] in your home. It is often in an out-of-the-way spot like the garage or basement. Once you find it, locate the switch controlling power to the cooktop control circuit, which will most likely be labeled.",
+                    "#*If you don’t see the fuse or breaker panel, check recessed areas like hallway closets. It may also be outdoors, near the electrical meter, in some cases.",
+                    "#*After deactivating the switch, consider locking the fuse or breaker panel so that no one can accidentally reactivate the power while you’re working.",
+                    "",
+                    "===Connecting Wires to the Cooker===",
+                    "#Unscrew the back plate on the cooker’s terminal outlet box. While the cooker is away from the wall, inspect its back side for a small box. The box is usually black and located on the bottom right side of the machine. It may be covered by a screw-on panel you can remove with a crosshead screwdriver. Turn the screws counterclockwise to remove the panel and expose the wire terminals.",
+                    "#*If the box doesn’t have any screws on it, use a flathead screwdriver to gently pry the cover off. You can lift it by sliding the screwdriver underneath its bottom edge.",
+                    "#Loosen the terminal screws inside the outlet box. These screws hold the electrical wires in place. The cooker’s terminal box will likely have 6 screws, but you only need to loosen 3 of them. Use a crosshead screwdriver on the top right, bottom right, and middle left screws. Turn them counterclockwise to loosen them.<ref>https://www.youtube.com/watch?v=WPT_UqG7PT4&feature=youtu.be&t=118</ref>",
+                    "#*You don’t need to remove the screws. Loosen them enough to plug the wires into the terminals. If the wires don’t fit, you can always go back and loosen the screws a little more.",
+                    "#*Check the cooktop’s user manual for more information about which terminals to use for the electrical wires. Your unit may also have a sticker on the back indicating how the terminals work.",
+                    "#Plug the power wires into the corresponding terminal slots. The cooker’s power cable consists of 3 differently-colored wires. Each wire is color-coded and plugs into a specific terminal in the outlet box. Look for a blue neutral wire that fits into the upper right terminal. Then, slide the brown live wire into the middle-left terminal and the yellow and green ground wire into the bottom-right terminal.<ref>https://www.appliancerepair.net/oven-repair-4.html</ref>",
+                    "#*Note that new cookers come with the required power cable. If you need a new one, make sure it is the right size. Try using a {{convert|2.5|mm|in|abbr=on}} heat-resistant cable, for instance.",
+                    "#*The wiring color scheme may be different depending on where you live. Look up your country’s electrical code to figure out what the wire colors represent.",
+                    "#*The ground wire is often little more than an exposed wire. To ensure it works correctly, purchase a green and yellow electrical wire sleeve and slide it over the wire.",
+                    "#Tighten the screws to close the terminals and outlet box. Use a crosshead screwdriver to turn the terminal screws clockwise, tightening them. Make sure they are tight enough that you can’t pull the wires out of the terminals. When you’re done, cover the outlet box, tightening any screws used to hold it in place.<ref>https://www.youtube.com/watch?v=Z2IfBInJPj8&feature=youtu.be&t=114</ref>",
+                    "#*Check for any loose wires sticking out of the case. If you see any, open the case up and pack them neatly into the outlet box.",
+                    "#*If the wires are too long, you can [[Cut Wire|trim]] off the ends using pliers. Strip off the insulation using a [[Strip Wire|wire stripping tool]] if you need to expose more of a wire.",
+                    "",
+                    "===Securing the Cooker to the Control Unit===",
+                    "#Turn the isolator switch on to completely shut off the electricity. Walk over to the switch and flip both toggles to the off position. Doing this will cut all electricity to the cooker’s control unit installed nearby. You will get a chance to test this when you plug a multimeter into the unit’s exposed terminals.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=703</ref>",
+                    "#*If the switch is on, then the control unit may still shock you. Don’t attempt to wire it until you’re sure it is off and have finished testing it.",
+                    "#Test the control unit using a [[Use a Digital Multimeter|multimeter]] to ensure it isn’t active. Walk over to the cooker control unit situated on the wall. Turn on a handheld digital multimeter after plugging in its red and black leads. Set it to V~, or AC voltage.  Press the tip of the black probe into the terminal for the ground wire, then slot the red probe into the live wire slot. If the multimeter reacts, then the outlet is still live and needs to be shut off.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=145</ref>",
+                    "#*Use the isolator switch, along with your home’s circuit breaker or fuse box, to shut off the electricity. Working on a live outlet is very dangerous, so always double-check it with a multimeter!",
+                    "#*Test the other terminals in the outlet by moving the probes to them. Make sure the multimeter doesn’t react at all.",
+                    "#Remove the screws to open the unit’s wire terminals. The unit has small outlets similar to the ones in the cooker’s terminal box. A standard control unit has 3 terminals. Turn the screw on each terminal counterclockwise to loosen and remove it. You will then see open slots to fit the power wires.<ref>https://www.youtube.com/watch?v=HHmnbOhE3TI&feature=youtu.be&t=231</ref>",
+                    "#*The screws usually do not need to be removed in order to fit the wires in place.",
+                    "#Join the wires to the control unit’s terminals. You can wire the cooker to the control unit basically by matching wire colors. Look inside the control unit to see the wires connecting it to the switch. Then, plug the cooker’s power wires into the corresponding terminal. Curl the exposed end of each wire so it fits into the terminal.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=988</ref>",
+                    "#*For example, your unit may have a brown neutral wire on the left, a green and yellow ground wire in the middle, and a blue power wire on the right. It depends on the wire color scheme used in your country.",
+                    "#*To more easily fit the wires, try laying them flat with the exposed ends near the terminals. Then, bend the exposed ends in by pushing on them with a screwdriver.",
+                    "#Replace the terminal screws to secure the power wires. Place a single screw on each of the terminal, then turn it clockwise until the wires can no longer be pulled out of position. Make sure the wires look neat and contained before you close the control unit back up. When you’re done, you can turn the power back on to test out your new cooker.<ref>https://www.youtube.com/watch?v=lmEnAYFSuzs&feature=youtu.be&t=1121</ref>",
+                    "#*If the wires are frayed or loose in the box, the cooker won’t work properly. Bad wiring could potentially damage your cooker or lead to other problems, so take your time with them before reactivating the power.",
+                    "#Have a certified electrician check your work for mistakes. To be absolutely sure the wiring is correct and up to code, seek the opinion of a trained professional. Ask them to certify the work. The electrician will give you a certificate stating that the work is in order. You can then enjoy your new cooker without any concern of potential side effects.",
+                    "#*Even if you wired the cooker correctly, not having a certificate could become a problem. The certificate proves that your home is safe and meets government regulations. Without it, you may not be eligible for property insurance and have a hard time selling your home in the future.",
+                    "#*Getting a second opinion is always useful when it comes to electrical work. Electrical work is delicate and mistakes can have serious consequences.",
+                    "",
+                    "==Tips==",
+                    "*If you have any doubt about getting the wiring done on your own, contact a licensed electrician for help. You are better off safe than sorry when it comes to your home’s wiring.",
+                    "*When moving the cooker into your kitchen, place a spare piece of vinyl underneath it to prevent it from scratching the floor.",
+                    "*If you already have an old cooker in place, use it to get a suitable replacement. The new cooker often needs to be a particular size and style to fit in the spot left behind by the old cooker.",
+                    "",
+                    "==Warnings==",
+                    "*Working with electrical wires is dangerous, so don’t try it unless you’re aware of the risk of electrical shock. Take proper safety precautions by testing for an electrical current and never working with live wires.",
+                    "*Incorrect wiring can short out your cooker or even lead to an electrical fire. Make absolutely sure the wiring is correct before enabling the power.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Double pole isolating switch",
+                    "*Crosshead screwdriver",
+                    "*Flathead screwdriver (optional)",
+                    "*Wire-cutting pliers (optional)",
+                    "*Wire strippers (optional)",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

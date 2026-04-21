@@ -1,0 +1,868 @@
+{
+    "title": "Fit-a-Cooker-Hood",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:58:01.605097",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33229704",
+            "user": "MiscBot",
+            "timestamp": "21:33, 10 March 2025",
+            "anon": false,
+            "size": "(12,473 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33092548",
+            "user": "Freyrr",
+            "timestamp": "12:15, 24 January 2025",
+            "anon": false,
+            "size": "(12,454 bytes)",
+            "change": -4,
+            "summary": "(extra word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.[[Image:Fit a Cooker Hood Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.[[Image:Fit a Cooker Hood Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33091461",
+            "user": "EpcotMagic",
+            "timestamp": "01:57, 24 January 2025",
+            "anon": false,
+            "size": "(12,458 bytes)",
+            "change": 42,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Fit a Cooker Hood|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32433915",
+            "user": "WikiHow Horizon 3",
+            "timestamp": "20:39, 13 April 2024",
+            "anon": false,
+            "size": "(12,416 bytes)",
+            "change": 13,
+            "summary": "(http ► https)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*This is a good opportunity to use a voltage adapter to make certain the power to this area of your home is off before you proceed any further.<ref>https://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>",
+                    "#*If the fan and filters are attached, remove them to expose the wiring.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref> There may also be a panel over the electrical wiring that needs to be removed.",
+                    "#*Alternatively, you can measure the holes, then measure the space, find the center point of the wall, and align your holes accordingly. This method works well if you don't have a helper to trace the holes for you. The instructions that came with your hood should provide further guidelines on creating outlines for the holes via this method.<ref>https://www.ronhazelton.com/projects/how_to_install_a_range_hood</ref>",
+                    "#Drill locator holes. Use a drill with a long bit to punch holes in the corners of your outline. Drill all the way through the interior wall and out through the exterior wall of your house.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 8.jpg|center]]",
+                    "#*However you position your duct, make certain it ultimately leads outdoors. Never create a ventilation duct that ends in your attic or anywhere else inside your home. This can create serious mold problems.<ref>https://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "#*Use a reciprocating saw, saber saw, or keyhole saw to cut all the way through, from the exterior to the interior. Remove any loose insulation or other debris that might get in the way of your duct.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#*If it is not long enough, you'll need to purchase a duct extension, which can be attached to the cap with sheet metal screws and duct tape.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Caulk around the hole. Remove the duct cap and apply caulk to the area around the hole where the edge (flange) of the vent cap will rest against the wall. This creates a better seal.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 13.jpg|center]]",
+                    "#Caulk the around the cap. Apply caulk generously around the cap's flange to fully seal it.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 15.jpg|center]]",
+                    "#Install the cover, fan, lights, and filter. Tuck the wires into place and replace the cover. Following the instructions in the hood's manual, attach the fan and light bulbs, and slide the filter into place.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 23.jpg|center]]",
+                    "*There are ductless hoods that don't require you to install ducting, but these hoods are usually less effective, because they just recirculate the smokey, damp, or greasy air in your kitchen rather than sending it outside. If you must install one of the ductless systems, buy one with a charcoal filter, as it will do a better job of cleaning the air.<ref>https://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "*When shopping for a hood, make sure you buy one that has a powerful enough fan to clear the air in your kitchen by checking its cfm rating. This rating indicates how many cubic feet of air the fan can pull per minute. A good rule of thumb is to buy a hood with a cfm rating at least double the square footage of your kitchen.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "* When dealing with a brick or stucco exterior, drill the guide-holes with a masonry bit. Drill a close series of holes in the exterior, and then use a chisel to remove the wall.<ref>https://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>"
+                ],
+                "removed": [
+                    "#*This is a good opportunity to use a voltage adapter to make certain the power to this area of your home is off before you proceed any further.<ref>http://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>",
+                    "#*If the fan and filters are attached, remove them to expose the wiring.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref> There may also be a panel over the electrical wiring that needs to be removed.",
+                    "#*Alternatively, you can measure the holes, then measure the space, find the center point of the wall, and align your holes accordingly. This method works well if you don't have a helper to trace the holes for you. The instructions that came with your hood should provide further guidelines on creating outlines for the holes via this method.<ref>http://www.ronhazelton.com/projects/how_to_install_a_range_hood</ref>",
+                    "#Drill locator holes. Use a drill with a long bit to punch holes in the corners of your outline. Drill all the way through the interior wall and out through the exterior wall of your house.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 8.jpg|center]]",
+                    "#*However you position your duct, make certain it ultimately leads outdoors. Never create a ventilation duct that ends in your attic or anywhere else inside your home. This can create serious mold problems.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "#*Use a reciprocating saw, saber saw, or keyhole saw to cut all the way through, from the exterior to the interior. Remove any loose insulation or other debris that might get in the way of your duct.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#*If it is not long enough, you'll need to purchase a duct extension, which can be attached to the cap with sheet metal screws and duct tape.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Caulk around the hole. Remove the duct cap and apply caulk to the area around the hole where the edge (flange) of the vent cap will rest against the wall. This creates a better seal.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 13.jpg|center]]",
+                    "#Caulk the around the cap. Apply caulk generously around the cap's flange to fully seal it.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 15.jpg|center]]",
+                    "#Install the cover, fan, lights, and filter. Tuck the wires into place and replace the cover. Following the instructions in the hood's manual, attach the fan and light bulbs, and slide the filter into place.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 23.jpg|center]]",
+                    "*There are ductless hoods that don't require you to install ducting, but these hoods are usually less effective, because they just recirculate the smokey, damp, or greasy air in your kitchen rather than sending it outside. If you must install one of the ductless systems, buy one with a charcoal filter, as it will do a better job of cleaning the air.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "*When shopping for a hood, make sure you buy one that has a powerful enough fan to clear the air in your kitchen by checking its cfm rating. This rating indicates how many cubic feet of air the fan can pull per minute. A good rule of thumb is to buy a hood with a cfm rating at least double the square footage of your kitchen.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "* When dealing with a brick or stucco exterior, drill the guide-holes with a masonry bit. Drill a close series of holes in the exterior, and then use a chisel to remove the wall.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31701359",
+            "user": "UnitGuardian",
+            "timestamp": "19:17, 11 June 2023",
+            "anon": false,
+            "size": "(12,403 bytes)",
+            "change": 20,
+            "summary": "(Adding conversion template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pull the wiring through. Pull at least {{convert|12|in|cm|sigfig=3}} of wiring through the wiring hole to wire up your hood.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31701358",
+            "user": "UnitGuardian",
+            "timestamp": "19:17, 11 June 2023",
+            "anon": false,
+            "size": "(12,383 bytes)",
+            "change": 20,
+            "summary": "(Adding conversion template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Similarly, make sure the hood will hang {{convert|24|to|30|in|cm|sigfig=2}} above the stove, and will cover the entire cooking space. Ideally, there should be a three inch overhang between the edge of the hood and the edge of the cooking space.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>"
+                ],
+                "removed": [
+                    "#*Similarly, make sure the hood will hang 24 to 30 inches above the stove, and will cover the entire cooking space. Ideally, there should be a three inch overhang between the edge of the hood and the edge of the cooking space.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31371133",
+            "user": "WikiHow Projects",
+            "timestamp": "18:04, 19 February 2023",
+            "anon": false,
+            "size": "(12,363 bytes)",
+            "change": -417,
+            "summary": "(removing broken links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.[[Image:Fit a Cooker Hood Step 6.jpg|center]]",
+                    "#*Alternatively, you can measure the holes, then measure the space, find the center point of the wall, and align your holes accordingly. This method works well if you don't have a helper to trace the holes for you. The instructions that came with your hood should provide further guidelines on creating outlines for the holes via this method.<ref>http://www.ronhazelton.com/projects/how_to_install_a_range_hood</ref>",
+                    "#*If your stove is positioned against an interior wall, you will need to install additional ducting to create a vent to the outside.  The duct can go up through the cabinets and between ceiling joists, and then out through the nearest exterior wall.",
+                    "#Cut out the vent and wiring holes. Using a drywall saw, cut along the outline you drew on the wall, moving from one drill hole to the next.[[Image:Fit a Cooker Hood Step 9.jpg|center]]",
+                    "#Clamp the wiring. Return to the kitchen and have an assistant lift the hood. Pull the wiring from the wall through the hood's wiring hole and clamp it to the hood with a cable clamp.[[Image:Fit a Cooker Hood Step 16.jpg|center]]",
+                    "*There are ductless hoods that don't require you to install ducting, but these hoods are usually less effective, because they just recirculate the smokey, damp, or greasy air in your kitchen rather than sending it outside. If you must install one of the ductless systems, buy one with a charcoal filter, as it will do a better job of cleaning the air.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>"
+                ],
+                "removed": [
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-2,00.html</ref>[[Image:Fit a Cooker Hood Step 6.jpg|center]]",
+                    "#*Alternatively, you can measure the holes, then measure the space, find the center point of the wall, and align your holes accordingly.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref> This method works well if you don't have a helper to trace the holes for you. The instructions that came with your hood should provide further guidelines on creating outlines for the holes via this method.<ref>http://www.ronhazelton.com/projects/how_to_install_a_range_hood</ref>",
+                    "#*If your stove is positioned against an interior wall, you will need to install additional ducting to create a vent to the outside.  The duct can go up through the cabinets and between ceiling joists, and then out through the nearest exterior wall.<ref>http://www.thisoldhouse.com/toh/article/0,,218403,00.html</ref>",
+                    "#Cut out the vent and wiring holes. Using a drywall saw, cut along the outline you drew on the wall, moving from one drill hole to the next.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref>[[Image:Fit a Cooker Hood Step 9.jpg|center]]",
+                    "#Clamp the wiring. Return to the kitchen and have an assistant lift the hood. Pull the wiring from the wall through the hood's wiring hole and clamp it to the hood with a cable clamp.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-4,00.html</ref>[[Image:Fit a Cooker Hood Step 16.jpg|center]]",
+                    "*There are ductless hoods that don't require you to install ducting, but these hoods are usually less effective, because they just recirculate the smokey, damp, or greasy air in your kitchen rather than sending it outside.<ref>http://www.thisoldhouse.com/toh/article/0,,218403,00.html</ref> If you must install one of the ductless systems, buy one with a charcoal filter, as it will do a better job of cleaning the air.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31101143",
+            "user": "WikiHow Projects",
+            "timestamp": "14:11, 23 November 2022",
+            "anon": false,
+            "size": "(12,780 bytes)",
+            "change": -231,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Check to see if you need a permit. Depending on where you live, you may need a permit from the city to carry out this project.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref> Check into your local building codes to find out if you need one, and if so, how to apply for it.[[Image:Fit a Cooker Hood Step 1.jpg|center]]",
+                    "#*Similarly, make sure the hood will hang 24 to 30 inches above the stove, and will cover the entire cooking space. Ideally, there should be a three inch overhang between the edge of the hood and the edge of the cooking space.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>",
+                    "#*Have someone hold the hood up while you unscrew it so it doesn't fall down.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>",
+                    "#*One way to do this is to lift the hood up to where you will install it and have someone else create an outline by tracing inside the holes with a pencil.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>",
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 10.jpg|center]]",
+                    "#Drive the screws halfway in. Slide the hood into place and drive the screws halfway into the cabinet you are affixing the hood to.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 17.jpg|center]]",
+                    "#Check the alignment. While the screws are only halfway in, check to make sure the hole in the hood aligns properly with the ductwork. If it doesn't, take the screws out and readjust the position of the hood.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 18.jpg|center]]",
+                    "#Attach the black wires. Both the fan and light in the hood should have a black wire. Attach both of them to the black wire protruding from the wall by twisting the exposed ends together.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 20.jpg|center]]",
+                    "#Attach the ground wire. Your home's ground wire should be green or exposed copper. Attach it to the green grounding screw and tighten the screw with a screwdriver.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 22.jpg|center]]",
+                    "#Test it out. Turn on the lights and the fan to make sure they are operational. You should also go outside while the fan is running to make sure air is flowing freely through the duct.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>[[Image:Fit a Cooker Hood Step 25.jpg|center]]",
+                    "*Wear a dust mask and goggles while installing the hood to prevent eye injuries and the inhalation of harmful particles.<ref>https://www.lowes.com/n/how-to/install-vented-range-hood</ref>"
+                ],
+                "removed": [
+                    "#Check to see if you need a permit. Depending on where you live, you may need a permit from the city to carry out this project.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref> Check into your local building codes to find out if you need one, and if so, how to apply for it.[[Image:Fit a Cooker Hood Step 1.jpg|center]]",
+                    "#*Similarly, make sure the hood will hang 24 to 30 inches above the stove, and will cover the entire cooking space. Ideally, there should be a three inch overhang between the edge of the hood and the edge of the cooking space.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*Have someone hold the hood up while you unscrew it so it doesn't fall down.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*One way to do this is to lift the hood up to where you will install it and have someone else create an outline by tracing inside the holes with a pencil.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 10.jpg|center]]",
+                    "#Drive the screws halfway in. Slide the hood into place and drive the screws halfway into the cabinet you are affixing the hood to.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 17.jpg|center]]",
+                    "#Check the alignment. While the screws are only halfway in, check to make sure the hole in the hood aligns properly with the ductwork. If it doesn't, take the screws out and readjust the position of the hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 18.jpg|center]]",
+                    "#Attach the black wires. Both the fan and light in the hood should have a black wire. Attach both of them to the black wire protruding from the wall by twisting the exposed ends together.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 20.jpg|center]]",
+                    "#Attach the ground wire. Your home's ground wire should be green or exposed copper. Attach it to the green grounding screw and tighten the screw with a screwdriver.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 22.jpg|center]]",
+                    "#Test it out. Turn on the lights and the fan to make sure they are operational. You should also go outside while the fan is running to make sure air is flowing freely through the duct.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 25.jpg|center]]",
+                    "*Wear a dust mask and goggles while installing the hood to prevent eye injuries and the inhalation of harmful particles.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27962218",
+            "user": "Seymour Edits",
+            "timestamp": "20:46, 8 April 2020",
+            "anon": false,
+            "size": "(13,011 bytes)",
+            "change": 136,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Fit-a-Cooker-Hood}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26285408",
+            "user": "MiscBot",
+            "timestamp": "01:57, 29 March 2019",
+            "anon": false,
+            "size": "(12,875 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "24344330",
+            "user": "WikiHow Projects",
+            "timestamp": "12:35, 8 April 2018",
+            "anon": false,
+            "size": "(12,886 bytes)",
+            "change": -218,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Cut the power supply. Go to your circuit breaker or fuse box and cut the power supply to your range and the old hood, if there is one. This is necessary to prevent electric shock during installation.[[Image:Fit a Cooker Hood Step 3.jpg|center]]",
+                    "*Ducted hoods must be connected to a duct. Do not try to install a ducted hood without ducting as you may do serious damage to the hood or your home."
+                ],
+                "removed": [
+                    "#Cut the power supply. Go to your circuit breaker or fuse box and cut the power supply to your range and the old hood, if there is one. This is necessary to prevent electric shock during installation.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>[[Image:Fit a Cooker Hood Step 3.jpg|center]]",
+                    "*Ducted hoods must be connected to a duct. Do not try to install a ducted hood without ducting as you may do serious damage to the hood or your home.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "22752381",
+            "user": "Votebot",
+            "timestamp": "08:48, 29 June 2017",
+            "anon": false,
+            "size": "(13,104 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "22726787",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:43, 27 June 2017",
+            "anon": false,
+            "size": "(13,105 bytes)",
+            "change": -46,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Install Duct Work]]"
+                ]
+            }
+        },
+        {
+            "id": "21222061",
+            "user": "Flickety",
+            "timestamp": "21:25, 26 October 2016",
+            "anon": false,
+            "size": "(13,151 bytes)",
+            "change": 8,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Cooking Appliances]]"
+                ],
+                "removed": [
+                    "[[Category:Appliances]]"
+                ]
+            }
+        },
+        {
+            "id": "20674616",
+            "user": "Votebot",
+            "timestamp": "08:45, 29 July 2016",
+            "anon": false,
+            "size": "(13,143 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If there wasn't a hood already installed in the location where you are putting yours, you may need the help of an electrician to locate or add the necessary wiring."
+                ],
+                "removed": [
+                    "*If there wasn't a hood already installed in the location where you are putting yours, you may need the help of an electrician to locate or add the necessary wiring."
+                ]
+            }
+        },
+        {
+            "id": "19401283",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "04:25, 12 January 2016",
+            "anon": false,
+            "size": "(13,143 bytes)",
+            "change": -25,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Install Duct Work]]"
+                ],
+                "removed": [
+                    "*[[Install Duct Work|How to Install Duct Work]]"
+                ]
+            }
+        },
+        {
+            "id": "18575953",
+            "user": "Votebot",
+            "timestamp": "08:40, 5 October 2015",
+            "anon": false,
+            "size": "(13,168 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings =="
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "17477155",
+            "user": "Wikivisual",
+            "timestamp": "09:11, 29 May 2015",
+            "anon": false,
+            "size": "(13,166 bytes)",
+            "change": 1098,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Most homes feature a hood over the stove for light and ventilation. If your home does not have one, or if yours needs to be replaced or upgraded (e.g. because it does not have an exterior vent), the process of installing one is not overly complicated. With a little know-how, this is a home improvement task that you can easily accomplish on your own. Follow these instructions, and you can accomplish this task over the course of an afternoon.",
+                    "#Check to see if you need a permit. Depending on where you live, you may need a permit from the city to carry out this project.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref> Check into your local building codes to find out if you need one, and if so, how to apply for it.[[Image:Fit a Cooker Hood Step 1.jpg|center]]",
+                    "#Measure the space. Take a measurement of the space where you plan to install the hood to ensure it will fit.[[Image:Fit a Cooker Hood Step 2.jpg|center]]",
+                    "#Cut the power supply. Go to your circuit breaker or fuse box and cut the power supply to your range and the old hood, if there is one. This is necessary to prevent electric shock during installation.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>[[Image:Fit a Cooker Hood Step 3.jpg|center]]",
+                    "#Remove the old hood. If there's a hood already installed, start by removing the filters, then the cover that conceals the fan and motor. Finally, disconnect the power wires and unscrew the hood.<ref>http://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>[[Image:Fit a Cooker Hood Step 4.jpg|center]]",
+                    "#Unpack your new fixture. Remove the fan, hood, ducting, and all other components from their packaging.[[Image:Fit a Cooker Hood Step 5.jpg|center]]",
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-2,00.html</ref>[[Image:Fit a Cooker Hood Step 6.jpg|center]]",
+                    "#Create an outline. The next step is to create outline on the wall where you will be cutting through for the vent and electrical wiring.[[Image:Fit a Cooker Hood Step 7.jpg|center]]",
+                    "#Drill locator holes. Use a drill with a long bit to punch holes in the corners of your outline. Drill all the way through the interior wall and out through the exterior wall of your house.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 8.jpg|center]]",
+                    "#Cut out the vent and wiring holes. Using a drywall saw, cut along the outline you drew on the wall, moving from one drill hole to the next.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref>[[Image:Fit a Cooker Hood Step 9.jpg|center]]",
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 10.jpg|center]]",
+                    "#Cut an exterior vent hole. Go outside your house and find the locator holes on the side of the building. Use them to draw an outline for your exterior vent hole, then cut through the siding to create the hole[[Image:Fit a Cooker Hood Step 11.jpg|center]]",
+                    "#Push the cap in. Place the duct cap in the hole and push it all the way in to see if the duct will be long enough to reach through to the vent hole on the other side.[[Image:Fit a Cooker Hood Step 12.jpg|center]]",
+                    "#Caulk around the hole. Remove the duct cap and apply caulk to the area around the hole where the edge (flange) of the vent cap will rest against the wall. This creates a better seal.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 13.jpg|center]]",
+                    "#Install the duct cap. Press the cap firmly into place and attach it by driving screws into the exterior of the house.[[Image:Fit a Cooker Hood Step 14.jpg|center]]",
+                    "#Caulk the around the cap. Apply caulk generously around the cap's flange to fully seal it.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 15.jpg|center]]",
+                    "#Clamp the wiring. Return to the kitchen and have an assistant lift the hood. Pull the wiring from the wall through the hood's wiring hole and clamp it to the hood with a cable clamp.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-4,00.html</ref>[[Image:Fit a Cooker Hood Step 16.jpg|center]]",
+                    "#Drive the screws halfway in. Slide the hood into place and drive the screws halfway into the cabinet you are affixing the hood to.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 17.jpg|center]]",
+                    "#Check the alignment. While the screws are only halfway in, check to make sure the hole in the hood aligns properly with the ductwork. If it doesn't, take the screws out and readjust the position of the hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 18.jpg|center]]",
+                    "#Tighten the screws. Secure the hood firmly to the underside of the cabinets.[[Image:Fit a Cooker Hood Step 19.jpg|center]]",
+                    "#Attach the black wires. Both the fan and light in the hood should have a black wire. Attach both of them to the black wire protruding from the wall by twisting the exposed ends together.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 20.jpg|center]]",
+                    "#Attach the white wires. Repeat the process in step one with the white wires from the fan, light, and wall.[[Image:Fit a Cooker Hood Step 21.jpg|center]]",
+                    "#Attach the ground wire. Your home's ground wire should be green or exposed copper. Attach it to the green grounding screw and tighten the screw with a screwdriver.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 22.jpg|center]]",
+                    "#Install the cover, fan, lights, and filter. Tuck the wires into place and replace the cover. Following the instructions in the hood's manual, attach the fan and light bulbs, and slide the filter into place.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>[[Image:Fit a Cooker Hood Step 23.jpg|center]]",
+                    "#Turn the power back on. Go to the circuit breaker or fuse box and restore the power supply.[[Image:Fit a Cooker Hood Step 24.jpg|center]]",
+                    "#Test it out. Turn on the lights and the fan to make sure they are operational. You should also go outside while the fan is running to make sure air is flowing freely through the duct.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>[[Image:Fit a Cooker Hood Step 25.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Image:Kitchen 14.jpg|thumb|right|251px]]Most homes feature a hood over the stove for light and ventilation. If your home does not have one, or if yours needs to be replaced or upgraded (e.g. because it does not have an exterior vent), the process of installing one is not overly complicated. With a little know-how, this is a home improvement task that you can easily accomplish on your own. Follow these instructions, and you can accomplish this task over the course of an afternoon.",
+                    "#Check to see if you need a permit. Depending on where you live, you may need a permit from the city to carry out this project.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref> Check into your local building codes to find out if you need one, and if so, how to apply for it.",
+                    "#Measure the space. Take a measurement of the space where you plan to install the hood to ensure it will fit.",
+                    "#Cut the power supply. Go to your circuit breaker or fuse box and cut the power supply to your range and the old hood, if there is one. This is necessary to prevent electric shock during installation.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>",
+                    "#Remove the old hood. If there's a hood already installed, start by removing the filters, then the cover that conceals the fan and motor. Finally, disconnect the power wires and unscrew the hood.<ref>http://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>",
+                    "#Unpack your new fixture. Remove the fan, hood, ducting, and all other components from their packaging.",
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-2,00.html</ref>",
+                    "#Create an outline. The next step is to create outline on the wall where you will be cutting through for the vent and electrical wiring.",
+                    "#Drill locator holes. Use a drill with a long bit to punch holes in the corners of your outline. Drill all the way through the interior wall and out through the exterior wall of your house.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Cut out the vent and wiring holes. Using a drywall saw, cut along the outline you drew on the wall, moving from one drill hole to the next.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref>",
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Cut an exterior vent hole. Go outside your house and find the locator holes on the side of the building. Use them to draw an outline for your exterior vent hole, then cut through the siding to create the hole",
+                    "#Push the cap in. Place the duct cap in the hole and push it all the way in to see if the duct will be long enough to reach through to the vent hole on the other side.",
+                    "#Caulk around the hole. Remove the duct cap and apply caulk to the area around the hole where the edge (flange) of the vent cap will rest against the wall. This creates a better seal.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Install the duct cap. Press the cap firmly into place and attach it by driving screws into the exterior of the house.",
+                    "#Caulk the around the cap. Apply caulk generously around the cap's flange to fully seal it.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Clamp the wiring. Return to the kitchen and have an assistant lift the hood. Pull the wiring from the wall through the hood's wiring hole and clamp it to the hood with a cable clamp.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-4,00.html</ref>",
+                    "#Drive the screws halfway in. Slide the hood into place and drive the screws halfway into the cabinet you are affixing the hood to.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Check the alignment. While the screws are only halfway in, check to make sure the hole in the hood aligns properly with the ductwork. If it doesn't, take the screws out and readjust the position of the hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Tighten the screws. Secure the hood firmly to the underside of the cabinets.",
+                    "#Attach the black wires. Both the fan and light in the hood should have a black wire. Attach both of them to the black wire protruding from the wall by twisting the exposed ends together.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Attach the white wires. Repeat the process in step one with the white wires from the fan, light, and wall.",
+                    "#Attach the ground wire. Your home's ground wire should be green or exposed copper. Attach it to the green grounding screw and tighten the screw with a screwdriver.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Install the cover, fan, lights, and filter. Tuck the wires into place and replace the cover. Following the instructions in the hood's manual, attach the fan and light bulbs, and slide the filter into place.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Turn the power back on. Go to the circuit breaker or fuse box and restore the power supply.",
+                    "#Test it out. Turn on the lights and the fan to make sure they are operational. You should also go outside while the fan is running to make sure air is flowing freely through the duct.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16391905",
+            "user": "Votebot",
+            "timestamp": "15:20, 16 January 2015",
+            "anon": false,
+            "size": "(12,068 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ],
+                "removed": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ]
+            }
+        },
+        {
+            "id": "16126727",
+            "user": "Seymour Edits",
+            "timestamp": "17:23, 11 December 2014",
+            "anon": false,
+            "size": "(12,068 bytes)",
+            "change": 8351,
+            "summary": "(Broke the process into several parts, added more details and citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Kitchen 14.jpg|thumb|right|251px]]Most homes feature a hood over the stove for light and ventilation. If your home does not have one, or if yours needs to be replaced or upgraded (e.g. because it does not have an exterior vent), the process of installing one is not overly complicated. With a little know-how, this is a home improvement task that you can easily accomplish on your own. Follow these instructions, and you can accomplish this task over the course of an afternoon.",
+                    "===Preparing for Installation===",
+                    "#Check to see if you need a permit. Depending on where you live, you may need a permit from the city to carry out this project.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref> Check into your local building codes to find out if you need one, and if so, how to apply for it.",
+                    "#Measure the space. Take a measurement of the space where you plan to install the hood to ensure it will fit.",
+                    "#*Similarly, make sure the hood will hang 24 to 30 inches above the stove, and will cover the entire cooking space. Ideally, there should be a three inch overhang between the edge of the hood and the edge of the cooking space.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Cut the power supply. Go to your circuit breaker or fuse box and cut the power supply to your range and the old hood, if there is one. This is necessary to prevent electric shock during installation.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>",
+                    "#Remove the old hood. If there's a hood already installed, start by removing the filters, then the cover that conceals the fan and motor. Finally, disconnect the power wires and unscrew the hood.<ref>http://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>",
+                    "#*Have someone hold the hood up while you unscrew it so it doesn't fall down.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*This is a good opportunity to use a voltage adapter to make certain the power to this area of your home is off before you proceed any further.<ref>http://www.ronhazelton.com/projects/how_to_remove_and_install_a_vent_hood</ref>",
+                    "#Unpack your new fixture. Remove the fan, hood, ducting, and all other components from their packaging.",
+                    "#*If the fan and filters are attached, remove them to expose the wiring.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref> There may also be a panel over the electrical wiring that needs to be removed.",
+                    "#Remove the duct and wiring knockouts. Determine from which direction the wiring will come and which direction the duct will go (either from above or behind the hood), based on how the old hood was installed. The new hood should have pre-cut areas that can can be knocked out with a hammer and screwdriver to accommodate whichever side the holes need to be on.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-2,00.html</ref>",
+                    "#*Work carefully so as not to damage the metal of the hood as you remove the knockouts.",
+                    "#*The wiring knockout should create a small, round hole in the hood.",
+                    "#Create an outline. The next step is to create outline on the wall where you will be cutting through for the vent and electrical wiring.",
+                    "#*One way to do this is to lift the hood up to where you will install it and have someone else create an outline by tracing inside the holes with a pencil.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*Alternatively, you can measure the holes, then measure the space, find the center point of the wall, and align your holes accordingly.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref> This method works well if you don't have a helper to trace the holes for you. The instructions that came with your hood should provide further guidelines on creating outlines for the holes via this method.<ref>http://www.ronhazelton.com/projects/how_to_install_a_range_hood</ref>",
+                    "#*Make certain to plan for both duct and wiring holes.",
+                    "#*If the duct and wiring holes in your new hood match up exactly with the old one, you may not need to mark or cut your wall. In this case, you can skip parts 2 and 3 altogether and work with the existing holes and ducting.",
+                    "",
+                    "===Cutting a Hole===",
+                    "#Drill locator holes. Use a drill with a long bit to punch holes in the corners of your outline. Drill all the way through the interior wall and out through the exterior wall of your house.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#*These holes in the outside wall should line up exactly with the ones inside, allowing you to install a duct cap outside that will line up perfectly with your interior ductwork.",
+                    "#*If your stove is positioned against an interior wall, you will need to install additional ducting to create a vent to the outside.  The duct can go up through the cabinets and between ceiling joists, and then out through the nearest exterior wall.<ref>http://www.thisoldhouse.com/toh/article/0,,218403,00.html</ref>",
+                    "#*However you position your duct, make certain it ultimately leads outdoors. Never create a ventilation duct that ends in your attic or anywhere else inside your home. This can create serious mold problems.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "#Cut out the vent and wiring holes. Using a drywall saw, cut along the outline you drew on the wall, moving from one drill hole to the next.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-3,00.html</ref>",
+                    "#*Drilling a hole in the outline for the electrical wiring will make it easier to cut out.",
+                    "#Pull the wiring through. Pull at least 12 inches of wiring through the wiring hole to wire up your hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Cut an exterior vent hole. Go outside your house and find the locator holes on the side of the building. Use them to draw an outline for your exterior vent hole, then cut through the siding to create the hole",
+                    "#*Use a reciprocating saw, saber saw, or keyhole saw to cut all the way through, from the exterior to the interior. Remove any loose insulation or other debris that might get in the way of your duct.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "",
+                    "===Installing a Duct Cap===",
+                    "#Push the cap in. Place the duct cap in the hole and push it all the way in to see if the duct will be long enough to reach through to the vent hole on the other side.",
+                    "#*If it is not long enough, you'll need to purchase a duct extension, which can be attached to the cap with sheet metal screws and duct tape.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#*By the same token, if the duct is too long, trim the excess ductwork using metal shears.",
+                    "#Caulk around the hole. Remove the duct cap and apply caulk to the area around the hole where the edge (flange) of the vent cap will rest against the wall. This creates a better seal.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Install the duct cap. Press the cap firmly into place and attach it by driving screws into the exterior of the house.",
+                    "#Caulk the around the cap. Apply caulk generously around the cap's flange to fully seal it.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "",
+                    "===Mounting the Hood===",
+                    "#Clamp the wiring. Return to the kitchen and have an assistant lift the hood. Pull the wiring from the wall through the hood's wiring hole and clamp it to the hood with a cable clamp.<ref>http://www.thisoldhouse.com/toh/article/0,,218403-4,00.html</ref>",
+                    "#Drive the screws halfway in. Slide the hood into place and drive the screws halfway into the cabinet you are affixing the hood to.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*Push the hood upward to allow it to connect with the ductwork.",
+                    "#Check the alignment. While the screws are only halfway in, check to make sure the hole in the hood aligns properly with the ductwork. If it doesn't, take the screws out and readjust the position of the hood.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#Tighten the screws. Secure the hood firmly to the underside of the cabinets.",
+                    "",
+                    "===Wiring the Hood===",
+                    "#Attach the black wires. Both the fan and light in the hood should have a black wire. Attach both of them to the black wire protruding from the wall by twisting the exposed ends together.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*Cover the exposed ends with a wire nut.",
+                    "#*If there is not enough exposed wire, strip the sheathing off the ends with a pair of wire strippers.",
+                    "#Attach the white wires. Repeat the process in step one with the white wires from the fan, light, and wall.",
+                    "#Attach the ground wire. Your home's ground wire should be green or exposed copper. Attach it to the green grounding screw and tighten the screw with a screwdriver.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "===Finishing Up===",
+                    "#Install the cover, fan, lights, and filter. Tuck the wires into place and replace the cover. Following the instructions in the hood's manual, attach the fan and light bulbs, and slide the filter into place.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "#Turn the power back on. Go to the circuit breaker or fuse box and restore the power supply.",
+                    "#Test it out. Turn on the lights and the fan to make sure they are operational. You should also go outside while the fan is running to make sure air is flowing freely through the duct.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "#*Damp or greasy air that is not pulled through the duct may cause damage to your walls.",
+                    "*There are ductless hoods that don't require you to install ducting, but these hoods are usually less effective, because they just recirculate the smokey, damp, or greasy air in your kitchen rather than sending it outside.<ref>http://www.thisoldhouse.com/toh/article/0,,218403,00.html</ref> If you must install one of the ductless systems, buy one with a charcoal filter, as it will do a better job of cleaning the air.<ref>http://www.futurofuturo.com/rangehood-FAQ-10-mistakes-range-hood-installation.php</ref>",
+                    "*When shopping for a hood, make sure you buy one that has a powerful enough fan to clear the air in your kitchen by checking its cfm rating. This rating indicates how many cubic feet of air the fan can pull per minute. A good rule of thumb is to buy a hood with a cfm rating at least double the square footage of your kitchen.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "* When dealing with a brick or stucco exterior, drill the guide-holes with a masonry bit. Drill a close series of holes in the exterior, and then use a chisel to remove the wall.<ref>http://www.homedepot.com/c/how_to_install_range_hood_HT_PG_AP</ref>",
+                    "",
+                    "==Warnings==",
+                    "*Wear a dust mask and goggles while installing the hood to prevent eye injuries and the inhalation of harmful particles.<ref>http://www.lowes.com/projects/kitchen-and-dining/install-a-range-hood/project</ref>",
+                    "*Ducted hoods must be connected to a duct. Do not try to install a ducted hood without ducting as you may do serious damage to the hood or your home.<ref>http://www.ventahood.com/images/docs/wall%20mount%20range%20hood%20installation%20instructions.pdf</ref>",
+                    "*If there wasn't a hood already installed in the location where you are putting yours, you may need the help of an electrician to locate or add the necessary wiring.",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "[[Image:Kitchen 14.jpg|thumb|right|251px]]Fitting a cooker hood refers to the process of installing a vent over your range in order to reduce the heat and odors caused by cooking. The process is not overly complicated, and with a little know-how, this is a home improvement task that you can accomplish on your own. Here are some steps to guide you as you learn how to fit a cooker hood.",
+                    "",
+                    "# Cut the power supply to the range at your circuit breaker or fuse box.",
+                    "# Remove the fan, hood and all other components from their packaging.",
+                    "# Determine from which direction the wiring will come, and punch the appropriate pre-made hole from the hood.",
+                    "# Cover the top duct with the included cover, leaving only the rear duct hole exposed.",
+                    "# Lift the hood up to where you will install it and create an outline for the wall section to be removed.",
+                    "#* Make sure to account for the wiring as well as the venting duct.",
+                    "# Use a drill to punch holes in the corners of your outline.",
+                    "# Cut along the outline, using a drywall saw, from one hole to the next.",
+                    "# Create a hole in the wall using the same drill bit to access the necessary wiring.",
+                    "# Pull the cable through.",
+                    "# Drill through the interior wall to create a guideline, marking the corners, on the exterior wall.",
+                    "# Use a reciprocating saw to cut all the way through, from the exterior to the interior, to the other hole.",
+                    "# Return to the kitchen and position a wiring clamp in the hole you've punched in the hood.",
+                    "# Install a duct cap using screws on the exterior of the wall.",
+                    "# Trim the excess ductwork using metal shears and then attach it to the cap with screws.",
+                    "# Apply silicone sealant generously to ductwork at the exterior.",
+                    "# Slide the hood into place and then feed the electrical wiring through the back of it.",
+                    "# Push the hood upward to allow it to connect with the ductwork.",
+                    "# Install screws to secure the hood to the underside of the cabinets.",
+                    "# Reconnect the electrical connections by attaching the ground wire to the green screw in the frame.",
+                    "# Twist the black wires together, fastening the ends with a wire nut.",
+                    "# Repeat the previous step with the white wires.",
+                    "# Install the fan, lights, cover and filter.",
+                    "# Go to the circuit breaker or fuse box and restore the power supply.",
+                    "* A cooker hood will serve to increase the lighting over your stove.",
+                    "* Installing a cooker hood will minimize smoke accumulation and eliminate setting off smoke alarms.",
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood.",
+                    "* Creating a guideline from the interior wall guarantees proper alignment between the two holes.",
+                    "* When dealing with a brick or stucco exterior, drill the guide-holes with a masonry bit. Drill a close series of holes in the exterior, and then use a chisel to remove the wall.",
+                    "* The fan in a smaller hood tends to be noisier. Consider fitting a larger hood, and then running the fan more slowly.",
+                    "* [http://www.ronhazelton.com/archives/projects/remove-install-venthood.shtm http://www.ronhazelton.com/archives/projects/remove-install-venthood.shtm]",
+                    "* [http://www.easy2diy.com/cm/easy/diy_ht_3d_index.asp?page_id=35743526 http://www.easy2diy.com/cm/easy/diy_ht_3d_index.asp?page_id=35743526]",
+                    "* [http://americanheritagecustomhomes.info/2011/04/five-reasons-to-install-a-cooker-hood-in-your-kitchen/ http://americanheritagecustomhomes.info/2011/04/five-reasons-to-install-a-cooker-hood-in-your-kitchen/]"
+                ]
+            }
+        },
+        {
+            "id": "15210282",
+            "user": "Votebot",
+            "timestamp": "19:08, 28 August 2014",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ],
+                "removed": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ]
+            }
+        },
+        {
+            "id": "14059146",
+            "user": "Votebot",
+            "timestamp": "18:19, 27 June 2014",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* A cooker hood will serve to increase the lighting over your stove.",
+                    "* Installing a cooker hood will minimize smoke accumulation and eliminate setting off smoke alarms."
+                ],
+                "removed": [
+                    "* Installing a cooker hood will minimize smoke accumulation and eliminate setting off smoke alarms.",
+                    "* A cooker hood will serve to increase the lighting over your stove."
+                ]
+            }
+        },
+        {
+            "id": "12998344",
+            "user": "Votebot",
+            "timestamp": "16:10, 16 March 2014",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood."
+                ],
+                "removed": [
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood."
+                ]
+            }
+        },
+        {
+            "id": "11232820",
+            "user": "Votebot",
+            "timestamp": "16:33, 26 September 2013",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ],
+                "removed": [
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper."
+                ]
+            }
+        },
+        {
+            "id": "9827627",
+            "user": "Votebot",
+            "timestamp": "15:52, 7 May 2013",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood."
+                ],
+                "removed": [
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8157374",
+            "user": "SmarmySnodsnick",
+            "timestamp": "19:35, 27 July 2012",
+            "anon": false,
+            "size": "(3,718 bytes)",
+            "change": 43,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Kitchen 14.jpg|thumb|right|251px]]Fitting a cooker hood refers to the process of installing a vent over your range in order to reduce the heat and odors caused by cooking. The process is not overly complicated, and with a little know-how, this is a home improvement task that you can accomplish on your own. Here are some steps to guide you as you learn how to fit a cooker hood.",
+                    ""
+                ],
+                "removed": [
+                    "Fitting a cooker hood refers to the process of installing a vent over your range in order to reduce the heat and odors caused by cooking. The process is not overly complicated, and with a little know-how, this is a home improvement task that you can accomplish on your own. Here are some steps to guide you as you learn how to fit a cooker hood."
+                ]
+            }
+        },
+        {
+            "id": "6422279",
+            "user": "Wendy Weaver",
+            "timestamp": "00:35, 30 July 2011",
+            "anon": false,
+            "size": "(3,675 bytes)",
+            "change": 73,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Install Duct Work|How to Install Duct Work]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6099398",
+            "user": "Anniesarah",
+            "timestamp": "09:12, 30 May 2011",
+            "anon": false,
+            "size": "(3,602 bytes)",
+            "change": 25,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Appliances]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6047581",
+            "user": "WRM",
+            "timestamp": "07:00, 22 May 2011",
+            "anon": false,
+            "size": "(3,577 bytes)",
+            "change": 3577,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Fitting a cooker hood refers to the process of installing a vent over your range in order to reduce the heat and odors caused by cooking. The process is not overly complicated, and with a little know-how, this is a home improvement task that you can accomplish on your own. Here are some steps to guide you as you learn how to fit a cooker hood.",
+                    "== Steps ==",
+                    "# Cut the power supply to the range at your circuit breaker or fuse box.",
+                    "# Remove the fan, hood and all other components from their packaging.",
+                    "# Determine from which direction the wiring will come, and punch the appropriate pre-made hole from the hood.",
+                    "# Cover the top duct with the included cover, leaving only the rear duct hole exposed.",
+                    "# Lift the hood up to where you will install it and create an outline for the wall section to be removed.",
+                    "#* Make sure to account for the wiring as well as the venting duct.",
+                    "# Use a drill to punch holes in the corners of your outline.",
+                    "# Cut along the outline, using a drywall saw, from one hole to the next.",
+                    "# Create a hole in the wall using the same drill bit to access the necessary wiring.",
+                    "# Pull the cable through.",
+                    "# Drill through the interior wall to create a guideline, marking the corners, on the exterior wall.",
+                    "# Use a reciprocating saw to cut all the way through, from the exterior to the interior, to the other hole.",
+                    "# Return to the kitchen and position a wiring clamp in the hole you've punched in the hood.",
+                    "# Install a duct cap using screws on the exterior of the wall.",
+                    "# Trim the excess ductwork using metal shears and then attach it to the cap with screws.",
+                    "# Apply silicone sealant generously to ductwork at the exterior.",
+                    "# Slide the hood into place and then feed the electrical wiring through the back of it.",
+                    "# Push the hood upward to allow it to connect with the ductwork.",
+                    "# Install screws to secure the hood to the underside of the cabinets.",
+                    "# Reconnect the electrical connections by attaching the ground wire to the green screw in the frame.",
+                    "# Twist the black wires together, fastening the ends with a wire nut.",
+                    "# Repeat the previous step with the white wires.",
+                    "# Install the fan, lights, cover and filter.",
+                    "# Go to the circuit breaker or fuse box and restore the power supply.",
+                    "",
+                    "== Tips ==",
+                    "* Remove any surrounding shelving to increase your work space.",
+                    "* Be sure to maintain a 2 foot (0.61 M) minimum clearance between the range and the cooker hood.",
+                    "* Creating a guideline from the interior wall guarantees proper alignment between the two holes.",
+                    "* When dealing with a brick or stucco exterior, drill the guide-holes with a masonry bit. Drill a close series of holes in the exterior, and then use a chisel to remove the wall.",
+                    "* When fitting the ducts, be sure that they are accurately fitted, in order to allow proper function of the damper.",
+                    "* The fan in a smaller hood tends to be noisier. Consider fitting a larger hood, and then running the fan more slowly.",
+                    "* Installing a cooker hood will minimize smoke accumulation and eliminate setting off smoke alarms.",
+                    "* A cooker hood will serve to increase the lighting over your stove.",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.ronhazelton.com/archives/projects/remove-install-venthood.shtm http://www.ronhazelton.com/archives/projects/remove-install-venthood.shtm]",
+                    "* [http://www.easy2diy.com/cm/easy/diy_ht_3d_index.asp?page_id=35743526 http://www.easy2diy.com/cm/easy/diy_ht_3d_index.asp?page_id=35743526]",
+                    "* [http://americanheritagecustomhomes.info/2011/04/five-reasons-to-install-a-cooker-hood-in-your-kitchen/ http://americanheritagecustomhomes.info/2011/04/five-reasons-to-install-a-cooker-hood-in-your-kitchen/]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

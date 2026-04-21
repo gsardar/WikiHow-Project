@@ -1,0 +1,1521 @@
+{
+    "title": "Solder-Wires-Together",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:59:43.868393",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34174935",
+            "user": "Votebot",
+            "timestamp": "09:17, 4 April 2026",
+            "anon": false,
+            "size": "(11,628 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Avoid breathing in the fumes from the solder since it can be harmful."
+                ],
+                "removed": [
+                    "*Avoid breathing in the fumes from the solder since it can be harmful."
+                ]
+            }
+        },
+        {
+            "id": "33540830",
+            "user": "Seymour Edits",
+            "timestamp": "01:38, 9 July 2025",
+            "anon": false,
+            "size": "(11,628 bytes)",
+            "change": 143,
+            "summary": "(Added sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>https://www.circuitrework.com/guides/7-1-1.html</ref>[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes.<ref>https://learn.sparkfun.com/tutorials/working-with-wire/how-to-splice-wires</ref> Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image:Solder Wires Together Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image:Solder Wires Together Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33430594",
+            "user": "WikiHow Projects",
+            "timestamp": "23:22, 27 May 2025",
+            "anon": false,
+            "size": "(11,485 bytes)",
+            "change": 76,
+            "summary": "(Adding internal link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use [[Solder|solder]] to make a connection that will last for a long time. Start by [[Strip-Wire|stripping the wires]] and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!",
+                    "#Put [[Use-Soldering-Flux|rosin flux]] on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Slide the [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image:Solder Wires Together Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image:Solder Wires Together Step 12.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33275926",
+            "user": "Votebot",
+            "timestamp": "08:47, 28 March 2025",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Don’t touch the soldering iron while it’s still hot since it could burn you."
+                ],
+                "removed": [
+                    "*Don’t touch the soldering iron while it’s still hot since it could burn you."
+                ]
+            }
+        },
+        {
+            "id": "33094612",
+            "user": "Votebot",
+            "timestamp": "09:55, 25 January 2025",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Don’t touch the soldering iron while it’s still hot since it could burn you."
+                ],
+                "removed": [
+                    "*Don’t touch the soldering iron while it’s still hot since it could burn you."
+                ]
+            }
+        },
+        {
+            "id": "33022098",
+            "user": "Votebot",
+            "timestamp": "09:49, 25 December 2024",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Avoid breathing in the fumes from the solder since it can be harmful."
+                ],
+                "removed": [
+                    "*Avoid breathing in the fumes from the solder since it can be harmful."
+                ]
+            }
+        },
+        {
+            "id": "32882849",
+            "user": "Votebot",
+            "timestamp": "08:47, 24 October 2024",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Wash your hands thoroughly after handling leaded solder, since the lead can make you sick if you consume it."
+                ],
+                "removed": [
+                    "*Wash your hands thoroughly after handling leaded solder, since the lead can make you sick if you consume it."
+                ]
+            }
+        },
+        {
+            "id": "32586175",
+            "user": "Seymour Edits",
+            "timestamp": "21:08, 18 June 2024",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": -324,
+            "summary": "(Reverted edits by Seymour Edits (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solder]]",
+                    "*[[Solder-Electronics]]",
+                    "*[[Practice-Soldering]]",
+                    "*[[Crimp-Rj45]]",
+                    "*[[Connect-Coaxial-Cable-Connectors]]",
+                    "*[[Use-Soldering-Flux]]",
+                    "*[[Wire-a-Potentiometer]]",
+                    "*[[Wrap-Cables]]",
+                    "*[[Crimp-a-Wire]]",
+                    "*[[Splice-Wire]]",
+                    "*[[Solder-Silver]]",
+                    "*[[Make-Battery-Cables]]",
+                    "*[[Desolder]]",
+                    "*[[Clean-a-Solder-Iron]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "32585909",
+            "user": "Seymour Edits",
+            "timestamp": "19:31, 18 June 2024",
+            "anon": false,
+            "size": "(11,733 bytes)",
+            "change": 324,
+            "summary": "(Updated YMAL section. Do not revert.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Solder]]",
+                    "*[[Solder-Electronics]]",
+                    "*[[Practice-Soldering]]",
+                    "*[[Crimp-Rj45]]",
+                    "*[[Connect-Coaxial-Cable-Connectors]]",
+                    "*[[Use-Soldering-Flux]]",
+                    "*[[Wire-a-Potentiometer]]",
+                    "*[[Wrap-Cables]]",
+                    "*[[Crimp-a-Wire]]",
+                    "*[[Splice-Wire]]",
+                    "*[[Solder-Silver]]",
+                    "*[[Make-Battery-Cables]]",
+                    "*[[Desolder]]",
+                    "*[[Clean-a-Solder-Iron]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32451478",
+            "user": "Votebot",
+            "timestamp": "08:41, 21 April 2024",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "*Wash your hands thoroughly after handling leaded solder, since the lead can make you sick if you consume it."
+                ],
+                "removed": [
+                    "*Wash your hands thoroughly after handling leaded solder, since the lead can make you sick if you consume it."
+                ]
+            }
+        },
+        {
+            "id": "32117314",
+            "user": "WikiHow Horizon",
+            "timestamp": "12:36, 5 December 2023",
+            "anon": false,
+            "size": "(11,409 bytes)",
+            "change": -61,
+            "summary": "(Removing broken links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.[[Image:Solder Wires Together Step 4.jpg|center]]"
+                ],
+                "removed": [
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image:Solder Wires Together Step 4.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31753807",
+            "user": "Seymour Edits",
+            "timestamp": "22:21, 30 June 2023",
+            "anon": false,
+            "size": "(11,470 bytes)",
+            "change": 72,
+            "summary": "(Replaced bad references for wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on.<ref>[v162030_b01]. 1 December 2021.</ref> Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>[[Image:Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>{{greenbox:'''Tip:''' If you you need to straighten out the wires so they're easier to line up with each other, use needle nose pliers or lineman pliers. Work at each wire in little sections at a time until it's straight again.<ref>[v162030_b01]. 1 December 2021.</ref>}}{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://www.diydoctor.org.uk/projects/cablestrip.htm</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on.<ref>[v162030_b01]. 1 December 2021.</ref> Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you you need to straighten out the wires so they're easier to line up with each other, use needle nose pliers or lineman pliers. Work at each wire in little sections at a time until it's straight again.<ref>[v162030_b01]. 1 December 2021.</ref>}}{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31604257",
+            "user": "EpcotMagic",
+            "timestamp": "00:46, 7 May 2023",
+            "anon": false,
+            "size": "(11,398 bytes)",
+            "change": 46,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Solder Wires Together|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31174291",
+            "user": "Seymour Edits",
+            "timestamp": "04:13, 16 December 2022",
+            "anon": false,
+            "size": "(11,352 bytes)",
+            "change": 42,
+            "summary": "(Added another expert citation)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on.<ref>[v162030_b01]. 1 December 2021.</ref> Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31174287",
+            "user": "Seymour Edits",
+            "timestamp": "04:11, 16 December 2022",
+            "anon": false,
+            "size": "(11,310 bytes)",
+            "change": 271,
+            "summary": "(Added expert citation)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you you need to straighten out the wires so they're easier to line up with each other, use needle nose pliers or lineman pliers. Work at each wire in little sections at a time until it's straight again.<ref>[v162030_b01]. 1 December 2021.</ref>}}{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30981395",
+            "user": "Eric",
+            "timestamp": "23:30, 16 October 2022",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": -28,
+            "summary": "(Reverted edits by 122.56.171.117 (Talk); changed back to last version by EpcotMagic)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ],
+                "removed": [
+                    "pee poo pee poo ur mons fat Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ]
+            }
+        },
+        {
+            "id": "30981393",
+            "user": "122.56.171.117",
+            "timestamp": "23:26, 16 October 2022",
+            "anon": true,
+            "size": "(11,067 bytes)",
+            "change": 28,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Eric",
+            "exact_contribution": {
+                "added": [
+                    "pee poo pee poo ur mons fat Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ],
+                "removed": [
+                    "Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ]
+            }
+        },
+        {
+            "id": "30885331",
+            "user": "EpcotMagic",
+            "timestamp": "16:05, 17 September 2022",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": -54,
+            "summary": "(Reverted edits by 136.228.203.91 (Talk); changed back to last version by ICanGuessItLol)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Eric",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "[[Category:Soldering and Brazing]]",
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image:Solder Wires Together Step 4.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image:Solder Wires Together Step 7.jpg|center]]",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice.<Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>[[Image:Solder Wires Together Step 8.jpg|center]]",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire.<ref>https://youtu.be/Zu3TYBs65FM?t=594</ref>[[Image:Solder Wires Together Step 9.jpg|center]]",
+                    "#*You can choose to wear a face mask if you want, but it’s not required.{{greenbox:'''Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>[[Image:Solder Wires Together Step 10.jpg|center]]",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone paste so it stays protected.<ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>[[Image:Solder Wires Together Step 11.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image:Solder Wires Together Step 12.jpg|center]]",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat.<ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>[[Image:Solder Wires Together Step 13.jpg|center]]",
+                    "#*You can buy a heat gun from your local hardware store or online.{{greenbox:'''Tip:''' If you don’t have a heat gun, you can also use a lighter but it may not shrink the tubing as evenly.}}",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished!<ref>https://youtu.be/qxqZJH3SfN4?t=400</ref>[[Image:Solder Wires Together Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Category: Electrical Wiring and Safety Switches]]",
+                    "[[Category: Soldering and Brazing]]",
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers aka wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well. <ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image: Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing aka heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end. <ref>https://youtu.be/Q9G9gaokqvM?t=192</ref> [[Image: Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides. <ref>https://youtu.be/Zu3TYBs65FM?t=458</ref> {{green box:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}} [[Image: Solder Wires Together Step 3.jpg|center]]",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them. <ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image: Solder Wires Together Step 4.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel. <Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image: Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily. [[Image: Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance. <ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image: Solder Wires Together Step 7.jpg|center]]",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires, so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice. <Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>[[Image: Solder Wires Together Step 8.jpg|center]]",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire. <ref>https://youtu.be/Zu3TYBs65FM?t=594</ref> [[Image: Solder Wires Together Step 9.jpg|center]]",
+                    "#*You can choose to wear a face mask if you want, but it’s not required. {{green box: 'Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as be reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify, and you can handle it again. <ref>https://youtu.be/qxqZJH3SfN4?t=272</ref> [[Image: Solder Wires Together Step 10.jpg|center]]",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone pastes so it stays protected. <ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>[[Image: Solder Wires Together Step 11.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through. <ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image: Solder Wires Together Step 12.jpg|center]]",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat. <ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>[[Image: Solder Wires Together Step 13.jpg|center]]",
+                    "#*You can buy a heat gun from your local hardware store or online. {{green box: 'Tip:''' If you don’t have a heat gun, you can also use a lighter, but it may not shrink the tubing as evenly.}}",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished! <ref>https://youtu.be/qxqZJH3SfN4?t=400</ref> [[Image: Solder Wires Together Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30884181",
+            "user": "136.228.203.91",
+            "timestamp": "06:06, 17 September 2022",
+            "anon": true,
+            "size": "(11,093 bytes)",
+            "change": 54,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "EpcotMagic",
+            "exact_contribution": {
+                "added": [
+                    "[[Category: Electrical Wiring and Safety Switches]]",
+                    "[[Category: Soldering and Brazing]]",
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers aka wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well. <ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image: Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing aka heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end. <ref>https://youtu.be/Q9G9gaokqvM?t=192</ref> [[Image: Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides. <ref>https://youtu.be/Zu3TYBs65FM?t=458</ref> {{green box:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}} [[Image: Solder Wires Together Step 3.jpg|center]]",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them. <ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image: Solder Wires Together Step 4.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel. <Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image: Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily. [[Image: Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance. <ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image: Solder Wires Together Step 7.jpg|center]]",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires, so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice. <Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>[[Image: Solder Wires Together Step 8.jpg|center]]",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire. <ref>https://youtu.be/Zu3TYBs65FM?t=594</ref> [[Image: Solder Wires Together Step 9.jpg|center]]",
+                    "#*You can choose to wear a face mask if you want, but it’s not required. {{green box: 'Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as be reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify, and you can handle it again. <ref>https://youtu.be/qxqZJH3SfN4?t=272</ref> [[Image: Solder Wires Together Step 10.jpg|center]]",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone pastes so it stays protected. <ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>[[Image: Solder Wires Together Step 11.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through. <ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image: Solder Wires Together Step 12.jpg|center]]",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat. <ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>[[Image: Solder Wires Together Step 13.jpg|center]]",
+                    "#*You can buy a heat gun from your local hardware store or online. {{green box: 'Tip:''' If you don’t have a heat gun, you can also use a lighter, but it may not shrink the tubing as evenly.}}",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished! <ref>https://youtu.be/qxqZJH3SfN4?t=400</ref> [[Image: Solder Wires Together Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "[[Category:Soldering and Brazing]]",
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image:Solder Wires Together Step 4.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image:Solder Wires Together Step 7.jpg|center]]",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice.<Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>[[Image:Solder Wires Together Step 8.jpg|center]]",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire.<ref>https://youtu.be/Zu3TYBs65FM?t=594</ref>[[Image:Solder Wires Together Step 9.jpg|center]]",
+                    "#*You can choose to wear a face mask if you want, but it’s not required.{{greenbox:'''Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>[[Image:Solder Wires Together Step 10.jpg|center]]",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone paste so it stays protected.<ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>[[Image:Solder Wires Together Step 11.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image:Solder Wires Together Step 12.jpg|center]]",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat.<ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>[[Image:Solder Wires Together Step 13.jpg|center]]",
+                    "#*You can buy a heat gun from your local hardware store or online.{{greenbox:'''Tip:''' If you don’t have a heat gun, you can also use a lighter but it may not shrink the tubing as evenly.}}",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished!<ref>https://youtu.be/qxqZJH3SfN4?t=400</ref>[[Image:Solder Wires Together Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30676065",
+            "user": "ICanGuessItLol",
+            "timestamp": "22:59, 5 July 2022",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": -569,
+            "summary": "(Reverted edits by Kahoot!King (Talk); changed back to last version by ICanGuessItLol)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "EpcotMagic",
+            "exact_contribution": {
+                "added": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>",
+                    "#If you need to solder solid wires with a big diameter, you will find that it may not be easy to bend or twist them. The following technique<ref>http://soldering-irons.com/how-to-solder-wires-together-solid-stranded-3-two/</ref> may be applied when you have to solder thick solid wires:",
+                    "#*strip the ends of the wires to remove insulation from the wires",
+                    "#* tin both wires",
+                    "#* line up exposed ends of wires parallel each other",
+                    "#*use a thin solid wire (28-32 AWG) and wrap it around both wires. Make several turns and cut the excess of the wire.",
+                    "#*start soldering wires",
+                    "",
+                    "",
+                    "{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30676061",
+            "user": "Kahoot!King",
+            "timestamp": "22:58, 5 July 2022",
+            "anon": false,
+            "size": "(11,608 bytes)",
+            "change": 569,
+            "summary": "(RCP reverted edits by ICanGuessItLol (talk) to  revision #30675959 by Sini Saja)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>",
+                    "#If you need to solder solid wires with a big diameter, you will find that it may not be easy to bend or twist them. The following technique<ref>http://soldering-irons.com/how-to-solder-wires-together-solid-stranded-3-two/</ref> may be applied when you have to solder thick solid wires:",
+                    "#*strip the ends of the wires to remove insulation from the wires",
+                    "#* tin both wires",
+                    "#* line up exposed ends of wires parallel each other",
+                    "#*use a thin solid wire (28-32 AWG) and wrap it around both wires. Make several turns and cut the excess of the wire.",
+                    "#*start soldering wires",
+                    "",
+                    "",
+                    "{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30675965",
+            "user": "ICanGuessItLol",
+            "timestamp": "21:35, 5 July 2022",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": -569,
+            "summary": "(Reverted edits by Sini Saja (Talk); changed back to last version by ICanGuessItLol)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "EpcotMagic",
+            "exact_contribution": {
+                "added": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>",
+                    "#If you need to solder solid wires with a big diameter, you will find that it may not be easy to bend or twist them. The following technique<ref>http://soldering-irons.com/how-to-solder-wires-together-solid-stranded-3-two/</ref> may be applied when you have to solder thick solid wires:",
+                    "#*strip the ends of the wires to remove insulation from the wires",
+                    "#* tin both wires",
+                    "#* line up exposed ends of wires parallel each other",
+                    "#*use a thin solid wire (28-32 AWG) and wrap it around both wires. Make several turns and cut the excess of the wire.",
+                    "#*start soldering wires",
+                    "",
+                    "",
+                    "{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30675959",
+            "user": "Sini Saja",
+            "timestamp": "21:26, 5 July 2022",
+            "anon": false,
+            "size": "(11,608 bytes)",
+            "change": 569,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Kahoot!King",
+            "exact_contribution": {
+                "added": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>",
+                    "#If you need to solder solid wires with a big diameter, you will find that it may not be easy to bend or twist them. The following technique<ref>http://soldering-irons.com/how-to-solder-wires-together-solid-stranded-3-two/</ref> may be applied when you have to solder thick solid wires:",
+                    "#*strip the ends of the wires to remove insulation from the wires",
+                    "#* tin both wires",
+                    "#* line up exposed ends of wires parallel each other",
+                    "#*use a thin solid wire (28-32 AWG) and wrap it around both wires. Make several turns and cut the excess of the wire.",
+                    "#*start soldering wires",
+                    "",
+                    "",
+                    "{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29817986",
+            "user": "ICanGuessItLol",
+            "timestamp": "01:27, 19 August 2021",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": 2,
+            "summary": "(RCP reverted edits by 172.58.60.32 (talk) to  revision #28695313 by Seymour Edits)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "EpcotMagic",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-poopers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29817629",
+            "user": "172.58.60.32",
+            "timestamp": "20:49, 18 August 2021",
+            "anon": true,
+            "size": "(11,037 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-poopers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28695313",
+            "user": "Seymour Edits",
+            "timestamp": "04:01, 5 October 2020",
+            "anon": false,
+            "size": "(11,039 bytes)",
+            "change": -64,
+            "summary": "(Link cleanup.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27933573",
+            "user": "Votebot",
+            "timestamp": "08:25, 2 April 2020",
+            "anon": false,
+            "size": "(11,103 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    ""
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "27269832",
+            "user": "Wikivisual",
+            "timestamp": "13:46, 25 October 2019",
+            "anon": false,
+            "size": "(11,100 bytes)",
+            "change": 30,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1 Version 2.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5 Version 2.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>[[Image:Solder Wires Together Step 6 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>[[Image:Solder Wires Together Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27244477",
+            "user": "Wikivisual",
+            "timestamp": "06:12, 21 October 2019",
+            "anon": false,
+            "size": "(11,070 bytes)",
+            "change": 691,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>[[Image:Solder Wires Together Step 1.jpg|center]]",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>[[Image:Solder Wires Together Step 2.jpg|center]]",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}[[Image:Solder Wires Together Step 3.jpg|center]]",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>[[Image:Solder Wires Together Step 4.jpg|center]]",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>[[Image:Solder Wires Together Step 5.jpg|center]]",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>[[Image:Solder Wires Together Step 6.jpg|center]]",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>[[Image:Solder Wires Together Step 7.jpg|center]]",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice.<Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>[[Image:Solder Wires Together Step 8.jpg|center]]",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire.<ref>https://youtu.be/Zu3TYBs65FM?t=594</ref>[[Image:Solder Wires Together Step 9.jpg|center]]",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>[[Image:Solder Wires Together Step 10.jpg|center]]",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone paste so it stays protected.<ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>[[Image:Solder Wires Together Step 11.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>[[Image:Solder Wires Together Step 12.jpg|center]]",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat.<ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>[[Image:Solder Wires Together Step 13.jpg|center]]",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished!<ref>https://youtu.be/qxqZJH3SfN4?t=400</ref>[[Image:Solder Wires Together Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice.<Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire.<ref>https://youtu.be/Zu3TYBs65FM?t=594</ref>",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone paste so it stays protected.<ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat.<ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished!<ref>https://youtu.be/qxqZJH3SfN4?t=400</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27168924",
+            "user": "82.1.148.132",
+            "timestamp": "16:39, 3 October 2019",
+            "anon": true,
+            "size": "(10,379 bytes)",
+            "change": 6,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Soldering involves melting a low-temperature metal alloy over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ],
+                "removed": [
+                    "Soldering involves melting a low-temperature metal over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!"
+                ]
+            }
+        },
+        {
+            "id": "27153681",
+            "user": "Seymour Edits",
+            "timestamp": "15:37, 30 September 2019",
+            "anon": false,
+            "size": "(10,373 bytes)",
+            "change": 612,
+            "summary": "(Adding new warnings, clarifying information)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a [[Use-Wire-Strippers|wire stripper]] {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>",
+                    "#Slide a piece of [[Use-Heat-Shrink-Tubing|heat-shrink tubing]] onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>",
+                    "#Twist the ends of the wires together to [[Splice Wire|combine them]]. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}",
+                    "#*Lead can be harmful if you consume it, so make sure to wash your hands thoroughly after you solder with it. You can wear gloves if you want, but they aren’t required since you won’t be working with the solder for very long.",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Put on a pair of safety glasses to protect your eyes. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>",
+                    "#*Wear old clothes that you don’t mind getting singed if you accidentally touch them with the soldering iron or hot solder.",
+                    "#*Don’t breathe the fumes created by the solder since it can cause irritation and be harmful to your body. Work in a well-ventilated area to make sure the fumes don’t build up.",
+                    "#*You can choose to wear a face mask if you want, but it’s not required.{{greenbox:'''Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes so it solidifies. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>",
+                    "*Be sure to work in a well-ventilated area so the fumes from the solder don’t build up.",
+                    "*Safety glasses"
+                ],
+                "removed": [
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a wire stripper {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>",
+                    "#Slide a piece of heat-shrink tubing onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>",
+                    "#[[Splice Wire|Splice the wires]] together to combine them. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}",
+                    "#*Lead can be harmful if you consume it, so make sure to wash your hands thoroughly after you solder with it.",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>",
+                    "#*Don’t breathe the fumes created by the solder since it can cause irritation and be harmful to your body.{{greenbox:'''Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as reliable of a connection and could cause a fuse to blow.}}",
+                    "#Let the solder cool for about 1-2 minutes to let it solidify. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27142422",
+            "user": "Seymour Edits",
+            "timestamp": "00:03, 28 September 2019",
+            "anon": false,
+            "size": "(9,761 bytes)",
+            "change": 126,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#*You can buy a heat gun from your local hardware store or online.{{greenbox:'''Tip:''' If you don’t have a heat gun, you can also use a lighter but it may not shrink the tubing as evenly.}}"
+                ],
+                "removed": [
+                    "#*You can buy a heat gun from your local hardware store or online."
+                ]
+            }
+        },
+        {
+            "id": "27142421",
+            "user": "Seymour Edits",
+            "timestamp": "00:02, 28 September 2019",
+            "anon": false,
+            "size": "(9,635 bytes)",
+            "change": 228,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#*Don’t breathe the fumes created by the solder since it can cause irritation and be harmful to your body.{{greenbox:'''Warning:''' Don’t touch the solder directly to the soldering iron when you apply it to the wires since this creates a “cold solder,” which won’t as reliable of a connection and could cause a fuse to blow.}}"
+                ],
+                "removed": [
+                    "#*Don’t breathe the fumes created by the solder since it can cause irritation and be harmful to your body."
+                ]
+            }
+        },
+        {
+            "id": "27142420",
+            "user": "Seymour Edits",
+            "timestamp": "00:02, 28 September 2019",
+            "anon": false,
+            "size": "(9,407 bytes)",
+            "change": 207,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#[[Splice Wire|Splice the wires]] together to combine them. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>{{greenbox:'''Tip:''' If you have stranded wires, you can also separate the individual strands and push the 2 wires together so the strands intermesh. Twist the strands together to make a solid connection.}}"
+                ],
+                "removed": [
+                    "#[[Splice Wire|Splice the wires]] together to combine them. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27142419",
+            "user": "Seymour Edits",
+            "timestamp": "00:02, 28 September 2019",
+            "anon": false,
+            "size": "(9,200 bytes)",
+            "change": 477,
+            "summary": "(added parts, sources, and greenboxes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "Soldering involves melting a low-temperature metal over a joint or wire splice to secure 2 pieces together without the risk of them coming undone. If you want to combine 2 wires, you can easily use solder to make a connection that will last for a long time. Start by stripping the wires and wrapping them around one another to start the connection. After that, you can melt the solder directly onto the wires to secure them in place. Cover and waterproof the exposed wires to seal them and you’re finished!",
+                    "==Steps==",
+                    "===Splicing Your Wires===",
+                    "#Strip {{Convert|1|in|cm|abbr=on}} of the insulation off the end of each wire. Secure the jaws of a wire stripper {{Convert|1|in|cm}} from the end of one of the wires you’re splicing together. Squeeze the handles together firmly together and pull the jaws toward the end of the wire to remove the insulation. Repeat the process on the end of the other wire you’re splicing as well.<ref>https://youtu.be/Q9G9gaokqvM?t=179</ref>",
+                    "#*You can get wire strippers from your local hardware store.",
+                    "#*If you don’t have a wire stripper, you can also slice through the insulation with a utility knife. Just be careful not to cut through the actual wire inside.",
+                    "#*If you accidentally break strands off of a stranded wire, then the wire could cause a fuse to blow. Cut any remaining strands on the wire and try stripping it again.",
+                    "#Slide a piece of heat-shrink tubing onto one of the wires. Get heat-shrink tubing that’s a gauge larger than the wire you’re using so you can easily slide it on. Cut a piece of tubing that’s at least {{Convert|2|in|cm}} long so it’s able to cover the splice and some of the insulation later on. Slide the heat-shrink tubing onto one of the wires and move it at least {{Convert|1|ft|cm}} away from the exposed end.<ref>https://youtu.be/Q9G9gaokqvM?t=192</ref>",
+                    "#*You can buy heat-shrink tubing from your local hardware store or online.",
+                    "#*Avoid using heat-shrink tubing that’s too large for the wire since you may not be able to secure it completely.",
+                    "#*Don’t keep the heat-shrink tubing near the area you’re soldering since it could shrink from the heat of your soldering iron.",
+                    "#[[Splice Wire|Splice the wires]] together to combine them. Line up the centers of the exposed wires so they form an X-shape. Bend one of the wires down to twist it around the other wire as tightly as you can so it has a firm connection. Make sure the end of the wire doesn’t stick up or point away from the splice or else you won’t have as firm of a connection. Repeat the process with the other wire so your splice looks even on both sides.<ref>https://youtu.be/Zu3TYBs65FM?t=458</ref>",
+                    "#Clamp the wires in alligator clips to keep them off of your work surface. Alligator clips are small metal grips that work well for holding wires in place without them moving around. Place the alligator clips vertically on a flat work surface so the jaws face up. Secure each of the wires into 1 alligator clip so the splice is supported off the work surface between them.<ref>https://www.onthehouse.com/electrical-solder-wire/</ref>",
+                    "#*You can get alligator clips from your local hardware store.",
+                    "#*Make sure you work in a well-ventilated space since the fumes from the soldering iron can be harmful.",
+                    "#*Use a scrap piece of metal or a non-flammable material under the alligator clips to catch any solder spills.",
+                    "#Put rosin flux on the spliced wire to help the solder adhere better. Rosin flux is a compound that helps clean the wires and allows the solder to stick to them. Put a bead-sized amount of rosin flux on your finger and rub it over the exposed wires. Try to coat the wires as evenly as possible so there’s a thin layer of flux on them. Wipe any excess flux off of the wires with your finger or a paper towel.<Ref>https://youtu.be/Zu3TYBs65FM?t=532</ref>",
+                    "#*You can buy rosin flux from your local hardware store.",
+                    "===Applying the Solder===",
+                    "#Get 63/37 leaded solder for the easiest material to work with. Solder is usually made with a combination of metals that melt at a low temperature, like tin or lead. 63/37 solder is made of 63% tin and 37% lead, and it turns right from a solid to a liquid as soon as it reaches {{Convert|361|F|C}}. Opt for 63/37 solder when you’re working with electronics so you can connect the wires together easily.<ref>http://learningrc.com/best-solder-for-rc-electronics/</ref>",
+                    "#*Lead can be harmful if you consume it, so make sure to wash your hands thoroughly after you solder with it.",
+                    "#*You can also get lead-free solder, but it may be more difficult to work with.",
+                    "#*Don’t use silver solder since it’s mainly used for plumbing and pipes.",
+                    "#Melt solder on the tip of your soldering iron to prevent oxidation. Turn on your soldering iron and let it heat up completely, which should only take a few minutes. Hold the end of your solder directly on the end of the iron so a thin layer of it melts onto the iron. Continue putting solder on the iron until it has a shiny appearance.<ref>https://www.mediacollege.com/misc/solder/tinning.html</ref>",
+                    "#*This process is known as “tinning” the iron and it stops oxidation, which can cause the iron to heat unevenly.",
+                    "#*Don’t touch the end of the soldering iron while it’s hot since it can cause severe burns.",
+                    "#Hold the soldering iron against the bottom of the splice to heat the flux. Keep the soldering iron turned on and place it on the bottom side of the wire splice. The heat will transfer from the iron and into the wires so the flux turns into a liquid. Once the flux starts bubbling, you can begin adding solder to the splice.<Ref>https://youtu.be/Zu3TYBs65FM?t=577</ref>",
+                    "#*Thicker gauge wire may take longer to heat up than ones with lower gauges.",
+                    "#Run the tip of the solder on top of the wire so it melts into the wires. Keep the soldering iron on the bottom of the wire to continue heating it. Tap the end of the 63/37 solder on top of the wire splice so the solder melts down into the wires. Run the solder over the entire splice so it can melt and travel into the gaps between the wires. Continue melting the solder until there’s a thin layer of solder covering all of the exposed wire.<ref>https://youtu.be/Zu3TYBs65FM?t=594</ref>",
+                    "#*Don’t breathe the fumes created by the solder since it can cause irritation and be harmful to your body.",
+                    "#Let the solder cool for about 1-2 minutes to let it solidify. Once you’re finished, pull the solder and iron away from the splice so it has a chance to cool. Don’t touch or disturb the wire while it’s drying since you could loosen the connection between them. After about 1-2 minutes, the solder will solidify and you can handle it again.<ref>https://youtu.be/qxqZJH3SfN4?t=272</ref>",
+                    "===Sealing the Connection===",
+                    "#Rub silicone paste on the soldered wire to make it waterproof. Silicone paste, also known as dielectric grease, prevents the metal wires from rusting and makes your splice completely waterproof. Use a bead-sized amount of silicone paste and spread it over the soldered wire with your finger. Make sure the wire has a thin, even layer of the silicone paste so it stays protected.<ref>https://youtu.be/qxqZJH3SfN4?t=283</ref>",
+                    "#*You can buy silicone paste from your local hardware store.",
+                    "#Slide the heat-shrink tubing over the exposed wires. Take the heat-shrink tubing that you put on the wire earlier and move it back over the soldered wire. Make sure the edges of the heat-shrink tubing go over the insulation by at least {{Convert|1/4|in|cm}} so there isn’t any exposed wire showing through.<ref>https://youtu.be/Zu3TYBs65FM?t=673</ref>",
+                    "#*It’s okay if some of the silicone oozes out from the heat-shrink tubing since there is still enough on the wires to protect them.",
+                    "#Use a heat gun to shrink the tubing over the soldered wires. Hold a heat gun so it’s about {{Convert|4-5|in|cm}} away from the tubing. Turn the heat gun onto the lowest setting and start applying heat to the center of the tubing. Work around the entire circumference of the wire, heating from the center to the edges so excess silicone paste oozes out of the sides. Once the heat-shrink tubing is tight on the wire, you can stop applying heat.<ref>https://youtu.be/Zu3TYBs65FM?t=678</ref>",
+                    "#*You can buy a heat gun from your local hardware store or online.",
+                    "#Wipe off any excess silicone paste with a paper towel. There will be some silicone paste that leaks out the sides of the tubing as it shrinks. Once the wire and tubing are cool to the touch, use a piece of paper towel to wipe the silicone off of the wires so they’re clean. Once you remove the silicone paste, your wires are finished!<ref>https://youtu.be/qxqZJH3SfN4?t=400</ref>",
+                    "",
+                    "==Warnings==",
+                    "*Don’t touch the soldering iron while it’s still hot since it could burn you.",
+                    "*Avoid breathing in the fumes from the solder since it can be harmful.",
+                    "*Wash your hands thoroughly after handling leaded solder, since the lead can make you sick if you consume it.",
+                    "==Things You’ll Need==",
+                    "*Wire strippers",
+                    "*Heat-shrink tubing",
+                    "*Alligator clips",
+                    "*Rosin flux",
+                    "*63/37 leaded solder",
+                    "*Soldering iron",
+                    "*Silicone paste",
+                    "*Heat gun",
+                    "*Paper towel",
+                    "__parts__"
+                ],
+                "removed": [
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined. These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ''all'' warnings.",
+                    "== Steps ==",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered.<ref>https://www.popularmechanics.com/cars/a1430/4213013/</ref>  To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#* Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#[[Image:Crop2step2.jpg|center]] Pull the unwanted jacket off.  Once you have that slight cut in the jacket, you should be able to bend the jacket back and forth until the jacket comes loose.  You can do this with the strippers or with your fingers.  If it does not come loose right away try making a little deeper cut into the jacket.  The idea is to get the piece of jacket off without sacrificing any copper threads.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.<ref>https://www.popularmechanics.com/cars/a1430/4213013/</ref>   The piece of shrink tube should be longer than the area being soldered.",
+                    "#* The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "# [[Image:IMG_3041.jpg|center]]\tFlay both ½” pieces of copper wire.  To make a good connection between the copper wires, you will want as much of the wires touching each other as possible.  Typically, the best way to do this is to flay each end of the wire out.  Do this by rubbing the wire between your fingers.  The wires should now look like this.",
+                    "#  [[Image:Step4crop.jpg|center]]Push the flayed ends into each other. The copper wires should be slightly intertwined with each other.  Twist and smooth the strands into each other so they hold together.  The goal is to make the strands of copper from the two separate wires look like one.  Make sure the area is smooth.  This is the area that you will be soldering.  If it is too bulky, you may not be able to fit the shrink over the joint.",
+                    "#  [[Image:IMG_3047.jpg|center]]\tAdd the solder flux to the connection.  You can use your finger or a utensil to do this.  Don’t be modest with the flux, but don’t waste it either.  You can always add more later.  The flux will help the solder flow into the wires so the more you have on the connection, the easier your soldering job will be.   Start with a little glob on your finger or utensil and brush it onto the wires.  The next step will involve heating the wire which will soak up this flux.",
+                    "#  [[Image:Heat flux.jpg|center]]Heat the flux into the wires.  Use your heat gun or blow dryer, assuming your blow dryer produces enough heat, to melt the flux.  Do not just point the heat source at the wires.  You will want to wave the heat source back and forth so there is not as much direct heat on the wires.  Overheating the jacket may cause it to melt.  Be careful, you do not want the shrink tube to receive any heat yet, so make sure the shrink tube is far from the area you are applying the heat.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron.<ref>https://www.makerspaces.com/how-to-solder/</ref>  (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#* Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; so use caution!",
+                    "#  [[Image:IMG_3058.jpg|center]] Turn on the solder box.  It is important to keep the solder box and iron in a safe area.  You should only turn the iron on when you are ready to use it.  Keep flammable objects away from the iron at all times.  Remember to turn the box off as soon as you are done using it.  Add water to the sponge below the soldering iron holder.  This sponge can be used to clean the tip of your iron.<ref>https://www.makerspaces.com/how-to-solder/</ref>",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron. Picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.<ref>http://knowhow.napaonline.com/know-how-notes-how-to-solder-wires/</ref>   If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "#  [[Image:Inspect2343.jpg|center]] Inspect the joint.  The wires should now be fully joined.  Look at all sides of the connection.  Sometimes if the solder doesn’t flow properly, the back side of the connection may not have enough solder to properly join the wire resulting in a weak connection.  A slight tug on the wires can be used to ensure a good bind.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area; shrink tube just works well in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "== Warnings ==",
+                    "*Soldering irons typically have a tip temperature between 600 and 800 degrees Fahrenheit.",
+                    "*Be very careful when handling any sharp or hot object.",
+                    "*Carefully return the iron to its holder whenever it is not in use.",
+                    "*Solder in well ventilated area.  Fumes can be toxic.",
+                    "*Do not work on live electrical wires.",
+                    "== Things You'll Need ==",
+                    "*heat gun (or blow dryer)",
+                    "*shrink tube (or electrical tape if you prefer)",
+                    "*small piece of cardboard (to keep a clean area)",
+                    "*flux paste",
+                    "*solder",
+                    "*scissors",
+                    "*wire strippers",
+                    "*ruler",
+                    "*flex-tape",
+                    "*soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "*[[Image:IMG_3092.jpg|right]]"
+                ]
+            }
+        },
+        {
+            "id": "26716175",
+            "user": "Seymour Edits",
+            "timestamp": "07:53, 24 June 2019",
+            "anon": false,
+            "size": "(8,723 bytes)",
+            "change": 341,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Seymour Edits",
+            "exact_contribution": {
+                "added": [
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered.<ref>https://www.popularmechanics.com/cars/a1430/4213013/</ref>  To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.<ref>https://www.popularmechanics.com/cars/a1430/4213013/</ref>   The piece of shrink tube should be longer than the area being soldered.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron.<ref>https://www.makerspaces.com/how-to-solder/</ref>  (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#  [[Image:IMG_3058.jpg|center]] Turn on the solder box.  It is important to keep the solder box and iron in a safe area.  You should only turn the iron on when you are ready to use it.  Keep flammable objects away from the iron at all times.  Remember to turn the box off as soon as you are done using it.  Add water to the sponge below the soldering iron holder.  This sponge can be used to clean the tip of your iron.<ref>https://www.makerspaces.com/how-to-solder/</ref>",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.<ref>http://knowhow.napaonline.com/know-how-notes-how-to-solder-wires/</ref>   If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#  [[Image:IMG_3058.jpg|center]] Turn on the solder box.  It is important to keep the solder box and iron in a safe area.  You should only turn the iron on when you are ready to use it.  Keep flammable objects away from the iron at all times.  Remember to turn the box off as soon as you are done using it.  Add water to the sponge below the soldering iron holder.  This sponge can be used to clean the tip of your iron.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full."
+                ]
+            }
+        },
+        {
+            "id": "24675339",
+            "user": "P Hills",
+            "timestamp": "20:50, 31 May 2018",
+            "anon": false,
+            "size": "(8,382 bytes)",
+            "change": -1,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Step4crop.jpg|center]]Push the flayed ends into each other. The copper wires should be slightly intertwined with each other.  Twist and smooth the strands into each other so they hold together.  The goal is to make the strands of copper from the two separate wires look like one.  Make sure the area is smooth.  This is the area that you will be soldering.  If it is too bulky, you may not be able to fit the shrink over the joint."
+                ],
+                "removed": [
+                    "#  [[Image:Step4crop.jpg|center]]Push the flayed ends into each other so that the copper wires are slightly intertwined with each other.  Twist and smooth the strands into each other so they hold together.  The goal is to make the strands of copper from the two separate wires look like one.  Make sure the area is smooth.  This is the area that you will be soldering.  If it is too bulky, you may not be able to fit the shrink over the joint."
+                ]
+            }
+        },
+        {
+            "id": "24674297",
+            "user": "207.163.34.205",
+            "timestamp": "17:25, 31 May 2018",
+            "anon": true,
+            "size": "(8,383 bytes)",
+            "change": -7,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "*heat gun (or blow dryer)",
+                    "*shrink tube (or electrical tape if you prefer)",
+                    "*small piece of cardboard (to keep a clean area)",
+                    "*flux paste",
+                    "*solder",
+                    "*scissors",
+                    "*wire strippers",
+                    "*ruler",
+                    "*flex-tape",
+                    "*soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "*[[Image:IMG_3092.jpg|right]]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "* heat gun (or blow dryer)",
+                    "* shrink tube (or electrical tape if you prefer)",
+                    "* small piece of cardboard (to keep a clean area)",
+                    "* flux paste",
+                    "* solder",
+                    "* scissors",
+                    "* wire strippers",
+                    "* ruler",
+                    "* soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "[[Image:IMG_3092.jpg|right]]"
+                ]
+            }
+        },
+        {
+            "id": "21308450",
+            "user": "Flickety",
+            "timestamp": "21:24, 9 November 2016",
+            "anon": false,
+            "size": "(8,390 bytes)",
+            "change": 14,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Soldering and Brazing]]"
+                ],
+                "removed": [
+                    "[[Category:Welding]]"
+                ]
+            }
+        },
+        {
+            "id": "21297508",
+            "user": "Flickety",
+            "timestamp": "20:51, 7 November 2016",
+            "anon": false,
+            "size": "(8,376 bytes)",
+            "change": 32,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "[[Category:Welding]]"
+                ],
+                "removed": [
+                    "[[Category:Metalwork and Wire Projects]]"
+                ]
+            }
+        },
+        {
+            "id": "19747599",
+            "user": "FatemehB12",
+            "timestamp": "02:20, 3 March 2016",
+            "anon": false,
+            "size": "(8,344 bytes)",
+            "change": 42,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Metalwork and Wire Projects]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "19747299",
+            "user": "Bambiziyi",
+            "timestamp": "00:36, 3 March 2016",
+            "anon": false,
+            "size": "(8,302 bytes)",
+            "change": -1480,
+            "summary": "(RCP reverted edits by BradMurphyENG3050 (talk) to  revision #19745462 by Anna)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined. These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ''all'' warnings.",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#* Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#* The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#* Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; so use caution!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron. Picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area; shrink tube just works well in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "* heat gun (or blow dryer)",
+                    "* shrink tube (or electrical tape if you prefer)",
+                    "* small piece of cardboard (to keep a clean area)",
+                    "* flux paste",
+                    "* solder",
+                    "* scissors",
+                    "* wire strippers",
+                    "* ruler",
+                    "* soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "[[Image:IMG_3092.jpg|right]]"
+                ],
+                "removed": [
+                    "What is Soldering?",
+                    "",
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined.  This is different than welding.  Welding requires you to melt the base metal which will take a much higher temperature to accomplish.",
+                    "",
+                    "What is the purpose of this guide?",
+                    "",
+                    "This guide is intended for beginners in the art of soldering.  These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ALL warnings.",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, which I prefer, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.  Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.  Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.  The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.  Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; SO USE CAUTION!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron.  I have found that picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area.  I prefer shrink tube in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "",
+                    "== Tips ==",
+                    "*Shrink tube will not fit over soldering joint. (1)     Reheat the joint with the soldering iron and try to smooth the solder out to get rid of any unneeded bulkiness. (2)\tYou may be able to stretch the shrink tube out with a pair of needle nose pliers.  Ideally you will want to do this before you slide the shrink on the wire.  This will not hurt the shrink as long as you don’t rip it. (3) \tYou can always use electrical tape to cover the joint instead.",
+                    "*Copper threads were cut while stripping the jacket. (1)\tIf you have cut only a thread or two, this should not have an impact on the conductivity of your connection. (2)\tIf you have cut a significant amount of threads, cut the wire back to the jacket and try again.",
+                    "*Solder is not going into the wire. (1)\tYou may not have enough flux on the copper wires.  Try adding more flux to the wire. (2)     You may not have enough solder on your soldering iron.  If you are comfortable with holding the solder in one hand and the soldering iron in the other hand try adding these components to the wire at the same time.  This will allow you to add more solder to the connection at a faster pace.  Be careful, the soldering iron will be soaking up the solder quickly so make sure to keep the hand holding the solder far from the iron tip.",
+                    "*[[Image:IMG_3092.jpg|right]]",
+                    "*1.\theat gun (or blow dryer)",
+                    "*2.\tshrink tube (or electrical tape if you prefer)",
+                    "*3.\tsmall piece of cardboard (to keep a clean area)",
+                    "*4.\tflux paste",
+                    "*5.\tsolder",
+                    "*6.\tscissors",
+                    "*7.\twire strippers",
+                    "*8.\truler",
+                    "*9.\tsoldering station:  includes power unit, soldering iron, stand, and sponge"
+                ]
+            }
+        },
+        {
+            "id": "19747291",
+            "user": "BradMurphyENG3050",
+            "timestamp": "00:35, 3 March 2016",
+            "anon": false,
+            "size": "(9,782 bytes)",
+            "change": 1417,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Bambiziyi",
+            "exact_contribution": {
+                "added": [
+                    "What is Soldering?",
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined.  This is different than welding.  Welding requires you to melt the base metal which will take a much higher temperature to accomplish.",
+                    "",
+                    "What is the purpose of this guide?",
+                    "",
+                    "This guide is intended for beginners in the art of soldering.  These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ALL warnings.",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, which I prefer, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.  Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.  Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.  The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.  Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; SO USE CAUTION!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron.  I have found that picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area.  I prefer shrink tube in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "",
+                    "== Tips ==",
+                    "*Shrink tube will not fit over soldering joint. (1)     Reheat the joint with the soldering iron and try to smooth the solder out to get rid of any unneeded bulkiness. (2)\tYou may be able to stretch the shrink tube out with a pair of needle nose pliers.  Ideally you will want to do this before you slide the shrink on the wire.  This will not hurt the shrink as long as you don’t rip it. (3) \tYou can always use electrical tape to cover the joint instead.",
+                    "*Copper threads were cut while stripping the jacket. (1)\tIf you have cut only a thread or two, this should not have an impact on the conductivity of your connection. (2)\tIf you have cut a significant amount of threads, cut the wire back to the jacket and try again.",
+                    "*Solder is not going into the wire. (1)\tYou may not have enough flux on the copper wires.  Try adding more flux to the wire. (2)     You may not have enough solder on your soldering iron.  If you are comfortable with holding the solder in one hand and the soldering iron in the other hand try adding these components to the wire at the same time.  This will allow you to add more solder to the connection at a faster pace.  Be careful, the soldering iron will be soaking up the solder quickly so make sure to keep the hand holding the solder far from the iron tip.",
+                    "*[[Image:IMG_3092.jpg|right]]",
+                    "*1.\theat gun (or blow dryer)",
+                    "*2.\tshrink tube (or electrical tape if you prefer)",
+                    "*3.\tsmall piece of cardboard (to keep a clean area)",
+                    "*4.\tflux paste",
+                    "*5.\tsolder",
+                    "*6.\tscissors",
+                    "*7.\twire strippers",
+                    "*8.\truler",
+                    "*9.\tsoldering station:  includes power unit, soldering iron, stand, and sponge"
+                ],
+                "removed": [
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined. These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ''all'' warnings.",
+                    "[[Category:Welding]]",
+                    "[[Category:Metalwork and Wire Projects]]",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#* Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#* The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#* Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; so use caution!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron. Picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area; shrink tube just works well in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "* heat gun (or blow dryer)",
+                    "* shrink tube (or electrical tape if you prefer)",
+                    "* small piece of cardboard (to keep a clean area)",
+                    "* flux paste",
+                    "* solder",
+                    "* scissors",
+                    "* wire strippers",
+                    "* ruler",
+                    "* soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "[[Image:IMG_3092.jpg|right]]"
+                ]
+            }
+        },
+        {
+            "id": "19745802",
+            "user": "Firey",
+            "timestamp": "19:27, 2 March 2016",
+            "anon": false,
+            "size": "(8,365 bytes)",
+            "change": 63,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Welding]]",
+                    "[[Category:Metalwork and Wire Projects]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "19745462",
+            "user": "Anna",
+            "timestamp": "18:42, 2 March 2016",
+            "anon": false,
+            "size": "(8,302 bytes)",
+            "change": -275,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Bambiziyi",
+            "exact_contribution": {
+                "added": [
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined. These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ''all'' warnings.",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.",
+                    "#* Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.",
+                    "#* Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.",
+                    "#* The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.",
+                    "#* Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; so use caution!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron. Picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat your previous process and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area; shrink tube just works well in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "* heat gun (or blow dryer)",
+                    "* shrink tube (or electrical tape if you prefer)",
+                    "* small piece of cardboard (to keep a clean area)",
+                    "* flux paste",
+                    "* solder",
+                    "* scissors",
+                    "* wire strippers",
+                    "* ruler",
+                    "* soldering station:  includes power unit, soldering iron, stand, and sponge",
+                    "[[Image:IMG_3092.jpg|right]]"
+                ],
+                "removed": [
+                    "What is Soldering?",
+                    "",
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined.  This is different than welding.  Welding requires you to melt the base metal which will take a much higher temperature to accomplish.",
+                    "",
+                    "What is the purpose of this guide?",
+                    "",
+                    "This guide is intended for beginners in the art of soldering.  These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ALL warnings.",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, which I prefer, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.  Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.  Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.  The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.  Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; SO USE CAUTION!",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron.  I have found that picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area.  I prefer shrink tube in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "*[[Image:IMG_3092.jpg|right]]",
+                    "*1.\theat gun (or blow dryer)",
+                    "*2.\tshrink tube (or electrical tape if you prefer)",
+                    "*3.\tsmall piece of cardboard (to keep a clean area)",
+                    "*4.\tflux paste",
+                    "*5.\tsolder",
+                    "*6.\tscissors",
+                    "*7.\twire strippers",
+                    "*8.\truler",
+                    "*9.\tsoldering station:  includes power unit, soldering iron, stand, and sponge"
+                ]
+            }
+        },
+        {
+            "id": "19744958",
+            "user": "BradMurphyENG3050",
+            "timestamp": "17:04, 2 March 2016",
+            "anon": false,
+            "size": "(8,577 bytes)",
+            "change": 97,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Bambiziyi",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.  Continue to pick up more solder with the iron and add it to the joint until the wires are full."
+                ],
+                "removed": [
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper."
+                ]
+            }
+        },
+        {
+            "id": "19744942",
+            "user": "BradMurphyENG3050",
+            "timestamp": "16:59, 2 March 2016",
+            "anon": false,
+            "size": "(8,480 bytes)",
+            "change": 8480,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Bambiziyi",
+            "exact_contribution": {
+                "added": [
+                    "What is Soldering?",
+                    "Soldering is a process in which two or more metal components are joined together by melting a filler metal, also known as solder, to join the components.  Solder typically has a lower melting point than either of the metal components being joined.  This is different than welding.  Welding requires you to melt the base metal which will take a much higher temperature to accomplish.",
+                    "",
+                    "What is the purpose of this guide?",
+                    "",
+                    "This guide is intended for beginners in the art of soldering.  These instructions will walk you through the steps of soldering wires together in a safe and efficient manner.  Soldering can be dangerous.  You will have to use hot and sharp objects so be sure to read ALL warnings.",
+                    "== Steps ==",
+                    "#[[Image:1 405.jpg|center]] Score or make a slight incision on the wire jacket.  You want to make the score about ½” from the end of each wire that will be soldered. To do this, you can use a pair of wire strippers, which I prefer, or a razor blade.  Be careful, you do not want to cut the actual copper wire as it will take away from its conducting strength.  Determine the size of the wire and use the appropriate sized hole to properly strip the wire.  If you do not know the size of the wire, test out the holes in the strippers to find the one that cuts into the jacket without cutting the wire.  Clamp down on the wire with the right sized hole.  Now you will turn the wire 90 degrees in rotation and do the same thing.  Do this a couple more times so that you have a good line around the whole wire jacket.  If you are just using a razor blade, don’t forget to make the incision around the whole circumference of the jacket.",
+                    "#[[Image:Crop2step2.jpg|center]] Pull the unwanted jacket off.  Once you have that slight cut in the jacket, you should be able to bend the jacket back and forth until the jacket comes loose.  You can do this with the strippers or with your fingers.  If it does not come loose right away try making a little deeper cut into the jacket.  The idea is to get the piece of jacket off without sacrificing any copper threads.",
+                    "#  [[Image:Stp3crop.jpg|center]]\tCut a piece of shrink tube and slide it onto one of the wires (If you are using electrical tape to cover your joint, skip this step).  If you are using shrink tube to cover your connection, you will want to slide the shrink tube onto the wire before connecting the wires.  The piece of shrink tube should be longer than the area being soldered.  The shrink tube should cover some of the jacket on each end and the ½” connection you are making.  Use your scissors to cut a 1-1 ½” piece of shrink.  You may test the shrink tube on a piece of the wire before getting started to make sure the tubing will shrink down to the size of the wire. Most shrink tube reduce to about 1/3 of its size after being heated.",
+                    "# [[Image:IMG_3041.jpg|center]]\tFlay both ½” pieces of copper wire.  To make a good connection between the copper wires, you will want as much of the wires touching each other as possible.  Typically, the best way to do this is to flay each end of the wire out.  Do this by rubbing the wire between your fingers.  The wires should now look like this.",
+                    "#  [[Image:Step4crop.jpg|center]]Push the flayed ends into each other so that the copper wires are slightly intertwined with each other.  Twist and smooth the strands into each other so they hold together.  The goal is to make the strands of copper from the two separate wires look like one.  Make sure the area is smooth.  This is the area that you will be soldering.  If it is too bulky, you may not be able to fit the shrink over the joint.",
+                    "#  [[Image:IMG_3047.jpg|center]]\tAdd the solder flux to the connection.  You can use your finger or a utensil to do this.  Don’t be modest with the flux, but don’t waste it either.  You can always add more later.  The flux will help the solder flow into the wires so the more you have on the connection, the easier your soldering job will be.   Start with a little glob on your finger or utensil and brush it onto the wires.  The next step will involve heating the wire which will soak up this flux.",
+                    "#  [[Image:Heat flux.jpg|center]]Heat the flux into the wires.  Use your heat gun or blow dryer, assuming your blow dryer produces enough heat, to melt the flux.  Do not just point the heat source at the wires.  You will want to wave the heat source back and forth so there is not as much direct heat on the wires.  Overheating the jacket may cause it to melt.  Be careful, you do not want the shrink tube to receive any heat yet, so make sure the shrink tube is far from the area you are applying the heat.",
+                    "#  [[Image:1236575.jpg|center]]Attach the right tip to the iron. (If you have the correct tip on the iron to begin with, skip this step)  A tip that is too small will not transfer enough heat to larger wires.  A tip that is too big may apply too much heat and melt the jacket on the wire. The idea is to use a tip that applies just enough heat for the project.  Most medium sized tips will work for soldering wire.  Do not touch anywhere above the handle of the iron.  Iron tips can be attached by screwing off the barrel shown above.  Always make sure the iron is off before replacing tips.  If replacing the tip while the iron is on, metal attached to the soldering iron will be hot; SO USE CAUTION!",
+                    "#  [[Image:IMG_3058.jpg|center]] Turn on the solder box.  It is important to keep the solder box and iron in a safe area.  You should only turn the iron on when you are ready to use it.  Keep flammable objects away from the iron at all times.  Remember to turn the box off as soon as you are done using it.  Add water to the sponge below the soldering iron holder.  This sponge can be used to clean the tip of your iron.",
+                    "#  [[Image:Picsolder.jpg|center]]Pick up some solder with the iron.  I have found that picking the solder up with the iron is easiest for smaller wires.  You can do this by touching the tip of the iron about an inch from the end of the string of solder.  The iron should automatically soak the solder right onto the tip of your iron.  This allows you to focus solely on the iron instead of having to hold the solder in your other hand.  If the iron is hot enough, the solder should flow right onto the copper when you touch the iron to it.  Different sized wires will require different amounts of solder.",
+                    "#  [[Image:Solderr.jpg|center]]Apply the iron with the solder to the copper wire with flux.  With the solder already on the iron, all you need to do is touch it to the copper wires.  The flux that was heated into the wires will make the solder flow right into the connection.  If it does not flow easily you may need to add more flux to the wires.  Repeat steps 5 & 6 and try again.  Again, you do not want to leave the heat source, the soldering iron in this case, in any spot for too long.  You should smoothly wave the iron back and forth along the copper.",
+                    "#  [[Image:Inspect2343.jpg|center]] Inspect the joint.  The wires should now be fully joined.  Look at all sides of the connection.  Sometimes if the solder doesn’t flow properly, the back side of the connection may not have enough solder to properly join the wire resulting in a weak connection.  A slight tug on the wires can be used to ensure a good bind.",
+                    "#  [[Image:Shrink1.jpg|center]]Cover the joint.  Cover the soldered connection with your shrink tube or electrical tape.  Slide the shrink tube over the joint and apply heat to the area in the same way you did with the heat gun, by waving the heat source back and forth so there is less direct heat on the jacket.  If you have forgot to put the shrink tube on the wires, you may always use electrical tape to cover the area.  I prefer shrink tube in most situations as it looks cleaner and doesn’t leave an adhesive residue.",
+                    "",
+                    "== Warnings ==",
+                    "*Soldering irons typically have a tip temperature between 600 and 800 degrees Fahrenheit.",
+                    "*Be very careful when handling any sharp or hot object.",
+                    "*Carefully return the iron to its holder whenever it is not in use.",
+                    "*Solder in well ventilated area.  Fumes can be toxic.",
+                    "*Do not work on live electrical wires.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*[[Image:IMG_3092.jpg|right]]",
+                    "*1.\theat gun (or blow dryer)",
+                    "*2.\tshrink tube (or electrical tape if you prefer)",
+                    "*3.\tsmall piece of cardboard (to keep a clean area)",
+                    "*4.\tflux paste",
+                    "*5.\tsolder",
+                    "*6.\tscissors",
+                    "*7.\twire strippers",
+                    "*8.\truler",
+                    "*9.\tsoldering station:  includes power unit, soldering iron, stand, and sponge"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

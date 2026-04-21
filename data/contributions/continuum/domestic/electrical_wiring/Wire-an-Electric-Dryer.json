@@ -1,0 +1,1701 @@
+{
+    "title": "Wire-an-Electric-Dryer",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:27:46.189107",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32715224",
+            "user": "Hopedemi",
+            "timestamp": "16:48, 12 August 2024",
+            "anon": false,
+            "size": "(4,712 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32708664",
+            "user": "Votebot",
+            "timestamp": "08:49, 9 August 2024",
+            "anon": false,
+            "size": "(4,406 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ],
+                "removed": [
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32685197",
+            "user": "Seymour Edits",
+            "timestamp": "03:18, 30 July 2024",
+            "anon": false,
+            "size": "(4,406 bytes)",
+            "change": 147,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Connect the cord set to the terminal block at the rear of the dryer.  The cord set selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.<ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Wire an Electric Dryer Step 4.jpg|center]]",
+                    "# Understand color coding of conductors in the cord set.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block.<ref>[v161396_b01]. 3 March 2021.</ref> Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.[[Image:Wire an Electric Dryer Step 6.jpg|center]]",
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "",
+                    "== References ==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "# Connect the cord set to the terminal block at the rear of the dryer.  The cord set selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.[[Image:Wire an Electric Dryer Step 4.jpg|center]]",
+                    "# Understand color coding of conductors in the cord set.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.[[Image:Wire an Electric Dryer Step 6.jpg|center]]",
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!"
+                ]
+            }
+        },
+        {
+            "id": "29513611",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "09:51, 6 May 2021",
+            "anon": false,
+            "size": "(4,259 bytes)",
+            "change": -73,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]"
+                ]
+            }
+        },
+        {
+            "id": "26949888",
+            "user": "Votebot",
+            "timestamp": "09:41, 15 August 2019",
+            "anon": false,
+            "size": "(4,332 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "26916003",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "07:12, 8 August 2019",
+            "anon": false,
+            "size": "(4,332 bytes)",
+            "change": -48,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Improve the Lifespan of your Clothes Dryer]]"
+                ]
+            }
+        },
+        {
+            "id": "26729733",
+            "user": "Neutron_Star",
+            "timestamp": "20:58, 26 June 2019",
+            "anon": false,
+            "size": "(4,380 bytes)",
+            "change": 51,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26729696",
+            "user": "CategoryGuardian",
+            "timestamp": "20:49, 26 June 2019",
+            "anon": false,
+            "size": "(4,329 bytes)",
+            "change": -26,
+            "summary": "(Removing category that seems to be a poor fit, based on votes from the Category Guardian)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Dryer Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "26548268",
+            "user": "Votebot",
+            "timestamp": "09:29, 14 May 2019",
+            "anon": false,
+            "size": "(4,355 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ],
+                "removed": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ]
+            }
+        },
+        {
+            "id": "23998545",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "08:37, 8 February 2018",
+            "anon": false,
+            "size": "(4,355 bytes)",
+            "change": -28,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Wire an Electric Range]]"
+                ]
+            }
+        },
+        {
+            "id": "23995541",
+            "user": "WikiHow Intern",
+            "timestamp": "18:39, 7 February 2018",
+            "anon": false,
+            "size": "(4,383 bytes)",
+            "change": -14,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Dryer Repairs]]"
+                ],
+                "removed": [
+                    "[[Category:Washing Machines and Dryers]]"
+                ]
+            }
+        },
+        {
+            "id": "22693859",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "18:28, 26 June 2017",
+            "anon": false,
+            "size": "(4,397 bytes)",
+            "change": -96,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "22091511",
+            "user": "Votebot",
+            "timestamp": "08:47, 22 March 2017",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "20980611",
+            "user": "Votebot",
+            "timestamp": "08:41, 18 September 2016",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "20800689",
+            "user": "Votebot",
+            "timestamp": "08:57, 18 August 2016",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ],
+                "removed": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ]
+            }
+        },
+        {
+            "id": "20609879",
+            "user": "Votebot",
+            "timestamp": "08:33, 18 July 2016",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ],
+                "removed": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ]
+            }
+        },
+        {
+            "id": "19429005",
+            "user": "Votebot",
+            "timestamp": "10:00, 14 January 2016",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "19343079",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "01:26, 9 January 2016",
+            "anon": false,
+            "size": "(4,493 bytes)",
+            "change": -334,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Wire an Electric Range]]",
+                    "*[[Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Improve the Lifespan of your Clothes Dryer]]",
+                    "*[[Change the Heating Element in a Dryer]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box]]"
+                ],
+                "removed": [
+                    "*[[Wire an Electric Range|How to Wire an Electric Range]]",
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*[[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]",
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "18851579",
+            "user": "Votebot",
+            "timestamp": "09:42, 13 November 2015",
+            "anon": false,
+            "size": "(4,827 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ],
+                "removed": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ]
+            }
+        },
+        {
+            "id": "18637663",
+            "user": "Votebot",
+            "timestamp": "08:40, 13 October 2015",
+            "anon": false,
+            "size": "(4,827 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "18078883",
+            "user": "MiscBot",
+            "timestamp": "01:26, 29 July 2015",
+            "anon": false,
+            "size": "(4,827 bytes)",
+            "change": -84,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.[[Image:Wire an Electric Dryer Step 1.jpg|center]]",
+                    "#  Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).[[Image:Wire an Electric Dryer Step 2.jpg|center]]",
+                    "#  Obtain a cord set with the same electrical rating and number of slots as the receptacle. If purchasing a cord set by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cord sets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cord sets may look similar, but are not interchangeable due to different electrical ratings. Dryer cord sets are 240V/30A and range cord sets are 240V/40A for use in the U.S. & Canada.[[Image:Wire an Electric Dryer Step 3.jpg|center]]",
+                    "# Connect the cord set to the terminal block at the rear of the dryer.  The cord set selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.[[Image:Wire an Electric Dryer Step 4.jpg|center]]",
+                    "#  Notice that  the center wire (neutral wire) of the cord set goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.[[Image:Wire an Electric Dryer Step 5.jpg|center]]",
+                    "# Understand color coding of conductors in the cord set.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.[[Image:Wire an Electric Dryer Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.<br><br>[[Image:Wire an Electric Dryer Step 1.jpg|center|550px]]",
+                    "#  Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).<br><br>[[Image:Wire an Electric Dryer Step 2.jpg|center|550px]]",
+                    "#  Obtain a cord set with the same electrical rating and number of slots as the receptacle. If purchasing a cord set by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cord sets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cord sets may look similar, but are not interchangeable due to different electrical ratings. Dryer cord sets are 240V/30A and range cord sets are 240V/40A for use in the U.S. & Canada.<br><br>[[Image:Wire an Electric Dryer Step 3.jpg|center|550px]]",
+                    "# Connect the cord set to the terminal block at the rear of the dryer.  The cord set selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.<br><br>[[Image:Wire an Electric Dryer Step 4.jpg|center|550px]]",
+                    "#  Notice that  the center wire (neutral wire) of the cord set goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.<br><br>[[Image:Wire an Electric Dryer Step 5.jpg|center|550px]]",
+                    "# Understand color coding of conductors in the cord set.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.<br><br>[[Image:Wire an Electric Dryer Step 6.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17316878",
+            "user": "Votebot",
+            "timestamp": "13:15, 11 May 2015",
+            "anon": false,
+            "size": "(4,911 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ],
+                "removed": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ]
+            }
+        },
+        {
+            "id": "16316573",
+            "user": "Votebot",
+            "timestamp": "15:22, 7 January 2015",
+            "anon": false,
+            "size": "(4,911 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "13494496",
+            "user": "Amanda420",
+            "timestamp": "04:13, 3 May 2014",
+            "anon": false,
+            "size": "(4,911 bytes)",
+            "change": 13,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] require 4 conductor cord sets (separate conductors or wires for line 1, line 2, ground and neutral). Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.  Conversion of these appliances in the U.S. is prohibited by the NEC (National Electric Code).  The receptacle and wiring should be modernized to a 4 conductor arrangement instead.",
+                    "#  Obtain a cord set with the same electrical rating and number of slots as the receptacle. If purchasing a cord set by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cord sets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cord sets may look similar, but are not interchangeable due to different electrical ratings. Dryer cord sets are 240V/30A and range cord sets are 240V/40A for use in the U.S. & Canada.<br><br>[[Image:Wire an Electric Dryer Step 3.jpg|center|550px]]",
+                    "# Connect the cord set to the terminal block at the rear of the dryer.  The cord set selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.<br><br>[[Image:Wire an Electric Dryer Step 4.jpg|center|550px]]",
+                    "#  Notice that  the center wire (neutral wire) of the cord set goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.<br><br>[[Image:Wire an Electric Dryer Step 5.jpg|center|550px]]",
+                    "# Understand color coding of conductors in the cord set.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.<br><br>[[Image:Wire an Electric Dryer Step 6.jpg|center|550px]]",
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cord set to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cord sets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] require 4 conductor cordsets (separate conductors or wires for line 1, line 2, ground and neutral). Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.  Conversion of these appliances in the U.S. is prohibited by the NEC (National Electric Code).  The receptacle and wiring should be modernized to a 4 conductor arrangement instead.",
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.<br><br>[[Image:Wire an Electric Dryer Step 3.jpg|center|550px]]",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.<br><br>[[Image:Wire an Electric Dryer Step 4.jpg|center|550px]]",
+                    "#  Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.<br><br>[[Image:Wire an Electric Dryer Step 5.jpg|center|550px]]",
+                    "# Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.<br><br>[[Image:Wire an Electric Dryer Step 6.jpg|center|550px]]",
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "12883634",
+            "user": "Votebot",
+            "timestamp": "18:58, 4 March 2014",
+            "anon": false,
+            "size": "(4,898 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!"
+                ],
+                "removed": [
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!"
+                ]
+            }
+        },
+        {
+            "id": "11571417",
+            "user": "Votebot",
+            "timestamp": "20:16, 27 October 2013",
+            "anon": false,
+            "size": "(4,898 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10634621",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "10:53, 31 July 2013",
+            "anon": false,
+            "size": "(4,897 bytes)",
+            "change": 6,
+            "summary": "(Updating old title link to reflect current article redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Change a Fuse in a Wylex Standard Fuse Box|How to Change a Fuse in a Wylex Standard Fuse Box]]"
+                ],
+                "removed": [
+                    "*[[Change a Fuse in a Traditional Fuse Box|How to Change a Fuse in a Traditional Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "10088265",
+            "user": "Wikiphoto",
+            "timestamp": "01:57, 5 June 2013",
+            "anon": false,
+            "size": "(4,891 bytes)",
+            "change": 55,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.<br><br>[[Image:Wire an Electric Dryer Step 1.jpg|center|550px]]",
+                    "#  Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).<br><br>[[Image:Wire an Electric Dryer Step 2.jpg|center|550px]]",
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.<br><br>[[Image:Wire an Electric Dryer Step 3.jpg|center|550px]]",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.<br><br>[[Image:Wire an Electric Dryer Step 4.jpg|center|550px]]",
+                    "#  Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.<br><br>[[Image:Wire an Electric Dryer Step 5.jpg|center|550px]]",
+                    "# Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame.<br><br>[[Image:Wire an Electric Dryer Step 6.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Wire an Electric Dryer Step 1.jpg|right|300px]]Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.",
+                    "#  [[Image:Wire an Electric Dryer Step 2.jpg|right|300px]]Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).",
+                    "#  [[Image:Wire an Electric Dryer Step 3.jpg|right|300px]]Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "# [[Image:Wire an Electric Dryer Step 4.jpg|right|300px]]Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.",
+                    "#  [[Image:Wire an Electric Dryer Step 5.jpg|right|300px]]Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "# [[Image:Wire an Electric Dryer Step 6.jpg|right|300px]]Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ]
+            }
+        },
+        {
+            "id": "10088264",
+            "user": "Wikiphoto",
+            "timestamp": "01:57, 5 June 2013",
+            "anon": false,
+            "size": "(4,836 bytes)",
+            "change": 330,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Wire an Electric Dryer Step 1.jpg|right|300px]]Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.",
+                    "#  [[Image:Wire an Electric Dryer Step 2.jpg|right|300px]]Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).",
+                    "#  [[Image:Wire an Electric Dryer Step 3.jpg|right|300px]]Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "# [[Image:Wire an Electric Dryer Step 4.jpg|right|300px]]Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.",
+                    "#  [[Image:Wire an Electric Dryer Step 5.jpg|right|300px]]Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "# [[Image:Wire an Electric Dryer Step 6.jpg|right|300px]]Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ],
+                "removed": [
+                    "#  Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.",
+                    "#  Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).",
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors.",
+                    "#  Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "# Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ]
+            }
+        },
+        {
+            "id": "9757155",
+            "user": "Votebot",
+            "timestamp": "16:28, 30 April 2013",
+            "anon": false,
+            "size": "(4,506 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ],
+                "removed": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ]
+            }
+        },
+        {
+            "id": "9328877",
+            "user": "MartynP",
+            "timestamp": "22:00, 4 March 2013",
+            "anon": false,
+            "size": "(4,506 bytes)",
+            "change": -55,
+            "summary": "(Remove unhelpful intro image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[Image:Electric_Clothes_dryer_788.jpg|200px|right]]",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "9039805",
+            "user": "BR",
+            "timestamp": "10:56, 15 January 2013",
+            "anon": false,
+            "size": "(4,561 bytes)",
+            "change": 674,
+            "summary": "(Reverted edits by 91.225.19.229 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Wire an Electric Range|How to Wire an Electric Range]]",
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*[[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]",
+                    "*[[Change a Fuse in a Traditional Fuse Box|How to Change a Fuse in a Traditional Fuse Box]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9039549",
+            "user": "91.225.19.229",
+            "timestamp": "10:10, 15 January 2013",
+            "anon": true,
+            "size": "(3,887 bytes)",
+            "change": -23,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Ingredients ==",
+                    "milk"
+                ]
+            }
+        },
+        {
+            "id": "9039541",
+            "user": "91.225.19.229",
+            "timestamp": "10:10, 15 January 2013",
+            "anon": true,
+            "size": "(3,910 bytes)",
+            "change": -651,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "== Ingredients ==",
+                    "milk"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Wire an Electric Range|How to Wire an Electric Range]]",
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*[[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]",
+                    "*[[Change a Fuse in a Traditional Fuse Box|How to Change a Fuse in a Traditional Fuse Box]]"
+                ]
+            }
+        },
+        {
+            "id": "8996737",
+            "user": "Votebot",
+            "timestamp": "19:55, 10 January 2013",
+            "anon": false,
+            "size": "(4,561 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard.",
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!"
+                ],
+                "removed": [
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!",
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ]
+            }
+        },
+        {
+            "id": "7678862",
+            "user": "Vidbot",
+            "timestamp": "00:53, 2 May 2012",
+            "anon": false,
+            "size": "(4,561 bytes)",
+            "change": -45,
+            "summary": "(vidbot - removing video section)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Wire an Electric Dryer|}}"
+                ]
+            }
+        },
+        {
+            "id": "6705854",
+            "user": "Daverwaterloo",
+            "timestamp": "19:29, 4 October 2011",
+            "anon": false,
+            "size": "(4,606 bytes)",
+            "change": 143,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*It is illegal in Canada to work on any 240V circuit unless you are a licensed electrician. If you start a fire, your insurance can be voided."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6422213",
+            "user": "Wendy Weaver",
+            "timestamp": "00:34, 30 July 2011",
+            "anon": false,
+            "size": "(4,463 bytes)",
+            "change": 58,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Wire an Electric Range|How to Wire an Electric Range]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6312592",
+            "user": "JackHerrick",
+            "timestamp": "21:32, 6 July 2011",
+            "anon": false,
+            "size": "(4,405 bytes)",
+            "change": -70,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*A good resource is this site: http://www.ezdiyelectricity.com/?p=221"
+                ]
+            }
+        },
+        {
+            "id": "6003470",
+            "user": "Wongygirl",
+            "timestamp": "09:54, 13 May 2011",
+            "anon": false,
+            "size": "(4,475 bytes)",
+            "change": 47,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire an Electric Dryer|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4660188",
+            "user": "96.233.113.161",
+            "timestamp": "00:29, 3 June 2010",
+            "anon": true,
+            "size": "(4,428 bytes)",
+            "change": -2,
+            "summary": "(what size wire di I use to wire an electric dryer)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "4543445",
+            "user": "Tryme2",
+            "timestamp": "19:30, 29 April 2010",
+            "anon": false,
+            "size": "(4,430 bytes)",
+            "change": 0,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] require 4 conductor cordsets (separate conductors or wires for line 1, line 2, ground and neutral). Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.  Conversion of these appliances in the U.S. is prohibited by the NEC (National Electric Code).  The receptacle and wiring should be modernized to a 4 conductor arrangement instead.",
+                    "#  Check that any existing dryer receptacle has this same rating and note number of slots (either 3 or 4 slots).",
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptacle. If purchasing a cordset by matching the electrical rating of the receptacle; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "*While an acceptable practice some years ago, as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptacle fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptacle is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] require 4 conductor cordsets (separate conductors or wires for line 1, line 2, ground and neutral). Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.  Conversion of these appliances in the U.S. is prohibited by the NEC (National Electric Code).  The receptical and wiring should be modernized to a 4 conductor arrangement instead.",
+                    "#  Check that any existing dryer receptical has this same rating and note number of slots (either 3 or 4 slots).",
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptical. If purchasing a cordset by matching the electrical rating of the receptical; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada.",
+                    "*While an acceptable practice some years ago; as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptical fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptical is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "4543442",
+            "user": "Stevecon",
+            "timestamp": "19:27, 29 April 2010",
+            "anon": false,
+            "size": "(4,430 bytes)",
+            "change": 144,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptical. If purchasing a cordset by matching the electrical rating of the receptical; remembering the slot pattern will not matter, as they are standardized. Most hardware stores and nearly all home supply centers offer cordsets for electric ranges and dryers with a choice of either 3 or 4 conductors for under $25 or so. These cordsets may look similar, but are not interchangeable due to different electrical ratings. Dryer cordsets are 240V/30A and range cordsets are 240V/40A for use in the U.S. & Canada."
+                ],
+                "removed": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptical. If purchasing a cordset by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with either 3 or 4 conductors for under $25.  These cordsets may look similar, but are not interchangeable due to different electrical ratings."
+                ]
+            }
+        },
+        {
+            "id": "4543433",
+            "user": "173.76.234.191",
+            "timestamp": "19:22, 29 April 2010",
+            "anon": true,
+            "size": "(4,286 bytes)",
+            "change": 45,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*While an acceptable practice some years ago; as stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptical fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptical is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": [
+                    "*As stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptical fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptical is the only safe, legal and accepted method to connect these appliances."
+                ]
+            }
+        },
+        {
+            "id": "4543062",
+            "user": "Stevecon",
+            "timestamp": "17:57, 29 April 2010",
+            "anon": false,
+            "size": "(4,241 bytes)",
+            "change": 73,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Verify the electrical requirements of the dryer.  Most sold for use in the U.S. and Canada require a 240 volt / 30 amp supply.",
+                    "#  Check that any existing dryer receptical has this same rating and note number of slots (either 3 or 4 slots)."
+                ],
+                "removed": [
+                    "#  Verify that the dryer requires a 240 volt / 30 amp supply.",
+                    "#  Check that any existing dryer receptical has this same rating and number of slots (either 3 or 4 slots)."
+                ]
+            }
+        },
+        {
+            "id": "4543035",
+            "user": "Stevecon",
+            "timestamp": "17:51, 29 April 2010",
+            "anon": false,
+            "size": "(4,168 bytes)",
+            "change": 416,
+            "summary": "(→‎Warnings:   Connecting 4 wire appliance with a 3 wire cordset warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*As stated in the opening, this practice has been banned in the U.S. by the NEC.  The only safe, legal way to connect 4 wire ranges and dryers is with a 4 wire cordset to a 4 wire receptical fed by a four wire circuit.  Adapters and 3 wire cordsets used to connect these appliances are not permitted.  A new, four wire circuit and receptical is the only safe, legal and accepted method to connect these appliances."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4543011",
+            "user": "Stevecon",
+            "timestamp": "17:45, 29 April 2010",
+            "anon": false,
+            "size": "(3,752 bytes)",
+            "change": -14,
+            "summary": "(→‎Tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Securely tighten the wires under the terminals."
+                ],
+                "removed": [
+                    "*Tighten the wire clips really well, but don't break them off!"
+                ]
+            }
+        },
+        {
+            "id": "4543007",
+            "user": "Stevecon",
+            "timestamp": "17:43, 29 April 2010",
+            "anon": false,
+            "size": "(3,766 bytes)",
+            "change": 52,
+            "summary": "(→‎Steps:  fixing bolded step.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Understand color coding of conductors in the cordset.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot line 1 and line 2 wires which connect to the 2 outer connections of the dryer terminal block. Don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ],
+                "removed": [
+                    "# Understand that if the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ]
+            }
+        },
+        {
+            "id": "4542998",
+            "user": "Stevecon",
+            "timestamp": "17:41, 29 April 2010",
+            "anon": false,
+            "size": "(3,714 bytes)",
+            "change": 27,
+            "summary": "(→‎Steps:  correcting some typos and grammar.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots as the receptical. If purchasing a cordset by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with either 3 or 4 conductors for under $25.  These cordsets may look similar, but are not interchangeable due to different electrical ratings."
+                ],
+                "removed": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots.  If purchasing by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with either 3 or 4 conductors for under $25.  These cordsets may look similar, but are not interchangeable due to different electrical ratings."
+                ]
+            }
+        },
+        {
+            "id": "4542982",
+            "user": "Stevecon",
+            "timestamp": "17:38, 29 April 2010",
+            "anon": false,
+            "size": "(3,687 bytes)",
+            "change": -72,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots.  If purchasing by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with either 3 or 4 conductors for under $25.  These cordsets may look similar, but are not interchangeable due to different electrical ratings.",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire). The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  These hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors."
+                ],
+                "removed": [
+                    "#  Obtain a cordset with the same electrical rating and number of slots.  If purchasing by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with 3 and 4 conductors for under $20.  These codsets may look similar, but are not interchangeable due to different electrical ratings.",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire. The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts."
+                ]
+            }
+        },
+        {
+            "id": "4542971",
+            "user": "Stevecon",
+            "timestamp": "17:34, 29 April 2010",
+            "anon": false,
+            "size": "(3,759 bytes)",
+            "change": 148,
+            "summary": "(Cleaned this article up for clarity)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] require 4 conductor cordsets (separate conductors or wires for line 1, line 2, ground and neutral). Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.  Conversion of these appliances in the U.S. is prohibited by the NEC (National Electric Code).  The receptical and wiring should be modernized to a 4 conductor arrangement instead.",
+                    "#  Verify that the dryer requires a 240 volt / 30 amp supply.",
+                    "#  Check that any existing dryer receptical has this same rating and number of slots (either 3 or 4 slots).",
+                    "#  Obtain a cordset with the same electrical rating and number of slots.  If purchasing by matching the electrical rating of the receptical; remembering the slot pattern will not matter.  Most hardware stores and home supply centers offer cordsets for electric ranges and dryers with 3 and 4 conductors for under $20.  These codsets may look similar, but are not interchangeable due to different electrical ratings.",
+                    "# Connect the cordset to the terminal block at the rear of the dryer.  The cordset selected should have only 3 wires (line 1, line 2 and neutral; no ground wire. The center wire of this cable is the neutral wire and the outer wires are the \"hot\" line 1 and line 2 wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.",
+                    "#  Notice that  the center wire (neutral wire) of the cordset goes to the center connector.  Since in this case the neutral serves as a neutral and a ground connection, a jumper conductor (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer."
+                ],
+                "removed": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] come with separate ground and neutral wires. Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.",
+                    "",
+                    "3 wire Connections NO LONGER Meet NEC Code (since 1996)",
+                    "You should upgrade to a 4 wire connection & circuit",
+                    "#  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15).",
+                    "# Look to see that the new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.",
+                    "#(NOTE/CORRECTION - it's not clear or may be even a mistake, since the main wires in the plug are THE ZERO, and the other one is THE PHASE which voltage is a wave with active voltage - i.e. the analog of the DC Voltage of the same average power - of 110 Volts. So the voltage ZERO-PHASE and the GROUND-PHASE is the same 110 Volts. Voltage ZERO - GROUND is zero Volts, but according to the explanation of the technician, it is to be 110 too, which is not correct!)",
+                    "#Notice that  the center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer."
+                ]
+            }
+        },
+        {
+            "id": "4074952",
+            "user": "71.174.88.209",
+            "timestamp": "00:51, 6 December 2009",
+            "anon": true,
+            "size": "(3,611 bytes)",
+            "change": 29,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "3 wire Connections NO LONGER Meet NEC Code (since 1996)",
+                    "You should upgrade to a 4 wire connection & circuit"
+                ],
+                "removed": [
+                    "3 wire Connections are NO LONGER legal",
+                    "You must upgrade to a 4 wire connection"
+                ]
+            }
+        },
+        {
+            "id": "4074943",
+            "user": "71.174.88.209",
+            "timestamp": "00:46, 6 December 2009",
+            "anon": true,
+            "size": "(3,582 bytes)",
+            "change": 80,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "3 wire Connections are NO LONGER legal",
+                    "You must upgrade to a 4 wire connection"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4035597",
+            "user": "76.249.245.248",
+            "timestamp": "23:09, 22 November 2009",
+            "anon": true,
+            "size": "(3,502 bytes)",
+            "change": 1,
+            "summary": "(how do you hook up 4 wire plug)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#(NOTE/CORRECTION - it's not clear or may be even a mistake, since the main wires in the plug are THE ZERO, and the other one is THE PHASE which voltage is a wave with active voltage - i.e. the analog of the DC Voltage of the same average power - of 110 Volts. So the voltage ZERO-PHASE and the GROUND-PHASE is the same 110 Volts. Voltage ZERO - GROUND is zero Volts, but according to the explanation of the technician, it is to be 110 too, which is not correct!)"
+                ],
+                "removed": [
+                    "(NOTE/CORRECTION - it's not clear or may be even a mistake, since the main wires in the plug are THE ZERO, and the other one is THE PHASE which voltage is a wave with active voltage - i.e. the analog of the DC Voltage of the same average power - of 110 Volts. So the voltage ZERO-PHASE and the GROUND-PHASE is the same 110 Volts. Voltage ZERO - GROUND is zero Volts, but according to the explanation of the technician, it is to be 110 too, which is not correct!)"
+                ]
+            }
+        },
+        {
+            "id": "3652716",
+            "user": "76.68.26.112",
+            "timestamp": "04:28, 1 August 2009",
+            "anon": true,
+            "size": "(3,501 bytes)",
+            "change": 462,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Look to see that the new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.",
+                    "(NOTE/CORRECTION - it's not clear or may be even a mistake, since the main wires in the plug are THE ZERO, and the other one is THE PHASE which voltage is a wave with active voltage - i.e. the analog of the DC Voltage of the same average power - of 110 Volts. So the voltage ZERO-PHASE and the GROUND-PHASE is the same 110 Volts. Voltage ZERO - GROUND is zero Volts, but according to the explanation of the technician, it is to be 110 too, which is not correct!)"
+                ],
+                "removed": [
+                    "# Look to see that the new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)"
+                ]
+            }
+        },
+        {
+            "id": "3484800",
+            "user": "Editor590489584",
+            "timestamp": "15:33, 8 June 2009",
+            "anon": false,
+            "size": "(3,039 bytes)",
+            "change": 39,
+            "summary": "(Reverted edits by Mash317 (Talk); changed back to last version by 130.76.96.17)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*A good resource is this site: http://www.ezdiyelectricity.com/?p=221"
+                ],
+                "removed": [
+                    "*A good resource is this site:"
+                ]
+            }
+        },
+        {
+            "id": "3484706",
+            "user": "Editor590489584",
+            "timestamp": "14:50, 8 June 2009",
+            "anon": false,
+            "size": "(3,000 bytes)",
+            "change": -39,
+            "summary": "(Reverted edits by 130.76.96.17 (Talk); changed back to last version by Glutted)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*A good resource is this site:"
+                ],
+                "removed": [
+                    "*A good resource is this site: http://www.ezdiyelectricity.com/?p=221"
+                ]
+            }
+        },
+        {
+            "id": "3484430",
+            "user": "130.76.96.17",
+            "timestamp": "11:09, 8 June 2009",
+            "anon": true,
+            "size": "(3,039 bytes)",
+            "change": 39,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Editor590489584",
+            "exact_contribution": {
+                "added": [
+                    "*A good resource is this site: http://www.ezdiyelectricity.com/?p=221"
+                ],
+                "removed": [
+                    "*A good resource is this site:"
+                ]
+            }
+        },
+        {
+            "id": "3038338",
+            "user": "Glutted",
+            "timestamp": "20:36, 25 January 2009",
+            "anon": false,
+            "size": "(3,000 bytes)",
+            "change": -102,
+            "summary": "(→‎Tips:   (broken link))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Editor590489584",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*http://www.selfhelpandmore.com/switchoutlet/dryer/index.htm",
+                    "",
+                    "This link above doesn't go anywhere...."
+                ]
+            }
+        },
+        {
+            "id": "3038150",
+            "user": "67.187.86.102",
+            "timestamp": "19:42, 25 January 2009",
+            "anon": true,
+            "size": "(3,102 bytes)",
+            "change": 41,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "This link above doesn't go anywhere...."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "873353",
+            "user": "Eric",
+            "timestamp": "22:04, 28 June 2007",
+            "anon": false,
+            "size": "(3,061 bytes)",
+            "change": 92,
+            "summary": "(Related wikiHow)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Change a Fuse in a Traditional Fuse Box|How to Change a Fuse in a Traditional Fuse Box]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "810257",
+            "user": "Dreamgal2",
+            "timestamp": "01:48, 12 June 2007",
+            "anon": false,
+            "size": "(2,969 bytes)",
+            "change": 49,
+            "summary": "(weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Modern [[Locate Instruction Manuals for Older Kitchen Appliances|appliances]] come with separate ground and neutral wires. Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.",
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*[[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*[[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]"
+                ],
+                "removed": [
+                    "Modern appliances come with separate ground and neutral wires. Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.",
+                    "",
+                    "*  [[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*  [[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*  [[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*  [[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*  [[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]"
+                ]
+            }
+        },
+        {
+            "id": "810246",
+            "user": "Dreamgal2",
+            "timestamp": "01:46, 12 June 2007",
+            "anon": false,
+            "size": "(2,920 bytes)",
+            "change": 197,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "*  [[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*  [[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*  [[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]",
+                    "*  [[Improve the Lifespan of your Clothes Dryer|How to Improve the Lifespan of your Clothes Dryer]]",
+                    "*  [[Change the Heating Element in a Dryer|How to Change the Heating Element in a Dryer]]"
+                ],
+                "removed": [
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]"
+                ]
+            }
+        },
+        {
+            "id": "810241",
+            "user": "Dreamgal2",
+            "timestamp": "01:45, 12 June 2007",
+            "anon": false,
+            "size": "(2,723 bytes)",
+            "change": 42,
+            "summary": "(formatted)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Look to see that the new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)",
+                    "#Notice that  the center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "# Understand that if the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ],
+                "removed": [
+                    "#  The new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)",
+                    "#  The center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "#  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame."
+                ]
+            }
+        },
+        {
+            "id": "810236",
+            "user": "Dreamgal2",
+            "timestamp": "01:44, 12 June 2007",
+            "anon": false,
+            "size": "(2,681 bytes)",
+            "change": 52,
+            "summary": "(added  picture to enhance article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Electric_Clothes_dryer_788.jpg|200px|right]]"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "490217",
+            "user": "143.239.1.153",
+            "timestamp": "14:29, 16 January 2007",
+            "anon": true,
+            "size": "(2,629 bytes)",
+            "change": 42,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating and hence present an electrocution hazard."
+                ],
+                "removed": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating."
+                ]
+            }
+        },
+        {
+            "id": "490215",
+            "user": "143.239.1.153",
+            "timestamp": "14:28, 16 January 2007",
+            "anon": true,
+            "size": "(2,587 bytes)",
+            "change": 280,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*These instructions only apply to a centre-tapped 120/240V supply as found in the US and Canada; do NOT use them in other configurations. In particular, using neutral as ground will prevent ELCBs (earth leakage circuit breakers) or RCDs (residual current devices) from operating."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "420805",
+            "user": "Flickety",
+            "timestamp": "06:02, 6 December 2006",
+            "anon": false,
+            "size": "(2,307 bytes)",
+            "change": 17,
+            "summary": "(MT WM&D)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Washing Machines and Dryers]]"
+                ],
+                "removed": [
+                    "[[Category:Appliances]]"
+                ]
+            }
+        },
+        {
+            "id": "371301",
+            "user": "Benrubes",
+            "timestamp": "00:18, 9 November 2006",
+            "anon": false,
+            "size": "(2,290 bytes)",
+            "change": 199,
+            "summary": "(related wikiHows)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15).",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Clean a Clothes Dryer Vent|How to Clean a Clothes Dryer Vent]]",
+                    "*[[Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301|How to Replace Drive Belt on the Kenmore Dryer Model Series 60301 to 70301]]",
+                    "*[[Repair Loose Baffles in Your Dryer Tumbler|How to Repair Loose Baffles in Your Dryer Tumbler]]"
+                ],
+                "removed": [
+                    "#  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15)",
+                    "#  For these next steps, I'm copying the instructions from www.selfhelpandmore.com since they do a great job of explaining the procedure."
+                ]
+            }
+        },
+        {
+            "id": "338024",
+            "user": "ThorneEnterprises",
+            "timestamp": "16:48, 20 October 2006",
+            "anon": false,
+            "size": "(2,091 bytes)",
+            "change": -34,
+            "summary": "(Moved to Home Improvement-Appliances)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Appliances]]",
+                    "*A good resource is this site:",
+                    "*http://www.selfhelpandmore.com/switchoutlet/dryer/index.htm",
+                    "*Tighten the wire clips really well, but don't break them off!",
+                    "*Always make sure any electrical appliance is UNPLUGGED before working on it!"
+                ],
+                "removed": [
+                    "*  A good resource is this site:",
+                    "*  http://www.selfhelpandmore.com/switchoutlet/dryer/index.htm",
+                    "*  Tighten the wire clips really well, but don't break them off!",
+                    "*   Always make sure any electrical appliance is UNPLUGGED before working on it!",
+                    "[[Category:Other Computers and Digital Devices]]"
+                ]
+            }
+        },
+        {
+            "id": "197040",
+            "user": "198.102.112.18",
+            "timestamp": "20:50, 16 December 2005",
+            "anon": true,
+            "size": "(2,125 bytes)",
+            "change": 364,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Modern appliances come with separate ground and neutral wires. Generally, this setup is safer, because the current-carrying neutral is not connected to the dryer case. However, it is useless if the wall receptacle does not have a separate ground slot. In that case, you'll have to do the very simple procedure of converting a 4-wire dryer to a 3-wire setup.",
+                    "*  Tighten the wire clips really well, but don't break them off!",
+                    ""
+                ],
+                "removed": [
+                    "Converting a 4-wire dryer to a 3-wire setup is very simple."
+                ]
+            }
+        },
+        {
+            "id": "65768",
+            "user": "Tderouin",
+            "timestamp": "12:19, 4 July 2005",
+            "anon": false,
+            "size": "(1,761 bytes)",
+            "change": 25,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15)",
+                    "#  For these next steps, I'm copying the instructions from www.selfhelpandmore.com since they do a great job of explaining the procedure.",
+                    "#  The new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)",
+                    "#  The center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "#  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame.",
+                    "*   Always make sure any electrical appliance is UNPLUGGED before working on it!",
+                    "[[Category:Other Computers and Digital Devices]]"
+                ],
+                "removed": [
+                    "1.  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15)",
+                    "2.  For these next steps, I'm copying the instructions from www.selfhelpandmore.com since they do a great job of explaining the procedure.",
+                    "",
+                    "3.  The new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)",
+                    "",
+                    "4.  The center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "",
+                    "5.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame.",
+                    "*   Always make sure any electrical appliance is UNPLUGGED before working on it![[Category:New]]"
+                ]
+            }
+        },
+        {
+            "id": "23066",
+            "user": "67.96.135.254",
+            "timestamp": "00:03, 13 April 2005",
+            "anon": true,
+            "size": "(1,736 bytes)",
+            "change": 1736,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Converting a 4-wire dryer to a 3-wire setup is very simple.",
+                    "== Steps ==",
+                    "1.  Identify the type of plug that you will need by looking at the \"slot pattern\" of the receptacle on the wall. You'll need to buy a new power cord/plug from an appliance or hardware store (~$12-$15)",
+                    "",
+                    "2.  For these next steps, I'm copying the instructions from www.selfhelpandmore.com since they do a great job of explaining the procedure.",
+                    "",
+                    "3.  The new cord (at the dryer end) will have 3 wires only, no ground wire. The center wire of this cable is the neutral wire and the outer wires are hot live wires.  The hot wires connect to the outer 2 connections the power terminal block of the dryer, does not matter which is which as long as one hot is connected to each of the outer terminal connectors. (each outer wire is 110-120 volts which, when added, gives you the 220-240 volts.)",
+                    "",
+                    "4.  The center wire (neutral wire) of the cable goes to the center connector. Since in this case the neutral serves as a neutral and a ground connection, a jumper band (ground strap) is also connected to the center terminal and to the frame of the dryer. A green wire could also be used to connect the center connector to the frame of the dryer.",
+                    "",
+                    "5.  If the dryer cord does have colored wires, white is the neutral wire to the center connector, the red and black wires are the hot live wires which connect to the 2 outer connections of the dryer terminal block, don't forget the ground strap or green wire jumper from the center connector to the dryer frame.",
+                    "== Tips ==",
+                    "*  A good resource is this site:",
+                    "*  http://www.selfhelpandmore.com/switchoutlet/dryer/index.htm",
+                    "== Warnings ==",
+                    "*   Always make sure any electrical appliance is UNPLUGGED before working on it![[Category:New]]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

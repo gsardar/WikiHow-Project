@@ -1,0 +1,2045 @@
+{
+    "title": "Test-a-Fuse-With-a-Multimeter",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:35:29.486936",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33696209",
+            "user": "Seymour Edits",
+            "timestamp": "02:36, 25 September 2025",
+            "anon": false,
+            "size": "(6,994 bytes)",
+            "change": 127,
+            "summary": "(Added and updated sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3483613/</ref>",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3483613/</ref>",
+                    "#Turn the meter on and set it to [[Test Continuity with a Multimeter|measure continuity]]. Turn the dial on the multimeter so it points to the continuity setting, which looks like 5 curved vertical lines. Before you test the fuse, put the positive and negative leads together and listen for the meter to beep to ensure it’s working properly.<ref>https://www.swe-check.com.au/pages/learn_fuse_testing.php</ref>[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display. Because the fuse is little more than a single wire—and no complex parts to worry about—it does not matter which side receives the positive or negative lead.<ref>https://www.swe-check.com.au/pages/learn_fuse_testing.php</ref>[[Image:Test a Fuse With a Multimeter Step 7 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>",
+                    "#Turn the meter on and set it to [[Test Continuity with a Multimeter|measure continuity]]. Turn the dial on the multimeter so it points to the continuity setting, which looks like 5 curved vertical lines. Before you test the fuse, put the positive and negative leads together and listen for the meter to beep to ensure it’s working properly.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display. Because the fuse is little more than a single wire—and no complex parts to worry about—it does not matter which side receives the positive or negative lead.[[Image:Test a Fuse With a Multimeter Step 7 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33175530",
+            "user": "MiscBot",
+            "timestamp": "17:53, 24 February 2025",
+            "anon": false,
+            "size": "(6,867 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32687413",
+            "user": "Votebot",
+            "timestamp": "08:48, 31 July 2024",
+            "anon": false,
+            "size": "(6,848 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with the same rating as (or a lower rating than) the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with the same rating as (or a lower rating than) the old one."
+                ]
+            }
+        },
+        {
+            "id": "32541071",
+            "user": "Votebot",
+            "timestamp": "08:48, 30 May 2024",
+            "anon": false,
+            "size": "(6,848 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never test a fuse on equipment that is still on."
+                ],
+                "removed": [
+                    "*Never test a fuse on equipment that is still on."
+                ]
+            }
+        },
+        {
+            "id": "31917457",
+            "user": "Seymour Edits",
+            "timestamp": "14:05, 7 September 2023",
+            "anon": false,
+            "size": "(6,848 bytes)",
+            "change": -21,
+            "summary": "(Added/replaced bad/inaccurate sources for the wikiHaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483613/</ref>",
+                    "#Learn [[Use a Multimeter|how a multimeter works]]. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it to measure the continuity (which tests if the circuit is complete) or the ohms (which tests resistance). <ref>https://cdn.sparkfun.com/assets/4/6/d/3/b/How_to_Use_a_Multimeter.pdf</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]"
+                ],
+                "removed": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>http://electrical.about.com/od/panelsdistribution/a/cartridgefuses.htm</ref>",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> http://www.edmunds.com/how-to/how-to-inspect-and-replace-automotive-fuses.html</ref>",
+                    "#Learn [[Use a Multimeter|how a multimeter works]]. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it to measure the continuity (which tests if the circuit is complete) or the ohms (which tests resistance). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30903386",
+            "user": "WikiHow Projects",
+            "timestamp": "14:10, 23 September 2022",
+            "anon": false,
+            "size": "(6,869 bytes)",
+            "change": 130,
+            "summary": "(Adding internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Learn [[Use a Multimeter|how a multimeter works]]. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it to measure the continuity (which tests if the circuit is complete) or the ohms (which tests resistance). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]",
+                    "#Understand why you must [[Check Fuses|test fuses]]. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason, it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 4.jpg|center]]",
+                    "#Turn the equipment off and remove the fuse. Make sure the device, equipment, or vehicle is turned off before the fuse is removed. To [[Change Fuses in a Car|remove the fuse]], simply pull it straight out of the slot.[[Image:Test a Fuse With a Multimeter Step 5 Version 4.jpg|center]]",
+                    "#Turn the meter on and set it to [[Test Continuity with a Multimeter|measure continuity]]. Turn the dial on the multimeter so it points to the continuity setting, which looks like 5 curved vertical lines. Before you test the fuse, put the positive and negative leads together and listen for the meter to beep to ensure it’s working properly.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#*If you’re using a [[Use a Digital Multimeter|digital multimeter]] set to measure resistance, touch the probes together to get an initial reading. Then put the probes on either side of the fuse and check if the reading is similar. If it is, then the fuse works properly. If you get no reading or “OL”, then the fuse has blown."
+                ],
+                "removed": [
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it to measure the continuity (which tests if the circuit is complete) or the ohms (which tests resistance). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason, it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 4.jpg|center]]",
+                    "#Turn the equipment off and remove the fuse. Make sure the device, equipment, or vehicle is turned off before the fuse is removed. To remove the fuse, simply pull it straight out of the slot.[[Image:Test a Fuse With a Multimeter Step 5 Version 4.jpg|center]]",
+                    "#Turn the meter on and set it to measure continuity. Turn the dial on the multimeter so it points to the continuity setting, which looks like 5 curved vertical lines. Before you test the fuse, put the positive and negative leads together and listen for the meter to beep to ensure it’s working properly.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure resistance, touch the probes together to get an initial reading. Then put the probes on either side of the fuse and check if the reading is similar. If it is, then the fuse works properly. If you get no reading or “OL”, then the fuse has blown."
+                ]
+            }
+        },
+        {
+            "id": "29554912",
+            "user": "Votebot",
+            "timestamp": "08:48, 16 May 2021",
+            "anon": false,
+            "size": "(6,739 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with the same rating as (or a lower rating than) the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with the same rating as (or a lower rating than) the old one."
+                ]
+            }
+        },
+        {
+            "id": "28885423",
+            "user": "Vanna Tran",
+            "timestamp": "02:15, 18 November 2020",
+            "anon": false,
+            "size": "(6,739 bytes)",
+            "change": 137,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- This is the code for a wikiHow produced video. Please confirm with a member of wikiHow staff before editing/removing this tag. -->"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28395551",
+            "user": "Votebot",
+            "timestamp": "09:21, 20 July 2020",
+            "anon": false,
+            "size": "(6,602 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "28320515",
+            "user": "Wikiphoto",
+            "timestamp": "21:55, 30 June 2020",
+            "anon": false,
+            "size": "(6,602 bytes)",
+            "change": 54,
+            "summary": "(Video added via Video Embed Helper Tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Test a Fuse With a Multimeter|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28256258",
+            "user": "WikiHow Expert Review",
+            "timestamp": "21:42, 16 June 2020",
+            "anon": false,
+            "size": "(6,548 bytes)",
+            "change": 81,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If the multimeter reads \"Open\" or \"Not complete,\" it means the fuse is broken."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27985307",
+            "user": "Votebot",
+            "timestamp": "09:27, 14 April 2020",
+            "anon": false,
+            "size": "(6,467 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never test a fuse on equipment that is still on."
+                ],
+                "removed": [
+                    "*Never test a fuse on equipment that is still on."
+                ]
+            }
+        },
+        {
+            "id": "27867497",
+            "user": "WikiHow Expert Review",
+            "timestamp": "18:45, 17 March 2020",
+            "anon": false,
+            "size": "(6,467 bytes)",
+            "change": -269,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and open the circuit, preventing the current from flowing through the circuit. There are several varieties of fuses, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 4.jpg|center]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it to measure the continuity (which tests if the circuit is complete) or the ohms (which tests resistance). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]",
+                    "#*A multimeter has a positive and negative lead. When testing resistance in a circuit, the meter will transmit a small quantity of electricity from its own battery and then measure the amount that passes through the circuit or object.",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason, it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 4.jpg|center]]",
+                    "#*It is easier to test fuses than it is to test other electrical equipment. Other components in your car or home involve complex wiring systems that run on for some length. In addition, most car parts can only be tested at repair shops, and to do so will usually cost quite a lot of money. Testing fuses with a multimeter is comparatively simple to do, and the equipment involved is cheap and easy to operate.",
+                    "#Turn the meter on and set it to measure continuity. Turn the dial on the multimeter so it points to the continuity setting, which looks like 5 curved vertical lines. Before you test the fuse, put the positive and negative leads together and listen for the meter to beep to ensure it’s working properly.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#*If you want to measure the ohms, use the multimeter setting that has the omega symbol (Ω).",
+                    "#Test the fuse. Listen for the multimeter to beep continuously as you hold the probes against the fuse. If you don’t hear any noise coming from the meter, then the fuse is blown and should be replaced.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure resistance, touch the probes together to get an initial reading. Then put the probes on either side of the fuse and check if the reading is similar. If it is, then the fuse works properly. If you get no reading or “OL”, then the fuse has blown.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with the same rating as (or a lower rating than) the old one."
+                ],
+                "removed": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and open the circuit, preventing the current from flowing through the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 4.jpg|center]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]",
+                    "#*A multimeter has a positive and negative lead. When testing resistance or current flow in a circuit, the meter will transmit a small quantity of electricity from its own battery and then measure the amount that passes through the circuit or object.",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 4.jpg|center]]",
+                    "#*It is easier to test fuses than it is to test other electrical equipment. Other car or home components involve complex wiring systems that run on for some length. In addition, most car parts can only be tested at repair shops, and to do so will usually cost quite a lot of money. Testing fuses with a multimeter is comparatively simple to do, and the equipment involved is cheap and easy to operate.",
+                    "#Turn the meter on and set it. You can rotate the selector to Ω, or OHMS. This will measure resistance. Before you test the fuse, put the positive and negative leads together and look at the reading. The number it provides should be close to the one you see when you test the fuse.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#*Alternatively, you can test the flow of current by setting the meter to the symbol that looks like an arrow traveling along a line.",
+                    "#Test the fuse. If you’re using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L. (open loop), depending on the brand and type of meter you are using.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown. You should always test that your multimeter is functioning correctly before using by touching the two probes together. If you hear a beep, your multimeter is working correctly and ready to use.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with exactly the same rating as (or a lower rating than) the old one."
+                ]
+            }
+        },
+        {
+            "id": "26716782",
+            "user": "Votebot",
+            "timestamp": "09:28, 24 June 2019",
+            "anon": false,
+            "size": "(6,736 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with exactly the same rating as (or a lower rating than) the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with exactly the same rating as (or a lower rating than) the old one."
+                ]
+            }
+        },
+        {
+            "id": "26340783",
+            "user": "MiscBot",
+            "timestamp": "07:10, 29 March 2019",
+            "anon": false,
+            "size": "(6,736 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25705637",
+            "user": "Votebot",
+            "timestamp": "10:20, 5 December 2018",
+            "anon": false,
+            "size": "(6,745 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "25241154",
+            "user": "Wikivisual",
+            "timestamp": "18:20, 14 September 2018",
+            "anon": false,
+            "size": "(6,744 bytes)",
+            "change": 105,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{whvid|Test a Fuse With a Multimeter Step 0.360p.mp4|Test a Fuse With a Multimeter Step 0-preview.jpg}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24640317",
+            "user": "Seymour Edits",
+            "timestamp": "21:36, 24 May 2018",
+            "anon": false,
+            "size": "(6,639 bytes)",
+            "change": 148,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Test-a-Fuse-With-a-Multimeter}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24497381",
+            "user": "Feedme88",
+            "timestamp": "01:06, 4 May 2018",
+            "anon": false,
+            "size": "(6,491 bytes)",
+            "change": 207,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Test the fuse. If you’re using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L. (open loop), depending on the brand and type of meter you are using.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown. You should always test that your multimeter is functioning correctly before using by touching the two probes together. If you hear a beep, your multimeter is working correctly and ready to use.",
+                    ""
+                ],
+                "removed": [
+                    "#Test the fuse. If you’re using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L., depending on the brand and type of meter you are using.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown."
+                ]
+            }
+        },
+        {
+            "id": "24436794",
+            "user": "Votebot",
+            "timestamp": "09:11, 25 April 2018",
+            "anon": false,
+            "size": "(6,284 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24404770",
+            "user": "WikiHow Expert Review",
+            "timestamp": "18:56, 18 April 2018",
+            "anon": false,
+            "size": "(6,283 bytes)",
+            "change": 75,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and open the circuit, preventing the current from flowing through the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 4.jpg|center]]",
+                    "#Turn the equipment off and remove the fuse. Make sure the device, equipment, or vehicle is turned off before the fuse is removed. To remove the fuse, simply pull it straight out of the slot.[[Image:Test a Fuse With a Multimeter Step 5 Version 4.jpg|center]]",
+                    "#Turn the meter on and set it. You can rotate the selector to Ω, or OHMS. This will measure resistance. Before you test the fuse, put the positive and negative leads together and look at the reading. The number it provides should be close to the one you see when you test the fuse.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display. Because the fuse is little more than a single wire—and no complex parts to worry about—it does not matter which side receives the positive or negative lead.[[Image:Test a Fuse With a Multimeter Step 7 Version 2.jpg|center]]",
+                    "#Test the fuse. If you’re using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L., depending on the brand and type of meter you are using.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If you’re using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown.",
+                    "*Never test a fuse on equipment that is still on.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating. The rating ensures that the current can pass through the wiring safely. Always replace a fuse with exactly the same rating as (or a lower rating than) the old one."
+                ],
+                "removed": [
+                    "",
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 4.jpg|center]]",
+                    "",
+                    "#Turn the device off first and Remove power.[[Image:Test a Fuse With a Multimeter Step 4 Version 4.jpg|center]]",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.[[Image:Test a Fuse With a Multimeter Step 5 Version 4.jpg|center]]",
+                    "#Turn the meter on and set it.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#*You can rotate the selector to Ω, or OHMS. This will measure resistance. Before you test the fuse, put the positive and negative leads together and look at the reading. The number it provides should be close to the one you see when you test the fuse.",
+                    "#Put one lead on each end of the fuse and look at the display.[[Image:Test a Fuse With a Multimeter Step 7 Version 2.jpg|center]]",
+                    "#*Because the fuse is little more than a single wire--and no complex parts to worry about--it does not matter which side receives the positive or negative lead.",
+                    "#Test the fuse.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]",
+                    "#*If using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L. depending on the brand and type of meter you are using.",
+                    "#*If using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown.",
+                    "",
+                    "",
+                    "*Never test a fuse on a machine that is still on.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "23963473",
+            "user": "RubyRoseRain",
+            "timestamp": "16:57, 1 February 2018",
+            "anon": false,
+            "size": "(6,208 bytes)",
+            "change": -5,
+            "summary": "(RCP reverted edits by 144.39.106.254 (talk) to  revision #22054510 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "poop"
+                ]
+            }
+        },
+        {
+            "id": "23963427",
+            "user": "144.39.106.254",
+            "timestamp": "16:54, 1 February 2018",
+            "anon": true,
+            "size": "(6,213 bytes)",
+            "change": 5,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "poop"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "22054510",
+            "user": "Votebot",
+            "timestamp": "08:49, 16 March 2017",
+            "anon": false,
+            "size": "(6,208 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Never test a fuse on a machine that is still on."
+                ],
+                "removed": [
+                    "*Never test a fuse on a machine that is still on."
+                ]
+            }
+        },
+        {
+            "id": "21315082",
+            "user": "Flickety",
+            "timestamp": "21:55, 10 November 2016",
+            "anon": false,
+            "size": "(6,208 bytes)",
+            "change": 30,
+            "summary": "(Add relevant sub-cat)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Automotive Tools]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "21291969",
+            "user": "Flickety",
+            "timestamp": "00:15, 7 November 2016",
+            "anon": false,
+            "size": "(6,178 bytes)",
+            "change": 16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "20597791",
+            "user": "Wikivisual",
+            "timestamp": "05:25, 16 July 2016",
+            "anon": false,
+            "size": "(6,162 bytes)",
+            "change": 77,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 4.jpg|center]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 4.jpg|center]]",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 4.jpg|center]]",
+                    "#Turn the device off first and Remove power.[[Image:Test a Fuse With a Multimeter Step 4 Version 4.jpg|center]]",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.[[Image:Test a Fuse With a Multimeter Step 5 Version 4.jpg|center]]",
+                    "#Turn the meter on and set it.[[Image:Test a Fuse With a Multimeter Step 6 Version 2.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display.[[Image:Test a Fuse With a Multimeter Step 7 Version 2.jpg|center]]",
+                    "#Test the fuse.[[Image:Test a Fuse With a Multimeter Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 3.jpg|center]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 3.jpg|center]]",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 3.jpg|center]]",
+                    "#Turn the device off first and Remove power.",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.[[Image:Test a Fuse With a Multimeter Step 4 Version 3.jpg|center]]",
+                    "#Turn the meter on and set it.[[Image:Test a Fuse With a Multimeter Step 5 Version 3.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display.[[Image:Test a Fuse With a Multimeter Step 6.jpg|center]]",
+                    "#Test the fuse.[[Image:Test a Fuse With a Multimeter Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19124284",
+            "user": "Votebot",
+            "timestamp": "09:39, 24 December 2015",
+            "anon": false,
+            "size": "(6,085 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "18413646",
+            "user": "Votebot",
+            "timestamp": "08:53, 11 September 2015",
+            "anon": false,
+            "size": "(6,085 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Never test a fuse on a machine that is still on."
+                ],
+                "removed": [
+                    "*Never test a fuse on a machine that is still on."
+                ]
+            }
+        },
+        {
+            "id": "17956509",
+            "user": "InterwikiBot",
+            "timestamp": "18:35, 27 July 2015",
+            "anon": false,
+            "size": "(6,085 bytes)",
+            "change": -276,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": [
+                    "[[es:probar un fusible con un multímetro]]",
+                    "[[pt:Testar Um Fusível Com Um Multímetro]]",
+                    "[[it:Testare un Fusibile con un Multimetro]]",
+                    "[[ru:проверить предохранитель с помощью мультиметра]]",
+                    "[[de:Mit einem Multimeter eine Sicherung prüfen]]"
+                ]
+            }
+        },
+        {
+            "id": "17656486",
+            "user": "12.13.186.99",
+            "timestamp": "20:25, 22 June 2015",
+            "anon": true,
+            "size": "(6,361 bytes)",
+            "change": 86,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all, or the meter will display O.L. depending on the brand and type of meter you are using."
+                ],
+                "removed": [
+                    "#*If using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all."
+                ]
+            }
+        },
+        {
+            "id": "17656408",
+            "user": "12.13.186.99",
+            "timestamp": "20:13, 22 June 2015",
+            "anon": true,
+            "size": "(6,275 bytes)",
+            "change": 48,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn the device off first and Remove power.",
+                    "#*If using a digital multimeter set to measure continuity, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown."
+                ],
+                "removed": [
+                    "#*If using a digital multimeter set to measure current, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown."
+                ]
+            }
+        },
+        {
+            "id": "17505271",
+            "user": "Votebot",
+            "timestamp": "12:43, 2 June 2015",
+            "anon": false,
+            "size": "(6,227 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "17167144",
+            "user": "Wikivisual",
+            "timestamp": "03:15, 21 April 2015",
+            "anon": false,
+            "size": "(6,227 bytes)",
+            "change": 442,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:[[Image:Test a Fuse With a Multimeter Step 1 Version 3.jpg|center]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>[[Image:Test a Fuse With a Multimeter Step 2 Version 3.jpg|center]]",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.[[Image:Test a Fuse With a Multimeter Step 3 Version 3.jpg|center]]",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.[[Image:Test a Fuse With a Multimeter Step 4 Version 3.jpg|center]]",
+                    "#Turn the meter on and set it.[[Image:Test a Fuse With a Multimeter Step 5 Version 3.jpg|center]]",
+                    "#Put one lead on each end of the fuse and look at the display.[[Image:Test a Fuse With a Multimeter Step 6.jpg|center]]",
+                    "#Test the fuse.[[Image:Test a Fuse With a Multimeter Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.",
+                    "#Turn the meter on and set it.",
+                    "#Put one lead on each end of the fuse and look at the display.",
+                    "#Test the fuse."
+                ]
+            }
+        },
+        {
+            "id": "16668118",
+            "user": "WikiHow Intern",
+            "timestamp": "06:12, 17 February 2015",
+            "anon": false,
+            "size": "(5,785 bytes)",
+            "change": 2,
+            "summary": "(fixing order)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    ""
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "==Sources and Citations==",
+                    "{{reflist}}"
+                ]
+            }
+        },
+        {
+            "id": "16252373",
+            "user": "Dr. Carrie",
+            "timestamp": "21:47, 29 December 2014",
+            "anon": false,
+            "size": "(5,783 bytes)",
+            "change": -8,
+            "summary": "(fixing formatting issue)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "===Learning about Fuses and Multimeters===",
+                    "===Testing the Fuse===",
+                    "__Parts__"
+                ],
+                "removed": [
+                    "===Part 1:  Learning about Fuses and Multimeters===",
+                    "===Part 2:  Testing the Fuse==="
+                ]
+            }
+        },
+        {
+            "id": "16250459",
+            "user": "Seymour Edits",
+            "timestamp": "16:25, 29 December 2014",
+            "anon": false,
+            "size": "(5,791 bytes)",
+            "change": 655,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to prevent damage to more valuable electrical equipment or prevent fires (especially in homes) caused by power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:",
+                    "#Understand why you must test fuses. Testing fuses is the simplest way to examine what is going on in the electrical systems of your car or home, and for that reason it is a vital skill to possess.",
+                    "#*It is easier to test fuses than it is to test other electrical equipment. Other car or home components involve complex wiring systems that run on for some length. In addition, most car parts can only be tested at repair shops, and to do so will usually cost quite a lot of money. Testing fuses with a multimeter is comparatively simple to do, and the equipment involved is cheap and easy to operate.",
+                    "#*Many types of fuses allow for visual confirmation that the fuse is still functional. They are made clear so that you can see if the wire remains intact. If the translucent area is blackened, it is '''usually''' because the fuse has burned out. However, some fuses will create that blackened stain after only slightly overheating, and that may have even been the result of an unnoticed incident weeks or months earlier. If a device is not working, you should test the fuses. If the fuses are all still working, there is likely a more serious problem and it may be time to call on an expert.",
+                    "",
+                    "#*If using a digital multimeter set to measure current, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown."
+                ],
+                "removed": [
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to save more valuable electrical equipment from power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:",
+                    "#Understand why you must test fuses. Many types of fuses allow for visual confirmation that the fuse is still functional. They are made clear so that you can see if the wire remains intact. If the translucent area is blackened, it is '''usually''' because the fuse has burned out. However, some fuses will create that blackened stain after only slightly overheating, and that may have even been the result of a unnoticed incident weeks or months earlier. If a device is not working, you should test the fuses. If they are all still working, there is likely a more serious problem with the device.",
+                    "#*If using a digital multimeter set to measure current, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown."
+                ]
+            }
+        },
+        {
+            "id": "16237875",
+            "user": "Votebot",
+            "timestamp": "14:11, 27 December 2014",
+            "anon": false,
+            "size": "(5,136 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Regarding car fuses, most cars use a colored 'blade' type fuse, and looking at the top of the fuse in situ in the fuse box will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown)."
+                ],
+                "removed": [
+                    "*Regarding car fuses, most cars use a colored 'blade' type fuse, and looking at the top of the fuse in situ in the fuse box will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown)."
+                ]
+            }
+        },
+        {
+            "id": "16183118",
+            "user": "Seymour Edits",
+            "timestamp": "15:01, 18 December 2014",
+            "anon": false,
+            "size": "(5,136 bytes)",
+            "change": -105,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>http://electrical.about.com/od/panelsdistribution/a/cartridgefuses.htm</ref>",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> http://www.edmunds.com/how-to/how-to-inspect-and-replace-automotive-fuses.html</ref>",
+                    "#*Alternatively, you can test the flow of current by setting the meter to the symbol that looks like an arrow traveling along a line."
+                ],
+                "removed": [
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>http://electrical.about.com/od/panelsdistribution/a/cartridgefuses.htm</ref> [[Image:Glass fuse.jpg|right|181px]]",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> http://www.edmunds.com/how-to/how-to-inspect-and-replace-automotive-fuses.html</ref> [[Image:Blade fuse.jpg|right|179px]]",
+                    "#*Alternatively, you can test the flow of current by setting the meter to the symbol that looks like an arrow traveling along a line.[[Image:Current.jpg|right|181px]]"
+                ]
+            }
+        },
+        {
+            "id": "16166565",
+            "user": "Dr. Carrie",
+            "timestamp": "00:35, 17 December 2014",
+            "anon": false,
+            "size": "(5,241 bytes)",
+            "change": -1,
+            "summary": "(fixing formatting issue)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed."
+                ],
+                "removed": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed."
+                ]
+            }
+        },
+        {
+            "id": "16164639",
+            "user": "Seymour Edits",
+            "timestamp": "18:58, 16 December 2014",
+            "anon": false,
+            "size": "(5,242 bytes)",
+            "change": -555,
+            "summary": "(Added parts, citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "Cars and older homes that don’t use modern circuit breakers use fuses to prevent damage from electrical surges. Sometimes these fuses require testing to check that they are still in good working order. Testing fuses can be done using a multimeter, and doing so is both fast and easy to learn.",
+                    "#Turn the meter on and set it.",
+                    "#Put one lead on each end of the fuse and look at the display.",
+                    "#Test the fuse.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter, and doing so is both fast and easy to learn.",
+                    "#Turn the meter on and set it. <br><br>{{whvid|Test a Fuse With a Multimeter Step 3.360p.mp4|Test a Fuse With a Multimeter Step 3-preview.jpg|Test a Fuse With a Multimeter Step 3 Version 2.jpg}}",
+                    "#Put one lead on each end of the fuse and look at the display.<br><br>{{whvid|Test a Fuse With a Multimeter Step 2.360p.mp4|Test a Fuse With a Multimeter Step 2-preview.jpg|Test a Fuse With a Multimeter Step 2 Version 2.jpg}}",
+                    "#Test the fuse. <br><br>{{whvid|Test a Fuse With a Multimeter Step 4.360p.mp4|Test a Fuse With a Multimeter Step 4-preview.jpg|Test a Fuse With a Multimeter Step 4 Version 2.jpg}}",
+                    "#A blown fuse. <br><br>{{whvid|Test a Fuse With a Multimeter Step 5.360p.mp4|Test a Fuse With a Multimeter Step 5-preview.jpg|Test a Fuse With a Multimeter Step 5 Version 2.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "16164631",
+            "user": "Seymour Edits",
+            "timestamp": "18:54, 16 December 2014",
+            "anon": false,
+            "size": "(5,797 bytes)",
+            "change": -155,
+            "summary": "(Added parts, citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed."
+                ],
+                "removed": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "16164619",
+            "user": "Seymour Edits",
+            "timestamp": "18:52, 16 December 2014",
+            "anon": false,
+            "size": "(5,952 bytes)",
+            "change": -9,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}"
+                ],
+                "removed": [
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.<br><br>{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "16164614",
+            "user": "Seymour Edits",
+            "timestamp": "18:50, 16 December 2014",
+            "anon": false,
+            "size": "(5,961 bytes)",
+            "change": 2934,
+            "summary": "(Added citations, parts)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter, and doing so is both fast and easy to learn.",
+                    "===Part 1:  Learning about Fuses and Multimeters===",
+                    "#Understand fuses. Fuses are really just wires that are designed not to last, but their purpose is to save more valuable electrical equipment from power surges. If too much power runs through the fuse, it will \"burn out,\" quite literally, and break the circuit. There are number of varieties of fuse, but their differences are primarily in appearance. Here is a description of the two you are most likely to see:",
+                    "#*The cartridge fuse is a cylindrical fuse that has been common in a wide variety of devices for many years, from homes to small electronic devices. They have metal contact or terminal points on either end and consist primarily of a tube that contains the wire.<ref>http://electrical.about.com/od/panelsdistribution/a/cartridgefuses.htm</ref> [[Image:Glass fuse.jpg|right|181px]]",
+                    "#*The blade fuse is a common type of automotive fuse that has come into use in the last 20-30 years. They vaguely resemble the plug of a power cord, with two metal prongs emanating from a plastic housing that contains the wire. Previously, most vehicles also contained small glass cartridge fuses. Blade fuses plug conveniently into banks, and relatively little space is required to house a large number of them together.<ref> http://www.edmunds.com/how-to/how-to-inspect-and-replace-automotive-fuses.html</ref> [[Image:Blade fuse.jpg|right|179px]]",
+                    "#Learn how a multimeter works. Multimeters measure AC and DC voltage, electrical resistance, and the flow of current. For testing a fuse, you can either use it as an ohmmeter (that is, a meter that tests resistance) or an ammeter (a meter that tests the flow of current). <ref>http://www.wisegeek.org/what-is-a-multimeter.htm</ref>",
+                    "#*A multimeter has a positive and negative lead. When testing resistance or current flow in a circuit, the meter will transmit a small quantity of electricity from its own battery and then measure the amount that passes through the circuit or object.",
+                    "#Understand why you must test fuses. Many types of fuses allow for visual confirmation that the fuse is still functional. They are made clear so that you can see if the wire remains intact. If the translucent area is blackened, it is '''usually''' because the fuse has burned out. However, some fuses will create that blackened stain after only slightly overheating, and that may have even been the result of a unnoticed incident weeks or months earlier. If a device is not working, you should test the fuses. If they are all still working, there is likely a more serious problem with the device.",
+                    "===Part 2:  Testing the Fuse===",
+                    "#Remove the fuse from the vehicle or device. Make sure it is turned off before the fuse is removed.<br><br>{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}",
+                    "#Turn the meter on and set it. <br><br>{{whvid|Test a Fuse With a Multimeter Step 3.360p.mp4|Test a Fuse With a Multimeter Step 3-preview.jpg|Test a Fuse With a Multimeter Step 3 Version 2.jpg}}",
+                    "#*You can rotate the selector to Ω, or OHMS. This will measure resistance. Before you test the fuse, put the positive and negative leads together and look at the reading. The number it provides should be close to the one you see when you test the fuse.",
+                    "#*Alternatively, you can test the flow of current by setting the meter to the symbol that looks like an arrow traveling along a line.[[Image:Current.jpg|right|181px]]",
+                    "#*Because the fuse is little more than a single wire--and no complex parts to worry about--it does not matter which side receives the positive or negative lead.",
+                    "#Test the fuse. <br><br>{{whvid|Test a Fuse With a Multimeter Step 4.360p.mp4|Test a Fuse With a Multimeter Step 4-preview.jpg|Test a Fuse With a Multimeter Step 4 Version 2.jpg}}",
+                    "#*If using the multimeter to measure ohms, the reading should match (or nearly match) the one provided when you touched the two leads. If the fuse is blown, it will not read anything at all.",
+                    "#*If using a digital multimeter set to measure current, the meter should beep continuously as you hold the leads to the ends of the fuse. That means the circuit is complete. If it does not do so, the fuse is blown.",
+                    "#A blown fuse. <br><br>{{whvid|Test a Fuse With a Multimeter Step 5.360p.mp4|Test a Fuse With a Multimeter Step 5-preview.jpg|Test a Fuse With a Multimeter Step 5 Version 2.jpg}}",
+                    "*Household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating. They are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance.",
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.<br><br>{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.<br><br>{{whvid|Test a Fuse With a Multimeter Step 3.360p.mp4|Test a Fuse With a Multimeter Step 3-preview.jpg|Test a Fuse With a Multimeter Step 3 Version 2.jpg}}",
+                    "#* Make sure your meter's leads are connected to +ve and common.",
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.<br><br>{{whvid|Test a Fuse With a Multimeter Step 4.360p.mp4|Test a Fuse With a Multimeter Step 4-preview.jpg|Test a Fuse With a Multimeter Step 4 Version 2.jpg}}",
+                    "#If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>{{whvid|Test a Fuse With a Multimeter Step 5.360p.mp4|Test a Fuse With a Multimeter Step 5-preview.jpg|Test a Fuse With a Multimeter Step 5 Version 2.jpg}}",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter.",
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards.",
+                    "*Never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "15458825",
+            "user": "InterwikiBot",
+            "timestamp": "17:32, 25 September 2014",
+            "anon": false,
+            "size": "(3,027 bytes)",
+            "change": 51,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[de:Mit einem Multimeter eine Sicherung prüfen]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14745852",
+            "user": "Votebot",
+            "timestamp": "21:06, 13 August 2014",
+            "anon": false,
+            "size": "(2,976 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ],
+                "removed": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ]
+            }
+        },
+        {
+            "id": "13585468",
+            "user": "Votebot",
+            "timestamp": "17:07, 12 May 2014",
+            "anon": false,
+            "size": "(2,976 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "13309149",
+            "user": "Wikivisual",
+            "timestamp": "16:15, 15 April 2014",
+            "anon": false,
+            "size": "(2,976 bytes)",
+            "change": 459,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.<br><br>{{whvid|Test a Fuse With a Multimeter Step 1.360p.mp4|Test a Fuse With a Multimeter Step 1-preview.jpg|Test a Fuse With a Multimeter Step 1 Version 2.jpg}}",
+                    "#Put one lead on each end of the fuse and look at the display.<br><br>{{whvid|Test a Fuse With a Multimeter Step 2.360p.mp4|Test a Fuse With a Multimeter Step 2-preview.jpg|Test a Fuse With a Multimeter Step 2 Version 2.jpg}}",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.<br><br>{{whvid|Test a Fuse With a Multimeter Step 3.360p.mp4|Test a Fuse With a Multimeter Step 3-preview.jpg|Test a Fuse With a Multimeter Step 3 Version 2.jpg}}",
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.<br><br>{{whvid|Test a Fuse With a Multimeter Step 4.360p.mp4|Test a Fuse With a Multimeter Step 4-preview.jpg|Test a Fuse With a Multimeter Step 4 Version 2.jpg}}",
+                    "#If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>{{whvid|Test a Fuse With a Multimeter Step 5.360p.mp4|Test a Fuse With a Multimeter Step 5-preview.jpg|Test a Fuse With a Multimeter Step 5 Version 2.jpg}}"
+                ],
+                "removed": [
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.<br><br>[[Image:Test a Fuse With a Multimeter Step 1.jpg|center|550px]]",
+                    "#Put one lead on each end of the fuse and look at the display.<br><br>[[Image:Test a Fuse With a Multimeter Step 2.jpg|center|550px]]",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.<br><br>[[Image:Test a Fuse With a Multimeter Step 3.jpg|center|550px]]",
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 4.jpg|center|550px]]",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13162627",
+            "user": "InterwikiBot",
+            "timestamp": "04:24, 1 April 2014",
+            "anon": false,
+            "size": "(2,517 bytes)",
+            "change": 96,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:проверить предохранитель с помощью мультиметра]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13146297",
+            "user": "InterwikiBot",
+            "timestamp": "01:16, 1 April 2014",
+            "anon": false,
+            "size": "(2,421 bytes)",
+            "change": 45,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Testare un Fusibile con un Multimetro]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12339550",
+            "user": "Votebot",
+            "timestamp": "18:28, 8 January 2014",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "*Never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "12270415",
+            "user": "Votebot",
+            "timestamp": "19:46, 1 January 2014",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ],
+                "removed": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ]
+            }
+        },
+        {
+            "id": "11974193",
+            "user": "Votebot",
+            "timestamp": "17:14, 2 December 2013",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ],
+                "removed": [
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter."
+                ]
+            }
+        },
+        {
+            "id": "11822978",
+            "user": "Votebot",
+            "timestamp": "17:47, 17 November 2013",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "11772721",
+            "user": "Votebot",
+            "timestamp": "18:37, 12 November 2013",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Regarding car fuses, most cars use a colored 'blade' type fuse, and looking at the top of the fuse in situ in the fuse box will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown)."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "*Regarding car fuses, most cars use a colored 'blade' type fuse, and looking at the top of the fuse in situ in the fuse box will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown)."
+                ]
+            }
+        },
+        {
+            "id": "11585268",
+            "user": "Votebot",
+            "timestamp": "21:49, 28 October 2013",
+            "anon": false,
+            "size": "(2,379 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10800352",
+            "user": "Votebot",
+            "timestamp": "17:19, 13 August 2013",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "10734671",
+            "user": "MiscBot",
+            "timestamp": "10:55, 7 August 2013",
+            "anon": false,
+            "size": "(2,376 bytes)",
+            "change": -14,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance."
+                ],
+                "removed": [
+                    "{{nointroimg}}Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance."
+                ]
+            }
+        },
+        {
+            "id": "10614504",
+            "user": "Votebot",
+            "timestamp": "16:23, 29 July 2013",
+            "anon": false,
+            "size": "(2,390 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "RubyRoseRain",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "9765144",
+            "user": "Zack",
+            "timestamp": "12:59, 1 May 2013",
+            "anon": false,
+            "size": "(2,390 bytes)",
+            "change": -75,
+            "summary": "(Reverted edits by 216.120.176.10 (Talk); changed back to last version by InterwikiBot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]",
+                    "",
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]. Then you will need a voltmeter. or niotototoot",
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards. chad is cool and so is eman."
+                ]
+            }
+        },
+        {
+            "id": "9759168",
+            "user": "216.120.176.10",
+            "timestamp": "17:03, 30 April 2013",
+            "anon": true,
+            "size": "(2,465 bytes)",
+            "change": 16,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards. chad is cool and so is eman."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards. chad is cool"
+                ]
+            }
+        },
+        {
+            "id": "9759162",
+            "user": "216.120.176.10",
+            "timestamp": "17:02, 30 April 2013",
+            "anon": true,
+            "size": "(2,449 bytes)",
+            "change": 14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]. Then you will need a voltmeter. or niotototoot"
+                ],
+                "removed": [
+                    "",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]. Then you will need a voltmeter."
+                ]
+            }
+        },
+        {
+            "id": "9759158",
+            "user": "216.120.176.10",
+            "timestamp": "17:01, 30 April 2013",
+            "anon": true,
+            "size": "(2,435 bytes)",
+            "change": 13,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards. chad is cool"
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "9759152",
+            "user": "216.120.176.10",
+            "timestamp": "17:00, 30 April 2013",
+            "anon": true,
+            "size": "(2,422 bytes)",
+            "change": 32,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]. Then you will need a voltmeter."
+                ],
+                "removed": [
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "9342889",
+            "user": "InterwikiBot",
+            "timestamp": "06:43, 5 March 2013",
+            "anon": false,
+            "size": "(2,390 bytes)",
+            "change": 45,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Testar Um Fusível Com Um Multímetro]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9299673",
+            "user": "Wikiphoto",
+            "timestamp": "03:45, 28 February 2013",
+            "anon": false,
+            "size": "(2,345 bytes)",
+            "change": 15,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance.",
+                    ""
+                ],
+                "removed": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance."
+                ]
+            }
+        },
+        {
+            "id": "9298284",
+            "user": "Wikiphoto",
+            "timestamp": "23:51, 27 February 2013",
+            "anon": false,
+            "size": "(2,330 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.<br><br>[[Image:Test a Fuse With a Multimeter Step 1.jpg|center|550px]]",
+                    "#Put one lead on each end of the fuse and look at the display.<br><br>[[Image:Test a Fuse With a Multimeter Step 2.jpg|center|550px]]",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.<br><br>[[Image:Test a Fuse With a Multimeter Step 3.jpg|center|550px]]",
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 4.jpg|center|550px]]",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.<br><br>[[Image:Test a Fuse With a Multimeter Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#[[Image:Test a Fuse With a Multimeter Step 1.jpg|right|300px]]Remove the fuse from the car or machine. Make sure the circuits are turned off.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 2.jpg|right|300px]]Put one lead on each end of the fuse and look at the display.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 3.jpg|right|300px]]Turn the meter on and rotate the selector to Ω, or OHMS.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 4.jpg|right|300px]]If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "# [[Image:Test a Fuse With a Multimeter Step 5.jpg|right|300px]]If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown."
+                ]
+            }
+        },
+        {
+            "id": "9298283",
+            "user": "Wikiphoto",
+            "timestamp": "23:50, 27 February 2013",
+            "anon": false,
+            "size": "(2,284 bytes)",
+            "change": 273,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 1.jpg|right|300px]]Remove the fuse from the car or machine. Make sure the circuits are turned off.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 2.jpg|right|300px]]Put one lead on each end of the fuse and look at the display.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 3.jpg|right|300px]]Turn the meter on and rotate the selector to Ω, or OHMS.",
+                    "#[[Image:Test a Fuse With a Multimeter Step 4.jpg|right|300px]]If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "# [[Image:Test a Fuse With a Multimeter Step 5.jpg|right|300px]]If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown."
+                ],
+                "removed": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance.",
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.",
+                    "#Put one lead on each end of the fuse and look at the display.",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.",
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown."
+                ]
+            }
+        },
+        {
+            "id": "9295760",
+            "user": "IngeborgK",
+            "timestamp": "15:56, 27 February 2013",
+            "anon": false,
+            "size": "(2,011 bytes)",
+            "change": 1,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuse-less and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuseless and much safer. Consider having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "8876391",
+            "user": "Katie Conigliaro",
+            "timestamp": "06:58, 14 December 2012",
+            "anon": false,
+            "size": "(2,010 bytes)",
+            "change": -1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#If the display reads full-scale or doesn't change from before you tested the fuse, it has blown."
+                ],
+                "removed": [
+                    "#*If the display reads full-scale or doesn't change from before you tested the fuse, it has blown."
+                ]
+            }
+        },
+        {
+            "id": "8876385",
+            "user": "Katie Conigliaro",
+            "timestamp": "06:56, 14 December 2012",
+            "anon": false,
+            "size": "(2,011 bytes)",
+            "change": -105,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]Cars and older homes that don’t use modern circuit breakers require testing to check that they are still in good working order. Testing fuses can be done using a multimeter. A multimeter is an instrument that measures electric current, voltage, and resistance.",
+                    "#Remove the fuse from the car or machine. Make sure the circuits are turned off.",
+                    "#Put one lead on each end of the fuse and look at the display.",
+                    "#Turn the meter on and rotate the selector to Ω, or OHMS.",
+                    "#* Make sure your meter's leads are connected to +ve and common.",
+                    "#*If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "# If the meter shows a low number (normally less than 1), then the fuse should be okay. Some meters have a 'continuity' selection. This will either beep or change the displayed number if the fuse is good when tested. Or it will remain silent and the number will remain static if the fuse is blown.",
+                    "== Tips ==",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter.",
+                    "*Regarding car fuses, most cars use a colored 'blade' type fuse, and looking at the top of the fuse in situ in the fuse box will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown).",
+                    "*Similarly, household installations these days shouldn't really be protected by just fuses. Modern circuit breakers and protective devices are fuseless and much safer. Consider having an old fuse installation upgraded to modern standards.",
+                    "== Warnings ==",
+                    "*Never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "*Never test a fuse on a machine that is still on."
+                ],
+                "removed": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]This article tells you how to check a car or home fuse with a cheap multimeter.",
+                    "#Turn the meter on, rotate the selector to Ω or 'OHMS' or the upside down 'U' on your meter.",
+                    "#Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign).",
+                    "#With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display.",
+                    "#* If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "#* If the meter reading says a low number (normally less than 1)then the fuse should be okay. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition.",
+                    "# Never test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.",
+                    "# Lastly, never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "",
+                    "== Tips ==",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter. Regarding car fuses, most cars use a coloured 'blade' type fuse these days, and looking at the top of the fuse in situ in the fuse box (a pocket torch may help here) will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown). Similarly, household installations these days shouldn't really be protected by just fuses, modern circuit breakers and protective devices are fuseless and much safer; think about having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "7850145",
+            "user": "E_Shiels",
+            "timestamp": "20:49, 29 May 2012",
+            "anon": false,
+            "size": "(2,116 bytes)",
+            "change": -52,
+            "summary": "(Edit via Quality Guardian: Removed video that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Test a Fuse With a Multimeter|}}"
+                ]
+            }
+        },
+        {
+            "id": "7835468",
+            "user": "Steve5",
+            "timestamp": "06:42, 27 May 2012",
+            "anon": false,
+            "size": "(2,168 bytes)",
+            "change": 54,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Test a Fuse With a Multimeter|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7639887",
+            "user": "Yellowkippy",
+            "timestamp": "21:40, 23 April 2012",
+            "anon": false,
+            "size": "(2,114 bytes)",
+            "change": 1,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Turn the meter on, rotate the selector to Ω or 'OHMS' or the upside down 'U' on your meter."
+                ],
+                "removed": [
+                    "#Turn the meter on, rotate the selector to Ω or 'OHMS' or the upsidedown 'U' on your meter."
+                ]
+            }
+        },
+        {
+            "id": "7514286",
+            "user": "15.203.233.80",
+            "timestamp": "15:00, 30 March 2012",
+            "anon": true,
+            "size": "(2,113 bytes)",
+            "change": 4,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign).",
+                    "#* If the display reads full-scale or doesn't change from before you tested the fuse, it has blown.",
+                    "#* If the meter reading says a low number (normally less than 1)then the fuse should be okay. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition."
+                ],
+                "removed": [
+                    "",
+                    "#Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign).",
+                    "#* If the display reads 0 or doesn't change from before you tested the fuse, it has blown.",
+                    "#* If the meter reading says a number (normally greater than 1)then the fuse should be okay. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition.",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6381784",
+            "user": "WikiHow Traduce",
+            "timestamp": "13:34, 21 July 2011",
+            "anon": false,
+            "size": "(2,109 bytes)",
+            "change": 46,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "[[es:probar un fusible con un multímetro]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5816939",
+            "user": "Kanhu",
+            "timestamp": "14:49, 2 April 2011",
+            "anon": false,
+            "size": "(2,063 bytes)",
+            "change": 28,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]This article tells you how to check a car or home fuse with a cheap multimeter.",
+                    "#Turn the meter on, rotate the selector to Ω or 'OHMS' or the upsidedown 'U' on your meter.",
+                    "#With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display.",
+                    "#* If the display reads 0 or doesn't change from before you tested the fuse, it has blown.",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter. Regarding car fuses, most cars use a coloured 'blade' type fuse these days, and looking at the top of the fuse in situ in the fuse box (a pocket torch may help here) will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown). Similarly, household installations these days shouldn't really be protected by just fuses, modern circuit breakers and protective devices are fuseless and much safer; think about having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]checking a car or home fuse with a cheap multimeter",
+                    "#Turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter.",
+                    "#With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display;",
+                    "#* if the display reads 0 or doesn't change from before you tested the fuse, it has blown.",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter. Regarding car fuses, most cars use a coloured 'blade' type fuse these days, and looking at the top of the fuse in situ in the fuse box (a pocket torch may help here) will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown). Similarly, household installations these days shouldn't really be protected by just fuses, modern circuit breakers and protective devices are fuseless and much,much safer; think about having an old fuse installation upgraded to modern standards."
+                ]
+            }
+        },
+        {
+            "id": "5529907",
+            "user": "ShrUtiable",
+            "timestamp": "15:42, 24 January 2011",
+            "anon": false,
+            "size": "(2,035 bytes)",
+            "change": 37,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Fuses.jpg|thumb|right|251px]]checking a car or home fuse with a cheap multimeter"
+                ],
+                "removed": [
+                    "checking a car or home fuse with a cheap multimeter"
+                ]
+            }
+        },
+        {
+            "id": "4142364",
+            "user": "DifuWu",
+            "timestamp": "15:57, 28 December 2009",
+            "anon": false,
+            "size": "(1,998 bytes)",
+            "change": 2,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* If the meter reading says a number (normally greater than 1)then the fuse should be okay. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition.",
+                    "# Never test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.",
+                    "# Lastly, never replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "#* If the meter reading says a number (normally greater than 1)then the fuse should be OK. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition.",
+                    "# NEVER test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.",
+                    "# Lastly, NEVER replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "4142222",
+            "user": "Ladanea",
+            "timestamp": "14:52, 28 December 2009",
+            "anon": false,
+            "size": "(1,996 bytes)",
+            "change": -84,
+            "summary": "(Reverted edits by 208.81.157.86 (Talk); changed back to last version by Ttrimm)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "# And the last step just use your brain next time and you're good to go. Good luck!"
+                ]
+            }
+        },
+        {
+            "id": "4138170",
+            "user": "208.81.157.86",
+            "timestamp": "21:00, 26 December 2009",
+            "anon": true,
+            "size": "(2,080 bytes)",
+            "change": 84,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Ladanea",
+            "exact_contribution": {
+                "added": [
+                    "# And the last step just use your brain next time and you're good to go. Good luck!"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "3684184",
+            "user": "Ttrimm",
+            "timestamp": "03:54, 9 August 2009",
+            "anon": false,
+            "size": "(1,996 bytes)",
+            "change": 0,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Ladanea",
+            "exact_contribution": {
+                "added": [
+                    "#Turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter."
+                ],
+                "removed": [
+                    "#turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter."
+                ]
+            }
+        },
+        {
+            "id": "3684183",
+            "user": "Ttrimm",
+            "timestamp": "03:54, 9 August 2009",
+            "anon": false,
+            "size": "(1,996 bytes)",
+            "change": 16,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Ladanea",
+            "exact_contribution": {
+                "added": [
+                    "#turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter.",
+                    "#Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign).",
+                    "#With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display;",
+                    "#* if the display reads 0 or doesn't change from before you tested the fuse, it has blown.",
+                    "#* If the meter reading says a number (normally greater than 1)then the fuse should be OK. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about its condition.",
+                    "# NEVER test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.",
+                    "# Lastly, NEVER replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ],
+                "removed": [
+                    "#turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter. Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign). With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display; if the display reads 0 or doesn't change from before you tested the fuse, it has blown. If the meter reading says a number (normally greater than 1)then the fuse should be OK. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about it's condition. NEVER test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.Lastly, NEVER replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one."
+                ]
+            }
+        },
+        {
+            "id": "3678906",
+            "user": "Lucky7",
+            "timestamp": "19:16, 7 August 2009",
+            "anon": false,
+            "size": "(1,980 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "3678641",
+            "user": "195.146.254.155",
+            "timestamp": "18:06, 7 August 2009",
+            "anon": true,
+            "size": "(1,943 bytes)",
+            "change": 1943,
+            "summary": "(New page: checking a car or home fuse with a cheap multimeter == Steps == #turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter. Make sure your meter's leads are conn...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "checking a car or home fuse with a cheap multimeter",
+                    "== Steps ==",
+                    "#turn the meter on, rotate the selector to 'OHMS' or the upsidedown 'U' on your meter. Make sure your meter's leads are connected to +ve and common(normally black with a -ve sign). With the fuse OUT of the car/machine, put one lead on each end of the fuse and look at the display; if the display reads 0 or doesn't change from before you tested the fuse, it has blown. If the meter reading says a number (normally greater than 1)then the fuse should be OK. Some meters have a 'continuity' selection, this will either beep or change the displayed number if the fuse is good when tested, or remain silent and the number remains static if the fuse is blown. Fuses are so cheap these days, so buy a new fuse if you are in any doubt about it's condition. NEVER test the fuse in situ, always remove it first; if you are unsure how to do this, consult a qualified electrician because the risk of damage to you and/or the machine is too great.Lastly, NEVER replace a blown or suspect fuse with one of a higher rating, they are rated for safety reasons and you should always replace a fuse with exactly (or sometimes lower) rating as the old one.",
+                    "== Tips ==",
+                    "*Some car fuses are glass tubes (older cars in the main) and it is quite easy to see that the wire inside has broken in two, indicating the fuse has blown without the need for a meter. Regarding car fuses, most cars use a coloured 'blade' type fuse these days, and looking at the top of the fuse in situ in the fuse box (a pocket torch may help here) will show that the metal strip that runs along the visible top of the fuse will either be intact (fuse good) or broken (fuse blown). Similarly, household installations these days shouldn't really be protected by just fuses, modern circuit breakers and protective devices are fuseless and much,much safer; think about having an old fuse installation upgraded to modern standards."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

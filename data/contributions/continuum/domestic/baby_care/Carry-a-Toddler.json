@@ -1,0 +1,910 @@
+{
+    "title": "Carry-a-Toddler",
+    "continuum": "domestic",
+    "subcategory": "baby_care",
+    "timestamp": "2026-04-16T04:53:53.457771",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33230307",
+            "user": "MiscBot",
+            "timestamp": "21:41, 10 March 2025",
+            "anon": false,
+            "size": "(14,293 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31096580",
+            "user": "Seymour Edits",
+            "timestamp": "18:23, 21 November 2022",
+            "anon": false,
+            "size": "(14,274 bytes)",
+            "change": 350,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Remember to use your arms, rather than your back or torso, to move your toddler from one side to another.{{expertgreenbox:161832|How do you hold your child on your lap?|When you sit down, resituate the toddler by facing them toward you, keeping them steady by holding them under the arms, around the waist, or by their hands. Then, move your knees up and down to gently bounce the toddler. Feel free to talk, sing, or make funny faces while you do this.}}"
+                ],
+                "removed": [
+                    "#*Remember to use your arms, rather than your back or torso, to move your toddler from one side to another."
+                ]
+            }
+        },
+        {
+            "id": "30812961",
+            "user": "Zodi",
+            "timestamp": "08:52, 25 August 2022",
+            "anon": false,
+            "size": "(13,924 bytes)",
+            "change": -82,
+            "summary": "(RCP reverted edits by Stiger Wang (talk) to  revision #30396991 by Seymour Edits)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#*Bring your toddler to the store with you and try out several slings with them to find the one that is the most comfortable for you both."
+                ],
+                "removed": [
+                    "#*Bring your toddler to the store with you and try out several slings with them to find the one that is the most comfortable for you both.<ref>https://www.besrey.com/blogs/news/pros-and-cons-of-using-a-baby-carrier</ref>"
+                ]
+            }
+        },
+        {
+            "id": "30812289",
+            "user": "Stiger Wang",
+            "timestamp": "03:37, 25 August 2022",
+            "anon": false,
+            "size": "(14,006 bytes)",
+            "change": 82,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zodi",
+            "exact_contribution": {
+                "added": [
+                    "#*Bring your toddler to the store with you and try out several slings with them to find the one that is the most comfortable for you both.<ref>https://www.besrey.com/blogs/news/pros-and-cons-of-using-a-baby-carrier</ref>"
+                ],
+                "removed": [
+                    "#*Bring your toddler to the store with you and try out several slings with them to find the one that is the most comfortable for you both."
+                ]
+            }
+        },
+        {
+            "id": "30396991",
+            "user": "Seymour Edits",
+            "timestamp": "17:31, 18 March 2022",
+            "anon": false,
+            "size": "(13,924 bytes)",
+            "change": 86,
+            "summary": "(Added Expert Citations for the Lookback project.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zodi",
+            "exact_contribution": {
+                "added": [
+                    "#Place one arm around their back and the other just below their backside.<ref>[v161711_b01]. 19 February 2021.</ref> Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you'll pick them up. <ref>[v161832_b01]. 7 July 2021.</ref><ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#Hold them close to you, at the front of your body.<ref>[v161711_b01]. 19 February 2021.</ref> The easiest way to carry a toddler is at the front of your body, with their weight resting on your chest and arms. Keep your arms around their back and under their backside.<ref>https://youtu.be/UjTxgxU7y50?t=61</ref>[[Image:Carry a Toddler Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you'll pick them up. <ref>[v161832_b01]. 7 July 2021.</ref><ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#Hold them close to you, at the front of your body. The easiest way to carry a toddler is at the front of your body, with their weight resting on your chest and arms. Keep your arms around their back and under their backside.<ref>https://youtu.be/UjTxgxU7y50?t=61</ref>[[Image:Carry a Toddler Step 4 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29754680",
+            "user": "Votebot",
+            "timestamp": "08:49, 24 July 2021",
+            "anon": false,
+            "size": "(13,838 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29748297",
+            "user": "Nishant shrimali",
+            "timestamp": "10:05, 21 July 2021",
+            "anon": false,
+            "size": "(13,837 bytes)",
+            "change": 41,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Carry a Toddler|}}",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29746883",
+            "user": "Kirajan",
+            "timestamp": "16:52, 20 July 2021",
+            "anon": false,
+            "size": "(13,796 bytes)",
+            "change": 726,
+            "summary": "(added 5 expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you'll pick them up. <ref>[v161832_b01]. 7 July 2021.</ref><ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#*Having your child face backwards over your shoulder is a great position to soothe a toddler who is getting ready for nap time or bedtime.<ref>[v161832_b01]. 7 July 2021.</ref>",
+                    "#*You can face your toddler forwards by supporting under the toddler’s bottom with one hand and putting your other hand across their chest. This position is great for playing with a toddler by pretending they are driving a car or flying an airplane.<ref>[v161832_b01]. 7 July 2021.</ref>",
+                    "#Avoid carrying them on one side of your body for long periods of time. Some parents develop hip problems from carrying their toddler on one hip. Keep your toddler at the front of your body whenever possible, and switch between hips every few minutes if you do need to hold your toddler to the side.<ref>[v161832_b01]. 7 July 2021.</ref><ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 5 Version 2.jpg|center]]",
+                    "#*The advantage of carrying your toddler on your hip is that it's easy to gently rock the toddler by swaying back and forth.<ref>[v161832_b01]. 7 July 2021.</ref>"
+                ],
+                "removed": [
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you'll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#Avoid carrying them on one side of your body for long periods of time. Some parents develop hip problems from carrying their toddler on one hip. Keep your toddler at the front of your body whenever possible, and switch between hips if you do need to hold your toddler to the side.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27036033",
+            "user": "ExoticComet",
+            "timestamp": "02:11, 6 September 2019",
+            "anon": false,
+            "size": "(13,070 bytes)",
+            "change": -74,
+            "summary": "(improving apostrophe consistency)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Your toddler might seem like they have endless energy, but sometimes you'll need to pick them up and carry them when they're tired or in an unsafe spot. When it's time to carry your toddler, be sure to pick them up safely to avoid injuries. As you carry them, you can keep them in front of you, position them in a sling, or hold them in a carrier on your back.",
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you'll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#*Avoid lifting up a child by their forearms or hands, as this can cause an injury known as “nursemaid's elbow.”",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your body as you're standing up.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3 Version 2.jpg|center]]",
+                    "#*If you need to shift your toddler to one side, wait until you're in a standing position, and use your arms to move them. Avoid twisting your back or torso to shift them to your side.",
+                    "#Try on a few slings before purchasing one that is safe and comfortable. When searching for a sling at a specialty store or supermarket, look for a sling with a metal ring and sturdy fabric, such as cotton, wool, or tri-blend. Be sure to check the packaging and make sure your toddler is within the height and weight limit. If you're able to, try on the sling in the store with your toddler in it.<ref>http://raisingchildren.net.au/articles/baby_slings_carriers_safety.html</ref>[[Image:Carry a Toddler Step 6 Version 2.jpg|center]]",
+                    "#Hold the ring of the sling with your non-dominant hand. Pick up the sling in your non-dominant hand as you hold the toddler to one side with your dominant arm. Make sure they're secure and in a comfortable position while you're getting ready to put the sling on.<ref>https://youtu.be/LkNYPGh5eQs?t=44</ref>[[Image:Carry a Toddler Step 7 Version 2.jpg|center]]",
+                    "#*If your toddler is squirmy or doesn't want to be held, wait until they calm down to put on the sling. You'll only have one arm available to hold them, which can be dangerous if they're trying to get to the ground.",
+                    "#Put the ring over your head and onto the shoulder of your dominant hand. Position the sling so that it's draped across your body like a sash. The ring should be on the same side of your body as the toddler, while the bulk of the fabric rests on the opposite hip.<ref>https://youtu.be/LkNYPGh5eQs?t=53</ref>[[Image:Carry a Toddler Step 8 Version 2.jpg|center]]",
+                    "#*Using this technique, your toddler will be positioned on the side of your non-dominant hand, leaving your dominant hand free. If you'd prefer to have your non-dominant hand free, place the ring on that shoulder.",
+                    "#*Try to keep both of your toddler's legs in front of your body to make positioning the sling easier. Once they're in the sling, they can adjust their legs to a position that is more comfortable.",
+                    "#Reach your dominant hand through the sling and pull their feet through. Slide your hand under the fabric on the front of your body, and reach under your toddler's legs to pull the fabric out from underneath their body, and position it behind their backside. Use your non-dominant arm to help guide their legs through the loop in the fabric.<ref>https://youtu.be/LkNYPGh5eQs?t=65</ref>[[Image:Carry a Toddler Step 10 Version 2.jpg|center]]",
+                    "#*If your toddler isn't cooperating with this step, try slipping the fabric under one leg and then the other, rather than both at the same time.",
+                    "#*Try to keep the fabric bunched while you're sliding it out from under the toddler. This will make the process easier and prevent you and your toddler from getting tangled in the fabric.",
+                    "#Use your hands to spread the fabric from the toddler's knees to their back. Once the sling is wrapped around both of you, pull the fabric up your toddler's back until it's just below their shoulder blades. Make sure the bottom portion is positioned behind their knees to offer the most support.<ref>https://youtu.be/LkNYPGh5eQs?t=71</ref>[[Image:Carry a Toddler Step 11 Version 2.jpg|center]]",
+                    "#*Leave the bottom half of your toddler's legs and feet outside of the sling so they can find a comfortable position.",
+                    "#Read the instructions for the carrier to ensure that you're using it correctly. Before placing your toddler in a carrier, take a look at the directions. Make sure you know the proper way to position the carrier, and where your toddler is supposed to sit.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 13 Version 2.jpg|center]]",
+                    "#*It's best to try out several carriers with the toddler in the store before selecting one.",
+                    "#*Try not to twist your torso or back as you're moving the toddler. You can loosen the carrier or strain your back with too much movement.",
+                    "#Lean forward and move the child between the carrier and your back. While you're bending at the waist, slowly push the child onto your back. Pull one of their legs to the side of the carrier with the strap on your shoulder as you move them with your free arm. Make sure their leg is through the hole on the strap side of the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 16 Version 2.jpg|center]]",
+                    "#*Many parents prefer to carry their toddlers higher on their backs because the extra weight is easier to manage. Try various different positions to see what's most comfortable for you.",
+                    "#Secure the front strap and stand up straight. Buckle the strap in front of your chest and tug on the strap to tighten it. Then, slowly straighten your back to shift the toddler's weight into the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 18 Version 2.jpg|center]]",
+                    "#*The lower strap of the carrier should be secure around your waist, and should hit just below the toddler's backside. If they're lower in the carrier when you stand, lean over again and bounce them a few times to push them higher on your back. Then, tighten the waist strap and stand up.",
+                    "#Use the shoulder straps to adjust the position of the toddler on your back. When you're standing, pull on the loose ends of the shoulder straps to tighten them and bring the toddler closer to your back. If you want them to lean away from your back slightly, pull on the buckles to loosen the straps.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 19 Version 2.jpg|center]]",
+                    "*Keep in mind that your toddler will usually tell you if they're uncomfortable in a certain position.",
+                    "*Beware of your child's height when you're carrying them. If they're tall, their head might be slightly higher than yours. Watch out for low ceilings and door frames!"
+                ],
+                "removed": [
+                    "Your toddler might seem like they have endless energy, but sometimes you’ll need to pick them up and carry them when they’re tired or in an unsafe spot. When it’s time to carry your toddler, be sure to pick them up safely to avoid injuries. As you carry them, you can keep them in front of you, position them in a sling, or hold them in a carrier on your back.",
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#*Avoid lifting up a child by their forearms or hands, as this can cause an injury known as “nursemaid’s elbow.”",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your body as you’re standing up.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3 Version 2.jpg|center]]",
+                    "#*If you need to shift your toddler to one side, wait until you’re in a standing position, and use your arms to move them. Avoid twisting your back or torso to shift them to your side.",
+                    "#Try on a few slings before purchasing one that is safe and comfortable. When searching for a sling at a specialty store or supermarket, look for a sling with a metal ring and sturdy fabric, such as cotton, wool, or tri-blend. Be sure to check the packaging and make sure your toddler is within the height and weight limit. If you’re able to, try on the sling in the store with your toddler in it.<ref>http://raisingchildren.net.au/articles/baby_slings_carriers_safety.html</ref>[[Image:Carry a Toddler Step 6 Version 2.jpg|center]]",
+                    "#Hold the ring of the sling with your non-dominant hand. Pick up the sling in your non-dominant hand as you hold the toddler to one side with your dominant arm. Make sure they’re secure and in a comfortable position while you’re getting ready to put the sling on.<ref>https://youtu.be/LkNYPGh5eQs?t=44</ref>[[Image:Carry a Toddler Step 7 Version 2.jpg|center]]",
+                    "#*If your toddler is squirmy or doesn’t want to be held, wait until they calm down to put on the sling. You’ll only have one arm available to hold them, which can be dangerous if they’re trying to get to the ground.",
+                    "#Put the ring over your head and onto the shoulder of your dominant hand. Position the sling so that it’s draped across your body like a sash. The ring should be on the same side of your body as the toddler, while the bulk of the fabric rests on the opposite hip.<ref>https://youtu.be/LkNYPGh5eQs?t=53</ref>[[Image:Carry a Toddler Step 8 Version 2.jpg|center]]",
+                    "#*Using this technique, your toddler will be positioned on the side of your non-dominant hand, leaving your dominant hand free. If you’d prefer to have your non-dominant hand free, place the ring on that shoulder.",
+                    "#*Try to keep both of your toddler’s legs in front of your body to make positioning the sling easier. Once they’re in the sling, they can adjust their legs to a position that is more comfortable.",
+                    "#Reach your dominant hand through the sling and pull their feet through. Slide your hand under the fabric on the front of your body, and reach under your toddler’s legs to pull the fabric out from underneath their body, and position it behind their backside. Use your non-dominant arm to help guide their legs through the loop in the fabric.<ref>https://youtu.be/LkNYPGh5eQs?t=65</ref>[[Image:Carry a Toddler Step 10 Version 2.jpg|center]]",
+                    "#*If your toddler isn’t cooperating with this step, try slipping the fabric under one leg and then the other, rather than both at the same time.",
+                    "#*Try to keep the fabric bunched while you’re sliding it out from under the toddler. This will make the process easier and prevent you and your toddler from getting tangled in the fabric.",
+                    "#Use your hands to spread the fabric from the toddler’s knees to their back. Once the sling is wrapped around both of you, pull the fabric up your toddler’s back until it’s just below their shoulder blades. Make sure the bottom portion is positioned behind their knees to offer the most support.<ref>https://youtu.be/LkNYPGh5eQs?t=71</ref>[[Image:Carry a Toddler Step 11 Version 2.jpg|center]]",
+                    "#*Leave the bottom half of your toddler’s legs and feet outside of the sling so they can find a comfortable position.",
+                    "#Read the instructions for the carrier to ensure that you’re using it correctly. Before placing your toddler in a carrier, take a look at the directions. Make sure you know the proper way to position the carrier, and where your toddler is supposed to sit.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 13 Version 2.jpg|center]]",
+                    "#*It’s best to try out several carriers with the toddler in the store before selecting one.",
+                    "#*Try not to twist your torso or back as you’re moving the toddler. You can loosen the carrier or strain your back with too much movement.",
+                    "#Lean forward and move the child between the carrier and your back. While you’re bending at the waist, slowly push the child onto your back. Pull one of their legs to the side of the carrier with the strap on your shoulder as you move them with your free arm. Make sure their leg is through the hole on the strap side of the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 16 Version 2.jpg|center]]",
+                    "#*Many parents prefer to carry their toddlers higher on their backs because the extra weight is easier to manage. Try various different positions to see what’s most comfortable for you.",
+                    "#Secure the front strap and stand up straight. Buckle the strap in front of your chest and tug on the strap to tighten it. Then, slowly straighten your back to shift the toddler’s weight into the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 18 Version 2.jpg|center]]",
+                    "#*The lower strap of the carrier should be secure around your waist, and should hit just below the toddler’s backside. If they’re lower in the carrier when you stand, lean over again and bounce them a few times to push them higher on your back. Then, tighten the waist strap and stand up.",
+                    "#Use the shoulder straps to adjust the position of the toddler on your back. When you’re standing, pull on the loose ends of the shoulder straps to tighten them and bring the toddler closer to your back. If you want them to lean away from your back slightly, pull on the buckles to loosen the straps.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 19 Version 2.jpg|center]]",
+                    "*Keep in mind that your toddler will usually tell you if they’re uncomfortable in a certain position.",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. Watch out for low ceilings and door frames!"
+                ]
+            }
+        },
+        {
+            "id": "26262235",
+            "user": "MiscBot",
+            "timestamp": "00:11, 29 March 2019",
+            "anon": false,
+            "size": "(13,144 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25894499",
+            "user": "Starlette",
+            "timestamp": "02:34, 17 January 2019",
+            "anon": false,
+            "size": "(13,153 bytes)",
+            "change": 130,
+            "summary": "(RCP reverted edits by 73.81.224.153 (talk) to  revision #25809921 by HumanBeing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. Watch out for low ceilings and door frames!",
+                    "*Walk slowly when you first pick up a toddler and start to carry them. Your body will naturally find its balance with the new weight after a few steps.",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "== Warnings ==",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. That means they are fucking big. They're mom is supposed to be gay and yes, you are gay too and so is the toddler."
+                ]
+            }
+        },
+        {
+            "id": "25894474",
+            "user": "73.81.224.153",
+            "timestamp": "02:30, 17 January 2019",
+            "anon": true,
+            "size": "(13,023 bytes)",
+            "change": -130,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Starlette",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. That means they are fucking big. They're mom is supposed to be gay and yes, you are gay too and so is the toddler."
+                ],
+                "removed": [
+                    "== Warnings ==",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. Watch out for low ceilings and door frames!",
+                    "*Walk slowly when you first pick up a toddler and start to carry them. Your body will naturally find its balance with the new weight after a few steps.",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__METHODS__"
+                ]
+            }
+        },
+        {
+            "id": "25809921",
+            "user": "HumanBeing",
+            "timestamp": "07:38, 27 December 2018",
+            "anon": false,
+            "size": "(13,153 bytes)",
+            "change": -300,
+            "summary": "(RCP reverted edits by 208.59.132.152 (talk) to  revision #24881560 by WikiHow Expert Review)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Starlette",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*Never carry someone else's child without the child or his/her parents' permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this at all. Also, since this is illegal, they will call the police and even place you under citizen's arrest.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "25809880",
+            "user": "208.59.132.152",
+            "timestamp": "07:13, 27 December 2018",
+            "anon": true,
+            "size": "(13,453 bytes)",
+            "change": 7,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HumanBeing",
+            "exact_contribution": {
+                "added": [
+                    "*Never carry someone else's child without the child or his/her parents' permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this at all. Also, since this is illegal, they will call the police and even place you under citizen's arrest."
+                ],
+                "removed": [
+                    "*Never carry someone else's child without the child or his/her parents' permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this. Also, since this is illegal, they will call the police and even place you under citizen's arrest."
+                ]
+            }
+        },
+        {
+            "id": "25809879",
+            "user": "208.59.132.152",
+            "timestamp": "07:13, 27 December 2018",
+            "anon": true,
+            "size": "(13,446 bytes)",
+            "change": 0,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "HumanBeing",
+            "exact_contribution": {
+                "added": [
+                    "*Never carry someone else's child without the child or his/her parents' permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this. Also, since this is illegal, they will call the police and even place you under citizen's arrest."
+                ],
+                "removed": [
+                    "*Never carry someone else's child without the child or his/her parent's permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this. Also, since this is illegal, they will call the police and even place you under citizen's arrest."
+                ]
+            }
+        },
+        {
+            "id": "25809875",
+            "user": "208.59.132.152",
+            "timestamp": "07:11, 27 December 2018",
+            "anon": true,
+            "size": "(13,446 bytes)",
+            "change": 293,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HumanBeing",
+            "exact_contribution": {
+                "added": [
+                    "*Never carry someone else's child without the child or his/her parent's permission. They (and the other people who see you do this) will stop you physically to make sure that you don't do this. Also, since this is illegal, they will call the police and even place you under citizen's arrest.",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24881560",
+            "user": "WikiHow Expert Review",
+            "timestamp": "15:02, 10 July 2018",
+            "anon": false,
+            "size": "(13,153 bytes)",
+            "change": 360,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "HumanBeing",
+            "exact_contribution": {
+                "added": [
+                    "===Picking up a Toddler Safely===",
+                    "#*Never bend at the waist to pick up your toddler. This can cause unnecessary strain on your back and makes lifting much more difficult.",
+                    "#Place one arm around their back and the other just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#*Avoid lifting up a child by their forearms or hands, as this can cause an injury known as “nursemaid’s elbow.”",
+                    "#*Bring your toddler to the store with you and try out several slings with them to find the one that is the most comfortable for you both.",
+                    "#*There are a few different types of carriers. A carrier for hiking will require a different position than one for day-to-day use.",
+                    "#*It’s best to try out several carriers with the toddler in the store before selecting one.",
+                    "#Put on one shoulder strap and pick up the toddler. Slip one of the straps over your shoulder, and then lift your toddler as normal. Use your arms to position them with the side of your body without a shoulder strap. Make sure the toddler has one leg in front of your body and one behind it.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 15 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "===Picking Up a Toddler Safely===",
+                    "#*Never bend at the waist to pick up your toddler. This can cause unnecessary strain on your back, and makes lifting much more difficult.",
+                    "#Place 1 arm around their back and 1 just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "",
+                    "",
+                    "#*There are a few different types of carriers. A carrier for hiking will require a different position than one for day-to-day use.",
+                    "#Put on 1 shoulder strap and pick up the toddler. Slip one of the straps over your shoulder, and then lift your toddler as normal. Use your arms to position them with the side of your body without a shoulder strap. Make sure the toddler has 1 leg in front of your body and one behind it.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 15 Version 2.jpg|center]]",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "24875304",
+            "user": "Wikivisual",
+            "timestamp": "10:56, 9 July 2018",
+            "anon": false,
+            "size": "(12,793 bytes)",
+            "change": 801,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Stand in front of your toddler and squat down. Position yourself so that your legs are about shoulder-width apart, and squat down to be about eye-level with them. Keep your back and neck straight and relaxed.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 1 Version 2.jpg|center]]",
+                    "#Place 1 arm around their back and 1 just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2 Version 2.jpg|center]]",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your body as you’re standing up.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3 Version 2.jpg|center]]",
+                    "#Hold them close to you, at the front of your body. The easiest way to carry a toddler is at the front of your body, with their weight resting on your chest and arms. Keep your arms around their back and under their backside.<ref>https://youtu.be/UjTxgxU7y50?t=61</ref>[[Image:Carry a Toddler Step 4 Version 2.jpg|center]]",
+                    "#Avoid carrying them on one side of your body for long periods of time. Some parents develop hip problems from carrying their toddler on one hip. Keep your toddler at the front of your body whenever possible, and switch between hips if you do need to hold your toddler to the side.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 5 Version 2.jpg|center]]",
+                    "#Try on a few slings before purchasing one that is safe and comfortable. When searching for a sling at a specialty store or supermarket, look for a sling with a metal ring and sturdy fabric, such as cotton, wool, or tri-blend. Be sure to check the packaging and make sure your toddler is within the height and weight limit. If you’re able to, try on the sling in the store with your toddler in it.<ref>http://raisingchildren.net.au/articles/baby_slings_carriers_safety.html</ref>[[Image:Carry a Toddler Step 6 Version 2.jpg|center]]",
+                    "#Hold the ring of the sling with your non-dominant hand. Pick up the sling in your non-dominant hand as you hold the toddler to one side with your dominant arm. Make sure they’re secure and in a comfortable position while you’re getting ready to put the sling on.<ref>https://youtu.be/LkNYPGh5eQs?t=44</ref>[[Image:Carry a Toddler Step 7 Version 2.jpg|center]]",
+                    "#Put the ring over your head and onto the shoulder of your dominant hand. Position the sling so that it’s draped across your body like a sash. The ring should be on the same side of your body as the toddler, while the bulk of the fabric rests on the opposite hip.<ref>https://youtu.be/LkNYPGh5eQs?t=53</ref>[[Image:Carry a Toddler Step 8 Version 2.jpg|center]]",
+                    "#Shift the toddler to the side of your body where the fabric of the sling is resting. Using your arms, move the toddler across your body to the side where the fabric is resting. The fabric should dip below their backside, and their legs should be positioned in front of the fabric on the front of your body.<ref>https://youtu.be/LkNYPGh5eQs?t=57</ref>[[Image:Carry a Toddler Step 9 Version 2.jpg|center]]",
+                    "#Reach your dominant hand through the sling and pull their feet through. Slide your hand under the fabric on the front of your body, and reach under your toddler’s legs to pull the fabric out from underneath their body, and position it behind their backside. Use your non-dominant arm to help guide their legs through the loop in the fabric.<ref>https://youtu.be/LkNYPGh5eQs?t=65</ref>[[Image:Carry a Toddler Step 10 Version 2.jpg|center]]",
+                    "#Use your hands to spread the fabric from the toddler’s knees to their back. Once the sling is wrapped around both of you, pull the fabric up your toddler’s back until it’s just below their shoulder blades. Make sure the bottom portion is positioned behind their knees to offer the most support.<ref>https://youtu.be/LkNYPGh5eQs?t=71</ref>[[Image:Carry a Toddler Step 11 Version 2.jpg|center]]",
+                    "#Tighten the sling by pulling the excess fabric through the ring. To make sure your toddler is secure, tug on the end of the fabric outside of the ring. Pull it forward, upward, and down until you feel that your toddler is close to your body and secure in the sling.<ref>https://youtu.be/LkNYPGh5eQs?t=83</ref>[[Image:Carry a Toddler Step 12 Version 2.jpg|center]]",
+                    "#Read the instructions for the carrier to ensure that you’re using it correctly. Before placing your toddler in a carrier, take a look at the directions. Make sure you know the proper way to position the carrier, and where your toddler is supposed to sit.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 13 Version 2.jpg|center]]",
+                    "#Fasten the carrier around your waist and tighten it with the strap. Wrap the bottom of the carrier around your waist and push the buckle together until you hear a click. Then, pull the strap until the carrier is snug, but not too tight, around your waist.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 14 Version 2.jpg|center]]",
+                    "#Put on 1 shoulder strap and pick up the toddler. Slip one of the straps over your shoulder, and then lift your toddler as normal. Use your arms to position them with the side of your body without a shoulder strap. Make sure the toddler has 1 leg in front of your body and one behind it.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 15 Version 2.jpg|center]]",
+                    "#Lean forward and move the child between the carrier and your back. While you’re bending at the waist, slowly push the child onto your back. Pull one of their legs to the side of the carrier with the strap on your shoulder as you move them with your free arm. Make sure their leg is through the hole on the strap side of the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 16 Version 2.jpg|center]]",
+                    "#Put on the other strap, and adjust their position using your hands. Pull the other strap over your shoulder, and make sure their legs are on out of the carrier on either side of your body. Use your hands to smooth the panel along their back, and bounce them slightly to move them higher onto your back.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 17 Version 2.jpg|center]]",
+                    "#Secure the front strap and stand up straight. Buckle the strap in front of your chest and tug on the strap to tighten it. Then, slowly straighten your back to shift the toddler’s weight into the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 18 Version 2.jpg|center]]",
+                    "#Use the shoulder straps to adjust the position of the toddler on your back. When you’re standing, pull on the loose ends of the shoulder straps to tighten them and bring the toddler closer to your back. If you want them to lean away from your back slightly, pull on the buckles to loosen the straps.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>[[Image:Carry a Toddler Step 19 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Stand in front of your toddler and squat down. Position yourself so that your legs are about shoulder-width apart, and squat down to be about eye-level with them. Keep your back and neck straight and relaxed.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 1.jpg|center]]",
+                    "#Place 1 arm around their back and 1 just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2.jpg|center]]",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your body as you’re standing up.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3.jpg|center]]",
+                    "#Hold them close to you, at the front of your body. The easiest way to carry a toddler is at the front of your body, with their weight resting on your chest and arms. Keep your arms around their back and under their backside.<ref>https://youtu.be/UjTxgxU7y50?t=61</ref>[[Image:Carry a Toddler Step 4.jpg|center]]",
+                    "#Avoid carrying them on one side of your body for long periods of time. Some parents develop hip problems from carrying their toddler on one hip. Keep your toddler at the front of your body whenever possible, and switch between hips if you do need to hold your toddler to the side.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 5.jpg|center]]",
+                    "#Try on a few slings before purchasing one that is safe and comfortable. When searching for a sling at a specialty store or supermarket, look for a sling with a metal ring and sturdy fabric, such as cotton, wool, or tri-blend. Be sure to check the packaging and make sure your toddler is within the height and weight limit. If you’re able to, try on the sling in the store with your toddler in it.<ref>http://raisingchildren.net.au/articles/baby_slings_carriers_safety.html</ref>",
+                    "#Hold the ring of the sling with your non-dominant hand. Pick up the sling in your non-dominant hand as you hold the toddler to one side with your dominant arm. Make sure they’re secure and in a comfortable position while you’re getting ready to put the sling on.<ref>https://youtu.be/LkNYPGh5eQs?t=44</ref>",
+                    "#Put the ring over your head and onto the shoulder of your dominant hand. Position the sling so that it’s draped across your body like a sash. The ring should be on the same side of your body as the toddler, while the bulk of the fabric rests on the opposite hip.<ref>https://youtu.be/LkNYPGh5eQs?t=53</ref>",
+                    "#Shift the toddler to the side of your body where the fabric of the sling is resting. Using your arms, move the toddler across your body to the side where the fabric is resting. The fabric should dip below their backside, and their legs should be positioned in front of the fabric on the front of your body.<ref>https://youtu.be/LkNYPGh5eQs?t=57</ref>",
+                    "#Reach your dominant hand through the sling and pull their feet through. Slide your hand under the fabric on the front of your body, and reach under your toddler’s legs to pull the fabric out from underneath their body, and position it behind their backside. Use your non-dominant arm to help guide their legs through the loop in the fabric.<ref>https://youtu.be/LkNYPGh5eQs?t=65</ref>",
+                    "#Use your hands to spread the fabric from the toddler’s knees to their back. Once the sling is wrapped around both of you, pull the fabric up your toddler’s back until it’s just below their shoulder blades. Make sure the bottom portion is positioned behind their knees to offer the most support.<ref>https://youtu.be/LkNYPGh5eQs?t=71</ref>",
+                    "#Tighten the sling by pulling the excess fabric through the ring. To make sure your toddler is secure, tug on the end of the fabric outside of the ring. Pull it forward, upward, and down until you feel that your toddler is close to your body and secure in the sling.<ref>https://youtu.be/LkNYPGh5eQs?t=83</ref>",
+                    "#Read the instructions for the carrier to ensure that you’re using it correctly. Before placing your toddler in a carrier, take a look at the directions. Make sure you know the proper way to position the carrier, and where your toddler is supposed to sit.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>",
+                    "#Fasten the carrier around your waist and tighten it with the strap. Wrap the bottom of the carrier around your waist and push the buckle together until you hear a click. Then, pull the strap until the carrier is snug, but not too tight, around your waist.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#Put on 1 shoulder strap and pick up the toddler. Slip one of the straps over your shoulder, and then lift your toddler as normal. Use your arms to position them with the side of your body without a shoulder strap. Make sure the toddler has 1 leg in front of your body and one behind it.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#Lean forward and move the child between the carrier and your back. While you’re bending at the waist, slowly push the child onto your back. Pull one of their legs to the side of the carrier with the strap on your shoulder as you move them with your free arm. Make sure their leg is through the hole on the strap side of the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#Put on the other strap, and adjust their position using your hands. Pull the other strap over your shoulder, and make sure their legs are on out of the carrier on either side of your body. Use your hands to smooth the panel along their back, and bounce them slightly to move them higher onto your back.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#Secure the front strap and stand up straight. Buckle the strap in front of your chest and tug on the strap to tighten it. Then, slowly straighten your back to shift the toddler’s weight into the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#Use the shoulder straps to adjust the position of the toddler on your back. When you’re standing, pull on the loose ends of the shoulder straps to tighten them and bring the toddler closer to your back. If you want them to lean away from your back slightly, pull on the buckles to loosen the straps.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "24824785",
+            "user": "Seymour Edits",
+            "timestamp": "18:45, 28 June 2018",
+            "anon": false,
+            "size": "(11,992 bytes)",
+            "change": 690,
+            "summary": "(Copyedited, added new 2.1 about finding a good sling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Zodi",
+            "exact_contribution": {
+                "added": [
+                    "Your toddler might seem like they have endless energy, but sometimes you’ll need to pick them up and carry them when they’re tired or in an unsafe spot. When it’s time to carry your toddler, be sure to pick them up safely to avoid injuries. As you carry them, you can keep them in front of you, position them in a sling, or hold them in a carrier on your back.",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your body as you’re standing up.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3.jpg|center]]",
+                    "#Try on a few slings before purchasing one that is safe and comfortable. When searching for a sling at a specialty store or supermarket, look for a sling with a metal ring and sturdy fabric, such as cotton, wool, or tri-blend. Be sure to check the packaging and make sure your toddler is within the height and weight limit. If you’re able to, try on the sling in the store with your toddler in it.<ref>http://raisingchildren.net.au/articles/baby_slings_carriers_safety.html</ref>",
+                    "#*As a general rule, a well-fitting sling will be tight, and you will be able to look down and see that your toddler is close enough for you to kiss them. Their back should be well-supported and their head should be up with their chin off of their chest."
+                ],
+                "removed": [
+                    "Your toddler might seem like they have endless energy, but sometimes you’ll need to pick them up and carry them, especially when their legs get tired or you’re traveling on a walkway that might be dangerous. When it’s time to carry your toddler, be sure to pick them up safely to avoid injuries. As you carry them, you can keep them in front of you, position them in a sling, or hold them in a carrier on your back.",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your has you’re standing.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24819682",
+            "user": "Seymour Edits",
+            "timestamp": "18:45, 27 June 2018",
+            "anon": false,
+            "size": "(11,302 bytes)",
+            "change": 7247,
+            "summary": "(Edited article into 3 methods: picking up, carrying in a sling, or using a carrier)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Zodi",
+            "exact_contribution": {
+                "added": [
+                    "Your toddler might seem like they have endless energy, but sometimes you’ll need to pick them up and carry them, especially when their legs get tired or you’re traveling on a walkway that might be dangerous. When it’s time to carry your toddler, be sure to pick them up safely to avoid injuries. As you carry them, you can keep them in front of you, position them in a sling, or hold them in a carrier on your back.",
+                    "===Picking Up a Toddler Safely===",
+                    "#Stand in front of your toddler and squat down. Position yourself so that your legs are about shoulder-width apart, and squat down to be about eye-level with them. Keep your back and neck straight and relaxed.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 1.jpg|center]]",
+                    "#*If you feel unstable while squatting, put one knee on the ground to steady yourself.",
+                    "#*Never bend at the waist to pick up your toddler. This can cause unnecessary strain on your back, and makes lifting much more difficult.",
+                    "#Place 1 arm around their back and 1 just below their backside. Keep your head facing forward as you bring them to your chest. Secure their back and legs, positioning them on your body for when you’ll pick them up.<ref>https://youtu.be/UjTxgxU7y50?t=211</ref>[[Image:Carry a Toddler Step 2.jpg|center]]",
+                    "#*Reaching out to pick them up can strain your back. Never lift a child from their armpits, which can be painful for them and you.",
+                    "#Use the muscles in your legs to stand and lift them off of the ground. Engage your leg and core muscles to slowly return to a standing position. Be sure to keep your back straight, and hold the toddler close to your has you’re standing.<ref>http://www.kindercare.com/content-hub/articles/2017/march/pick-me-up-the-proper-way-to-lift-your-kids-and-everything-else</ref>[[Image:Carry a Toddler Step 3.jpg|center]]",
+                    "#*If you can, ask your toddler to hold onto you with their arms on your shoulders and legs around your waist awhile you stand. This will help keep them in place, and will allow you to use one of your hands to stabilize yourself with a wall or piece of furniture if necessary.",
+                    "#*Try to avoid twisting your back or torso while standing, which can cause an injury.",
+                    "#Hold them close to you, at the front of your body. The easiest way to carry a toddler is at the front of your body, with their weight resting on your chest and arms. Keep your arms around their back and under their backside.<ref>https://youtu.be/UjTxgxU7y50?t=61</ref>[[Image:Carry a Toddler Step 4.jpg|center]]",
+                    "#*For extra support, ask your toddler to hold onto you with their legs. If possible, try to keep them from wrapping their arms around your neck, which can cause you to bend forward.",
+                    "#*If you need to shift your toddler to one side, wait until you’re in a standing position, and use your arms to move them. Avoid twisting your back or torso to shift them to your side.",
+                    "#Avoid carrying them on one side of your body for long periods of time. Some parents develop hip problems from carrying their toddler on one hip. Keep your toddler at the front of your body whenever possible, and switch between hips if you do need to hold your toddler to the side.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>[[Image:Carry a Toddler Step 5.jpg|center]]",
+                    "#*Remember to use your arms, rather than your back or torso, to move your toddler from one side to another.",
+                    "===Securing a Toddler with a Sling===",
+                    "#Hold the ring of the sling with your non-dominant hand. Pick up the sling in your non-dominant hand as you hold the toddler to one side with your dominant arm. Make sure they’re secure and in a comfortable position while you’re getting ready to put the sling on.<ref>https://youtu.be/LkNYPGh5eQs?t=44</ref>",
+                    "#*If your toddler is squirmy or doesn’t want to be held, wait until they calm down to put on the sling. You’ll only have one arm available to hold them, which can be dangerous if they’re trying to get to the ground.",
+                    "#Put the ring over your head and onto the shoulder of your dominant hand. Position the sling so that it’s draped across your body like a sash. The ring should be on the same side of your body as the toddler, while the bulk of the fabric rests on the opposite hip.<ref>https://youtu.be/LkNYPGh5eQs?t=53</ref>",
+                    "#*Using this technique, your toddler will be positioned on the side of your non-dominant hand, leaving your dominant hand free. If you’d prefer to have your non-dominant hand free, place the ring on that shoulder.",
+                    "#Shift the toddler to the side of your body where the fabric of the sling is resting. Using your arms, move the toddler across your body to the side where the fabric is resting. The fabric should dip below their backside, and their legs should be positioned in front of the fabric on the front of your body.<ref>https://youtu.be/LkNYPGh5eQs?t=57</ref>",
+                    "#*Try to keep both of your toddler’s legs in front of your body to make positioning the sling easier. Once they’re in the sling, they can adjust their legs to a position that is more comfortable.",
+                    "#Reach your dominant hand through the sling and pull their feet through. Slide your hand under the fabric on the front of your body, and reach under your toddler’s legs to pull the fabric out from underneath their body, and position it behind their backside. Use your non-dominant arm to help guide their legs through the loop in the fabric.<ref>https://youtu.be/LkNYPGh5eQs?t=65</ref>",
+                    "#*If your toddler isn’t cooperating with this step, try slipping the fabric under one leg and then the other, rather than both at the same time.",
+                    "#*Try to keep the fabric bunched while you’re sliding it out from under the toddler. This will make the process easier and prevent you and your toddler from getting tangled in the fabric.",
+                    "#Use your hands to spread the fabric from the toddler’s knees to their back. Once the sling is wrapped around both of you, pull the fabric up your toddler’s back until it’s just below their shoulder blades. Make sure the bottom portion is positioned behind their knees to offer the most support.<ref>https://youtu.be/LkNYPGh5eQs?t=71</ref>",
+                    "#*Leave the bottom half of your toddler’s legs and feet outside of the sling so they can find a comfortable position.",
+                    "#Tighten the sling by pulling the excess fabric through the ring. To make sure your toddler is secure, tug on the end of the fabric outside of the ring. Pull it forward, upward, and down until you feel that your toddler is close to your body and secure in the sling.<ref>https://youtu.be/LkNYPGh5eQs?t=83</ref>",
+                    "#*If you feel your toddler coming loose as you walk, pull on the end of the fabric to re-tighten the sling.",
+                    "===Using a Back Carrier===",
+                    "#Read the instructions for the carrier to ensure that you’re using it correctly. Before placing your toddler in a carrier, take a look at the directions. Make sure you know the proper way to position the carrier, and where your toddler is supposed to sit.<ref>https://www.fatherly.com/parenting/carry-toddler-without-hurting-kid/</ref>",
+                    "#*The instructions can also include helpful tips for getting a comfortable fit and walking with the extra weight of a toddler on your back.",
+                    "#*There are a few different types of carriers. A carrier for hiking will require a different position than one for day-to-day use.",
+                    "#Fasten the carrier around your waist and tighten it with the strap. Wrap the bottom of the carrier around your waist and push the buckle together until you hear a click. Then, pull the strap until the carrier is snug, but not too tight, around your waist.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*If the strap feels too tight, pull on the buckle to loosen it.",
+                    "#Put on 1 shoulder strap and pick up the toddler. Slip one of the straps over your shoulder, and then lift your toddler as normal. Use your arms to position them with the side of your body without a shoulder strap. Make sure the toddler has 1 leg in front of your body and one behind it.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*Try not to twist your torso or back as you’re moving the toddler. You can loosen the carrier or strain your back with too much movement.",
+                    "#Lean forward and move the child between the carrier and your back. While you’re bending at the waist, slowly push the child onto your back. Pull one of their legs to the side of the carrier with the strap on your shoulder as you move them with your free arm. Make sure their leg is through the hole on the strap side of the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*It may be helpful to ask the child to hold onto your shoulders or neck for stability as you move them. They might also be able to put their leg in the carrier while you guide them.",
+                    "#Put on the other strap, and adjust their position using your hands. Pull the other strap over your shoulder, and make sure their legs are on out of the carrier on either side of your body. Use your hands to smooth the panel along their back, and bounce them slightly to move them higher onto your back.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*Many parents prefer to carry their toddlers higher on their backs because the extra weight is easier to manage. Try various different positions to see what’s most comfortable for you.",
+                    "#Secure the front strap and stand up straight. Buckle the strap in front of your chest and tug on the strap to tighten it. Then, slowly straighten your back to shift the toddler’s weight into the carrier.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*The lower strap of the carrier should be secure around your waist, and should hit just below the toddler’s backside. If they’re lower in the carrier when you stand, lean over again and bounce them a few times to push them higher on your back. Then, tighten the waist strap and stand up.",
+                    "#Use the shoulder straps to adjust the position of the toddler on your back. When you’re standing, pull on the loose ends of the shoulder straps to tighten them and bring the toddler closer to your back. If you want them to lean away from your back slightly, pull on the buckles to loosen the straps.<ref>https://cdn.shopify.com/s/files/1/0115/0582/files/Free-To-Grow-Instruction_Manual-web.pdf</ref>",
+                    "#*As you walk, you may need to tighten or loosen the shoulder and chest straps. Never unbuckle the waist belt when your toddler is in the carrier, as this can cause them to slip out of the carrier.",
+                    "*Keep in mind that your toddler will usually tell you if they’re uncomfortable in a certain position.",
+                    "*Beware of your child’s height when you’re carrying them. If they’re tall, their head might be slightly higher than yours. Watch out for low ceilings and door frames!",
+                    "*Walk slowly when you first pick up a toddler and start to carry them. Your body will naturally find its balance with the new weight after a few steps.",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "Sometimes young children will complain about having tired legs, not wanting to walk, or it's just too crowded for them to walk on their own. Here are some solutions to this small problem.",
+                    "=== Side Hold ===",
+                    "#Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach.[[Image:Carry a Toddler Step 1.jpg|center]]",
+                    "#Place your hands under their armpits.[[Image:Carry a Toddler Step 2.jpg|center]]",
+                    "#Gently lift the toddler off of the ground.[[Image:Carry a Toddler Step 3.jpg|center]]",
+                    "#Bring the child closer to you, and hoist them to your side. They will then wrap their legs around your waist and arms around you as a means of holding on.[[Image:Carry a Toddler Step 4.jpg|center]]",
+                    "#Wrap your closer arm around their back to stabilize them. You can also place your other hand on the child's bottom for extra sturdiness.[[Image:Carry a Toddler Step 5.jpg|center]]",
+                    "=== Piggy-Back ===",
+                    "#Have the child stand on a bed, ledge, chair, or other surface tall enough for them to comfortably reach your shoulders or neck.[[Image:Carry a Toddler Step 6.jpg|center]]",
+                    "#Sit or stand in a position to where the child is more able to reach you. Two common positions are for you to be on your knees, or squatting with your hands on your knees. Be sure that you're steady enough so that you won't fall when they grab on to you.[[Image:Carry a Toddler Step 7.jpg|center]]",
+                    "#Have them grab around your shoulders/neck.[[Image:Carry a Toddler Step 8.jpg|center]]",
+                    "#Have them wrap their legs around your waist. Some smaller children may need your help with this. Put your hands behind their knees and guide them into position.[[Image:Carry a Toddler Step 9.jpg|center]]",
+                    "#Put your hands or arms under their legs. This helps support them. You may find it comfortable to lock your hands together in front of you.[[Image:Carry a Toddler Step 10.jpg|center]]",
+                    "#* If you were supporting yourself with your hands on your knees, do this after standing up.",
+                    "#Slowly stand up. If the child begins to slip, put them back on the ledge to try again.[[Image:Carry a Toddler Step 11.jpg|center]]",
+                    "#Double-check that the child is comfortable and is holding on securely.[[Image:Carry a Toddler Step 12.jpg|center]]",
+                    "#Walk at a pace that is comfortable to you. You may have to focus more on keeping your balance, especially if the child is heavy.[[Image:Carry a Toddler Step 13.jpg|center]]",
+                    "=== Reverse Piggy-Back ===",
+                    "#Have the child stand on a surface that goes up to your waist, where the child is still able to reach your shoulders and neck.[[Image:Carry a Toddler Step 14.jpg|center]]",
+                    "#* If no surface is high enough, find a lower one and kneel.",
+                    "#Stand (or kneel) facing them.[[Image:Carry a Toddler Step 15.jpg|center]]",
+                    "#Tell the child to grab onto your shoulders or back. Make sure that their grip is tight enough.[[Image:Carry a Toddler Step 16.jpg|center]]",
+                    "#If you were on your knees, stand up.[[Image:Carry a Toddler Step 17.jpg|center]]",
+                    "#Have them wrap their legs around your waist. If they need help, grab them behind the legs and guide their legs into position.[[Image:Carry a Toddler Step 18.jpg|center]]",
+                    "#Gently get a grip on the child's thighs or bottom to stabilize them, and tell them to put his/her head on one of your shoulders.[[Image:Carry a Toddler Step 19.jpg|center]]",
+                    "#Walk at a slow pace until you are comfortable with the child being on your chest.[[Image:Carry a Toddler Step 20.jpg|center]]",
+                    "* You may consider bringing along a stroller in case these methods are not fruitful.",
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of door frames.",
+                    "* Walk slowly at first. You've just added a lot of extra weight in a position you're probably not too used to. You may have to focus a little bit more on keeping your balance than usual.",
+                    "* Be sure that their grip is secure."
+                ]
+            }
+        },
+        {
+            "id": "20442411",
+            "user": "Wikivisual",
+            "timestamp": "17:06, 20 June 2016",
+            "anon": false,
+            "size": "(4,055 bytes)",
+            "change": 847,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach.[[Image:Carry a Toddler Step 1.jpg|center]]",
+                    "#Place your hands under their armpits.[[Image:Carry a Toddler Step 2.jpg|center]]",
+                    "#Gently lift the toddler off of the ground.[[Image:Carry a Toddler Step 3.jpg|center]]",
+                    "#Bring the child closer to you, and hoist them to your side. They will then wrap their legs around your waist and arms around you as a means of holding on.[[Image:Carry a Toddler Step 4.jpg|center]]",
+                    "#Wrap your closer arm around their back to stabilize them. You can also place your other hand on the child's bottom for extra sturdiness.[[Image:Carry a Toddler Step 5.jpg|center]]",
+                    "#Have the child stand on a bed, ledge, chair, or other surface tall enough for them to comfortably reach your shoulders or neck.[[Image:Carry a Toddler Step 6.jpg|center]]",
+                    "#Sit or stand in a position to where the child is more able to reach you. Two common positions are for you to be on your knees, or squatting with your hands on your knees. Be sure that you're steady enough so that you won't fall when they grab on to you.[[Image:Carry a Toddler Step 7.jpg|center]]",
+                    "#Have them grab around your shoulders/neck.[[Image:Carry a Toddler Step 8.jpg|center]]",
+                    "#Have them wrap their legs around your waist. Some smaller children may need your help with this. Put your hands behind their knees and guide them into position.[[Image:Carry a Toddler Step 9.jpg|center]]",
+                    "#Put your hands or arms under their legs. This helps support them. You may find it comfortable to lock your hands together in front of you.[[Image:Carry a Toddler Step 10.jpg|center]]",
+                    "#Slowly stand up. If the child begins to slip, put them back on the ledge to try again.[[Image:Carry a Toddler Step 11.jpg|center]]",
+                    "#Double-check that the child is comfortable and is holding on securely.[[Image:Carry a Toddler Step 12.jpg|center]]",
+                    "#Walk at a pace that is comfortable to you. You may have to focus more on keeping your balance, especially if the child is heavy.[[Image:Carry a Toddler Step 13.jpg|center]]",
+                    "#Have the child stand on a surface that goes up to your waist, where the child is still able to reach your shoulders and neck.[[Image:Carry a Toddler Step 14.jpg|center]]",
+                    "#Stand (or kneel) facing them.[[Image:Carry a Toddler Step 15.jpg|center]]",
+                    "#Tell the child to grab onto your shoulders or back. Make sure that their grip is tight enough.[[Image:Carry a Toddler Step 16.jpg|center]]",
+                    "#If you were on your knees, stand up.[[Image:Carry a Toddler Step 17.jpg|center]]",
+                    "#Have them wrap their legs around your waist. If they need help, grab them behind the legs and guide their legs into position.[[Image:Carry a Toddler Step 18.jpg|center]]",
+                    "#Gently get a grip on the child's thighs or bottom to stabilize them, and tell them to put his/her head on one of your shoulders.[[Image:Carry a Toddler Step 19.jpg|center]]",
+                    "#Walk at a slow pace until you are comfortable with the child being on your chest.[[Image:Carry a Toddler Step 20.jpg|center]]"
+                ],
+                "removed": [
+                    "# Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach.",
+                    "# Place your hands under their armpits.",
+                    "# Gently lift the toddler off of the ground.",
+                    "# Bring the child closer to you, and hoist them to your side. They will then wrap their legs around your waist and arms around you as a means of holding on.",
+                    "# Wrap your closer arm around their back to stabilize them. You can also place your other hand on the child's bottom for extra sturdiness.",
+                    "# Have the child stand on a bed, ledge, chair, or other surface tall enough for them to comfortably reach your shoulders or neck.",
+                    "# Sit or stand in a position to where the child is more able to reach you. Two common positions are for you to be on your knees, or squatting with your hands on your knees. Be sure that you're steady enough so that you won't fall when they grab on to you.",
+                    "# Have them grab around your shoulders/neck.",
+                    "# Have them wrap their legs around your waist. Some smaller children may need your help with this. Put your hands behind their knees and guide them into position.",
+                    "# Put your hands or arms under their legs. This helps support them. You may find it comfortable to lock your hands together in front of you.",
+                    "# Slowly stand up. If the child begins to slip, put them back on the ledge to try again.",
+                    "# Double-check that the child is comfortable and is holding on securely.",
+                    "# Walk at a pace that is comfortable to you. You may have to focus more on keeping your balance, especially if the child is heavy.",
+                    "# Have the child stand on a surface that goes up to your waist, where the child is still able to reach your shoulders and neck.",
+                    "# Stand (or kneel) facing them.",
+                    "# Tell the child to grab onto your shoulders or back. Make sure that their grip is tight enough.",
+                    "# If you were on your knees, stand up.",
+                    "# Have them wrap their legs around your waist. If they need help, grab them behind the legs and guide their legs into position.",
+                    "# Gently get a grip on the child's thighs or bottom to stabilize them, and tell them to put his/her head on one of your shoulders.",
+                    "# Walk at a slow pace until you are comfortable with the child being on your chest."
+                ]
+            }
+        },
+        {
+            "id": "20395234",
+            "user": "Votebot",
+            "timestamp": "08:37, 12 June 2016",
+            "anon": false,
+            "size": "(3,208 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of door frames."
+                ],
+                "removed": [
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of door frames."
+                ]
+            }
+        },
+        {
+            "id": "18361341",
+            "user": "Donagan",
+            "timestamp": "00:13, 3 September 2015",
+            "anon": false,
+            "size": "(3,208 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of door frames."
+                ],
+                "removed": [
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of doorframes."
+                ]
+            }
+        },
+        {
+            "id": "18226887",
+            "user": "Hibou8",
+            "timestamp": "14:10, 14 August 2015",
+            "anon": false,
+            "size": "(3,207 bytes)",
+            "change": -10,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Walk at a slow pace until you are comfortable with the child being on your chest."
+                ],
+                "removed": [
+                    "# Walk at a slow pace until you are comfortable with the child being on your chest. Finished."
+                ]
+            }
+        },
+        {
+            "id": "18226878",
+            "user": "Hibou8",
+            "timestamp": "14:08, 14 August 2015",
+            "anon": false,
+            "size": "(3,217 bytes)",
+            "change": 228,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "=== Side Hold ===",
+                    "# Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach.",
+                    "# Place your hands under their armpits.",
+                    "# Gently lift the toddler off of the ground.",
+                    "# Bring the child closer to you, and hoist them to your side. They will then wrap their legs around your waist and arms around you as a means of holding on.",
+                    "# Wrap your closer arm around their back to stabilize them. You can also place your other hand on the child's bottom for extra sturdiness.",
+                    "=== Piggy-Back ===",
+                    "# Have the child stand on a bed, ledge, chair, or other surface tall enough for them to comfortably reach your shoulders or neck.",
+                    "# Sit or stand in a position to where the child is more able to reach you. Two common positions are for you to be on your knees, or squatting with your hands on your knees. Be sure that you're steady enough so that you won't fall when they grab on to you.",
+                    "# Have them grab around your shoulders/neck.",
+                    "# Have them wrap their legs around your waist. Some smaller children may need your help with this. Put your hands behind their knees and guide them into position.",
+                    "# Put your hands or arms under their legs. This helps support them. You may find it comfortable to lock your hands together in front of you.",
+                    "#* If you were supporting yourself with your hands on your knees, do this after standing up.",
+                    "# Slowly stand up. If the child begins to slip, put them back on the ledge to try again.",
+                    "# Double-check that the child is comfortable and is holding on securely.",
+                    "# Walk at a pace that is comfortable to you. You may have to focus more on keeping your balance, especially if the child is heavy.",
+                    "=== Reverse Piggy-Back ===",
+                    "#* If no surface is high enough, find a lower one and kneel.",
+                    "# Stand (or kneel) facing them.",
+                    "# Tell the child to grab onto your shoulders or back. Make sure that their grip is tight enough.",
+                    "# If you were on your knees, stand up.",
+                    "# Have them wrap their legs around your waist. If they need help, grab them behind the legs and guide their legs into position.",
+                    "# Gently get a grip on the child's thighs or bottom to stabilize them, and tell them to put his/her head on one of your shoulders.",
+                    "* You may consider bringing along a stroller in case these methods are not fruitful.",
+                    "* Walk slowly at first. You've just added a lot of extra weight in a position you're probably not too used to. You may have to focus a little bit more on keeping your balance than usual.",
+                    "* If the child is on your back, be sure that their head doesn't hit anything. If they're tall, or high up on your back, their head may be higher than yours. Be particularly careful of doorframes.",
+                    "* Be sure that their grip is secure."
+                ],
+                "removed": [
+                    "=== Side Hold. ===",
+                    "# Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach, which becomes a big problem.",
+                    "# Slowly reach down with your arms and place your hands under the toddler's armpits. You can hold them in many different ways, but this is the most basic.",
+                    "# Gently lift the toddler off of the ground, being careful not to loose your grip on his/her arms. It is dangerous for a child to fall from a height or to have their arms pulled.",
+                    "# Bring the child closer to you, and hoist him/her to your side. The toddler will then use his/her legs to wrap them around your waist as a means of holding on. Be careful not to drop them.",
+                    "# Wrap your arm around his/her back to stabilize him/her. You can also place your other hand on the child's bottom for extra safety.",
+                    "# Proceed to walk at a moderate pace, being careful not to bump the child into anything. Finished.",
+                    "=== Piggy-Back. ===",
+                    "# Have the child stand on a bed, or a surface tall enough for them to comfortably reach your shoulders or neck.",
+                    "# Sit or stand in a position to where the child is more able to reach you. This is important, for if he/she grabs you wrong, it can cause them to fall.",
+                    "# Tell the child to grab your shoulders or neck (whatever you're comfortable with). They will hopefully do so, enabling you to continue with the next step.",
+                    "# Slowly stand up with the child's grip still focused on your shoulders or neck. Then, reach around with your arms and grab the child's thighs or legs to stabilize them.",
+                    "# Double-check that the child is comfortable and is holding on, then proceed to walk at a pace that is comfortable to you. Keep your balance, especially if the child is heavy.",
+                    "# Finished.",
+                    "=== Reverse Piggy-Back. ===",
+                    "# Get in front of the child, either on your hands and knees, or standing still. This is so that the child can reach you.",
+                    "# Tell the child to grab onto your shoulders or back. As they do this, make sure that their grip is tight enough. If you were on your knees, stand up now.",
+                    "# Gently get a grip on the child's thighs or bottom to stabilize them, then tell them to put his/her head on one of your shoulders.",
+                    "* Be careful not to hurt the child's arms in the first method.",
+                    "* You may consider bringing along a stroller incase these methods are not fruitful.",
+                    "* Walk slowly at first, and make sure that the child is comfortable.",
+                    "* Don't fall.",
+                    "* Don't drop the toddler.",
+                    "* Don't bump the toddler into anything."
+                ]
+            }
+        },
+        {
+            "id": "18221686",
+            "user": "J Wick",
+            "timestamp": "20:04, 13 August 2015",
+            "anon": false,
+            "size": "(2,989 bytes)",
+            "change": 45,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Toddlers]]",
+                    "[[Category:Parenting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "18219777",
+            "user": "TubularTinker",
+            "timestamp": "13:53, 13 August 2015",
+            "anon": false,
+            "size": "(2,944 bytes)",
+            "change": 2944,
+            "summary": "(Creating a new article via the Article Creator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Sometimes young children will complain about having tired legs, not wanting to walk, or it's just too crowded for them to walk on their own. Here are some solutions to this small problem.",
+                    "== Steps ==",
+                    "=== Side Hold. ===",
+                    "# Have your toddler stand in front of you. It is harder to pick them up from the side of from the back, for sometimes they will squirm or slip out of reach, which becomes a big problem.",
+                    "# Slowly reach down with your arms and place your hands under the toddler's armpits. You can hold them in many different ways, but this is the most basic.",
+                    "# Gently lift the toddler off of the ground, being careful not to loose your grip on his/her arms. It is dangerous for a child to fall from a height or to have their arms pulled.",
+                    "# Bring the child closer to you, and hoist him/her to your side. The toddler will then use his/her legs to wrap them around your waist as a means of holding on. Be careful not to drop them.",
+                    "# Wrap your arm around his/her back to stabilize him/her. You can also place your other hand on the child's bottom for extra safety.",
+                    "# Proceed to walk at a moderate pace, being careful not to bump the child into anything. Finished.",
+                    "",
+                    "=== Piggy-Back. ===",
+                    "# Have the child stand on a bed, or a surface tall enough for them to comfortably reach your shoulders or neck.",
+                    "# Sit or stand in a position to where the child is more able to reach you. This is important, for if he/she grabs you wrong, it can cause them to fall.",
+                    "# Tell the child to grab your shoulders or neck (whatever you're comfortable with). They will hopefully do so, enabling you to continue with the next step.",
+                    "# Slowly stand up with the child's grip still focused on your shoulders or neck. Then, reach around with your arms and grab the child's thighs or legs to stabilize them.",
+                    "# Double-check that the child is comfortable and is holding on, then proceed to walk at a pace that is comfortable to you. Keep your balance, especially if the child is heavy.",
+                    "# Finished.",
+                    "",
+                    "=== Reverse Piggy-Back. ===",
+                    "# Have the child stand on a surface that goes up to your waist, where the child is still able to reach your shoulders and neck.",
+                    "# Get in front of the child, either on your hands and knees, or standing still. This is so that the child can reach you.",
+                    "# Tell the child to grab onto your shoulders or back. As they do this, make sure that their grip is tight enough. If you were on your knees, stand up now.",
+                    "# Gently get a grip on the child's thighs or bottom to stabilize them, then tell them to put his/her head on one of your shoulders.",
+                    "# Walk at a slow pace until you are comfortable with the child being on your chest. Finished.",
+                    "",
+                    "== Tips ==",
+                    "* Be careful not to hurt the child's arms in the first method.",
+                    "* You may consider bringing along a stroller incase these methods are not fruitful.",
+                    "* Walk slowly at first, and make sure that the child is comfortable.",
+                    "",
+                    "== Warnings ==",
+                    "* Don't fall.",
+                    "* Don't drop the toddler.",
+                    "* Don't bump the toddler into anything."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

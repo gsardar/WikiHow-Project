@@ -1,0 +1,1668 @@
+{
+    "title": "Use-a-Voltmeter",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:02:05.390151",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34089337",
+            "user": "MiscBot",
+            "timestamp": "18:09, 19 February 2026",
+            "anon": false,
+            "size": "(9,133 bytes)",
+            "change": -67,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]"
+                ]
+            }
+        },
+        {
+            "id": "34073373",
+            "user": "MiscBot",
+            "timestamp": "00:54, 19 February 2026",
+            "anon": false,
+            "size": "(9,200 bytes)",
+            "change": 69,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34057440",
+            "user": "MiscBot",
+            "timestamp": "17:40, 18 February 2026",
+            "anon": false,
+            "size": "(9,131 bytes)",
+            "change": -69,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]"
+                ]
+            }
+        },
+        {
+            "id": "33850636",
+            "user": "Seymour Edits",
+            "timestamp": "01:10, 24 November 2025",
+            "anon": false,
+            "size": "(9,200 bytes)",
+            "change": 73,
+            "summary": "(Added a source for the wikiHAus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a [[Use-a-Digital-Multimeter|digital voltmeter]] display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved.<ref>https://www.sciencing.com/read-amps-analog-multimeter-7665586/</ref> If there is still no reading, try the following in order:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a [[Use-a-Digital-Multimeter|digital voltmeter]] display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33577082",
+            "user": "WikiHow Projects",
+            "timestamp": "02:31, 27 July 2025",
+            "anon": false,
+            "size": "(9,127 bytes)",
+            "change": 106,
+            "summary": "(Adding internal link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and [[Test-a-Multimeter|test it out]] on a low-voltage circuit such as a household battery.",
+                    "#Set your device to [[Measure-Voltage|measure voltage]]. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To [[Test-Voltage-with-a-Multimeter|test voltage]] of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a [[Use-a-Digital-Multimeter|digital voltmeter]] display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "{{ParagraphTYSK}}A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32525350",
+            "user": "Seymour Edits",
+            "timestamp": "20:02, 22 May 2024",
+            "anon": false,
+            "size": "(9,021 bytes)",
+            "change": 17,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "32525349",
+            "user": "Seymour Edits",
+            "timestamp": "20:01, 22 May 2024",
+            "anon": false,
+            "size": "(9,004 bytes)",
+            "change": 290,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "==How to Use a Voltmeter==",
+                    "To use a voltmeter, attach the positive terminal to the positive end of any circuit. Then, connect the negative terminal to the negative end of the same circuit. Turn the voltmeter dial to your preferred setting and turn it on to take a reading."
+                ],
+                "removed": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery."
+                ]
+            }
+        },
+        {
+            "id": "32256264",
+            "user": "WikiHow Projects",
+            "timestamp": "21:28, 2 February 2024",
+            "anon": false,
+            "size": "(8,714 bytes)",
+            "change": 40,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Use a Voltmeter|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32052305",
+            "user": "Seymour Edits",
+            "timestamp": "03:40, 6 November 2023",
+            "anon": false,
+            "size": "(8,674 bytes)",
+            "change": 333,
+            "summary": "(Added and replaced sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>https://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.<ref>https://iastate.pressbooks.pub/electriccircuits/chapter/chapter-1/</ref>[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position. If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/voltage-usage/</ref>[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/</ref>"
+                ],
+                "removed": [
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>"
+                ]
+            }
+        },
+        {
+            "id": "30329471",
+            "user": "Votebot",
+            "timestamp": "10:14, 23 February 2022",
+            "anon": false,
+            "size": "(8,341 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    ""
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "28256273",
+            "user": "WikiHow Expert Review",
+            "timestamp": "21:56, 16 June 2020",
+            "anon": false,
+            "size": "(8,338 bytes)",
+            "change": 188,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>[v161396_b01]. 6 May 2020.</ref>",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical hole, which is usually on the right.<ref>[v161396_b01]. 6 May 2020.</ref>",
+                    "*If you're testing a wall outlet, test the vertical prongs. If it's a 3-prong plug, the round hole is the ground and doesn't need to be tested.<ref>[v161396_b01]. 6 May 2020.</ref>"
+                ],
+                "removed": [
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>https://energyeducation.ca/encyclopedia/Electrical_outlet</ref>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "28054061",
+            "user": "Seymour Edits",
+            "timestamp": "08:12, 30 April 2020",
+            "anon": false,
+            "size": "(8,150 bytes)",
+            "change": -138,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>https://energyeducation.ca/encyclopedia/Electrical_outlet</ref>"
+                ],
+                "removed": [
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27228873",
+            "user": "R2_d2000",
+            "timestamp": "17:18, 17 October 2019",
+            "anon": false,
+            "size": "(8,288 bytes)",
+            "change": -16,
+            "summary": "(Reverted edits by TayoDadaYT (Talk); changed back to last version by Galactic Radiance)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery."
+                ],
+                "removed": [
+                    "*Improper use can cause severe damaged to the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery."
+                ]
+            }
+        },
+        {
+            "id": "27228871",
+            "user": "WikiHowUser20240102170839",
+            "timestamp": "17:18, 17 October 2019",
+            "anon": false,
+            "size": "(8,304 bytes)",
+            "change": 16,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Improper use can cause severe damaged to the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery."
+                ],
+                "removed": [
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery."
+                ]
+            }
+        },
+        {
+            "id": "27228869",
+            "user": "WikiHowUser20230227233914",
+            "timestamp": "17:18, 17 October 2019",
+            "anon": false,
+            "size": "(8,288 bytes)",
+            "change": 8140,
+            "summary": "(RCP reverted edits by 216.107.200.226 (talk) to  revision #27228860 by R2_d2000)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.[[Image:Use a Voltmeter Step 5 Version 3.jpg|center]]",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 6.jpg|center]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:[[Image:Use a Voltmeter Step 7.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.[[Image:Use a Voltmeter Step 9.jpg|center]]",
+                    "",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.[[Image:Use a Voltmeter Step 12.jpg|center]]",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-a-Voltmeter}}"
+                ],
+                "removed": [
+                    "[[http://www.example.com link title][[http://www.example.com link title][[http://www.example.com link title][[http://www.example.com link title]]]]]"
+                ]
+            }
+        },
+        {
+            "id": "27228863",
+            "user": "216.107.200.226",
+            "timestamp": "17:16, 17 October 2019",
+            "anon": true,
+            "size": "(148 bytes)",
+            "change": -8140,
+            "summary": "(Replacing page with '[[http://www.example.com link title][[http://www.example.com link title][[http://www.example.com link title]http://www.example.com link title]]]')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "[[http://www.example.com link title][[http://www.example.com link title][[http://www.example.com link title][[http://www.example.com link title]]]]]"
+                ],
+                "removed": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.[[Image:Use a Voltmeter Step 5 Version 3.jpg|center]]",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 6.jpg|center]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:[[Image:Use a Voltmeter Step 7.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.[[Image:Use a Voltmeter Step 9.jpg|center]]",
+                    "",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.[[Image:Use a Voltmeter Step 12.jpg|center]]",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-a-Voltmeter}}"
+                ]
+            }
+        },
+        {
+            "id": "27228860",
+            "user": "R2_d2000",
+            "timestamp": "17:15, 17 October 2019",
+            "anon": false,
+            "size": "(8,288 bytes)",
+            "change": 8277,
+            "summary": "(Reverted edits by 216.107.200.226 (Talk); changed back to last version by R2_d2000)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.[[Image:Use a Voltmeter Step 5 Version 3.jpg|center]]",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 6.jpg|center]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:[[Image:Use a Voltmeter Step 7.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.[[Image:Use a Voltmeter Step 9.jpg|center]]",
+                    "",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.[[Image:Use a Voltmeter Step 12.jpg|center]]",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-a-Voltmeter}}"
+                ],
+                "removed": [
+                    "A v",
+                    "#Choose"
+                ]
+            }
+        },
+        {
+            "id": "27228859",
+            "user": "216.107.200.226",
+            "timestamp": "17:15, 17 October 2019",
+            "anon": true,
+            "size": "(11 bytes)",
+            "change": -8277,
+            "summary": "(Replacing page with 'A v #Choose')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "A v",
+                    "#Choose"
+                ],
+                "removed": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.[[Image:Use a Voltmeter Step 5 Version 3.jpg|center]]",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 6.jpg|center]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:[[Image:Use a Voltmeter Step 7.jpg|center]]",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.[[Image:Use a Voltmeter Step 9.jpg|center]]",
+                    "",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.[[Image:Use a Voltmeter Step 12.jpg|center]]",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "",
+                    "== References ==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-a-Voltmeter}}"
+                ]
+            }
+        },
+        {
+            "id": "27228851",
+            "user": "R2_d2000",
+            "timestamp": "17:13, 17 October 2019",
+            "anon": false,
+            "size": "(8,288 bytes)",
+            "change": 438,
+            "summary": "(Reverted edits by 216.107.200.226 (Talk); changed back to last version by MiscBot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "*[[Use-a-Multimeter]]"
+                ],
+                "removed": [
+                    "*[[Use-a-Multimeter]]6jujmnikjm"
+                ]
+            }
+        },
+        {
+            "id": "27228850",
+            "user": "216.107.200.226",
+            "timestamp": "17:12, 17 October 2019",
+            "anon": true,
+            "size": "(7,850 bytes)",
+            "change": -448,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "[[Category:Cabling and Wiring Connection]]"
+                ]
+            }
+        },
+        {
+            "id": "27228846",
+            "user": "216.107.200.226",
+            "timestamp": "17:12, 17 October 2019",
+            "anon": true,
+            "size": "(8,298 bytes)",
+            "change": 10,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "*[[Use-a-Multimeter]]6jujmnikjm"
+                ],
+                "removed": [
+                    "*[[Use-a-Multimeter]]"
+                ]
+            }
+        },
+        {
+            "id": "26347548",
+            "user": "MiscBot",
+            "timestamp": "07:52, 29 March 2019",
+            "anon": false,
+            "size": "(8,288 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "R2_d2000",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "26202591",
+            "user": "Seymour Edits",
+            "timestamp": "19:04, 19 March 2019",
+            "anon": false,
+            "size": "(8,297 bytes)",
+            "change": 134,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-a-Voltmeter}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "19952680",
+            "user": "Pandas941",
+            "timestamp": "01:30, 5 April 2016",
+            "anon": false,
+            "size": "(8,163 bytes)",
+            "change": -4,
+            "summary": "(Reverted edits by 68.175.31.156 (Talk); changed back to last version by Wikivisual)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "__PARTS__ man"
+                ]
+            }
+        },
+        {
+            "id": "19952675",
+            "user": "68.175.31.156",
+            "timestamp": "01:29, 5 April 2016",
+            "anon": true,
+            "size": "(8,167 bytes)",
+            "change": 4,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Pandas941",
+            "exact_contribution": {
+                "added": [
+                    "__PARTS__ man"
+                ],
+                "removed": [
+                    "__PARTS__"
+                ]
+            }
+        },
+        {
+            "id": "19840536",
+            "user": "Wikivisual",
+            "timestamp": "18:43, 18 March 2016",
+            "anon": false,
+            "size": "(8,163 bytes)",
+            "change": 516,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Pandas941",
+            "exact_contribution": {
+                "added": [
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>[[Image:Use a Voltmeter Step 1 Version 3.jpg|center]]",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:[[Image:Use a Voltmeter Step 2 Version 3.jpg|center]]",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>[[Image:Use a Voltmeter Step 3 Version 3.jpg|center]]",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.[[Image:Use a Voltmeter Step 4 Version 3.jpg|center]]",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.[[Image:Use a Voltmeter Step 5 Version 3.jpg|center]]",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 6.jpg|center]]",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:[[Image:Use a Voltmeter Step 7.jpg|center]]",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:[[Image:Use a Voltmeter Step 8.jpg|center]]",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.[[Image:Use a Voltmeter Step 9.jpg|center]]",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.[[Image:Use a Voltmeter Step 10.jpg|center]]",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.[[Image:Use a Voltmeter Step 11.jpg|center]]",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.[[Image:Use a Voltmeter Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 1 Version 2.jpg|center]]",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage."
+                ]
+            }
+        },
+        {
+            "id": "18096530",
+            "user": "MiscBot",
+            "timestamp": "08:32, 29 July 2015",
+            "anon": false,
+            "size": "(7,647 bytes)",
+            "change": -14,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "R2_d2000",
+            "exact_contribution": {
+                "added": [
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.[[Image:Use a Voltmeter Step 1 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17039578",
+            "user": "Bparutto",
+            "timestamp": "13:26, 5 April 2015",
+            "anon": false,
+            "size": "(7,661 bytes)",
+            "change": -907,
+            "summary": "(Undid edit #17039572 by Bparutto (Talk))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "==Sources and Citations=="
+                ],
+                "removed": [
+                    "Un tester è uno degli strumenti più utili per il controllo delle linee elettriche casalinghe, se viene utilizzato correttamente. Prima di utilizzare un tester per la prima volta, dovrai imparare a impostarlo correttamente e provarlo su un circuito a bassa tensione, come dispositivo per utilizzo domestico.",
+                    "Questo articolo descrive come utilizzare il tester per la misurazione della tensione. Potresti anche essere interessato all'utilizzo di un multimetro per misurare la corrente e la resistenza.",
+                    "== Passaggi ==",
+                    "===Impostare il Dispositivo===",
+                    "#Imposta il tester per misurare la tensione. La maggior parte dei dispositivi per la misurazione della tensione sono di fatto dei ''multimetri'', in grado di misurare diversi aspetti di un circuito elettrico. Se il tuo tester ha una manopola con diverse impostazioni, segui queste istruzioni per impostarlo:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#*Per misurare la tensione di un circuito CA, imposta la manopola su '''V~''', '''ACV''' o '''VAC'''. I circuiti elettrici domestici solitamente funzionano a corrente alternata.",
+                    "#*Per misurare la tensione di un circuito CC, scegli '''V–''', '''V---''', '''DCV''' o '''VDC'''. Batterie e apparecchiature elettroniche portatili solitamente funzionano a corrente continua.",
+                    "#Seleziona un intervallo superiore alla massima tensione attesa. La maggior parte dei tester possiede diverse opzioni di tensione, quindi potrai modificare la sensibilità del tuo dispositivo per ottenere una misurazione corretta ed evitare di danneggiarlo. Se hai un tester digitale su cui non figura un'opzione per stabilire l'intervallo, ciò significa che il dispositivo è in grado di rilevarlo automaticamente e impostarsi di conseguenza. In caso contrario, segui questi passaggi:",
+                    "#*Seleziona un'impostazione ''superiore'' alla massima tensione attesa. Se non hai idea di quale possa essere, seleziona l'impostazione più elevata per evitare di danneggiare il tester.",
+                    "#*Le batterie per utilizzo domestico solitamente sono dotate di un'etichetta che indica la tensione, tipicamente 9V o inferiore.",
+                    "#*Le batterie per auto dovrebbero avere una tensione di circa 12,6V quando sono completamente cariche e con il motore spento.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Le prese da muro solitamente hanno una tensione di da 240 Volt nella maggior parte dellle nazioni, ma 120 Volt negli Stati Uniti e altri paesi.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' significa millivolt (<sup>1</sup>/<sub>1000</sub> V), a volte usato per indicare le impostazioni minime.",
+                    "#Inserisci i puntali. Il tester è dotato di due puntali, uno rosso e uno nero. Ognuno possiede una sonda metallica a un'estremità e un jack in metallo all'altra, da inserire negli appositi fori del tester. Collega i jack come segue:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#*Il puntale nero va inserito nel foro \"COM.\"",
+                    "#*Quando misuri la tensione, inserisci il puntale rosso nel foro '''V''' (ma potrebbero esserci altri simboli). Se non c'è un foro etichettato con V, scegli quello contrassegnato con con il numero minore o con '''mA'''.",
+                    "===Misurare la Tensione===",
+                    "#Tieni in mani i puntali in modo da non correre rischi. Non toccare le sonde in metallo quando sono collegate a un circuito. Se l'isolante ha un aspetto usurato, usa dei guanti isolati elettricamente o compra dei puntali di ricambio.",
+                    "#*Le due sonde in metallo non devono mai toccarsi quando sono collegate a un circuito; in caso contrario potrebbero svilupparsi molte scintille.",
+                    "#Metti il puntale nero a contatto con una parte del circuito. Controlla la presenza di tensione in un circuito collegando i puntali in parallelo. In altre parole, toccherai con le sonde due punti di un circuito chiuso, con la corrente che lo attraversa.",
+                    "#*Se misuri la tensione di una batteria, collega il puntale nero al polo negativo.",
+                    "#*In una presa a muro, inserisci il puntale nero nel foro della massa.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Appena possibile, lascia il puntale nero prima di proseguire. Spesso questo è dotato di una protuberanza che gli permette di rimanere attaccato alla presa.",
+                    "#Metti il puntale rosso a contatto con un'altra parte del circuito. Ciò completerà il circuito parallelo e permetterà al tester di visualizzare la tensione.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "#*Con una batteria, collega il puntale rosso al polo positivo.",
+                    "#*In una presa a muro, inserisci il puntale rosso nel foro della fase.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Aumenta l'intervallo se ricevi un errore di \"overload\". Aumenta immediatamente l'intervallo di misurazione a un livello superiore se ottieni uno dei seguenti risultati, per evitare di danneggiare il dispositivo:",
+                    "#*Il display digitale visualizza \"OL,\" \"overload\" o \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Nota che invece \"1V\" è un valore corretto che non deve preoccuparti.",
+                    "#*La lancetta analogica si sposta a fondoscala all'estremità opposta.",
+                    "#Regola il tester, se necessario. Potresti dover effettuare delle regolazioni se il display del tester mostra una lettura di 0V o se non mostra letture, o nel caso in cui la lancetta di un tester analogico non si sposti o si sposti appena. Se non ottieni letture, prova uno di questi passaggi, in ordine:",
+                    "#*Assicurati che entrambe le sonde siano collegate al circuito.",
+                    "#*Se stai misurando un circuito CC e non ottieni risultati, guarda se il tuo dispositivo possiede un interruttore o una manopola con le indicazioni DC+ e DC- e, se c'è, spostalo nell'altra posizione.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> Se il tuo dispositivo non ha questo interruttore, prova a invertire il posizionamento del puntale rosso e di quello nero.",
+                    "#*Riduci l'intervallo di misurazione di un'unità. Ripeti, se necessario, finché non ottieni una misurazione realistica.",
+                    "#Leggi il risultato. Un tester digitale visualizzerà chiaramente la tensione sul suo display elettronico. Un tester analogico è un po' più difficile da utilizzare, ma non troppo una volta che avrai imparato. Continua a leggere per imparare come utilizzarlo.",
+                    "===Lettura di un Tester Analogico===",
+                    "#Identifica la scala della tensione sul quadrante del tester. Con la manopola del tester, seleziona un'impostazione corrispondente. Se non c'è una corrispondenza esatta, esegui la lettura con una scala che sia un multiplo di quella impostata.",
+                    "#*Ad esempio, se il tuo tester è settato su DC 10V, cerca una scala DC con lettura massima di 10. Se non è disponibile, cercane una con un massimo di 50.",
+                    "#Stima la posizione della lancetta basandoti sui numeri vicini. Si tratta di una scala lineare, proprio come un righello.",
+                    "#*Ad esempio, una lancetta che punta a metà tra 30 e 40 indica una lettura di 35V.",
+                    "#Dividi il risultato ottenuto con la lettura se stai usando una scala diversa. Salta questo passaggio esegui la lettura con una scala che corrisponde esattamente alle impostazioni del tester. In caso contrario, correggi la lettura dividendo il valore massimo della scala per le impostazioni della manopola centrale del tester.",
+                    "#*Ad esempio, se il tuo tester è settato a 10V, ma effettuando una lettura con una scala da 50V, calcola 50 ÷ 10 = '''5'''. Se l'ago punta a 35V, la lettura corretta è 35 ÷ '''5''' = 7V.",
+                    "== Consigli ==",
+                    "*Le istruzioni per la lettura dalla presa a muro presuppongono che tu stia cercando di rivelare la tensione \"rilevata\" dall'apparecchio che collegherai. Se stai cercando di rilevare dei problemi ai cavi, potresti necessitare anche di misurare la tensione tra la massa e l'altro foro. Se ottieni un risultato basso (ad esempio 2V), il foro è il cavo neutro, quindi hai solo misurato la caduta di tensione. In caso di lettura superiore (120V o 240V), il foro è collegato all'alimentazione.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "== Avvertenze ==",
+                    "*Un utilizzo improprio può provocare la rottura del dispositivo, un grave shock elettrico o creare scintille sufficienti a causare un incendio. Ciò è più probabile se si utilizza il tester in una presa a muro o in un altro circuito ad alta tensione, rispetto a una batteria a bassa tensione.",
+                    "== Fonti e Citazioni =="
+                ]
+            }
+        },
+        {
+            "id": "17039572",
+            "user": "Bparutto",
+            "timestamp": "13:24, 5 April 2015",
+            "anon": false,
+            "size": "(8,568 bytes)",
+            "change": 907,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Bparutto",
+            "exact_contribution": {
+                "added": [
+                    "Un tester è uno degli strumenti più utili per il controllo delle linee elettriche casalinghe, se viene utilizzato correttamente. Prima di utilizzare un tester per la prima volta, dovrai imparare a impostarlo correttamente e provarlo su un circuito a bassa tensione, come dispositivo per utilizzo domestico.",
+                    "Questo articolo descrive come utilizzare il tester per la misurazione della tensione. Potresti anche essere interessato all'utilizzo di un multimetro per misurare la corrente e la resistenza.",
+                    "== Passaggi ==",
+                    "===Impostare il Dispositivo===",
+                    "#Imposta il tester per misurare la tensione. La maggior parte dei dispositivi per la misurazione della tensione sono di fatto dei ''multimetri'', in grado di misurare diversi aspetti di un circuito elettrico. Se il tuo tester ha una manopola con diverse impostazioni, segui queste istruzioni per impostarlo:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#*Per misurare la tensione di un circuito CA, imposta la manopola su '''V~''', '''ACV''' o '''VAC'''. I circuiti elettrici domestici solitamente funzionano a corrente alternata.",
+                    "#*Per misurare la tensione di un circuito CC, scegli '''V–''', '''V---''', '''DCV''' o '''VDC'''. Batterie e apparecchiature elettroniche portatili solitamente funzionano a corrente continua.",
+                    "#Seleziona un intervallo superiore alla massima tensione attesa. La maggior parte dei tester possiede diverse opzioni di tensione, quindi potrai modificare la sensibilità del tuo dispositivo per ottenere una misurazione corretta ed evitare di danneggiarlo. Se hai un tester digitale su cui non figura un'opzione per stabilire l'intervallo, ciò significa che il dispositivo è in grado di rilevarlo automaticamente e impostarsi di conseguenza. In caso contrario, segui questi passaggi:",
+                    "#*Seleziona un'impostazione ''superiore'' alla massima tensione attesa. Se non hai idea di quale possa essere, seleziona l'impostazione più elevata per evitare di danneggiare il tester.",
+                    "#*Le batterie per utilizzo domestico solitamente sono dotate di un'etichetta che indica la tensione, tipicamente 9V o inferiore.",
+                    "#*Le batterie per auto dovrebbero avere una tensione di circa 12,6V quando sono completamente cariche e con il motore spento.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Le prese da muro solitamente hanno una tensione di da 240 Volt nella maggior parte dellle nazioni, ma 120 Volt negli Stati Uniti e altri paesi.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' significa millivolt (<sup>1</sup>/<sub>1000</sub> V), a volte usato per indicare le impostazioni minime.",
+                    "#Inserisci i puntali. Il tester è dotato di due puntali, uno rosso e uno nero. Ognuno possiede una sonda metallica a un'estremità e un jack in metallo all'altra, da inserire negli appositi fori del tester. Collega i jack come segue:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#*Il puntale nero va inserito nel foro \"COM.\"",
+                    "#*Quando misuri la tensione, inserisci il puntale rosso nel foro '''V''' (ma potrebbero esserci altri simboli). Se non c'è un foro etichettato con V, scegli quello contrassegnato con con il numero minore o con '''mA'''.",
+                    "===Misurare la Tensione===",
+                    "#Tieni in mani i puntali in modo da non correre rischi. Non toccare le sonde in metallo quando sono collegate a un circuito. Se l'isolante ha un aspetto usurato, usa dei guanti isolati elettricamente o compra dei puntali di ricambio.",
+                    "#*Le due sonde in metallo non devono mai toccarsi quando sono collegate a un circuito; in caso contrario potrebbero svilupparsi molte scintille.",
+                    "#Metti il puntale nero a contatto con una parte del circuito. Controlla la presenza di tensione in un circuito collegando i puntali in parallelo. In altre parole, toccherai con le sonde due punti di un circuito chiuso, con la corrente che lo attraversa.",
+                    "#*Se misuri la tensione di una batteria, collega il puntale nero al polo negativo.",
+                    "#*In una presa a muro, inserisci il puntale nero nel foro della massa.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Appena possibile, lascia il puntale nero prima di proseguire. Spesso questo è dotato di una protuberanza che gli permette di rimanere attaccato alla presa.",
+                    "#Metti il puntale rosso a contatto con un'altra parte del circuito. Ciò completerà il circuito parallelo e permetterà al tester di visualizzare la tensione.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "#*Con una batteria, collega il puntale rosso al polo positivo.",
+                    "#*In una presa a muro, inserisci il puntale rosso nel foro della fase.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Aumenta l'intervallo se ricevi un errore di \"overload\". Aumenta immediatamente l'intervallo di misurazione a un livello superiore se ottieni uno dei seguenti risultati, per evitare di danneggiare il dispositivo:",
+                    "#*Il display digitale visualizza \"OL,\" \"overload\" o \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Nota che invece \"1V\" è un valore corretto che non deve preoccuparti.",
+                    "#*La lancetta analogica si sposta a fondoscala all'estremità opposta.",
+                    "#Regola il tester, se necessario. Potresti dover effettuare delle regolazioni se il display del tester mostra una lettura di 0V o se non mostra letture, o nel caso in cui la lancetta di un tester analogico non si sposti o si sposti appena. Se non ottieni letture, prova uno di questi passaggi, in ordine:",
+                    "#*Assicurati che entrambe le sonde siano collegate al circuito.",
+                    "#*Se stai misurando un circuito CC e non ottieni risultati, guarda se il tuo dispositivo possiede un interruttore o una manopola con le indicazioni DC+ e DC- e, se c'è, spostalo nell'altra posizione.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> Se il tuo dispositivo non ha questo interruttore, prova a invertire il posizionamento del puntale rosso e di quello nero.",
+                    "#*Riduci l'intervallo di misurazione di un'unità. Ripeti, se necessario, finché non ottieni una misurazione realistica.",
+                    "#Leggi il risultato. Un tester digitale visualizzerà chiaramente la tensione sul suo display elettronico. Un tester analogico è un po' più difficile da utilizzare, ma non troppo una volta che avrai imparato. Continua a leggere per imparare come utilizzarlo.",
+                    "===Lettura di un Tester Analogico===",
+                    "#Identifica la scala della tensione sul quadrante del tester. Con la manopola del tester, seleziona un'impostazione corrispondente. Se non c'è una corrispondenza esatta, esegui la lettura con una scala che sia un multiplo di quella impostata.",
+                    "#*Ad esempio, se il tuo tester è settato su DC 10V, cerca una scala DC con lettura massima di 10. Se non è disponibile, cercane una con un massimo di 50.",
+                    "#Stima la posizione della lancetta basandoti sui numeri vicini. Si tratta di una scala lineare, proprio come un righello.",
+                    "#*Ad esempio, una lancetta che punta a metà tra 30 e 40 indica una lettura di 35V.",
+                    "#Dividi il risultato ottenuto con la lettura se stai usando una scala diversa. Salta questo passaggio esegui la lettura con una scala che corrisponde esattamente alle impostazioni del tester. In caso contrario, correggi la lettura dividendo il valore massimo della scala per le impostazioni della manopola centrale del tester.",
+                    "#*Ad esempio, se il tuo tester è settato a 10V, ma effettuando una lettura con una scala da 50V, calcola 50 ÷ 10 = '''5'''. Se l'ago punta a 35V, la lettura corretta è 35 ÷ '''5''' = 7V.",
+                    "== Consigli ==",
+                    "*Le istruzioni per la lettura dalla presa a muro presuppongono che tu stia cercando di rivelare la tensione \"rilevata\" dall'apparecchio che collegherai. Se stai cercando di rilevare dei problemi ai cavi, potresti necessitare anche di misurare la tensione tra la massa e l'altro foro. Se ottieni un risultato basso (ad esempio 2V), il foro è il cavo neutro, quindi hai solo misurato la caduta di tensione. In caso di lettura superiore (120V o 240V), il foro è collegato all'alimentazione.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "== Avvertenze ==",
+                    "*Un utilizzo improprio può provocare la rottura del dispositivo, un grave shock elettrico o creare scintille sufficienti a causare un incendio. Ciò è più probabile se si utilizza il tester in una presa a muro o in un altro circuito ad alta tensione, rispetto a una batteria a bassa tensione.",
+                    "== Fonti e Citazioni =="
+                ],
+                "removed": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "[[Category:Cabling and Wiring Connection]]",
+                    "== Steps ==",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "== Warnings ==",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "16892284",
+            "user": "Myles_Schaller",
+            "timestamp": "02:50, 17 March 2015",
+            "anon": false,
+            "size": "(7,661 bytes)",
+            "change": 6280,
+            "summary": "(expanding)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A voltmeter is one of the most useful devices for home electrical testing, when used correctly. Before using a voltmeter for the first time, learn how to set the device correctly, and test it out on a low-voltage circuit such as a household battery.",
+                    "",
+                    "This article describes how to test for voltage. You may also be interested in [[Use-a-Multimeter|using a multimeter]] to test for current and resistance.",
+                    "",
+                    "",
+                    "===Setting the Device===",
+                    "#Set your device to measure voltage. Most voltage-measuring devices are actually ''multimeters'', which can test several aspects of electrical circuits. If your device has a knob with several settings, set it to one of the following:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#multimeteroverview</ref>",
+                    "#*To test the voltage of an AC circuit, set the knob to '''V~''', '''ACV''', or '''VAC'''. Household circuits are almost always Alternating Current.",
+                    "#*To test voltage of a DC circuit, choose '''V–''', '''V---''', '''DCV''', or '''VDC'''. Batteries and portable electronics are typically Direct Current.",
+                    "#Choose a range above the max expected voltage. Most voltmeters have several options marked for voltage, so you can change your meter's sensitivity to get a good measurement and avoid damaging the device. If your digital device has no range option, it is \"autoranging\" and should detect the correct range itself. Otherwise, follow these guidelines:",
+                    "#*Choose a setting ''higher'' than the maximum expected voltage. If you have no idea what to expect, choose the highest setting to avoid damaging the device.",
+                    "#*Household batteries are usually labeled with the voltage, typically 9V or below.",
+                    "#*Car batteries should be at approximately 12.6V when fully charged with the engine off.<ref>http://www.autobatteries.com/en-us/battery-basics/how-a-battery-works/</ref>",
+                    "#*Household outlets are typically 240 volts in most of the world, and 120 volts in the US and some other countries.<ref>http://www.worldstandards.eu/electricity/plug-voltage-by-country/</ref>",
+                    "#*'''mV''' stands for millivolt (<sup>1</sup>/<sub>1000</sub> V), sometimes used to indicate the lowest setting.",
+                    "#Insert the test leads. Your voltmeter should come with one black and one red test leads. Each has a metal probe on one end, and a metal jack on the other that slots into the holes in your voltmeter. Plug in the jacks as follows:<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml</ref>",
+                    "#*The black jack always plugs into the hole labeled \"COM.\"",
+                    "#*When measuring voltage, plug the red jack into the hole labeled '''V''' (among other symbols). If there is no V, choose the hole with the lowest number, or '''mA'''.",
+                    "",
+                    "===Measuring Voltage===",
+                    "#Hold the probes safely. Do not touch the metal probes while connecting them to a circuit. If the insulation looks worn or torn, wear electrically insulated gloves or purchase replacement leads.",
+                    "#*The two metal probes should never touch each other while they are connected to a circuit, or severe sparking could result.",
+                    "#Touch the black test lead to one part of the circuit. Test circuits for voltage by attaching the leads in parallel. In other words, you'll touch the probes to two points an already-closed circuit, with current running through it.",
+                    "#*On a battery, touch the black lead to the negative terminal.",
+                    "#*In a wall outlet, touch the black lead into the neutral hole, which in the US is the larger vertical hole, or the vertical hole on the left.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#*Whenever possible, let go of the black test lead before moving on. Many black probes have a small plastic bump that can stick into an outlet.",
+                    "#Touch the red test lead to another point on the circuit. This will complete the parallel circuit and cause the meter to display the voltage.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "#*On a battery, touch the red lead to the positive terminal.",
+                    "#*In a wall outlet, fit the red lead into the \"hot\" hole – in the US, this is the smaller, vertical or the vertical hole on the right.<ref>http://www.livingwithmyhome.com/201-home-tips/pillar-to-post-electrical-outlet-problems.aspx</ref>",
+                    "#Raise the range if you get an overload reading. Immediately raise the range to a higher voltage setting if you get one of the following results, before your device is damaged:",
+                    "#*Your digital display reads \"OL,\" \"overload,\" or \"1.\"<ref>http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter</ref> Note that \"1V\" is a real reading, and nothing to worry about.",
+                    "#*Your analog needle shoots to the other side of the scale.",
+                    "#Adjust the voltmeter if necessary. You may need to make adjustments if a digital voltmeter display reads 0V or nothing at all, or if an analog voltmeter's needle has barely moved. If there is still no reading, try the following in order:",
+                    "#*Make sure the test probes are both connected to the circuit.",
+                    "#*If you are measuring a DC circuit and get no result, look for a small knob or switch on your device labeled DC+ and DC- and move it to the other position.<ref>https://www.youtube.com/watch?v=9rGDx92McTY</ref> If your device does not have this option, reverse the positions of the black and red probes.",
+                    "#*Reduce the range by one setting. Repeat if necessary until you get a real reading.",
+                    "#Read the voltmeter. A digital voltmeter will clearly display the voltage on its electronic screen. An analog voltmeter is a little more complicated, but not too tough once you learn the ropes. Continue reading for instructions.",
+                    "",
+                    "===Reading an Analog Voltmeter===",
+                    "#Find a voltage scale on the needle's dial. Choose one that matches the setting you chose on your voltmeter's knob. If there is no exact match, read from a scale that's an easy multiple of the setting.",
+                    "#*For example, if your voltmeter is set to DC 10V, look for a DC scale with a max reading of 10. If this isn't available, find one with a max of 50.",
+                    "#Estimate the needle's position based on nearby numbers. This is a linear scale just like a ruler.",
+                    "#*For instance, a needle pointing halfway between 30 and 40 indicates a reading of 35V.",
+                    "#Divide your answer if using a different scale. Skip this step if you are reading from a scale that exactly matches your voltmeter's setting. Otherwise, correct for the difference by dividing the printed scale's max value by your knob setting. Divide the number the needle points to by your answer to get the actual voltage.",
+                    "#*For example, if your voltmeter is set to 10V but you are reading off a 50V scale, calculate 50 ÷ 10 = '''5'''. If the needle is pointing at 35V, your actual result is 35 ÷ '''5''' = 7V.",
+                    "==Tips==",
+                    "*The instructions for testing wall outlets assume you are trying to detect the voltage \"seen\" by the appliance you plug in. If you are trying to detect wiring problems, you may also wish to measure the voltage between the ground and one other hole. If you get a low result (say 2V), that hole is the neutral wire, and you've just measured the voltage drop. If you get a higher result (say 120V or 240V), that hole is attached to the hot wire.<ref>http://ecmweb.com/content/diagnosing-power-problems-receptacle</ref>",
+                    "*Improper use can destroy the device, cause a severe electrical shock, or create electrical sparking that can start a fire. These are much more likely to occur in a wall outlet or other high-voltage circuit than when testing a low-voltage battery.",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Use-a-Multimeter]]",
+                    "*[[Read-a-Multimeter]]",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "{{stub|date=2014-09-16}}It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit.",
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>[[Image:Use a Voltmeter Step 2 Version 2.jpg|center|550px]]",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>[[Image:Use a Voltmeter Step 3 Version 2.jpg|center|550px]]",
+                    "#  Use the positive terminal with the highest value first.<br><br>[[Image:Use a Voltmeter Step 4 Version 2.jpg|center|550px]]",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>[[Image:Use a Voltmeter Step 5 Version 2.jpg|center|550px]]",
+                    "*Be careful not to get electrocuted.",
+                    "== Related wikiHows ==",
+                    "*[[Hook up Computer Sound to Sony 500 Watt Amp|How to Hook up Computer Sound to Sony 500 Watt Amp]]",
+                    "*[[Expand Heat Shrink Tubing|How to Expand Heat Shrink Tubing]]",
+                    "*[[Unscrew a Coaxial Cable From Audiovisual Equipment|How to Unscrew a Coaxial Cable From Audiovisual Equipment]]"
+                ]
+            }
+        },
+        {
+            "id": "15375880",
+            "user": "Stub Bot",
+            "timestamp": "22:11, 16 September 2014",
+            "anon": false,
+            "size": "(1,381 bytes)",
+            "change": 24,
+            "summary": "(This article has been stubbed since it appears to be incomplete. Please remove this stub tag if that is an error.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2014-09-16}}It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit."
+                ],
+                "removed": [
+                    "It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit."
+                ]
+            }
+        },
+        {
+            "id": "12736444",
+            "user": "Wikiphoto",
+            "timestamp": "16:01, 19 February 2014",
+            "anon": false,
+            "size": "(1,357 bytes)",
+            "change": 5,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>[[Image:Use a Voltmeter Step 1 Version 2.jpg|center|550px]]",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>[[Image:Use a Voltmeter Step 2 Version 2.jpg|center|550px]]",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>[[Image:Use a Voltmeter Step 3 Version 2.jpg|center|550px]]",
+                    "#  Use the positive terminal with the highest value first.<br><br>[[Image:Use a Voltmeter Step 4 Version 2.jpg|center|550px]]",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>[[Image:Use a Voltmeter Step 5 Version 2.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#  [[Image:Use a Voltmeter Step 1 Version 2.jpg|right|300px]]Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>",
+                    "# [[Image:Use a Voltmeter Step 2 Version 2.jpg|right|300px]]Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 3 Version 2.jpg|right|300px]]Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 4 Version 2.jpg|right|300px]]Use the positive terminal with the highest value first.<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 5 Version 2.jpg|right|300px]]Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>"
+                ]
+            }
+        },
+        {
+            "id": "12736443",
+            "user": "Wikiphoto",
+            "timestamp": "16:01, 19 February 2014",
+            "anon": false,
+            "size": "(1,352 bytes)",
+            "change": 45,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Use a Voltmeter Step 1 Version 2.jpg|right|300px]]Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>",
+                    "# [[Image:Use a Voltmeter Step 2 Version 2.jpg|right|300px]]Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 3 Version 2.jpg|right|300px]]Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 4 Version 2.jpg|right|300px]]Use the positive terminal with the highest value first.<br><br>",
+                    "#  [[Image:Use a Voltmeter Step 5 Version 2.jpg|right|300px]]Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>"
+                ],
+                "removed": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>[[Image:Use a Voltmeter Step 1.jpg|center|550px]]",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>[[Image:Use a Voltmeter Step 2.jpg|center|550px]]",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>[[Image:Use a Voltmeter Step 3.jpg|center|550px]]",
+                    "#  Use the positive terminal with the highest value first.<br><br>[[Image:Use a Voltmeter Step 4.jpg|center|550px]]",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>[[Image:Use a Voltmeter Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "12736198",
+            "user": "Wikiphoto",
+            "timestamp": "15:36, 19 February 2014",
+            "anon": false,
+            "size": "(1,307 bytes)",
+            "change": 46,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.<br><br>[[Image:Use a Voltmeter Step 1.jpg|center|550px]]",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).<br><br>[[Image:Use a Voltmeter Step 2.jpg|center|550px]]",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.<br><br>[[Image:Use a Voltmeter Step 3.jpg|center|550px]]",
+                    "#  Use the positive terminal with the highest value first.<br><br>[[Image:Use a Voltmeter Step 4.jpg|center|550px]]",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.<br><br>[[Image:Use a Voltmeter Step 5.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Use a Voltmeter Step 1.jpg|right|300px]]Connect it parallel to the part of the circuit across which the voltage is changing.",
+                    "# [[Image:Use a Voltmeter Step 2.jpg|right|300px]]Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).",
+                    "#  [[Image:Use a Voltmeter Step 3.jpg|right|300px]]Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.",
+                    "#  [[Image:Use a Voltmeter Step 4.jpg|right|300px]]Use the positive terminal with the highest value first.",
+                    "#  [[Image:Use a Voltmeter Step 5.jpg|right|300px]]Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using."
+                ]
+            }
+        },
+        {
+            "id": "12736197",
+            "user": "Wikiphoto",
+            "timestamp": "15:36, 19 February 2014",
+            "anon": false,
+            "size": "(1,261 bytes)",
+            "change": 202,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit.",
+                    "#  [[Image:Use a Voltmeter Step 1.jpg|right|300px]]Connect it parallel to the part of the circuit across which the voltage is changing.",
+                    "# [[Image:Use a Voltmeter Step 2.jpg|right|300px]]Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).",
+                    "#  [[Image:Use a Voltmeter Step 3.jpg|right|300px]]Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.",
+                    "#  [[Image:Use a Voltmeter Step 4.jpg|right|300px]]Use the positive terminal with the highest value first.",
+                    "#  [[Image:Use a Voltmeter Step 5.jpg|right|300px]]Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using."
+                ],
+                "removed": [
+                    "[[Image:Day 11.jpg|thumb|right|251px]]It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit.",
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.",
+                    "#  Use the positive terminal with the highest value first.",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using."
+                ]
+            }
+        },
+        {
+            "id": "11617954",
+            "user": "Votebot",
+            "timestamp": "22:15, 30 October 2013",
+            "anon": false,
+            "size": "(1,059 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9617265",
+            "user": "Porch",
+            "timestamp": "11:53, 14 April 2013",
+            "anon": false,
+            "size": "(1,058 bytes)",
+            "change": 87,
+            "summary": "(Reverted edits by 98.188.199.11 (Talk); changed back to last version by Tryme2)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing."
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "9616695",
+            "user": "98.188.199.11",
+            "timestamp": "08:41, 14 April 2013",
+            "anon": true,
+            "size": "(971 bytes)",
+            "change": -122,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Porch",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "#  Hold the positive voltage in one hand, and the negative end in the other. This way your arms will complete the circuit."
+                ]
+            }
+        },
+        {
+            "id": "9616693",
+            "user": "98.188.199.11",
+            "timestamp": "08:38, 14 April 2013",
+            "anon": true,
+            "size": "(1,093 bytes)",
+            "change": 35,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Porch",
+            "exact_contribution": {
+                "added": [
+                    "#  Hold the positive voltage in one hand, and the negative end in the other. This way your arms will complete the circuit."
+                ],
+                "removed": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing."
+                ]
+            }
+        },
+        {
+            "id": "4668213",
+            "user": "Tryme2",
+            "timestamp": "23:13, 4 June 2010",
+            "anon": false,
+            "size": "(1,058 bytes)",
+            "change": 38,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Porch",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Day 11.jpg|thumb|right|251px]]It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit."
+                ],
+                "removed": [
+                    "It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit."
+                ]
+            }
+        },
+        {
+            "id": "2722900",
+            "user": "Chris H",
+            "timestamp": "21:51, 7 November 2008",
+            "anon": false,
+            "size": "(1,020 bytes)",
+            "change": -5,
+            "summary": "(Reverted edits by 71.179.64.184 (Talk); changed back to last version by Luv_sarah)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*Be careful not to get electrocuted."
+                ],
+                "removed": [
+                    "*Be VERY careful not to get electrocuted."
+                ]
+            }
+        },
+        {
+            "id": "2722872",
+            "user": "71.179.64.184",
+            "timestamp": "21:40, 7 November 2008",
+            "anon": true,
+            "size": "(1,025 bytes)",
+            "change": 5,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Chris H",
+            "exact_contribution": {
+                "added": [
+                    "*Be VERY careful not to get electrocuted."
+                ],
+                "removed": [
+                    "*Be careful not to get electrocuted."
+                ]
+            }
+        },
+        {
+            "id": "2213458",
+            "user": "Luv_sarah",
+            "timestamp": "14:23, 23 June 2008",
+            "anon": false,
+            "size": "(1,020 bytes)",
+            "change": -78,
+            "summary": "(removed broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Chris H",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Prevent Computer Hardware Damage|How to Prevent Computer Hardware Damage]]"
+                ]
+            }
+        },
+        {
+            "id": "2155428",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "22:31, 9 June 2008",
+            "anon": false,
+            "size": "(1,098 bytes)",
+            "change": 380,
+            "summary": "(relateds)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Hook up Computer Sound to Sony 500 Watt Amp|How to Hook up Computer Sound to Sony 500 Watt Amp]]",
+                    "*[[Expand Heat Shrink Tubing|How to Expand Heat Shrink Tubing]]",
+                    "*[[Prevent Computer Hardware Damage|How to Prevent Computer Hardware Damage]]",
+                    "*[[Unscrew a Coaxial Cable From Audiovisual Equipment|How to Unscrew a Coaxial Cable From Audiovisual Equipment]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2103052",
+            "user": "Liz Kershaw",
+            "timestamp": "05:44, 28 May 2008",
+            "anon": false,
+            "size": "(718 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing.",
+                    "# Place the plugs with red plastic covers in the positive terminals (+) and those with black plastic covers in the negative terminal (-).",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply.",
+                    "#  Use the positive terminal with the highest value first.",
+                    "#  Note that are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using.",
+                    "*Be careful not to get electrocuted."
+                ],
+                "removed": [
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing",
+                    "#  the plugs with red plastic covers should be placed in the positive terminals (+) and those with black plastic covers in the negative terminal (-)",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply",
+                    "#  Use the positive terminal with the highest value first",
+                    "#  There are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using",
+                    "*be careful not to get electrocuted"
+                ]
+            }
+        },
+        {
+            "id": "1091053",
+            "user": "Dreamgal2",
+            "timestamp": "15:03, 29 August 2007",
+            "anon": false,
+            "size": "(720 bytes)",
+            "change": 43,
+            "summary": "(cat added)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Cabling and Wiring Connection]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "989707",
+            "user": "203.206.34.199",
+            "timestamp": "01:08, 2 August 2007",
+            "anon": true,
+            "size": "(677 bytes)",
+            "change": 52,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "It is useful to be able to measure the gain and loss of potential difference (volts) through out a circuit."
+                ],
+                "removed": [
+                    "It is useful to be able to measure the gain and loss of"
+                ]
+            }
+        },
+        {
+            "id": "989689",
+            "user": "203.206.34.199",
+            "timestamp": "01:03, 2 August 2007",
+            "anon": true,
+            "size": "(625 bytes)",
+            "change": 625,
+            "summary": "(New page: It is useful to be able to measure the gain and loss of == Steps == #  Connect it parallel to the part of the circuit across which the voltage is changing #  the plugs with red plastic cov...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "It is useful to be able to measure the gain and loss of",
+                    "== Steps ==",
+                    "#  Connect it parallel to the part of the circuit across which the voltage is changing",
+                    "#  the plugs with red plastic covers should be placed in the positive terminals (+) and those with black plastic covers in the negative terminal (-)",
+                    "#  Positive terminals of the voltmeter should be closest to the positive terminal of the power supply",
+                    "#  Use the positive terminal with the highest value first",
+                    "#  There are 2 sets of numbers on the scale – read the set that matches the positive terminal you are using",
+                    "== Warnings ==",
+                    "*be careful not to get electrocuted"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

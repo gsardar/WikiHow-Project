@@ -1,0 +1,921 @@
+{
+    "title": "Test-a-Circuit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:37:58.769616",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32744484",
+            "user": "Seymour Edits",
+            "timestamp": "22:23, 27 August 2024",
+            "anon": false,
+            "size": "(12,855 bytes)",
+            "change": 135,
+            "summary": "(intra article links experiment)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A [[#Using a Continuity Tester on Circuits|continuity tester]] is the simplest tool for the specific task of checking for continuity, while a [[#Testing Continuity with a Multimeter|multimeter]] also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is [[#Checking for Grounding with a Circuit Tester|checking for proper grounding of your circuit]]. '''Always use caution when working with live wires!'''"
+                ],
+                "removed": [
+                    "Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit. '''Always use caution when working with live wires!'''"
+                ]
+            }
+        },
+        {
+            "id": "31590621",
+            "user": "Flowolfox",
+            "timestamp": "17:08, 3 May 2023",
+            "anon": false,
+            "size": "(12,720 bytes)",
+            "change": -249,
+            "summary": "(RCP reverted edits by 66.90.179.30 (talk) to  revision #31405610 by WikiHow Projects)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical and Electronic Circuits]]jhhhkjhuuuhkkkgkj",
+                    "jksdcnskdcnsdkljhcksa skjchslkadchs khc sdkc skcskh cpio chich ipshcposia[asoiiuapoioa",
+                    "",
+                    "",
+                    "ffv xcnvxbvhxbvjxhvjzb zcz ziou s dyid yasidysiudd",
+                    "f",
+                    "f",
+                    "",
+                    "ffadio a ydiuadid",
+                    "f",
+                    "s",
+                    "fs",
+                    "f",
+                    "sdf",
+                    "ds",
+                    "f",
+                    "dsf",
+                    "sdf",
+                    "sd",
+                    "f",
+                    "dsf",
+                    "s",
+                    "fs",
+                    "f",
+                    "dsf",
+                    "ds",
+                    "",
+                    "f",
+                    "f",
+                    "",
+                    "f",
+                    "f",
+                    "f",
+                    "",
+                    "ff",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "31590482",
+            "user": "66.90.179.30",
+            "timestamp": "16:00, 3 May 2023",
+            "anon": true,
+            "size": "(12,969 bytes)",
+            "change": 113,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Flowolfox",
+            "exact_contribution": {
+                "added": [
+                    "ffv xcnvxbvhxbvjxhvjzb zcz ziou s dyid yasidysiudd",
+                    "ffadio a ydiuadid",
+                    "f",
+                    "s",
+                    "fs",
+                    "f",
+                    "sdf",
+                    "ds",
+                    "f",
+                    "dsf",
+                    "sdf",
+                    "sd",
+                    "f",
+                    "dsf",
+                    "s",
+                    "fs",
+                    "f",
+                    "dsf",
+                    "ds",
+                    ""
+                ],
+                "removed": [
+                    "ff",
+                    "ff"
+                ]
+            }
+        },
+        {
+            "id": "31590478",
+            "user": "66.90.179.30",
+            "timestamp": "15:59, 3 May 2023",
+            "anon": true,
+            "size": "(12,856 bytes)",
+            "change": 136,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Flowolfox",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical and Electronic Circuits]]jhhhkjhuuuhkkkgkj",
+                    "jksdcnskdcnsdkljhcksa skjchslkadchs khc sdkc skcskh cpio chich ipshcposia[asoiiuapoioa",
+                    "",
+                    "",
+                    "ff",
+                    "f",
+                    "f",
+                    "",
+                    "ff",
+                    "f",
+                    "f",
+                    "",
+                    "f",
+                    "f",
+                    "f",
+                    "",
+                    "ff",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ]
+            }
+        },
+        {
+            "id": "31405610",
+            "user": "WikiHow Projects",
+            "timestamp": "12:41, 3 March 2023",
+            "anon": false,
+            "size": "(12,720 bytes)",
+            "change": 135,
+            "summary": "(Adding internal links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Flowolfox",
+            "exact_contribution": {
+                "added": [
+                    "#*If you’re testing for continuity in home electrical wiring, turn off the appropriate [[Find-the-Fuse-Box-or-Circuit-Breaker-Box|breaker]] at your main electrical service panel. Next, test a non-contact [[Use Voltage Testers|voltage tester]] on a circuit you know is working (such as any meter you use daily). Then, use the non-contact voltage tester to make sure the power is off at the circuit you’ll be testing.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*If you’re trying to figure out which wire connects to which between a [[Wire a Wall Switch|wall switch]] and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Turn your multimeter’s dial to continuity mode. [[Use a Multimeter|Multimeters]] vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 6 Version 3.jpg|center]]",
+                    "#Touch the probe ends together to [[Test a Multimeter|test the multimeter]]. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 8 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#*If you’re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Next, test a non-contact voltage tester on a circuit you know is working (such as any meter you use daily). Then, use the non-contact voltage tester to make sure the power is off at the circuit you’ll be testing.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 6 Version 3.jpg|center]]",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 8 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31160064",
+            "user": "Wikivisual",
+            "timestamp": "05:51, 12 December 2022",
+            "anon": false,
+            "size": "(12,585 bytes)",
+            "change": 60,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you’re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery.[[Image:Test a Circuit Step 1 Version 3.jpg|center]]",
+                    "#Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 2 Version 3.jpg|center]]",
+                    "#Touch the probe and attach the clip to opposite ends of the circuit. For the basic “2 wires running from a 9v battery to a light” circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn’t matter which wires you clip or touch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 3 Version 3.jpg|center]]",
+                    "#Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn’t—and you’ve already made sure the tester’s battery is working—then you don’t have a completed circuit. [[Image:Test a Circuit Step 4 Version 3.jpg|center]]",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 5 Version 3.jpg|center]]",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 6 Version 3.jpg|center]]",
+                    "#Place the test leads into their appropriate jacks. Multimeters come with two wire leads—a black one and a red one—with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity.[[Image:Test a Circuit Step 7 Version 3.jpg|center]]",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 8 Version 3.jpg|center]]",
+                    "#Touch the probe ends to opposite ends of the circuit you’re testing. If you wanted to test a single strand of wire, you’d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you’d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 9 Version 2.jpg|center]]",
+                    "#Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring—especially in older homes—is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 10 Version 2.jpg|center]]",
+                    "#Turn off the power supply, and confirm it’s off. If you’re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn’t light up or chirp, the power is off.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 11 Version 2.jpg|center]]",
+                    "#Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 12 Version 2.jpg|center]]",
+                    "#Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire—it’s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire—which will be white. This completes the circuit, and the neon lamp should light up.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 13 Version 2.jpg|center]]",
+                    "#Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 14 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you’re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery.[[Image:Test a Circuit Step 1 Version 2.jpg|center]]",
+                    "#Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 2 Version 2.jpg|center]]",
+                    "#Touch the probe and attach the clip to opposite ends of the circuit. For the basic “2 wires running from a 9v battery to a light” circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn’t matter which wires you clip or touch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 3 Version 2.jpg|center]]",
+                    "#Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn’t—and you’ve already made sure the tester’s battery is working—then you don’t have a completed circuit. [[Image:Test a Circuit Step 4 Version 2.jpg|center]]",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 5 Version 2.jpg|center]]",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 6 Version 2.jpg|center]]",
+                    "#Place the test leads into their appropriate jacks. Multimeters come with two wire leads—a black one and a red one—with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity.[[Image:Test a Circuit Step 7 Version 2.jpg|center]]",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 8 Version 2.jpg|center]]",
+                    "#Touch the probe ends to opposite ends of the circuit you’re testing. If you wanted to test a single strand of wire, you’d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you’d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 9.jpg|center]]",
+                    "#Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring—especially in older homes—is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 10.jpg|center]]",
+                    "#Turn off the power supply, and confirm it’s off. If you’re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn’t light up or chirp, the power is off.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 11.jpg|center]]",
+                    "#Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 12.jpg|center]]",
+                    "#Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire—it’s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire—which will be white. This completes the circuit, and the neon lamp should light up.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 13.jpg|center]]",
+                    "#Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26559231",
+            "user": "WikiHow Expert Review",
+            "timestamp": "14:21, 16 May 2019",
+            "anon": false,
+            "size": "(12,525 bytes)",
+            "change": 991,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit. '''Always use caution when working with live wires!'''",
+                    "",
+                    "#*If you’re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Next, test a non-contact voltage tester on a circuit you know is working (such as any meter you use daily). Then, use the non-contact voltage tester to make sure the power is off at the circuit you’ll be testing.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*Separate the circuit you want to test from other potentially hot wires to ensure you don't get a false positive. Then, simply place the tip of the voltage tester near the wiring of the circuit you’ll be testing. If the voltage tester lights up and “chirps,” the power is still on.",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 5 Version 2.jpg|center]]",
+                    "#*When using a non-contact circuit tester, make sure to separate the wires you want to test from all nearby wires. If the wires are too close, a hot wire's magnetic field can affect the reading and show a false positive.",
+                    "#*Read the manual that came with your meter before using it to ensure you know how to use it correctly.",
+                    "#*'''If you don't have knowledge or experience working with electricity, this task is best left to a certified electrician.'''",
+                    "#*Circuit testers are not-self powered, though, meaning that, unlike a continuity tester or multimeter, the circuit you’re testing needs to be supplied with power.",
+                    "#*Another way to confirm the power is off is to plug a device (that you know is working properly) into the outlet.",
+                    "#*'''Live, exposed wires create a hazard for electrocution (if someone touches the wires) or fire (if the wires touch each other or a nearby object).''' Before turning the power on, make sure the exposed wire tips are completely separated and not touching anything; tell everyone in the area/home that there are live wires in that specific location; and put up a sign (e.g. \"Live Wires! Don't Touch!\") right near the outlet.",
+                    "",
+                    "==Tips==",
+                    "*As an alternative to a circuit tester, you can use a receptacle tester. You can get one at your local hardware store for about $10. Simply plug it into the outlet and read the light codes to find out if the outlet is wired correctly and has a ground.",
+                    "",
+                    "==Warnings==",
+                    "*If your home is older, it may not have ground wires since they were not required by the NEC. To improve the safety of your electrical wiring, hire a professional electrician to run a ground to each device or install GFCI devices at the beginning of each circuit."
+                ],
+                "removed": [
+                    "Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit.",
+                    "#*If you’re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Then use a non-contact voltage tester to make sure the power is off at the circuit you’ll be testing.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*Simply place the tip of the voltage tester near the wiring of the circuit you’ll be testing. If the voltage tester lights up and “chirps,” the power is still on.",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery, or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 5 Version 2.jpg|center]]",
+                    "#*On most Fluke brand multimeters, for instance, you’ll find that the ))))) (continuity) symbol shares a spot with the Ω (ohm) sign. You might also need to press a separate “continuity” button (denoted again by the curved lines) depending on your model.<ref>http://en-us.fluke.com/training/training-library/test-tools/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter.html</ref>",
+                    "#*Circuit testers are not-self powered, though, meaning that, unlike a continuity tester or multimeter, the circuit you’re testing needs to be supplied with power.",
+                    "#*Live, exposed wires create a hazard for electrocution (if someone touches the wires) or fire (if the wires touch each other or a nearby object). Before turning the power on, make sure the exposed wire tips are completely separated and not touching anything; tell everyone in the area/home that there are live wires in that specific location; and put up a sign (e.g. \"Live Wires! Don't Touch!\") right near the outlet."
+                ]
+            }
+        },
+        {
+            "id": "26340774",
+            "user": "MiscBot",
+            "timestamp": "07:10, 29 March 2019",
+            "anon": false,
+            "size": "(11,534 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "24858095",
+            "user": "Wikivisual",
+            "timestamp": "12:46, 5 July 2018",
+            "anon": false,
+            "size": "(11,543 bytes)",
+            "change": 673,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you’re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery.[[Image:Test a Circuit Step 1 Version 2.jpg|center]]",
+                    "#Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 2 Version 2.jpg|center]]",
+                    "#Touch the probe and attach the clip to opposite ends of the circuit. For the basic “2 wires running from a 9v battery to a light” circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn’t matter which wires you clip or touch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 3 Version 2.jpg|center]]",
+                    "#Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn’t—and you’ve already made sure the tester’s battery is working—then you don’t have a completed circuit. [[Image:Test a Circuit Step 4 Version 2.jpg|center]]",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery, or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 5 Version 2.jpg|center]]",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 6 Version 2.jpg|center]]",
+                    "#Place the test leads into their appropriate jacks. Multimeters come with two wire leads—a black one and a red one—with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity.[[Image:Test a Circuit Step 7 Version 2.jpg|center]]",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>[[Image:Test a Circuit Step 8 Version 2.jpg|center]]",
+                    "#Touch the probe ends to opposite ends of the circuit you’re testing. If you wanted to test a single strand of wire, you’d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you’d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>[[Image:Test a Circuit Step 9.jpg|center]]",
+                    "#Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring—especially in older homes—is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 10.jpg|center]]",
+                    "#Turn off the power supply, and confirm it’s off. If you’re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn’t light up or chirp, the power is off.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 11.jpg|center]]",
+                    "#Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 12.jpg|center]]",
+                    "#Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire—it’s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire—which will be white. This completes the circuit, and the neon lamp should light up.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 13.jpg|center]]",
+                    "#Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>[[Image:Test a Circuit Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you’re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery.",
+                    "#Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Touch the probe and attach the clip to opposite ends of the circuit. For the basic “2 wires running from a 9v battery to a light” circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn’t matter which wires you clip or touch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn’t—and you’ve already made sure the tester’s battery is working—then you don’t have a completed circuit.",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery, or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>",
+                    "#Place the test leads into their appropriate jacks. Multimeters come with two wire leads—a black one and a red one—with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity.",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>",
+                    "#Touch the probe ends to opposite ends of the circuit you’re testing. If you wanted to test a single strand of wire, you’d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you’d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>",
+                    "#Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring—especially in older homes—is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Turn off the power supply, and confirm it’s off. If you’re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn’t light up or chirp, the power is off.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire—it’s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire—which will be white. This completes the circuit, and the neon lamp should light up.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "24682704",
+            "user": "Wikiphoto",
+            "timestamp": "22:27, 1 June 2018",
+            "anon": false,
+            "size": "(10,870 bytes)",
+            "change": -24,
+            "summary": "(Remove stub)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit."
+                ],
+                "removed": [
+                    "{{stub|date=2015-05-27}}Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit."
+                ]
+            }
+        },
+        {
+            "id": "24538434",
+            "user": "Seymour Edits",
+            "timestamp": "17:37, 10 May 2018",
+            "anon": false,
+            "size": "(10,894 bytes)",
+            "change": 259,
+            "summary": "(expanded 3.3.1)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Live, exposed wires create a hazard for electrocution (if someone touches the wires) or fire (if the wires touch each other or a nearby object). Before turning the power on, make sure the exposed wire tips are completely separated and not touching anything; tell everyone in the area/home that there are live wires in that specific location; and put up a sign (e.g. \"Live Wires! Don't Touch!\") right near the outlet."
+                ],
+                "removed": [
+                    "#*This creates a dangerous situation, so make sure everyone in the home knows about the exposed live wires where you are working. Put up a sign if you need to!"
+                ]
+            }
+        },
+        {
+            "id": "24529201",
+            "user": "Caitlynn L",
+            "timestamp": "12:02, 9 May 2018",
+            "anon": false,
+            "size": "(10,635 bytes)",
+            "change": -1,
+            "summary": "(RCP reverted edits by SarahB (talk) to  revision #24528618 by Aparanjani)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ],
+                "removed": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detatch the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "24528893",
+            "user": "SarahB",
+            "timestamp": "10:35, 9 May 2018",
+            "anon": false,
+            "size": "(10,636 bytes)",
+            "change": 1,
+            "summary": "(fixed spell error)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detatch the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ],
+                "removed": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "24528618",
+            "user": "Aparanjani",
+            "timestamp": "09:24, 9 May 2018",
+            "anon": false,
+            "size": "(10,635 bytes)",
+            "change": -1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ],
+                "removed": [
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or deteach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "24527547",
+            "user": "Seymour Edits",
+            "timestamp": "03:23, 9 May 2018",
+            "anon": false,
+            "size": "(10,636 bytes)",
+            "change": 9279,
+            "summary": "(replaced existing stub with new content and sourcing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2015-05-27}}Whether you want to test a simple circuit you’ve made for a school project or a wall outlet in your home, there are several testing tools you can use to check for continuity—that is, a completed circuit. A continuity tester is the simplest tool for the specific task of checking for continuity, while a multimeter also provides a wide range of other electrical testing uses. You can also use a circuit tester to check for continuity, but its best use is checking for proper grounding of your circuit.",
+                    "==Steps==",
+                    "===Using a Continuity Tester on Circuits===",
+                    "#Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you’re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery.",
+                    "#*If you’re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Then use a non-contact voltage tester to make sure the power is off at the circuit you’ll be testing.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*Simply place the tip of the voltage tester near the wiring of the circuit you’ll be testing. If the voltage tester lights up and “chirps,” the power is still on.",
+                    "#Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*To test that it’s working, simply touch the clip to the probe. If the lamp comes on, it’s working. If it doesn’t, check the battery.",
+                    "#*Continuity testers are cheap and easy to use, but you can also find instructions online for making your own with a few simple parts.",
+                    "#Touch the probe and attach the clip to opposite ends of the circuit. For the basic “2 wires running from a 9v battery to a light” circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn’t matter which wires you clip or touch.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*If you’re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or deteach the wire ends—but only after you’ve confirmed with a voltage tester that the power is off. Attach the tester’s clip to a wire at one box, then start touching the probe to wires in the other box.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn’t—and you’ve already made sure the tester’s battery is working—then you don’t have a completed circuit.",
+                    "===Testing Continuity with a Multimeter===",
+                    "#Remove all current from the circuit you’re testing. Either disconnect your simple circuit from its battery, or shut off your home circuit’s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>",
+                    "#*Non-contact voltage testers look like thick pens and can be found at any hardware store. They light up and make a chirping sound whenever the probe end is placed in close proximity to an electrical current.",
+                    "#Turn your multimeter’s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>",
+                    "#*Typically, the symbol will look something like this—   )))))  —except that the curved lines will go from smaller to larger from left to right.",
+                    "#*On most Fluke brand multimeters, for instance, you’ll find that the ))))) (continuity) symbol shares a spot with the Ω (ohm) sign. You might also need to press a separate “continuity” button (denoted again by the curved lines) depending on your model.<ref>http://en-us.fluke.com/training/training-library/test-tools/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter.html</ref>",
+                    "#Place the test leads into their appropriate jacks. Multimeters come with two wire leads—a black one and a red one—with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity.",
+                    "#*Plug the black test lead into the “COM” (or similar, for “common”) jack. This is always where the black lead goes, no matter the test you’re conducting.",
+                    "#*Plug the red test lead into the jack labeled “VΩ,” “VΩmA,” or similar.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref> This jack is used for low current testing, which is appropriate for circuit continuity testing. Consult your multimeter’s manual if you’re not sure which jack to use.<ref>http://en-us.fluke.com/training/training-library/test-tools/digital-multimeters/how-to-test-for-continuity-with-a-digital-multimeter.html</ref>",
+                    "#Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you’ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well.<ref>https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632</ref>",
+                    "#*If your multimeter doesn’t beep, and the digital display (if it has one) shows “OL” (for “open loop”) or the number 1, then it is not working properly. Check its battery and consult your user’s manual.",
+                    "#Touch the probe ends to opposite ends of the circuit you’re testing. If you wanted to test a single strand of wire, you’d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you’d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it.<ref>https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter#multimeteroverview</ref>",
+                    "#*Remember that, in most cases, a beeping sound and possibly a displayed “0” indicate continuity, and no beeping and possibly a “1” or “OL” indicate discontinuity.",
+                    "===Checking for Grounding with a Circuit Tester===",
+                    "#Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring—especially in older homes—is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*You can buy circuit testers at any hardware store, and they look a bit like a continuity tester—a small cylinder with a light at one end (neon in this case) and two attached wires with probes (instead of one).",
+                    "#*Circuit testers are not-self powered, though, meaning that, unlike a continuity tester or multimeter, the circuit you’re testing needs to be supplied with power.",
+                    "#Turn off the power supply, and confirm it’s off. If you’re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn’t light up or chirp, the power is off.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*This creates a dangerous situation, so make sure everyone in the home knows about the exposed live wires where you are working. Put up a sign if you need to!",
+                    "#Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire—it’s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire—which will be white. This completes the circuit, and the neon lamp should light up.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*You’re testing the tester by completing this circuit. If the neon lamp doesn’t light up, either your tester is bad or the power isn’t actually back on to your outlet.",
+                    "#Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded.<ref>https://www.familyhandyman.com/electrical/how-to-use-cheap-electrical-testers/view-all/</ref>",
+                    "#*If the neon lamp doesn’t light up, the ground wire in this outlet box is not properly connected to the home grounding system. Call an electrician if you are not well-versed in making home electrical repairs.",
+                    "#*After a successful test, turn the power off at the breaker box; test the exposed wires with the voltage tester to be sure the power is off; reconnect the wires as before and close up the outlet box; and turn the power back on at the breaker box.",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "{{stub|date=2015-05-27}}Did you make a circuit and did not know how to test it or didn't you made both? Here you can know how to do both.",
+                    "== Steps ==",
+                    "# Be sure that you have everything that you will need. Be sure the wire is {{convert|20|cm|in|sp=us|adj=on|1}}.[[Image:Test a Circuit Step 1.jpg|center]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.[[Image:Test a Circuit Step 2.jpg|center]]",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.[[Image:Test a Circuit Step 3.jpg|center]]",
+                    "#  Attach the wire to the switch.[[Image:Test a Circuit Step 4.jpg|center]]",
+                    "#  Now your circuit should look like this.[[Image:Test a Circuit Step 5.jpg|center]]",
+                    "=== testing-your-circuit ===",
+                    "# The bulb should work like this.[[Image:Test a Circuit Step 6.jpg|center]]",
+                    "# If it didn't work, check that the wires are attached properly.[[Image:Test a Circuit Step 7.jpg|center]]",
+                    "# If they are then check that the battery has a full charge.[[Image:Test a Circuit Step 8.jpg|center]]",
+                    "== Warnings ==",
+                    "*Never stick scissors, pens, fingers or anything else into the main socket.",
+                    "*Never touch switches with wet hands.",
+                    "*Never use electrical appliances near water.",
+                    "== Things You'll Need ==",
+                    "*Bulb",
+                    "*Wire",
+                    "*Battery",
+                    "*Switch"
+                ]
+            }
+        },
+        {
+            "id": "17986901",
+            "user": "MiscBot",
+            "timestamp": "07:50, 28 July 2015",
+            "anon": false,
+            "size": "(1,357 bytes)",
+            "change": -112,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is {{convert|20|cm|in|sp=us|adj=on|1}}.[[Image:Test a Circuit Step 1.jpg|center]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.[[Image:Test a Circuit Step 2.jpg|center]]",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.[[Image:Test a Circuit Step 3.jpg|center]]",
+                    "#  Attach the wire to the switch.[[Image:Test a Circuit Step 4.jpg|center]]",
+                    "#  Now your circuit should look like this.[[Image:Test a Circuit Step 5.jpg|center]]",
+                    "# The bulb should work like this.[[Image:Test a Circuit Step 6.jpg|center]]",
+                    "# If it didn't work, check that the wires are attached properly.[[Image:Test a Circuit Step 7.jpg|center]]",
+                    "# If they are then check that the battery has a full charge.[[Image:Test a Circuit Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is {{convert|20|cm|in|sp=us|adj=on|1}}.<br><br>[[Image:Test a Circuit Step 1.jpg|center|550px]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.<br><br>[[Image:Test a Circuit Step 2.jpg|center|550px]]",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.<br><br>[[Image:Test a Circuit Step 3.jpg|center|550px]]",
+                    "#  Attach the wire to the switch.<br><br>[[Image:Test a Circuit Step 4.jpg|center|550px]]",
+                    "#  Now your circuit should look like this.<br><br>[[Image:Test a Circuit Step 5.jpg|center|550px]]",
+                    "# The bulb should work like this.<br><br>[[Image:Test a Circuit Step 6.jpg|center|550px]]",
+                    "# If it didn't work, check that the wires are attached properly.<br><br>[[Image:Test a Circuit Step 7.jpg|center|550px]]",
+                    "# If they are then check that the battery has a full charge.<br><br>[[Image:Test a Circuit Step 8.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17459077",
+            "user": "Stub Bot",
+            "timestamp": "17:53, 27 May 2015",
+            "anon": false,
+            "size": "(1,469 bytes)",
+            "change": 24,
+            "summary": "(Marking as stub because this article does not appear complete enough to be helpful to readers. Disagree? Leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2015-05-27}}Did you make a circuit and did not know how to test it or didn't you made both? Here you can know how to do both."
+                ],
+                "removed": [
+                    "Did you make a circuit and did not know how to test it or didn't you made both? Here you can know how to do both."
+                ]
+            }
+        },
+        {
+            "id": "15856878",
+            "user": "MiscBot",
+            "timestamp": "17:25, 10 November 2014",
+            "anon": false,
+            "size": "(1,445 bytes)",
+            "change": 31,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is {{convert|20|cm|in|sp=us|adj=on|1}}.<br><br>[[Image:Test a Circuit Step 1.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm.<br><br>[[Image:Test a Circuit Step 1.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "12901413",
+            "user": "Wikiphoto",
+            "timestamp": "06:56, 6 March 2014",
+            "anon": false,
+            "size": "(1,414 bytes)",
+            "change": 73,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm.<br><br>[[Image:Test a Circuit Step 1.jpg|center|550px]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.<br><br>[[Image:Test a Circuit Step 2.jpg|center|550px]]",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.<br><br>[[Image:Test a Circuit Step 3.jpg|center|550px]]",
+                    "#  Attach the wire to the switch.<br><br>[[Image:Test a Circuit Step 4.jpg|center|550px]]",
+                    "#  Now your circuit should look like this.<br><br>[[Image:Test a Circuit Step 5.jpg|center|550px]]",
+                    "# The bulb should work like this.<br><br>[[Image:Test a Circuit Step 6.jpg|center|550px]]",
+                    "# If it didn't work, check that the wires are attached properly.<br><br>[[Image:Test a Circuit Step 7.jpg|center|550px]]",
+                    "# If they are then check that the battery has a full charge.<br><br>[[Image:Test a Circuit Step 8.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Test a Circuit Step 1.jpg|right|300px]]Be sure that you have everything that you will need. Be sure the wire is 20cm.",
+                    "# [[Image:Test a Circuit Step 2.jpg|right|300px]]Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.",
+                    "#[[Image:Test a Circuit Step 3.jpg|right|300px]]After you have attached the wire with the battery attach the wire with the bulb as shown below.",
+                    "#  [[Image:Test a Circuit Step 4.jpg|right|300px]]Attach the wire to the switch.",
+                    "#  [[Image:Test a Circuit Step 5.jpg|right|300px]]Now your circuit should look like this.",
+                    "# [[Image:Test a Circuit Step 6.jpg|right|300px]]The bulb should work like this.",
+                    "# [[Image:Test a Circuit Step 7.jpg|right|300px]]If it didn't work, check that the wires are attached properly.",
+                    "# [[Image:Test a Circuit Step 8.jpg|right|300px]]If they are then check that the battery has a full charge."
+                ]
+            }
+        },
+        {
+            "id": "12901412",
+            "user": "Wikiphoto",
+            "timestamp": "06:56, 6 March 2014",
+            "anon": false,
+            "size": "(1,341 bytes)",
+            "change": 115,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Test a Circuit Step 1.jpg|right|300px]]Be sure that you have everything that you will need. Be sure the wire is 20cm.",
+                    "# [[Image:Test a Circuit Step 2.jpg|right|300px]]Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.",
+                    "#[[Image:Test a Circuit Step 3.jpg|right|300px]]After you have attached the wire with the battery attach the wire with the bulb as shown below.",
+                    "#  [[Image:Test a Circuit Step 4.jpg|right|300px]]Attach the wire to the switch.",
+                    "#  [[Image:Test a Circuit Step 5.jpg|right|300px]]Now your circuit should look like this.",
+                    "# [[Image:Test a Circuit Step 6.jpg|right|300px]]The bulb should work like this.",
+                    "# [[Image:Test a Circuit Step 7.jpg|right|300px]]If it didn't work, check that the wires are attached properly.",
+                    "# [[Image:Test a Circuit Step 8.jpg|right|300px]]If they are then check that the battery has a full charge."
+                ],
+                "removed": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm.{{largeimage|Test_a_Circuit_Step_1_623.png}}",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.{{largeimage|Test_a_Circuit_Step_2_0.png}}",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.{{largeimage|Test_a_Circuit_Step_3_185.png}}",
+                    "#  Attach the wire to the switch.{{largeimage|Test_a_Circuit_Step_4_31.png}}",
+                    "#  Now your circuit should look like this.{{largeimage|Test_a_Circuit_Step_5_525.png}}",
+                    "# The bulb should work like this.{{largeimage|Test_a_Circuit_Step_6_151.png}}",
+                    "# If it didn't work, check that the wires are attached properly.",
+                    "# If they are then check that the battery has a full charge."
+                ]
+            }
+        },
+        {
+            "id": "12758386",
+            "user": "Serendipitee",
+            "timestamp": "23:17, 20 February 2014",
+            "anon": false,
+            "size": "(1,226 bytes)",
+            "change": 13,
+            "summary": "(change category to newly created category)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical and Electronic Circuits]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "9640410",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "22:49, 17 April 2013",
+            "anon": false,
+            "size": "(1,213 bytes)",
+            "change": -18,
+            "summary": "(Changing image link(s) due to image filename conflict)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm.{{largeimage|Test_a_Circuit_Step_1_623.png}}",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.{{largeimage|Test_a_Circuit_Step_2_0.png}}",
+                    "#After you have attached the wire with the battery attach the wire with the bulb as shown below.{{largeimage|Test_a_Circuit_Step_3_185.png}}",
+                    "#  Attach the wire to the switch.{{largeimage|Test_a_Circuit_Step_4_31.png}}",
+                    "#  Now your circuit should look like this.{{largeimage|Test_a_Circuit_Step_5_525.png}}",
+                    "# The bulb should work like this.{{largeimage|Test_a_Circuit_Step_6_151.png}}",
+                    "*Bulb",
+                    "*Wire"
+                ],
+                "removed": [
+                    "",
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]After you have attached the wire with the battery attach the wire with the bulb as shown below.",
+                    "#  Attach the wire to the switch <br><br>[[Image:6 1.png|center]]",
+                    "#  Now your circuit should look like this.<br><br>[[Image:7 1.png|center|550px]]",
+                    "# The bulb should work like this.",
+                    "#<br><br>[[Image:832.png|center|306px]]",
+                    "*Bulb[[Image:2 1.png|center|100px]]",
+                    "*Wire[[Image:Download 20.jpg|center|125px]]"
+                ]
+            }
+        },
+        {
+            "id": "9407439",
+            "user": "Laura0681",
+            "timestamp": "03:57, 15 March 2013",
+            "anon": false,
+            "size": "(1,231 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9407057",
+            "user": "Ttrimm",
+            "timestamp": "02:09, 15 March 2013",
+            "anon": false,
+            "size": "(1,194 bytes)",
+            "change": -105,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Did you make a circuit and did not know how to test it or didn't you made both? Here you can know how to do both.",
+                    "# Be sure that you have everything that you will need. Be sure the wire is 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# Attach the wire to the battery with tape. Be sure that the wire is attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]After you have attached the wire with the battery attach the wire with the bulb as shown below.",
+                    "#<br><br>[[Image:832.png|center|306px]]",
+                    "*Bulb[[Image:2 1.png|center|100px]]",
+                    "*Wire[[Image:Download 20.jpg|center|125px]]",
+                    "*Battery",
+                    "*Switch"
+                ],
+                "removed": [
+                    "did you make a circuit and did not know how to test it or didn't you made both? here you can know how to do both:)",
+                    "#  First you will need wires,bulb,battery,switch,ammeter if necessary.",
+                    "#  The wire had to be 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# Attach the wire to the battery by sticking tape, the wire had to be attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]After you have attached the wire with the battery attache the wire with the bulb as shown below.",
+                    "#<br><br>[[Image:832.png|center|506px]]",
+                    "*Bulb[[Image:2 1.png|center|400px]]",
+                    "*Wire[[Image:Download 20.jpg|center|225px]]",
+                    "*Battery[[Image:1 1.png|center]]",
+                    "*Switch [[Image:Capture 7.png|center]][[Image:Capture 7.png|center]]"
+                ]
+            }
+        },
+        {
+            "id": "9404541",
+            "user": "Samdavidphillips",
+            "timestamp": "18:15, 14 March 2013",
+            "anon": false,
+            "size": "(1,299 bytes)",
+            "change": 118,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  First you will need wires,bulb,battery,switch,ammeter if necessary.",
+                    "#  The wire had to be 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# Attach the wire to the battery by sticking tape, the wire had to be attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]After you have attached the wire with the battery attache the wire with the bulb as shown below.",
+                    "#  Attach the wire to the switch <br><br>[[Image:6 1.png|center]]",
+                    "#  Now your circuit should look like this.<br><br>[[Image:7 1.png|center|550px]]",
+                    "=== testing-your-circuit ===",
+                    "# The bulb should work like this.",
+                    "# If it didn't work, check that the wires are attached properly.",
+                    "# If they are then check that the battery has a full charge.",
+                    "*Never stick scissors, pens, fingers or anything else into the main socket.",
+                    "*Never touch switches with wet hands.",
+                    "*Never use electrical appliances near water.",
+                    "*Bulb[[Image:2 1.png|center|400px]]",
+                    "*Wire[[Image:Download 20.jpg|center|225px]]",
+                    "*Battery[[Image:1 1.png|center]]",
+                    "*Switch [[Image:Capture 7.png|center]][[Image:Capture 7.png|center]]"
+                ],
+                "removed": [
+                    "#=== making-circuits ===",
+                    "#  first you will need wires,bulb,battery,switch,ammeter if necessary",
+                    "#  the wire had to be 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# attach the wire to the battery by sticking tape, the wire had to be attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]after you have attached the wire with the battery attache the wire with the bulb as shown below",
+                    "#  attach the wire to the switch <br><br>[[Image:6 1.png|center]]",
+                    "#  now your circuit should look like this<br><br>[[Image:7 1.png|center|550px]]",
+                    "#=== testing-your-circuit ===",
+                    "# the bulb should work like this",
+                    "# if it didn't work check the wires are they attached perfectly",
+                    "#  if they are then check if the battery is empty",
+                    "*[[Image:Mn.PNG|center|377px]]",
+                    "*bulb[[Image:2 1.png|center|400px]]",
+                    "*wire[[Image:Download 20.jpg|center|225px]]",
+                    "*battery[[Image:1 1.png|center]]",
+                    "*switch [[Image:Capture 7.png|center]][[Image:Capture 7.png|center]]"
+                ]
+            }
+        },
+        {
+            "id": "9403765",
+            "user": "Leeno0",
+            "timestamp": "15:52, 14 March 2013",
+            "anon": false,
+            "size": "(1,181 bytes)",
+            "change": 255,
+            "summary": "(Added image: Mn.PNG)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Warnings ==",
+                    "*[[Image:Mn.PNG|center|377px]]",
+                    "",
+                    "== Things You'll Need ==",
+                    "*bulb[[Image:2 1.png|center|400px]]",
+                    "*wire[[Image:Download 20.jpg|center|225px]]",
+                    "*battery[[Image:1 1.png|center]]",
+                    "*switch [[Image:Capture 7.png|center]][[Image:Capture 7.png|center]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9403700",
+            "user": "Leeno0",
+            "timestamp": "15:46, 14 March 2013",
+            "anon": false,
+            "size": "(926 bytes)",
+            "change": 926,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "did you make a circuit and did not know how to test it or didn't you made both? here you can know how to do both:)",
+                    "== Steps ==",
+                    "#=== making-circuits ===",
+                    "#  first you will need wires,bulb,battery,switch,ammeter if necessary",
+                    "#  the wire had to be 20cm <br><br>[[Image:3 1.png|center|359px]]",
+                    "# attach the wire to the battery by sticking tape, the wire had to be attached with the negative and positive sides.<br><br>[[Image:4 1.png|center]]",
+                    "# [[Image:5 1.png|right|180px]]after you have attached the wire with the battery attache the wire with the bulb as shown below",
+                    "#  attach the wire to the switch <br><br>[[Image:6 1.png|center]]",
+                    "#  now your circuit should look like this<br><br>[[Image:7 1.png|center|550px]]",
+                    "#=== testing-your-circuit ===",
+                    "# the bulb should work like this",
+                    "#<br><br>[[Image:832.png|center|506px]]",
+                    "# if it didn't work check the wires are they attached perfectly",
+                    "#  if they are then check if the battery is empty"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "discussions": []
+}

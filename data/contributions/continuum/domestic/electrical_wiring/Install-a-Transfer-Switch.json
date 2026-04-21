@@ -1,0 +1,1090 @@
+{
+    "title": "Install-a-Transfer-Switch",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:28:44.449558",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34127995",
+            "user": "Votebot",
+            "timestamp": "10:16, 7 March 2026",
+            "anon": false,
+            "size": "(6,437 bytes)",
+            "change": -2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "34090385",
+            "user": "MiscBot",
+            "timestamp": "18:23, 19 February 2026",
+            "anon": false,
+            "size": "(6,439 bytes)",
+            "change": -48,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Add a Breaker Switch]]"
+                ]
+            }
+        },
+        {
+            "id": "34074471",
+            "user": "MiscBot",
+            "timestamp": "01:10, 19 February 2026",
+            "anon": false,
+            "size": "(6,487 bytes)",
+            "change": 50,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Add a Breaker Switch]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34058527",
+            "user": "MiscBot",
+            "timestamp": "17:56, 18 February 2026",
+            "anon": false,
+            "size": "(6,437 bytes)",
+            "change": -50,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Add a Breaker Switch]]"
+                ]
+            }
+        },
+        {
+            "id": "33055434",
+            "user": "WikiHow Projects",
+            "timestamp": "13:48, 9 January 2025",
+            "anon": false,
+            "size": "(6,487 bytes)",
+            "change": -148,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.[[Image:Install a Transfer Switch Step 11 Version 3.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.[[Image:Install a Transfer Switch Step 12 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref>[[Image:Install a Transfer Switch Step 11 Version 3.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref>[[Image:Install a Transfer Switch Step 12 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33055431",
+            "user": "WikiHow Projects",
+            "timestamp": "13:43, 9 January 2025",
+            "anon": false,
+            "size": "(6,635 bytes)",
+            "change": -144,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.[[Image:Install a Transfer Switch Step 19 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.[[Image:Install a Transfer Switch Step 28 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref>[[Image:Install a Transfer Switch Step 19 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref>[[Image:Install a Transfer Switch Step 28 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32714617",
+            "user": "Wikivisual",
+            "timestamp": "13:21, 12 August 2024",
+            "anon": false,
+            "size": "(6,779 bytes)",
+            "change": 71,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Decide which home conveniences you'd like to be generator accessible.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref>[[Image:Install a Transfer Switch Step 1 Version 3.jpg|center]]",
+                    "#Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.[[Image:Install a Transfer Switch Step 2 Version 3.jpg|center]]",
+                    "#Confirm that the amperage of needed power does not exceed the generator's capacity.[[Image:Install a Transfer Switch Step 3 Version 3.jpg|center]]",
+                    "#Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.[[Image:Install a Transfer Switch Step 4 Version 3.jpg|center]]",
+                    "#Cut the main power supply to the circuit breaker.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref>[[Image:Install a Transfer Switch Step 5 Version 3.jpg|center]]",
+                    "#Take the cover off of the circuit breaker.[[Image:Install a Transfer Switch Step 6 Version 3.jpg|center]]",
+                    "#Remove the cover of the transfer switch.[[Image:Install a Transfer Switch Step 7 Version 3.jpg|center]]",
+                    "#Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.[[Image:Install a Transfer Switch Step 8 Version 3.jpg|center]]",
+                    "#Attach the connectors to the wires using PVC cement.[[Image:Install a Transfer Switch Step 9 Version 3.jpg|center]]",
+                    "#Use the transfer switch's wiring harness to connect the unit to the circuit breaker.[[Image:Install a Transfer Switch Step 10 Version 3.jpg|center]]",
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref>[[Image:Install a Transfer Switch Step 11 Version 3.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref>[[Image:Install a Transfer Switch Step 12 Version 3.jpg|center]]",
+                    "#Pull the bundle of wires through the insulating tube.[[Image:Install a Transfer Switch Step 13 Version 2.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 14 Version 2.jpg|center]]",
+                    "#Join the wires to the transfer switch referring to the labels created previously.[[Image:Install a Transfer Switch Step 15 Version 2.jpg|center]]",
+                    "#Label each wire according to the appliance it supplies.[[Image:Install a Transfer Switch Step 16 Version 3.jpg|center]]",
+                    "#Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.[[Image:Install a Transfer Switch Step 17 Version 3.jpg|center]]",
+                    "#Join the white wire to the neutral area located in the middle of the transfer switch.<ref>https://www.electricgeneratorsdirect.com/manuals/rts_inst_man_2013.pdf</ref>[[Image:Install a Transfer Switch Step 18 Version 3.jpg|center]]",
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref>[[Image:Install a Transfer Switch Step 19 Version 2.jpg|center]]",
+                    "#Put the cover back on the transfer switch.[[Image:Install a Transfer Switch Step 20 Version 2.jpg|center]]",
+                    "#Confirm that the power supply is cut off at the main load center.[[Image:Install a Transfer Switch Step 21 Version 3.jpg|center]]",
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.<ref>https://www.thisoldhouse.com/electrical/21016077/how-to-install-a-manual-transfer-switch-for-a-portable-generator</ref>[[Image:Install a Transfer Switch Step 22 Version 3.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 23 Version 3.jpg|center]]",
+                    "#Attach to the transfer switch using wire connectors and again referring to the labels.[[Image:Install a Transfer Switch Step 24 Version 3.jpg|center]]",
+                    "#Join the miscellaneous black wires to the new 2-pole breaker.[[Image:Install a Transfer Switch Step 25 Version 2.jpg|center]]",
+                    "#Detach the 2 individual pole breakers from where each assigned appliance wire was removed.[[Image:Install a Transfer Switch Step 26 Version 2.jpg|center]]",
+                    "#Attach the white wire to the neutral bar.[[Image:Install a Transfer Switch Step 27 Version 3.jpg|center]]",
+                    "#Join the green wire to the ground bar.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref>[[Image:Install a Transfer Switch Step 28 Version 3.jpg|center]]",
+                    "#Put the cover back on the main circuit breaker, and restore the power supply.[[Image:Install a Transfer Switch Step 29 Version 3.jpg|center]]",
+                    "#Convert to generator power and return to utility power as per manufacturer's instructions.[[Image:Install a Transfer Switch Step 30 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Decide which home conveniences you'd like to be generator accessible.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref> [[Image:Install a Transfer Switch Step 1 Version 2.jpg|center]]",
+                    "#Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.[[Image:Install a Transfer Switch Step 2 Version 2.jpg|center]]",
+                    "#Confirm that the amperage of needed power does not exceed the generator's capacity.[[Image:Install a Transfer Switch Step 3 Version 2.jpg|center]]",
+                    "#Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.[[Image:Install a Transfer Switch Step 4 Version 2.jpg|center]]",
+                    "#Cut the main power supply to the circuit breaker.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref> [[Image:Install a Transfer Switch Step 5 Version 2.jpg|center]]",
+                    "#Take the cover off of the circuit breaker.[[Image:Install a Transfer Switch Step 6 Version 2.jpg|center]]",
+                    "#Remove the cover of the transfer switch.[[Image:Install a Transfer Switch Step 7 Version 2.jpg|center]]",
+                    "#Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.[[Image:Install a Transfer Switch Step 8 Version 2.jpg|center]]",
+                    "#Attach the connectors to the wires using PVC cement.[[Image:Install a Transfer Switch Step 9 Version 2.jpg|center]]",
+                    "#Use the transfer switch's wiring harness to connect the unit to the circuit breaker.[[Image:Install a Transfer Switch Step 10 Version 2.jpg|center]]",
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref> [[Image:Install a Transfer Switch Step 11 Version 2.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref> [[Image:Install a Transfer Switch Step 12 Version 2.jpg|center]]",
+                    "#Pull the bundle of wires through the insulating tube.[[Image:Install a Transfer Switch Step 13.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 14.jpg|center]]",
+                    "#Join the wires to the transfer switch referring to the labels created previously.[[Image:Install a Transfer Switch Step 15.jpg|center]]",
+                    "#Label each wire according to the appliance it supplies.[[Image:Install a Transfer Switch Step 16 Version 2.jpg|center]]",
+                    "#Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.[[Image:Install a Transfer Switch Step 17 Version 2.jpg|center]]",
+                    "#Join the white wire to the neutral area located in the middle of the transfer switch.<ref>https://www.electricgeneratorsdirect.com/manuals/rts_inst_man_2013.pdf</ref> [[Image:Install a Transfer Switch Step 18 Version 2.jpg|center]]",
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref> [[Image:Install a Transfer Switch Step 19.jpg|center]]",
+                    "#Put the cover back on the transfer switch.[[Image:Install a Transfer Switch Step 20.jpg|center]]",
+                    "#Confirm that the power supply is cut off at the main load center.[[Image:Install a Transfer Switch Step 21 Version 2.jpg|center]]",
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.<ref>https://www.thisoldhouse.com/electrical/21016077/how-to-install-a-manual-transfer-switch-for-a-portable-generator</ref> [[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 23 Version 2.jpg|center]]",
+                    "#Attach to the transfer switch using wire connectors and again referring to the labels.[[Image:Install a Transfer Switch Step 24 Version 2.jpg|center]]",
+                    "#Join the miscellaneous black wires to the new 2-pole breaker.[[Image:Install a Transfer Switch Step 25.jpg|center]]",
+                    "#Detach the 2 individual pole breakers from where each assigned appliance wire was removed.[[Image:Install a Transfer Switch Step 26.jpg|center]]",
+                    "#Attach the white wire to the neutral bar.[[Image:Install a Transfer Switch Step 27 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref> [[Image:Install a Transfer Switch Step 28 Version 2.jpg|center]]",
+                    "#Put the cover back on the main circuit breaker, and restore the power supply.[[Image:Install a Transfer Switch Step 29 Version 2.jpg|center]]",
+                    "#Convert to generator power and return to utility power as per manufacturer's instructions.[[Image:Install a Transfer Switch Step 30.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32530602",
+            "user": "Votebot",
+            "timestamp": "08:51, 25 May 2024",
+            "anon": false,
+            "size": "(6,708 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ],
+                "removed": [
+                    "*Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ]
+            }
+        },
+        {
+            "id": "32137553",
+            "user": "WikiHow Horizon",
+            "timestamp": "11:05, 14 December 2023",
+            "anon": false,
+            "size": "(6,708 bytes)",
+            "change": 21,
+            "summary": "(Updated link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.<ref>https://www.thisoldhouse.com/electrical/21016077/how-to-install-a-manual-transfer-switch-for-a-portable-generator</ref> [[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-manual-transfer-switch-portable-generator</ref> [[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31872984",
+            "user": "Votebot",
+            "timestamp": "08:38, 19 August 2023",
+            "anon": false,
+            "size": "(6,687 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ],
+                "removed": [
+                    "*Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ]
+            }
+        },
+        {
+            "id": "31158408",
+            "user": "Seymour Edits",
+            "timestamp": "18:17, 11 December 2022",
+            "anon": false,
+            "size": "(6,687 bytes)",
+            "change": 502,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the cover of the transfer switch.[[Image:Install a Transfer Switch Step 7 Version 2.jpg|center]]",
+                    "#*The transfer switch is the device that disconnects the supply power from the local utility company and transfers the supply line to the emergency subpanel.<ref>[v162206_b01]. 7 March 2022.</ref>",
+                    "#*Failure to install the transfer switch can result in combining voltages and damaging every electrical device in the house.<ref>[v162206_b01]. 7 March 2022.</ref>",
+                    "#*The size of the transfer switch should be according to the power requirements of the sub panel.<ref>[v162206_b01]. 7 March 2022.</ref>"
+                ],
+                "removed": [
+                    "#Remove the cover of the transfer switch.[[Image:Install a Transfer Switch Step 7 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27399299",
+            "user": "Seymour Edits",
+            "timestamp": "15:13, 22 November 2019",
+            "anon": false,
+            "size": "(6,185 bytes)",
+            "change": 573,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Decide which home conveniences you'd like to be generator accessible.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref> [[Image:Install a Transfer Switch Step 1 Version 2.jpg|center]]",
+                    "#Cut the main power supply to the circuit breaker.<ref>https://electrical-engineering-portal.com/install-manual-transfer-switch</ref> [[Image:Install a Transfer Switch Step 5 Version 2.jpg|center]]",
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref> [[Image:Install a Transfer Switch Step 11 Version 2.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.<ref>https://www.northerntool.com/images/downloads/manuals/37850.pdf</ref> [[Image:Install a Transfer Switch Step 12 Version 2.jpg|center]]",
+                    "#Join the white wire to the neutral area located in the middle of the transfer switch.<ref>https://www.electricgeneratorsdirect.com/manuals/rts_inst_man_2013.pdf</ref> [[Image:Install a Transfer Switch Step 18 Version 2.jpg|center]]",
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref> [[Image:Install a Transfer Switch Step 19.jpg|center]]",
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.<ref>https://www.thisoldhouse.com/how-to/how-to-install-manual-transfer-switch-portable-generator</ref> [[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.<ref>https://www.diy-experts.net/easily-wire-transfer-switch-home/</ref> [[Image:Install a Transfer Switch Step 28 Version 2.jpg|center]]",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Decide which home conveniences you'd like to be generator accessible.[[Image:Install a Transfer Switch Step 1 Version 2.jpg|center]]",
+                    "#Cut the main power supply to the circuit breaker.[[Image:Install a Transfer Switch Step 5 Version 2.jpg|center]]",
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.[[Image:Install a Transfer Switch Step 11 Version 2.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.[[Image:Install a Transfer Switch Step 12 Version 2.jpg|center]]",
+                    "#Join the white wire to the neutral area located in the middle of the transfer switch.[[Image:Install a Transfer Switch Step 18 Version 2.jpg|center]]",
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.[[Image:Install a Transfer Switch Step 19.jpg|center]]",
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.[[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.[[Image:Install a Transfer Switch Step 28 Version 2.jpg|center]]",
+                    "*[http://www.arcadvisor.com/pdf/instrume.pdf http://www.arcadvisor.com/pdf/instrume.pdf]"
+                ]
+            }
+        },
+        {
+            "id": "26297991",
+            "user": "MiscBot",
+            "timestamp": "02:53, 29 March 2019",
+            "anon": false,
+            "size": "(5,612 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25191985",
+            "user": "Votebot",
+            "timestamp": "09:20, 5 September 2018",
+            "anon": false,
+            "size": "(5,623 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The wires referred to in these instructions may differ in various transfer switch models."
+                ],
+                "removed": [
+                    "*The wires referred to in these instructions may differ in various transfer switch models."
+                ]
+            }
+        },
+        {
+            "id": "22007240",
+            "user": "109.158.231.197",
+            "timestamp": "15:10, 8 March 2017",
+            "anon": true,
+            "size": "(5,623 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "21291836",
+            "user": "Flickety",
+            "timestamp": "23:50, 6 November 2016",
+            "anon": false,
+            "size": "(5,625 bytes)",
+            "change": 15,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "21256189",
+            "user": "Flickety",
+            "timestamp": "22:37, 31 October 2016",
+            "anon": false,
+            "size": "(5,610 bytes)",
+            "change": -5,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Maintenance]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Home Improvements and Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "21190394",
+            "user": "71.31.159.0",
+            "timestamp": "06:23, 22 October 2016",
+            "anon": true,
+            "size": "(5,615 bytes)",
+            "change": -7,
+            "summary": "(Call someone that knows how to install the switch properly.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*You may need to refer to building codes regarding the wiring specifications in your home.",
+                    "*The wires referred to in these instructions may differ in various transfer switch models.",
+                    "*Always be sure to follow the manufacturer's instructions for tips for successful installation.",
+                    "*[http://www.arcadvisor.com/pdf/instrume.pdf http://www.arcadvisor.com/pdf/instrume.pdf]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "* You may need to refer to building codes regarding the wiring specifications in your home.",
+                    "* The wires referred to in these instructions may differ in various transfer switch models.",
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation.",
+                    "* [http://www.arcadvisor.com/pdf/instrume.pdf http://www.arcadvisor.com/pdf/instrume.pdf]"
+                ]
+            }
+        },
+        {
+            "id": "20829501",
+            "user": "Votebot",
+            "timestamp": "08:39, 22 August 2016",
+            "anon": false,
+            "size": "(5,622 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* You may need to refer to building codes regarding the wiring specifications in your home."
+                ],
+                "removed": [
+                    "* You may need to refer to building codes regarding the wiring specifications in your home."
+                ]
+            }
+        },
+        {
+            "id": "20735973",
+            "user": "WikiHow Projects",
+            "timestamp": "01:32, 9 August 2016",
+            "anon": false,
+            "size": "(5,622 bytes)",
+            "change": -138,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://www.generatorjoe.net/html/reliance/installinstructions.html http://www.generatorjoe.net/html/reliance/installinstructions.html]"
+                ]
+            }
+        },
+        {
+            "id": "20636125",
+            "user": "Hailey",
+            "timestamp": "20:45, 22 July 2016",
+            "anon": false,
+            "size": "(5,760 bytes)",
+            "change": -173,
+            "summary": "(RCP reverted edits by Nschmal (talk) to  revision #19850661 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* Please note this guide shows general rules for installing a very specific type of manual transfer switch, commonly referred to as a \"pre-wired load side\" transfer switch."
+                ]
+            }
+        },
+        {
+            "id": "20636115",
+            "user": "Nschmal",
+            "timestamp": "20:42, 22 July 2016",
+            "anon": false,
+            "size": "(5,933 bytes)",
+            "change": 173,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* Please note this guide shows general rules for installing a very specific type of manual transfer switch, commonly referred to as a \"pre-wired load side\" transfer switch."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "19850661",
+            "user": "Votebot",
+            "timestamp": "08:43, 20 March 2016",
+            "anon": false,
+            "size": "(5,760 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ],
+                "removed": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ]
+            }
+        },
+        {
+            "id": "19648322",
+            "user": "WikiHow Intern",
+            "timestamp": "02:25, 16 February 2016",
+            "anon": false,
+            "size": "(5,760 bytes)",
+            "change": -106,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://www.gen-tran.com/assets/pdfs/MTSinstall.pdf http://www.gen-tran.com/assets/pdfs/MTSinstall.pdf]"
+                ]
+            }
+        },
+        {
+            "id": "19352692",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "02:43, 9 January 2016",
+            "anon": false,
+            "size": "(5,866 bytes)",
+            "change": -28,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Add a Breaker Switch]]"
+                ],
+                "removed": [
+                    "*[[Add a Breaker Switch|How to Add a Breaker Switch]]"
+                ]
+            }
+        },
+        {
+            "id": "19087709",
+            "user": "Votebot",
+            "timestamp": "09:57, 18 December 2015",
+            "anon": false,
+            "size": "(5,894 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ],
+                "removed": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ]
+            }
+        },
+        {
+            "id": "17466862",
+            "user": "Wikivisual",
+            "timestamp": "11:41, 28 May 2015",
+            "anon": false,
+            "size": "(5,894 bytes)",
+            "change": 314,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Decide which home conveniences you'd like to be generator accessible.[[Image:Install a Transfer Switch Step 1 Version 2.jpg|center]]",
+                    "#Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.[[Image:Install a Transfer Switch Step 2 Version 2.jpg|center]]",
+                    "#Confirm that the amperage of needed power does not exceed the generator's capacity.[[Image:Install a Transfer Switch Step 3 Version 2.jpg|center]]",
+                    "#Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.[[Image:Install a Transfer Switch Step 4 Version 2.jpg|center]]",
+                    "#Cut the main power supply to the circuit breaker.[[Image:Install a Transfer Switch Step 5 Version 2.jpg|center]]",
+                    "#Take the cover off of the circuit breaker.[[Image:Install a Transfer Switch Step 6 Version 2.jpg|center]]",
+                    "#Remove the cover of the transfer switch.[[Image:Install a Transfer Switch Step 7 Version 2.jpg|center]]",
+                    "#Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.[[Image:Install a Transfer Switch Step 8 Version 2.jpg|center]]",
+                    "#Attach the connectors to the wires using PVC cement.[[Image:Install a Transfer Switch Step 9 Version 2.jpg|center]]",
+                    "#Use the transfer switch's wiring harness to connect the unit to the circuit breaker.[[Image:Install a Transfer Switch Step 10 Version 2.jpg|center]]",
+                    "#Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.[[Image:Install a Transfer Switch Step 11 Version 2.jpg|center]]",
+                    "#Affix the transfer switch to the wall, using mounting screws.[[Image:Install a Transfer Switch Step 12 Version 2.jpg|center]]",
+                    "#Pull the bundle of wires through the insulating tube.[[Image:Install a Transfer Switch Step 13.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 14.jpg|center]]",
+                    "#Join the wires to the transfer switch referring to the labels created previously.[[Image:Install a Transfer Switch Step 15.jpg|center]]",
+                    "#Label each wire according to the appliance it supplies.[[Image:Install a Transfer Switch Step 16 Version 2.jpg|center]]",
+                    "#Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.[[Image:Install a Transfer Switch Step 17 Version 2.jpg|center]]",
+                    "#Join the white wire to the neutral area located in the middle of the transfer switch.[[Image:Install a Transfer Switch Step 18 Version 2.jpg|center]]",
+                    "#Join the green wire to the grounding bar on the left side of the lower portion of the switch.[[Image:Install a Transfer Switch Step 19.jpg|center]]",
+                    "#Put the cover back on the transfer switch.[[Image:Install a Transfer Switch Step 20.jpg|center]]",
+                    "#Confirm that the power supply is cut off at the main load center.[[Image:Install a Transfer Switch Step 21 Version 2.jpg|center]]",
+                    "#Detach the assigned wires for each appliance from the circuit breaker box.[[Image:Install a Transfer Switch Step 22 Version 2.jpg|center]]",
+                    "#Trim 5/8 inch (1.59 cm) from the covering of each individual wire.[[Image:Install a Transfer Switch Step 23 Version 2.jpg|center]]",
+                    "#Attach to the transfer switch using wire connectors and again referring to the labels.[[Image:Install a Transfer Switch Step 24 Version 2.jpg|center]]",
+                    "#Join the miscellaneous black wires to the new 2-pole breaker.[[Image:Install a Transfer Switch Step 25.jpg|center]]",
+                    "#Detach the 2 individual pole breakers from where each assigned appliance wire was removed.[[Image:Install a Transfer Switch Step 26.jpg|center]]",
+                    "#Attach the white wire to the neutral bar.[[Image:Install a Transfer Switch Step 27 Version 2.jpg|center]]",
+                    "#Join the green wire to the ground bar.[[Image:Install a Transfer Switch Step 28 Version 2.jpg|center]]",
+                    "#Put the cover back on the main circuit breaker, and restore the power supply.[[Image:Install a Transfer Switch Step 29 Version 2.jpg|center]]",
+                    "#Convert to generator power and return to utility power as per manufacturer's instructions.[[Image:Install a Transfer Switch Step 30.jpg|center]]"
+                ],
+                "removed": [
+                    "# Decide which home conveniences you'd like to be generator accessible.<br><br>[[Image:Install a Transfer Switch Step 1.jpg|center|550px]]",
+                    "# Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.<br><br>[[Image:Install a Transfer Switch Step 2.jpg|center|550px]]",
+                    "# Confirm that the amperage of needed power does not exceed the generator's capacity.<br><br>[[Image:Install a Transfer Switch Step 3.jpg|center|550px]]",
+                    "# Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.<br><br>[[Image:Install a Transfer Switch Step 4.jpg|center|550px]]",
+                    "# Cut the main power supply to the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 5.jpg|center|550px]]",
+                    "# Take the cover off of the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 6.jpg|center|550px]]",
+                    "# Remove the cover of the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 7.jpg|center|550px]]",
+                    "# Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.<br><br>[[Image:Install a Transfer Switch Step 8.jpg|center|550px]]",
+                    "# Attach the connectors to the wires using PVC cement.<br><br>[[Image:Install a Transfer Switch Step 9.jpg|center|550px]]",
+                    "# Use the transfer switch's wiring harness to connect the unit to the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 10.jpg|center|550px]]",
+                    "# Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<br><br>[[Image:Install a Transfer Switch Step 11.jpg|center|550px]]",
+                    "# Affix the transfer switch to the wall, using mounting screws.<br><br>[[Image:Install a Transfer Switch Step 12.jpg|center|550px]]",
+                    "# Pull the bundle of wires through the insulating tube.",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# Join the wires to the transfer switch referring to the labels created previously.",
+                    "# Label each wire according to the appliance it supplies.<br><br>[[Image:Install a Transfer Switch Step 16.jpg|center|550px]]",
+                    "# Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 17.jpg|center|550px]]",
+                    "# Join the white wire to the neutral area located in the middle of the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 18.jpg|center|550px]]",
+                    "# Join the green wire to the grounding bar on the left side of the lower portion of the switch.",
+                    "# Put the cover back on the transfer switch.",
+                    "# Confirm that the power supply is cut off at the main load center.<br><br>[[Image:Install a Transfer Switch Step 21.jpg|center|550px]]",
+                    "# Detach the assigned wires for each appliance from the circuit breaker box.<br><br>[[Image:Install a Transfer Switch Step 22.jpg|center|550px]]",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.<br><br>[[Image:Install a Transfer Switch Step 23.jpg|center|550px]]",
+                    "# Attach to the transfer switch using wire connectors and again referring to the labels.<br><br>[[Image:Install a Transfer Switch Step 24.jpg|center|550px]]",
+                    "# Join the miscellaneous black wires to the new 2-pole breaker.",
+                    "# Detach the 2 individual pole breakers from where each assigned appliance wire was removed.",
+                    "# Attach the white wire to the neutral bar.<br><br>[[Image:Install a Transfer Switch Step 27.jpg|center|550px]]",
+                    "# Join the green wire to the ground bar.<br><br>[[Image:Install a Transfer Switch Step 28.jpg|center|550px]]",
+                    "# Put the cover back on the main circuit breaker, and restore the power supply.<br><br>[[Image:Install a Transfer Switch Step 29.jpg|center|550px]]",
+                    "# Convert to generator power and return to utility power as per manufacturer's instructions."
+                ]
+            }
+        },
+        {
+            "id": "15855559",
+            "user": "Votebot",
+            "timestamp": "14:52, 10 November 2014",
+            "anon": false,
+            "size": "(5,580 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ],
+                "removed": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ]
+            }
+        },
+        {
+            "id": "15311502",
+            "user": "Votebot",
+            "timestamp": "18:41, 9 September 2014",
+            "anon": false,
+            "size": "(5,580 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ],
+                "removed": [
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ]
+            }
+        },
+        {
+            "id": "14484185",
+            "user": "Votebot",
+            "timestamp": "18:35, 9 August 2014",
+            "anon": false,
+            "size": "(5,580 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ],
+                "removed": [
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation."
+                ]
+            }
+        },
+        {
+            "id": "13226572",
+            "user": "Votebot",
+            "timestamp": "16:42, 7 April 2014",
+            "anon": false,
+            "size": "(5,580 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [
+                    "* The wires referred to in these instructions may differ in various transfer switch models.",
+                    "* You may need to refer to building codes regarding the wiring specifications in your home."
+                ],
+                "removed": [
+                    "* You may need to refer to building codes regarding the wiring specifications in your home.",
+                    "* The wires referred to in these instructions may differ in various transfer switch models."
+                ]
+            }
+        },
+        {
+            "id": "12723216",
+            "user": "Wikiphoto",
+            "timestamp": "09:02, 18 February 2014",
+            "anon": false,
+            "size": "(5,580 bytes)",
+            "change": 199,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Decide which home conveniences you'd like to be generator accessible.<br><br>[[Image:Install a Transfer Switch Step 1.jpg|center|550px]]",
+                    "# Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.<br><br>[[Image:Install a Transfer Switch Step 2.jpg|center|550px]]",
+                    "# Confirm that the amperage of needed power does not exceed the generator's capacity.<br><br>[[Image:Install a Transfer Switch Step 3.jpg|center|550px]]",
+                    "# Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.<br><br>[[Image:Install a Transfer Switch Step 4.jpg|center|550px]]",
+                    "# Cut the main power supply to the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 5.jpg|center|550px]]",
+                    "# Take the cover off of the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 6.jpg|center|550px]]",
+                    "# Remove the cover of the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 7.jpg|center|550px]]",
+                    "# Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.<br><br>[[Image:Install a Transfer Switch Step 8.jpg|center|550px]]",
+                    "# Attach the connectors to the wires using PVC cement.<br><br>[[Image:Install a Transfer Switch Step 9.jpg|center|550px]]",
+                    "# Use the transfer switch's wiring harness to connect the unit to the circuit breaker.<br><br>[[Image:Install a Transfer Switch Step 10.jpg|center|550px]]",
+                    "# Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.<br><br>[[Image:Install a Transfer Switch Step 11.jpg|center|550px]]",
+                    "# Affix the transfer switch to the wall, using mounting screws.<br><br>[[Image:Install a Transfer Switch Step 12.jpg|center|550px]]",
+                    "# Label each wire according to the appliance it supplies.<br><br>[[Image:Install a Transfer Switch Step 16.jpg|center|550px]]",
+                    "# Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 17.jpg|center|550px]]",
+                    "# Join the white wire to the neutral area located in the middle of the transfer switch.<br><br>[[Image:Install a Transfer Switch Step 18.jpg|center|550px]]",
+                    "# Confirm that the power supply is cut off at the main load center.<br><br>[[Image:Install a Transfer Switch Step 21.jpg|center|550px]]",
+                    "# Detach the assigned wires for each appliance from the circuit breaker box.<br><br>[[Image:Install a Transfer Switch Step 22.jpg|center|550px]]",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.<br><br>[[Image:Install a Transfer Switch Step 23.jpg|center|550px]]",
+                    "# Attach to the transfer switch using wire connectors and again referring to the labels.<br><br>[[Image:Install a Transfer Switch Step 24.jpg|center|550px]]",
+                    "# Attach the white wire to the neutral bar.<br><br>[[Image:Install a Transfer Switch Step 27.jpg|center|550px]]",
+                    "# Join the green wire to the ground bar.<br><br>[[Image:Install a Transfer Switch Step 28.jpg|center|550px]]",
+                    "# Put the cover back on the main circuit breaker, and restore the power supply.<br><br>[[Image:Install a Transfer Switch Step 29.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Install a Transfer Switch Step 1.jpg|right|300px]]Decide which home conveniences you'd like to be generator accessible.",
+                    "# [[Image:Install a Transfer Switch Step 2.jpg|right|300px]]Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.",
+                    "# [[Image:Install a Transfer Switch Step 3.jpg|right|300px]]Confirm that the amperage of needed power does not exceed the generator's capacity.",
+                    "# [[Image:Install a Transfer Switch Step 4.jpg|right|300px]]Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.",
+                    "# [[Image:Install a Transfer Switch Step 5.jpg|right|300px]]Cut the main power supply to the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 6.jpg|right|300px]]Take the cover off of the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 7.jpg|right|300px]]Remove the cover of the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 8.jpg|right|300px]]Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.",
+                    "# [[Image:Install a Transfer Switch Step 9.jpg|right|300px]]Attach the connectors to the wires using PVC cement.",
+                    "# [[Image:Install a Transfer Switch Step 10.jpg|right|300px]]Use the transfer switch's wiring harness to connect the unit to the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 11.jpg|right|300px]]Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.",
+                    "# [[Image:Install a Transfer Switch Step 12.jpg|right|300px]]Affix the transfer switch to the wall, using mounting screws.",
+                    "# [[Image:Install a Transfer Switch Step 16.jpg|right|300px]]Label each wire according to the appliance it supplies.",
+                    "# [[Image:Install a Transfer Switch Step 17.jpg|right|300px]]Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 18.jpg|right|300px]]Join the white wire to the neutral area located in the middle of the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 21.jpg|right|300px]]Confirm that the power supply is cut off at the main load center.",
+                    "# [[Image:Install a Transfer Switch Step 22.jpg|right|300px]]Detach the assigned wires for each appliance from the circuit breaker box.",
+                    "# [[Image:Install a Transfer Switch Step 23.jpg|right|300px]]Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# [[Image:Install a Transfer Switch Step 24.jpg|right|300px]]Attach to the transfer switch using wire connectors and again referring to the labels.",
+                    "# [[Image:Install a Transfer Switch Step 27.jpg|right|300px]]Attach the white wire to the neutral bar.",
+                    "# [[Image:Install a Transfer Switch Step 28.jpg|right|300px]]Join the green wire to the ground bar.",
+                    "# [[Image:Install a Transfer Switch Step 29.jpg|right|300px]]Put the cover back on the main circuit breaker, and restore the power supply."
+                ]
+            }
+        },
+        {
+            "id": "12723215",
+            "user": "Wikiphoto",
+            "timestamp": "09:02, 18 February 2014",
+            "anon": false,
+            "size": "(5,381 bytes)",
+            "change": 1289,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Install a Transfer Switch Step 1.jpg|right|300px]]Decide which home conveniences you'd like to be generator accessible.",
+                    "# [[Image:Install a Transfer Switch Step 2.jpg|right|300px]]Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.",
+                    "# [[Image:Install a Transfer Switch Step 3.jpg|right|300px]]Confirm that the amperage of needed power does not exceed the generator's capacity.",
+                    "# [[Image:Install a Transfer Switch Step 4.jpg|right|300px]]Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.",
+                    "# [[Image:Install a Transfer Switch Step 5.jpg|right|300px]]Cut the main power supply to the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 6.jpg|right|300px]]Take the cover off of the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 7.jpg|right|300px]]Remove the cover of the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 8.jpg|right|300px]]Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.",
+                    "# [[Image:Install a Transfer Switch Step 9.jpg|right|300px]]Attach the connectors to the wires using PVC cement.",
+                    "# [[Image:Install a Transfer Switch Step 10.jpg|right|300px]]Use the transfer switch's wiring harness to connect the unit to the circuit breaker.",
+                    "# [[Image:Install a Transfer Switch Step 11.jpg|right|300px]]Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.",
+                    "# [[Image:Install a Transfer Switch Step 12.jpg|right|300px]]Affix the transfer switch to the wall, using mounting screws.",
+                    "# [[Image:Install a Transfer Switch Step 16.jpg|right|300px]]Label each wire according to the appliance it supplies.",
+                    "# [[Image:Install a Transfer Switch Step 17.jpg|right|300px]]Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 18.jpg|right|300px]]Join the white wire to the neutral area located in the middle of the transfer switch.",
+                    "# [[Image:Install a Transfer Switch Step 21.jpg|right|300px]]Confirm that the power supply is cut off at the main load center.",
+                    "# [[Image:Install a Transfer Switch Step 22.jpg|right|300px]]Detach the assigned wires for each appliance from the circuit breaker box.",
+                    "# [[Image:Install a Transfer Switch Step 23.jpg|right|300px]]Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# [[Image:Install a Transfer Switch Step 24.jpg|right|300px]]Attach to the transfer switch using wire connectors and again referring to the labels.",
+                    "# [[Image:Install a Transfer Switch Step 27.jpg|right|300px]]Attach the white wire to the neutral bar.",
+                    "# [[Image:Install a Transfer Switch Step 28.jpg|right|300px]]Join the green wire to the ground bar.",
+                    "# [[Image:Install a Transfer Switch Step 29.jpg|right|300px]]Put the cover back on the main circuit breaker, and restore the power supply."
+                ],
+                "removed": [
+                    "# Decide which home conveniences you'd like to be generator accessible.",
+                    "# Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.",
+                    "# Confirm that the amperage of needed power does not exceed the generator's capacity.",
+                    "# Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.",
+                    "# Cut the main power supply to the circuit breaker.",
+                    "# Take the cover off of the circuit breaker.",
+                    "# Remove the cover of the transfer switch.",
+                    "# Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.",
+                    "# Attach the connectors to the wires using PVC cement.",
+                    "# Use the transfer switch's wiring harness to connect the unit to the circuit breaker.",
+                    "# Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.",
+                    "# Affix the transfer switch to the wall, using mounting screws.",
+                    "# Label each wire according to the appliance it supplies.",
+                    "# Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.",
+                    "# Join the white wire to the neutral area located in the middle of the transfer switch.",
+                    "# Confirm that the power supply is cut off at the main load center.",
+                    "# Detach the assigned wires for each appliance from the circuit breaker box.",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# Attach to the transfer switch using wire connectors and again referring to the labels.",
+                    "# Attach the white wire to the neutral bar.",
+                    "# Join the green wire to the ground bar.",
+                    "# Put the cover back on the main circuit breaker, and restore the power supply."
+                ]
+            }
+        },
+        {
+            "id": "9826890",
+            "user": "Votebot",
+            "timestamp": "15:43, 7 May 2013",
+            "anon": false,
+            "size": "(4,092 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Hailey",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8051858",
+            "user": "EpcotMagic",
+            "timestamp": "03:34, 8 July 2012",
+            "anon": false,
+            "size": "(4,093 bytes)",
+            "change": 50,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install a Transfer Switch|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6597615",
+            "user": "FireCloud",
+            "timestamp": "02:13, 6 September 2011",
+            "anon": false,
+            "size": "(4,043 bytes)",
+            "change": 44,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Home Improvements and Repairs]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6334743",
+            "user": "Wendy Weaver",
+            "timestamp": "13:21, 11 July 2011",
+            "anon": false,
+            "size": "(3,999 bytes)",
+            "change": 79,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Add a Breaker Switch|How to Add a Breaker Switch]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6193009",
+            "user": "WRM",
+            "timestamp": "08:00, 13 June 2011",
+            "anon": false,
+            "size": "(3,920 bytes)",
+            "change": 3920,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Installing a transfer switch refers to the process of adding the necessary trigger to change your energy to generator power in the event of an electrical outage. This task requires experience with electrical wiring. Follow these steps for how to install a transfer switch.",
+                    "== Steps ==",
+                    "# Decide which home conveniences you'd like to be generator accessible.",
+                    "#* This usually includes the refrigerator, stove and other essential appliances.",
+                    "# Access your fuse box and calculate the amount of power that will be demanded of the generator to run each of these devices separately.",
+                    "# Confirm that the amperage of needed power does not exceed the generator's capacity.",
+                    "#* The combined amperage may exceed the generator's capacity as long as the instruments aren't running simultaneously.",
+                    "# Assign each appliance a number which coincides with its circuit and label this in the circuit breaker of the switch.",
+                    "#* The sizes of the assigned breakers must be equal in both the transfer switch and the home's load center.",
+                    "# Cut the main power supply to the circuit breaker.",
+                    "# Take the cover off of the circuit breaker.",
+                    "# Remove the cover of the transfer switch.",
+                    "# Trim the unit's insulating tube, which will cover the wires, to a workable length using a utility knife.",
+                    "# Attach the connectors to the wires using PVC cement.",
+                    "# Use the transfer switch's wiring harness to connect the unit to the circuit breaker.",
+                    "#* The wires should be drawn through 1 of 3 knockouts located on the underside of the switch. They should join the circuit breaker through a knockout found at the bottom of the box.",
+                    "# Lift the transfer switch up to the wall where it is to be installed and label the placement of the mounting screws.",
+                    "#* The transfer switch should be placed roughly 1 1/2 feet (45.72 cm) away from the midpoint of the main circuit breaker.",
+                    "# Affix the transfer switch to the wall, using mounting screws.",
+                    "# Pull the bundle of wires through the insulating tube.",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# Join the wires to the transfer switch referring to the labels created previously.",
+                    "# Label each wire according to the appliance it supplies.",
+                    "# Attach the miscellaneous black wires to the Utility 2-pole breaker in the transfer switch.",
+                    "# Join the white wire to the neutral area located in the middle of the transfer switch.",
+                    "# Join the green wire to the grounding bar on the left side of the lower portion of the switch.",
+                    "# Put the cover back on the transfer switch.",
+                    "# Confirm that the power supply is cut off at the main load center.",
+                    "# Detach the assigned wires for each appliance from the circuit breaker box.",
+                    "# Trim 5/8 inch (1.59 cm) from the covering of each individual wire.",
+                    "# Attach to the transfer switch using wire connectors and again referring to the labels.",
+                    "# Join the miscellaneous black wires to the new 2-pole breaker.",
+                    "# Detach the 2 individual pole breakers from where each assigned appliance wire was removed.",
+                    "# Attach the white wire to the neutral bar.",
+                    "# Join the green wire to the ground bar.",
+                    "#* If a ground bar is not present, join the green wire to the neutral bar.",
+                    "# Put the cover back on the main circuit breaker, and restore the power supply.",
+                    "# Convert to generator power and return to utility power as per manufacturer's instructions.",
+                    "",
+                    "== Tips ==",
+                    "* Always be sure to follow the manufacturer's instructions for tips for successful installation.",
+                    "* You may need to refer to building codes regarding the wiring specifications in your home.",
+                    "* The wires referred to in these instructions may differ in various transfer switch models.",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.arcadvisor.com/pdf/instrume.pdf http://www.arcadvisor.com/pdf/instrume.pdf]",
+                    "* [http://www.generatorjoe.net/html/reliance/installinstructions.html http://www.generatorjoe.net/html/reliance/installinstructions.html]",
+                    "* [http://www.gen-tran.com/assets/pdfs/MTSinstall.pdf http://www.gen-tran.com/assets/pdfs/MTSinstall.pdf]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

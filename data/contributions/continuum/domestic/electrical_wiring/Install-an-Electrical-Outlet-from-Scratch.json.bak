@@ -1,0 +1,1800 @@
+{
+    "title": "Install-an-Electrical-Outlet-from-Scratch",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:13:54.949703",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34087274",
+            "user": "MiscBot",
+            "timestamp": "17:42, 19 February 2026",
+            "anon": false,
+            "size": "(14,182 bytes)",
+            "change": -115,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet]]"
+                ]
+            }
+        },
+        {
+            "id": "34071228",
+            "user": "MiscBot",
+            "timestamp": "00:23, 19 February 2026",
+            "anon": false,
+            "size": "(14,297 bytes)",
+            "change": 117,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34055369",
+            "user": "MiscBot",
+            "timestamp": "17:06, 18 February 2026",
+            "anon": false,
+            "size": "(14,180 bytes)",
+            "change": -117,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet]]"
+                ]
+            }
+        },
+        {
+            "id": "33513409",
+            "user": "WikiHow Projects",
+            "timestamp": "22:39, 25 June 2025",
+            "anon": false,
+            "size": "(14,297 bytes)",
+            "change": -68,
+            "summary": "(Removing broken links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "{{reflist}}",
+                    "*http://www.howtowireahouse.com/How_To_Wire_A_Receptacle_Outlet.html"
+                ]
+            }
+        },
+        {
+            "id": "32651932",
+            "user": "WikiHow Horizon",
+            "timestamp": "02:50, 15 July 2024",
+            "anon": false,
+            "size": "(14,365 bytes)",
+            "change": 6,
+            "summary": "(Updated link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*https://www.southwire.com/romex-products"
+                ],
+                "removed": [
+                    "*http://www.southwire.com/romex.htm"
+                ]
+            }
+        },
+        {
+            "id": "31472422",
+            "user": "Zygomatt",
+            "timestamp": "01:15, 27 March 2023",
+            "anon": false,
+            "size": "(14,359 bytes)",
+            "change": -53,
+            "summary": "(Reverted edits by Pocket sparky (Talk); changed back to last version by Seymour Edits)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[http://www.pocketsparky.com learn to troubleshoot]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "31472406",
+            "user": "Pocket sparky",
+            "timestamp": "01:09, 27 March 2023",
+            "anon": false,
+            "size": "(14,412 bytes)",
+            "change": 53,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zygomatt",
+            "exact_contribution": {
+                "added": [
+                    "[http://www.pocketsparky.com learn to troubleshoot]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29815076",
+            "user": "Seymour Edits",
+            "timestamp": "15:54, 17 August 2021",
+            "anon": false,
+            "size": "(14,359 bytes)",
+            "change": 207,
+            "summary": "(Added expert refs)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zygomatt",
+            "exact_contribution": {
+                "added": [
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.<ref>[v161834_b01]. 16 August 2021.</ref>[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|center]]",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.<ref>[v161834_b01]. 16 August 2021.</ref>[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|center]]",
+                    "#* The ground wire is usually green and connects to the green terminal.<ref>[v161834_b01]. 16 August 2021.</ref>",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|center]]",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29089284",
+            "user": "UnitGuardian",
+            "timestamp": "10:27, 13 January 2021",
+            "anon": false,
+            "size": "(14,152 bytes)",
+            "change": 31,
+            "summary": "(Adding conversion template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a {{convert|1/2|in|cm|adj=on|1|sigfig=2}} (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex® cable and is the same size as the k o removed.[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex® cable and is the same size as the k o removed.[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26918667",
+            "user": "Votebot",
+            "timestamp": "10:07, 8 August 2019",
+            "anon": false,
+            "size": "(14,121 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*You may purchase an outlet tester quite inexpensively at a home center or hardware store. This device has several lights to indicate proper outlet wiring and fault conditions so you know you did the job correctly."
+                ],
+                "removed": [
+                    "*You may purchase an outlet tester quite inexpensively at a home center or hardware store. This device has several lights to indicate proper outlet wiring and fault conditions so you know you did the job correctly."
+                ]
+            }
+        },
+        {
+            "id": "26298031",
+            "user": "MiscBot",
+            "timestamp": "02:54, 29 March 2019",
+            "anon": false,
+            "size": "(14,121 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "22700677",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "22:14, 26 June 2017",
+            "anon": false,
+            "size": "(14,132 bytes)",
+            "change": -81,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling]]"
+                ]
+            }
+        },
+        {
+            "id": "21297773",
+            "user": "Flickety",
+            "timestamp": "21:47, 7 November 2016",
+            "anon": false,
+            "size": "(14,213 bytes)",
+            "change": 15,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "20771088",
+            "user": "Votebot",
+            "timestamp": "08:59, 15 August 2016",
+            "anon": false,
+            "size": "(14,198 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on {{convert|16|in|cm|adj=on|1}} centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ],
+                "removed": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on {{convert|16|in|cm|adj=on|1}} centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ]
+            }
+        },
+        {
+            "id": "19705691",
+            "user": "WikiHowUser20230227233914",
+            "timestamp": "02:25, 25 February 2016",
+            "anon": false,
+            "size": "(14,198 bytes)",
+            "change": -2,
+            "summary": "(RCP reverted edits by 71.210.232.210 (talk) to  revision #19682688 by 76.232.84.66)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex® cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ],
+                "removed": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex® cable (depending on how much load you need from the outlet) and either a new work bo\\\\x, or an old work box."
+                ]
+            }
+        },
+        {
+            "id": "19705658",
+            "user": "71.210.232.210",
+            "timestamp": "02:15, 25 February 2016",
+            "anon": true,
+            "size": "(14,200 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex® cable (depending on how much load you need from the outlet) and either a new work bo\\\\x, or an old work box."
+                ],
+                "removed": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex® cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ]
+            }
+        },
+        {
+            "id": "19682688",
+            "user": "76.232.84.66",
+            "timestamp": "22:39, 20 February 2016",
+            "anon": true,
+            "size": "(14,198 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps:  minor typo correction)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If your panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.[[Image:Install an Electrical Outlet from Scratch Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.[[Image:Install an Electrical Outlet from Scratch Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19403320",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "04:58, 12 January 2016",
+            "anon": false,
+            "size": "(14,197 bytes)",
+            "change": -182,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet]]",
+                    "*[[Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling]]"
+                ],
+                "removed": [
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*[[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ]
+            }
+        },
+        {
+            "id": "18826894",
+            "user": "Votebot",
+            "timestamp": "09:39, 10 November 2015",
+            "anon": false,
+            "size": "(14,379 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ],
+                "removed": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ]
+            }
+        },
+        {
+            "id": "18110503",
+            "user": "MiscBot",
+            "timestamp": "15:26, 29 July 2015",
+            "anon": false,
+            "size": "(14,379 bytes)",
+            "change": -350,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex® cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex® cable, which is one size larger than 14-2 Romex® cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex®, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 Romex® circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|center]]",
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.[[Image:Install an Electrical Outlet from Scratch Step 2.jpg|center]]",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex® cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|center]]",
+                    "#Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.[[Image:Install an Electrical Outlet from Scratch Step 4.jpg|center]]",
+                    "#Support cable.  Starting at the panel, route the Romex® to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex® coil on the floor at the panel. Staple the Romex® (where exposed) neatly back to the panel driving insulated staples every three feet and {{convert|18|in|cm|1}} from every box that has cable clamps / connector or {{convert|12|in|cm|1}} from those without a clamp / connector.[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center]]",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back {{convert|8|in|cm|1}} of jacket.[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|center]]",
+                    "#Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).[[Image:Install an Electrical Outlet from Scratch Step 7.jpg|center]]",
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|center]]",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|center]]",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the Romex® cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|center]]",
+                    "#Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.[[Image:Install an Electrical Outlet from Scratch Step 11.jpg|center]]",
+                    "#Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.[[Image:Install an Electrical Outlet from Scratch Step 12.jpg|center]]",
+                    "#Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.[[Image:Install an Electrical Outlet from Scratch Step 13.jpg|center]]",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex® cable and is the same size as the k o removed.[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center]]",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex® length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex® connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|center]]",
+                    "#Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.[[Image:Install an Electrical Outlet from Scratch Step 16.jpg|center]]",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS {{convert|12|in|cm|1}} or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|center]]",
+                    "#Connect to the circuit breaker.  The 14-2 Romex®'s black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex®, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|center]]",
+                    "#Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.[[Image:Install an Electrical Outlet from Scratch Step 19.jpg|center]]",
+                    "#Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.[[Image:Install an Electrical Outlet from Scratch Step 20.jpg|center]]",
+                    "#Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.[[Image:Install an Electrical Outlet from Scratch Step 21.jpg|center]]",
+                    "#Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.[[Image:Install an Electrical Outlet from Scratch Step 22.jpg|center]]",
+                    "#Have you work inspected by your locality's code enforcement office.[[Image:Install an Electrical Outlet from Scratch Step 23.jpg|center]]",
+                    "#Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.[[Image:Install an Electrical Outlet from Scratch Step 24.jpg|center]]",
+                    "#Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures![[Image:Install an Electrical Outlet from Scratch Step 25.jpg|center]]"
+                ],
+                "removed": [
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex® cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex® cable, which is one size larger than 14-2 Romex® cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex®, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 Romex® circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|center|550px]]",
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 2.jpg|center|550px]]",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex® cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|center|550px]]",
+                    "#Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 4.jpg|center|550px]]",
+                    "#Support cable.  Starting at the panel, route the Romex® to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex® coil on the floor at the panel. Staple the Romex® (where exposed) neatly back to the panel driving insulated staples every three feet and {{convert|18|in|cm|1}} from every box that has cable clamps / connector or {{convert|12|in|cm|1}} from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back {{convert|8|in|cm|1}} of jacket.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|center|550px]]",
+                    "#Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 7.jpg|center|550px]]",
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|center|550px]]",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|center|550px]]",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the Romex® cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|center|550px]]",
+                    "#Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 11.jpg|center|550px]]",
+                    "#Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 12.jpg|center|550px]]",
+                    "#Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 13.jpg|center|550px]]",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex® cable and is the same size as the k o removed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center|550px]]",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex® length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex® connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|center|550px]]",
+                    "#Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 16.jpg|center|550px]]",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS {{convert|12|in|cm|1}} or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|center|550px]]",
+                    "#Connect to the circuit breaker.  The 14-2 Romex®'s black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex®, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|center|550px]]",
+                    "#Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 19.jpg|center|550px]]",
+                    "#Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 20.jpg|center|550px]]",
+                    "#Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 21.jpg|center|550px]]",
+                    "#Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 22.jpg|center|550px]]",
+                    "#Have you work inspected by your locality's code enforcement office.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 23.jpg|center|550px]]",
+                    "#Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 24.jpg|center|550px]]",
+                    "#Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures!<br><br>[[Image:Install an Electrical Outlet from Scratch Step 25.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15816402",
+            "user": "MiscBot",
+            "timestamp": "22:40, 5 November 2014",
+            "anon": false,
+            "size": "(14,729 bytes)",
+            "change": 74,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Support cable.  Starting at the panel, route the Romex® to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex® coil on the floor at the panel. Staple the Romex® (where exposed) neatly back to the panel driving insulated staples every three feet and {{convert|18|in|cm|1}} from every box that has cable clamps / connector or {{convert|12|in|cm|1}} from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back {{convert|8|in|cm|1}} of jacket.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|center|550px]]",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS {{convert|12|in|cm|1}} or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|center|550px]]",
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on {{convert|16|in|cm|adj=on|1}} centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ],
+                "removed": [
+                    "#Support cable.  Starting at the panel, route the Romex® to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex® coil on the floor at the panel. Staple the Romex® (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back 8 inches of jacket.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|center|550px]]",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS 12 inches or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|center|550px]]",
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on 16 inch centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ]
+            }
+        },
+        {
+            "id": "13083142",
+            "user": "Votebot",
+            "timestamp": "16:43, 25 March 2014",
+            "anon": false,
+            "size": "(14,655 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*You may purchase an outlet tester quite inexpensively at a home center or hardware store. This device has several lights to indicate proper outlet wiring and fault conditions so you know you did the job correctly.",
+                    "*Check your local code for Ground Fault and Arc Fault protection requirements.",
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ],
+                "removed": [
+                    "*You may purchase an outlet tester quite inexpensively at a home center or hardware store. This device has several lights to indicate proper outlet wiring and fault conditions so you know you did the job correctly.",
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution.",
+                    "*Check your local code for Ground Fault and Arc Fault protection requirements."
+                ]
+            }
+        },
+        {
+            "id": "11917742",
+            "user": "Jamie",
+            "timestamp": "17:49, 26 November 2013",
+            "anon": false,
+            "size": "(14,655 bytes)",
+            "change": -2,
+            "summary": "(Reverted edits by 209.118.96.26 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]"
+                ],
+                "removed": [
+                    "*[[Add an Electrical Outlet to yourself|How to Add an Electrical Outlet to a Wall]]"
+                ]
+            }
+        },
+        {
+            "id": "11917212",
+            "user": "209.118.96.26",
+            "timestamp": "17:33, 26 November 2013",
+            "anon": true,
+            "size": "(14,657 bytes)",
+            "change": 2,
+            "summary": "(→‎Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*[[Add an Electrical Outlet to yourself|How to Add an Electrical Outlet to a Wall]]"
+                ],
+                "removed": [
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]"
+                ]
+            }
+        },
+        {
+            "id": "11518464",
+            "user": "Votebot",
+            "timestamp": "22:41, 23 October 2013",
+            "anon": false,
+            "size": "(14,655 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*Use ONLY breakers determined by the manufacturer for use in the panel (on the inside of the panel door there should at least be the manufacturer's name and model of the panel, and most likely, a list of all breakers approved for use)."
+                ],
+                "removed": [
+                    "*Use ONLY breakers determined by the manufacturer for use in the panel (on the inside of the panel door there should at least be the manufacturer's name and model of the panel, and most likely, a list of all breakers approved for use)."
+                ]
+            }
+        },
+        {
+            "id": "11340885",
+            "user": "Votebot",
+            "timestamp": "16:30, 8 October 2013",
+            "anon": false,
+            "size": "(14,655 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on 16 inch centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ],
+                "removed": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on 16 inch centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ]
+            }
+        },
+        {
+            "id": "11298144",
+            "user": "74.131.255.50",
+            "timestamp": "13:56, 3 October 2013",
+            "anon": true,
+            "size": "(14,655 bytes)",
+            "change": 119,
+            "summary": "(Mark the word Romex as a registered brand name that it is.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex® cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex® cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex® cable, which is one size larger than 14-2 Romex® cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex®, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 Romex® circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|center|550px]]",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex® cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|center|550px]]",
+                    "#Support cable.  Starting at the panel, route the Romex® to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex® coil on the floor at the panel. Staple the Romex® (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the Romex® cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|center|550px]]",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex® cable and is the same size as the k o removed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center|550px]]",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex® length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex® connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|center|550px]]",
+                    "#Connect to the circuit breaker.  The 14-2 Romex®'s black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex®, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|center|550px]]",
+                    "*Romex® connectors",
+                    "*http://www.southwire.com/romex.htm",
+                    "*/Romex® is a registered trademark of Southwire®"
+                ],
+                "removed": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    "",
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|center|550px]]",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|center|550px]]",
+                    "#Support cable.  Starting at the panel, route the Romex to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex coil on the floor at the panel. Staple the Romex (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the romex cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|center|550px]]",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex cable and is the same size as the k o removed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center|550px]]",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|center|550px]]",
+                    "#Connect to the circuit breaker.  The 14-2 Romex's black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|center|550px]]",
+                    "",
+                    "*Romex connectors"
+                ]
+            }
+        },
+        {
+            "id": "10910962",
+            "user": "Votebot",
+            "timestamp": "17:45, 24 August 2013",
+            "anon": false,
+            "size": "(14,536 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*Connect the black wire to the circuit breaker last"
+                ],
+                "removed": [
+                    "*Connect the black wire to the circuit breaker last"
+                ]
+            }
+        },
+        {
+            "id": "10716842",
+            "user": "MiscBot",
+            "timestamp": "05:12, 7 August 2013",
+            "anon": false,
+            "size": "(14,536 bytes)",
+            "change": -14,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ],
+                "removed": [
+                    "{{nointroimg}}In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ]
+            }
+        },
+        {
+            "id": "10426227",
+            "user": "Wikiphoto",
+            "timestamp": "23:59, 9 July 2013",
+            "anon": false,
+            "size": "(14,550 bytes)",
+            "change": -58,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    ""
+                ],
+                "removed": [
+                    "[[Image:Install an Electrical Outlet from Scratch Intro.jpg|right|300px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ]
+            }
+        },
+        {
+            "id": "10412358",
+            "user": "Wikiphoto",
+            "timestamp": "21:12, 8 July 2013",
+            "anon": false,
+            "size": "(14,608 bytes)",
+            "change": 226,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|center|550px]]",
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 2.jpg|center|550px]]",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|center|550px]]",
+                    "#Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 4.jpg|center|550px]]",
+                    "#Support cable.  Starting at the panel, route the Romex to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex coil on the floor at the panel. Staple the Romex (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|center|550px]]",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back 8 inches of jacket.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|center|550px]]",
+                    "#Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).<br><br>[[Image:Install an Electrical Outlet from Scratch Step 7.jpg|center|550px]]",
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|center|550px]]",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|center|550px]]",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the romex cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|center|550px]]",
+                    "#Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 11.jpg|center|550px]]",
+                    "#Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 12.jpg|center|550px]]",
+                    "#Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 13.jpg|center|550px]]",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex cable and is the same size as the k o removed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|center|550px]]",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|center|550px]]",
+                    "#Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 16.jpg|center|550px]]",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS 12 inches or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|center|550px]]",
+                    "#Connect to the circuit breaker.  The 14-2 Romex's black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|center|550px]]",
+                    "#Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 19.jpg|center|550px]]",
+                    "#Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 20.jpg|center|550px]]",
+                    "#Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 21.jpg|center|550px]]",
+                    "#Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 22.jpg|center|550px]]",
+                    "#Have you work inspected by your locality's code enforcement office.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 23.jpg|center|550px]]",
+                    "#Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.<br><br>[[Image:Install an Electrical Outlet from Scratch Step 24.jpg|center|550px]]",
+                    "#Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures!<br><br>[[Image:Install an Electrical Outlet from Scratch Step 25.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|right|300px]]Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).",
+                    "#  [[Image:Install an Electrical Outlet from Scratch Step 2.jpg|right|300px]]Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|right|300px]]Run a cable from the circuit breaker panel to your new outlet location.  Romex cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 4.jpg|right|300px]]Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|right|300px]]Support cable.  Starting at the panel, route the Romex to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex coil on the floor at the panel. Staple the Romex (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|right|300px]]Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back 8 inches of jacket.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 7.jpg|right|300px]]Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|right|300px]]Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|right|300px]]Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|right|300px]]Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the romex cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 11.jpg|right|300px]]Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 12.jpg|right|300px]]Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 13.jpg|right|300px]]Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|right|300px]]Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex cable and is the same size as the k o removed.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|right|300px]]Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 16.jpg|right|300px]]Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|right|300px]]Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS 12 inches or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|right|300px]]Connect to the circuit breaker.  The 14-2 Romex's black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 19.jpg|right|300px]]Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 20.jpg|right|300px]]Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 21.jpg|right|300px]]Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 22.jpg|right|300px]]Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 23.jpg|right|300px]]Have you work inspected by your locality's code enforcement office.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 24.jpg|right|300px]]Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 25.jpg|right|300px]]Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures!"
+                ]
+            }
+        },
+        {
+            "id": "10412356",
+            "user": "Wikiphoto",
+            "timestamp": "21:12, 8 July 2013",
+            "anon": false,
+            "size": "(14,382 bytes)",
+            "change": 1890,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Install an Electrical Outlet from Scratch Intro.jpg|right|300px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 1.jpg|right|300px]]Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).",
+                    "#  [[Image:Install an Electrical Outlet from Scratch Step 2.jpg|right|300px]]Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 3.jpg|right|300px]]Run a cable from the circuit breaker panel to your new outlet location.  Romex cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 4.jpg|right|300px]]Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 5.jpg|right|300px]]Support cable.  Starting at the panel, route the Romex to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex coil on the floor at the panel. Staple the Romex (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 6.jpg|right|300px]]Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back 8 inches of jacket.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 7.jpg|right|300px]]Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 8.jpg|right|300px]]Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 9.jpg|right|300px]]Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 10.jpg|right|300px]]Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the romex cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 11.jpg|right|300px]]Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 12.jpg|right|300px]]Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 13.jpg|right|300px]]Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 14.jpg|right|300px]]Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex cable and is the same size as the k o removed.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 15.jpg|right|300px]]Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 16.jpg|right|300px]]Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 17.jpg|right|300px]]Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS 12 inches or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 18.jpg|right|300px]]Connect to the circuit breaker.  The 14-2 Romex's black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 19.jpg|right|300px]]Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 20.jpg|right|300px]]Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 21.jpg|right|300px]]Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 22.jpg|right|300px]]Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 23.jpg|right|300px]]Have you work inspected by your locality's code enforcement office.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 24.jpg|right|300px]]Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.",
+                    "#[[Image:Install an Electrical Outlet from Scratch Step 25.jpg|right|300px]]Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures!"
+                ],
+                "removed": [
+                    "[[Image:Electrical Outlet.jpg|thumb|right|251px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).",
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work.",
+                    "#Run a cable from the circuit breaker panel to your new outlet location.  Romex cable (\"Type NM\" cable) is the easiest to work and least expensive way to accomplish this, and is the wiring method used in this wiki.",
+                    "#Size circuit breaker for wire size.  If a 14-2 cable is run from the panel to the outlet, then a 15 amp circuit breaker is the largest that can be used to protect that circuit. If a 12-2 cable is run from the panel to the outlet, then a 20 amp circuit breaker is the largest that can be installed to protect the circuit.",
+                    "#Support cable.  Starting at the panel, route the Romex to the outlet. Pull about a foot of cable beyond the outlet and the balance of the Romex coil on the floor at the panel. Staple the Romex (where exposed) neatly back to the panel driving insulated staples every three feet and 18 inches from every box that has cable clamps / connector or 12 inches from those without a clamp / connector.",
+                    "#Prepare the cable for entry into the box.  The end of the cable needs to be carefully stripped of the outer jacket prior to installing into the box. Strip back 8 inches of jacket.",
+                    "#Install cable into box.  Push the cable into the box opening / connector until ''only'' about an inch of ''jacketed'' cable is inside the box. The outlet location needs to have the wire installed into an old work/new work box which is either to be cut in to wallboard or nailed to the wall/stud.  Use of plastic or fiber electrical boxes are quicker to work than steel boxes because they do not require additional grounding.  A steel box must be grounded so that it does not require the device for it to be grounded (pigtailing the ground to the device AND the box solves this).",
+                    "#Connect the neutral wire to the device.  The white wire (neutral wire) needs to be secured under either silver screw on the side of the receptacle.",
+                    "#Connect the \"hot\" wire to the device.  The black wire (\"hot\" wire) needs to be secured under either gold screw on the opposite side of the neutral wire.",
+                    "#Connect the ground wire.  If a metal box, cut (2) eight inch lengths of bare copper wire, and combine them and the bare wire from the romex cable under a properly sized wirenut.  The free end of one wire will connect to the green ground screw of the outlet, and the other free end is to be connected to the metal box with a green screw (expressly for that purpose) or other approved means (special clips, etc). If a plastic (or other non-conductive material) box is used, simply connect the bare copper wire directly under the green screw of the outlet.",
+                    "#Gently fold the wires to the rear of the box and secure the outlet to the box and attach the wall plate.",
+                    "#Set the ''Main'' / ''Service Disconnect'' switch to in the electrical panel to the OFF position.",
+                    "#Remove the panel cover, and set aside.  Even though you have turned off the power, there are STILL live parts in the panel, particularly the large cable that feeds the main / service disconnect switch.  Exercise extreme caution working near this switch.",
+                    "#Remove a 7/8\" diameter pre-punched \"knock out\" from the panel. This 7/8\" opening in the trade is called a \"half inch k o\"  You need to have a 1/2 inch (trade size) connector to insert in the k o, to transition the cable from outside the panel to the inside.  These are available in a variety of styles, and materials.  The easiest to install are the low profile plastic push in type. Regardless of type, use the type that is suitable for \"NM\" Type (Non-Metallic) or Romex cable and is the same size as the k o removed.",
+                    "#Cut cable to length.  Allow plenty of cable for use in making up the inside the panel by tripling the panel's longest dimension for the Romex length inside the panel. (24\" by 15\" panel would need 24\" x 3 = 72\" or 6 feet of slack).  Again, strip the entire jacket ''except to allow for about an inch of jacket cable inside the panel''.  Install the Romex connector into the panel's 1/2\" k o according to instructions.  Wrap the end of the cable with a couple of turns of electrical tape.  Push the cable through the connector and help pull it with your other hand once it enters the panel. This push / pull motion speeds installation and reduces risk of damaging the insulation. Once about an inch of jacketed cable is INSIDE the panel, stop advancing cable, and secure it within 18\" of the panel with an insulated staple.",
+                    "#Inspect the panel.  The panel has one or more terminal bars to the left and / or right or bottom of the circuit breakers.  Look carefully at the bar(s).  Determine if you have: two or more bars and that the white wires are NOT mixed with bare / green wires. (this arrangement has separate neutral and ground bars); or if you have one or two bars that has both whites and bare / green wires mixed in both bars (this arrangement has combined neutral and ground bars, and more common in typical residential settings). Regardless of which type you have, you ''must'' maintain the integrity of the grounding and neutral systems by duplicating the termination scheme outlined below.",
+                    "#Connect the neutral and ground wires.  The white and ground (bare) wires are to be secured under the bar(s) in the main panel. Cut these wires to length PLUS 12 inches or so of slack.  If you have the combined neutral and ground style, secure these two wires in terminals as close together as possible.  Do not install BOTH wires in the same terminal!  If you have separate neutral and ground bars, install the wires in the respective terminal bar.",
+                    "#Connect to the circuit breaker.  The 14-2 Romex's black wire is to be connected to a 15 amp breaker.  If you ran 12-2 Romex, up to a 20 amp breaker can be connected.  Cut this wire so as to allow it to be connected to ANY breaker position in the panel - plus a little slack.  You never know when you might have to move the circuit to a different location in the panel, having enough wire to do so will make the job much easier. Set the handle of the circuit breaker to OFF. Install the circuit breaker into the panel by first hooking or clipping to the grounded or insulated slot or rail (manufacturer dependent) on the outboard side of the insulated electrical contacts, then line up the clip or slot of the circuit breaker with the electrical contact rail or bus.  Press the circuit breaker firmly into the panel.  Some styles \"click\" into place others just \"bottom out\".  If the new circuit breaker is \"even\" and aligned with adjacent circuit breakers, it is most likely properly seated.",
+                    "#Remove circuit breaker k o from panel cover.  Once complete, you will probably have to remove the appropriate rectangular metal k o for the new circuit breaker on the cover of the panel.  After doing so, reinstall the cover onto the panel.",
+                    "#Restore power to the panel.  Do not stand in front of the panel, but rather to the SIDE of the panel and set the ''Main'' / ''Service Disconnect'' switch to ON. Next, move the new circuit breaker handle to ON and it will power up your electrical outlet that you have just installed.",
+                    "#Test the work.  Use a meter or plug the appliance or device into the outlet and turn it on.  Verify that it is working and return to the panel.  Listen for hum and or crackling.  Either condition is indicative of a potential connection failure or heat build up.  Label the circuit breaker.",
+                    "#Do NOT install breakers from another manufacturer because \"they fit\" or even packaging states it is for use in these panels.  Installing these breakers VOIDS the UL listing and can result in insurance problems if there is an electrical fire.",
+                    "#Have you work inspected by your locality's code enforcement office.",
+                    "#Plug circuits installed in bedrooms require use of an Arc Fault circuit breaker(s).  Plugs installed in but not limited to basements, garages, outdoors, or indoors and accessible from grade, bathrooms, etc. will require a Ground Fault circuit breaker or plug, UNLESS it is dedicated to a \"fixed\" appliance such as a washer, refrigerator, etc.",
+                    "#Arc Fault and Ground Fault circuits are not compatible with fluorescent light fixtures!"
+                ]
+            }
+        },
+        {
+            "id": "10267363",
+            "user": "Votebot",
+            "timestamp": "15:58, 23 June 2013",
+            "anon": false,
+            "size": "(12,492 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on 16 inch centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ],
+                "removed": [
+                    "*When cutting into the wall for your new outlet, make sure there is not stud in the way.  Studs are usually located on 16 inch centers. You can locate the studs with an inexpensive stud finder available from your local home center or hardware store."
+                ]
+            }
+        },
+        {
+            "id": "9983849",
+            "user": "Votebot",
+            "timestamp": "16:43, 24 May 2013",
+            "anon": false,
+            "size": "(12,492 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*Be sure to turn the main breaker OFF whenever working inside your electrical panel."
+                ],
+                "removed": [
+                    "*Be sure to turn the main breaker OFF whenever working inside your electrical panel."
+                ]
+            }
+        },
+        {
+            "id": "9768711",
+            "user": "Votebot",
+            "timestamp": "16:02, 1 May 2013",
+            "anon": false,
+            "size": "(12,492 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Jamie",
+            "exact_contribution": {
+                "added": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ],
+                "removed": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ]
+            }
+        },
+        {
+            "id": "6587311",
+            "user": "68.39.130.207",
+            "timestamp": "18:17, 3 September 2011",
+            "anon": true,
+            "size": "(12,492 bytes)",
+            "change": -9,
+            "summary": "(Refrigerator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*[[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ],
+                "removed": [
+                    "",
+                    "*  [[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*  [[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*  [[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*  [[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ]
+            }
+        },
+        {
+            "id": "6550932",
+            "user": "Readingirl",
+            "timestamp": "01:33, 26 August 2011",
+            "anon": false,
+            "size": "(12,501 bytes)",
+            "change": 1,
+            "summary": "(Reverted edits by 71.91.77.178 (Talk); changed back to last version by Cece123)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6550916",
+            "user": "71.91.77.178",
+            "timestamp": "01:29, 26 August 2011",
+            "anon": true,
+            "size": "(12,500 bytes)",
+            "change": -1,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Readingirl",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6378541",
+            "user": "Cece123",
+            "timestamp": "20:02, 20 July 2011",
+            "anon": false,
+            "size": "(12,501 bytes)",
+            "change": 422,
+            "summary": "(Reverted edits by 24.89.244.189 (Talk); changed back to last version by Maluniu)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Readingirl",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Electrical Outlet.jpg|thumb|right|251px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box.",
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).",
+                    "",
+                    "*  [[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*  [[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*  [[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*  [[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ],
+                "removed": [
+                    "box.",
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outl range / welding outlet is beyond the scope of this article, but is similar).",
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*[[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ]
+            }
+        },
+        {
+            "id": "6378184",
+            "user": "24.89.244.189",
+            "timestamp": "18:51, 20 July 2011",
+            "anon": true,
+            "size": "(12,079 bytes)",
+            "change": -255,
+            "summary": "(mitchellk)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Cece123",
+            "exact_contribution": {
+                "added": [
+                    "box."
+                ],
+                "removed": [
+                    "[[Image:Electrical Outlet.jpg|thumb|right|251px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ]
+            }
+        },
+        {
+            "id": "6378182",
+            "user": "24.89.244.189",
+            "timestamp": "18:50, 20 July 2011",
+            "anon": true,
+            "size": "(12,334 bytes)",
+            "change": -167,
+            "summary": "(mitchelkl)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Cece123",
+            "exact_contribution": {
+                "added": [
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outl range / welding outlet is beyond the scope of this article, but is similar).",
+                    "*[[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*[[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*[[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*[[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ],
+                "removed": [
+                    "#Determine load.  Based on the load you want to serve, (meaning how much current in amps will be needed from the outlets) a 14-2 Romex cable, which is a relatively thin cable suitable for up to 15 amps (or 12 amps ''continuous'' load) could be selected.  Otherwise, a 12-2 Romex cable, which is one size larger than 14-2 Romex cable and suitable for up to 20 amp circuits (or 16 amps ''continuous'' load) is the other size cable installed for outlets.  Most home's outlets are wired with 14-2 Romex, that supply up to 8 outlets per circuit.  Oversimplified, the National Electrical Code (NEC) mandates outlets in the kitchen and dining room must be served by 20 amp circuits.  A 12-2 romex circuit would provide for this (installing a 30 amp dryer outlet or 50 amp range / welding outlet is beyond the scope of this article, but is similar).",
+                    "",
+                    "*  [[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*  [[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*  [[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*  [[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ]
+            }
+        },
+        {
+            "id": "6302276",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "19:54, 4 July 2011",
+            "anon": false,
+            "size": "(12,501 bytes)",
+            "change": 389,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*  [[Add an Electrical Outlet to a Wall|How to Add an Electrical Outlet to a Wall]]",
+                    "*  [[Replace a Defective Electrical Switch or Outlet|How to Replace a Defective Electrical Switch or Outlet]]",
+                    "*  [[Wire Two Electrical Outlets in a Box|How to Wire Two Electrical Outlets in a Box]]",
+                    "*  [[Make a Plug Adapter for Traveling|How to Make a Plug Adapter for Traveling]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6141691",
+            "user": "Harri",
+            "timestamp": "15:17, 5 June 2011",
+            "anon": false,
+            "size": "(12,112 bytes)",
+            "change": -5,
+            "summary": "(Reverted edits by 132.79.10.15 (Talk); changed back to last version by 167.83.101.23)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ],
+                "removed": [
+                    "#  Insert penis into breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ]
+            }
+        },
+        {
+            "id": "6141648",
+            "user": "132.79.10.15",
+            "timestamp": "15:06, 5 June 2011",
+            "anon": true,
+            "size": "(12,117 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Harri",
+            "exact_contribution": {
+                "added": [
+                    "#  Insert penis into breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ],
+                "removed": [
+                    "#  Inspect penis into breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ]
+            }
+        },
+        {
+            "id": "6141642",
+            "user": "132.79.10.15",
+            "timestamp": "15:05, 5 June 2011",
+            "anon": true,
+            "size": "(12,118 bytes)",
+            "change": 6,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Harri",
+            "exact_contribution": {
+                "added": [
+                    "#  Inspect penis into breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ],
+                "removed": [
+                    "#  Inspect your breaker box prior to running a new cable to make sure you have additional space for breakers. It is best to identify what type of panel you have and whether or not the breakers are available or obsolete. Part of this process involves removing the dead front assembly (the door over your breakers) and looking inside at the bussing. This can potentially be dangerous if you accidentally short out the metal plate to the bussing in the panel. Depending on the type of panel it can be relatively simple or very hazardous. Murray or Bryant type panels usually are the safest to install into. If you panel happens to be a Zinsco, Stablok or Pushmatic you can set yourself up for serious problems trying to do this yourself. For instance on Pushmatic panels the bussing is usually energized. Without the proper knowledge you could accidentally short the bussing out and cause a catastrophic failure (phase to ground or phase to phase short). The symmetrical amperage faults available are only limited by the primary fusing on the transformer and the overall design of the system. Just something to keep in mind when doing this job yourself. I would recommend disconnecting power and removing the meter and ring if possible to eliminate hazards. This too is often outside the scope of do it yourself type work."
+                ]
+            }
+        },
+        {
+            "id": "5996613",
+            "user": "167.83.101.23",
+            "timestamp": "21:22, 11 May 2011",
+            "anon": true,
+            "size": "(12,112 bytes)",
+            "change": -3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Harri",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Electrical Outlet.jpg|thumb|right|251px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box."
+                ],
+                "removed": [
+                    "[[Image:Electrical Outlet.jpg|thumb|right|251px]]In order to install an electrical outlet and circuit from scratch you need a roll of 14-2 or 12-2 Romex cable (depending on how much load you need from the outlet) and either a new work box, or an old work box. 33"
+                ]
+            }
+        },
+        {
+            "id": "5996610",
+            "user": "167.83.101.23",
+            "timestamp": "21:22, 11 May 2011",
+            "anon": true,
+            "size": "(12,115 bytes)",
+            "change": -424,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Harri"
+        },
+        {
+            "id": "5827678",
+            "user": "Ttrimm",
+            "timestamp": "04:40, 5 April 2011",
+            "anon": false,
+            "size": "(12,539 bytes)",
+            "change": 66,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install an Electrical Outlet from Scratch|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5826380",
+            "user": "216.255.54.248",
+            "timestamp": "22:09, 4 April 2011",
+            "anon": true,
+            "size": "(12,473 bytes)",
+            "change": 14,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Outlet cover"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5195436",
+            "user": "Journeymam",
+            "timestamp": "08:05, 30 October 2010",
+            "anon": false,
+            "size": "(12,459 bytes)",
+            "change": 86,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel. Remove rings and other metal from your hands and wear gloves and proceed with caution."
+                ],
+                "removed": [
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel."
+                ]
+            }
+        },
+        {
+            "id": "5195404",
+            "user": "Bokehmon",
+            "timestamp": "08:00, 30 October 2010",
+            "anon": false,
+            "size": "(12,373 bytes)",
+            "change": 0,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "5195401",
+            "user": "Journeymam",
+            "timestamp": "07:58, 30 October 2010",
+            "anon": false,
+            "size": "(12,373 bytes)",
+            "change": 141,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Be Sure to turn the main breaker OFF whenever working inside your electrical panel.",
+                    "*Even with the main breaker turned OFF there is still power going to the main breaker unless there is an outside switch before the panel."
+                ],
+                "removed": [
+                    "*Be Sure to turn the main breaker OFF whenever working inside your electrical panel"
+                ]
+            }
+        },
+        {
+            "id": "4529228",
+            "user": "Rogersan",
+            "timestamp": "19:59, 25 April 2010",
+            "anon": false,
+            "size": "(12,232 bytes)",
+            "change": -45,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "4529217",
+            "user": "Rogersan",
+            "timestamp": "19:57, 25 April 2010",
+            "anon": false,
+            "size": "(12,277 bytes)",
+            "change": 1365,
+            "summary": "(Added image: 480VArcFlash1.jpg)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "4518479",
+            "user": "Bor",
+            "timestamp": "19:09, 22 April 2010",
+            "anon": false,
+            "size": "(10,912 bytes)",
+            "change": 49,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "4410428",
+            "user": "216.55.52.198",
+            "timestamp": "17:53, 22 March 2010",
+            "anon": true,
+            "size": "(10,863 bytes)",
+            "change": -507,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion"
+        },
+        {
+            "id": "4295396",
+            "user": "209.91.177.9",
+            "timestamp": "19:37, 14 February 2010",
+            "anon": true,
+            "size": "(11,370 bytes)",
+            "change": 0,
+            "summary": "(knifes to knives)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "4259907",
+            "user": "65.103.52.137",
+            "timestamp": "19:09, 3 February 2010",
+            "anon": true,
+            "size": "(11,370 bytes)",
+            "change": 257,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "4259889",
+            "user": "65.103.52.137",
+            "timestamp": "19:04, 3 February 2010",
+            "anon": true,
+            "size": "(11,113 bytes)",
+            "change": 184,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "4194095",
+            "user": "68.228.149.73",
+            "timestamp": "13:56, 13 January 2010",
+            "anon": true,
+            "size": "(10,929 bytes)",
+            "change": 66,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "2956597",
+            "user": "Editor590489584",
+            "timestamp": "05:00, 4 January 2009",
+            "anon": false,
+            "size": "(10,863 bytes)",
+            "change": -65,
+            "summary": "(Reverted edits by 208.58.33.219 (Talk); changed back to last version by Flickety)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "2956501",
+            "user": "208.58.33.219",
+            "timestamp": "04:37, 4 January 2009",
+            "anon": true,
+            "size": "(10,928 bytes)",
+            "change": 65,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Editor590489584"
+        },
+        {
+            "id": "2780638",
+            "user": "Flickety",
+            "timestamp": "06:05, 23 November 2008",
+            "anon": false,
+            "size": "(10,863 bytes)",
+            "change": -6,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Editor590489584"
+        },
+        {
+            "id": "2621114",
+            "user": "75.67.182.124",
+            "timestamp": "22:21, 8 October 2008",
+            "anon": true,
+            "size": "(10,869 bytes)",
+            "change": -8,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "1636330",
+            "user": "76.119.250.62",
+            "timestamp": "18:00, 2 February 2008",
+            "anon": true,
+            "size": "(10,877 bytes)",
+            "change": 12,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1567866",
+            "user": "Howtowireahouse",
+            "timestamp": "19:02, 15 January 2008",
+            "anon": false,
+            "size": "(10,865 bytes)",
+            "change": 90,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1437389",
+            "user": "Stevecon",
+            "timestamp": "22:59, 10 December 2007",
+            "anon": false,
+            "size": "(10,775 bytes)",
+            "change": 175,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1435110",
+            "user": "Stevecon",
+            "timestamp": "04:12, 10 December 2007",
+            "anon": false,
+            "size": "(10,600 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1434919",
+            "user": "Stevecon",
+            "timestamp": "02:54, 10 December 2007",
+            "anon": false,
+            "size": "(10,599 bytes)",
+            "change": 39,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1433395",
+            "user": "Stevecon",
+            "timestamp": "19:35, 9 December 2007",
+            "anon": false,
+            "size": "(10,560 bytes)",
+            "change": 844,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        },
+        {
+            "id": "1432906",
+            "user": "Stevecon",
+            "timestamp": "16:49, 9 December 2007",
+            "anon": false,
+            "size": "(9,716 bytes)",
+            "change": 181,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "1336681",
+            "user": "AznAcorn",
+            "timestamp": "06:44, 11 November 2007",
+            "anon": false,
+            "size": "(9,535 bytes)",
+            "change": -70,
+            "summary": "(Reverted edits by 122.167.150.150 (Talk); changed back to last version by Stevecon)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert"
+        },
+        {
+            "id": "1336325",
+            "user": "122.167.150.150",
+            "timestamp": "03:58, 11 November 2007",
+            "anon": true,
+            "size": "(9,605 bytes)",
+            "change": 70,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "906811",
+            "user": "Stevecon",
+            "timestamp": "12:07, 8 July 2007",
+            "anon": false,
+            "size": "(9,535 bytes)",
+            "change": -215,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "906797",
+            "user": "Stevecon",
+            "timestamp": "11:57, 8 July 2007",
+            "anon": false,
+            "size": "(9,750 bytes)",
+            "change": 236,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "906796",
+            "user": "Stevecon",
+            "timestamp": "11:55, 8 July 2007",
+            "anon": false,
+            "size": "(9,514 bytes)",
+            "change": -375,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "906793",
+            "user": "Stevecon",
+            "timestamp": "11:50, 8 July 2007",
+            "anon": false,
+            "size": "(9,889 bytes)",
+            "change": 4167,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "903307",
+            "user": "Stevecon",
+            "timestamp": "13:45, 7 July 2007",
+            "anon": false,
+            "size": "(5,722 bytes)",
+            "change": 1365,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "AznAcorn"
+        },
+        {
+            "id": "510590",
+            "user": "Dreamgal2",
+            "timestamp": "22:49, 28 January 2007",
+            "anon": false,
+            "size": "(4,357 bytes)",
+            "change": 436,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "409818",
+            "user": "Mxray",
+            "timestamp": "14:38, 30 November 2006",
+            "anon": false,
+            "size": "(3,921 bytes)",
+            "change": 160,
+            "summary": "(added to things you will neeed)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "409218",
+            "user": "Nvic",
+            "timestamp": "02:06, 30 November 2006",
+            "anon": false,
+            "size": "(3,761 bytes)",
+            "change": 168,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "409097",
+            "user": "Nvic",
+            "timestamp": "23:54, 29 November 2006",
+            "anon": false,
+            "size": "(3,593 bytes)",
+            "change": 221,
+            "summary": "(Added warning about electrocution and things needed list.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "408850",
+            "user": "PatrickMarks",
+            "timestamp": "21:26, 29 November 2006",
+            "anon": false,
+            "size": "(3,372 bytes)",
+            "change": 188,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "408832",
+            "user": "Mxray",
+            "timestamp": "21:16, 29 November 2006",
+            "anon": false,
+            "size": "(3,184 bytes)",
+            "change": 329,
+            "summary": "(Added more GFI info and a tip)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "408827",
+            "user": "129.59.235.128",
+            "timestamp": "21:12, 29 November 2006",
+            "anon": true,
+            "size": "(2,855 bytes)",
+            "change": 237,
+            "summary": "(Added info about GFI, caps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "408302",
+            "user": "Dreamgal2",
+            "timestamp": "14:27, 29 November 2006",
+            "anon": false,
+            "size": "(2,618 bytes)",
+            "change": 42,
+            "summary": "(category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "408036",
+            "user": "Davecrosby",
+            "timestamp": "10:07, 29 November 2006",
+            "anon": false,
+            "size": "(2,576 bytes)",
+            "change": -94,
+            "summary": "(Clean up)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion"
+        },
+        {
+            "id": "408003",
+            "user": "24.233.67.174",
+            "timestamp": "08:14, 29 November 2006",
+            "anon": true,
+            "size": "(2,670 bytes)",
+            "change": 2670,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        }
+    ],
+    "discussions": []
+}

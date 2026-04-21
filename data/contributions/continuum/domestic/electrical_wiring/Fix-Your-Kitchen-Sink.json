@@ -1,0 +1,996 @@
+{
+    "title": "Fix-Your-Kitchen-Sink",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:34:35.480380",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33180868",
+            "user": "MiscBot",
+            "timestamp": "19:05, 24 February 2025",
+            "anon": false,
+            "size": "(17,932 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "33024029",
+            "user": "WikiHow Horizon",
+            "timestamp": "11:08, 26 December 2024",
+            "anon": false,
+            "size": "(17,913 bytes)",
+            "change": -188,
+            "summary": "(Removing broken link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement. [[Image:Fix Your Kitchen Sink Step 15 Version 2.jpg|center]]",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model. [[Image:Fix Your Kitchen Sink Step 16 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15 Version 2.jpg|center]]",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32419294",
+            "user": "WikiHow Projects",
+            "timestamp": "23:29, 6 April 2024",
+            "anon": false,
+            "size": "(18,101 bytes)",
+            "change": -315,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].[[Image:Fix Your Kitchen Sink Step 1 Version 2.jpg|center]]",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.[[Image:Fix Your Kitchen Sink Step 2 Version 2.jpg|center]]",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.[[Image:Fix Your Kitchen Sink Step 3 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 1 Version 2.jpg|center]]",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 2 Version 2.jpg|center]]",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 3 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30186774",
+            "user": "Kirajan",
+            "timestamp": "05:43, 7 January 2022",
+            "anon": false,
+            "size": "(18,416 bytes)",
+            "change": -48,
+            "summary": "(moved 1.2 into a substep of 1.1)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*If the drain pipe itself isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer. That might be the source of the leak.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>"
+                ],
+                "removed": [
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29921116",
+            "user": "Kyle Hall",
+            "timestamp": "23:40, 24 September 2021",
+            "anon": false,
+            "size": "(18,464 bytes)",
+            "change": -108,
+            "summary": "(removed internal links in intro, reordered methods)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Washing hands, filling glasses and pots, rinsing produce, doing dishes — the kitchen sink sees a lot of action. So, a clog, a leaky faucet or drain, or some other problem can be a real disruption to your daily life. There are lots of ways a kitchen sink can break, and at least as many ways to fix one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the problem by ripping the sink out and starting fresh!",
+                    "===Fixing a Leaky Drain===",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 11 Version 2.jpg|center]]",
+                    "#*If you have old metal drain pipes covered in rust, you should consider replacing them. Check the rusted areas for leaks since this is commonly where they're found.",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12 Version 2.jpg|center]]",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 13 Version 2.jpg|center]]",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 14 Version 2.jpg|center]]",
+                    "#*If you're dealing with a very small leak, you may be able to fix it by applying clear silicone around the whole connection where the strainer meets the sink.",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15 Version 2.jpg|center]]",
+                    "#*Clear away any plumber’s putty residue around the rim of the sink opening.",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16 Version 2.jpg|center]]",
+                    "#*Clear away excess putty in the sink with your fingers, a plastic putty knife, and a wet rag.",
+                    "#*Test the new sink strainer by once again filling the sink, waiting several minutes, then dabbing a tissue around the connections."
+                ],
+                "removed": [
+                    "Washing hands, filling glasses and pots, rinsing produce, doing dishes — the kitchen sink sees a lot of action. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other problem can be a real disruption to your daily life. There are lots of ways a kitchen sink can break, and at least as many ways to fix one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the problem by [[Remove a Kitchen Sink|ripping the sink out]] and starting fresh!",
+                    "",
+                    "===Fixing a Leaky Drain===",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 11 Version 2.jpg|center]]",
+                    "#*If you have old metal drain pipes covered in rust, you should consider replacing them. Check the rusted areas for leaks since this is commonly where they're found.",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12 Version 2.jpg|center]]",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 13 Version 2.jpg|center]]",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 14 Version 2.jpg|center]]",
+                    "#*If you're dealing with a very small leak, you may be able to fix it by applying clear silicone around the whole connection where the strainer meets the sink.",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15 Version 2.jpg|center]]",
+                    "#*Clear away any plumber’s putty residue around the rim of the sink opening.",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16 Version 2.jpg|center]]",
+                    "#*Clear away excess putty in the sink with your fingers, a plastic putty knife, and a wet rag.",
+                    "#*Test the new sink strainer by once again filling the sink, waiting several minutes, then dabbing a tissue around the connections."
+                ]
+            }
+        },
+        {
+            "id": "29887071",
+            "user": "MiscBot",
+            "timestamp": "01:15, 15 September 2021",
+            "anon": false,
+            "size": "(18,572 bytes)",
+            "change": -12,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Drains]]"
+                ],
+                "removed": [
+                    "[[Category:Drains Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "29475149",
+            "user": "Seymour Edits",
+            "timestamp": "16:48, 22 April 2021",
+            "anon": false,
+            "size": "(18,584 bytes)",
+            "change": 80,
+            "summary": "(expert citations added)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Align a plunger over the drain opening.<ref>[v161713_b01]. 29 April 2021.</ref> Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 5 Version 2.jpg|center]]",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs.<ref>[v161713_b01]. 29 April 2021.</ref> For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 7 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 5 Version 2.jpg|center]]",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 7 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27929183",
+            "user": "Wikivisual",
+            "timestamp": "13:01, 1 April 2020",
+            "anon": false,
+            "size": "(18,504 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 27 Version 3.jpg|center]]",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 30 Version 3.jpg|center]]",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 34 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 27 Version 2.jpg|center]]",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 30 Version 2.jpg|center]]",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 34 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27861759",
+            "user": "Wikivisual",
+            "timestamp": "11:36, 16 March 2020",
+            "anon": false,
+            "size": "(18,504 bytes)",
+            "change": 2031,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 1 Version 2.jpg|center]]",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 2 Version 2.jpg|center]]",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 3 Version 2.jpg|center]]",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 4 Version 2.jpg|center]]",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 5 Version 2.jpg|center]]",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 6 Version 2.jpg|center]]",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 7 Version 2.jpg|center]]",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 8 Version 2.jpg|center]]",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 9 Version 2.jpg|center]]",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 10 Version 2.jpg|center]]",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 11 Version 2.jpg|center]]",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12 Version 2.jpg|center]]",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 13 Version 2.jpg|center]]",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 14 Version 2.jpg|center]]",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15 Version 2.jpg|center]]",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16 Version 2.jpg|center]]",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 17 Version 2.jpg|center]]",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 18 Version 2.jpg|center]]",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 19 Version 2.jpg|center]]",
+                    "#Remove one or both leaky handles on a compression faucet. Any [[Fix a Kitchen Faucet|kitchen faucet]] with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 20 Version 2.jpg|center]]",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 21 Version 2.jpg|center]]",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 22 Version 2.jpg|center]]",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 23 Version 2.jpg|center]]",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: it may be on the lower front or rear of the handle or under a  decorative cap which you can pop off to expose the allen screw.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 24 Version 2.jpg|center]]",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 25 Version 2.jpg|center]]",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 26 Version 2.jpg|center]]",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 27 Version 2.jpg|center]]",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 28 Version 2.jpg|center]]",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.[[Image:Fix Your Kitchen Sink Step 29 Version 2.jpg|center]]",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 30 Version 2.jpg|center]]",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 31 Version 2.jpg|center]]",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 32 Version 2.jpg|center]]",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 33 Version 2.jpg|center]]",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 34 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove one or both leaky handles on a compression faucet. Any [[Fix a Kitchen Faucet|kitchen faucet]] with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: it may be on the lower front or rear of the handle or under a  decorative cap which you can pop off to expose the allen screw.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27730555",
+            "user": "Wikiphoto",
+            "timestamp": "18:37, 14 February 2020",
+            "anon": false,
+            "size": "(16,473 bytes)",
+            "change": -1691,
+            "summary": "(Removing all images from article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove one or both leaky handles on a compression faucet. Any [[Fix a Kitchen Faucet|kitchen faucet]] with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: it may be on the lower front or rear of the handle or under a  decorative cap which you can pop off to expose the allen screw.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ],
+                "removed": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 1.jpg|center]]",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 2.jpg|center]]",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 3.jpg|center]]",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 4.jpg|center]]",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 5.jpg|center]]",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 6.jpg|center]]",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 7.jpg|center]]",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 8.jpg|center]]",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 9.jpg|center]]",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 10.jpg|center]]",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 11.jpg|center]]",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12.jpg|center]]",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 13.jpg|center]]",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 14.jpg|center]]",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15.jpg|center]]",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16.jpg|center]]",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 17.jpg|center]]",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 18.jpg|center]]",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 19.jpg|center]]",
+                    "#Remove one or both leaky handles on a compression faucet. Any [[Fix a Kitchen Faucet|kitchen faucet]] with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 20.jpg|center]]",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 21.jpg|center]]",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 22.jpg|center]]",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 23.jpg|center]]",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: it may be on the lower front or rear of the handle or under a  decorative cap which you can pop off to expose the allen screw.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 24.jpg|center]]",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 25.jpg|center]]",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 26.jpg|center]]",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 27.jpg|center]]",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 28.jpg|center]]",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.[[Image:Fix Your Kitchen Sink Step 29.jpg|center]]",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 30.jpg|center]]",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 31.jpg|center]]",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 32.jpg|center]]",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 33.jpg|center]]",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 34.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27628198",
+            "user": "WikiHaus Trainee",
+            "timestamp": "04:36, 22 January 2020",
+            "anon": false,
+            "size": "(18,164 bytes)",
+            "change": 25,
+            "summary": "(Adding relevant wikihow link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Remove one or both leaky handles on a compression faucet. Any [[Fix a Kitchen Faucet|kitchen faucet]] with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 20.jpg|center]]"
+                ],
+                "removed": [
+                    "#Remove one or both leaky handles on a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 20.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26285606",
+            "user": "MiscBot",
+            "timestamp": "01:58, 29 March 2019",
+            "anon": false,
+            "size": "(18,139 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "25074850",
+            "user": "WikiHow Expert Review",
+            "timestamp": "00:29, 14 August 2018",
+            "anon": false,
+            "size": "(18,148 bytes)",
+            "change": 1231,
+            "summary": "(Incorporating expert feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If you happen to have a shop vac it will be easier to remove the water with it instead. Many times you may even be able to unclog the drain by holding the nozzle close to the drain as you suck out the water.",
+                    "#*If you have a [[Fix-a-Garbage-Disposal|garbage disposal]], make sure it isn't the cause of the clog before moving on.",
+                    "#*Dissolve salt into your boiling water to make it more effective.",
+                    "#*If you have old metal drain pipes covered in rust, you should consider replacing them. Check the rusted areas for leaks since this is commonly where they're found.",
+                    "#*If you're dealing with a very small leak, you may be able to fix it by applying clear silicone around the whole connection where the strainer meets the sink.",
+                    "#*For mobile homes and some older homes that don't have shut off valves, you may need to turn off the water for the whole house.",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: it may be on the lower front or rear of the handle or under a  decorative cap which you can pop off to expose the allen screw.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 24.jpg|center]]",
+                    "#*If the undermount sink is installed in granite countertops, it may be held up with an epoxy. In this case, first make sure the sink is supported by wood braces below it and cut the epoxy where the sink meets the countertop with a linoleum knife. If this is too difficult, a heat gun may help to soften it."
+                ],
+                "removed": [
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 24.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24934508",
+            "user": "Seymour Edits",
+            "timestamp": "14:51, 20 July 2018",
+            "anon": false,
+            "size": "(16,917 bytes)",
+            "change": 140,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Fix-Your-Kitchen-Sink}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24093924",
+            "user": "WikiHow Intern",
+            "timestamp": "12:59, 24 February 2018",
+            "anon": false,
+            "size": "(16,777 bytes)",
+            "change": 19,
+            "summary": "(Add appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Sinks]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23706430",
+            "user": "Wikivisual",
+            "timestamp": "10:56, 12 December 2017",
+            "anon": false,
+            "size": "(16,758 bytes)",
+            "change": 1681,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 1.jpg|center]]",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 2.jpg|center]]",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>[[Image:Fix Your Kitchen Sink Step 3.jpg|center]]",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 4.jpg|center]]",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 5.jpg|center]]",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 6.jpg|center]]",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 7.jpg|center]]",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 8.jpg|center]]",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 9.jpg|center]]",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>[[Image:Fix Your Kitchen Sink Step 10.jpg|center]]",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 11.jpg|center]]",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 12.jpg|center]]",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 13.jpg|center]]",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 14.jpg|center]]",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 15.jpg|center]]",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>[[Image:Fix Your Kitchen Sink Step 16.jpg|center]]",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 17.jpg|center]]",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 18.jpg|center]]",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 19.jpg|center]]",
+                    "#Remove one or both leaky handles on a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 20.jpg|center]]",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 21.jpg|center]]",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 22.jpg|center]]",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 23.jpg|center]]",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 24.jpg|center]]",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>[[Image:Fix Your Kitchen Sink Step 25.jpg|center]]",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 26.jpg|center]]",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 27.jpg|center]]",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 28.jpg|center]]",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.[[Image:Fix Your Kitchen Sink Step 29.jpg|center]]",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 30.jpg|center]]",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 31.jpg|center]]",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 32.jpg|center]]",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 33.jpg|center]]",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>[[Image:Fix Your Kitchen Sink Step 34.jpg|center]]"
+                ],
+                "removed": [
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove one or both leaky handles on a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23540664",
+            "user": "Ludum Victorem",
+            "timestamp": "19:51, 11 November 2017",
+            "anon": false,
+            "size": "(15,077 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Empty the under sink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ],
+                "removed": [
+                    "#Empty the undersink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23535809",
+            "user": "Seymour Edits",
+            "timestamp": "17:12, 10 November 2017",
+            "anon": false,
+            "size": "(15,076 bytes)",
+            "change": 2959,
+            "summary": "(revised content to create more, shorter, and more singularly-focused steps throughout)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Washing hands, filling glasses and pots, rinsing produce, doing dishes — the kitchen sink sees a lot of action. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other problem can be a real disruption to your daily life. There are lots of ways a kitchen sink can break, and at least as many ways to fix one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the problem by [[Remove a Kitchen Sink|ripping the sink out]] and starting fresh!",
+                    "#Bail out any standing water in the sink. Use a cup or ladle before proceeding with your [[Unclog a Kitchen Sink|drain unclogging efforts]].<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help bust loose a clog. Start by sprinkling in 1 cup (225 g) of baking soda. Use a rubber spatula to help push it down if necessary. Then, pour 1 cup (250 ml) of white vinegar into the drain.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#*Put the stopper into the drain opening so the combination expands downward. Block both openings if it's a double sink.",
+                    "#Pour boiling water down the drain. Boil 4 cups (1 liter) of water while the baking soda and vinegar do their work for at least 5 minutes. Then pour the water down the drain quickly. Repeat the entire process if necessary.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if you haven’t done that yet.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Align a plunger over the drain opening. Make a good seal. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*If you have a double sink, plug up the other side with a wet rag. Or, you can do the same process on both sides with two plungers, with a friend or with both your hands holding a plunger.",
+                    "#Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend deep into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check for clogs in the removed section of drain pipe. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Reattach the drain pipe carefully. Then check for leaks and proper drainage. If you still have sink problems, call a pro.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Check the drain pipe connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Test the sink strainer for leaks. If the drain pipe isn’t leaking, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult the manufacturer’s instructions or online resources on [[Remove a Kitchen Sink Drain|identifying the strainer type and the locknut or bell housing]] that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Tighten up the sink strainer connectors you’ve identified. If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#Remove the sink strainer if it’s still leaking. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Clear away any plumber’s putty residue around the rim of the sink opening.",
+                    "#Install a new sink strainer. Form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim of the sink opening. Press the new sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions for your model.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Clear away excess putty in the sink with your fingers, a plastic putty knife, and a wet rag.",
+                    "#*Test the new sink strainer by once again filling the sink, waiting several minutes, then dabbing a tissue around the connections.",
+                    "#Plug up the drain with a stopper or rag. This is one of several precautions you should take before you begin tearing apart your faucet to [[Fix-a-Leaky-Faucet|fix a leak]]. You don’t want to lose anything down there during disassembly!<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Wrap the teeth of wrenches and pliers with duct tape. This will protect against damage to the faucet’s shiny finish. One layer of tape will do.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove one or both leaky handles on a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the process on the other handle if it’s also leaking.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Loosen the nut that holds the stem in place. Use a tape-wrapped wrench and turn counterclockwise. Pull out the stem.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Replace one or both rubber washers in the assembly. Install a new O-ring for leaky handles, or a seat washer for a leaky spout. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Reassemble the faucet handle. It’s the exact reverse process — so if you managed to pull out the faucet handle successfully, you can put it back in too! Turn the water lines back on, then try the faucet and check for leaks.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know [[Fix-a-Leaky-Faucet|what kind of faucet]] you have — either a “ball,” “cartridge,” or “ceramic disk” — you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*A ball faucet has a free-moving ball (usually rubber) that seats in a metal socket, similar to your shoulder or hip joint.",
+                    "#*A cartridge faucet has a cylindrical mechanism (the “cartridge”) that will pull out in one piece.",
+                    "#*A ceramic disk faucet contains a shorter cylinder with several neoprene sealing rings on its underside.",
+                    "#Get detailed instructions for your specific faucet type. Your repair procedure will vary depending on whether you have a ball, cartridge, or ceramic disc faucet. In any case, the repair will involve several detailed steps, but the overall tools and techniques are not beyond the capability of most homeowners. Use the product instructions for your faucet, or print out a [[Fix-a-Leaky-Faucet|high-quality online guide]] with detailed images and instructions on repairing a ball, cartridge, and/or ceramic disk faucet.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Empty the undersink cabinet and shut off the water. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by twisting the valves in the cabinet clockwise, then open the faucet to drain the lines.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*If you have a garbage disposal, shut of the power to it at your main breaker panel before your start loosening any pipes or supply lines.",
+                    "#Disconnect the drain pipe. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Disconnect the hot and cold water lines. These are the flexible metal tubes that connect each shut-off valve to the underside of the faucet. To disconnect them, loosen the nut above each valve with a wrench.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You’ll have to twist and contort the sink a bit in order to fit it through the opening. If your sink cabinet has a wide opening, you may be able to pull the sink out from below instead.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*You can pop up a top-mount sink and lift it out yourself, but this is also much easier with a helper.",
+                    "#Clean up the countertop around the sink opening. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the rim of the opening. Clean the de-caulked countertop with your regular cleaning agent, then let it dry completely before installing the new sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Be very careful with the blade or knife if you’re keeping the countertops — if you’re not, don’t worry about it!"
+                ],
+                "removed": [
+                    "Washing hands, filling glasses and pots, rinsing produce, doing dishes—the kitchen sink sees a lot of action. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other problem can be a real disruption to your daily life. There are lots of ways a kitchen sink can break, and at least as many ways to fix one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help [[Unclog a Kitchen Sink|bust loose a clog]]. Bail out any standing water in the sink with a cup or ladle before proceeding.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#*Sprinkle 1 cup (225 g) of baking soda into the drain. Use a rubber spatula to help push it down if necessary.",
+                    "#*Pour 1 cup (250 ml) of white vinegar into the drain. Put the stopper into the drain opening so the combination expands downward. Block both openings if it's a double sink.",
+                    "#*Boil 4 cups (1 liter) of water. After letting the baking soda and vinegar work for 5 minutes, pour the water down the drain quickly. Repeat the entire process if necessary.",
+                    "#Use one or two plungers. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. You can do the same process on both sides with two plungers, with a friend or with both your hands holding a plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if needed.",
+                    "#*Align the plunger over the drain opening. Make a good seal.",
+                    "#*Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Remove this section of pipe and check for clogs here. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.",
+                    "#*Reattach the pipes carefully, then check for leaks and proper drainage.",
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If you don’t find the leak here, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult [[Remove a Kitchen Sink Drain|How to Remove a Kitchen Sink Drain]] for instructions on identifying the strainer type and loosening the locknut or bell housing that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.",
+                    "#Reinstall your sink strainer, or install a new one. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Clear away any plumber’s putty residue around the rim of the sink opening. Then, form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim.",
+                    "#*Press the sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions. Clear away excess putty in the sink with your fingers, a plastic putty knife, and a wet rag.",
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.",
+                    "#*Plug up the drain with a stopper or rag. You don’t want to lose anything down there during disassembly!",
+                    "#*Wrap the teeth of any wrench or pliers you’ll be using with a layer of duct tape. This will protect against damage to the faucet’s shiny finish.",
+                    "#Replace the O-ring and/or seat washer in a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. And, most of the time, leaks are caused by faulty seat washers.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the whole process on the other handle as needed.",
+                    "#*Use a wrench to loosen the nut that holds the stem in place. Pull out the stem.",
+                    "#*Install a new O-ring for leaky handles, or a seat washer for a leaky spout, and reassemble the handle. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know what kind of faucet you have -- either a “ball,” “cartridge,” or “ceramic disk” -- you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*The different processes for identifying and repairing each of these three faucet types involve several steps, but the overall tools and techniques are not beyond the capability of most homeowners. Go to [[Fix-a-Leaky-Faucet|How to Fix a Leaky Faucet]] for detailed images and instructions on repairing ball, cartridge, and ceramic disk faucets.",
+                    "#Prepare your workspace. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by turning the valves in the cabinet, then open the faucet to drain the lines.",
+                    "#*If you have a garbage disposal, shut of the power to it at your main breaker panel.",
+                    "#Disconnect the drain pipe and water lines. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Disconnect the hot and cold water lines -- the flexible metal tubes above each shut-off valve -- by loosening the nut above each valve with a wrench.",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You can pop up a top-mount sink and lift it out yourself, but this is also much easier with a helper.",
+                    "#*After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the countertop opening. Be very careful if you’re keeping the countertops; if you’re not, don’t worry about it!<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23466421",
+            "user": "Seymour Edits",
+            "timestamp": "04:55, 29 October 2017",
+            "anon": false,
+            "size": "(12,117 bytes)",
+            "change": -79,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Washing hands, filling glasses and pots, rinsing produce, doing dishes—the kitchen sink sees a lot of action. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other problem can be a real disruption to your daily life. There are lots of ways a kitchen sink can break, and at least as many ways to fix one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!"
+                ],
+                "removed": [
+                    "You probably spend more time standing at your kitchen sink — washing hands, filling glasses and pots, rinsing produce, doing dishes, and so on — than you realize. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other kitchen sink problem can be a real disruption to you daily life. There are lots of ways a kitchen sink can “break,” and at least as many ways to “fix” one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!"
+                ]
+            }
+        },
+        {
+            "id": "23466409",
+            "user": "Seymour Edits",
+            "timestamp": "04:52, 29 October 2017",
+            "anon": false,
+            "size": "(12,196 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Use one or two plungers. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. You can do the same process on both sides with two plungers, with a friend or with both your hands holding a plunger.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>"
+                ],
+                "removed": [
+                    "#Use one or two plungers. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. Or, complete the following process on both sides with two plungers, and either both your hands or a friend’s help.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23464948",
+            "user": "Seymour Edits",
+            "timestamp": "22:16, 28 October 2017",
+            "anon": false,
+            "size": "(12,195 bytes)",
+            "change": 6,
+            "summary": "(reduction of parentheses; minor edits to 1.1-.3, 4.5-.6)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help [[Unclog a Kitchen Sink|bust loose a clog]]. Bail out any standing water in the sink with a cup or ladle before proceeding.<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#*Pour 1 cup (250 ml) of white vinegar into the drain. Put the stopper into the drain opening so the combination expands downward. Block both openings if it's a double sink.",
+                    "#Use one or two plungers. Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. Or, complete the following process on both sides with two plungers, and either both your hands or a friend’s help.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first.<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Loosen the nuts that connect the drain pipe, including the curved trap, at the sink drain and near the wall or floor. Use your hands for PVC connections or a pipe wrench for metal connections. Place a bucket beneath the drain pipe to catch any water that leaks out.",
+                    "#*Remove this section of pipe and check for clogs here. Remove them manually, with gloved fingers or simple tools like a bent clothes hanger or a piece of flexible tubing.",
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly but not excessively, by hand for PVC nuts or with a wrench for metal nuts. If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If you don’t find the leak here, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain, which is also known as a sink strainer.",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult [[Remove a Kitchen Sink Drain|How to Remove a Kitchen Sink Drain]] for instructions on identifying the strainer type and loosening the locknut or bell housing that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If the locknut or bell housing feels a bit loose, try tightening it -- securely but not excessively -- and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.",
+                    "#Reinstall your sink strainer, or install a new one. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer to pop it up and out of the sink. Tap it with a rubber mallet if it needs further encouragement.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Install a new O-ring for leaky handles, or a seat washer for a leaky spout, and reassemble the handle. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know what kind of faucet you have -- either a “ball,” “cartridge,” or “ceramic disk” -- you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Disconnect the drain pipe and water lines. A few inches below the underside of the sink, the metal sink strainer will meet the metal or PVC drain pipe. Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Disconnect the hot and cold water lines -- the flexible metal tubes above each shut-off valve -- by loosening the nut above each valve with a wrench.",
+                    "#*Removing an undermount requires a second set of hands to hold the sink up as you remove the clips. Recruit a buddy or put your teen to work!",
+                    "#Push up from underneath to lift out the sink. With an undermount, have your helper push up from below while you grab and lift from above. You can pop up a top-mount sink and lift it out yourself, but this is also much easier with a helper.",
+                    "#*After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the countertop opening. Be very careful if you’re keeping the countertops; if you’re not, don’t worry about it!<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*However, you will have to install a new faucet yourself. But with the product instructions and a little [[Install-a-Kitchen-Faucet|faucet installation help]] from wikiHow, you’ll be all set!",
+                    "#*Likewise, you’ll probably need to install a new [[Remove a Kitchen Sink Drain|sink strainer]], but you can handle that too!"
+                ],
+                "removed": [
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help [[Unclog a Kitchen Sink|bust loose a clog]]. Bail out any standing water in the sink with a cup or ladle, then:<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#*Pour 1 cup (250 ml) of white vinegar into the drain. Put the stopper into the drain opening (or both, if there’s two) so the combination expands downward.",
+                    "#Use a plunger (or two). Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. Or, complete the following process on both sides with two plungers, and either both your hands or a friend’s help:<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first:<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Using your hand (for PVC connections) or a pipe wrench (for metal), loosen the nuts that connect the drain pipe (including the curved trap) at the sink drain and near the wall or floor. Place a bucket beneath the drain pipe to catch any water that leaks out.",
+                    "#*Remove this section of pipe and check for clogs here. Remove them manually, with gloved fingers or simple tools (a bent clothes hanger, a piece of flexible tubing, etc.).",
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly (but not excessively) either by hand (for PVC nuts) or with a wrench (for metal nuts). If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If you don’t find the leak here, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain (often called the sink strainer).",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer (or sink drain) uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult [[Remove a Kitchen Sink Drain|How to Remove a Kitchen Sink Drain]] for instructions on identifying the strainer type and loosening the locknut or bell housing that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If the locknut or bell housing feels a bit loose, try tightening it (securely but not excessively) and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.",
+                    "#Reinstall your sink strainer, or install a new one. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer (tap it with a mallet if needed) to pop it up and out of the sink.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Install a new O-ring (for leaky handles) or seat washer (for a leaky spout) and reassemble the handle. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know what kind of faucet you have (either a “ball,” “cartridge,” or “ceramic disk”), you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#Disconnect the drain pipe and water lines. A few inches below the underside of the sink, the metal sink strainer (or sink drain) will meet the drain pipe (which will be made of either PVC or metal). Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Disconnect the hot and cold water lines (the flexible metal tubes above each shut-off valve) by loosening the nut above each valve with a wrench.",
+                    "#*Removing an undermount is far easier and safer if you have a second set of hands to hold the sink while you’re working. Recruit a buddy or put your teen to work!",
+                    "#Push up from underneath to lift out the sink. Once again, having a helper will make this easier, especially if you’re worried about potentially scratching up your countertop. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the countertop opening. Be very careful if you’re keeping the countertops; if you’re not, don’t worry about it!<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*However, you will have to install a new faucet (or re-install the old one) yourself. But with the product instructions and a little [[Install-a-Kitchen-Faucet|faucet installation help]] from wikiHow, you’ll be all set!",
+                    "#*Likewise, you’ll probably need to install a new [[Remove a Kitchen Sink Drain|sink strainer]] (or sink drain), but you can handle that too!"
+                ]
+            }
+        },
+        {
+            "id": "23462515",
+            "user": "Sergeantpro",
+            "timestamp": "09:41, 28 October 2017",
+            "anon": false,
+            "size": "(12,189 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your under-sink cabinet while the water is running. If you find the culprit, try tightening the connection firmly (but not excessively) either by hand (for PVC nuts) or with a wrench (for metal nuts). If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>"
+                ],
+                "removed": [
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your undersink cabinet while the water is running. If you find the culprit, try tightening the connection firmly (but not excessively) either by hand (for PVC nuts) or with a wrench (for metal nuts). If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23459951",
+            "user": "Onealbraydon",
+            "timestamp": "19:40, 27 October 2017",
+            "anon": false,
+            "size": "(12,188 bytes)",
+            "change": 31,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "You probably spend more time standing at your kitchen sink — washing hands, filling glasses and pots, rinsing produce, doing dishes, and so on — than you realize. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other kitchen sink problem can be a real disruption to you daily life. There are lots of ways a kitchen sink can “break,” and at least as many ways to “fix” one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!",
+                    "[[Category:Drains Maintenance]]"
+                ],
+                "removed": [
+                    "You probably spend more time standing at your kitchen sink — washing hands, filling glasses and pots, rinsing produce, doing dishes, and so on — than you realize. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other kitchen sink problem can be a real disruption to you daily life. There are lots of ways a kitchen sink can “break,” and at least as many ways to “fix” one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!"
+                ]
+            }
+        },
+        {
+            "id": "23459624",
+            "user": "WikiHowUser20230227233914",
+            "timestamp": "18:22, 27 October 2017",
+            "anon": false,
+            "size": "(12,157 bytes)",
+            "change": 0,
+            "summary": "(Reverted edits by Dust2dust (Talk); changed back to last version by Seymour Edits)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ],
+                "removed": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref> #*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ]
+            }
+        },
+        {
+            "id": "23459616",
+            "user": "Dust2dust",
+            "timestamp": "18:21, 27 October 2017",
+            "anon": false,
+            "size": "(12,157 bytes)",
+            "change": 0,
+            "summary": "(RCP reverted edits by Seymour Edits (talk) to  revision #23459421 by WRM)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref> #*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ],
+                "removed": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ]
+            }
+        },
+        {
+            "id": "23459438",
+            "user": "Seymour Edits",
+            "timestamp": "17:50, 27 October 2017",
+            "anon": false,
+            "size": "(12,157 bytes)",
+            "change": 0,
+            "summary": "(format error in 3.1)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20230227233914",
+            "exact_contribution": {
+                "added": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ],
+                "removed": [
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref> #*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines."
+                ]
+            }
+        },
+        {
+            "id": "23459421",
+            "user": "WRM",
+            "timestamp": "17:45, 27 October 2017",
+            "anon": false,
+            "size": "(12,157 bytes)",
+            "change": 12157,
+            "summary": "(new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Dust2dust",
+            "exact_contribution": {
+                "added": [
+                    "You probably spend more time standing at your kitchen sink — washing hands, filling glasses and pots, rinsing produce, doing dishes, and so on — than you realize. So, a [[Unclog a Kitchen Sink|clog]], a leaky [[Fix a Leaky Faucet|faucet]] or [[Remove a Kitchen Sink Drain|drain]], or some other kitchen sink problem can be a real disruption to you daily life. There are lots of ways a kitchen sink can “break,” and at least as many ways to “fix” one. Some will require a plumber’s expertise, but you can handle many of the common issues yourself. You can even fix the thing by [[Remove a Kitchen Sink|ripping it out]] and starting fresh!",
+                    "==Steps==",
+                    "===Unclogging the Drain===",
+                    "#Dump baking soda and vinegar into the drain. This combination is great for making science experiment volcanoes, and those same reactive properties can help [[Unclog a Kitchen Sink|bust loose a clog]]. Bail out any standing water in the sink with a cup or ladle, then:<ref>http://www.urbangreengirl.com/2008/11/28/how-to-unclog-your-sink-with-vinegar-and-baking-soda/</ref>",
+                    "#*Sprinkle 1 cup (225 g) of baking soda into the drain. Use a rubber spatula to help push it down if necessary.",
+                    "#*Pour 1 cup (250 ml) of white vinegar into the drain. Put the stopper into the drain opening (or both, if there’s two) so the combination expands downward.",
+                    "#*Boil 4 cups (1 liter) of water. After letting the baking soda and vinegar work for 5 minutes, pour the water down the drain quickly. Repeat the entire process if necessary.",
+                    "#Use a plunger (or two). Your toilet plunger will work, but you may want to consider where it’s been and buy a kitchen-specific plunger. If you have a double sink, plug up the other side with a wet rag. Or, complete the following process on both sides with two plungers, and either both your hands or a friend’s help:<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Fill the sink about one-third full with hot water. Bail out any cold, backed-up water if needed.",
+                    "#*Align the plunger over the drain opening. Make a good seal.",
+                    "#*Work the plunger up and down. Be vigorous, but don’t lift the plunger off the sink bottom and break the seal.",
+                    "#*Add more hot water if it slowly drains away as you work. Keep plunging until the drain is clear or you decide it’s time to try a new method.",
+                    "#Disconnect the drain pipe to use a cable auger. Also known as a plumber’s (or pipe) snake, a cable auger will spin and extend into the pipe, then retract and pull out any clogs. For the best results, you should disconnect the drain pipe under your sink first:<ref>https://www.thisoldhouse.com/how-to/clear-any-clogged-drain</ref>",
+                    "#*Using your hand (for PVC connections) or a pipe wrench (for metal), loosen the nuts that connect the drain pipe (including the curved trap) at the sink drain and near the wall or floor. Place a bucket beneath the drain pipe to catch any water that leaks out.",
+                    "#*Remove this section of pipe and check for clogs here. Remove them manually, with gloved fingers or simple tools (a bent clothes hanger, a piece of flexible tubing, etc.).",
+                    "#Extend and retract the auger to pull out any clogs. [[Unclog a Kitchen Sink|Feed the auger]] into the pipe opening that extends into the wall or floor. Follow the specific product instructions for extending and retracting the auger.",
+                    "#*Reattach the pipes carefully, then check for leaks and proper drainage.",
+                    "",
+                    "===Fixing a Leaky Drain===",
+                    "#Check the drain connections. If you can’t see where the leak is coming from, press a clean tissue around each drain pipe connection in your undersink cabinet while the water is running. If you find the culprit, try tightening the connection firmly (but not excessively) either by hand (for PVC nuts) or with a wrench (for metal nuts). If that doesn’t work, try disconnecting and reconnecting, and potentially replacing, the pipes and/or nuts.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If you don’t find the leak here, plug the sink, fill it with water, and wait 5-10 minutes. Run a clean tissue around the underside of the sink where it meets the metal sink drain (often called the sink strainer).",
+                    "#Identify your sink strainer and its connectors. The metal sink strainer (or sink drain) uses pressure connections to create a watertight seal around the sink opening from above and below. There are three main types of sink strainers: locknut, locknut with screws, and bell washer. Consult [[Remove a Kitchen Sink Drain|How to Remove a Kitchen Sink Drain]] for instructions on identifying the strainer type and loosening the locknut or bell housing that holds it in place.<ref>https://www.familyhandyman.com/plumbing/how-to-replace-a-kitchen-sink-basket-strainer/view-all/</ref>",
+                    "#*If the locknut or bell housing feels a bit loose, try tightening it (securely but not excessively) and see if that stops the leak. Usually, however, a poor plumber’s putty seal is the culprit and you’ll have to pull out the sink strainer.",
+                    "#Reinstall your sink strainer, or install a new one. After removing the locknut or bell housing that holds the strainer into place from below, press upward on the sink strainer (tap it with a mallet if needed) to pop it up and out of the sink.<ref>https://www.todayshomeowner.com/how-to-remove-and-install-a-kitchen-sink-strainer/7/</ref>",
+                    "#*Clear away any plumber’s putty residue around the rim of the sink opening. Then, form a half-inch diameter ring of new plumber’s putty to place around the clean, dry rim.",
+                    "#*Press the sink strainer down into the plumber’s putty firmly, and tighten the locknut or bell housing from below as per the appropriate instructions. Clear away excess putty in the sink with your fingers, a plastic putty knife, and a wet rag.",
+                    "",
+                    "===Repairing a Leaky Faucet===",
+                    "#Take preventative measures before tearing apart your faucet. Nothing will ruin a [[Fix-a-Leaky-Faucet|quick faucet fix]] like losing a tiny but critical part down the drain, scratching up the chrome finish with your wrench, or unleashing a geyser of water that soaks your entire kitchen. Taking a few simple measures beforehand can save you a lot of time and trouble afterward.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref> #*Turn off the water to the faucet. There should be two shut-off valves beneath the sink, one each for hot and cold. Turn the faucet handles to make sure both hot and cold are off, and to get rid of excess water in the lines.",
+                    "#*Plug up the drain with a stopper or rag. You don’t want to lose anything down there during disassembly!",
+                    "#*Wrap the teeth of any wrench or pliers you’ll be using with a layer of duct tape. This will protect against damage to the faucet’s shiny finish.",
+                    "#Replace the O-ring and/or seat washer in a compression faucet. Any kitchen faucet with separate handles for hot and cold is a compression faucet. And, most of the time, leaks are caused by faulty seat washers.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*Remove a handle by popping off the decorative (“H” or “C”) cap and loosening the screw beneath. Repeat the whole process on the other handle as needed.",
+                    "#*Use a wrench to loosen the nut that holds the stem in place. Pull out the stem.",
+                    "#*Install a new O-ring (for leaky handles) or seat washer (for a leaky spout) and reassemble the handle. Both are rubber, but the O-ring is thinner. Take them to the hardware store if you need to find a match.",
+                    "#Remove the handle of a single-handle faucet to investigate. Unless you already know what kind of faucet you have (either a “ball,” “cartridge,” or “ceramic disk”), you’ll need to look at the inner workings to figure it out.  Unscrew and remove the handle itself: pop the decorative cap to expose a screw, if necessary.<ref>http://www.thisoldhouse.com/toh/article/0,,193895,00.html</ref>",
+                    "#*The different processes for identifying and repairing each of these three faucet types involve several steps, but the overall tools and techniques are not beyond the capability of most homeowners. Go to [[Fix-a-Leaky-Faucet|How to Fix a Leaky Faucet]] for detailed images and instructions on repairing ball, cartridge, and ceramic disk faucets.",
+                    "#*That said, there’s no shame in calling a plumber if you’re not sure what you’re dealing with!",
+                    "",
+                    "===Replacing the Entire Sink===",
+                    "#Prepare your workspace. Before you [[Remove-a-Kitchen-Sink|tear out the old sink]], clear out all the cleaning bottles, buckets, pots and pans, or whatever else is in the cabinet underneath. Place old towels over the bottom of the cabinet to sop up excess water. Turn off the hot and cold water lines by turning the valves in the cabinet, then open the faucet to drain the lines.",
+                    "#*If you have a garbage disposal, shut of the power to it at your main breaker panel.",
+                    "#Disconnect the drain pipe and water lines. A few inches below the underside of the sink, the metal sink strainer (or sink drain) will meet the drain pipe (which will be made of either PVC or metal). Loosen the nut that connects them, either by hand (for PVC nuts) or with a wrench (for metal). There will be two of these connections if you have a double sink.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Disconnect the hot and cold water lines (the flexible metal tubes above each shut-off valve) by loosening the nut above each valve with a wrench.",
+                    "#Disconnect the [[Remove-a-Garbage-Disposal|garbage disposal]], if you’re saving it. How the disposal is connected to the sink varies based on brand and type. Refer to your product instructions or contact the manufacturer if you need guidance. The disposal will usually be connected to the drain line with either a screw or a nut.",
+                    "#*Unplug the disposal, or, if it’s hard-wired, disconnect the electrical wiring to remove the disposal completely. You may also choose to lay it in the bottom of the cabinet until it’s time for re-installation.",
+                    "#Cut through the sealing caulk around a top-mount sink. If your sink has a metal lip around its edge that keeps it in place, you have a top-mount. Run a utility knife around the perimeter to slice through the caulk. Work carefully if you’re not also replacing the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Remove the brackets from beneath for an undermount sink. If your sink has no lip that sits on the countertop, it is an undermount that is held up from below by a series of brackets or clips. First, cut through the caulk seal by carefully running your utility knife around the top of the sink basin, where it meets the countertop.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*Use a screwdriver to remove all the clips or brackets.",
+                    "#*Removing an undermount is far easier and safer if you have a second set of hands to hold the sink while you’re working. Recruit a buddy or put your teen to work!",
+                    "#Push up from underneath to lift out the sink. Once again, having a helper will make this easier, especially if you’re worried about potentially scratching up your countertop. After the old sink is out of the way, use a razor blade or putty knife to scrape away any caulk residue around the countertop opening. Be very careful if you’re keeping the countertops; if you’re not, don’t worry about it!<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#Install a new sink. Essentially, you’ll be performing the removal process in reverse: apply a caulk seal, drop or lift the sink into place, tighten any clips or brackets, and fix all the water, drain, and electrical connections.<ref>https://www.familyhandyman.com/kitchen/replace-a-sink/view-all/</ref>",
+                    "#*However, you will have to install a new faucet (or re-install the old one) yourself. But with the product instructions and a little [[Install-a-Kitchen-Faucet|faucet installation help]] from wikiHow, you’ll be all set!",
+                    "#*Likewise, you’ll probably need to install a new [[Remove a Kitchen Sink Drain|sink strainer]] (or sink drain), but you can handle that too!",
+                    "",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

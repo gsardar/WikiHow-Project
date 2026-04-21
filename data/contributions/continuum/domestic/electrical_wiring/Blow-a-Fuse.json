@@ -1,0 +1,720 @@
+{
+    "title": "Blow-a-Fuse",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:05:49.593717",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33181163",
+            "user": "MiscBot",
+            "timestamp": "19:10, 24 February 2025",
+            "anon": false,
+            "size": "(5,622 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32793086",
+            "user": "WikiHow Horizon",
+            "timestamp": "01:01, 19 September 2024",
+            "anon": false,
+            "size": "(5,603 bytes)",
+            "change": -95,
+            "summary": "(Removing broken link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*An ampere, or its abbreviation \"amp\", is a unit that is used to measure electrical current. Current can be defined as a count of the number of electrons running through a circuit. One amp is the amount of current produced by one volt."
+                ],
+                "removed": [
+                    "#*An ampere, or its abbreviation \"amp\", is a unit that is used to measure electrical current. Current can be defined as a count of the number of electrons running through a circuit. One amp is the amount of current produced by one volt. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-what-are-volts-amperes.html</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32767826",
+            "user": "WikiHow Horizon",
+            "timestamp": "15:33, 7 September 2024",
+            "anon": false,
+            "size": "(5,698 bytes)",
+            "change": 1,
+            "summary": "(Updated link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*All power supplies, such as batteries, will have a positive and negative terminal. This is where you should connect your wires to your power source. <ref>https://www.qrg.northwestern.edu/projects/vss/docs/Power/2-how-do-batteries-work.html</ref>"
+                ],
+                "removed": [
+                    "#*All power supplies, such as batteries, will have a positive and negative terminal. This is where you should connect your wires to your power source. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-how-do-batteries-work.html</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32227872",
+            "user": "WikiHow Horizon",
+            "timestamp": "17:52, 22 January 2024",
+            "anon": false,
+            "size": "(5,697 bytes)",
+            "change": 96,
+            "summary": "(Update link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* A power supply can be a battery. Copper wires are good conductors of electricity. These, and most fuses, can be purchased from most hardware stores. Consult packaging for amperage ratings. <ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/a-very-simple-circuit/</ref>",
+                    "#* Make sure the wires are touching both the positive and negative ends of the terminal as well as both ends of the fuse. If there is not complete contact, the circuit is not complete and electricity cannot be conducted. <ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/a-very-simple-circuit/</ref>",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/a-very-simple-circuit/</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. If you are using a battery as a power source, test to see that it is working properly."
+                ],
+                "removed": [
+                    "#* A power supply can be a battery. Copper wires are good conductors of electricity. These, and most fuses, can be purchased from most hardware stores. Consult packaging for amperage ratings. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#* Make sure the wires are touching both the positive and negative ends of the terminal as well as both ends of the fuse. If there is not complete contact, the circuit is not complete and electricity cannot be conducted. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. If you are using a battery as a power source, test to see that it is working properly."
+                ]
+            }
+        },
+        {
+            "id": "31588322",
+            "user": "WikiHow Projects",
+            "timestamp": "00:34, 3 May 2023",
+            "anon": false,
+            "size": "(5,601 bytes)",
+            "change": -70,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electric current."
+                ],
+                "removed": [
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electric current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31566784",
+            "user": "WikiHow Projects",
+            "timestamp": "07:06, 26 April 2023",
+            "anon": false,
+            "size": "(5,671 bytes)",
+            "change": -177,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. [[Image:Blow a Fuse Step 1.jpg|center]]",
+                    "#*If excess current flows through the fuse, the metal strip will heat to its melting point and break. This is what blows a fuse.",
+                    "#*In order to blow a fuse, the number of amps produced from the power supply and wires must be greater than that of the fuse. When you want to blow a fuse you need to make sure that you are putting more amps through the fuse than it can handle.",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. If you are using a battery as a power source, test to see that it is working properly."
+                ],
+                "removed": [
+                    "#Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>[[Image:Blow a Fuse Step 1.jpg|center]]",
+                    "#*If excess current flows through the fuse, the metal strip will heat to its melting point and break. This is what blows a fuse.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*In order to blow a fuse, the number of amps produced from the power supply and wires must be greater than that of the fuse. When you want to blow a fuse you need to make sure that you are putting more amps through the fuse than it can handle.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. <ref>http://fuseone.com/fuseology.aspx</ref> If you are using a battery as a power source, test to see that it is working properly."
+                ]
+            }
+        },
+        {
+            "id": "26257550",
+            "user": "MiscBot",
+            "timestamp": "23:50, 28 March 2019",
+            "anon": false,
+            "size": "(5,848 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "26237257",
+            "user": "WikiHow Projects",
+            "timestamp": "01:02, 27 March 2019",
+            "anon": false,
+            "size": "(5,859 bytes)",
+            "change": -133,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*The ampere rating of a fuse is based on the number of amps (i.e the amount of electrical current) a fuse can handle before it will blow."
+                ],
+                "removed": [
+                    "#*The ampere rating of a fuse is based on the number of amps (i.e the amount of electrical current) a fuse can handle before it will blow. <ref>http://ep-us.mersen.com/fileadmin/catalog/Literature/Application-Guidelines/ADV-P-Application-Information-Definitions.pdf</ref>"
+                ]
+            }
+        },
+        {
+            "id": "23945326",
+            "user": "Midnight Dreams",
+            "timestamp": "19:11, 29 January 2018",
+            "anon": false,
+            "size": "(5,992 bytes)",
+            "change": 5992,
+            "summary": "(RCP reverted edits by 173.255.31.122 (talk) to  revision #21291716 by Flickety)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Most people blow fuses by mistake when they run too much electrical current through an appliance or home circuit. However, you can do this on your own using a set of simple supplies. This can be a good way to teach how circuits, voltages, and amps work. Proceed with caution, as some fuses can explode when they are blown. Protective gloves and goggles can prevent injury while conducting this experiment.",
+                    "[[Category:Electrical Projects]]",
+                    "",
+                    "== Steps ==",
+                    "=== Part I: Assembling Your Materials ===",
+                    "#Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>[[Image:Blow a Fuse Step 1.jpg|center]]",
+                    "#*If excess current flows through the fuse, the metal strip will heat to its melting point and break. This is what blows a fuse.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*An ampere, or its abbreviation \"amp\", is a unit that is used to measure electrical current. Current can be defined as a count of the number of electrons running through a circuit. One amp is the amount of current produced by one volt. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-what-are-volts-amperes.html</ref>",
+                    "#*The ampere rating of a fuse is based on the number of amps (i.e the amount of electrical current) a fuse can handle before it will blow. <ref>http://ep-us.mersen.com/fileadmin/catalog/Literature/Application-Guidelines/ADV-P-Application-Information-Definitions.pdf</ref>",
+                    "#Obtain a power supply and wires. You should have a power-supply with an ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.[[Image:Blow a Fuse Step 2.jpg|center]]",
+                    "#*In order to blow a fuse, the number of amps produced from the power supply and wires must be greater than that of the fuse. When you want to blow a fuse you need to make sure that you are putting more amps through the fuse than it can handle.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#* A power supply can be a battery. Copper wires are good conductors of electricity. These, and most fuses, can be purchased from most hardware stores. Consult packaging for amperage ratings. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#Obtain and wear protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.[[Image:Blow a Fuse Step 3.jpg|center]]",
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electric current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>",
+                    "#* It is also a good idea to wear protective goggles to shield your eyes from glass or plastic debris that might result from an exploded fuse.",
+                    "=== Part II: Connecting and Blowing the Fuse ===",
+                    "#Connect the power supply to wires. In order to blow your fuse, you must create a complete circuit using the power supply, wires, and fuse.[[Image:Blow a Fuse Step 4.jpg|center]]",
+                    "#*All power supplies, such as batteries, will have a positive and negative terminal. This is where you should connect your wires to your power source. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-how-do-batteries-work.html</ref>",
+                    "#* Place one wire on the negative terminal of your power supply.",
+                    "#* Place the other on the positive terminal of your power supply.",
+                    "#Connect the wires to either end of the fuse. This will complete the circuit needed to run electric current through the fuse from the power supply.[[Image:Blow a Fuse Step 5.jpg|center]]",
+                    "#* Make sure the wires are touching both the positive and negative ends of the terminal as well as both ends of the fuse. If there is not complete contact, the circuit is not complete and electricity cannot be conducted. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#Do a safety check. Some fuses may explode, so it is an important safety step to make sure your gear is properly worn before turning on the power supply.[[Image:Blow a Fuse Step 6.jpg|center]]",
+                    "#* You should not work near any flammable materials. Electric currents may produce a spark that can ignite flammable liquids and dry flammable objects.",
+                    "#Turn on the power supply. The fuse should now blow. Proceed with caution.[[Image:Blow a Fuse Step 7.jpg|center]]",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. <ref>http://fuseone.com/fuseology.aspx</ref> If you are using a battery as a power source, test to see that it is working properly.",
+                    "",
+                    "== Tips ==",
+                    "*Some fuses may explode, so it is best wear protective gear for your body and face.",
+                    "*Make sure you follow specifications stated about ampere ratings. You may destroy a power-supply and/or the wires if you do not follow these guidelines.",
+                    "",
+                    "== Warnings ==",
+                    "*Wires may heat-up so use the protective gloves.",
+                    "*Keep away from flammable materials while conducting this experiment.",
+                    "*These kinds of experiments may cause sparks, which are a fire hazard.",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23945273",
+            "user": "173.255.31.122",
+            "timestamp": "19:01, 29 January 2018",
+            "anon": true,
+            "size": "(empty)",
+            "change": -5992,
+            "summary": "(Removing all content from page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Midnight Dreams",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "Most people blow fuses by mistake when they run too much electrical current through an appliance or home circuit. However, you can do this on your own using a set of simple supplies. This can be a good way to teach how circuits, voltages, and amps work. Proceed with caution, as some fuses can explode when they are blown. Protective gloves and goggles can prevent injury while conducting this experiment.",
+                    "[[Category:Electrical Projects]]",
+                    "",
+                    "== Steps ==",
+                    "=== Part I: Assembling Your Materials ===",
+                    "#Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>[[Image:Blow a Fuse Step 1.jpg|center]]",
+                    "#*If excess current flows through the fuse, the metal strip will heat to its melting point and break. This is what blows a fuse.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*An ampere, or its abbreviation \"amp\", is a unit that is used to measure electrical current. Current can be defined as a count of the number of electrons running through a circuit. One amp is the amount of current produced by one volt. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-what-are-volts-amperes.html</ref>",
+                    "#*The ampere rating of a fuse is based on the number of amps (i.e the amount of electrical current) a fuse can handle before it will blow. <ref>http://ep-us.mersen.com/fileadmin/catalog/Literature/Application-Guidelines/ADV-P-Application-Information-Definitions.pdf</ref>",
+                    "#Obtain a power supply and wires. You should have a power-supply with an ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.[[Image:Blow a Fuse Step 2.jpg|center]]",
+                    "#*In order to blow a fuse, the number of amps produced from the power supply and wires must be greater than that of the fuse. When you want to blow a fuse you need to make sure that you are putting more amps through the fuse than it can handle.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#* A power supply can be a battery. Copper wires are good conductors of electricity. These, and most fuses, can be purchased from most hardware stores. Consult packaging for amperage ratings. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#Obtain and wear protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.[[Image:Blow a Fuse Step 3.jpg|center]]",
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electric current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>",
+                    "#* It is also a good idea to wear protective goggles to shield your eyes from glass or plastic debris that might result from an exploded fuse.",
+                    "=== Part II: Connecting and Blowing the Fuse ===",
+                    "#Connect the power supply to wires. In order to blow your fuse, you must create a complete circuit using the power supply, wires, and fuse.[[Image:Blow a Fuse Step 4.jpg|center]]",
+                    "#*All power supplies, such as batteries, will have a positive and negative terminal. This is where you should connect your wires to your power source. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-how-do-batteries-work.html</ref>",
+                    "#* Place one wire on the negative terminal of your power supply.",
+                    "#* Place the other on the positive terminal of your power supply.",
+                    "#Connect the wires to either end of the fuse. This will complete the circuit needed to run electric current through the fuse from the power supply.[[Image:Blow a Fuse Step 5.jpg|center]]",
+                    "#* Make sure the wires are touching both the positive and negative ends of the terminal as well as both ends of the fuse. If there is not complete contact, the circuit is not complete and electricity cannot be conducted. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "#Do a safety check. Some fuses may explode, so it is an important safety step to make sure your gear is properly worn before turning on the power supply.[[Image:Blow a Fuse Step 6.jpg|center]]",
+                    "#* You should not work near any flammable materials. Electric currents may produce a spark that can ignite flammable liquids and dry flammable objects.",
+                    "#Turn on the power supply. The fuse should now blow. Proceed with caution.[[Image:Blow a Fuse Step 7.jpg|center]]",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. <ref>http://fuseone.com/fuseology.aspx</ref> If you are using a battery as a power source, test to see that it is working properly.",
+                    "",
+                    "== Tips ==",
+                    "*Some fuses may explode, so it is best wear protective gear for your body and face.",
+                    "*Make sure you follow specifications stated about ampere ratings. You may destroy a power-supply and/or the wires if you do not follow these guidelines.",
+                    "",
+                    "== Warnings ==",
+                    "*Wires may heat-up so use the protective gloves.",
+                    "*Keep away from flammable materials while conducting this experiment.",
+                    "*These kinds of experiments may cause sparks, which are a fire hazard.",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}"
+                ]
+            }
+        },
+        {
+            "id": "21291716",
+            "user": "Flickety",
+            "timestamp": "23:15, 6 November 2016",
+            "anon": false,
+            "size": "(5,992 bytes)",
+            "change": -2,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Midnight Dreams",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Projects]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "18945721",
+            "user": "Votebot",
+            "timestamp": "09:51, 27 November 2015",
+            "anon": false,
+            "size": "(5,994 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Keep away from flammable materials while conducting this experiment."
+                ],
+                "removed": [
+                    "*Keep away from flammable materials while conducting this experiment."
+                ]
+            }
+        },
+        {
+            "id": "18285860",
+            "user": "Votebot",
+            "timestamp": "08:37, 23 August 2015",
+            "anon": false,
+            "size": "(5,994 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Wires may heat-up so use the protective gloves.",
+                    "*These kinds of experiments may cause sparks, which are a fire hazard."
+                ],
+                "removed": [
+                    "*These kinds of experiments may cause sparks, which are a fire hazard.",
+                    "*Wires may heat-up so use the protective gloves.",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "16646367",
+            "user": "Kamilla Shire",
+            "timestamp": "03:23, 14 February 2015",
+            "anon": false,
+            "size": "(5,997 bytes)",
+            "change": -34,
+            "summary": "(Edit via Quality Guardian: Removed video that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Blow a Fuse|}}"
+                ]
+            }
+        },
+        {
+            "id": "16645316",
+            "user": "Anna",
+            "timestamp": "22:48, 13 February 2015",
+            "anon": false,
+            "size": "(6,031 bytes)",
+            "change": -21,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Blow a Fuse|}}"
+                ],
+                "removed": [
+                    "== Videos==",
+                    "https://www.youtube.com/watch?v=pJ9e4eaOiEk"
+                ]
+            }
+        },
+        {
+            "id": "16382709",
+            "user": "Wikivisual",
+            "timestamp": "14:06, 15 January 2015",
+            "anon": false,
+            "size": "(6,052 bytes)",
+            "change": 267,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>[[Image:Blow a Fuse Step 1.jpg|center]]",
+                    "#Obtain a power supply and wires. You should have a power-supply with an ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.[[Image:Blow a Fuse Step 2.jpg|center]]",
+                    "#Obtain and wear protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.[[Image:Blow a Fuse Step 3.jpg|center]]",
+                    "#Connect the power supply to wires. In order to blow your fuse, you must create a complete circuit using the power supply, wires, and fuse.[[Image:Blow a Fuse Step 4.jpg|center]]",
+                    "#Connect the wires to either end of the fuse. This will complete the circuit needed to run electric current through the fuse from the power supply.[[Image:Blow a Fuse Step 5.jpg|center]]",
+                    "#Do a safety check. Some fuses may explode, so it is an important safety step to make sure your gear is properly worn before turning on the power supply.[[Image:Blow a Fuse Step 6.jpg|center]]",
+                    "#Turn on the power supply. The fuse should now blow. Proceed with caution.[[Image:Blow a Fuse Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "# Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#Obtain a power supply and wires. You should have a power-supply with an ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "# Obtain and wear protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.",
+                    "# Connect the power supply to wires. In order to blow your fuse, you must create a complete circuit using the power supply, wires, and fuse.",
+                    "#Connect the wires to either end of the fuse. This will complete the circuit needed to run electric current through the fuse from the power supply.",
+                    "# Do a safety check. Some fuses may explode, so it is an important safety step to make sure your gear is properly worn before turning on the power supply.",
+                    "# Turn on the power supply. The fuse should now blow. Proceed with caution."
+                ]
+            }
+        },
+        {
+            "id": "16075761",
+            "user": "Donagan",
+            "timestamp": "20:32, 5 December 2014",
+            "anon": false,
+            "size": "(5,785 bytes)",
+            "change": -1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electric current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>"
+                ],
+                "removed": [
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electical current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>"
+                ]
+            }
+        },
+        {
+            "id": "16012015",
+            "user": "Tara starset",
+            "timestamp": "23:53, 27 November 2014",
+            "anon": false,
+            "size": "(5,786 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "Most people blow fuses by mistake when they run too much electrical current through an appliance or home circuit. However, you can do this on your own using a set of simple supplies. This can be a good way to teach how circuits, voltages, and amps work. Proceed with caution, as some fuses can explode when they are blown. Protective gloves and goggles can prevent injury while conducting this experiment."
+                ],
+                "removed": [
+                    "Most people blow fuses by mistake when they run too much electical current through an appliance or home circuit. However, you can do this on your own using a set of simple supplies. This can be a good way to teach how circuits, voltages, and amps work. Proceed with caution, as some fuses can explode when they are blown. Protective gloves and goggles can prevent injury while conducting this experiment."
+                ]
+            }
+        },
+        {
+            "id": "15998445",
+            "user": "Dr. Carrie",
+            "timestamp": "15:44, 26 November 2014",
+            "anon": false,
+            "size": "(5,785 bytes)",
+            "change": -2,
+            "summary": "(fixing formatting issue)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "https://www.youtube.com/watch?v=pJ9e4eaOiEk"
+                ],
+                "removed": [
+                    "[https://www.youtube.com/watch?v=pJ9e4eaOiEk]"
+                ]
+            }
+        },
+        {
+            "id": "15998435",
+            "user": "Dr. Carrie",
+            "timestamp": "15:43, 26 November 2014",
+            "anon": false,
+            "size": "(5,787 bytes)",
+            "change": 4488,
+            "summary": "(significant expansion with multiple parts and new sources)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Most people blow fuses by mistake when they run too much electical current through an appliance or home circuit. However, you can do this on your own using a set of simple supplies. This can be a good way to teach how circuits, voltages, and amps work. Proceed with caution, as some fuses can explode when they are blown. Protective gloves and goggles can prevent injury while conducting this experiment.",
+                    "=== Part I: Assembling Your Materials ===",
+                    "# Obtain a fuse. There are two main types of fuses: cylindrical and plug fuses. Cylindrical fuses consist of a ribbon of fusible metal enclosed in a ceramic or fiber cylinder. This type of fuse is usually used in appliances. Plug fuses are typically used to protect in home electrical wiring and consist of a metal strip through which current must flow. These are placed in an electric circuit so that current flows through the metal strip to complete the circuit. These typically have a window in the plug so you can see the condition of the metal strip. <ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*If excess current flows through the fuse, the metal strip will heat to its melting point and break. This is what blows a fuse.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#*An ampere, or its abbreviation \"amp\", is a unit that is used to measure electrical current. Current can be defined as a count of the number of electrons running through a circuit. One amp is the amount of current produced by one volt. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-what-are-volts-amperes.html</ref>",
+                    "#*The ampere rating of a fuse is based on the number of amps (i.e the amount of electrical current) a fuse can handle before it will blow. <ref>http://ep-us.mersen.com/fileadmin/catalog/Literature/Application-Guidelines/ADV-P-Application-Information-Definitions.pdf</ref>",
+                    "#Obtain a power supply and wires. You should have a power-supply with an ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "#*In order to blow a fuse, the number of amps produced from the power supply and wires must be greater than that of the fuse. When you want to blow a fuse you need to make sure that you are putting more amps through the fuse than it can handle.<ref>http://fuseone.com/fuseology.aspx</ref>",
+                    "#* A power supply can be a battery. Copper wires are good conductors of electricity. These, and most fuses, can be purchased from most hardware stores. Consult packaging for amperage ratings. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "# Obtain and wear protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.",
+                    "#*Wires may get hot when power supply runs through them. Also keep in mind that wires are conductors of electricity. In order to safely handle these, make sure you have gloves made of 100% rubber, as this is the only sure way to protect yourself from both the heat and electrical current of your wires. Rubber is an insulator from electical current.<ref>https://www.pseg.com/home/education_safety/safety/myths.jsp</ref>",
+                    "#* It is also a good idea to wear protective goggles to shield your eyes from glass or plastic debris that might result from an exploded fuse.",
+                    "=== Part II: Connecting and Blowing the Fuse ===",
+                    "# Connect the power supply to wires. In order to blow your fuse, you must create a complete circuit using the power supply, wires, and fuse.",
+                    "#*All power supplies, such as batteries, will have a positive and negative terminal. This is where you should connect your wires to your power source. <ref>http://www.qrg.northwestern.edu/projects/vss/docs/power/2-how-do-batteries-work.html</ref>",
+                    "#* Place one wire on the negative terminal of your power supply.",
+                    "#* Place the other on the positive terminal of your power supply.",
+                    "#Connect the wires to either end of the fuse. This will complete the circuit needed to run electric current through the fuse from the power supply.",
+                    "#* Make sure the wires are touching both the positive and negative ends of the terminal as well as both ends of the fuse. If there is not complete contact, the circuit is not complete and electricity cannot be conducted. <ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref>",
+                    "# Do a safety check. Some fuses may explode, so it is an important safety step to make sure your gear is properly worn before turning on the power supply.",
+                    "#* You should not work near any flammable materials. Electric currents may produce a spark that can ignite flammable liquids and dry flammable objects.",
+                    "# Turn on the power supply. The fuse should now blow. Proceed with caution.",
+                    "#*If your fuse does not blow, disconnect the power supply and check to see that your circuit is connected properly.<ref>http://www.allaboutcircuits.com/vol_6/chpt_2/3.html</ref> Check to make sure that the metal strip inside the fuse is intact. If it is not, the fuse is already broken and you should try a different fuse. <ref>http://fuseone.com/fuseology.aspx</ref> If you are using a battery as a power source, test to see that it is working properly.",
+                    "*Some fuses may explode, so it is best wear protective gear for your body and face.",
+                    "*Make sure you follow specifications stated about ampere ratings. You may destroy a power-supply and/or the wires if you do not follow these guidelines.",
+                    "*Keep away from flammable materials while conducting this experiment.",
+                    "*These kinds of experiments may cause sparks, which are a fire hazard.",
+                    "",
+                    "== Videos==",
+                    "[https://www.youtube.com/watch?v=pJ9e4eaOiEk]",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "Most people blow fuses by mistake, but if you have a reason why you need to blow a fuse, it can be done on purpose. Blowing a fuse can be dangerous, so proceed with care.",
+                    "# Obtain a fuse, power supply, and wires. You should have a power-supply with ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "# Wear gloves for safety and protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.",
+                    "# Connect the fuse. Before turning on the power-supply, connect the power-supply's positive probe to one end of a fuse, then the power-supply's negative probe to the other end using the wires.",
+                    "# Turn on the power supply and watch how the fuse blown. Turn off the power-supply after use.",
+                    "*Some fuses may explode, so better to wear protective gear for your body and face.",
+                    "*Make sure you follow specifications stated about ampere ratings. You may destroy a power-supply and/or the wires if not.",
+                    "*Keep away from flammable matters.",
+                    "*This kind of experiments may create burn or fire."
+                ]
+            }
+        },
+        {
+            "id": "12768160",
+            "user": "Ttrimm",
+            "timestamp": "23:08, 21 February 2014",
+            "anon": false,
+            "size": "(1,299 bytes)",
+            "change": -24,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Most people blow fuses by mistake, but if you have a reason why you need to blow a fuse, it can be done on purpose. Blowing a fuse can be dangerous, so proceed with care."
+                ],
+                "removed": [
+                    "{{stub|date=2014-02-19}}Most people blow fuses by mistake, but if you have a reason why you need to blow a fuse, it can be done on purpose. Blowing a fuse can be dangerous, so proceed with care."
+                ]
+            }
+        },
+        {
+            "id": "12738036",
+            "user": "Anna",
+            "timestamp": "19:01, 19 February 2014",
+            "anon": false,
+            "size": "(1,323 bytes)",
+            "change": 30,
+            "summary": "(basic formatting)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2014-02-19}}Most people blow fuses by mistake, but if you have a reason why you need to blow a fuse, it can be done on purpose. Blowing a fuse can be dangerous, so proceed with care.",
+                    "# Obtain a fuse, power supply, and wires. You should have a power-supply with ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. The ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "# Wear gloves for safety and protective gear. Some fuses may explode, so you need to protect yourself from danger with protective gear.",
+                    "# Connect the fuse. Before turning on the power-supply, connect the power-supply's positive probe to one end of a fuse, then the power-supply's negative probe to the other end using the wires.",
+                    "# Turn on the power supply and watch how the fuse blown. Turn off the power-supply after use.",
+                    "*Some fuses may explode, so better to wear protective gear for your body and face.",
+                    "*Make sure you follow specifications stated about ampere ratings. You may destroy a power-supply and/or the wires if not."
+                ],
+                "removed": [
+                    "{{stub|date=2014-02-19}}Three simple steps and requirements how to blow a fuse. You will learn this as we go along with our discussion.",
+                    "#  1. Of course, first of all, you will be needing a fuse. You should have a power-supply with ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. Ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "#  2. Wear a gloves for safety and protective gears. Some fuses may explode so better to have protective gears worn. Before turning on the power-supply, connect the power-supply's positive probe to one end of a fuse, then the power-supply's negative probe to the other end using the wires.",
+                    "#  3. Turn on the power supply and watch how the fuse blown. Turn off the power-supply after use.",
+                    "*Some fuses may explode so better to have protective gears worn on your body and on your face.",
+                    "*Make sure you follow specifications stated on step # 1. You may destroy a power-supply and/or the wires if the conditions stated on step # 1 were not followed."
+                ]
+            }
+        },
+        {
+            "id": "12736160",
+            "user": "JillianPress",
+            "timestamp": "15:31, 19 February 2014",
+            "anon": false,
+            "size": "(1,293 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12735567",
+            "user": "Heee_no",
+            "timestamp": "14:37, 19 February 2014",
+            "anon": false,
+            "size": "(1,256 bytes)",
+            "change": 66,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Some fuses may explode so better to have protective gears worn on your body and on your face.",
+                    "*Wires may heat-up so use the protective gloves."
+                ],
+                "removed": [
+                    "*Some fuses may explode so better to have protective gears worn on your body."
+                ]
+            }
+        },
+        {
+            "id": "12735546",
+            "user": "The Daily Flows",
+            "timestamp": "14:34, 19 February 2014",
+            "anon": false,
+            "size": "(1,190 bytes)",
+            "change": 24,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2014-02-19}}Three simple steps and requirements how to blow a fuse. You will learn this as we go along with our discussion."
+                ],
+                "removed": [
+                    "Three simple steps and requirements how to blow a fuse. You will learn this as we go along with our discussion."
+                ]
+            }
+        },
+        {
+            "id": "12735533",
+            "user": "Heee_no",
+            "timestamp": "14:33, 19 February 2014",
+            "anon": false,
+            "size": "(1,166 bytes)",
+            "change": 1166,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Three simple steps and requirements how to blow a fuse. You will learn this as we go along with our discussion.",
+                    "== Steps ==",
+                    "#  1. Of course, first of all, you will be needing a fuse. You should have a power-supply with ampere-rating greater than your fuse ampere-rating. And lastly two wires that will connect the power-supply and the fuse. Ampere-rating of the wires should be greater or equal to power-supply ampere-rating.",
+                    "#  2. Wear a gloves for safety and protective gears. Some fuses may explode so better to have protective gears worn. Before turning on the power-supply, connect the power-supply's positive probe to one end of a fuse, then the power-supply's negative probe to the other end using the wires.",
+                    "#  3. Turn on the power supply and watch how the fuse blown. Turn off the power-supply after use.",
+                    "== Tips ==",
+                    "*Some fuses may explode so better to have protective gears worn on your body.",
+                    "*Make sure you follow specifications stated on step # 1. You may destroy a power-supply and/or the wires if the conditions stated on step # 1 were not followed.",
+                    "",
+                    "== Warnings ==",
+                    "*Keep away from flammable matters.",
+                    "*This kind of experiments may create burn or fire."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

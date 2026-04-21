@@ -1,0 +1,887 @@
+{
+    "title": "Use-Voltage-Testers",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:15:33.942504",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32988054",
+            "user": "Seymour Edits",
+            "timestamp": "17:36, 9 December 2024",
+            "anon": false,
+            "size": "(10,375 bytes)",
+            "change": 191,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "<div class='subtitle'>Troubleshoot simple electrical problems yourself with our easy guide</div>Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components. This helps determine if the electrical components are working properly. They can also be used to tell if electrical wires and components are safe to handle.  There are a few different types of voltage testers you can use. Multimeters are used to test the exact voltage of an electrical current.<ref>[v162126_b01]. 14 February 2022.</ref> Outlet testers can tell you if there are any wiring problems with an electrical outlet, and non-contact voltage testers can safely tell if an electrical current is present without having to make contact with live wires or components.<ref>[v162126_b01]. 14 February 2022.</ref> This wikiHow article teaches you how to use voltage testers.",
+                    "==Best Tools to Test Voltage==",
+                    "*Use a '''multimeter''' to measure alternating current (AC) or direct current (DC).<ref>[v162126_b01]. 14 February 2022.</ref>",
+                    "*If you just need to test the voltage of an outlet, use an '''outlet tester'''. They report the status of the outlet.",
+                    "*For testing voltage without touching electrical components, use a '''non-contact voltage tester'''.",
+                    "== Tips {{toc_item:|disabled}}==",
+                    "== Warnings {{toc_item:|disabled}}==",
+                    "",
+                    "__METHODS__",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components. This helps determine if the electrical components are working properly. They can also be used to tell if electrical wires and components are safe to handle.  There are a few different types of voltage testers you can use. Multimeters are used to test the exact voltage of an electrical current.<ref>[v162126_b01]. 14 February 2022.</ref> Outlet testers can tell you if there are any wiring problems with an electrical outlet, and non-contact voltage testers can safely tell if an electrical current is present without having to make contact with live wires or components.<ref>[v162126_b01]. 14 February 2022.</ref> This wikiHow article teaches you how to use voltage testers.",
+                    "",
+                    "==Things You Should Know==",
+                    "*Use a multimeter to measure alternating current (AC) or direct current (DC).<ref>[v162126_b01]. 14 February 2022.</ref>",
+                    "*If you just need to test the voltage of an outlet, use an outlet tester. They report the status of the outlet.",
+                    "*For testing voltage without touching electrical components, use a non-contact voltage tester.",
+                    "",
+                    "== Tips ==",
+                    "== Warnings =="
+                ]
+            }
+        },
+        {
+            "id": "32799588",
+            "user": "WikiHow Horizon 3",
+            "timestamp": "22:27, 22 September 2024",
+            "anon": false,
+            "size": "(10,184 bytes)",
+            "change": -73,
+            "summary": "(Deleted link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*'''AA, AAA, C, and D batteries:'''  1.5V DC."
+                ],
+                "removed": [
+                    "#*'''AA, AAA, C, and D batteries:'''  1.5V DC.<ref>http://www.evergreencpusa.com/alkaline-battery-specifications</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32369751",
+            "user": "WikiHow Projects",
+            "timestamp": "05:04, 18 March 2024",
+            "anon": false,
+            "size": "(10,257 bytes)",
+            "change": -110,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*'''Car battery:'''  12.6V DC."
+                ],
+                "removed": [
+                    "#*'''Car battery:'''  12.6V DC.<ref>https://www.autobatteries.com/en-us/battery-testing-and-maintenance/car-battery-voltage-and-testing</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31171196",
+            "user": "Seymour Edits",
+            "timestamp": "08:08, 15 December 2022",
+            "anon": false,
+            "size": "(10,367 bytes)",
+            "change": 158,
+            "summary": "(Expert citation addition)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components. This helps determine if the electrical components are working properly. They can also be used to tell if electrical wires and components are safe to handle.  There are a few different types of voltage testers you can use. Multimeters are used to test the exact voltage of an electrical current.<ref>[v162126_b01]. 14 February 2022.</ref> Outlet testers can tell you if there are any wiring problems with an electrical outlet, and non-contact voltage testers can safely tell if an electrical current is present without having to make contact with live wires or components.<ref>[v162126_b01]. 14 February 2022.</ref> This wikiHow article teaches you how to use voltage testers.",
+                    "*Use a multimeter to measure alternating current (AC) or direct current (DC).<ref>[v162126_b01]. 14 February 2022.</ref>",
+                    "#Plug in the multimeter and power it on. A multimeter is a two-lead voltage tester that tells you exactly how much voltage it is reading.<ref>[v162126_b01]. 14 February 2022.</ref> Plug in the multimeter and power it on.[[Image:Use Voltage Testers Step 1 Version 2.jpg|center]]",
+                    "#Plug the black probe into the \"COM\" or \"-\" port. The black probe is used to measure the ground or neutral wires. Connect this to the port that says \"COM\" or has a minus (-) sign next to it.[[Image:Use Voltage Testers Step 2 Version 2.jpg|center]]",
+                    "#Connect the red wire to the voltage port. Typically the voltage port with a capital \"V\" next to it. The red probe is used to connect to the hot wire, which is the wire that carries the electrical current.[[Image:Use Voltage Testers Step 3 Version 2.jpg|center]]",
+                    "#*Some multimeters have a port that says \"10A\" next to it. This is used to measure large electrical currents up to 10 amps.",
+                    "#Select the voltage mode. Most multimeters have a dial on the front. This allows you to select the mode, as well as the range of measurement you are expecting to take.  Turn the dial so that it is in alternating current (AC) or the direct current (DC) mode.  AC is usually indicated by a V with a wavy line next to it.  Direct current is usually indicated by a V with a straight line next to it.[[Image:Use Voltage Testers Step 4 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components.  This helps determine if the electrical components are working properly.  They can also be used to tell if electrical wires and components are safe to handle.  There are a few different types of voltage testers you can use.  Multimeters are used to test the exact voltage of an electrical current.  Outlet testers can tell you if there are any wiring problems with an electrical outlet, and non-contact voltage testers can safely tell if an electrical current is present without having to make contact with live wires or components.  This wikiHow article teaches you how to use voltage testers.",
+                    "*Use a multimeter to measure alternating current (AC) or direct current (DC).",
+                    "#Plug in the multimeter and power it on.  A multimeter is a two-lead voltage tester that tells you exactly how much voltage it is reading.  Plug in the multimeter and power it on.[[Image:Use Voltage Testers Step 1 Version 2.jpg|center]]",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral wires.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.[[Image:Use Voltage Testers Step 2 Version 2.jpg|center]]",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.  The red probe is used to connect to the hot wire, which is the wire that carries the electrical current.[[Image:Use Voltage Testers Step 3 Version 2.jpg|center]]",
+                    "#*Some multimeters have a port that says \"10A\" next to it.  This is used to measure large electrical currents up to 10 amps.",
+                    "#Select the voltage mode.  Most multimeters have a dial on the front.  This allows you to select the mode, as well as the range of measurement you are expecting to take.  Turn the dial so that it is in alternating current (AC) or the direct current (DC) mode.  AC is usually indicated by a V with a wavy line next to it.  Direct current is usually indicated by a V with a straight line next to it.[[Image:Use Voltage Testers Step 4 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31010032",
+            "user": "MiscBot",
+            "timestamp": "16:34, 25 October 2022",
+            "anon": false,
+            "size": "(10,209 bytes)",
+            "change": -18,
+            "summary": "(Reformatting the Things You Should Know section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "*Use a multimeter to measure alternating current (AC) or direct current (DC).",
+                    "*If you just need to test the voltage of an outlet, use an outlet tester. They report the status of the outlet.",
+                    "*For testing voltage without touching electrical components, use a non-contact voltage tester."
+                ],
+                "removed": [
+                    "*'''Use a multimeter to measure alternating current (AC) or direct current (DC).'''",
+                    "*'''If you just need to test the voltage of an outlet, use an outlet tester. They report the status of the outlet.'''",
+                    "*'''For testing voltage without touching electrical components, use a non-contact voltage tester.'''"
+                ]
+            }
+        },
+        {
+            "id": "30837519",
+            "user": "Seymour Edits",
+            "timestamp": "23:24, 1 September 2022",
+            "anon": false,
+            "size": "(10,227 bytes)",
+            "change": -4,
+            "summary": "(Minor sentence structure correction)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*'''Use a multimeter to measure alternating current (AC) or direct current (DC).'''"
+                ],
+                "removed": [
+                    "*'''Use a multimeter to measure alternating current (AC) or the direct current (DC).'''"
+                ]
+            }
+        },
+        {
+            "id": "30837516",
+            "user": "Seymour Edits",
+            "timestamp": "23:23, 1 September 2022",
+            "anon": false,
+            "size": "(10,231 bytes)",
+            "change": 335,
+            "summary": "(wikiHow internal test, please don't roll back)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "==Things You Should Know==",
+                    "*'''Use a multimeter to measure alternating current (AC) or the direct current (DC).'''",
+                    "*'''If you just need to test the voltage of an outlet, use an outlet tester. They report the status of the outlet.'''",
+                    "*'''For testing voltage without touching electrical components, use a non-contact voltage tester.'''"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30053401",
+            "user": "Votebot",
+            "timestamp": "09:58, 11 November 2021",
+            "anon": false,
+            "size": "(9,896 bytes)",
+            "change": -2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*An [[Use-the-Oscilloscope|oscilloscope]] is a more advanced voltage tester that allows you to see the actual waveform of the electrical current on a display.  This allows you to see the difference between how AC and DC current behaves."
+                ],
+                "removed": [
+                    "*An [[Use-the-Oscilloscope|oscilloscope]] is a more advanced voltage tester that allows you to see the actual waveform of the electrical current on a display.  This allows you to see the difference between how AC and DC current behaves."
+                ]
+            }
+        },
+        {
+            "id": "29998664",
+            "user": "Wikivisual",
+            "timestamp": "14:21, 22 October 2021",
+            "anon": false,
+            "size": "(9,898 bytes)",
+            "change": 712,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Plug in the multimeter and power it on.  A multimeter is a two-lead voltage tester that tells you exactly how much voltage it is reading.  Plug in the multimeter and power it on.[[Image:Use Voltage Testers Step 1 Version 2.jpg|center]]",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral wires.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.[[Image:Use Voltage Testers Step 2 Version 2.jpg|center]]",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.  The red probe is used to connect to the hot wire, which is the wire that carries the electrical current.[[Image:Use Voltage Testers Step 3 Version 2.jpg|center]]",
+                    "#Select the voltage mode.  Most multimeters have a dial on the front.  This allows you to select the mode, as well as the range of measurement you are expecting to take.  Turn the dial so that it is in alternating current (AC) or the direct current (DC) mode.  AC is usually indicated by a V with a wavy line next to it.  Direct current is usually indicated by a V with a straight line next to it.[[Image:Use Voltage Testers Step 4 Version 2.jpg|center]]",
+                    "#Select the voltage range.  In order to get the most accurate reading, you'll need to turn the knob to place the voltage reading within the range you are expecting to receive.  For example, if you are testing a 9V battery, selecting 20 volts on the dial will give you a more accurate reading than 2000 volts.  The following are common voltages:[[Image:Use Voltage Testers Step 5 Version 2.jpg|center]]",
+                    "#Place the black probe on the ground, neutral wire, or negative terminal.  If you are testing a battery, place the black probe on the negative terminal.  It is usually labeled with a minus (-) sign.  If you are testing an electrical outlet, place the black probe in the large slot.  If you are testing electrical wiring, touch the black probe to the exposed white or green wire.[[Image:Use Voltage Testers Step 6 Version 2.jpg|center]]",
+                    "#Place the red probe on the hot wire or positive terminal.  If you are testing a battery, place the red probe on the positive terminal.  It is usually labeled with a plus (+) sign.  If you are testing an electrical outlet, place the red probe in the small slot.  If you are testing wiring, touch the red probe to the exposed black wire.[[Image:Use Voltage Testers Step 7 Version 2.jpg|center]]",
+                    "#Read the meter.  The display should display how many volts it is receiving.  [[Image:Use Voltage Testers Step 8.jpg|center]]",
+                    "#Plug the voltage tester into the outlet.  Outlet testers are the simplest type of voltage tester to use.  They plug directly into an electrical outlet.  They have three lights and a chart that indicates if there are any problems with the electrical outlet.[[Image:Use Voltage Testers Step 9.jpg|center]]",
+                    "#Read the results. Most electrical outlet testers have three lights.  There is usually a key on the side of the tester that indicates what the lights mean.  Typically, the red light indicates voltage to the ground (green) wire. The first yellow light indicates voltage to the neutral (white) wire, and the second yellow or white light indicates voltage from the hot (black) wire.  The hot wire is the wire that carries the electrical current.  The following are some common readings:<ref>https://www.youtube.com/watch?v=mjnGkex4dxQ&t=88s</ref><ref>http://thecircuitdetective.com/outlet_tester_readings.php</ref>[[Image:Use Voltage Testers Step 10.jpg|center]]",
+                    "#Power on the non-contact voltage tester.  Non-contact voltage testers can detect an electrical current without having to touch any live wires or electrical components.  This makes them safer to use than other voltage testers.  Press the power button on your voltage tester to turn it on.<ref>https://www.youtube.com/watch?v=MlPn1K32E8Q</ref>[[Image:Use Voltage Testers Step 11.jpg|center]]",
+                    "#Test the voltage tester on a working light.  This confirms the non-contact voltage tester is working properly.  To test the non-contact voltage tester, place the tip of it in the short slot of an electrical outlet, or touch the cord or bulb of a lit lamp.[[Image:Use Voltage Testers Step 12.jpg|center]]",
+                    "#Test an electrical outlet.  To test an electrical outlet with a non-contact voltage detector, touch the tip of the non-voltage detector to the small slot on the receptacle of the electrical outlet.  It's also a good idea to test the large slot on the receptacle to make sure the outlet is wired properly.[[Image:Use Voltage Testers Step 13.jpg|center]]",
+                    "#Test a breaker switch.  To test a breaker switch, simply touch the tip of the non-contact voltage detector to the switch in the panel of a breaker box.[[Image:Use Voltage Testers Step 14.jpg|center]]",
+                    "#Test a light switch.  To test a light switch, make sure the switch is turned on.  Unscrew the faceplate from the wall.  Then touch the tip of the non-contact voltage detector to the screw terminals on the side of the light switch.[[Image:Use Voltage Testers Step 15.jpg|center]]",
+                    "#Test a light fixture.  Turn on the light switch to the light.  Unscrew the light-bulb and place the tip of the non-contact voltage detector inside the light socket.  If the light has a three-way switch, be sure to test the light with the switch in both the up and down position.<ref>https://www.instructables.com/How-to-Use-a-Non-Contact-Voltage-Tester/</ref>[[Image:Use Voltage Testers Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Plug in the multimeter and power it on.  A multimeter is a two-lead voltage tester that tells you exactly how much voltage it is reading.  Plug in the multimeter and power it on.",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral wires.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.  The red probe is used to connect to the hot wire, which is the wire that carries the electrical current.",
+                    "#Select the voltage mode.  Most multimeters have a dial on the front.  This allows you to select the mode, as well as the range of measurement you are expecting to take.  Turn the dial so that it is in alternating current (AC) or the direct current (DC) mode.  AC is usually indicated by a V with a wavy line next to it.  Direct current is usually indicated by a V with a straight line next to it.",
+                    "#Select the voltage range.  In order to get the most accurate reading, you'll need to turn the knob to place the voltage reading within the range you are expecting to receive.  For example, if you are testing a 9V battery, selecting 20 volts on the dial will give you a more accurate reading than 2000 volts.  The following are common voltages:",
+                    "#Place the black probe on the ground, neutral wire, or negative terminal.  If you are testing a battery, place the black probe on the negative terminal.  It is usually labeled with a minus (-) sign.  If you are testing an electrical outlet, place the black probe in the large slot.  If you are testing electrical wiring, touch the black probe to the exposed white or green wire.",
+                    "#Place the red probe on the hot wire or positive terminal.  If you are testing a battery, place the red probe on the positive terminal.  It is usually labeled with a plus (+) sign.  If you are testing an electrical outlet, place the red probe in the small slot.  If you are testing wiring, touch the red probe to the exposed black wire.",
+                    "#Read the meter.  The display should display how many volts it is receiving.",
+                    "#Plug the voltage tester into the outlet.  Outlet testers are the simplest type of voltage tester to use.  They plug directly into an electrical outlet.  They have three lights and a chart that indicates if there are any problems with the electrical outlet.[[Image:Use Voltage Testers Step 4.jpg|center]]",
+                    "#Read the results. Most electrical outlet testers have three lights.  There is usually a key on the side of the tester that indicates what the lights mean.  Typically, the red light indicates voltage to the ground (green) wire. The first yellow light indicates voltage to the neutral (white) wire, and the second yellow or white light indicates voltage from the hot (black) wire.  The hot wire is the wire that carries the electrical current.  The following are some common readings:<ref>https://www.youtube.com/watch?v=mjnGkex4dxQ&t=88s</ref><ref>http://thecircuitdetective.com/outlet_tester_readings.php</ref>[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "#Power on the non-contact voltage tester.  Non-contact voltage testers can detect an electrical current without having to touch any live wires or electrical components.  This makes them safer to use than other voltage testers.  Press the power button on your voltage tester to turn it on.<ref>https://www.youtube.com/watch?v=MlPn1K32E8Q</ref>",
+                    "#Test the voltage tester on a working light.  This confirms the non-contact voltage tester is working properly.  To test the non-contact voltage tester, place the tip of it in the short slot of an electrical outlet, or touch the cord or bulb of a lit lamp.",
+                    "#Test an electrical outlet.  To test an electrical outlet with a non-contact voltage detector, touch the tip of the non-voltage detector to the small slot on the receptacle of the electrical outlet.  It's also a good idea to test the large slot on the receptacle to make sure the outlet is wired properly.",
+                    "#Test a breaker switch.  To test a breaker switch, simply touch the tip of the non-contact voltage detector to the switch in the panel of a breaker box.",
+                    "#Test a light switch.  To test a light switch, make sure the switch is turned on.  Unscrew the faceplate from the wall.  Then touch the tip of the non-contact voltage detector to the screw terminals on the side of the light switch.",
+                    "#Test a light fixture.  Turn on the light switch to the light.  Unscrew the light-bulb and place the tip of the non-contact voltage detector inside the light socket.  If the light has a three-way switch, be sure to test the light with the switch in both the up and down position.<ref>https://www.instructables.com/How-to-Use-a-Non-Contact-Voltage-Tester/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "29974482",
+            "user": "Seymour Edits",
+            "timestamp": "22:32, 14 October 2021",
+            "anon": false,
+            "size": "(9,186 bytes)",
+            "change": 914,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components.  This helps determine if the electrical components are working properly.  They can also be used to tell if electrical wires and components are safe to handle.  There are a few different types of voltage testers you can use.  Multimeters are used to test the exact voltage of an electrical current.  Outlet testers can tell you if there are any wiring problems with an electrical outlet, and non-contact voltage testers can safely tell if an electrical current is present without having to make contact with live wires or components.  This wikiHow article teaches you how to use voltage testers.",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral wires.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.  The red probe is used to connect to the hot wire, which is the wire that carries the electrical current.",
+                    "#*Some multimeters have a port that says \"10A\" next to it.  This is used to measure large electrical currents up to 10 amps.",
+                    "#*'''AA, AAA, C, and D batteries:'''  1.5V DC.<ref>http://www.evergreencpusa.com/alkaline-battery-specifications</ref>",
+                    "#*'''Car battery:'''  12.6V DC.<ref>https://www.autobatteries.com/en-us/battery-testing-and-maintenance/car-battery-voltage-and-testing</ref>",
+                    "#*'''Electrical outlet, light switch, light fixture:'''  120V AC.",
+                    "#*'''Dryer/Stove Outlet:'''  220V AC.",
+                    "#Place the black probe on the ground, neutral wire, or negative terminal.  If you are testing a battery, place the black probe on the negative terminal.  It is usually labeled with a minus (-) sign.  If you are testing an electrical outlet, place the black probe in the large slot.  If you are testing electrical wiring, touch the black probe to the exposed white or green wire.",
+                    "#*You can also purchase accessories for your probes, such as alligator clamps or banana plugs.",
+                    "#Read the results. Most electrical outlet testers have three lights.  There is usually a key on the side of the tester that indicates what the lights mean.  Typically, the red light indicates voltage to the ground (green) wire. The first yellow light indicates voltage to the neutral (white) wire, and the second yellow or white light indicates voltage from the hot (black) wire.  The hot wire is the wire that carries the electrical current.  The following are some common readings:<ref>https://www.youtube.com/watch?v=mjnGkex4dxQ&t=88s</ref><ref>http://thecircuitdetective.com/outlet_tester_readings.php</ref>[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "#Test the voltage tester on a working light.  This confirms the non-contact voltage tester is working properly.  To test the non-contact voltage tester, place the tip of it in the short slot of an electrical outlet, or touch the cord or bulb of a lit lamp.",
+                    "#Test a breaker switch.  To test a breaker switch, simply touch the tip of the non-contact voltage detector to the switch in the panel of a breaker box.",
+                    "#*Once you confirm a light switch does not have a live electrical current, it is safe to remove the light switch"
+                ],
+                "removed": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components.  This helps determine if the electrical components are working properly.",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral electrical current.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.",
+                    "#*Some multimeters have a port that says \"10A\" next to it.  This is used to measure large currents up to 10 amps.",
+                    "#*'''AA, AAA, C, and D batteries:'''  1.5V DC current.<ref>http://www.evergreencpusa.com/alkaline-battery-specifications</ref>",
+                    "#*'''Car battery:'''  12.6V DC current.<ref>https://www.autobatteries.com/en-us/battery-testing-and-maintenance/car-battery-voltage-and-testing</ref>",
+                    "#*'''Electrical outlet, light switch, light fixture:'''  120V AC Current.",
+                    "#*'''Dryer/Stove Outlet:'''  220V AC Current.",
+                    "#Place the black probe on the ground, neutral wire, or negative terminal.  If you are testing a battery, place the black negative terminal.  It is usually labeled with a minus (-) sign.  If you are testing an electrical outlet, place the black probe in the large slot.  If you are testing electrical wiring, touch the black probe to the exposed white or green wire.",
+                    "#Read the results by referring to the key on top of the tester. Most electrical outlet testers have three lights.  The red light indicates voltage to the ground (green) wire. The first yellow light indicates voltage from the neutral (white) wire, and the second yellow or white light indicates voltage from the hot (black) wire.  The hot wire is the wire that carries the electrical current.  The following are some common readings:<ref>https://www.youtube.com/watch?v=mjnGkex4dxQ&t=88s</ref><ref>http://thecircuitdetective.com/outlet_tester_readings.php</ref>[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "#Test the voltage tester on a working light.  This confirms the non-contact voltage tester is working.  To test the non-contact voltage tester, place it in the short slot of an electrical outlet, or touch the cord or bulb of a lit lamp.",
+                    "#*Once you confirm a light switch does not have a live electrical current, it is safe to unscrew the light switch and remove it."
+                ]
+            }
+        },
+        {
+            "id": "29974036",
+            "user": "DWhisnant",
+            "timestamp": "19:04, 14 October 2021",
+            "anon": false,
+            "size": "(8,272 bytes)",
+            "change": 1,
+            "summary": "(typo)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Select the voltage range.  In order to get the most accurate reading, you'll need to turn the knob to place the voltage reading within the range you are expecting to receive.  For example, if you are testing a 9V battery, selecting 20 volts on the dial will give you a more accurate reading than 2000 volts.  The following are common voltages:"
+                ],
+                "removed": [
+                    "#Select the voltage range.  In order to get the most accurate reading, you'll need to turn the knob to place the voltage reading within the range you are expecting to receive.  For example, if you are testing a 9V battery, selecting 20 volts on the dial will give you a more accurate reading than 2000 volts  The following are common voltages:"
+                ]
+            }
+        },
+        {
+            "id": "29969364",
+            "user": "Seymour Edits",
+            "timestamp": "03:07, 13 October 2021",
+            "anon": false,
+            "size": "(8,271 bytes)",
+            "change": 138,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Use-Voltage-Testers}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29969360",
+            "user": "Seymour Edits",
+            "timestamp": "03:05, 13 October 2021",
+            "anon": false,
+            "size": "(8,133 bytes)",
+            "change": 3,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*'''Hot and Ground Reversed:'''  If the red light and second yellow light is lit, but the first yellow light is dark, this indicates that the hot and ground wires are reversed.  It could also indicate that the neutral wire is bad and the polarity is reversed.  If you get this reading, the entire outlet needs to be re-wired."
+                ],
+                "removed": [
+                    "#*'''Hot and Ground Reversed:  If the red light and second yellow light is lit, but the first yellow light is dark, this indicates that the hot and ground wires are reversed.  It could also indicate that the neutral wire is bad and the polarity is reversed.  If you get this reading, the entire outlet needs to be re-wired."
+                ]
+            }
+        },
+        {
+            "id": "29969359",
+            "user": "Seymour Edits",
+            "timestamp": "03:05, 13 October 2021",
+            "anon": false,
+            "size": "(8,130 bytes)",
+            "change": 5586,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Voltage testers are used to detect an electrical current in electrical outlets, light switches, circuit breaker panels, light fixtures, and other electrical components.  This helps determine if the electrical components are working properly.",
+                    "=== Using a Two-Lead Probe (Multimeter) ===",
+                    "#Plug in the multimeter and power it on.  A multimeter is a two-lead voltage tester that tells you exactly how much voltage it is reading.  Plug in the multimeter and power it on.",
+                    "#Plug the black probe into the \"COM\" or \"-\" port.  The black probe is used to measure the ground or neutral electrical current.  Connect this to the port that says \"COM\" or has a minus (-) sign next to it.",
+                    "#Connect the red wire to the voltage port.  Typically the voltage port with a capital \"V\" next to it.",
+                    "#*Some multimeters have a port that says \"10A\" next to it.  This is used to measure large currents up to 10 amps.",
+                    "#Select the voltage mode.  Most multimeters have a dial on the front.  This allows you to select the mode, as well as the range of measurement you are expecting to take.  Turn the dial so that it is in alternating current (AC) or the direct current (DC) mode.  AC is usually indicated by a V with a wavy line next to it.  Direct current is usually indicated by a V with a straight line next to it.",
+                    "#*Some multimeters also allow you to measure Amps and Ohms in addition to voltage.",
+                    "#Select the voltage range.  In order to get the most accurate reading, you'll need to turn the knob to place the voltage reading within the range you are expecting to receive.  For example, if you are testing a 9V battery, selecting 20 volts on the dial will give you a more accurate reading than 2000 volts  The following are common voltages:",
+                    "#*'''AA, AAA, C, and D batteries:'''  1.5V DC current.<ref>http://www.evergreencpusa.com/alkaline-battery-specifications</ref>",
+                    "#*'''Car battery:'''  12.6V DC current.<ref>https://www.autobatteries.com/en-us/battery-testing-and-maintenance/car-battery-voltage-and-testing</ref>",
+                    "#*'''Electrical outlet, light switch, light fixture:'''  120V AC Current.",
+                    "#*'''Dryer/Stove Outlet:'''  220V AC Current.",
+                    "#Place the black probe on the ground, neutral wire, or negative terminal.  If you are testing a battery, place the black negative terminal.  It is usually labeled with a minus (-) sign.  If you are testing an electrical outlet, place the black probe in the large slot.  If you are testing electrical wiring, touch the black probe to the exposed white or green wire.",
+                    "#Place the red probe on the hot wire or positive terminal.  If you are testing a battery, place the red probe on the positive terminal.  It is usually labeled with a plus (+) sign.  If you are testing an electrical outlet, place the red probe in the small slot.  If you are testing wiring, touch the red probe to the exposed black wire.",
+                    "#Read the meter.  The display should display how many volts it is receiving.",
+                    "=== Using an Electrical Outlet Tester ===",
+                    "#Plug the voltage tester into the outlet.  Outlet testers are the simplest type of voltage tester to use.  They plug directly into an electrical outlet.  They have three lights and a chart that indicates if there are any problems with the electrical outlet.[[Image:Use Voltage Testers Step 4.jpg|center]]",
+                    "#Read the results by referring to the key on top of the tester. Most electrical outlet testers have three lights.  The red light indicates voltage to the ground (green) wire. The first yellow light indicates voltage from the neutral (white) wire, and the second yellow or white light indicates voltage from the hot (black) wire.  The hot wire is the wire that carries the electrical current.  The following are some common readings:<ref>https://www.youtube.com/watch?v=mjnGkex4dxQ&t=88s</ref><ref>http://thecircuitdetective.com/outlet_tester_readings.php</ref>[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "#*'''Correct:'''  If both yellow lights are lit up and the red light is dark, this indicates that the outlet is working in most cases.  If either the hot or neutral lights are dim, this indicates that the wire is in poor condition.",
+                    "#*'''Open Hot:'''  If all lights are dark, this indicates that there is no electricity coming from the hot (black) wire.  Electricity may be shut off, or the wire may be disconnected, or bad.",
+                    "#*'''Open Neutral:'''  If the second yellow light is lit, but the red and first yellow lights are dark, this indicates that the neutral wire is not getting any electricity.  The neutral (white) wire may be disconnected or need to be replaced.",
+                    "#*'''Open Ground:'''  If the first yellow light is on, but the second yellow light and the red light is dark, this indicates that the ground wire is not getting any electricity.  The ground (green) wire may be disconnected or need to be replaced.",
+                    "#*'''Reversed Polarity:'''  If the red light and the first yellow light are lit, this indicates that the hot and neutral wires are reversed.  The outlet needs to be re-wired so that the hot and neutral wires are switched.  The hot wire wired to the ground could also give this reading.",
+                    "#*'''Hot and Ground Reversed:  If the red light and second yellow light is lit, but the first yellow light is dark, this indicates that the hot and ground wires are reversed.  It could also indicate that the neutral wire is bad and the polarity is reversed.  If you get this reading, the entire outlet needs to be re-wired.",
+                    "",
+                    "=== Using a Non-Contact Voltage Tester ===",
+                    "#Power on the non-contact voltage tester.  Non-contact voltage testers can detect an electrical current without having to touch any live wires or electrical components.  This makes them safer to use than other voltage testers.  Press the power button on your voltage tester to turn it on.<ref>https://www.youtube.com/watch?v=MlPn1K32E8Q</ref>",
+                    "#*Some non-contact voltage testers require you to press and hold a button to power it on.  The device will either chirp, display a light, or both to indicate that it is on.",
+                    "#Test the voltage tester on a working light.  This confirms the non-contact voltage tester is working.  To test the non-contact voltage tester, place it in the short slot of an electrical outlet, or touch the cord or bulb of a lit lamp.",
+                    "#Test an electrical outlet.  To test an electrical outlet with a non-contact voltage detector, touch the tip of the non-voltage detector to the small slot on the receptacle of the electrical outlet.  It's also a good idea to test the large slot on the receptacle to make sure the outlet is wired properly.",
+                    "#Test a light switch.  To test a light switch, make sure the switch is turned on.  Unscrew the faceplate from the wall.  Then touch the tip of the non-contact voltage detector to the screw terminals on the side of the light switch.",
+                    "#*Once you confirm a light switch does not have a live electrical current, it is safe to unscrew the light switch and remove it.",
+                    "#*When testing a three-way switch, be sure to test all screw terminals on both switches before continuing.",
+                    "#Test a light fixture.  Turn on the light switch to the light.  Unscrew the light-bulb and place the tip of the non-contact voltage detector inside the light socket.  If the light has a three-way switch, be sure to test the light with the switch in both the up and down position.<ref>https://www.instructables.com/How-to-Use-a-Non-Contact-Voltage-Tester/</ref>",
+                    "#*Once you confirm that the light fixture does not have an electrical current, it is safe to remove the light fixture from the ceiling.<ref>https://www.youtube.com/watch?v=MlPn1K32E8Q</ref>",
+                    "*An [[Use-the-Oscilloscope|oscilloscope]] is a more advanced voltage tester that allows you to see the actual waveform of the electrical current on a display.  This allows you to see the difference between how AC and DC current behaves.",
+                    "",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs.",
+                    "=== Two-Lead Circuit Tester ===",
+                    "A two-wire volt tester consist of two leads, one that is connected to a ground reference and one that is used to test for current in a wire.",
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.[[Image:Use Voltage Testers Step 1.jpg|center]]",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.[[Image:Use Voltage Testers Step 2.jpg|center]]",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.[[Image:Use Voltage Testers Step 3.jpg|center]]",
+                    "=== Electrical Outlet Tester ===",
+                    "Outlet testers are the simplest type of voltage tester to use. These testers usually have three lights. The key on the top of the tester will explain how to read the results.",
+                    "#Plug the voltage tester into the outlet.[[Image:Use Voltage Testers Step 4.jpg|center]]",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "=== Non-Contact Voltage Tester ===",
+                    "Non-contact voltage testers do not have to actually touch live wires or outlets to provide a reading. Instead, place them close to the outlet, fixture or switch that you want to test.",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.[[Image:Use Voltage Testers Step 6.jpg|center]]",
+                    "#Read the results. Live current will activate the light on the voltage tester.[[Image:Use Voltage Testers Step 7.jpg|center]]",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Voltage tester of your choice",
+                    "*http://www.electrical-online.com/voltage-testers/",
+                    "*http://www.finehomebuilding.com/how-to/departments/building-skills/working-safely-around-electricity-use-voltage-tester-to-ensure-power-is-off.aspx"
+                ]
+            }
+        },
+        {
+            "id": "29936286",
+            "user": "Seymour Edits",
+            "timestamp": "19:25, 30 September 2021",
+            "anon": false,
+            "size": "(2,544 bytes)",
+            "change": -11,
+            "summary": "(tweaked header titles for internal project)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "=== Two-Lead Circuit Tester ===",
+                    "=== Electrical Outlet Tester ===",
+                    "=== Non-Contact Voltage Tester ==="
+                ],
+                "removed": [
+                    "=== Using a Two-Wire Volt Tester ===",
+                    "=== Using an Outlet Tester ===",
+                    "=== Using a Non-Contact Voltage Tester ==="
+                ]
+            }
+        },
+        {
+            "id": "26346823",
+            "user": "MiscBot",
+            "timestamp": "07:47, 29 March 2019",
+            "anon": false,
+            "size": "(2,555 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "18034313",
+            "user": "MiscBot",
+            "timestamp": "16:17, 28 July 2015",
+            "anon": false,
+            "size": "(2,566 bytes)",
+            "change": -98,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.[[Image:Use Voltage Testers Step 1.jpg|center]]",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.[[Image:Use Voltage Testers Step 2.jpg|center]]",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.[[Image:Use Voltage Testers Step 3.jpg|center]]",
+                    "#Plug the voltage tester into the outlet.[[Image:Use Voltage Testers Step 4.jpg|center]]",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.[[Image:Use Voltage Testers Step 5.jpg|center]]",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.[[Image:Use Voltage Testers Step 6.jpg|center]]",
+                    "#Read the results. Live current will activate the light on the voltage tester.[[Image:Use Voltage Testers Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.<br><br>[[Image:Use Voltage Testers Step 1.jpg|center|550px]]",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.<br><br>[[Image:Use Voltage Testers Step 2.jpg|center|550px]]",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.<br><br>[[Image:Use Voltage Testers Step 3.jpg|center|550px]]",
+                    "#Plug the voltage tester into the outlet.<br><br>[[Image:Use Voltage Testers Step 4.jpg|center|550px]]",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.<br><br>[[Image:Use Voltage Testers Step 5.jpg|center|550px]]",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.<br><br>[[Image:Use Voltage Testers Step 6.jpg|center|550px]]",
+                    "#Read the results. Live current will activate the light on the voltage tester.<br><br>[[Image:Use Voltage Testers Step 7.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17908454",
+            "user": "InterwikiBot",
+            "timestamp": "20:42, 24 July 2015",
+            "anon": false,
+            "size": "(2,664 bytes)",
+            "change": -158,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:usar un medidor de voltaje]]",
+                    "[[it:Utilizzare i Cercafase]]",
+                    "[[pt:Utilizar Testadores de Voltagem]]",
+                    "[[ru:пользоваться вольтметром]]"
+                ]
+            }
+        },
+        {
+            "id": "13687447",
+            "user": "InterwikiBot",
+            "timestamp": "17:30, 22 May 2014",
+            "anon": false,
+            "size": "(2,822 bytes)",
+            "change": 55,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:пользоваться вольтметром]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13156787",
+            "user": "InterwikiBot",
+            "timestamp": "03:12, 1 April 2014",
+            "anon": false,
+            "size": "(2,767 bytes)",
+            "change": 39,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Utilizar Testadores de Voltagem]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13147092",
+            "user": "InterwikiBot",
+            "timestamp": "01:25, 1 April 2014",
+            "anon": false,
+            "size": "(2,728 bytes)",
+            "change": 30,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[it:Utilizzare i Cercafase]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12111859",
+            "user": "Wikiphoto",
+            "timestamp": "13:56, 15 December 2013",
+            "anon": false,
+            "size": "(2,698 bytes)",
+            "change": 64,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.<br><br>[[Image:Use Voltage Testers Step 1.jpg|center|550px]]",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.<br><br>[[Image:Use Voltage Testers Step 2.jpg|center|550px]]",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.<br><br>[[Image:Use Voltage Testers Step 3.jpg|center|550px]]",
+                    "#Plug the voltage tester into the outlet.<br><br>[[Image:Use Voltage Testers Step 4.jpg|center|550px]]",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.<br><br>[[Image:Use Voltage Testers Step 5.jpg|center|550px]]",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.<br><br>[[Image:Use Voltage Testers Step 6.jpg|center|550px]]",
+                    "#Read the results. Live current will activate the light on the voltage tester.<br><br>[[Image:Use Voltage Testers Step 7.jpg|center|550px]]",
+                    "",
+                    ""
+                ],
+                "removed": [
+                    "#[[Image:Use Voltage Testers Step 1.jpg|right|300px]]Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.",
+                    "#[[Image:Use Voltage Testers Step 2.jpg|right|300px]]Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.",
+                    "#[[Image:Use Voltage Testers Step 3.jpg|right|300px]]Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.",
+                    "#[[Image:Use Voltage Testers Step 4.jpg|right|300px]]Plug the voltage tester into the outlet.",
+                    "#[[Image:Use Voltage Testers Step 5.jpg|right|300px]]Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.",
+                    "#[[Image:Use Voltage Testers Step 6.jpg|right|300px]]Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.",
+                    "#[[Image:Use Voltage Testers Step 7.jpg|right|300px]]Read the results. Live current will activate the light on the voltage tester."
+                ]
+            }
+        },
+        {
+            "id": "12111858",
+            "user": "Wikiphoto",
+            "timestamp": "13:56, 15 December 2013",
+            "anon": false,
+            "size": "(2,634 bytes)",
+            "change": 310,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs.",
+                    "#[[Image:Use Voltage Testers Step 1.jpg|right|300px]]Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.",
+                    "#[[Image:Use Voltage Testers Step 2.jpg|right|300px]]Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.",
+                    "#[[Image:Use Voltage Testers Step 3.jpg|right|300px]]Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.",
+                    "#[[Image:Use Voltage Testers Step 4.jpg|right|300px]]Plug the voltage tester into the outlet.",
+                    "#[[Image:Use Voltage Testers Step 5.jpg|right|300px]]Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.",
+                    "#[[Image:Use Voltage Testers Step 6.jpg|right|300px]]Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.",
+                    "#[[Image:Use Voltage Testers Step 7.jpg|right|300px]]Read the results. Live current will activate the light on the voltage tester."
+                ],
+                "removed": [
+                    "[[Image:High voltage equipment.jpg|thumb|right|251px]]Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs.",
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.",
+                    "#Plug the voltage tester into the outlet.",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.",
+                    "#Read the results. Live current will activate the light on the voltage tester."
+                ]
+            }
+        },
+        {
+            "id": "11488748",
+            "user": "Votebot",
+            "timestamp": "22:53, 21 October 2013",
+            "anon": false,
+            "size": "(2,324 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10240640",
+            "user": "InterwikiBot",
+            "timestamp": "16:24, 20 June 2013",
+            "anon": false,
+            "size": "(2,322 bytes)",
+            "change": 34,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:usar un medidor de voltaje]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9103665",
+            "user": "BR",
+            "timestamp": "23:18, 26 January 2013",
+            "anon": false,
+            "size": "(2,288 bytes)",
+            "change": -8,
+            "summary": "(Reverted edits by 86.15.1.110 (Talk); changed back to last version by Jam3swilliams)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "*Voltage tester of your choice"
+                ],
+                "removed": [
+                    "*Voltage tester of your choicesyshuuan"
+                ]
+            }
+        },
+        {
+            "id": "9103413",
+            "user": "86.15.1.110",
+            "timestamp": "22:03, 26 January 2013",
+            "anon": true,
+            "size": "(2,296 bytes)",
+            "change": 8,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*Voltage tester of your choicesyshuuan"
+                ],
+                "removed": [
+                    "*Voltage tester of your choice"
+                ]
+            }
+        },
+        {
+            "id": "9052935",
+            "user": "Jam3swilliams",
+            "timestamp": "21:21, 17 January 2013",
+            "anon": false,
+            "size": "(2,288 bytes)",
+            "change": 54,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:High voltage equipment.jpg|thumb|right|251px]]Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs."
+                ],
+                "removed": [
+                    "Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs."
+                ]
+            }
+        },
+        {
+            "id": "8028270",
+            "user": "ColinJ",
+            "timestamp": "17:55, 3 July 2012",
+            "anon": false,
+            "size": "(2,234 bytes)",
+            "change": -1,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8028118",
+            "user": "99.65.214.209",
+            "timestamp": "17:33, 3 July 2012",
+            "anon": true,
+            "size": "(2,235 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7148594",
+            "user": "Cheeser",
+            "timestamp": "02:13, 18 January 2012",
+            "anon": false,
+            "size": "(2,234 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Maintenance and Repair]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7120631",
+            "user": "WRM",
+            "timestamp": "05:49, 12 January 2012",
+            "anon": false,
+            "size": "(2,197 bytes)",
+            "change": 2197,
+            "summary": "(New page: Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish di...)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Use voltage testers to confirm that you have shut off electricity to a receptacle or fixture when you are doing any kind of electrical work. Different models will help you to accomplish different kinds of jobs.",
+                    "== Steps ==",
+                    "=== Using a Two-Wire Volt Tester ===",
+                    "A two-wire volt tester consist of two leads, one that is connected to a ground reference and one that is used to test for current in a wire.",
+                    "#Place one lead on a ground reference. A ground reference can be a box screw, a neutral side of an outlet, or a neutral white wire.",
+                    "#Place the other lead on the hot wire. You can place the lead on the hot side of an outlet, which is the shorter side of the plug, or on black or red wire.",
+                    "#Read the results. If you have not properly disconnected the electric current, then the voltage tester light will be activated.",
+                    "=== Using an Outlet Tester ===",
+                    "Outlet testers are the simplest type of voltage tester to use. These testers usually have three lights. The key on the top of the tester will explain how to read the results.",
+                    "#Plug the voltage tester into the outlet.",
+                    "#Read the results by referring to the key on top of the tester. If no light is activated, then you have disconnected the current appropriately.",
+                    "=== Using a Non-Contact Voltage Tester ===",
+                    "Non-contact voltage testers do not have to actually touch live wires or outlets to provide a reading. Instead, place them close to the outlet, fixture or switch that you want to test.",
+                    "#Place the non-contact tester near the fixture that you want to test. Place the tester as close to the circuit as you possibly can.",
+                    "#Read the results. Live current will activate the light on the voltage tester.",
+                    "== Tips ==",
+                    "*Never hold a voltage tester lead against a bare wire. Instead, screw a wire nut onto the ends of the loose wires and place the tester inside the wire nut.",
+                    "== Warnings ==",
+                    "*Contact a licensed electrician if you are not experienced with electrical repairs.",
+                    "== Things You'll Need ==",
+                    "*Voltage tester of your choice",
+                    "== Sources and Citations ==",
+                    "*http://www.electrical-online.com/voltage-testers/",
+                    "*http://www.finehomebuilding.com/how-to/departments/building-skills/working-safely-around-electricity-use-voltage-tester-to-ensure-power-is-off.aspx"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "discussions": []
+}

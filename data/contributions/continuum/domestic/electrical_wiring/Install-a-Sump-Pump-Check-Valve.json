@@ -1,0 +1,670 @@
+{
+    "title": "Install-a-Sump-Pump-Check-Valve",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T09:48:00.615160",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33181289",
+            "user": "MiscBot",
+            "timestamp": "19:11, 24 February 2025",
+            "anon": false,
+            "size": "(14,273 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32394134",
+            "user": "WikiHow Projects",
+            "timestamp": "14:54, 27 March 2024",
+            "anon": false,
+            "size": "(14,254 bytes)",
+            "change": 255,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*You may find the fit to be a little tight at first. Trim away the excess length so that all the parts fit together perfectly.{{expertgreenbox:161713|'''Add check valves to pump outflows.''' Put a simple check valve on the outflow discharge pipe of any sump pump. This will stop water from flowing back into the sump pit after the pump shuts off. This keeps the area pumped dry.|}}"
+                ],
+                "removed": [
+                    "#*You may find the fit to be a little tight at first. Trim away the excess length so that all the parts fit together perfectly."
+                ]
+            }
+        },
+        {
+            "id": "32309831",
+            "user": "Thomas_Ch",
+            "timestamp": "18:06, 22 February 2024",
+            "anon": false,
+            "size": "(13,999 bytes)",
+            "change": 300,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about plumbing, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript David Balkan Part 2 | interview}} with [v161713_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32250410",
+            "user": "Seymour Edits",
+            "timestamp": "03:33, 1 February 2024",
+            "anon": false,
+            "size": "(13,699 bytes)",
+            "change": 200,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A check valve is an important part of keeping a [[Install a Sump Pump|sump pump]] system running. Sump pumps drain water out of damp areas, such as the basement of your home. The valve prevents water from running back down to the sump pump.<ref>[v161713_b01]. 29 April 2021.</ref> To install a pump valve, you either have to detach the old valve or cut through the drainage pipe to fit a new one. The installation process isn’t complicated, though cutting and cementing all the PVC parts together can be precise work. However, once you fit the valve perfectly, your sump pump will deactivate when it doesn’t detect water, preventing it from burning out.",
+                    "#*The size of the pipe matters a lot. The sump pump, valve, and pipe fittings have to be about the same diameter so they fit together seamlessly.<ref>[v161713_b01]. 29 April 2021.</ref>",
+                    "#Locate the drainage pipe between the pump and the wall of your home. The drainage pipe connects to the sump pump, so look into the pit to follow it from there. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump.<ref>[v161713_b01]. 29 April 2021.</ref> It is typically the only pipe leading to the sump pump, so it isn’t too tough to identify.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 5 Version 2.jpg|center]]",
+                    "#*The pipe always takes water out of your home.<ref>[v161713_b01]. 29 April 2021.</ref> If there are several pipes nearby, you may wish to follow it out of your home so you don't end up cutting the wrong one.",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. Put the pump back in its pit first if you removed it. In order to test it, pour some water in with it. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump.<ref>[v161713_b01]. 29 April 2021.</ref> You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "A check valve is an important part of keeping a [[Install a Sump Pump|sump pump]] system running. Sump pumps drain water out of damp areas, such as the basement of your home. The valve prevents water from running back down to the sump pump. To install a pump valve, you either have to detach the old valve or cut through the drainage pipe to fit a new one. The installation process isn’t complicated, though cutting and cementing all the PVC parts together can be precise work. However, once you fit the valve perfectly, your sump pump will deactivate when it doesn’t detect water, preventing it from burning out.",
+                    "#*The size of the pipe matters a lot. The sump pump, valve, and pipe fittings have to be about the same diameter so they fit together seamlessly.",
+                    "#Locate the drainage pipe between the pump and the wall of your home. The drainage pipe connects to the sump pump, so look into the pit to follow it from there. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. It is typically the only pipe leading to the sump pump, so it isn’t too tough to identify.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 5 Version 2.jpg|center]]",
+                    "#*The pipe always takes water out of your home. If there are several pipes nearby, you may wish to follow it out of your home so you don't end up cutting the wrong one.",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. Put the pump back in its pit first if you removed it. In order to test it, pour some water in with it. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27537798",
+            "user": "Wikivisual",
+            "timestamp": "14:26, 30 December 2019",
+            "anon": false,
+            "size": "(13,499 bytes)",
+            "change": 446,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Measure the diameter of your existing drainage pipe. PVC pipe often has the diameter printed somewhere on it. If yours doesn’t, you can hold a tape measure across an open end of the pipe. Detach the old sump pump check valve if you have one in place. Otherwise, deactivate the pump and then cut through the pipe to measure across it.<ref>https://www.youtube.com/watch?v=2SKGm2pCm6A&feature=youtu.be&t=85</ref>[[Image:Install a Sump Pump Check Valve Step 1 Version 2.jpg|center]]",
+                    "#Purchase the PVC fittings you need for the installation. Sump pumps and valves make use of PVC pipes to direct water outside your home. PVC is a type of plastic pipe that is very waterproof and damage-resistant. There are different types of fittings you can use to fit any valve into an existing drainage pipe, so shop for a few that fit the pipe in your home. You will need:<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 2 Version 2.jpg|center]]",
+                    "#Buy a new valve that is the same diameter as the drainage pipe. Use the diameter measurement you took to pick out a valve. If you have an old valve, you can measure its length and diameter to get a more accurate estimate of what you need to shop for. Measure between the metal clamps on the valve or the PVC couplings on the drainage type to determine the valve’s length. When picking out a new valve, also note the features between different brands.<ref>https://www.youtube.com/watch?v=8TfZ1NDXWWo&feature=youtu.be&t=56</ref>[[Image:Install a Sump Pump Check Valve Step 3 Version 2.jpg|center]]",
+                    "#Unplug the pump’s power cord before installing the valve. Before you get started, turn off the electricity to the pump. It’s easy to do simply by unplugging the power cord from the wall outlet. Set the cord aside so it doesn’t fall back into the pit with any water that many still be in there.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=155</ref>[[Image:Install a Sump Pump Check Valve Step 4 Version 2.jpg|center]]",
+                    "#Locate the drainage pipe between the pump and the wall of your home. The drainage pipe connects to the sump pump, so look into the pit to follow it from there. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. It is typically the only pipe leading to the sump pump, so it isn’t too tough to identify.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 5 Version 2.jpg|center]]",
+                    "#Measure the length of the valve you plan on installing. The valve fits on the discharge pipe. If your sump pump is already installed, fitting the valve means removing a section of the pipe. Many check valves have a central section where the pump is and threaded ends that connect to the pipes. Measure the central part from one end to the other.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=171</ref>[[Image:Install a Sump Pump Check Valve Step 6 Version 2.jpg|center]]",
+                    "#[[Cut PVC Pipe|Cut]] the pipe if you’re installing a new valve. Try installing the check valve on the vertical length of pipe emerging from the sump pump pit, if possible. Use a PVC pipe cutter or a hacksaw to slice across the pipe twice. Remove a section of the pipe that is about the same length as the valve. Remember, you are better off cutting the pipe several times than taking out too much, so err on the side of caution.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 7 Version 2.jpg|center]]",
+                    "#Remove the old valve if you’re replacing one. Instead of cutting the pipe, detach the old valve from the pipes. This will depend on the kind of valve you have. If yours has metal clamps securing it to the pipe, turn the screws on the clamps counterclockwise to loosen the valve. Disconnect the lower pipe first, then hold a bucket underneath it to catch any water that comes out of the valve as you finish detaching it.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=13</ref>[[Image:Install a Sump Pump Check Valve Step 8 Version 2.jpg|center]]",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. The freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.<ref>https://www.youtube.com/watch?v=kXhZWgQb22k&feature=youtu.be&t=33</ref>[[Image:Install a Sump Pump Check Valve Step 9 Version 2.jpg|center]]",
+                    "#Fit PVC nuts onto each of the pipes. PVC nuts are basically rings that keep everything held together and leak-proof. They have to be fit on first before the valve is connected to the pipes. Slide one on the lower portion of the pipe and let it rest there for now. Fit another one on the upper length of pipe and hold it in place.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=135</ref>[[Image:Install a Sump Pump Check Valve Step 10 Version 2.jpg|center]]",
+                    "#Place PVC couplers on the ends of the pipes. Couplers are small PVC tubes that join pipes and installations like check valves. Each coupler fits on the end of a pipe. Start with the upper coupler, pushing it onto the pipe. Once it is in place, let go of the PVC nut and fit the lower coupler onto the opposite length of pipe.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=381</ref>[[Image:Install a Sump Pump Check Valve Step 11 Version 2.jpg|center]]",
+                    "#Position the valve in the gap between the pipes. Turn the valve so the arrow printed on it points upward. The valve most likely came with a pair of rubber o-rings for waterproofing, so slide them on the ends next. Then, fit the valve in place. It’s simple, but starting with the lower end is usually a little easier. Rotate the couplers clockwise by hand to tighten the connections, then slide the PVC nuts over them.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 12 Version 2.jpg|center]]",
+                    "#Spread PVC cement around the pipes and couplings to secure them.  Unfortunately, you have to take everything apart to do this, but at least you know you will end up with a perfect fit. First, use a cotton swab to coat the outside edges of the existing pipes. Follow up with a coating of cement on the insides of the couplings. Finish by putting all the parts back together.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 13 Version 2.jpg|center]]",
+                    "#Let the cement dry for about 2 hours. When joining the PVC couplings, install the upper one first.  Hold it in place for about 30 seconds to bond it to the pipe. Repeat this with the second one. Then, give everything plenty of time to dry before operating the pump.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 14 Version 2.jpg|center]]",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. Put the pump back in its pit first if you removed it. In order to test it, pour some water in with it. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Measure the diameter of your existing drainage pipe. PVC pipe often has the diameter printed somewhere on it. If yours doesn’t, you can hold a tape measure across an open end of the pipe. Detach the old sump pump check valve if you have one in place. Otherwise, deactivate the pump and then cut through the pipe to measure across it.<ref>https://www.youtube.com/watch?v=2SKGm2pCm6A&feature=youtu.be&t=85</ref>[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#Purchase the PVC fittings you need for the installation. Sump pumps and valves make use of PVC pipes to direct water outside your home. PVC is a type of plastic pipe that is very waterproof and damage-resistant. There are different types of fittings you can use to fit any valve into an existing drainage pipe, so shop for a few that fit the pipe in your home. You will need:<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 2.jpg|center]]",
+                    "#Buy a new valve that is the same diameter as the drainage pipe. Use the diameter measurement you took to pick out a valve. If you have an old valve, you can measure its length and diameter to get a more accurate estimate of what you need to shop for. Measure between the metal clamps on the valve or the PVC couplings on the drainage type to determine the valve’s length. When picking out a new valve, also note the features between different brands.<ref>https://www.youtube.com/watch?v=8TfZ1NDXWWo&feature=youtu.be&t=56</ref>",
+                    "#Unplug the pump’s power cord before installing the valve. Before you get started, turn off the electricity to the pump. It’s easy to do simply by unplugging the power cord from the wall outlet. Set the cord aside so it doesn’t fall back into the pit with any water that many still be in there.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=155</ref>[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Locate the drainage pipe between the pump and the wall of your home. The drainage pipe connects to the sump pump, so look into the pit to follow it from there. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. It is typically the only pipe leading to the sump pump, so it isn’t too tough to identify.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#Measure the length of the valve you plan on installing. The valve fits on the discharge pipe. If your sump pump is already installed, fitting the valve means removing a section of the pipe. Many check valves have a central section where the pump is and threaded ends that connect to the pipes. Measure the central part from one end to the other.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=171</ref>",
+                    "#[[Cut PVC Pipe|Cut]] the pipe if you’re installing a new valve. Try installing the check valve on the vertical length of pipe emerging from the sump pump pit, if possible. Use a PVC pipe cutter or a hacksaw to slice across the pipe twice. Remove a section of the pipe that is about the same length as the valve. Remember, you are better off cutting the pipe several times than taking out too much, so err on the side of caution.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#Remove the old valve if you’re replacing one. Instead of cutting the pipe, detach the old valve from the pipes. This will depend on the kind of valve you have. If yours has metal clamps securing it to the pipe, turn the screws on the clamps counterclockwise to loosen the valve. Disconnect the lower pipe first, then hold a bucket underneath it to catch any water that comes out of the valve as you finish detaching it.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=13</ref>",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. The freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.<ref>https://www.youtube.com/watch?v=kXhZWgQb22k&feature=youtu.be&t=33</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#Fit PVC nuts onto each of the pipes. PVC nuts are basically rings that keep everything held together and leak-proof. They have to be fit on first before the valve is connected to the pipes. Slide one on the lower portion of the pipe and let it rest there for now. Fit another one on the upper length of pipe and hold it in place.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=135</ref>",
+                    "#Place PVC couplers on the ends of the pipes. Couplers are small PVC tubes that join pipes and installations like check valves. Each coupler fits on the end of a pipe. Start with the upper coupler, pushing it onto the pipe. Once it is in place, let go of the PVC nut and fit the lower coupler onto the opposite length of pipe.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=381</ref>",
+                    "#Position the valve in the gap between the pipes. Turn the valve so the arrow printed on it points upward. The valve most likely came with a pair of rubber o-rings for waterproofing, so slide them on the ends next. Then, fit the valve in place. It’s simple, but starting with the lower end is usually a little easier. Rotate the couplers clockwise by hand to tighten the connections, then slide the PVC nuts over them.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#Spread PVC cement around the pipes and couplings to secure them.  Unfortunately, you have to take everything apart to do this, but at least you know you will end up with a perfect fit. First, use a cotton swab to coat the outside edges of the existing pipes. Follow up with a coating of cement on the insides of the couplings. Finish by putting all the parts back together.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]",
+                    "#Let the cement dry for about 2 hours. When joining the PVC couplings, install the upper one first.  Hold it in place for about 30 seconds to bond it to the pipe. Repeat this with the second one. Then, give everything plenty of time to dry before operating the pump.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 14.jpg|center]]",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. Put the pump back in its pit first if you removed it. In order to test it, pour some water in with it. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27485120",
+            "user": "Seymour Edits",
+            "timestamp": "16:37, 13 December 2019",
+            "anon": false,
+            "size": "(13,053 bytes)",
+            "change": 150,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-a-Sump-Pump-Check-Valve}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27440424",
+            "user": "Sophia B",
+            "timestamp": "21:23, 3 December 2019",
+            "anon": false,
+            "size": "(12,903 bytes)",
+            "change": 2,
+            "summary": "(corrected errors)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*The pipe always takes water out of your home. If there are several pipes nearby, you may wish to follow it out of your home so you don't end up cutting the wrong one.",
+                    "#*Cut gradually and test-fit the parts before making corrections. Leaving the pipe a little long at first is fine and safe since you can always correct it later.",
+                    "#*Some valves use PVC cement and couplers instead. Use a hairdryer to heat the pipes until they turn soft. Then, rotate the pipes counterclockwise with pliers until you are able to slip the valve off of them.",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. The freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.<ref>https://www.youtube.com/watch?v=kXhZWgQb22k&feature=youtu.be&t=33</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#*You can use higher-grit fine sandpaper, like 220, if you don’t specifically have 180.",
+                    "#Fit PVC nuts onto each of the pipes. PVC nuts are basically rings that keep everything held together and leak-proof. They have to be fit on first before the valve is connected to the pipes. Slide one on the lower portion of the pipe and let it rest there for now. Fit another one on the upper length of pipe and hold it in place.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=135</ref>",
+                    "#Spread PVC cement around the pipes and couplings to secure them.  Unfortunately, you have to take everything apart to do this, but at least you know you will end up with a perfect fit. First, use a cotton swab to coat the outside edges of the existing pipes. Follow up with a coating of cement on the insides of the couplings. Finish by putting all the parts back together.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#*The pipe always takes water out of your home. If you there are several pipes nearby, you may wish to follow it out of your home so you don't end up cutting the wrong one.",
+                    "#*Cut gradually and test-fit the parts before making corrections. Leaving the pipe a little long at first is fine and safe, since you can always correct it later.",
+                    "#*Some valves use PVC cement and couplers instead. Use a hair dryer to heat the pipes until they turn soft. Then, rotate the pipes counterclockwise with pliers until you are able to slip the valve off of them.",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. Freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.<ref>https://www.youtube.com/watch?v=kXhZWgQb22k&feature=youtu.be&t=33</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#*You can use a higher-grit fine sandpaper, like 220, if you don’t specifically have 180.",
+                    "#Fit PVC nuts onto each of the pipes. PVC nuts are basically rings that keep everything held together and leak-proof. They have to be fit on first before the valve is connected to the pipes. Slide one on the lower pipe and let it rest on the  floor for now. Fit another one on the upper length of pipe and hold it in place.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=135</ref>",
+                    "#Spread PVC cement around the pipes and couplings to secure them.  Unfortunately, you have to  take everything apart to do this, but at least you know you will end up with a perfect fit. First, use a cotton swab to coat the outside edges of the existing pipes. Follow up with a coating of cement on the insides of the couplings. Finish by putting all the parts back together.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27440143",
+            "user": "Seymour Edits",
+            "timestamp": "19:41, 3 December 2019",
+            "anon": false,
+            "size": "(12,901 bytes)",
+            "change": 1903,
+            "summary": "(Adding info on choosing valve and cutting PVC.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A check valve is an important part of keeping a [[Install a Sump Pump|sump pump]] system running. Sump pumps drain water out of damp areas, such as the basement of your home. The valve prevents water from running back down to the sump pump. To install a pump valve, you either have to detach the old valve or cut through the drainage pipe to fit a new one. The installation process isn’t complicated, though cutting and cementing all the PVC parts together can be precise work. However, once you fit the valve perfectly, your sump pump will deactivate when it doesn’t detect water, preventing it from burning out.",
+                    "#Measure the diameter of your existing drainage pipe. PVC pipe often has the diameter printed somewhere on it. If yours doesn’t, you can hold a tape measure across an open end of the pipe. Detach the old sump pump check valve if you have one in place. Otherwise, deactivate the pump and then cut through the pipe to measure across it.<ref>https://www.youtube.com/watch?v=2SKGm2pCm6A&feature=youtu.be&t=85</ref>[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#*The size of the pipe matters a lot. The sump pump, valve, and pipe fittings have to be about the same diameter so they fit together seamlessly.",
+                    "#Buy a new valve that is the same diameter as the drainage pipe. Use the diameter measurement you took to pick out a valve. If you have an old valve, you can measure its length and diameter to get a more accurate estimate of what you need to shop for. Measure between the metal clamps on the valve or the PVC couplings on the drainage type to determine the valve’s length. When picking out a new valve, also note the features between different brands.<ref>https://www.youtube.com/watch?v=8TfZ1NDXWWo&feature=youtu.be&t=56</ref>",
+                    "#*Most valves are {{convert|1+1/4|to|1+1/2|in|cm|abbr=on}} in diameter, so picking out one usually isn’t too tough.",
+                    "#*The length isn’t quite as important as the diameter. This is because you can always trim the drainage pipe to make the valve fit.",
+                    "#*Check valves are mostly all the same. Some of them have more plastic and require PVC couplings to fit to a pipe while others have metal clamps. Some are quieter or have an extra branch to connect to other pipes.",
+                    "#*Wait for the pump to drain any water in its pit before deactivating it. A little bit of water may come back down the drainage pipe, but this is unavoidable unless you have a working valve installed.",
+                    "===Opening the Drainage Pipe===",
+                    "#Locate the drainage pipe between the pump and the wall of your home. The drainage pipe connects to the sump pump, so look into the pit to follow it from there. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. It is typically the only pipe leading to the sump pump, so it isn’t too tough to identify.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#[[Cut PVC Pipe|Cut]] the pipe if you’re installing a new valve. Try installing the check valve on the vertical length of pipe emerging from the sump pump pit, if possible. Use a PVC pipe cutter or a hacksaw to slice across the pipe twice. Remove a section of the pipe that is about the same length as the valve. Remember, you are better off cutting the pipe several times than taking out too much, so err on the side of caution.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#*The valve is easier to install on the vertical part of the pipe, which is right near the sump pump at arm’s reach. If you can access a horizontal part of the pipe, try installing it there to compensate for gravity pulling water back down toward the pump.",
+                    "#*Cut gradually and test-fit the parts before making corrections. Leaving the pipe a little long at first is fine and safe, since you can always correct it later.",
+                    "#Remove the old valve if you’re replacing one. Instead of cutting the pipe, detach the old valve from the pipes. This will depend on the kind of valve you have. If yours has metal clamps securing it to the pipe, turn the screws on the clamps counterclockwise to loosen the valve. Disconnect the lower pipe first, then hold a bucket underneath it to catch any water that comes out of the valve as you finish detaching it.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=13</ref>",
+                    "#*Some valves use PVC cement and couplers instead. Use a hair dryer to heat the pipes until they turn soft. Then, rotate the pipes counterclockwise with pliers until you are able to slip the valve off of them.",
+                    "#*Replace an old valve if it is worn out, leaky, broken, or loud.",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. Freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.<ref>https://www.youtube.com/watch?v=kXhZWgQb22k&feature=youtu.be&t=33</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. Put the pump back in its pit first if you removed it. In order to test it, pour some water in with it. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]",
+                    "#*Situate the sump pump in the center of the pit. If the drainage pipe has come loose, plug it into the spout emerging from the pump’s base, gluing it with cement. Most pumps require a coupling or adapter to connect to the pipe."
+                ],
+                "removed": [
+                    "A check valve is an important part of keeping a [[Install a Sump Pump|sump pump]] system running. Sump pumps drain water out of damp areas, such as the basement of your home. The valve prevents water from running back down to the sump pump. If you already have a sump pump installed, you will need to cut out a portion of the drainage pipe to fit the valve. It is very easy to install, although cutting and cementing all the PVC parts together can be precise work. However, once you fit the valve perfectly, your sump pump will deactivate when it doesn’t detect water, preventing it from burning out.",
+                    "#Measure the diameter of your existing drainage pipe. Use a tape measure to determine its diameter. The size of the pipe matters a lot. If you don’t have the correct size, you won’t be able to get the parts needed for the installation. The sump pump and pipe fittings all have to be about the same diameter so they fit together seamlessly.<ref>https://www.youtube.com/watch?v=2SKGm2pCm6A&feature=youtu.be&t=85</ref>[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#*The valve should always be the same diameter as the existing drainage pipe. If it is too small, you will end up with water on the floor from leaks.",
+                    "#Drain the basin by using the pump. Once you’re ready to begin the installation, remove as much water from the pump as possible. Sump pumps sit in a small pit in the floor that fills with water over time. Plug the pump into a nearby outlet to let it remove all water from the pit. A little bit of water will come back down the drainage pipe, but it is unavoidable without a check valve installed.<ref>https://www.youtube.com/watch?v=EctiM8N684M&feature=youtu.be&t=26</ref>[[Image:Install a Sump Pump Check Valve Step 6.jpg|center]]",
+                    "#*The small bit of water in the pit won’t affect the installation process. You can safely turn off the pump until you’re done.",
+                    "#*If you need to, you can pull the pump out of the pit during the installation process. Make sure it isn’t running and has been disconnected from the wall outlet before you do this.",
+                    "===Cutting the Drainage Pipe===",
+                    "#Locate the discharge pipe between the pump and the wall of your home. The pump will only have one pipe and it will pass through the wall. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#[[Cut PVC Pipe|Cut]] the pipe close to where it emerges from the hole. Try installing the check valve on a vertical length of pipe, if possible. Use a PVC pipe cutter or a hacksaw to slice across the pipe. Cut a second time to create room for the valve. Remember, you are better off cutting the pipe several times than taking out too much, so err on the side of caution.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#*Many valves are about {{convert|1+1/2|in|cm|abbr=on}} in length, but yours may be different. Cut gradually and test-fit the parts before making corrections.",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. Freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. In order to test it, pour some water into the hole containing the pump. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27435888",
+            "user": "Seymour Edits",
+            "timestamp": "19:23, 2 December 2019",
+            "anon": false,
+            "size": "(10,998 bytes)",
+            "change": 4326,
+            "summary": "(Updating and expanding info.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A check valve is an important part of keeping a [[Install a Sump Pump|sump pump]] system running. Sump pumps drain water out of damp areas, such as the basement of your home. The valve prevents water from running back down to the sump pump. If you already have a sump pump installed, you will need to cut out a portion of the drainage pipe to fit the valve. It is very easy to install, although cutting and cementing all the PVC parts together can be precise work. However, once you fit the valve perfectly, your sump pump will deactivate when it doesn’t detect water, preventing it from burning out.",
+                    "===Measuring and Deactivating the Pump===",
+                    "#Measure the diameter of your existing drainage pipe. Use a tape measure to determine its diameter. The size of the pipe matters a lot. If you don’t have the correct size, you won’t be able to get the parts needed for the installation. The sump pump and pipe fittings all have to be about the same diameter so they fit together seamlessly.<ref>https://www.youtube.com/watch?v=2SKGm2pCm6A&feature=youtu.be&t=85</ref>[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#*If you are unable to get an accurate measurement, consider cutting out a small portion of the pipe near where it emerges from the pit containing the pump. Take it with you when you buy parts.",
+                    "#*The valve should always be the same diameter as the existing drainage pipe. If it is too small, you will end up with water on the floor from leaks.",
+                    "#Purchase the PVC fittings you need for the installation. Sump pumps and valves make use of PVC pipes to direct water outside your home. PVC is a type of plastic pipe that is very waterproof and damage-resistant. There are different types of fittings you can use to fit any valve into an existing drainage pipe, so shop for a few that fit the pipe in your home. You will need:<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 2.jpg|center]]",
+                    "#*A pair of PVC couplings or adapters.",
+                    "#*A pair of PVC nuts.",
+                    "#*A pipe cutter or hacksaw.",
+                    "#*PVC cement and an applicator.",
+                    "#*All of these supplies are available online and at most hardware stores.",
+                    "#Drain the basin by using the pump. Once you’re ready to begin the installation, remove as much water from the pump as possible. Sump pumps sit in a small pit in the floor that fills with water over time. Plug the pump into a nearby outlet to let it remove all water from the pit. A little bit of water will come back down the drainage pipe, but it is unavoidable without a check valve installed.<ref>https://www.youtube.com/watch?v=EctiM8N684M&feature=youtu.be&t=26</ref>[[Image:Install a Sump Pump Check Valve Step 6.jpg|center]]",
+                    "#*The small bit of water in the pit won’t affect the installation process. You can safely turn off the pump until you’re done.",
+                    "#*If you need to, you can pull the pump out of the pit during the installation process. Make sure it isn’t running and has been disconnected from the wall outlet before you do this.",
+                    "#Unplug the pump’s power cord before installing the valve. Before you get started, turn off the electricity to the pump. It’s easy to do simply by unplugging the power cord from the wall outlet. Set the cord aside so it doesn’t fall back into the pit with any water that many still be in there.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=155</ref>[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#*Note that the cap on top of the pump has electrical wiring in it. If you’re looking to take additional precautions, you can open the cap and detach the wires, but this usually isn’t necessary.",
+                    "===Cutting the Drainage Pipe===",
+                    "#Locate the discharge pipe between the pump and the wall of your home. The pump will only have one pipe and it will pass through the wall. The valve has to be installed on this pipe in order to prevent water from flowing back toward the pump. To get a clearer view of the entire pipe, lift the cover off the hole containing the sump pump.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#*The pipe always takes water out of your home. If you there are several pipes nearby, you may wish to follow it out of your home so you don't end up cutting the wrong one.",
+                    "#Measure the length of the valve you plan on installing. The valve fits on the discharge pipe. If your sump pump is already installed, fitting the valve means removing a section of the pipe. Many check valves have a central section where the pump is and threaded ends that connect to the pipes. Measure the central part from one end to the other.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=171</ref>",
+                    "#*There are a couple of different pump styles, so there are ones that have metal clamps. If you’re using one like this, measure the distance between the clamps.",
+                    "#[[Cut PVC Pipe|Cut]] the pipe close to where it emerges from the hole. Try installing the check valve on a vertical length of pipe, if possible. Use a PVC pipe cutter or a hacksaw to slice across the pipe. Cut a second time to create room for the valve. Remember, you are better off cutting the pipe several times than taking out too much, so err on the side of caution.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#*Many valves are about {{convert|1+1/2|in|cm|abbr=on}} in length, but yours may be different. Cut gradually and test-fit the parts before making corrections.",
+                    "#File the edges of the pipe smooth with 180-grit sandpaper. Freshly-cut PVC pipe can be very sharp, so mind your fingers. Lightly rub the sandpaper around the rim of each cut end on the remaining PVC. When the pipes feel smooth to the touch, they are ready for the valve.[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#*You can use a higher-grit fine sandpaper, like 220, if you don’t specifically have 180.",
+                    "===Connecting the Valve===",
+                    "#Fit PVC nuts onto each of the pipes. PVC nuts are basically rings that keep everything held together and leak-proof. They have to be fit on first before the valve is connected to the pipes. Slide one on the lower pipe and let it rest on the  floor for now. Fit another one on the upper length of pipe and hold it in place.<ref>https://www.youtube.com/watch?v=jp519dp266Y&feature=youtu.be&t=135</ref>",
+                    "#*Note that some valves have metal clamps on the ends. They function as both PVC nuts and couplers. You only have to tighten the clamp screws to secure them.",
+                    "#Place PVC couplers on the ends of the pipes. Couplers are small PVC tubes that join pipes and installations like check valves. Each coupler fits on the end of a pipe. Start with the upper coupler, pushing it onto the pipe. Once it is in place, let go of the PVC nut and fit the lower coupler onto the opposite length of pipe.<ref>https://www.youtube.com/watch?v=ZeggBBMuD_E&feature=youtu.be&t=381</ref>",
+                    "#*If you’re using PVC adapters, plug the threaded ends into the existing pipes. Screw them in clockwise until they are secure.",
+                    "#Position the valve in the gap between the pipes. Turn the valve so the arrow printed on it points upward. The valve most likely came with a pair of rubber o-rings for waterproofing, so slide them on the ends next. Then, fit the valve in place. It’s simple, but starting with the lower end is usually a little easier. Rotate the couplers clockwise by hand to tighten the connections, then slide the PVC nuts over them.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#*This is called a dry fit since you haven’t glued the pipes and valves. Use it to test the fits. This is the last opportunity you have to make adjustments!",
+                    "#*You may find the fit to be a little tight at first. Trim away the excess length so that all the parts fit together perfectly.",
+                    "#Spread PVC cement around the pipes and couplings to secure them.  Unfortunately, you have to  take everything apart to do this, but at least you know you will end up with a perfect fit. First, use a cotton swab to coat the outside edges of the existing pipes. Follow up with a coating of cement on the insides of the couplings. Finish by putting all the parts back together.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]",
+                    "#*Spread enough cement to completely cover the space where the couplings overlap the pipes.",
+                    "#*Remember to put the nuts on the pipes first so you can slide them over the couplings once you fit the valve back into place.",
+                    "#Let the cement dry for about 2 hours. When joining the PVC couplings, install the upper one first.  Hold it in place for about 30 seconds to bond it to the pipe. Repeat this with the second one. Then, give everything plenty of time to dry before operating the pump.<ref>https://www.bobvila.com/articles/how-to-install-a-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 14.jpg|center]]",
+                    "#*Be on the lookout for any open gaps in the pipes. If everything fit together, you shouldn’t see any. Correct problems before the cement has a chance to dry.",
+                    "#Test your sump pump check valve. With the sump pump installed, you finally get to enjoy the results of your hard work. In order to test it, pour some water into the hole containing the pump. Plug the pump into a nearby outlet and listen for the sound of water rushing through the drainage pump. You should be able to hear the flap inside of the valve open as the water pressure increases.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref>[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]",
+                    "#*The sump pump works by collecting water in the pit and pushing it up the drainage pipe. If you don’t see any water remaining when the pump shuts off, then you know the valve has done its job.",
+                    "#*Note any leaks or problems like water draining back into the hole. You may need to remove the valve and redo the connections.",
+                    "",
+                    "==Tips==",
+                    "*If you aren’t sure what valve size to get, cut off a piece of the drainage pipe and take it to a home improvement store.",
+                    "*Check valves are often installed inside the pit with the pump. This is easier to do before the sump pump and pipes are installed, so it’s not really worth the hassle if you’re working with an existing setup.",
+                    "*Depending on how the drainage pipe is set up in your home, you may need to reposition the sump pump or use connecting joints. For example, use an elbow joint to connect horizontal and vertical ports of the drainage pipe.",
+                    "",
+                    "==Things You’ll Need==",
+                    "*Sump pump check valve",
+                    "*Measuring tape",
+                    "*PVC pipe cutter or hacksaw",
+                    "*180-grit sandpaper",
+                    "*PVC couplings",
+                    "*PVC nuts",
+                    "*PVC cement",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "The check valve for your sump pump is a specific type of fitting that you can attach to either end of the pipes for your sump pump. The concept behind the check valve is relatively easy but highly functional. It is a metal flap that will remain shut until there is water pressure that forces it open. If the water pressure becomes lessened, the check valve prevents water backflow by returning to its original closed position.",
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.<ref>https://www.squareoneinsurance.com/us/sump-pump</ref> [[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Make sure you have what you need. Make sure that you have everything you will need throughout the entire process to be better prepared. You will need the following:[[Image:Install a Sump Pump Check Valve Step 2.jpg|center]]",
+                    "#* Tape measure",
+                    "#* Pipe cleaner",
+                    "#* PVC cement",
+                    "#* PVC cement applicator",
+                    "#* Utility knife",
+                    "#* Sump pump check valve",
+                    "#* Adapters or couplings",
+                    "#* Pipe cutter",
+                    "#You need to have the right tools for the job. Pay attention to the diameter of your existing discharge pipe. You can go to the local hardware store and buy the corresponding check valve (which comes with the correct diameter). It is important that you do not buy a valve with a smaller diameter than your current drainpipe.[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.[[Image:Install a Sump Pump Check Valve Step 4.jpg|center]]",
+                    "#Buy the right couplings. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.[[Image:Install a Sump Pump Check Valve Step 5.jpg|center]]",
+                    "#Drain the basin. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.[[Image:Install a Sump Pump Check Valve Step 6.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/</ref>  If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap.<ref>https://www.youtube.com/watch?v=EctiM8N684M</ref>  If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref> [[Image:Install a Sump Pump Check Valve Step 12.jpg|center]]",
+                    "#Seal the points of contact. If you have your sump pump check valve in place, you will now want to seal the points of contact. Use some PVC cement to create a good seal. Grab an applicator, put some cement on the applicator, and apply the cement across the gaps between the connections.[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]",
+                    "#Let the cement dry. Before you try your sump pump check valve make sure that you thoroughly clean the area. There should be no more open gaps.[[Image:Install a Sump Pump Check Valve Step 14.jpg|center]]",
+                    "#Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time.<ref>https://www.youtube.com/watch?v=jp519dp266Y</ref>  In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases.[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]",
+                    "== Warnings ==",
+                    "* If the gap is too small to fit your sump pump check valve perfectly, continue filing it down (if the difference is relatively minor) or cut some more of the pipe away. You should use some pipe cleaner on the pump check valve and the cut ends of the discharge pipe.",
+                    "* After you shut the pump down and the water pressure goes back down, you should be able to hear the flap inside of the pump check valve close again.",
+                    "* http://blog.dft-valves.com/blog/the-importance-of-accurate-check-valve-sizing"
+                ]
+            }
+        },
+        {
+            "id": "26788884",
+            "user": "Seymour Edits",
+            "timestamp": "14:11, 12 July 2019",
+            "anon": false,
+            "size": "(6,672 bytes)",
+            "change": 0,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/</ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/<?ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26788881",
+            "user": "Seymour Edits",
+            "timestamp": "14:10, 12 July 2019",
+            "anon": false,
+            "size": "(6,672 bytes)",
+            "change": 51,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.<ref>https://www.squareoneinsurance.com/us/sump-pump</ref> [[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/</ref>  If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.<ref>https://theplumbinginfo.com/battery-back-up-sump-pump-installation/<?ref>[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.<ref>https://www.youtube.com/watch?v=EctiM8N684M</ref> [[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump.<ref>https://www.youtube.com/watch?v=GRFwn5MM3UU</ref>  If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve.<ref>https://www.youtube.com/watch?v=jp519dp266Y</ref>  You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26782562",
+            "user": "Seymour Edits",
+            "timestamp": "22:17, 10 July 2019",
+            "anon": false,
+            "size": "(6,621 bytes)",
+            "change": -73,
+            "summary": "(removed banned source)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* http://home.howstuffworks.com/home-improvement/plumbing/sump-pump1.htm"
+                ]
+            }
+        },
+        {
+            "id": "26763936",
+            "user": "Seymour Edits",
+            "timestamp": "16:58, 5 July 2019",
+            "anon": false,
+            "size": "(6,694 bytes)",
+            "change": 390,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.<ref>https://www.youtube.com/watch?v=EctiM8N684M</ref> [[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.[[Image:Install a Sump Pump Check Valve Step 4.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump.<ref>https://www.youtube.com/watch?v=GRFwn5MM3UU</ref>  If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve.<ref>https://www.youtube.com/watch?v=jp519dp266Y</ref>  You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap.<ref>https://www.youtube.com/watch?v=EctiM8N684M</ref>  If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.<ref>https://www.popularmechanics.com/home/interior-projects/how-to/a167/how-to-install-sump-pump/</ref> [[Image:Install a Sump Pump Check Valve Step 12.jpg|center]]",
+                    "#Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time.<ref>https://www.youtube.com/watch?v=jp519dp266Y</ref>  In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases.[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.[[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.[[Image:Install a Sump Pump Check Valve Step 4.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump. If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap. If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.[[Image:Install a Sump Pump Check Valve Step 12.jpg|center]]",
+                    "#Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time. In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases.[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26297978",
+            "user": "MiscBot",
+            "timestamp": "02:53, 29 March 2019",
+            "anon": false,
+            "size": "(6,304 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "23983018",
+            "user": "Wikivisual",
+            "timestamp": "13:51, 5 February 2018",
+            "anon": false,
+            "size": "(6,315 bytes)",
+            "change": 876,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.[[Image:Install a Sump Pump Check Valve Step 1.jpg|center]]",
+                    "#Make sure you have what you need. Make sure that you have everything you will need throughout the entire process to be better prepared. You will need the following:[[Image:Install a Sump Pump Check Valve Step 2.jpg|center]]",
+                    "#You need to have the right tools for the job. Pay attention to the diameter of your existing discharge pipe. You can go to the local hardware store and buy the corresponding check valve (which comes with the correct diameter). It is important that you do not buy a valve with a smaller diameter than your current drainpipe.[[Image:Install a Sump Pump Check Valve Step 3.jpg|center]]",
+                    "#Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.[[Image:Install a Sump Pump Check Valve Step 4.jpg|center]]",
+                    "#Buy the right couplings. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.[[Image:Install a Sump Pump Check Valve Step 5.jpg|center]]",
+                    "#Drain the basin. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.[[Image:Install a Sump Pump Check Valve Step 6.jpg|center]]",
+                    "#Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump. If you want to be extra cautious, make sure that you unplug the sump pump altogether.[[Image:Install a Sump Pump Check Valve Step 7.jpg|center]]",
+                    "#Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.[[Image:Install a Sump Pump Check Valve Step 8.jpg|center]]",
+                    "#Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.[[Image:Install a Sump Pump Check Valve Step 9.jpg|center]]",
+                    "#File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.[[Image:Install a Sump Pump Check Valve Step 10.jpg|center]]",
+                    "#Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap. If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.[[Image:Install a Sump Pump Check Valve Step 11.jpg|center]]",
+                    "#Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.[[Image:Install a Sump Pump Check Valve Step 12.jpg|center]]",
+                    "#Seal the points of contact. If you have your sump pump check valve in place, you will now want to seal the points of contact. Use some PVC cement to create a good seal. Grab an applicator, put some cement on the applicator, and apply the cement across the gaps between the connections.[[Image:Install a Sump Pump Check Valve Step 13.jpg|center]]",
+                    "#Let the cement dry. Before you try your sump pump check valve make sure that you thoroughly clean the area. There should be no more open gaps.[[Image:Install a Sump Pump Check Valve Step 14.jpg|center]]",
+                    "#Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time. In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases.[[Image:Install a Sump Pump Check Valve Step 15.jpg|center]]"
+                ],
+                "removed": [
+                    "# Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.",
+                    "# Make sure you have what you need. Make sure that you have everything you will need throughout the entire process to be better prepared. You will need the following:",
+                    "# You need to have the right tools for the job. Pay attention to the diameter of your existing discharge pipe. You can go to the local hardware store and buy the corresponding check valve (which comes with the correct diameter). It is important that you do not buy a valve with a smaller diameter than your current drainpipe.",
+                    "# Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.",
+                    "# Buy the right couplings. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.",
+                    "# Drain the basin. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.",
+                    "# Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump. If you want to be extra cautious, make sure that you unplug the sump pump altogether.",
+                    "# Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.",
+                    "# Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.",
+                    "# File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.",
+                    "# Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap. If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.",
+                    "# Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.",
+                    "# Seal the points of contact. If you have your sump pump check valve in place, you will now want to seal the points of contact. Use some PVC cement to create a good seal. Grab an applicator, put some cement on the applicator, and apply the cement across the gaps between the connections.",
+                    "# Let the cement dry. Before you try your sump pump check valve make sure that you thoroughly clean the area. There should be no more open gaps.",
+                    "# Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time. In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases."
+                ]
+            }
+        },
+        {
+            "id": "21908856",
+            "user": "Minecraft.34",
+            "timestamp": "06:12, 21 February 2017",
+            "anon": false,
+            "size": "(5,439 bytes)",
+            "change": -54,
+            "summary": "(Edit via Quality Guardian: Removed video that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Video ==",
+                    "{{Video:Install a Sump Pump Check Valve|}}"
+                ]
+            }
+        },
+        {
+            "id": "21908735",
+            "user": "Emily Middleton",
+            "timestamp": "06:04, 21 February 2017",
+            "anon": false,
+            "size": "(5,493 bytes)",
+            "change": 56,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install a Sump Pump Check Valve|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "21291510",
+            "user": "Flickety",
+            "timestamp": "22:24, 6 November 2016",
+            "anon": false,
+            "size": "(5,437 bytes)",
+            "change": 0,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Waste Removal Systems]]"
+                ],
+                "removed": [
+                    "[[Category:Maintenance and Repair]]"
+                ]
+            }
+        },
+        {
+            "id": "15559013",
+            "user": "Calebchiu0827",
+            "timestamp": "03:51, 7 October 2014",
+            "anon": false,
+            "size": "(5,437 bytes)",
+            "change": 36,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Maintenance and Repair]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "15556860",
+            "user": "Dealmema",
+            "timestamp": "20:41, 6 October 2014",
+            "anon": false,
+            "size": "(5,401 bytes)",
+            "change": 5401,
+            "summary": "(Creating a new article via the Article Creator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "The check valve for your sump pump is a specific type of fitting that you can attach to either end of the pipes for your sump pump. The concept behind the check valve is relatively easy but highly functional. It is a metal flap that will remain shut until there is water pressure that forces it open. If the water pressure becomes lessened, the check valve prevents water backflow by returning to its original closed position.",
+                    "== Steps ==",
+                    "# Understand why installing a sump pump check valve matters.The installation of a sump pump check valve is vital to the functioning of the entire system. Having a check valve will make sure that the water lingering in the sump pump’s discharge line does not flow back into the basin of the sump pump after you shut the pump off.",
+                    "# Make sure you have what you need. Make sure that you have everything you will need throughout the entire process to be better prepared. You will need the following:",
+                    "#* Tape measure",
+                    "#* Pipe cleaner",
+                    "#* PVC cement",
+                    "#* PVC cement applicator",
+                    "#* Utility knife",
+                    "#* Sump pump check valve",
+                    "#* Adapters or couplings",
+                    "#* Pipe cutter",
+                    "# You need to have the right tools for the job. Pay attention to the diameter of your existing discharge pipe. You can go to the local hardware store and buy the corresponding check valve (which comes with the correct diameter). It is important that you do not buy a valve with a smaller diameter than your current drainpipe.",
+                    "# Bring a sample of your pipe.  If you are going to a hardware store, it is a good idea to bring a sample of your pipe with you if possible. This allows you to try to fit the valves with your pipe, just to be sure that you have a good fit. Because there are so many different valves available, you can opt for whatever suits your needs.",
+                    "# Buy the right couplings. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.",
+                    "# Drain the basin. You also need to make sure that you buy the adapters or couplings that are going to fit according to the size of your drainpipe. Again, if you are unsure, having the pipe with you at the store is going to eliminate a lot of the confusion.",
+                    "# Turning off the sump pump. Just to be sure, before you ever get started, you should turn off the electricity to the pump. If you want to be extra cautious, make sure that you unplug the sump pump altogether.",
+                    "# Locate the discharge pipe. Now you have your sump pump check valve. The next step is looking at the discharge pipe and figuring out where exactly you should place your check valve. The traditional option is to have it close to the sump pump itself, next to the sump pit. This is going to ensure that you do not have too much water trapped between the pump and the check valve.",
+                    "# Cut the pipe. Use a pipe cutter to cut the discharge pipe in two places. This is going to ensure that there is enough room to fit your new valve. You want to make sure that you do not cut too much of the pipe right away. Instead, measure first and then cut little by little. It is better to have to cut the pipe two or three times than realize that you took out too much.",
+                    "# File the edges. After you have made the cut the right way and you are happy with the result, you can smooth out the edges of the pipe. You want to file down the edges of the pipe as much as possible in order to smooth them out.",
+                    "# Fit the valve. You have a gap in your discharge pipe, now you want to fit the check valve into the recently created gap. If you were secure in determining the appropriate size at the start and with your cutting of the pipe, you should find that the valve actually fits perfectly.",
+                    "# Fit both ends together. Both ends of the discharge pipe go into both ends of the valve. Now all you have left to do is secure it. Join all the ends together by using the couplings.",
+                    "# Seal the points of contact. If you have your sump pump check valve in place, you will now want to seal the points of contact. Use some PVC cement to create a good seal. Grab an applicator, put some cement on the applicator, and apply the cement across the gaps between the connections.",
+                    "# Let the cement dry. Before you try your sump pump check valve make sure that you thoroughly clean the area. There should be no more open gaps.",
+                    "# Test your sump pump check valve. Now we have arrived at the final test, actually running your valve for the first time. In order to test your check valve, you have to open the pump and pump in some water from the sump pit. Pay close attention and listen carefully when the initial water pressure runs through the valve. You should be able to hear the flap inside of the valve open as the water pressure increases.",
+                    "",
+                    "== Warnings ==",
+                    "* If the gap is too small to fit your sump pump check valve perfectly, continue filing it down (if the difference is relatively minor) or cut some more of the pipe away. You should use some pipe cleaner on the pump check valve and the cut ends of the discharge pipe.",
+                    "* After you shut the pump down and the water pressure goes back down, you should be able to hear the flap inside of the pump check valve close again.",
+                    "",
+                    "== Sources and Citations ==",
+                    "* http://home.howstuffworks.com/home-improvement/plumbing/sump-pump1.htm",
+                    "* http://blog.dft-valves.com/blog/the-importance-of-accurate-check-valve-sizing"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

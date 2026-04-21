@@ -1,0 +1,1146 @@
+{
+    "title": "Pull-an-Electric-Meter",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:51:01.476470",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33281605",
+            "user": "MiscBot",
+            "timestamp": "09:01, 31 March 2025",
+            "anon": false,
+            "size": "(8,475 bytes)",
+            "change": -186,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:[[Image:Pull an Electric Meter Step 2 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<ref>https://newlook.dteenergy.com/wps/wcm/connect/c02b55b6-0219-4be4-a40b-91f2d204bf5e/serviceEquipment.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=c02b55b6-0219-4be4-a40b-91f2d204bf5e</ref>[[Image:Pull an Electric Meter Step 2 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "33045032",
+            "user": "WikiHow Projects",
+            "timestamp": "05:06, 6 January 2025",
+            "anon": false,
+            "size": "(8,661 bytes)",
+            "change": -81,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.<ref>[v161396_b01]. 3 March 2021.</ref>  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''[[Image:Pull an Electric Meter Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.<ref>[v161396_b01]. 3 March 2021.</ref>  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32715225",
+            "user": "Hopedemi",
+            "timestamp": "16:48, 12 August 2024",
+            "anon": false,
+            "size": "(8,742 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32685202",
+            "user": "Seymour Edits",
+            "timestamp": "03:19, 30 July 2024",
+            "anon": false,
+            "size": "(8,436 bytes)",
+            "change": 117,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.<ref>[v161396_b01]. 3 March 2021.</ref>  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<ref>https://firstenergycorp.com/content/customer/help/billingpayments/meter_reading/locating_your_meter.html</ref>[[Image:Pull an Electric Meter Step 1 Version 2.jpg|center]]",
+                    "#Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.<ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Pull an Electric Meter Step 4 Version 2.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.<ref>[v161396_b01]. 3 March 2021.</ref>  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<ref>https://firstenergycorp.com/content/customer/help/billingpayments/meter_reading/locating_your_meter.html</ref>[[Image:Pull an Electric Meter Step 1 Version 2.jpg|center]]",
+                    "#Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.[[Image:Pull an Electric Meter Step 4 Version 2.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32066468",
+            "user": "Wikivisual",
+            "timestamp": "18:16, 12 November 2023",
+            "anon": false,
+            "size": "(8,319 bytes)",
+            "change": 118,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<ref>https://firstenergycorp.com/content/customer/help/billingpayments/meter_reading/locating_your_meter.html</ref>[[Image:Pull an Electric Meter Step 1 Version 2.jpg|center]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<ref>https://newlook.dteenergy.com/wps/wcm/connect/c02b55b6-0219-4be4-a40b-91f2d204bf5e/serviceEquipment.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=c02b55b6-0219-4be4-a40b-91f2d204bf5e</ref>[[Image:Pull an Electric Meter Step 2 Version 2.jpg|center]]",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.[[Image:Pull an Electric Meter Step 3 Version 2.jpg|center]]",
+                    "#Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.[[Image:Pull an Electric Meter Step 4 Version 2.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5 Version 2.jpg|center]]",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.[[Image:Pull an Electric Meter Step 6 Version 2.jpg|center]]",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.[[Image:Pull an Electric Meter Step 7 Version 2.jpg|center]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.<ref>https://www.westflorida.coop/en/clf/stay-safe-dont-die-doing-diy-projects</ref>[[Image:Pull an Electric Meter Step 8 Version 2.jpg|center]]",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.[[Image:Pull an Electric Meter Step 9 Version 2.jpg|center]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.<ref>https://www.youtube.com/watch?v=bmdP3nvzAU4</ref>[[Image:Pull an Electric Meter Step 10 Version 2.jpg|center]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<ref>https://www.ukpowernetworks.co.uk/i-already-have-electricity-domestic/disconnect</ref>[[Image:Pull an Electric Meter Step 11 Version 2.jpg|center]]",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.[[Image:Pull an Electric Meter Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<ref>https://firstenergycorp.com/content/customer/help/billingpayments/meter_reading/locating_your_meter.html</ref>[[Image:Pull an Electric Meter Step 1.jpg|center]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<ref>https://newlook.dteenergy.com/wps/wcm/connect/c02b55b6-0219-4be4-a40b-91f2d204bf5e/serviceEquipment.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=c02b55b6-0219-4be4-a40b-91f2d204bf5e</ref>[[Image:Pull an Electric Meter Step 2.jpg|center]]",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.[[Image:Pull an Electric Meter Step 3.jpg|center]]",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.[[Image:Pull an Electric Meter Step 4.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5.jpg|center]]",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.[[Image:Pull an Electric Meter Step 6.jpg|center]]",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.[[Image:Pull an Electric Meter Step 7.jpg|center]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.<ref>https://www.westflorida.coop/en/clf/stay-safe-dont-die-doing-diy-projects</ref>[[Image:Pull an Electric Meter Step 8.jpg|center]]",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.[[Image:Pull an Electric Meter Step 9.jpg|center]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.<ref>https://www.youtube.com/watch?v=bmdP3nvzAU4</ref>[[Image:Pull an Electric Meter Step 10.jpg|center]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<ref>https://www.ukpowernetworks.co.uk/i-already-have-electricity-domestic/disconnect</ref>[[Image:Pull an Electric Meter Step 11.jpg|center]]",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.[[Image:Pull an Electric Meter Step 12.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31964213",
+            "user": "WikiHow Projects",
+            "timestamp": "12:14, 28 September 2023",
+            "anon": false,
+            "size": "(8,201 bytes)",
+            "change": 24,
+            "summary": "(Fixing sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<ref>https://www.ukpowernetworks.co.uk/i-already-have-electricity-domestic/disconnect</ref>[[Image:Pull an Electric Meter Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<ref>https://www.ukpowernetworks.co.uk/electricity/disconnect</ref>[[Image:Pull an Electric Meter Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30545467",
+            "user": "WikiHowUser20220525183117",
+            "timestamp": "21:03, 14 May 2022",
+            "anon": false,
+            "size": "(8,177 bytes)",
+            "change": 47,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Pull an Electric Meter|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26905562",
+            "user": "Seymour Edits",
+            "timestamp": "18:07, 5 August 2019",
+            "anon": false,
+            "size": "(8,130 bytes)",
+            "change": 615,
+            "summary": "(Added sources for the wikihaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<ref>https://firstenergycorp.com/content/customer/help/billingpayments/meter_reading/locating_your_meter.html</ref>[[Image:Pull an Electric Meter Step 1.jpg|center]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<ref>https://newlook.dteenergy.com/wps/wcm/connect/c02b55b6-0219-4be4-a40b-91f2d204bf5e/serviceEquipment.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=c02b55b6-0219-4be4-a40b-91f2d204bf5e</ref>[[Image:Pull an Electric Meter Step 2.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''<ref>https://www.esfi.org/resource/do-it-yourself-diy-electrical-safety-216</ref>[[Image:Pull an Electric Meter Step 5.jpg|center]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.<ref>https://www.westflorida.coop/en/clf/stay-safe-dont-die-doing-diy-projects</ref>[[Image:Pull an Electric Meter Step 8.jpg|center]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.<ref>https://www.youtube.com/watch?v=bmdP3nvzAU4</ref>[[Image:Pull an Electric Meter Step 10.jpg|center]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<ref>https://www.ukpowernetworks.co.uk/electricity/disconnect</ref>[[Image:Pull an Electric Meter Step 11.jpg|center]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.[[Image:Pull an Electric Meter Step 1.jpg|center]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:[[Image:Pull an Electric Meter Step 2.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''[[Image:Pull an Electric Meter Step 5.jpg|center]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.[[Image:Pull an Electric Meter Step 8.jpg|center]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.[[Image:Pull an Electric Meter Step 10.jpg|center]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.[[Image:Pull an Electric Meter Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "21450087",
+            "user": "75.109.137.54",
+            "timestamp": "00:47, 5 December 2016",
+            "anon": true,
+            "size": "(7,515 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "20440979",
+            "user": "Stevecon",
+            "timestamp": "11:54, 20 June 2016",
+            "anon": false,
+            "size": "(7,517 bytes)",
+            "change": 127,
+            "summary": "(→‎Warnings)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*#The meter is property of the utility; not the homeowner, rate payer, etc., if you lose, damage or tamper with it, you may be required to pay for a replacement; and in the case of tampering to facilitate \"theft of service\" - subject to legal proceedings, jail and / or fine."
+                ],
+                "removed": [
+                    "*#The meter is property of the utility; not the homeowner, rate payer, etc., if you lose or damage it, you may be required to pay for a replacement."
+                ]
+            }
+        },
+        {
+            "id": "19037704",
+            "user": "Stevecon",
+            "timestamp": "05:42, 11 December 2015",
+            "anon": false,
+            "size": "(7,390 bytes)",
+            "change": 3,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  ''Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.''[[Image:Pull an Electric Meter Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.[[Image:Pull an Electric Meter Step 5.jpg|center]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "18291678",
+            "user": "Karen Rundle",
+            "timestamp": "08:55, 24 August 2015",
+            "anon": false,
+            "size": "(7,387 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not those with bypass switches, multi-phase commercial / industrial meters or those part of current transformer cabinets, etc."
+                ],
+                "removed": [
+                    "An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not those with bypass switches, multiphase commercial / industrial meters or those part of current transformer cabinets, etc."
+                ]
+            }
+        },
+        {
+            "id": "18096126",
+            "user": "MiscBot",
+            "timestamp": "08:21, 29 July 2015",
+            "anon": false,
+            "size": "(7,386 bytes)",
+            "change": -168,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.[[Image:Pull an Electric Meter Step 1.jpg|center]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:[[Image:Pull an Electric Meter Step 2.jpg|center]]",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.[[Image:Pull an Electric Meter Step 3.jpg|center]]",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.[[Image:Pull an Electric Meter Step 4.jpg|center]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.[[Image:Pull an Electric Meter Step 5.jpg|center]]",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.[[Image:Pull an Electric Meter Step 6.jpg|center]]",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.[[Image:Pull an Electric Meter Step 7.jpg|center]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.[[Image:Pull an Electric Meter Step 8.jpg|center]]",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.[[Image:Pull an Electric Meter Step 9.jpg|center]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.[[Image:Pull an Electric Meter Step 10.jpg|center]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.[[Image:Pull an Electric Meter Step 11.jpg|center]]",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.[[Image:Pull an Electric Meter Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<br><br>[[Image:Pull an Electric Meter Step 1.jpg|center|550px]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<br><br>[[Image:Pull an Electric Meter Step 2.jpg|center|550px]]",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.<br><br>[[Image:Pull an Electric Meter Step 3.jpg|center|550px]]",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.<br><br>[[Image:Pull an Electric Meter Step 4.jpg|center|550px]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.<br><br>[[Image:Pull an Electric Meter Step 5.jpg|center|550px]]",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.<br><br>[[Image:Pull an Electric Meter Step 6.jpg|center|550px]]",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.<br><br>[[Image:Pull an Electric Meter Step 7.jpg|center|550px]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.<br><br>[[Image:Pull an Electric Meter Step 8.jpg|center|550px]]",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.<br><br>[[Image:Pull an Electric Meter Step 9.jpg|center|550px]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.<br><br>[[Image:Pull an Electric Meter Step 10.jpg|center|550px]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<br><br>[[Image:Pull an Electric Meter Step 11.jpg|center|550px]]",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.<br><br>[[Image:Pull an Electric Meter Step 12.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17964581",
+            "user": "InterwikiBot",
+            "timestamp": "19:06, 27 July 2015",
+            "anon": false,
+            "size": "(7,554 bytes)",
+            "change": -52,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:desintalar un medidor de energía eléctrica]]"
+                ]
+            }
+        },
+        {
+            "id": "14420352",
+            "user": "LoganScott",
+            "timestamp": "19:04, 2 August 2014",
+            "anon": false,
+            "size": "(7,606 bytes)",
+            "change": -3,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<br><br>[[Image:Pull an Electric Meter Step 11.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<br><br>[[Image:Pull an Electric Meter Step 11.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13858498",
+            "user": "InterwikiBot",
+            "timestamp": "17:22, 7 June 2014",
+            "anon": false,
+            "size": "(7,609 bytes)",
+            "change": 52,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:desintalar un medidor de energía eléctrica]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11487663",
+            "user": "Votebot",
+            "timestamp": "22:38, 21 October 2013",
+            "anon": false,
+            "size": "(7,557 bytes)",
+            "change": -359,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "*#Seals are installed by the utility primarily to indicate tampering. These seals are checked when the meter is read and other times by the utility. Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may press charges and require a court appearance."
+                ]
+            }
+        },
+        {
+            "id": "11343403",
+            "user": "Wikiphoto",
+            "timestamp": "21:15, 8 October 2013",
+            "anon": false,
+            "size": "(7,916 bytes)",
+            "change": 109,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.<br><br>[[Image:Pull an Electric Meter Step 1.jpg|center|550px]]",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:<br><br>[[Image:Pull an Electric Meter Step 2.jpg|center|550px]]",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.<br><br>[[Image:Pull an Electric Meter Step 3.jpg|center|550px]]",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.<br><br>[[Image:Pull an Electric Meter Step 4.jpg|center|550px]]",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.<br><br>[[Image:Pull an Electric Meter Step 5.jpg|center|550px]]",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.<br><br>[[Image:Pull an Electric Meter Step 6.jpg|center|550px]]",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.<br><br>[[Image:Pull an Electric Meter Step 7.jpg|center|550px]]",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.<br><br>[[Image:Pull an Electric Meter Step 8.jpg|center|550px]]",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.<br><br>[[Image:Pull an Electric Meter Step 9.jpg|center|550px]]",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.<br><br>[[Image:Pull an Electric Meter Step 10.jpg|center|550px]]",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.<br><br>[[Image:Pull an Electric Meter Step 11.jpg|center|550px]]",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.<br><br>[[Image:Pull an Electric Meter Step 12.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Pull an Electric Meter Step 1.jpg|right|300px]]Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#[[Image:Pull an Electric Meter Step 2.jpg|right|300px]]Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:",
+                    "#[[Image:Pull an Electric Meter Step 3.jpg|right|300px]]Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.",
+                    "# [[Image:Pull an Electric Meter Step 4.jpg|right|300px]]Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.",
+                    "#[[Image:Pull an Electric Meter Step 5.jpg|right|300px]]Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.",
+                    "#[[Image:Pull an Electric Meter Step 6.jpg|right|300px]]Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.",
+                    "#[[Image:Pull an Electric Meter Step 7.jpg|right|300px]]Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "#[[Image:Pull an Electric Meter Step 8.jpg|right|300px]]Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.",
+                    "#[[Image:Pull an Electric Meter Step 9.jpg|right|300px]]Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#[[Image:Pull an Electric Meter Step 10.jpg|right|300px]]Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#[[Image:Pull an Electric Meter Step 11.jpg|right|300px]]Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.",
+                    "#[[Image:Pull an Electric Meter Step 12.jpg|right|300px]]Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "11343402",
+            "user": "Wikiphoto",
+            "timestamp": "21:15, 8 October 2013",
+            "anon": false,
+            "size": "(7,807 bytes)",
+            "change": 663,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Pull an Electric Meter Step 1.jpg|right|300px]]Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#[[Image:Pull an Electric Meter Step 2.jpg|right|300px]]Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:",
+                    "#[[Image:Pull an Electric Meter Step 3.jpg|right|300px]]Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.",
+                    "# [[Image:Pull an Electric Meter Step 4.jpg|right|300px]]Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.",
+                    "#[[Image:Pull an Electric Meter Step 5.jpg|right|300px]]Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.",
+                    "#[[Image:Pull an Electric Meter Step 6.jpg|right|300px]]Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.",
+                    "#[[Image:Pull an Electric Meter Step 7.jpg|right|300px]]Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "#[[Image:Pull an Electric Meter Step 8.jpg|right|300px]]Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.",
+                    "#[[Image:Pull an Electric Meter Step 9.jpg|right|300px]]Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#[[Image:Pull an Electric Meter Step 10.jpg|right|300px]]Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#[[Image:Pull an Electric Meter Step 11.jpg|right|300px]]Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.",
+                    "#[[Image:Pull an Electric Meter Step 12.jpg|right|300px]]Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ],
+                "removed": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:",
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time.",
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "10728835",
+            "user": "MiscBot",
+            "timestamp": "09:04, 7 August 2013",
+            "anon": false,
+            "size": "(7,144 bytes)",
+            "change": -15,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not those with bypass switches, multiphase commercial / industrial meters or those part of current transformer cabinets, etc."
+                ],
+                "removed": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not those with bypass switches, multiphase commercial / industrial meters or those part of current transformer cabinets, etc."
+                ]
+            }
+        },
+        {
+            "id": "10345649",
+            "user": "Stevecon",
+            "timestamp": "00:53, 2 July 2013",
+            "anon": false,
+            "size": "(7,159 bytes)",
+            "change": 163,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Shut off power in the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.  Note: switching circuit breakers to off and removing of fuses from the electrical panel will not remove power from the meter or enclosure.",
+                    "#*Remove fuses.  Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses out completely and note the location of each for proper re-installation later.",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first securinging a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.",
+                    "#Reinstall. This is performed in the reverse order - except that the meter must be checked to be sure it is oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ],
+                "removed": [
+                    "#Shut off power to the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.",
+                    "#*Remove fuses.  Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper re-installation later.",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors.",
+                    "#Reinstall. This is performed in the reverse order - except that the meter will need to be oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "10100386",
+            "user": "Stevecon",
+            "timestamp": "13:59, 6 June 2013",
+            "anon": false,
+            "size": "(6,996 bytes)",
+            "change": 542,
+            "summary": "(→‎Steps:  Notify utility)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Determine if you are able to remove the meter.  Those meters secured with a simple seal  - whether through a slot & tab on a thin metal ring around the meter or on the meter enclosure cover itself - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution. This wiki is unable provide instructions to bypass this type of security hardware.  The only safe remedy is to contact the local utility for removal.",
+                    "# Obtain permission from the local utility to break the seals and remove the meter.  If the meter is secured with a simple seal and you have determined that you can remove it, notify the utility.  This is often done by a phone call to their customer service department.  You may be asked why you need to remove the meter, how long it is expected to be removed, etc.  If you determine that you are unable to remove the meter, you can schedule to have an authorized employee to do this for you at this time."
+                ],
+                "removed": [
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utility for removal."
+                ]
+            }
+        },
+        {
+            "id": "10099608",
+            "user": "Janezee",
+            "timestamp": "10:41, 6 June 2013",
+            "anon": false,
+            "size": "(6,454 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10094728",
+            "user": "140.108.1.11",
+            "timestamp": "18:52, 5 June 2013",
+            "anon": true,
+            "size": "(6,417 bytes)",
+            "change": 200,
+            "summary": "(warnings / tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not those with bypass switches, multiphase commercial / industrial meters or those part of current transformer cabinets, etc.",
+                    "#Shut off power to the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.",
+                    "#*Switch ALL branch circuit breakers (typically all single and double pole types from 15 amps ~ 60 amps) handles to OFF, then locate the Service Disconnect Switch (the largest value circuit breaker) in the electrical panel; and move the handle to OFF, too.",
+                    "*#As suggested in the introduction, a meter should only be removed when permission has been granted and then; only by qualified & authorized persons.",
+                    "*#Seals are installed by the utility primarily to indicate tampering. These seals are checked when the meter is read and other times by the utility. Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may press charges and require a court appearance.",
+                    "",
+                    "== Warnings ==",
+                    "*#The potential risk of injury to property and person is significant; especially when this work is performed by unqualified persons.  Most residential electrical systems in North America are 240VAC. Since as little as 50VAC under the right conditions can be lethal, emphasis on safety cannot be stressed enough.",
+                    "*#The meter is property of the utility; not the homeowner, rate payer, etc., if you lose or damage it, you may be required to pay for a replacement."
+                ],
+                "removed": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not multiphase commercial or industrial meters or those part of current transformer cabinets, etc.",
+                    "#Shut off power to the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.",
+                    "#*Switch ALL branch circuit breakers (typically all single and double pole types from 15 amps ~ 60 amps) handles to OFF, then locate the Service Disconnect Switch (the largest value circuit breaker) in the electrical panel; and move the handle to OFF, too.",
+                    "#The potential risk of injury to property and person is significant, especially when this work is performed by unqualified persons.  Most residential electrical systems in North America are 240VAC - since as little as 50VAC under the right conditions can be lethal, emphasis on safety can not be stressed enough.",
+                    "#As suggested in the introduction, a meter should only be removed when permission has been granted and then; only by qualified & authorized persons.",
+                    "#The meter is property of the utility; not the homeowner, rate payer, etc..",
+                    "#Seals are installed by the utility to indicate tampering.  Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may press charges and require a court appearance."
+                ]
+            }
+        },
+        {
+            "id": "10094689",
+            "user": "140.108.1.11",
+            "timestamp": "18:45, 5 June 2013",
+            "anon": true,
+            "size": "(6,217 bytes)",
+            "change": 32,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Seals are installed by the utility to indicate tampering.  Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may press charges and require a court appearance."
+                ],
+                "removed": [
+                    "#Seals are installed by the utility to indicate tampering.  Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may seek charges."
+                ]
+            }
+        },
+        {
+            "id": "10091514",
+            "user": "Stevecon",
+            "timestamp": "12:55, 5 June 2013",
+            "anon": false,
+            "size": "(6,185 bytes)",
+            "change": -69,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a building or home, for billing purposes.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, nearly all utilities require obtaining permission before breaking seals and removing meters. This wiki covers most typical (250V or less) residential meters, not multiphase commercial or industrial meters or those part of current transformer cabinets, etc."
+                ],
+                "removed": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, many utilities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multiphase commercial or industrial meters or those part of current transformers cabinets, etc."
+                ]
+            }
+        },
+        {
+            "id": "10091497",
+            "user": "Stevecon",
+            "timestamp": "12:53, 5 June 2013",
+            "anon": false,
+            "size": "(6,254 bytes)",
+            "change": 107,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Locate the electric meter.  Most times, it may usually be found on the outside of the home, but may also be found inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#Shut off power to the building. This will remove the load on the meter and will prevent destructive arcing and burning as the meter is withdrawn from the meter enclosure and when reinstalled, later.",
+                    "#*Switch ALL branch circuit breakers (typically all single and double pole types from 15 amps ~ 60 amps) handles to OFF, then locate the Service Disconnect Switch (the largest value circuit breaker) in the electrical panel; and move the handle to OFF, too.",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off!  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used.",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on earth, concrete, vegetation, asphalt, etc. as these will conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#Once the meter is free, it should be secured from damage or theft.  Since the meter is owned by the utility, you are liable for its loss.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors."
+                ],
+                "removed": [
+                    "# Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#Shut off power to the building. This will remove the load on the meter and will eliminate destructive arcing and burning as the meter is withdrawn from the meter enclosure and reinstalled later.",
+                    "#*Switch ALL branch circuit breaker (typically all single and double pole types from 15 amps ~ 60 amps) handles to OFF, then locate the Service Disconnect Switch (the largest value circuit breaker) in the electrical panel; and move the handle to OFF, too.",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off.  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used!",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these will conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while moving it.",
+                    "#Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors."
+                ]
+            }
+        },
+        {
+            "id": "10087655",
+            "user": "Stevecon",
+            "timestamp": "01:26, 5 June 2013",
+            "anon": false,
+            "size": "(6,147 bytes)",
+            "change": -26,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "{{inuse|date=2013-06-05}}"
+                ]
+            }
+        },
+        {
+            "id": "10087640",
+            "user": "Stevecon",
+            "timestamp": "01:24, 5 June 2013",
+            "anon": false,
+            "size": "(6,173 bytes)",
+            "change": 74,
+            "summary": "(→‎Tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#The potential risk of injury to property and person is significant, especially when this work is performed by unqualified persons.  Most residential electrical systems in North America are 240VAC - since as little as 50VAC under the right conditions can be lethal, emphasis on safety can not be stressed enough."
+                ],
+                "removed": [
+                    "#The risk of injury to property and person is significant. Most residential electrical systems in North America are 240VAC.  Since as little as 50VAC under the right conditions can be lethal, emphasis on safety can not be stressed enough."
+                ]
+            }
+        },
+        {
+            "id": "10087630",
+            "user": "Stevecon",
+            "timestamp": "01:23, 5 June 2013",
+            "anon": false,
+            "size": "(6,099 bytes)",
+            "change": 725,
+            "summary": "(tips)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Reinstall. This is performed in the reverse order - except that the meter will need to be oriented right-side up; have its contact blades properly aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in.",
+                    "",
+                    "== Tips ==",
+                    "#The risk of injury to property and person is significant. Most residential electrical systems in North America are 240VAC.  Since as little as 50VAC under the right conditions can be lethal, emphasis on safety can not be stressed enough.",
+                    "#As suggested in the introduction, a meter should only be removed when permission has been granted and then; only by qualified & authorized persons.",
+                    "#The meter is property of the utility; not the homeowner, rate payer, etc..",
+                    "#Seals are installed by the utility to indicate tampering.  Tampering with a meter is usually done by unauthorized persons to defraud the utility and is unlawful to do.  All utilities take a dim view of this practice and may seek charges."
+                ],
+                "removed": [
+                    "#Re installation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "10087469",
+            "user": "Stevecon",
+            "timestamp": "01:05, 5 June 2013",
+            "anon": false,
+            "size": "(5,374 bytes)",
+            "change": -5,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is a device your local electric utility uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utility employee to remove a meter.  Furthermore, many utilities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multiphase commercial or industrial meters or those part of current transformers cabinets, etc.",
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utility for removal.",
+                    "#Shut off power to the building. This will remove the load on the meter and will eliminate destructive arcing and burning as the meter is withdrawn from the meter enclosure and reinstalled later.",
+                    "#*Remove fuses.  Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper re-installation later.",
+                    "#Re installation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ],
+                "removed": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is the device your local electric utillity uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utillity employee to remove a meter.  Furthermore, many utillities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multi-phase commercial or industrial meters or those part of current transformers cabinets, etc.",
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "#Shut off power to the building. This will remove the load on the meter and will eliminate distructive arcing and burning as the meter is withdrawn from the meter enclosure and reinstalled later.",
+                    "#*Remove fuses.  Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "#Reinstallation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "10087462",
+            "user": "Stevecon",
+            "timestamp": "01:04, 5 June 2013",
+            "anon": false,
+            "size": "(5,379 bytes)",
+            "change": 484,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods:",
+                    "#*A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the a lip on the edge of the meter and the rim of the meter socket or enclosure; and holds the meter securely into the socket.  Once the ring's tab has been passed through the slot, a seal is placed on it to indicate tampering.",
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage to the meter or enclosure and significant risk of shock, burns, fire or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "#Shut off power to the building. This will remove the load on the meter and will eliminate distructive arcing and burning as the meter is withdrawn from the meter enclosure and reinstalled later.",
+                    "#*Switch ALL branch circuit breaker (typically all single and double pole types from 15 amps ~ 60 amps) handles to OFF, then locate the Service Disconnect Switch (the largest value circuit breaker) in the electrical panel; and move the handle to OFF, too.",
+                    "#*Remove fuses.  Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "#Inspect the meter for indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  Ideally, the load should be fully disconnected before continuing.  Keep in mind: Even though the meter isn't advancing because load has been shed; it does not mean the power is off.  There is still electricity being provided by the utility, through the meter and into the electric panel - waiting to be used!",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material on the ground to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these will conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies <i>energized parts</i>.  Do not put your fingers where you cannot see them or behind the cover while moving it.",
+                    "#Rock the meter in an \"up and down\" motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the enclosure - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other accidental conductors."
+                ],
+                "removed": [
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "#*A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering.",
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage and significant risk of shock, burns, fires or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "#Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "#Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "#Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these can conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies energized parts.  To not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other conductors."
+                ]
+            }
+        },
+        {
+            "id": "10087381",
+            "user": "Stevecon",
+            "timestamp": "00:47, 5 June 2013",
+            "anon": false,
+            "size": "(4,895 bytes)",
+            "change": -28,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "{{format|date=2013-06-05}}"
+                ]
+            }
+        },
+        {
+            "id": "10087361",
+            "user": "Stevecon",
+            "timestamp": "00:41, 5 June 2013",
+            "anon": false,
+            "size": "(4,923 bytes)",
+            "change": 27,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2013-06-05}}",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10087261",
+            "user": "CelesteTu",
+            "timestamp": "00:18, 5 June 2013",
+            "anon": false,
+            "size": "(4,896 bytes)",
+            "change": 2,
+            "summary": "(Revert my edit)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#*A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering."
+                ],
+                "removed": [
+                    "#*thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering."
+                ]
+            }
+        },
+        {
+            "id": "10087260",
+            "user": "CelesteTu",
+            "timestamp": "00:18, 5 June 2013",
+            "anon": false,
+            "size": "(4,894 bytes)",
+            "change": 0,
+            "summary": "(Article needs formatting)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "{{format|date=2013-06-05}}",
+                    "# Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#*thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering."
+                ],
+                "removed": [
+                    "{{inuse|date=2013-06-05}}",
+                    "#Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#*A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering."
+                ]
+            }
+        },
+        {
+            "id": "10087254",
+            "user": "CelesteTu",
+            "timestamp": "00:17, 5 June 2013",
+            "anon": false,
+            "size": "(4,894 bytes)",
+            "change": 3,
+            "summary": "(Format)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2013-06-05}}",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "#Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "#Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "#Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "#Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "",
+                    "",
+                    "#Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "#Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "10087249",
+            "user": "Stevecon",
+            "timestamp": "00:16, 5 June 2013",
+            "anon": false,
+            "size": "(4,891 bytes)",
+            "change": 31,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Steps ==",
+                    "#Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "#Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "#*A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering.",
+                    "#*A thick metal ring with a special locked enclosure around the retaining hardware, that prevents unauthorized persons from removing the ring and meter.",
+                    "#*The meter enclosure cover itself; which holds the lip of the meter and holds it in place in the meter enclosure. The cover will employ a simple seal or special locked enclosure over the retaining hardware that allows for the opening of the cover (and meter removal) similar to the previous two examples.",
+                    "#*Some other arrangement specific to the requirements of the local power company in your area.  These types can not be covered by this wiki at this time.",
+                    "#Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage and significant risk of shock, burns, fires or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "#Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "#Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "#Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "#Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "#Place a rubber mat, sheet of plywood or other non-conductive material to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these can conduct electricity.",
+                    "#Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies energized parts.  To not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "#Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "#Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other conductors.",
+                    "#Reinstallation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ],
+                "removed": [
+                    "Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering.",
+                    "A thick metal ring with a special locked enclosure around the retaining hardware, that prevents unauthorized persons from removing the ring and meter.",
+                    "The meter enclosure cover itself; which holds the lip of the meter and holds it in place in the meter enclosure. The cover will employ a simple seal or special locked enclosure over the retaining hardware that allows for the opening of the cover (and meter removal) similar to the previous two examples.",
+                    "Some other arrangement specific to the requirements of the local power company in your area.  These types can not be covered by this wiki at this time.",
+                    "Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage and significant risk of shock, burns, fires or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "Place a rubber mat, sheet of plywood or other non-conductive material to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these can conduct electricity.",
+                    "Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies energized parts.  To not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other conductors.",
+                    "",
+                    "Reinstallation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ]
+            }
+        },
+        {
+            "id": "10087242",
+            "user": "Stevecon",
+            "timestamp": "00:13, 5 June 2013",
+            "anon": false,
+            "size": "(4,860 bytes)",
+            "change": 5,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}} An electric meter (or \"watt/hour\" meter) is the device your local electric utillity uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utillity employee to remove a meter.  Furthermore, many utillities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multi-phase commercial or industrial meters or those part of current transformers cabinets, etc."
+                ],
+                "removed": [
+                    "<in use>",
+                    "",
+                    "An electric meter (or \"watt/hour\" meter) is the device your local electric utillity uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utillity employee to remove a meter.  Furthermore, many utillities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multi-phase commercial or industrial meters or those part of current transformers cabinets, etc."
+                ]
+            }
+        },
+        {
+            "id": "10087230",
+            "user": "Stevecon",
+            "timestamp": "00:11, 5 June 2013",
+            "anon": false,
+            "size": "(4,855 bytes)",
+            "change": 10,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "<in use>",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10087228",
+            "user": "Stevecon",
+            "timestamp": "00:10, 5 June 2013",
+            "anon": false,
+            "size": "(4,845 bytes)",
+            "change": 639,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "An electric meter (or \"watt/hour\" meter) is the device your local electric utillity uses to measure the amount of power used in a home.  Normally, there is no need for anyone other than a qualified electrician or authorized utillity employee to remove a meter.  Furthermore, many utillities require obtaining permission before removing any meter.  Removing a meter will expose live parts and voltages that can result in shock, burns, fire or electrocution if contacted.  This wiki covers most typical (250V or less) residential meters, not multi-phase commercial or industrial meters or those part of current transformers cabinets, etc.",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10087215",
+            "user": "Stevecon",
+            "timestamp": "00:08, 5 June 2013",
+            "anon": false,
+            "size": "(4,206 bytes)",
+            "change": 4206,
+            "summary": "(NEW)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Locate the electric meter.  Most times, it may be found on the outside of the home, but may be inside; near the electrical panel.  If power is provided via aerial service lateral, simply following the wires to the home should make the meter visible.",
+                    "Inspect the meter and meter enclosure.  The meter is often held in position by one of several methods.",
+                    "",
+                    "A thin metal ring with a slot and tab.  The ring has a shoulder along both sides of its length that engages the edge of the meter and the rim of the meter box; and holds the two together.  Once the tab has been passed through the slot, a seal is placed on it to indicate tampering.",
+                    "",
+                    "A thick metal ring with a special locked enclosure around the retaining hardware, that prevents unauthorized persons from removing the ring and meter.",
+                    "",
+                    "The meter enclosure cover itself; which holds the lip of the meter and holds it in place in the meter enclosure. The cover will employ a simple seal or special locked enclosure over the retaining hardware that allows for the opening of the cover (and meter removal) similar to the previous two examples.",
+                    "",
+                    "Some other arrangement specific to the requirements of the local power company in your area.  These types can not be covered by this wiki at this time.",
+                    "",
+                    "Determine if you are able to remove the meter.  Those meters secured with thin metal rings and a simple seal  - whether around the meter or on the meter enclosure cover - will be the type that will allow removal of the meter. Those meters secured with thick rings / special locked enclosures, etc. will not be able to be removed without causing severe damage and significant risk of shock, burns, fires or electrocution.  This wiki is unable provide instructions to bypass this type of hardware.  The only safe remedy is to contact the local utillity for removal.",
+                    "",
+                    "Shut off power to the building. Remove the load on the meter by switching ALL circuit breaker handles to OFF.  Locate the service disconnect switch in the electrical panel and move the handle to OFF, too.",
+                    "",
+                    "Unscrew all fuses 2-3 full turns or more.  Pull cartridge type fuses completely and note the location of each for proper reinstallation later.",
+                    "",
+                    "Check the meter for an indication of a connected load in the building.  The meter should not be spinning, running or advancing at this point.  If it is, there is still a load or panel connected somewhere.  Check garages, out buildings, etc. and remove the load as described above.  The load should be fully disconnected before continuing.  Keep in mind: there is still electricity being provided by the utillity, through the meter and into the electric panel - waiting to be used.",
+                    "",
+                    "Cut and remove the seal.  Use of a simple pair of wire cutters should be able to cut through the seal for removal.  Watch out for sharp edges while removing the seal.",
+                    "",
+                    "Place a rubber mat, sheet of plywood or other non-conductive material to stand on while working on the meter from this point.  Do not stand on soil, concrete, vegetation, etc. as these can conduct electricity.",
+                    "",
+                    "Remove the retaining ring or cover that holds the meter in position.  Lift the slot off the tab and spread the ring to remove it completely.  The cover type will lift up or have screws to remove.  If a lift type, push the meter upward slightly to allow the cover to clear the meter as it swings up.  Be aware that behind the cover lies energized parts.  To not put your fingers where you cannot see them or behind the cover while removing it.",
+                    "",
+                    "Rock the meter in an up and down motion to free the contact blades from the jaws.  Do not use pressure near the base, nor reach behind the meter or into the box - a steady up / down rocking while pulling will allow the meter to become free.",
+                    "",
+                    "Once the meter is free, it should be secured from damage or theft.  The meter enclosure should not be left unattended without first providing a reliable \"dead front\" to prevent accidental contact with live parts by people or other conductors.",
+                    "",
+                    "Reinstallation is performed in the reverse order - except that the meter will need to be installed right-side up; have its contact blades aligned with the enclosure's contact jaws and have steady pressure applied to its front while \"rocking\" in."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,1295 @@
+{
+    "title": "Install-LED-Lights-on-a-Motorcycle",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:18:23.888307",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32715217",
+            "user": "Hopedemi",
+            "timestamp": "16:48, 12 August 2024",
+            "anon": false,
+            "size": "(12,029 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about installing lights, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32685177",
+            "user": "Seymour Edits",
+            "timestamp": "02:44, 30 July 2024",
+            "anon": false,
+            "size": "(11,723 bytes)",
+            "change": 78,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.<ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Install LED Lights on a Motorcycle Step 2 Version 3.jpg|center]]",
+                    "#* It's a good idea to disconnect the motorcycle's battery now even if you don't need to use it to test the LED strips. In most models of motorcycle, you will find the battery located beneath the seat. By disconnecting the battery, you can test your LED light strips without worry of harming the other motorcycle components that it powers.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "#* You should additionally splice your in-line fuse into this portion of the wiring. LEDs draw very little power, but connecting a fuse is always the safe thing to do. The in-line fuse will have a wire coming out of each side. Cut a gap in your wire in a spot where the fuse can fit easily near the battery under your seat. Use your wire strippers to remove maybe 1/2” of the wire sheath and twist together your wire and those from one end of the fuse, then use electrical tape to secure the connection. Do this on both sides, so the fuse runs seamlessly. You will only need a 5-10 amp fuse since the lights draw so little power.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>"
+                ],
+                "removed": [
+                    "#Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.[[Image:Install LED Lights on a Motorcycle Step 2 Version 3.jpg|center]]",
+                    "#* It's a good idea to disconnect the motorcycle's battery now even if you don't need to use it to test the LED strips. In most models of motorcycle, you will find the battery located beneath the seat. By disconnecting the battery, you can test your LED light strips without worry of harming the other motorcycle components that it powers.",
+                    "#* You should additionally splice your in-line fuse into this portion of the wiring. LEDs draw very little power, but connecting a fuse is always the safe thing to do. The in-line fuse will have a wire coming out of each side. Cut a gap in your wire in a spot where the fuse can fir easily near the battery under your seat. Use your wire strippers to remove maybe 1/2” of the wire sheath and twist together your wire and those from one end of the fuse, then use electrical tape to secure the connection. Do this on both sides, so the fuse runs seamlessly. You will only need a 5-10 amp fuse since the lights draw so little power.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>"
+                ]
+            }
+        },
+        {
+            "id": "29285281",
+            "user": "WikiHow Projects",
+            "timestamp": "13:31, 3 March 2021",
+            "anon": false,
+            "size": "(11,645 bytes)",
+            "change": -11,
+            "summary": "(Removing category to be deleted)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Motorcycles]]"
+                ],
+                "removed": [
+                    "[[Category:Motorcycle Accessories]]"
+                ]
+            }
+        },
+        {
+            "id": "27143882",
+            "user": "Votebot",
+            "timestamp": "10:11, 28 September 2019",
+            "anon": false,
+            "size": "(11,656 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Ensure that you disconnect the motorcycle battery before you get started."
+                ],
+                "removed": [
+                    "*Ensure that you disconnect the motorcycle battery before you get started."
+                ]
+            }
+        },
+        {
+            "id": "27039436",
+            "user": "ExoticComet",
+            "timestamp": "05:36, 6 September 2019",
+            "anon": false,
+            "size": "(11,656 bytes)",
+            "change": -62,
+            "summary": "(improving apostrophe consistency)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Gather everything you'll need. In addition to the LED light kit, you'll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.[[Image:Install LED Lights on a Motorcycle Step 1 Version 3.jpg|center]]",
+                    "#* Your LED kit may come with a battery you can use to test the LED strips. If not, you can use your motorcycle's battery to test them. Just make sure you disconnect it from the motorcycle first. You can even use a spare nine-volt battery you have around to test the strips.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* As you're testing the strips, separate all of the same-size strips into different piles. This will make it easier to use them later.",
+                    "#* It's a good idea to disconnect the motorcycle's battery now even if you don't need to use it to test the LED strips. In most models of motorcycle, you will find the battery located beneath the seat. By disconnecting the battery, you can test your LED light strips without worry of harming the other motorcycle components that it powers.",
+                    "#Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter's tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.[[Image:Install LED Lights on a Motorcycle Step 3 Version 3.jpg|center]]",
+                    "#* Make sure you're using masking tape since it won't hurt the paint on your motorcycle at all when you peel it back off.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you're pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 5 Version 3.jpg|center]]",
+                    "#* If you're certain you won't ever want to move the strips, you can naturally use the tape strips that come with them or pick up some strong double-sided tape to use to adhere the strips.",
+                    "#* When positioning your strip, make sure that you velcro it with the wiring pointing toward the battery. You'll need to feed all of the wires in this general direction.",
+                    "#Connect the switch to the positive terminal on the battery. Using some additional red (since it's the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you've run enough wire to reach the switch.[[Image:Install LED Lights on a Motorcycle Step 8 Version 3.jpg|center]]",
+                    "#* If you're unsure how, you can look up how to [[Solder]], or you can purchase a soldering gel, which allows you to place the wire into the terminal along with the gel, then simply add heat.",
+                    "#* Your switch will most likely have male terminal connections, so you'll need a female terminal connections to solder to the wire.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* For any wire splices that you make sure the project, you can additionally buy heat-shrinking wire wrap to further secure the spliced connection. The wrap slides over the wire on top of the electrical tape (make sure you buy the appropriate size for the wire you're using), and then you can apply a bit of heat with a lighter (don't burn the wire to either side of the wrap), which will cause it to shrink down and reinforce the splice.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it's easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 9 Version 3.jpg|center]]",
+                    "#* In order to ensure that it's a metal-on-metal connection, use a piece of sandpaper to remove any paint that might be on the frame directly where the bolt tightens down to the frame.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you're going to connect them to the battery with a ring terminal. Once you've run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.[[Image:Install LED Lights on a Motorcycle Step 11 Version 3.jpg|center]]",
+                    "*It may help to remove some of the fairings on your motorcycle while you work, so you can more easily secure the wiring to the frame in a way where it won't be visible when you're done.",
+                    "*Use your nine-volt or test battery to test your LED strips after each splice. It's much easier to fix a splicing connection before you have moved on than to try to retrace the steps of a particular wire later on.",
+                    "*If your specific LED kit doesn't come with a fuse in the wiring, then you should splice one in. It's always safer to have a fuse even for low-draw LEDs.",
+                    "== Things You'll Need ==",
+                    "*Velcro or a more permanent adhesive if that's your preference"
+                ],
+                "removed": [
+                    "#Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.[[Image:Install LED Lights on a Motorcycle Step 1 Version 3.jpg|center]]",
+                    "#* Your LED kit may come with a battery you can use to test the LED strips. If not, you can use your motorcycle’s battery to test them. Just make sure you disconnect it from the motorcycle first. You can even use a spare nine-volt battery you have around to test the strips.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* As you’re testing the strips, separate all of the same-size strips into different piles. This will make it easier to use them later.",
+                    "#* It’s a good idea to disconnect the motorcycle’s battery now even if you don’t need to use it to test the LED strips. In most models of motorcycle, you will find the battery located beneath the seat. By disconnecting the battery, you can test your LED light strips without worry of harming the other motorcycle components that it powers.",
+                    "#Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.[[Image:Install LED Lights on a Motorcycle Step 3 Version 3.jpg|center]]",
+                    "#* Make sure you’re using masking tape since it won’t hurt the paint on your motorcycle at all when you peel it back off.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 5 Version 3.jpg|center]]",
+                    "#* If you’re certain you won’t ever want to move the strips, you can naturally use the tape strips that come with them or pick up some strong double-sided tape to use to adhere the strips.",
+                    "#* When positioning your strip, make sure that you velcro it with the wiring pointing toward the battery. You’ll need to feed all of the wires in this general direction.",
+                    "#Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.[[Image:Install LED Lights on a Motorcycle Step 8 Version 3.jpg|center]]",
+                    "#* If you’re unsure how, you can look up how to [[Solder]], or you can purchase a soldering gel, which allows you to place the wire into the terminal along with the gel, then simply add heat.",
+                    "#* Your switch will most likely have male terminal connections, so you’ll need a female terminal connections to solder to the wire.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* For any wire splices that you make sure the project, you can additionally buy heat-shrinking wire wrap to further secure the spliced connection. The wrap slides over the wire on top of the electrical tape (make sure you buy the appropriate size for the wire you’re using), and then you can apply a bit of heat with a lighter (don’t burn the wire to either side of the wrap), which will cause it to shrink down and reinforce the splice.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 9 Version 3.jpg|center]]",
+                    "#* In order to ensure that it’s a metal-on-metal connection, use a piece of sandpaper to remove any paint that might be on the frame directly where the bolt tightens down to the frame.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.[[Image:Install LED Lights on a Motorcycle Step 11 Version 3.jpg|center]]",
+                    "*It may help to remove some of the fairings on your motorcycle while you work, so you can more easily secure the wiring to the frame in a way where it won’t be visible when you’re done.",
+                    "*Use your nine-volt or test battery to test your LED strips after each splice. It’s much easier to fix a splicing connection before you have moved on than to try to retrace the steps of a particular wire later on.",
+                    "*If your specific LED kit doesn’t come with a fuse in the wiring, then you should splice one in. It’s always safer to have a fuse even for low-draw LEDs.",
+                    "== Things You’ll Need ==",
+                    "*Velcro or a more permanent adhesive if that’s your preference"
+                ]
+            }
+        },
+        {
+            "id": "26297521",
+            "user": "MiscBot",
+            "timestamp": "02:52, 29 March 2019",
+            "anon": false,
+            "size": "(11,718 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25981655",
+            "user": "Anna",
+            "timestamp": "14:11, 4 February 2019",
+            "anon": false,
+            "size": "(11,729 bytes)",
+            "change": -85,
+            "summary": "(Reverted edits by RobertSmith3 (Talk); changed back to last version by WikiHow Projects)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Installing LED lights is an easy and fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ],
+                "removed": [
+                    "Installing '''[https://mysticdining.com/best-solar-landscape-lights-outdoor/ led solar landscape light]''' is an easy and fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ]
+            }
+        },
+        {
+            "id": "25980213",
+            "user": "RobertSmith3",
+            "timestamp": "09:56, 4 February 2019",
+            "anon": false,
+            "size": "(11,814 bytes)",
+            "change": 85,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Anna",
+            "exact_contribution": {
+                "added": [
+                    "Installing '''[https://mysticdining.com/best-solar-landscape-lights-outdoor/ led solar landscape light]''' is an easy and fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ],
+                "removed": [
+                    "Installing LED lights is an easy and fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ]
+            }
+        },
+        {
+            "id": "25957314",
+            "user": "WikiHow Projects",
+            "timestamp": "05:38, 30 January 2019",
+            "anon": false,
+            "size": "(11,729 bytes)",
+            "change": -91,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Anna",
+            "exact_contribution": {
+                "added": [
+                    "#Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.[[Image:Install LED Lights on a Motorcycle Step 6 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>[[Image:Install LED Lights on a Motorcycle Step 6 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "25198579",
+            "user": "Seymour Edits",
+            "timestamp": "13:06, 6 September 2018",
+            "anon": false,
+            "size": "(11,820 bytes)",
+            "change": 153,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-LED-Lights-on-a-Motorcycle}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "22089131",
+            "user": "Flickety",
+            "timestamp": "22:08, 21 March 2017",
+            "anon": false,
+            "size": "(11,667 bytes)",
+            "change": 13,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Motorcycle Accessories]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Motorcycles]]"
+                ]
+            }
+        },
+        {
+            "id": "20763929",
+            "user": "Wikivisual",
+            "timestamp": "16:51, 13 August 2016",
+            "anon": false,
+            "size": "(11,654 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.[[Image:Install LED Lights on a Motorcycle Step 1 Version 3.jpg|center]]",
+                    "#Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.[[Image:Install LED Lights on a Motorcycle Step 2 Version 3.jpg|center]]",
+                    "#Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.[[Image:Install LED Lights on a Motorcycle Step 3 Version 3.jpg|center]]",
+                    "#Pick a placement for your switch. Your LED kit will come with a switch, which should have three leads on the back—positive, negative, and ground. Pick a comfortable location where you will later mount the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 4 Version 3.jpg|center]]",
+                    "#Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 5 Version 3.jpg|center]]",
+                    "#Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>[[Image:Install LED Lights on a Motorcycle Step 6 Version 3.jpg|center]]",
+                    "#Fish the unconnected wiring toward the battery. Some wiring, such as that behind a fairing, might need to be fished out for you to take care of the electrical portion of the project. You can use rigid line like that from a weed eater or even fishing line. Tie the wiring to the line, then once the fairing is back in place, you can fish it out with the fishing line.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 7 Version 3.jpg|center]]",
+                    "#Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.[[Image:Install LED Lights on a Motorcycle Step 8 Version 3.jpg|center]]",
+                    "#Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 9 Version 3.jpg|center]]",
+                    "#Connect the positive LED strip wires to the switch. Run the positive wire from each of your LED strips toward where you have placed your switch. Run the wires tight to the frame, securing them if you need to. Once all of the wires have enough length to reach your switch, use your wire strippers to remove a bit of the wire sheath, twist them all together, and solder them to the terminal you need to connect them to the positive terminal on the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 10 Version 3.jpg|center]]",
+                    "#Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.[[Image:Install LED Lights on a Motorcycle Step 11 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.[[Image:Install LED Lights on a Motorcycle Step 1 Version 2.jpg|center]]",
+                    "#Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.[[Image:Install LED Lights on a Motorcycle Step 2 Version 2.jpg|center]]",
+                    "#Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.[[Image:Install LED Lights on a Motorcycle Step 3 Version 2.jpg|center]]",
+                    "#Pick a placement for your switch. Your LED kit will come with a switch, which should have three leads on the back—positive, negative, and ground. Pick a comfortable location where you will later mount the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 4 Version 2.jpg|center]]",
+                    "#Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 5 Version 2.jpg|center]]",
+                    "#Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>[[Image:Install LED Lights on a Motorcycle Step 6 Version 2.jpg|center]]",
+                    "#Fish the unconnected wiring toward the battery. Some wiring, such as that behind a fairing, might need to be fished out for you to take care of the electrical portion of the project. You can use rigid line like that from a weed eater or even fishing line. Tie the wiring to the line, then once the fairing is back in place, you can fish it out with the fishing line.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 7 Version 2.jpg|center]]",
+                    "#Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.[[Image:Install LED Lights on a Motorcycle Step 8 Version 2.jpg|center]]",
+                    "#Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 9 Version 2.jpg|center]]",
+                    "#Connect the positive LED strip wires to the switch. Run the positive wire from each of your LED strips toward where you have placed your switch. Run the wires tight to the frame, securing them if you need to. Once all of the wires have enough length to reach your switch, use your wire strippers to remove a bit of the wire sheath, twist them all together, and solder them to the terminal you need to connect them to the positive terminal on the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 10 Version 2.jpg|center]]",
+                    "#Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.[[Image:Install LED Lights on a Motorcycle Step 11 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19398034",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "03:28, 12 January 2016",
+            "anon": false,
+            "size": "(11,654 bytes)",
+            "change": -20,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Test a Relay]]"
+                ],
+                "removed": [
+                    "*[[Test a Relay|How to Test a Relay]]"
+                ]
+            }
+        },
+        {
+            "id": "18900531",
+            "user": "Braiden parry",
+            "timestamp": "14:59, 20 November 2015",
+            "anon": false,
+            "size": "(11,674 bytes)",
+            "change": 10,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Installing LED lights is an easy and fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ],
+                "removed": [
+                    "Installing LED lights is a fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home."
+                ]
+            }
+        },
+        {
+            "id": "17975025",
+            "user": "InterwikiBot",
+            "timestamp": "20:18, 27 July 2015",
+            "anon": false,
+            "size": "(11,664 bytes)",
+            "change": -83,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[ru:установить светодиодные огни на мотоцикл]]"
+                ]
+            }
+        },
+        {
+            "id": "17513872",
+            "user": "Hootooshay",
+            "timestamp": "08:01, 3 June 2015",
+            "anon": false,
+            "size": "(11,747 bytes)",
+            "change": 200,
+            "summary": "(RCP reverted edits by 120.56.190.144 (talk) to  revision #16990401 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Test a Relay|How to Test a Relay]]",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}",
+                    "",
+                    "[[ru:установить светодиодные огни на мотоцикл]]",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "17513671",
+            "user": "120.56.190.144",
+            "timestamp": "07:15, 3 June 2015",
+            "anon": true,
+            "size": "(11,547 bytes)",
+            "change": -200,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Test a Relay|How to Test a Relay]]",
+                    "",
+                    "== Sources and Citations ==",
+                    "{{reflist}}",
+                    "",
+                    "[[ru:установить светодиодные огни на мотоцикл]]",
+                    "",
+                    "__PARTS__"
+                ]
+            }
+        },
+        {
+            "id": "16990401",
+            "user": "Votebot",
+            "timestamp": "13:06, 30 March 2015",
+            "anon": false,
+            "size": "(11,747 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [
+                    "*If your specific LED kit doesn’t come with a fuse in the wiring, then you should splice one in. It’s always safer to have a fuse even for low-draw LEDs."
+                ],
+                "removed": [
+                    "*If your specific LED kit doesn’t come with a fuse in the wiring, then you should splice one in. It’s always safer to have a fuse even for low-draw LEDs."
+                ]
+            }
+        },
+        {
+            "id": "16656309",
+            "user": "WikiHow Intern",
+            "timestamp": "17:23, 15 February 2015",
+            "anon": false,
+            "size": "(11,747 bytes)",
+            "change": 4,
+            "summary": "(fixing order)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Test a Relay|How to Test a Relay]]",
+                    "",
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Test a Relay|How to Test a Relay]]"
+                ]
+            }
+        },
+        {
+            "id": "16411430",
+            "user": "Votebot",
+            "timestamp": "14:46, 19 January 2015",
+            "anon": false,
+            "size": "(11,743 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "16249158",
+            "user": "Wikivisual",
+            "timestamp": "14:15, 29 December 2014",
+            "anon": false,
+            "size": "(11,741 bytes)",
+            "change": 783,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.[[Image:Install LED Lights on a Motorcycle Step 1 Version 2.jpg|center]]",
+                    "#Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.[[Image:Install LED Lights on a Motorcycle Step 2 Version 2.jpg|center]]",
+                    "#Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.[[Image:Install LED Lights on a Motorcycle Step 3 Version 2.jpg|center]]",
+                    "#Pick a placement for your switch. Your LED kit will come with a switch, which should have three leads on the back—positive, negative, and ground. Pick a comfortable location where you will later mount the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 4 Version 2.jpg|center]]",
+                    "#Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 5 Version 2.jpg|center]]",
+                    "#Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>[[Image:Install LED Lights on a Motorcycle Step 6 Version 2.jpg|center]]",
+                    "#Fish the unconnected wiring toward the battery. Some wiring, such as that behind a fairing, might need to be fished out for you to take care of the electrical portion of the project. You can use rigid line like that from a weed eater or even fishing line. Tie the wiring to the line, then once the fairing is back in place, you can fish it out with the fishing line.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 7 Version 2.jpg|center]]",
+                    "#Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.[[Image:Install LED Lights on a Motorcycle Step 8 Version 2.jpg|center]]",
+                    "#Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 9 Version 2.jpg|center]]",
+                    "#Connect the positive LED strip wires to the switch. Run the positive wire from each of your LED strips toward where you have placed your switch. Run the wires tight to the frame, securing them if you need to. Once all of the wires have enough length to reach your switch, use your wire strippers to remove a bit of the wire sheath, twist them all together, and solder them to the terminal you need to connect them to the positive terminal on the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>[[Image:Install LED Lights on a Motorcycle Step 10 Version 2.jpg|center]]",
+                    "#Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.[[Image:Install LED Lights on a Motorcycle Step 11 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "# Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.",
+                    "# Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.",
+                    "# Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.",
+                    "# Pick a placement for your switch. Your LED kit will come with a switch, which should have three leads on the back—positive, negative, and ground. Pick a comfortable location where you will later mount the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>",
+                    "# Fish the unconnected wiring toward the battery. Some wiring, such as that behind a fairing, might need to be fished out for you to take care of the electrical portion of the project. You can use rigid line like that from a weed eater or even fishing line. Tie the wiring to the line, then once the fairing is back in place, you can fish it out with the fishing line.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.",
+                    "# Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Connect the positive LED strip wires to the switch. Run the positive wire from each of your LED strips toward where you have placed your switch. Run the wires tight to the frame, securing them if you need to. Once all of the wires have enough length to reach your switch, use your wire strippers to remove a bit of the wire sheath, twist them all together, and solder them to the terminal you need to connect them to the positive terminal on the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down."
+                ]
+            }
+        },
+        {
+            "id": "16092699",
+            "user": "Seymour Edits",
+            "timestamp": "03:08, 8 December 2014",
+            "anon": false,
+            "size": "(10,958 bytes)",
+            "change": 5104,
+            "summary": "(Organized into parts, expanded every step and inserted missing steps, added in-line citations, revised introduction, added \"things you'll need,\" \"sources and citations,\" and \"warnings,\" revised \"tips\")",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "Installing LED lights is a fun way to make a unique statement with your motorcycle, and the finished product will look awesome. After you buy an LED light kit you like or buy LED strips to design your own, you can easily install them at home.",
+                    "=== Preparing for the Project ===",
+                    "# Gather everything you’ll need. In addition to the LED light kit, you’ll need additional electrical wire, preferably in two different colors to help you differentiate the positive and negative battery connections. The job will also require velcro strips (or a permanent adhesive if you prefer), additional 18- or 20-gauge electrical wire, sandpaper, pliers, screwdrivers, soldering equipment (or soldering gel), wire terminal connectors, electrical tape, and an in-line fuse.",
+                    "# Test your LED strips. Test the strip by attaching the positive lead wire to the positive terminal  on a battery and connecting the negative lead wire to the negative side of the battery terminal. Make sure that each individual strip fully lights.",
+                    "#* Your LED kit may come with a battery you can use to test the LED strips. If not, you can use your motorcycle’s battery to test them. Just make sure you disconnect it from the motorcycle first. You can even use a spare nine-volt battery you have around to test the strips.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* As you’re testing the strips, separate all of the same-size strips into different piles. This will make it easier to use them later.",
+                    "#* It’s a good idea to disconnect the motorcycle’s battery now even if you don’t need to use it to test the LED strips. In most models of motorcycle, you will find the battery located beneath the seat. By disconnecting the battery, you can test your LED light strips without worry of harming the other motorcycle components that it powers.",
+                    "# Test locations for your LED strips. Your specific LED kit may come with instructions for where to mount your lights, but if not, use painter’s tape to temporarily attach them to the motorcycle. Try a couple of designs and make sure that you have enough strips to complete the design you want.",
+                    "#* Make sure you’re using masking tape since it won’t hurt the paint on your motorcycle at all when you peel it back off.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Pick a placement for your switch. Your LED kit will come with a switch, which should have three leads on the back—positive, negative, and ground. Pick a comfortable location where you will later mount the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "=== Attaching the LED Strips to Your Motorcycle ===",
+                    "# Attach velcro to your LED strips. Once you know exactly where all of your strips need to go, you can go about attaching them to the motorcycle. Many LED kits will come with tape strips already attached, but after sticking them, you’re pretty much stuck with the design. Using thin velcro strips instead can give you plenty of adhesion while also giving you the option to move them at will.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* If you’re certain you won’t ever want to move the strips, you can naturally use the tape strips that come with them or pick up some strong double-sided tape to use to adhere the strips.",
+                    "# Attach the strips to your motorcycle. With your positioning picked out and your velcro applied, you can now adhere the strips to your motorcycle. For some spots, such as placing a strip on the underside of a fairing, you might have to remove pieces. These aerodynamic pieces are simply held in place with mounting screws, so you can remove them with a screwdriver and/or socket wrench.<ref>https://www.monsterfairings.com/blog/2013/11/20/remove-motorcycle-fairings-bike/</ref>",
+                    "#* When positioning your strip, make sure that you velcro it with the wiring pointing toward the battery. You’ll need to feed all of the wires in this general direction.",
+                    "# Fish the unconnected wiring toward the battery. Some wiring, such as that behind a fairing, might need to be fished out for you to take care of the electrical portion of the project. You can use rigid line like that from a weed eater or even fishing line. Tie the wiring to the line, then once the fairing is back in place, you can fish it out with the fishing line.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "=== Connecting the Electrical Components ===",
+                    "# Connect the switch to the positive terminal on the battery. Using some additional red (since it’s the positive terminal) electrical wiring, you will need to attach your switch to the positive battery terminal. Solder a ring terminal to one end of the wire. This end will fit over the positive terminal on the battery before you tighten it down. Solder another terminal to the opposite end after you’ve run enough wire to reach the switch.",
+                    "#* You should additionally splice your in-line fuse into this portion of the wiring. LEDs draw very little power, but connecting a fuse is always the safe thing to do. The in-line fuse will have a wire coming out of each side. Cut a gap in your wire in a spot where the fuse can fir easily near the battery under your seat. Use your wire strippers to remove maybe 1/2” of the wire sheath and twist together your wire and those from one end of the fuse, then use electrical tape to secure the connection. Do this on both sides, so the fuse runs seamlessly. You will only need a 5-10 amp fuse since the lights draw so little power.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* If you’re unsure how, you can look up how to [[Solder]], or you can purchase a soldering gel, which allows you to place the wire into the terminal along with the gel, then simply add heat.",
+                    "#* Your switch will most likely have male terminal connections, so you’ll need a female terminal connections to solder to the wire.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* For any wire splices that you make sure the project, you can additionally buy heat-shrinking wire wrap to further secure the spliced connection. The wrap slides over the wire on top of the electrical tape (make sure you buy the appropriate size for the wire you’re using), and then you can apply a bit of heat with a lighter (don’t burn the wire to either side of the wrap), which will cause it to shrink down and reinforce the splice.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Connect your ground wire. This connection also requires an additional piece of wire with a connection to the switch soldered at one end and a ring terminal soldered at the other. You will connect one end to the ground terminal of your switch, and you will connect the other end to the metal frame of your motorcycle. The ground wire needs to have a metal-on-metal connection, so it’s easiest simply to find a metal portion of the frame with a bolt near the switch location and to put the ring terminal over the bolt and tighten it back down.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* In order to ensure that it’s a metal-on-metal connection, use a piece of sandpaper to remove any paint that might be on the frame directly where the bolt tightens down to the frame.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "# Connect the positive LED strip wires to the switch. Run the positive wire from each of your LED strips toward where you have placed your switch. Run the wires tight to the frame, securing them if you need to. Once all of the wires have enough length to reach your switch, use your wire strippers to remove a bit of the wire sheath, twist them all together, and solder them to the terminal you need to connect them to the positive terminal on the switch.<ref>https://www.youtube.com/watch?v=iw9xnE_Kptw</ref>",
+                    "#* If the positive and negative wire sheaths on your LED strips are connected, you can use an X-Acto knife or box cutter in the divot that runs parallel to the two wires to separate them since you will need to run them in opposite directions.",
+                    "#* If any of the wires end up being too short, you can use some of the additional wiring you have to make it longer. Just use the wire strippers to remove a bit of the end sheaths, twist each bunch together, and secure it well with electrical tape.",
+                    "# Connect the negative LED strip wires to the negative battery terminal. Now run all of the negative wiring from your LED strips to the battery. Like you did with the line from the battery to the switch, you’re going to connect them to the battery with a ring terminal. Once you’ve run all of the negative wires from each LED strip to the battery, solder them into the ring terminal that you will attach over the negative terminal of the battery before tightening it down.",
+                    "*If you have multiple strips in a similar location on the bike, you can always splice the positive wires together and the negative wires together in that location. This will allow you to run one wire toward the switch or battery instead of several.",
+                    "*It may help to remove some of the fairings on your motorcycle while you work, so you can more easily secure the wiring to the frame in a way where it won’t be visible when you’re done.",
+                    "*Use your nine-volt or test battery to test your LED strips after each splice. It’s much easier to fix a splicing connection before you have moved on than to try to retrace the steps of a particular wire later on.",
+                    "*Remember that some states have laws that may prohibit these types of lights while you are driving on the road or highway. In other words, check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and stay safe out there.",
+                    "*Some kits may also have a key fob remote control for the lights, in which case you will also need to run the antenna wire down the frame of the motorcycle to improve reception.",
+                    "== Warnings ==",
+                    "*Ensure that you disconnect the motorcycle battery before you get started.",
+                    "*If your specific LED kit doesn’t come with a fuse in the wiring, then you should splice one in. It’s always safer to have a fuse even for low-draw LEDs.",
+                    "== Things You’ll Need ==",
+                    "*Weather-resistant LED light strips",
+                    "*An in-line fuse",
+                    "*Electrical tape",
+                    "*Soldering gel or a soldering iron and solder.",
+                    "*Lighter",
+                    "*18 or 20 gauge electrical wire (preferably in black and red to help you differentiate the positive and negative connections)",
+                    "*A pair of wire strippers",
+                    "*Velcro or a more permanent adhesive if that’s your preference",
+                    "*A stiff wire to help fish the electrical line through the tighter spaces of the motorcycle",
+                    "*Switch and ring terminals",
+                    "*Pliers or wire crimpers",
+                    "*Sandpaper",
+                    "*Screwdriver",
+                    "*A battery to test the LED strips",
+                    "== Sources and Citations ==",
+                    "{{reflist}}",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Light up that bike.",
+                    "",
+                    "Installing LED Lights with remote control on a motorcycle.",
+                    "# Disconnect the motorcycle battery, which is under the seat on most motorcycles.<br><br>[[Image:Install LED Lights on a Motorcycle Step 1.jpg|center|550px]]",
+                    "# Separate all of your LED Strips into separate piles on the ground or work bench.<br><br>[[Image:Install LED Lights on a Motorcycle Step 2.jpg|center|550px]]",
+                    "# Put all the same size strips into separate piles.<br><br>[[Image:Install LED Lights on a Motorcycle Step 3.jpg|center|550px]]",
+                    "#  Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.<br><br>[[Image:Install LED Lights on a Motorcycle Step 4.jpg|center|550px]]",
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the lead-wires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.",
+                    "# Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.<br><br>[[Image:Install LED Lights on a Motorcycle Step 5.jpg|center|550px]]",
+                    "# Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.<br><br>[[Image:Install LED Lights on a Motorcycle Step 6.jpg|center|550px]]",
+                    "# Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.<br><br>[[Image:Install LED Lights on a Motorcycle Step 7.jpg|center|550px]]",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.<br><br>[[Image:Install LED Lights on a Motorcycle Step 8.jpg|center|550px]]",
+                    "# Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.<br><br>[[Image:Install LED Lights on a Motorcycle Step 9.jpg|center|550px]]",
+                    "#Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.<br><br>[[Image:Install LED Lights on a Motorcycle Step 10.jpg|center|550px]]",
+                    "#*Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system.",
+                    "#  Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 11.jpg|center|550px]]",
+                    "#* These 2 wires go into separate wire junction boxes or connector boxes, (see picture). The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your lead wires to expose {{convert|1/2|in|cm|adj=on|1|1}} of bare wire at each end, separate the negative and positive part of each lead wire to about {{convert|4|in|cm|1}} up the lead wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 12.jpg|center|550px]]",
+                    "#  Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.<br><br>[[Image:Install LED Lights on a Motorcycle Step 13.jpg|center|550px]]",
+                    "# Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your key fob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.<br><br>[[Image:Install LED Lights on a Motorcycle Step 14.jpg|center|550px]]",
+                    "",
+                    "",
+                    "",
+                    "*Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "15815166",
+            "user": "MiscBot",
+            "timestamp": "22:20, 5 November 2014",
+            "anon": false,
+            "size": "(5,854 bytes)",
+            "change": 37,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#After stripping all of your lead wires to expose {{convert|1/2|in|cm|adj=on|1|1}} of bare wire at each end, separate the negative and positive part of each lead wire to about {{convert|4|in|cm|1}} up the lead wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 12.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 12.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15719611",
+            "user": "Donagan",
+            "timestamp": "05:38, 25 October 2014",
+            "anon": false,
+            "size": "(5,817 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "# Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your key fob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.<br><br>[[Image:Install LED Lights on a Motorcycle Step 14.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.<br><br>[[Image:Install LED Lights on a Motorcycle Step 14.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15628841",
+            "user": "Ahoward",
+            "timestamp": "18:01, 14 October 2014",
+            "anon": false,
+            "size": "(5,816 bytes)",
+            "change": 1,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the lead-wires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process."
+                ],
+                "removed": [
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process."
+                ]
+            }
+        },
+        {
+            "id": "15595890",
+            "user": "InterwikiBot",
+            "timestamp": "19:21, 10 October 2014",
+            "anon": false,
+            "size": "(5,815 bytes)",
+            "change": 84,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:установить светодиодные огни на мотоцикл]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11343447",
+            "user": "Wikiphoto",
+            "timestamp": "21:16, 8 October 2013",
+            "anon": false,
+            "size": "(5,731 bytes)",
+            "change": 127,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Disconnect the motorcycle battery, which is under the seat on most motorcycles.<br><br>[[Image:Install LED Lights on a Motorcycle Step 1.jpg|center|550px]]",
+                    "# Separate all of your LED Strips into separate piles on the ground or work bench.<br><br>[[Image:Install LED Lights on a Motorcycle Step 2.jpg|center|550px]]",
+                    "# Put all the same size strips into separate piles.<br><br>[[Image:Install LED Lights on a Motorcycle Step 3.jpg|center|550px]]",
+                    "#  Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.<br><br>[[Image:Install LED Lights on a Motorcycle Step 4.jpg|center|550px]]",
+                    "# Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.<br><br>[[Image:Install LED Lights on a Motorcycle Step 5.jpg|center|550px]]",
+                    "# Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.<br><br>[[Image:Install LED Lights on a Motorcycle Step 6.jpg|center|550px]]",
+                    "# Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.<br><br>[[Image:Install LED Lights on a Motorcycle Step 7.jpg|center|550px]]",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.<br><br>[[Image:Install LED Lights on a Motorcycle Step 8.jpg|center|550px]]",
+                    "# Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.<br><br>[[Image:Install LED Lights on a Motorcycle Step 9.jpg|center|550px]]",
+                    "#Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.<br><br>[[Image:Install LED Lights on a Motorcycle Step 10.jpg|center|550px]]",
+                    "#  Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 11.jpg|center|550px]]",
+                    "#After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.<br><br>[[Image:Install LED Lights on a Motorcycle Step 12.jpg|center|550px]]",
+                    "#  Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.<br><br>[[Image:Install LED Lights on a Motorcycle Step 13.jpg|center|550px]]",
+                    "# Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.<br><br>[[Image:Install LED Lights on a Motorcycle Step 14.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Install LED Lights on a Motorcycle Step 1.jpg|right|300px]]Disconnect the motorcycle battery, which is under the seat on most motorcycles.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 2.jpg|right|300px]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 3.jpg|right|300px]]Put all the same size strips into separate piles.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 4.jpg|right|300px]]Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 5.jpg|right|300px]]Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 6.jpg|right|300px]]Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 7.jpg|right|300px]]Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 8.jpg|right|300px]]You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 9.jpg|right|300px]]Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#[[Image:Install LED Lights on a Motorcycle Step 10.jpg|right|300px]]Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 11.jpg|right|300px]]Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "#[[Image:Install LED Lights on a Motorcycle Step 12.jpg|right|300px]]After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 13.jpg|right|300px]]Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 14.jpg|right|300px]]Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image."
+                ]
+            }
+        },
+        {
+            "id": "11343445",
+            "user": "Wikiphoto",
+            "timestamp": "21:16, 8 October 2013",
+            "anon": false,
+            "size": "(5,604 bytes)",
+            "change": 562,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Light up that bike.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 1.jpg|right|300px]]Disconnect the motorcycle battery, which is under the seat on most motorcycles.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 2.jpg|right|300px]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 3.jpg|right|300px]]Put all the same size strips into separate piles.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 4.jpg|right|300px]]Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 5.jpg|right|300px]]Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 6.jpg|right|300px]]Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 7.jpg|right|300px]]Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 8.jpg|right|300px]]You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 9.jpg|right|300px]]Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#[[Image:Install LED Lights on a Motorcycle Step 10.jpg|right|300px]]Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 11.jpg|right|300px]]Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "#[[Image:Install LED Lights on a Motorcycle Step 12.jpg|right|300px]]After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.",
+                    "#  [[Image:Install LED Lights on a Motorcycle Step 13.jpg|right|300px]]Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:Install LED Lights on a Motorcycle Step 14.jpg|right|300px]]Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.",
+                    "*Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE."
+                ],
+                "removed": [
+                    "[[Image:Wiringdiagram.jpg|thumb|right|250px|Wiring Diagram]][[Image:Gary 's Bike.jpg|thumb|right|250px]]Light up that bike.",
+                    "# [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]]Disconnect the motorcycle battery, which is under the seat on most motorcycles.",
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# Put all the same size strips into separate piles.",
+                    "#  Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "# Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#  Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "#After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:2010 Harley Street Glide|thumb|right|196px|]]Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.",
+                    "*[[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE."
+                ]
+            }
+        },
+        {
+            "id": "10309717",
+            "user": "Votebot",
+            "timestamp": "17:28, 27 June 2013",
+            "anon": false,
+            "size": "(5,042 bytes)",
+            "change": -1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "10194794",
+            "user": "Votebot",
+            "timestamp": "16:55, 15 June 2013",
+            "anon": false,
+            "size": "(5,043 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9807192",
+            "user": "Votebot",
+            "timestamp": "15:46, 5 May 2013",
+            "anon": false,
+            "size": "(5,042 bytes)",
+            "change": 1,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Hootooshay",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6421991",
+            "user": "Wendy Weaver",
+            "timestamp": "00:24, 30 July 2011",
+            "anon": false,
+            "size": "(5,041 bytes)",
+            "change": 62,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Test a Relay|How to Test a Relay]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6369340",
+            "user": "Cece123",
+            "timestamp": "23:30, 18 July 2011",
+            "anon": false,
+            "size": "(4,979 bytes)",
+            "change": 1,
+            "summary": "(Reverted edits by 132.3.33.68 (Talk); changed back to last version by Ttrimm)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench."
+                ],
+                "removed": [
+                    "# [[Image:Jan.30,2009 030.jpg|thmb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench."
+                ]
+            }
+        },
+        {
+            "id": "6368280",
+            "user": "132.3.33.68",
+            "timestamp": "19:16, 18 July 2011",
+            "anon": true,
+            "size": "(4,978 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Cece123",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Jan.30,2009 030.jpg|thmb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench."
+                ],
+                "removed": [
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench."
+                ]
+            }
+        },
+        {
+            "id": "4647361",
+            "user": "Ttrimm",
+            "timestamp": "00:45, 31 May 2010",
+            "anon": false,
+            "size": "(4,979 bytes)",
+            "change": 0,
+            "summary": "(Install LED  Lights on a Motorcycle moved to Install LED Lights on a Motorcycle)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "Cece123"
+        },
+        {
+            "id": "4647360",
+            "user": "Ttrimm",
+            "timestamp": "00:44, 31 May 2010",
+            "anon": false,
+            "size": "(4,979 bytes)",
+            "change": 132,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Cece123",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Wiringdiagram.jpg|thumb|right|250px|Wiring Diagram]][[Image:Gary 's Bike.jpg|thumb|right|250px]]Light up that bike.",
+                    "#  Test each strip. Unwrap each LED strip individually and test the strip by attaching the positive lead wire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "# Prepare to mount all of the LED strips. After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# Try creative positioning. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# Use double sided tape to affix the strip. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "# Route your lead wire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your lead wire with black tape to feed your lead wire through the crevices to get the lead wire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Connect the relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#  Strap the antenna wire. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "#* These 2 wires go into separate wire junction boxes or connector boxes, (see picture). The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your lead wires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each lead wire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive lead wires together, (remember you have 5 port holes in each quick connector), so divide the lead wires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:2010 Harley Street Glide|thumb|right|196px|]]Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image."
+                ],
+                "removed": [
+                    "[[Image:Wiringdiagram.jpg|thumb|right|250px|Wiring Diagram]][[Image:Gary 's Bike.jpg|thumb|right|250px]] Light up that bike.",
+                    "#  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "# After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "# Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "# These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:2010 Harley Street Glide|thumb|right|196px|]]",
+                    "#Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image."
+                ]
+            }
+        },
+        {
+            "id": "4427314",
+            "user": "Danno Evening Illusions",
+            "timestamp": "04:32, 27 March 2010",
+            "anon": false,
+            "size": "(4,847 bytes)",
+            "change": 60,
+            "summary": "(Added image: Wiringdiagram.jpg)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Wiringdiagram.jpg|thumb|right|250px|Wiring Diagram]][[Image:Gary 's Bike.jpg|thumb|right|250px]] Light up that bike."
+                ],
+                "removed": [
+                    "[[Image:Gary 's Bike.jpg|thumb|right|250px]] Light up that bike."
+                ]
+            }
+        },
+        {
+            "id": "4427293",
+            "user": "JackHerrick",
+            "timestamp": "04:21, 27 March 2010",
+            "anon": false,
+            "size": "(4,787 bytes)",
+            "change": 0,
+            "summary": "(Install Led  Lights on Motorcycles moved to Install LED  Lights on a Motorcycle)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "4427290",
+            "user": "JackHerrick",
+            "timestamp": "04:20, 27 March 2010",
+            "anon": false,
+            "size": "(4,787 bytes)",
+            "change": -18,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# Put all the same size strips into separate piles.",
+                    "#  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.",
+                    "# After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#*Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system.",
+                    "#  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "# These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "# [[Image:2010 Harley Street Glide|thumb|right|196px|]]",
+                    "#Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.",
+                    "",
+                    "*[[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE."
+                ],
+                "removed": [
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# Put all the same size strips into separate piles.",
+                    "#  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.",
+                    "# After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#*Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system.",
+                    "#  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "# These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "#  #  [[Image:2010 Harley Street Glide|thumb|right|196px|]]",
+                    "Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.",
+                    "* [[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE."
+                ]
+            }
+        },
+        {
+            "id": "4427287",
+            "user": "JackHerrick",
+            "timestamp": "04:19, 27 March 2010",
+            "anon": false,
+            "size": "(4,805 bytes)",
+            "change": -88,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Gary 's Bike.jpg|thumb|right|250px]] Light up that bike.",
+                    "Installing LED Lights with remote control on a motorcycle.",
+                    "# [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]]Disconnect the motorcycle battery, which is under the seat on most motorcycles.",
+                    "# [[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]Separate all of your LED Strips into separate piles on the ground or work bench.",
+                    "# Put all the same size strips into separate piles.",
+                    "#  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit.",
+                    "#* Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.",
+                    "# After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape.",
+                    "# You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in.",
+                    "# After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol.",
+                    "#  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle.",
+                    "# Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations.",
+                    "#Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal.",
+                    "#*Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system.",
+                    "#  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire.",
+                    "# These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector.",
+                    "#After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire.",
+                    "#  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box.",
+                    "#  #  [[Image:2010 Harley Street Glide|thumb|right|196px|]]",
+                    "Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.",
+                    "== Tips ==",
+                    "* [[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE."
+                ],
+                "removed": [
+                    "[[Image:Gary 's Bike.jpg|thumb|right|250px]]{{format|date=2010-03-26} Light up that bike.",
+                    "[[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Installing LED Lights with remote control on a motorcycle.",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]][[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]To install LED Flexible Strips on a Motorcycle. 1. Disconnect the motorcycle battery, which is under the seat on most motorcycles. 2. Separate all of your LED Strips into separate piles on the ground or work bench. 3.  Put all the same size strips into separate piles. 4.  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process. 5.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. 6. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. 7. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. 8.  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. 9. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. 10.  Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. *Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. 11.  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. 12. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. 13. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. 14.  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. 15.  Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.* Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE. Danno"
+                ]
+            }
+        },
+        {
+            "id": "4427274",
+            "user": "Danno Evening Illusions",
+            "timestamp": "04:03, 27 March 2010",
+            "anon": false,
+            "size": "(4,893 bytes)",
+            "change": -108,
+            "summary": "(Added image: Gary 's Bike.jpg)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Gary 's Bike.jpg|thumb|right|250px]]{{format|date=2010-03-26} Light up that bike.",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]][[Image:Jan.30,2009 030.jpg|thumb|right|192px|LED Flexible strips]]To install LED Flexible Strips on a Motorcycle. 1. Disconnect the motorcycle battery, which is under the seat on most motorcycles. 2. Separate all of your LED Strips into separate piles on the ground or work bench. 3.  Put all the same size strips into separate piles. 4.  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process. 5.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. 6. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. 7. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. 8.  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. 9. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. 10.  Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. *Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. 11.  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. 12. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. 13. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. 14.  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. 15.  Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.* Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE. Danno"
+                ],
+                "removed": [
+                    "{{format|date=2010-03-26}} This article will give you an explanation of standard installations of LED lights on motorcycles.This will show you how to hook up your own LED lighting system and save money on installation by doing it yourself.",
+                    "[[Category:Motorcycles]]",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]]To install LED Flexible Strips on a Motorcycle. 1. Disconnect the motorcycle battery, which is under the seat on most motorcycles. 2. Separate all of your LED Strips into separate piles on the ground or work bench. 3.  Put all the same size strips into separate piles. 4.  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process. 5.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. 6. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. 7. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. 8.  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. 9. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. 10.  Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. *Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. 11.  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. 12. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. 13. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. 14.  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. 15.  Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.* Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE. Danno"
+                ]
+            }
+        },
+        {
+            "id": "4427242",
+            "user": "72.49.71.236",
+            "timestamp": "03:46, 27 March 2010",
+            "anon": true,
+            "size": "(5,001 bytes)",
+            "change": 282,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{format|date=2010-03-26}} This article will give you an explanation of standard installations of LED lights on motorcycles.This will show you how to hook up your own LED lighting system and save money on installation by doing it yourself.",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]]To install LED Flexible Strips on a Motorcycle. 1. Disconnect the motorcycle battery, which is under the seat on most motorcycles. 2. Separate all of your LED Strips into separate piles on the ground or work bench. 3.  Put all the same size strips into separate piles. 4.  Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process. 5.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. 6. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. 7. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on each side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. 8.  You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. 9. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater line  to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. 10.  Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it, 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected to your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. *Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. 11.  The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. 12. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. 13. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. 14.  Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector, place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. 15.  Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image.* Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE. Danno"
+                ],
+                "removed": [
+                    "{{format|date=2010-03-26}}",
+                    "",
+                    "",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]]To install LED Flexible Strips on a Motorcycle. Disconnect the motorcycle battery, which is under the seat on most motorcycles. Separate all of your LED Strips into separate piles on the ground or work bench. Put all the same size strips into separate piles. Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on ech side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it. 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected tou your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image. Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE!!!"
+                ]
+            }
+        },
+        {
+            "id": "4426130",
+            "user": "Tryme2",
+            "timestamp": "20:53, 26 March 2010",
+            "anon": false,
+            "size": "(4,719 bytes)",
+            "change": 26,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Motorcycles]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4426129",
+            "user": "Tryme2",
+            "timestamp": "20:52, 26 March 2010",
+            "anon": false,
+            "size": "(4,693 bytes)",
+            "change": 26,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Motorcycles]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4424353",
+            "user": "Wdt3223",
+            "timestamp": "07:25, 26 March 2010",
+            "anon": false,
+            "size": "(4,667 bytes)",
+            "change": 28,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{format|date=2010-03-26}}",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4424290",
+            "user": "Danno Evening Illusions",
+            "timestamp": "06:30, 26 March 2010",
+            "anon": false,
+            "size": "(4,639 bytes)",
+            "change": 4639,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:12 volt relay switch.jpg|thumb|right|251px|12 volt relay w/ remote]]Installing LED Lights with remote control on a motorcycle.",
+                    "== Steps ==",
+                    "#  [[Image:Quick Connectors with locking levers|thumb|right|180px|Quick Connectors]][[Image:2010 Harley Street Glide|thumb|right|196px|Awesome!!!]]To install LED Flexible Strips on a Motorcycle. Disconnect the motorcycle battery, which is under the seat on most motorcycles. Separate all of your LED Strips into separate piles on the ground or work bench. Put all the same size strips into separate piles. Unwrap each LED strip individually and test the strip by attaching the positive leadwire to the positive terminal  on the battery, connect the negative lead wire to the negative side of the battery terminal and make sure that; each individual strip is fully lit. * Note: if you connect the wires and the strip doesn't light, reverse the leadwires and connect them to the battery , they will usually light  and sometimes the wires get reversed in the manufacturing process.     After you have tested all of your LED strips and found them all to be in good working order, with all of the LED lights working, you are ready to mount your LED strips in various places on the motorcycle with 3M double sided VHB tape. You can hook up the LED strips direct to the battery to do some \"creative positioning\" with each strip by holding up a lit strip to your intended  mounting location to see how well the lit strip will look in the location you desire to place the strip in. After you have decided where you will place each strip on the motorcycle, you will attach the 3M double sided  VHB tape to the side or bottom of the LED strip. This tape has protective vinyl cover on ech side, so you first attach the tape to the strip. Then you wipe the intended mounting location with rubbing alcohol. You then peel off the protective vinyl on the mounting side of the LED strip and place it on the motorcycle. Route your leadwire along the frame until you get it close to your battery location. You can use a piece of heavy duty Weedeater to tape to the end of your leadwire with black tape to feed your leadwire through the crevises to get the leadwire close to your battery. Do this with each LED strip, until all of the LED strips are mounted on the motorcycle in your desired locations. Next, you are ready to connect your relay box to the battery. Your relay has 5 wires attached to it. 1 Red, 2 Black, 1 White and 1 Blue. The Red wire gets a boat fuse connected to it, then gets connected tou your positive battery terminal. The Black wire(either one) gets connected to your negative battery terminal. Do not put your fuse into the Boat fuse until you get everything completely wired up and are ready to test the light system. The Blue wire is an antenna wire, strap it along the frame of the motorcycle to get a good distance of RF reception. The White wire is your positive out wire and the other Black wire is your negative out wire. These 2 wires go into separate wire junction boxes or connector boxes,( see picture).The White wire goes into 1 quick connector and the Black wire goes into the other quick connector. After stripping all of your leadwires to expose 1/2 inch of bare wire at each end, separate the negative and positive part of each leadwire to about 4 inches up the lead wire. Connect all of your positive leadwires together, ( remember you have 5 port holes in each quick connector), so divide the leadwires up equally and lift all of the levers on each quick connector place all of the positive wires into the quick connector with the White wire from the relay box and place all of the negative wires into the quick connector with the Black wire from the relay box. Next you are ready to put a 5 amp fuse into your boat fuse. Install the fuse into the Boat fuse connector that is connected to the Positive Battery terminal. After you have all of the wires connected up tight and you are sure, that you don't have any loose connecting wires, then you will push the green button on your keyfob to turn the lights on. Your lights should all be illuminated now. If not,  check any wires for loose connections to any strips that are not lit. You are now ready to\" GET OUT THERE\" and show off your new image. Remember, that some states have laws that may indeed \"Prohibit\" these types of lights to be lit while you are driving on the road or highway. In other words; check the laws in your state prior to riding on the road with your lights illuminated. They are only allowed for \"Display Only Purposes\" in some states. Check the laws before you ride, and STAY SAFE OUT THERE!!!"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "discussions": []
+}

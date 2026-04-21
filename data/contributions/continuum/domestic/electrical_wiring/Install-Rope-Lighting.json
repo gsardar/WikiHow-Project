@@ -1,0 +1,992 @@
+{
+    "title": "Install-Rope-Lighting",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:04:48.569439",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34095879",
+            "user": "MiscBot",
+            "timestamp": "19:35, 19 February 2026",
+            "anon": false,
+            "size": "(5,412 bytes)",
+            "change": -42,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*  [[Wire a Light]]"
+                ]
+            }
+        },
+        {
+            "id": "34080233",
+            "user": "MiscBot",
+            "timestamp": "02:35, 19 February 2026",
+            "anon": false,
+            "size": "(5,454 bytes)",
+            "change": 104,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Related wikiHows ==",
+                    "*  [[Wire a Light]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34064372",
+            "user": "MiscBot",
+            "timestamp": "19:25, 18 February 2026",
+            "anon": false,
+            "size": "(5,350 bytes)",
+            "change": -104,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*  [[Wire a Light]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ]
+            }
+        },
+        {
+            "id": "33048081",
+            "user": "Hopedemi",
+            "timestamp": "20:42, 6 January 2025",
+            "anon": false,
+            "size": "(5,454 bytes)",
+            "change": 291,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about lighting, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Frank Boss | interview}} with [v162206_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32980013",
+            "user": "Seymour Edits",
+            "timestamp": "19:39, 5 December 2024",
+            "anon": false,
+            "size": "(5,163 bytes)",
+            "change": 78,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Nail plastic cable clips,<ref>https://www.youtube.com/watch?v=Duqned40SQ4</ref> appropriate for the diameter of your rope lighting, in place along the line where your lighting will run.<ref>[v162206_b01]. 7 March 2022.</ref> Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg|gif=Install Rope Lighting Step 3.360p.gif|giffirst=Install Rope Lighting Step 3.360p.first.gif}}",
+                    "#Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<ref>[v162206_b01]. 7 March 2022.</ref><br><br>{{whvid|Install Rope Lighting Step 6.360p.mp4|Install Rope Lighting Step 6-preview.jpg|Install Rope Lighting Step 6 Version 2.jpg|gif=Install Rope Lighting Step 6.360p.gif|giffirst=Install Rope Lighting Step 6.360p.first.gif}}"
+                ],
+                "removed": [
+                    "#Nail plastic cable clips,<ref>https://www.youtube.com/watch?v=Duqned40SQ4</ref> appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg|gif=Install Rope Lighting Step 3.360p.gif|giffirst=Install Rope Lighting Step 3.360p.first.gif}}",
+                    "#Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>{{whvid|Install Rope Lighting Step 6.360p.mp4|Install Rope Lighting Step 6-preview.jpg|Install Rope Lighting Step 6 Version 2.jpg|gif=Install Rope Lighting Step 6.360p.gif|giffirst=Install Rope Lighting Step 6.360p.first.gif}}"
+                ]
+            }
+        },
+        {
+            "id": "31376987",
+            "user": "Votebot",
+            "timestamp": "09:43, 21 February 2023",
+            "anon": false,
+            "size": "(5,085 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ],
+                "removed": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ]
+            }
+        },
+        {
+            "id": "30888678",
+            "user": "Votebot",
+            "timestamp": "08:40, 19 September 2022",
+            "anon": false,
+            "size": "(5,085 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Wrap with electrical tape any segment of the rope lighting that you don't want to illuminate. You can also buy specialized sleeves that provide more attractive cover, but these are only necessary for segments of rope that aren't hidden inside a wall, behind a cabinet or inside a cupboard."
+                ],
+                "removed": [
+                    "* Wrap with electrical tape any segment of the rope lighting that you don't want to illuminate. You can also buy specialized sleeves that provide more attractive cover, but these are only necessary for segments of rope that aren't hidden inside a wall, behind a cabinet or inside a cupboard."
+                ]
+            }
+        },
+        {
+            "id": "29889044",
+            "user": "MiscBot",
+            "timestamp": "01:27, 15 September 2021",
+            "anon": false,
+            "size": "(5,085 bytes)",
+            "change": -3,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Lighting]]"
+                ],
+                "removed": [
+                    "[[Category:Rope Lights]]"
+                ]
+            }
+        },
+        {
+            "id": "27652750",
+            "user": "Seymour Edits",
+            "timestamp": "11:18, 28 January 2020",
+            "anon": false,
+            "size": "(5,088 bytes)",
+            "change": 241,
+            "summary": "(Added sources and a reflist for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Determine where you want your rope lighting for the best effect and ambiance.<ref>https://www.takethreelighting.com/rope-light-basics.html</ref> Note the line of where the rope will run.<br><br>{{whvid|Install Rope Lighting Step 1.360p.mp4|Install Rope Lighting Step 1-preview.jpg|Install Rope Lighting Step 1 Version 2.jpg|gif=Install Rope Lighting Step 1.360p.gif|giffirst=Install Rope Lighting Step 1.360p.first.gif}}",
+                    "#Nail plastic cable clips,<ref>https://www.youtube.com/watch?v=Duqned40SQ4</ref> appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg|gif=Install Rope Lighting Step 3.360p.gif|giffirst=Install Rope Lighting Step 3.360p.first.gif}}",
+                    "#Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<ref>https://www.youtube.com/watch?v=-DQ0yCZM__I</ref><br><br>{{whvid|Install Rope Lighting Step 4.360p.mp4|Install Rope Lighting Step 4-preview.jpg|Install Rope Lighting Step 4 Version 2.jpg|gif=Install Rope Lighting Step 4.360p.gif|giffirst=Install Rope Lighting Step 4.360p.first.gif}}",
+                    "#Nail down all clips the rest of the way to secure the rope lighting in place.<ref>https://www.youtube.com/watch?v=Duqned40SQ4</ref><br><br>{{whvid|Install Rope Lighting Step 5.360p.mp4|Install Rope Lighting Step 5-preview.jpg|Install Rope Lighting Step 5 Version 2.jpg|gif=Install Rope Lighting Step 5.360p.gif|giffirst=Install Rope Lighting Step 5.360p.first.gif}}",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>{{whvid|Install Rope Lighting Step 1.360p.mp4|Install Rope Lighting Step 1-preview.jpg|Install Rope Lighting Step 1 Version 2.jpg|gif=Install Rope Lighting Step 1.360p.gif|giffirst=Install Rope Lighting Step 1.360p.first.gif}}",
+                    "#Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg|gif=Install Rope Lighting Step 3.360p.gif|giffirst=Install Rope Lighting Step 3.360p.first.gif}}",
+                    "#Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>{{whvid|Install Rope Lighting Step 4.360p.mp4|Install Rope Lighting Step 4-preview.jpg|Install Rope Lighting Step 4 Version 2.jpg|gif=Install Rope Lighting Step 4.360p.gif|giffirst=Install Rope Lighting Step 4.360p.first.gif}}",
+                    "#Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>{{whvid|Install Rope Lighting Step 5.360p.mp4|Install Rope Lighting Step 5-preview.jpg|Install Rope Lighting Step 5 Version 2.jpg|gif=Install Rope Lighting Step 5.360p.gif|giffirst=Install Rope Lighting Step 5.360p.first.gif}}"
+                ]
+            }
+        },
+        {
+            "id": "26496368",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "08:32, 2 May 2019",
+            "anon": false,
+            "size": "(4,847 bytes)",
+            "change": -32,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*  [[Choose Recessed Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "26297643",
+            "user": "MiscBot",
+            "timestamp": "02:52, 29 March 2019",
+            "anon": false,
+            "size": "(4,879 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25995577",
+            "user": "WikiHow Projects",
+            "timestamp": "03:18, 7 February 2019",
+            "anon": false,
+            "size": "(4,890 bytes)",
+            "change": -130,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "* [http://www.birddogdistributing.com/rope-light-installation.php http://www.birddogdistributing.com/rope-light-installation.php]"
+                ]
+            }
+        },
+        {
+            "id": "23879405",
+            "user": "WikiHow Intern",
+            "timestamp": "05:28, 18 January 2018",
+            "anon": false,
+            "size": "(5,020 bytes)",
+            "change": -16,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Rope Lights]]"
+                ],
+                "removed": [
+                    "[[Category:Lighting and Light Switches]]"
+                ]
+            }
+        },
+        {
+            "id": "22727387",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:45, 27 June 2017",
+            "anon": false,
+            "size": "(5,036 bytes)",
+            "change": -58,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*  [[Adjust Recessed Lighting]]",
+                    "*  [[Buy Track Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "19346956",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "01:54, 9 January 2016",
+            "anon": false,
+            "size": "(5,094 bytes)",
+            "change": -110,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*  [[Adjust Recessed Lighting]]",
+                    "*  [[Wire a Light]]",
+                    "*  [[Buy Track Lighting]]",
+                    "*  [[Choose Recessed Lighting]]"
+                ],
+                "removed": [
+                    "*  [[Adjust Recessed Lighting|How to Adjust Recessed Lighting]]",
+                    "*  [[Wire a Light|How to Wire a Light]]",
+                    "*  [[Buy Track Lighting|How to Buy Track Lighting]]",
+                    "*  [[Choose Recessed Lighting|How to Choose Recessed Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "19126378",
+            "user": "Wikiphoto",
+            "timestamp": "15:46, 24 December 2015",
+            "anon": false,
+            "size": "(5,204 bytes)",
+            "change": 758,
+            "summary": "(Adding gifs to videos.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>{{whvid|Install Rope Lighting Step 1.360p.mp4|Install Rope Lighting Step 1-preview.jpg|Install Rope Lighting Step 1 Version 2.jpg|gif=Install Rope Lighting Step 1.360p.gif|giffirst=Install Rope Lighting Step 1.360p.first.gif}}",
+                    "#Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.<br><br>{{whvid|Install Rope Lighting Step 2.360p.mp4|Install Rope Lighting Step 2-preview.jpg|Install Rope Lighting Step 2 Version 2.jpg|gif=Install Rope Lighting Step 2.360p.gif|giffirst=Install Rope Lighting Step 2.360p.first.gif}}",
+                    "#Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg|gif=Install Rope Lighting Step 3.360p.gif|giffirst=Install Rope Lighting Step 3.360p.first.gif}}",
+                    "#Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>{{whvid|Install Rope Lighting Step 4.360p.mp4|Install Rope Lighting Step 4-preview.jpg|Install Rope Lighting Step 4 Version 2.jpg|gif=Install Rope Lighting Step 4.360p.gif|giffirst=Install Rope Lighting Step 4.360p.first.gif}}",
+                    "#Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>{{whvid|Install Rope Lighting Step 5.360p.mp4|Install Rope Lighting Step 5-preview.jpg|Install Rope Lighting Step 5 Version 2.jpg|gif=Install Rope Lighting Step 5.360p.gif|giffirst=Install Rope Lighting Step 5.360p.first.gif}}",
+                    "#Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>{{whvid|Install Rope Lighting Step 6.360p.mp4|Install Rope Lighting Step 6-preview.jpg|Install Rope Lighting Step 6 Version 2.jpg|gif=Install Rope Lighting Step 6.360p.gif|giffirst=Install Rope Lighting Step 6.360p.first.gif}}",
+                    "#Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.<br><br>{{whvid|Install Rope Lighting Step 7.360p.mp4|Install Rope Lighting Step 7-preview.jpg|Install Rope Lighting Step 7 Version 2.jpg|gif=Install Rope Lighting Step 7.360p.gif|giffirst=Install Rope Lighting Step 7.360p.first.gif}}",
+                    "#Finished.<br><br>{{whvid|Install Rope Lighting Final.360p.mp4|Install Rope Lighting Final-preview.jpg|Install Rope Lighting Final.jpg|gif=Install Rope Lighting Final.360p.gif|giffirst=Install Rope Lighting Final.360p.first.gif}}"
+                ],
+                "removed": [
+                    "#Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>{{whvid|Install Rope Lighting Step 1.360p.mp4|Install Rope Lighting Step 1-preview.jpg|Install Rope Lighting Step 1 Version 2.jpg}}",
+                    "#Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.<br><br>{{whvid|Install Rope Lighting Step 2.360p.mp4|Install Rope Lighting Step 2-preview.jpg|Install Rope Lighting Step 2 Version 2.jpg}}",
+                    "#Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg}}",
+                    "#Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>{{whvid|Install Rope Lighting Step 4.360p.mp4|Install Rope Lighting Step 4-preview.jpg|Install Rope Lighting Step 4 Version 2.jpg}}",
+                    "#Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>{{whvid|Install Rope Lighting Step 5.360p.mp4|Install Rope Lighting Step 5-preview.jpg|Install Rope Lighting Step 5 Version 2.jpg}}",
+                    "#Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>{{whvid|Install Rope Lighting Step 6.360p.mp4|Install Rope Lighting Step 6-preview.jpg|Install Rope Lighting Step 6 Version 2.jpg}}",
+                    "#Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.<br><br>{{whvid|Install Rope Lighting Step 7.360p.mp4|Install Rope Lighting Step 7-preview.jpg|Install Rope Lighting Step 7 Version 2.jpg}}",
+                    "#Finished.<br><br>{{whvid|Install Rope Lighting Final.360p.mp4|Install Rope Lighting Final-preview.jpg|Install Rope Lighting Final.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "18471099",
+            "user": "Votebot",
+            "timestamp": "08:39, 20 September 2015",
+            "anon": false,
+            "size": "(4,446 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ],
+                "removed": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ]
+            }
+        },
+        {
+            "id": "17923277",
+            "user": "InterwikiBot",
+            "timestamp": "01:38, 25 July 2015",
+            "anon": false,
+            "size": "(4,446 bytes)",
+            "change": -41,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "[[es:instalar iluminación de cuerdas]]"
+                ]
+            }
+        },
+        {
+            "id": "17575660",
+            "user": "Vidbot",
+            "timestamp": "18:35, 10 June 2015",
+            "anon": false,
+            "size": "(4,487 bytes)",
+            "change": 46,
+            "summary": "(restoring removed video)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install Rope Lighting|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "17553899",
+            "user": "Vidbot",
+            "timestamp": "10:51, 8 June 2015",
+            "anon": false,
+            "size": "(4,441 bytes)",
+            "change": -46,
+            "summary": "(Removing unavailable video from article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install Rope Lighting|}}"
+                ]
+            }
+        },
+        {
+            "id": "17383885",
+            "user": "Wikivisual",
+            "timestamp": "15:40, 20 May 2015",
+            "anon": false,
+            "size": "(4,487 bytes)",
+            "change": 662,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>{{whvid|Install Rope Lighting Step 1.360p.mp4|Install Rope Lighting Step 1-preview.jpg|Install Rope Lighting Step 1 Version 2.jpg}}",
+                    "#Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.<br><br>{{whvid|Install Rope Lighting Step 2.360p.mp4|Install Rope Lighting Step 2-preview.jpg|Install Rope Lighting Step 2 Version 2.jpg}}",
+                    "#Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>{{whvid|Install Rope Lighting Step 3.360p.mp4|Install Rope Lighting Step 3-preview.jpg|Install Rope Lighting Step 3 Version 2.jpg}}",
+                    "#Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>{{whvid|Install Rope Lighting Step 4.360p.mp4|Install Rope Lighting Step 4-preview.jpg|Install Rope Lighting Step 4 Version 2.jpg}}",
+                    "#Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>{{whvid|Install Rope Lighting Step 5.360p.mp4|Install Rope Lighting Step 5-preview.jpg|Install Rope Lighting Step 5 Version 2.jpg}}",
+                    "#Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>{{whvid|Install Rope Lighting Step 6.360p.mp4|Install Rope Lighting Step 6-preview.jpg|Install Rope Lighting Step 6 Version 2.jpg}}",
+                    "#Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.<br><br>{{whvid|Install Rope Lighting Step 7.360p.mp4|Install Rope Lighting Step 7-preview.jpg|Install Rope Lighting Step 7 Version 2.jpg}}",
+                    "#Finished.<br><br>{{whvid|Install Rope Lighting Final.360p.mp4|Install Rope Lighting Final-preview.jpg|Install Rope Lighting Final.jpg}}"
+                ],
+                "removed": [
+                    "# Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>[[Image:Install Rope Lighting Step 1.jpg|center|550px]]",
+                    "# Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.<br><br>[[Image:Install Rope Lighting Step 2.jpg|center|550px]]",
+                    "# Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>[[Image:Install Rope Lighting Step 3.jpg|center|550px]]",
+                    "# Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>[[Image:Install Rope Lighting Step 4.jpg|center|550px]]",
+                    "# Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>[[Image:Install Rope Lighting Step 5.jpg|center|550px]]",
+                    "# Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>[[Image:Install Rope Lighting Step 6.jpg|center|550px]]",
+                    "# Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.<br><br>[[Image:Install Rope Lighting Step 7.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "16028517",
+            "user": "WikiHow Intern",
+            "timestamp": "12:28, 30 November 2014",
+            "anon": false,
+            "size": "(3,825 bytes)",
+            "change": -143,
+            "summary": "(removing broken link)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "* [http://www.howcast.com/videos/64299-How-To-Install-Rope-Light-Strings http://www.howcast.com/videos/64299-How-To-Install-Rope-Light-Strings]"
+                ]
+            }
+        },
+        {
+            "id": "15740970",
+            "user": "Durgaj4u",
+            "timestamp": "08:14, 28 October 2014",
+            "anon": false,
+            "size": "(3,968 bytes)",
+            "change": 45,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Install Rope Lighting|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13978335",
+            "user": "Votebot",
+            "timestamp": "18:06, 19 June 2014",
+            "anon": false,
+            "size": "(3,923 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Wrap with electrical tape any segment of the rope lighting that you don't want to illuminate. You can also buy specialized sleeves that provide more attractive cover, but these are only necessary for segments of rope that aren't hidden inside a wall, behind a cabinet or inside a cupboard."
+                ],
+                "removed": [
+                    "* Wrap with electrical tape any segment of the rope lighting that you don't want to illuminate. You can also buy specialized sleeves that provide more attractive cover, but these are only necessary for segments of rope that aren't hidden inside a wall, behind a cabinet or inside a cupboard."
+                ]
+            }
+        },
+        {
+            "id": "13340223",
+            "user": "Votebot",
+            "timestamp": "17:18, 17 April 2014",
+            "anon": false,
+            "size": "(3,923 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ],
+                "removed": [
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall."
+                ]
+            }
+        },
+        {
+            "id": "13225670",
+            "user": "InterwikiBot",
+            "timestamp": "16:21, 7 April 2014",
+            "anon": false,
+            "size": "(3,923 bytes)",
+            "change": 40,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:instalar iluminación de cuerdas]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12675977",
+            "user": "Wikiphoto",
+            "timestamp": "09:42, 13 February 2014",
+            "anon": false,
+            "size": "(3,883 bytes)",
+            "change": 64,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.<br><br>[[Image:Install Rope Lighting Step 1.jpg|center|550px]]",
+                    "# Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.<br><br>[[Image:Install Rope Lighting Step 2.jpg|center|550px]]",
+                    "# Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).<br><br>[[Image:Install Rope Lighting Step 3.jpg|center|550px]]",
+                    "# Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.<br><br>[[Image:Install Rope Lighting Step 4.jpg|center|550px]]",
+                    "# Nail down all clips the rest of the way to secure the rope lighting in place.<br><br>[[Image:Install Rope Lighting Step 5.jpg|center|550px]]",
+                    "# Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.<br><br>[[Image:Install Rope Lighting Step 6.jpg|center|550px]]",
+                    "# Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.<br><br>[[Image:Install Rope Lighting Step 7.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Install Rope Lighting Step 1.jpg|right|300px]]Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.",
+                    "# [[Image:Install Rope Lighting Step 2.jpg|right|300px]]Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.",
+                    "# [[Image:Install Rope Lighting Step 3.jpg|right|300px]]Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).",
+                    "# [[Image:Install Rope Lighting Step 4.jpg|right|300px]]Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.",
+                    "# [[Image:Install Rope Lighting Step 5.jpg|right|300px]]Nail down all clips the rest of the way to secure the rope lighting in place.",
+                    "# [[Image:Install Rope Lighting Step 6.jpg|right|300px]]Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.",
+                    "# [[Image:Install Rope Lighting Step 7.jpg|right|300px]]Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch."
+                ]
+            }
+        },
+        {
+            "id": "12675976",
+            "user": "Wikiphoto",
+            "timestamp": "09:42, 13 February 2014",
+            "anon": false,
+            "size": "(3,819 bytes)",
+            "change": 327,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Rope lighting combines the advantages of easy installation, small footprint, ambience and flexibility to make it one of the more popular lighting options of the early 21st century. Although the fact that you're fiddling with electrical wiring might be intimidating, actually installing this rope lighting is even easier than installing a ceiling fixture light. Set aside an afternoon for this project. It may take less time, but it's always better to have time to do things right rather than to be in a hurry.",
+                    "# [[Image:Install Rope Lighting Step 1.jpg|right|300px]]Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.",
+                    "# [[Image:Install Rope Lighting Step 2.jpg|right|300px]]Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.",
+                    "# [[Image:Install Rope Lighting Step 3.jpg|right|300px]]Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).",
+                    "# [[Image:Install Rope Lighting Step 4.jpg|right|300px]]Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.",
+                    "# [[Image:Install Rope Lighting Step 5.jpg|right|300px]]Nail down all clips the rest of the way to secure the rope lighting in place.",
+                    "# [[Image:Install Rope Lighting Step 6.jpg|right|300px]]Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.",
+                    "# [[Image:Install Rope Lighting Step 7.jpg|right|300px]]Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch."
+                ],
+                "removed": [
+                    "[[Image:Colorful Rope Light.jpg|thumb|right|251px]]Rope lighting combines the advantages of easy installation, small footprint, ambience and flexibility to make it one of the more popular lighting options of the early 21st century. Although the fact that you're fiddling with electrical wiring might be intimidating, actually installing this rope lighting is even easier than installing a ceiling fixture light. Set aside an afternoon for this project. It may take less time, but it's always better to have time to do things right rather than to be in a hurry.",
+                    "# Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.",
+                    "# Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.",
+                    "# Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).",
+                    "# Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.",
+                    "# Nail down all clips the rest of the way to secure the rope lighting in place.",
+                    "# Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.",
+                    "# Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch."
+                ]
+            }
+        },
+        {
+            "id": "9359973",
+            "user": "BR",
+            "timestamp": "10:58, 7 March 2013",
+            "anon": false,
+            "size": "(3,492 bytes)",
+            "change": -717,
+            "summary": "(Reverted edits by Earth Boy (Talk); changed back to last version by Earthquake expert)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "As this LED Rope Lights are both avaible in Waterproof or Non-Waterproof Kind. So before installation, you need to notice whether it is exterior or interior application.",
+                    "As the rope light(normal customer will also called Flexible Strip Light or Light Ribbon has the characteristics of cuttable. So you can buy a rope, usually 1M, 5M, 10M, 15M,20M available in the market. You can cut them to several parts according to the length you required.Soldering is needed, if you cut the light.",
+                    "# Normal rope light has one side to paste. Before using the clips, you can try whether the paste side can be strong enough to hold it.",
+                    "* [http://www.dreamlighting.com.au/product3j/Flexible%20Strip%20Light/5050%20SMD%20Chip.html"
+                ]
+            }
+        },
+        {
+            "id": "9359111",
+            "user": "Earth Boy",
+            "timestamp": "07:06, 7 March 2013",
+            "anon": false,
+            "size": "(4,209 bytes)",
+            "change": 171,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "As this LED Rope Lights are both avaible in Waterproof or Non-Waterproof Kind. So before installation, you need to notice whether it is exterior or interior application."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9359017",
+            "user": "Earth Boy",
+            "timestamp": "06:46, 7 March 2013",
+            "anon": false,
+            "size": "(4,038 bytes)",
+            "change": -7,
+            "summary": "(→‎Sources and Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "* [http://www.dreamlighting.com.au/product3j/Flexible%20Strip%20Light/5050%20SMD%20Chip.html"
+                ],
+                "removed": [
+                    "* [http://http://www.dreamlighting.com.au/product3j/Flexible%20Strip%20Light/5050%20SMD%20Chip.html"
+                ]
+            }
+        },
+        {
+            "id": "9359016",
+            "user": "Earth Boy",
+            "timestamp": "06:45, 7 March 2013",
+            "anon": false,
+            "size": "(4,045 bytes)",
+            "change": 100,
+            "summary": "(→‎Sources and Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "* [http://http://www.dreamlighting.com.au/product3j/Flexible%20Strip%20Light/5050%20SMD%20Chip.html"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9359013",
+            "user": "Earth Boy",
+            "timestamp": "06:43, 7 March 2013",
+            "anon": false,
+            "size": "(3,945 bytes)",
+            "change": 179,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "As the rope light(normal customer will also called Flexible Strip Light or Light Ribbon has the characteristics of cuttable. So you can buy a rope, usually 1M, 5M, 10M, 15M,20M available in the market. You can cut them to several parts according to the length you required.Soldering is needed, if you cut the light.",
+                    "# Normal rope light has one side to paste. Before using the clips, you can try whether the paste side can be strong enough to hold it."
+                ],
+                "removed": [
+                    "As the rope light(normal customer will also called Flexible Strip Light or Light Ribbon has the characteristics of cuttable. So you can buy a rope, usually 1M, 5M, 10M, 15M,20M available in the market. You can cut them to several parts according to the length you required."
+                ]
+            }
+        },
+        {
+            "id": "9358993",
+            "user": "Earth Boy",
+            "timestamp": "06:38, 7 March 2013",
+            "anon": false,
+            "size": "(3,766 bytes)",
+            "change": 274,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "As the rope light(normal customer will also called Flexible Strip Light or Light Ribbon has the characteristics of cuttable. So you can buy a rope, usually 1M, 5M, 10M, 15M,20M available in the market. You can cut them to several parts according to the length you required."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8458574",
+            "user": "Earthquake expert",
+            "timestamp": "03:43, 21 September 2012",
+            "anon": false,
+            "size": "(3,492 bytes)",
+            "change": -77,
+            "summary": "(Reverted edits by 98.108.233.72 (Talk); changed back to last version by Earthquake expert)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "# Then stick it in your ass for added ambience. Your grandma will thank you."
+                ]
+            }
+        },
+        {
+            "id": "8458566",
+            "user": "98.108.233.72",
+            "timestamp": "03:41, 21 September 2012",
+            "anon": true,
+            "size": "(3,569 bytes)",
+            "change": 77,
+            "summary": "(Stop changing my edits back, they're wonderful.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Earthquake expert",
+            "exact_contribution": {
+                "added": [
+                    "# Then stick it in your ass for added ambience. Your grandma will thank you."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8458557",
+            "user": "Earthquake expert",
+            "timestamp": "03:39, 21 September 2012",
+            "anon": false,
+            "size": "(3,492 bytes)",
+            "change": -117,
+            "summary": "(Reverted edits by 98.108.233.72 (Talk); changed back to last version by Stella123)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "# Then take it off the wall and stick it in your ass. Feels good, doesn't it?",
+                    "# ???",
+                    "# Profit!",
+                    "# ... you're an idiot."
+                ]
+            }
+        },
+        {
+            "id": "8458555",
+            "user": "98.108.233.72",
+            "timestamp": "03:38, 21 September 2012",
+            "anon": true,
+            "size": "(3,609 bytes)",
+            "change": 117,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Earthquake expert",
+            "exact_contribution": {
+                "added": [
+                    "# Then take it off the wall and stick it in your ass. Feels good, doesn't it?",
+                    "# ???",
+                    "# Profit!",
+                    "# ... you're an idiot."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8249608",
+            "user": "Stella123",
+            "timestamp": "14:58, 12 August 2012",
+            "anon": false,
+            "size": "(3,492 bytes)",
+            "change": 52,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Earthquake expert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Colorful Rope Light.jpg|thumb|right|251px]]Rope lighting combines the advantages of easy installation, small footprint, ambience and flexibility to make it one of the more popular lighting options of the early 21st century. Although the fact that you're fiddling with electrical wiring might be intimidating, actually installing this rope lighting is even easier than installing a ceiling fixture light. Set aside an afternoon for this project. It may take less time, but it's always better to have time to do things right rather than to be in a hurry.",
+                    ""
+                ],
+                "removed": [
+                    "Rope lighting combines the advantages of easy installation, small footprint, ambience and flexibility to make it one of the more popular lighting options of the early 21st century. Although the fact that you're fiddling with electrical wiring might be intimidating, actually installing this rope lighting is even easier than installing a ceiling fixture light. Set aside an afternoon for this project. It may take less time, but it's always better to have time to do things right rather than to be in a hurry."
+                ]
+            }
+        },
+        {
+            "id": "6926249",
+            "user": "Maniac",
+            "timestamp": "20:37, 25 November 2011",
+            "anon": false,
+            "size": "(3,440 bytes)",
+            "change": 245,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*  [[Adjust Recessed Lighting|How to Adjust Recessed Lighting]]",
+                    "*  [[Wire a Light|How to Wire a Light]]",
+                    "*  [[Buy Track Lighting|How to Buy Track Lighting]]",
+                    "*  [[Choose Recessed Lighting|How to Choose Recessed Lighting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6146782",
+            "user": "Harri",
+            "timestamp": "11:51, 6 June 2011",
+            "anon": false,
+            "size": "(3,195 bytes)",
+            "change": 42,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Lighting and Light Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6139530",
+            "user": "WRM",
+            "timestamp": "06:00, 5 June 2011",
+            "anon": false,
+            "size": "(3,153 bytes)",
+            "change": 3153,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Rope lighting combines the advantages of easy installation, small footprint, ambience and flexibility to make it one of the more popular lighting options of the early 21st century. Although the fact that you're fiddling with electrical wiring might be intimidating, actually installing this rope lighting is even easier than installing a ceiling fixture light. Set aside an afternoon for this project. It may take less time, but it's always better to have time to do things right rather than to be in a hurry.",
+                    "== Steps ==",
+                    "# Determine where you want your rope lighting for the best effect and ambiance. Note the line of where the rope will run.",
+                    "# Measure the length of the areas where you want to install your rope lighting. Buy a single rope that equals that length, rather than splicing several shorter ropes together.",
+                    "# Nail plastic cable clips, appropriate for the diameter of your rope lighting, in place along the line where your lighting will run. Space them every 4 to 6 inches (10.2 to 15.2 cm).",
+                    "#* Nail the clips in only half the length of the nails. This will give you space to slide the rope lighting in under the clips.",
+                    "# Slide your rope in position along the line of clips. You will be able to slip some ropes up into the clips, while other arrangements will require you to slide through the open arch of the clips like a snake. In either case, slide the rope through all the clips before proceeding.",
+                    "# Nail down all clips the rest of the way to secure the rope lighting in place.",
+                    "# Plug your light rope into the outlet you planned for it. It's usually better to use an extension cord to reach the outlet, rather than running the rope lighting itself to the outlet.",
+                    "# Test the on/off switch for your light rope. Less expensive models lack a switch, so you'll need to plug and unplug the rope -- or plug it into an outlet attached to a light switch.",
+                    "",
+                    "== Tips ==",
+                    "* Wrap with electrical tape any segment of the rope lighting that you don't want to illuminate. You can also buy specialized sleeves that provide more attractive cover, but these are only necessary for segments of rope that aren't hidden inside a wall, behind a cabinet or inside a cupboard.",
+                    "* For a decorative touch, you can fix the extension cord to your wall with masking tape, along with any tail of the rope lighting than might extend onto your wall. Use spray texture on the surface of the tape, then paint over the finished product to make it match the wall.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Tape measure",
+                    "* Hammer",
+                    "* Nails, 1-inch long",
+                    "* Plastic cable clips",
+                    "* Electrical tape, in color matching your decorating scheme",
+                    "* Extension cord",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.howcast.com/videos/64299-How-To-Install-Rope-Light-Strings http://www.howcast.com/videos/64299-How-To-Install-Rope-Light-Strings]",
+                    "* [http://www.greenlivingtips.com/articles/96/1/LED---lighting-the-way.html http://www.greenlivingtips.com/articles/96/1/LED---lighting-the-way.html]",
+                    "* [http://www.youtube.com/watch?v=-DQ0yCZM__I http://www.youtube.com/watch?v=-DQ0yCZM__I]",
+                    "* [http://www.birddogdistributing.com/rope-light-installation.php http://www.birddogdistributing.com/rope-light-installation.php]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,1130 @@
+{
+    "title": "Wire-an-Electrical-Socket",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:00:53.984441",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34087143",
+            "user": "MiscBot",
+            "timestamp": "17:40, 19 February 2026",
+            "anon": false,
+            "size": "(11,591 bytes)",
+            "change": -68,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]"
+                ]
+            }
+        },
+        {
+            "id": "34071092",
+            "user": "MiscBot",
+            "timestamp": "00:21, 19 February 2026",
+            "anon": false,
+            "size": "(11,659 bytes)",
+            "change": 70,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34055235",
+            "user": "MiscBot",
+            "timestamp": "17:04, 18 February 2026",
+            "anon": false,
+            "size": "(11,589 bytes)",
+            "change": -70,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]"
+                ]
+            }
+        },
+        {
+            "id": "32935404",
+            "user": "WikiHow Horizon",
+            "timestamp": "17:45, 16 November 2024",
+            "anon": false,
+            "size": "(11,659 bytes)",
+            "change": -152,
+            "summary": "(Removing broken link/s)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Protect yourself from shocks. Prevent electrical shocks by taking safety precautions: [[Image:Wire an Electrical Socket Step 2.jpg|center]]",
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range (230V or higher for most European countries). Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref>"
+                ],
+                "removed": [
+                    "#Protect yourself from shocks. Prevent electrical shocks by taking safety precautions:<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>[[Image:Wire an Electrical Socket Step 2.jpg|center]]",
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range (230V or higher for most European countries). Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31669681",
+            "user": "Rainy M",
+            "timestamp": "20:33, 29 May 2023",
+            "anon": false,
+            "size": "(11,811 bytes)",
+            "change": 160,
+            "summary": "(RCP reverted edits by Adamssjsjsj (talk) to  revision #31526513 by ICanGuessItLol)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Check regulations for kitchens and bathrooms. Due to the high chance of water spill, these installations require extra safety precautions. These guidelines are also recommended for unfinished spaces, outdoor areas and sheds, laundry rooms, and anywhere else near sinks, hot tubs, and other water sources.<ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>[[Image:Wire an Electrical Socket Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "#Do not check regulations for kitchens and bathrooms. Although they claim to be good, these regulations have unsafe practices and could lead to death.  <ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>[[Image:Wire an Electrical Socket Step 1.jpg]]"
+                ]
+            }
+        },
+        {
+            "id": "31669622",
+            "user": "Adamssjsjsj",
+            "timestamp": "19:33, 29 May 2023",
+            "anon": false,
+            "size": "(11,651 bytes)",
+            "change": -160,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "#Do not check regulations for kitchens and bathrooms. Although they claim to be good, these regulations have unsafe practices and could lead to death.  <ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>[[Image:Wire an Electrical Socket Step 1.jpg]]"
+                ],
+                "removed": [
+                    "#Check regulations for kitchens and bathrooms. Due to the high chance of water spill, these installations require extra safety precautions. These guidelines are also recommended for unfinished spaces, outdoor areas and sheds, laundry rooms, and anywhere else near sinks, hot tubs, and other water sources.<ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>[[Image:Wire an Electrical Socket Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31526513",
+            "user": "ICanGuessItLol",
+            "timestamp": "11:24, 13 April 2023",
+            "anon": false,
+            "size": "(11,811 bytes)",
+            "change": -135,
+            "summary": "(RCP reverted edits by Pappu Kumar 1 (talk) to  revision #31200185 by Zygomatt)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "#*Installing brand new sockets in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ],
+                "removed": [
+                    "#*Installing brand new 16 Amp socket <ref>https://www.eleczo.com/wiring-devices/socket.html?current_rating=11739</ref>in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself and Believe me It's not that tough as you think.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31526335",
+            "user": "Pappu Kumar 1",
+            "timestamp": "10:03, 13 April 2023",
+            "anon": false,
+            "size": "(11,946 bytes)",
+            "change": 7,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#*Installing brand new 16 Amp socket <ref>https://www.eleczo.com/wiring-devices/socket.html?current_rating=11739</ref>in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself and Believe me It's not that tough as you think.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ],
+                "removed": [
+                    "#*Installing brand new [16 Amp socket][https://www.eleczo.com/wiring-devices/socket.html?current_rating=11739] in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself and Believe me It's not that tough as you think.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31526330",
+            "user": "Pappu Kumar 1",
+            "timestamp": "10:00, 13 April 2023",
+            "anon": false,
+            "size": "(11,939 bytes)",
+            "change": 128,
+            "summary": "(16 Amp socket in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself and Believe me It's not that tough as you think)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#*Installing brand new [16 Amp socket][https://www.eleczo.com/wiring-devices/socket.html?current_rating=11739] in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself and Believe me It's not that tough as you think.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ],
+                "removed": [
+                    "#*Installing brand new sockets in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31200185",
+            "user": "Zygomatt",
+            "timestamp": "16:31, 24 December 2022",
+            "anon": false,
+            "size": "(11,811 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ICanGuessItLol",
+            "exact_contribution": {
+                "added": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range (230V or higher for most European countries). Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''USA:'''<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref><br>Live cable is black (if there are two live cables, the second one is red)<br>Neutral cable is white or grey<br>Ground cable is uninsulated, green, or green & yellow</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''EU & UK''':<ref>https://www.electriciancourses4u.co.uk/useful-resources/history-of-wiring-colours-cable-sheathing-bs7671/</ref><br>Live cable is brown (red for pre-2004 UK)<br>Neutral cable is blue (black for pre-2004 UK)<br>Earth (ground) cable is green & yellow</div>"
+                ],
+                "removed": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range (230V or higher for most european countries). Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''USA:'''<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref><br>Live cable is black (if there are two live cables, the second one is red)<br>Neutral cable is white or grey<br>Ground cable is uninsulated, green, or green & yellow</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''EU & UK''':<ref>https://www.electriciancourses4u.co.uk/useful-resources/history-of-wiring-colours-cable-sheathing",
+                    "-bs7671/</ref><br>Live cable is brown (red for pre-2004 UK)<br>Neutral cable is blue (black for pre-2004 UK)<br>Earth (ground) cable is green & yellow</div>"
+                ]
+            }
+        },
+        {
+            "id": "31199801",
+            "user": "Yannick Slock",
+            "timestamp": "11:55, 24 December 2022",
+            "anon": false,
+            "size": "(11,812 bytes)",
+            "change": 46,
+            "summary": "(Europe mostly has a 230 V network)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range (230V or higher for most european countries). Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''USA:'''<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref><br>Live cable is black (if there are two live cables, the second one is red)<br>Neutral cable is white or grey<br>Ground cable is uninsulated, green, or green & yellow</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''EU & UK''':<ref>https://www.electriciancourses4u.co.uk/useful-resources/history-of-wiring-colours-cable-sheathing",
+                    "-bs7671/</ref><br>Live cable is brown (red for pre-2004 UK)<br>Neutral cable is blue (black for pre-2004 UK)<br>Earth (ground) cable is green & yellow</div>"
+                ],
+                "removed": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range. Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''USA:'''<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref><br>Live cable is black (if there are two live cables, the second one is red)<br>Neutral cable is white or grey<br>Ground cable is uninsulated, green, or green & yellow</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''EU & UK''':<ref>https://www.electriciancourses4u.co.uk/useful-resources/history-of-wiring-colours-cable-sheathing-bs7671/</ref><br>Live cable is brown (red for pre-2004 UK)<br>Neutral cable is blue (black for pre-2004 UK)<br>Earth (ground) cable is green & yellow</div>"
+                ]
+            }
+        },
+        {
+            "id": "29935876",
+            "user": "Seymour Edits",
+            "timestamp": "16:27, 30 September 2021",
+            "anon": false,
+            "size": "(11,766 bytes)",
+            "change": 37,
+            "summary": "(adding expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range. Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>[v161396_b01]. 6 May 2020.</ref><ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>"
+                ],
+                "removed": [
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range. Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "29435459",
+            "user": "Wikivisual",
+            "timestamp": "23:11, 11 April 2021",
+            "anon": false,
+            "size": "(11,729 bytes)",
+            "change": 693,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Check regulations for kitchens and bathrooms. Due to the high chance of water spill, these installations require extra safety precautions. These guidelines are also recommended for unfinished spaces, outdoor areas and sheds, laundry rooms, and anywhere else near sinks, hot tubs, and other water sources.<ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>[[Image:Wire an Electrical Socket Step 1.jpg|center]]",
+                    "#Protect yourself from shocks. Prevent electrical shocks by taking safety precautions:<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>[[Image:Wire an Electrical Socket Step 2.jpg|center]]",
+                    "#Switch off the power. Flip the circuit breaker or remove the fuse that powers the outlet you will be working on. If you're not 100% sure which power source to cut, turn off the power to your whole home and work with a flashlight.[[Image:Wire an Electrical Socket Step 3.jpg|center]]",
+                    "#Test the voltage. Never assume that the wires are dead without testing. Test a live circuit first to confirm the tool is working, then test the circuit you're working on. If you get a voltage reading, the outlet is still live and cannot be worked on.[[Image:Wire an Electrical Socket Step 4.jpg|center]]",
+                    "#Remove the old socket. Once you are certain the power is off, unscrew the faceplate of the old socket and pull it out from the wall box. To detach the wires from the socket, unscrew the terminals just enough that you can slip the wire loop off of them.<ref>https://www.theartofdoingstuff.com/how-to-replace-an-ugly-old-electrical-outlet/</ref>[[Image:Wire an Electrical Socket Step 5.jpg|center]]",
+                    "#Identify the live, neutral, and ground terminals of the socket. A standard modern outlet for household use should have three terminals for connecting the appropriate wires.[[Image:Wire an Electrical Socket Step 6.jpg|center]]",
+                    "#Adjust your plan if there are more terminals. If you see more terminals than described above, you are probably in one of these situations:[[Image:Wire an Electrical Socket Step 7.jpg|center]]",
+                    "#Strip the ends of your wires. If the wires are frayed or nicked, cut the damage off, then strip off roughly ¾\" (2cm) of insulation. You can do this [[Strip-Wire#Using-a-Wire-Stripping-Tool|using a wire stripper]] or [[Strip-Wire#Using-a-Utility-Knife|a utility knife]]. Take care to avoid nicking the metal of the wire, which can cause electrical faults later.<ref>https://youtu.be/jtiP2LNSLN4?t=125</ref> Err on the side of under-stripping so you can correct later.[[Image:Wire an Electrical Socket Step 8.jpg|center]]",
+                    "#Bend the wire ends into the shape of an umbrella handle. The best way to secure your wires is to wrap them around the screw terminals. To prep for this, bend the stripped end into a U shape, so it will fit snugly around the whole screw.<ref>https://youtu.be/UwGoU3XVpnI?t=274</ref>[[Image:Wire an Electrical Socket Step 9.jpg|center]]",
+                    "#Wrap the wires around the screws clockwise. Each wire should rest snugly around its terminal, with all three sides of the U-bend in close contact. Wrap them in the direction the screw tightens (usually clockwise) for maximum contact with the screw threads.<ref>https://youtu.be/jtiP2LNSLN4?t=326</ref> Before you do this, be about 700% sure you are using the correct wire:[[Image:Wire an Electrical Socket Step 10.jpg|center]]",
+                    "#Tuck the wire under the plastic retainer. Most outlets have small plastic ledges for you to tuck the wires under to secure them in place. If this isn't working well, double-check the wire stripping:<ref>https://youtu.be/UwGoU3XVpnI?t=344</ref>[[Image:Wire an Electrical Socket Step 11.jpg|center]]",
+                    "#Tighten the terminal screws. Use a screwdriver to tighten each screw until it presses down against the wire. Tighten enough for a firm connection, so the wire cannot get jostled out of place, but don't tighten with maximum force.[[Image:Wire an Electrical Socket Step 12.jpg|center]]",
+                    "#Wrap the outlet in electrical tape. For extra safety, wrap the sides of the outlet in electrical tape to reduce the chance of contact with a wire if it ever gets loose.<ref>https://youtu.be/jtiP2LNSLN4?t=358</ref> Your outlet is now ready to be inserted back into the wall.[[Image:Wire an Electrical Socket Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Check regulations for kitchens and bathrooms. Due to the high chance of water spill, these installations require extra safety precautions. These guidelines are also recommended for unfinished spaces, outdoor areas and sheds, laundry rooms, and anywhere else near sinks, hot tubs, and other water sources.<ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>",
+                    "#Protect yourself from shocks. Prevent electrical shocks by taking safety precautions:<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#Switch off the power. Flip the circuit breaker or remove the fuse that powers the outlet you will be working on. If you're not 100% sure which power source to cut, turn off the power to your whole home and work with a flashlight.",
+                    "#Test the voltage. Never assume that the wires are dead without testing. Test a live circuit first to confirm the tool is working, then test the circuit you're working on. If you get a voltage reading, the outlet is still live and cannot be worked on.",
+                    "#Remove the old socket. Once you are certain the power is off, unscrew the faceplate of the old socket and pull it out from the wall box. To detach the wires from the socket, unscrew the terminals just enough that you can slip the wire loop off of them.<ref>https://www.theartofdoingstuff.com/how-to-replace-an-ugly-old-electrical-outlet/</ref>",
+                    "#Identify the live, neutral, and ground terminals of the socket. A standard modern outlet for household use should have three terminals for connecting the appropriate wires.",
+                    "#Adjust your plan if there are more terminals. If you see more terminals than described above, you are probably in one of these situations:",
+                    "#Strip the ends of your wires. If the wires are frayed or nicked, cut the damage off, then strip off roughly ¾\" (2cm) of insulation. You can do this [[Strip-Wire#Using-a-Wire-Stripping-Tool|using a wire stripper]] or [[Strip-Wire#Using-a-Utility-Knife|a utility knife]]. Take care to avoid nicking the metal of the wire, which can cause electrical faults later.<ref>https://youtu.be/jtiP2LNSLN4?t=125</ref> Err on the side of under-stripping so you can correct later.",
+                    "#Bend the wire ends into the shape of an umbrella handle. The best way to secure your wires is to wrap them around the screw terminals. To prep for this, bend the stripped end into a U shape, so it will fit snugly around the whole screw.<ref>https://youtu.be/UwGoU3XVpnI?t=274</ref>",
+                    "#Wrap the wires around the screws clockwise. Each wire should rest snugly around its terminal, with all three sides of the U-bend in close contact. Wrap them in the direction the screw tightens (usually clockwise) for maximum contact with the screw threads.<ref>https://youtu.be/jtiP2LNSLN4?t=326</ref> Before you do this, be about 700% sure you are using the correct wire:",
+                    "#Tuck the wire under the plastic retainer. Most outlets have small plastic ledges for you to tuck the wires under to secure them in place. If this isn't working well, double-check the wire stripping:<ref>https://youtu.be/UwGoU3XVpnI?t=344</ref>",
+                    "#Tighten the terminal screws. Use a screwdriver to tighten each screw until it presses down against the wire. Tighten enough for a firm connection, so the wire cannot get jostled out of place, but don't tighten with maximum force.",
+                    "#Wrap the outlet in electrical tape. For extra safety, wrap the sides of the outlet in electrical tape to reduce the chance of contact with a wire if it ever gets loose.<ref>https://youtu.be/jtiP2LNSLN4?t=358</ref> Your outlet is now ready to be inserted back into the wall."
+                ]
+            }
+        },
+        {
+            "id": "29381847",
+            "user": "Seymour Edits",
+            "timestamp": "20:58, 25 March 2021",
+            "anon": false,
+            "size": "(11,036 bytes)",
+            "change": 6793,
+            "summary": "(Expanded rewrite focusing on title rather than box installation)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Has your electrical socket cracked its casing or mysteriously stopped functioning? As long as it's a standard home outlet, the repair is pretty achievable even if you're not a DIY expert. Of course, any work on electrical systems can be dangerous. Work slowly and steadily, and contact an electrician if you see anything unusual such as burn marks or a wiring setup that this guide doesn't cover.",
+                    "===Preparing for a Safe Installation===",
+                    "#Check regulations for kitchens and bathrooms. Due to the high chance of water spill, these installations require extra safety precautions. These guidelines are also recommended for unfinished spaces, outdoor areas and sheds, laundry rooms, and anywhere else near sinks, hot tubs, and other water sources.<ref>https://www.ecmweb.com/national-electrical-code/code-basics/article/20898894/nec-requirements-for-groundfault-circuit-interrupters-gfci</ref>",
+                    "#*At minimum, you'll need an outlet that includes a GFCI (ground fault circuit interrupter), also called a RCD (residual-current device). This will shut off the power if it gets wet.",
+                    "#*Installing brand new sockets in these locations is best done by qualified electricians. Replacing a damaged socket here may be doable by yourself.<ref>https://www.diydoctor.org.uk/projects/partp.htm</ref>",
+                    "#Protect yourself from shocks. Prevent electrical shocks by taking safety precautions:<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*Use tools with rubber handles.",
+                    "#*Wear rubber-soled shoes.",
+                    "#*Don't touch your bare skin to any metal or other conductive surfaces, including multimeter probes.",
+                    "#Switch off the power. Flip the circuit breaker or remove the fuse that powers the outlet you will be working on. If you're not 100% sure which power source to cut, turn off the power to your whole home and work with a flashlight.",
+                    "#Test the voltage. Never assume that the wires are dead without testing. Test a live circuit first to confirm the tool is working, then test the circuit you're working on. If you get a voltage reading, the outlet is still live and cannot be worked on.",
+                    "#*A '''non-contact voltage tester''' is easy to use, but less reliable. While you are grounded, place the tool against each hole in the outlet. If it lights up, or if its display reads anything other than zero, the outlet is live.<ref>https://www.fluke.com/en/learn/blog/electrical/part-1-electrical-testing-safety-preparing-for-absence-of-voltage-testing</ref>",
+                    "#*A '''multimeter''' is more reliable and gives a more accurate result. To [[Test-Voltage-with-a-Multimeter|test voltage with a multimeter]], set the tool to its AC voltage setting in the 100V range. Test by placing the red probe to the live socket (the small vertical hole in a US socket), then keep it there while you put the black probe first into the neutral socket (the taller vertical hole), then the ground (rounder hole).<ref>https://www.homestratosphere.com/how-to-test-an-electrical-outlet/</ref>",
+                    "#*'''{{red|Warning}}:''' In the UK and some former UK colonies, some houses are wired in a ring circuit. These DIY tests are not sufficient in these cases. '''Never''' work on a circuit in these areas until an electrician has identified the type.<ref>https://www.diydoctor.org.uk/projects/ringmain.htm</ref> This article does not cover safety information for ring circuits.",
+                    "#Remove the old socket. Once you are certain the power is off, unscrew the faceplate of the old socket and pull it out from the wall box. To detach the wires from the socket, unscrew the terminals just enough that you can slip the wire loop off of them.<ref>https://www.theartofdoingstuff.com/how-to-replace-an-ugly-old-electrical-outlet/</ref>",
+                    "",
+                    "===Wiring the New Socket===",
+                    "#Identify the live, neutral, and ground terminals of the socket. A standard modern outlet for household use should have three terminals for connecting the appropriate wires.",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''US sockets:'''<ref>https://youtu.be/UwGoU3XVpnI?t=75</ref><br>Brass terminals are live (hot)<br>Silver terminals are neutral<br>Green terminals are ground</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''UK sockets''':<ref>https://www.homebuilding.co.uk/advice/how-to-swap-a-socket</ref><br>\"L\" indicates live<br>\"N\" indicates neutral<br>\"E\" or three parallel lines indicates earth (ground)</div>",
+                    "#Adjust your plan if there are more terminals. If you see more terminals than described above, you are probably in one of these situations:",
+                    "#*When replacing an existing socket in the UK, you'll often have to fit two wires of each type to matching terminals. Installing a new socket only requires one set of wires.<ref>https://www.diydoctor.org.uk/projects/radialcircuit.htm</ref>",
+                    "#*A US two-socket outlet generally has a metal tab connecting the two live terminals, and another for the two neutrals. If there is only one wire of a given type in your wall, you can attach it to either terminal to power both sockets.",
+                    "#*A GFCI (RSD) outlet has two sets of terminals. Use the line terminals for these instructions. The load terminals (usually marked with yellow tape) are used to connect other devices to GFCI protection.<ref>https://www.do-it-yourself-help.com/receptacle-outlet-wiring-diagrams.html</ref>",
+                    "#Strip the ends of your wires. If the wires are frayed or nicked, cut the damage off, then strip off roughly ¾\" (2cm) of insulation. You can do this [[Strip-Wire#Using-a-Wire-Stripping-Tool|using a wire stripper]] or [[Strip-Wire#Using-a-Utility-Knife|a utility knife]]. Take care to avoid nicking the metal of the wire, which can cause electrical faults later.<ref>https://youtu.be/jtiP2LNSLN4?t=125</ref> Err on the side of under-stripping so you can correct later.",
+                    "#*Some outlets have a built-in guide: place the wire in the short groove on the back and mark the end of the groove as your strip point.<ref>https://youtu.be/UwGoU3XVpnI?t=233</ref> Note that this guide may be for the \"push-in\" connector instead of the recommended wrapping method.",
+                    "#*If the three wires are enclosed in one PVC jacket, find the end of the bare copper ground wire. Grab this with needle-nose pliers and tug down to split open the seam of the jacket to access the other wires.<ref>https://youtu.be/jtiP2LNSLN4?t=83</ref>",
+                    "#Bend the wire ends into the shape of an umbrella handle. The best way to secure your wires is to wrap them around the screw terminals. To prep for this, bend the stripped end into a U shape, so it will fit snugly around the whole screw.<ref>https://youtu.be/UwGoU3XVpnI?t=274</ref>",
+                    "#*Wire strippers have holes in them for this purpose. Slip the end of the wire in and twist. If you don't have a wire stripper, use needle-nose pliers.",
+                    "#*Many outlets have push-in connectors, or small holes below the terminal that hold the wire in with a spring clamp. If you use this, all you need to do is push the wires into the holes. However, these clamps can lose tension and eventually weaken the connection.<ref>https://youtu.be/GaBGjsnX9Pk?t=700</ref>",
+                    "#Wrap the wires around the screws clockwise. Each wire should rest snugly around its terminal, with all three sides of the U-bend in close contact. Wrap them in the direction the screw tightens (usually clockwise) for maximum contact with the screw threads.<ref>https://youtu.be/jtiP2LNSLN4?t=326</ref> Before you do this, be about 700% sure you are using the correct wire:",
+                    "#*<div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:left; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''USA:'''<ref>https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/</ref><br>Live cable is black (if there are two live cables, the second one is red)<br>Neutral cable is white or grey<br>Ground cable is uninsulated, green, or green & yellow</div><div style=\"background-color:#D2E9B8; color:#000; margin:0px; width:45%; padding:2px; float:right; border:5px; border-style:solid; border-color:#93B874; {{border-radius|15px}}\">'''EU & UK''':<ref>https://www.electriciancourses4u.co.uk/useful-resources/history-of-wiring-colours-cable-sheathing-bs7671/</ref><br>Live cable is brown (red for pre-2004 UK)<br>Neutral cable is blue (black for pre-2004 UK)<br>Earth (ground) cable is green & yellow</div>",
+                    "#Tuck the wire under the plastic retainer. Most outlets have small plastic ledges for you to tuck the wires under to secure them in place. If this isn't working well, double-check the wire stripping:<ref>https://youtu.be/UwGoU3XVpnI?t=344</ref>",
+                    "#*The wire in contact with the terminal should be completely bare. If insulation is touching the terminal, strip it off.",
+                    "#*The portion tucked under the retainer should be insulated. If it is bare, snip off the end of the wire.",
+                    "#Tighten the terminal screws. Use a screwdriver to tighten each screw until it presses down against the wire. Tighten enough for a firm connection, so the wire cannot get jostled out of place, but don't tighten with maximum force.",
+                    "#Wrap the outlet in electrical tape. For extra safety, wrap the sides of the outlet in electrical tape to reduce the chance of contact with a wire if it ever gets loose.<ref>https://youtu.be/jtiP2LNSLN4?t=358</ref> Your outlet is now ready to be inserted back into the wall.",
+                    "#*If you have just installed a GFCI outlet, use the test button to confirm that the safety feature is working. When the test has been activated, a multimeter should read zero voltage from the outlet.",
+                    "*If you have a US two-socket outlet and want one of them to be controlled by the light switch, use needle-nose pliers to remove the small brass tab connecting the hot terminals of the two sockets. Now you can attach the two live cables (black and red) to the two terminals and control them independently. One will always be live, while the other will be controlled by the light switch.<ref>https://youtu.be/UwGoU3XVpnI?t=82</ref>",
+                    "*You can use a socket tester after you've finished to check your work. These plug into your socket and check for common wiring errors.",
+                    "",
+                    "==Warnings==",
+                    "*It is not recommended to use the push-in connectors (small holes that can hold wires) found in some outlets. This is more likely to cause electrical failures, and is against code in some areas.<ref>https://www.youtube.com/watch?v=UwGoU3XVpnI</ref>",
+                    "*If installing new wire, always make sure to use the gauges and color codes standard for your country.",
+                    "*Multimeter ''(recommended)'' or voltage tester",
+                    "*Wire stripper or craft knife",
+                    "*Needle-nose pliers",
+                    "*Screwdriver with insulated grip",
+                    "*Flashlight ''(if needed)''",
+                    "*Insulated gloves",
+                    "*Rubber-soled shoes",
+                    "",
+                    "",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "#  Prepare the socket.[[Image:Wire a Plug Socket Step 1.jpg|center]]",
+                    "#*Turn off the power to the socket.",
+                    "#*Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals.<ref>https://www.youtube.com/watch?v=WD2vSGl5grw</ref>",
+                    "#*Unscrew the back box from the wall.",
+                    "#*Place the new double back box on the wall over the top of the existing hole.<ref>https://www.youtube.com/watch?v=RfHRnwALA1I</ref>",
+                    "#*Use a spirit level to check it’s straight and draw around the edge.<ref>https://www.youtube.com/watch?v=RfHRnwALA1I</ref>",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.[[Image:Wire a Plug Socket Step 2.jpg|center]]",
+                    "#Add the back box. Check that the back box fits into the hole.[[Image:Wire a Plug Socket Step 3.jpg|center]]",
+                    "#*Tap out the round inlet holes in the box and thread the wiring through the box.",
+                    "#*Fit rubber grommets around the holes in metal back boxes to protect the wires.",
+                    "#*Mark, drill, and plug the fixing holes.",
+                    "#Work on a ring circuit.<ref>https://www.diydoctor.org.uk/projects/ringmain.htm</ref> If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.[[Image:Wire a Plug Socket Step 4.jpg|center]]",
+                    "#*If any of the bare wire ends are damaged, snip off the end and use the wire strippers to remove around 20mm of the sheathing.",
+                    "#*Fold the bare wire back on itself and pinch together with pliers.",
+                    "#*Twist together all the wires for a particular terminal and screw down tightly.",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.[[Image:Wire a Plug Socket Step 5.jpg|center]]",
+                    "#*Fix the face place with the two long screws that are clipped to the inside of the late.",
+                    "#*Fill any cracks or holes around the socket with filler and paint. Turn on the power supply.",
+                    "#Test that the socket works.<ref>https://www.bhg.com/home-improvement/electrical/how-to-test-an-electrical-receptacle/</ref> If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.[[Image:Wire a Plug Socket Step 6.jpg|center]]",
+                    "*The earth wire should already be clearly marked with yellow and green sheathing. If not, you can buy small rolls of earth sleeving. Snip a section off and slip over the earth wire before connecting to the terminal.",
+                    "*DIY stores sell surface or flush-mounted sockets. A flush-mounted socket is the neatest solution but you must drill and chop out the wall to fit the back box. Surface-mounted sockets are easier to install as the wires are fitted into the box, not the wall. However, they are more easily knocked and damaged as well as looking more utilitarian.",
+                    "*A competent DIYer can replace a socket in their home except in the kitchen, bathroom, utility room and some other ‘special’ locations. Check with your local building control officer before tackling the work, just to make sure.",
+                    "*Wrap some masking tape around your drill bit so that you know exactly how deep to drill the hole for the new socket back box.",
+                    "*1 socket back box and faceplate",
+                    "*1 cold chisel",
+                    "*1 plaster filler",
+                    "*1 hammer drill and masonry bit (12-18mm)",
+                    "*1 electrical screwdriver",
+                    "*1 pliers",
+                    "*1 wire strippers or craft knife",
+                    "*1 gloves",
+                    "*1 spirit level",
+                    "*1 pencil",
+                    "*1 goggles"
+                ]
+            }
+        },
+        {
+            "id": "29301763",
+            "user": "ElizabethD",
+            "timestamp": "18:28, 7 March 2021",
+            "anon": false,
+            "size": "(4,243 bytes)",
+            "change": -50,
+            "summary": "(removing stub, but we will take a look at article asap)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "{{stub|date=2021-03-07}}{{format|date=2021-03-07}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "29299697",
+            "user": "Awesome Aasim",
+            "timestamp": "00:16, 7 March 2021",
+            "anon": false,
+            "size": "(4,293 bytes)",
+            "change": 50,
+            "summary": "(not ready for readers as seen by ratings, needs to be converted to wikiHow format and is a stub)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2021-03-07}}{{format|date=2021-03-07}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "27655910",
+            "user": "Seymour Edits",
+            "timestamp": "06:30, 29 January 2020",
+            "anon": false,
+            "size": "(4,243 bytes)",
+            "change": 346,
+            "summary": "(Added sources and a reflist for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#*Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals.<ref>https://www.youtube.com/watch?v=WD2vSGl5grw</ref>",
+                    "#*Place the new double back box on the wall over the top of the existing hole.<ref>https://www.youtube.com/watch?v=RfHRnwALA1I</ref>",
+                    "#*Use a spirit level to check it’s straight and draw around the edge.<ref>https://www.youtube.com/watch?v=RfHRnwALA1I</ref>",
+                    "#Work on a ring circuit.<ref>https://www.diydoctor.org.uk/projects/ringmain.htm</ref> If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.[[Image:Wire a Plug Socket Step 4.jpg|center]]",
+                    "#Test that the socket works.<ref>https://www.bhg.com/home-improvement/electrical/how-to-test-an-electrical-receptacle/</ref> If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.[[Image:Wire a Plug Socket Step 6.jpg|center]]",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#*Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals.",
+                    "#*Place the new double back box on the wall over the top of the existing hole.",
+                    "#*Use a spirit level to check it’s straight and draw around the edge.",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.[[Image:Wire a Plug Socket Step 4.jpg|center]]",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.[[Image:Wire a Plug Socket Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "22718670",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:17, 27 June 2017",
+            "anon": false,
+            "size": "(3,897 bytes)",
+            "change": -25,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Wire a Light Socket]]"
+                ]
+            }
+        },
+        {
+            "id": "21291805",
+            "user": "Flickety",
+            "timestamp": "23:44, 6 November 2016",
+            "anon": false,
+            "size": "(3,922 bytes)",
+            "change": 16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "19330799",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:10, 9 January 2016",
+            "anon": false,
+            "size": "(3,906 bytes)",
+            "change": -75,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Wire a Light Socket]]"
+                ],
+                "removed": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box|How to Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[[Wire a Light Socket|How to Wire a Light Socket]]"
+                ]
+            }
+        },
+        {
+            "id": "18064483",
+            "user": "MiscBot",
+            "timestamp": "21:18, 28 July 2015",
+            "anon": false,
+            "size": "(3,981 bytes)",
+            "change": 12,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Prepare the socket.[[Image:Wire a Plug Socket Step 1.jpg|center]]",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.[[Image:Wire a Plug Socket Step 2.jpg|center]]",
+                    "#Add the back box. Check that the back box fits into the hole.[[Image:Wire a Plug Socket Step 3.jpg|center]]",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.[[Image:Wire a Plug Socket Step 4.jpg|center]]",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.[[Image:Wire a Plug Socket Step 5.jpg|center]]",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.[[Image:Wire a Plug Socket Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Prepare the socket.{{largeimage|Wire a Plug Socket Step 1.jpg}}",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.{{largeimage|Wire a Plug Socket Step 2.jpg}}",
+                    "#Add the back box. Check that the back box fits into the hole.{{largeimage|Wire a Plug Socket Step 3.jpg}}",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.{{largeimage|Wire a Plug Socket Step 4.jpg}}",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.{{largeimage|Wire a Plug Socket Step 5.jpg}}",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.{{largeimage|Wire a Plug Socket Step 6.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "17919299",
+            "user": "InterwikiBot",
+            "timestamp": "00:16, 25 July 2015",
+            "anon": false,
+            "size": "(3,969 bytes)",
+            "change": -41,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "[[es:instalar un tomacorrientes nuevo]]"
+                ]
+            }
+        },
+        {
+            "id": "16480155",
+            "user": "Ttrimm",
+            "timestamp": "21:44, 27 January 2015",
+            "anon": false,
+            "size": "(4,010 bytes)",
+            "change": 0,
+            "summary": "(Ttrimm moved page Wire a Plug Socket to Wire an Electrical Socket)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "16119591",
+            "user": "WikiHow Intern",
+            "timestamp": "03:24, 11 December 2014",
+            "anon": false,
+            "size": "(4,010 bytes)",
+            "change": -179,
+            "summary": "(removing broken link)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Sources and Citations ==",
+                    "*Original source of article, Videojug, [http://www.videojug.com/article/how-to-wire-a-plug-socket How to Wire a Plug Socket], shared with permission."
+                ]
+            }
+        },
+        {
+            "id": "13144006",
+            "user": "InterwikiBot",
+            "timestamp": "00:47, 1 April 2014",
+            "anon": false,
+            "size": "(4,189 bytes)",
+            "change": 40,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:instalar un tomacorrientes nuevo]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12941826",
+            "user": "Votebot",
+            "timestamp": "18:02, 10 March 2014",
+            "anon": false,
+            "size": "(4,149 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*A competent DIYer can replace a socket in their home except in the kitchen, bathroom, utility room and some other ‘special’ locations. Check with your local building control officer before tackling the work, just to make sure."
+                ],
+                "removed": [
+                    "*A competent DIYer can replace a socket in their home except in the kitchen, bathroom, utility room and some other ‘special’ locations. Check with your local building control officer before tackling the work, just to make sure."
+                ]
+            }
+        },
+        {
+            "id": "11405535",
+            "user": "CelesteTu",
+            "timestamp": "20:04, 14 October 2013",
+            "anon": false,
+            "size": "(4,149 bytes)",
+            "change": 53,
+            "summary": "(Adding related wikihow from NAB)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Wire a Light Socket|How to Wire a Light Socket]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10737514",
+            "user": "MiscBot",
+            "timestamp": "11:49, 7 August 2013",
+            "anon": false,
+            "size": "(4,096 bytes)",
+            "change": -15,
+            "summary": "(Removing nointroimg template)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "{{nointroimg}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "10101925",
+            "user": "Votebot",
+            "timestamp": "15:47, 6 June 2013",
+            "anon": false,
+            "size": "(4,111 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*The earth wire should already be clearly marked with yellow and green sheathing. If not, you can buy small rolls of earth sleeving. Snip a section off and slip over the earth wire before connecting to the terminal."
+                ],
+                "removed": [
+                    "*The earth wire should already be clearly marked with yellow and green sheathing. If not, you can buy small rolls of earth sleeving. Snip a section off and slip over the earth wire before connecting to the terminal."
+                ]
+            }
+        },
+        {
+            "id": "8885623",
+            "user": "LargeImageBot",
+            "timestamp": "04:57, 16 December 2012",
+            "anon": false,
+            "size": "(4,111 bytes)",
+            "change": -97,
+            "summary": "(Resized images to the {{largeimage}} size.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Prepare the socket.{{largeimage|Wire a Plug Socket Step 1.jpg}}",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.{{largeimage|Wire a Plug Socket Step 2.jpg}}",
+                    "#Add the back box. Check that the back box fits into the hole.{{largeimage|Wire a Plug Socket Step 3.jpg}}",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.{{largeimage|Wire a Plug Socket Step 4.jpg}}",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.{{largeimage|Wire a Plug Socket Step 5.jpg}}",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.{{largeimage|Wire a Plug Socket Step 6.jpg}}"
+                ],
+                "removed": [
+                    "#  Prepare the socket.<br><br>[[Image:Wire a Plug Socket Step 1.jpg|center|550px]]",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.<br><br>[[Image:Wire a Plug Socket Step 2.jpg|center|550px]]",
+                    "#Add the back box. Check that the back box fits into the hole.<br><br>[[Image:Wire a Plug Socket Step 3.jpg|center|550px]]",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.<br><br>[[Image:Wire a Plug Socket Step 4.jpg|center|550px]]",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.<br><br>[[Image:Wire a Plug Socket Step 5.jpg|center|550px]]",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.<br><br>[[Image:Wire a Plug Socket Step 6.jpg|center|550px]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8183713",
+            "user": "Wikiphoto",
+            "timestamp": "19:48, 1 August 2012",
+            "anon": false,
+            "size": "(4,208 bytes)",
+            "change": 56,
+            "summary": "(Enlarging and centering Steps photos; enlarging intro image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "#  Prepare the socket.<br><br>[[Image:Wire a Plug Socket Step 1.jpg|center|550px]]",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.<br><br>[[Image:Wire a Plug Socket Step 2.jpg|center|550px]]",
+                    "#Add the back box. Check that the back box fits into the hole.<br><br>[[Image:Wire a Plug Socket Step 3.jpg|center|550px]]",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.<br><br>[[Image:Wire a Plug Socket Step 4.jpg|center|550px]]",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.<br><br>[[Image:Wire a Plug Socket Step 5.jpg|center|550px]]",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.<br><br>[[Image:Wire a Plug Socket Step 6.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Wire a Plug Socket Step 1.jpg|right|300px]]Prepare the socket.",
+                    "# [[Image:Wire a Plug Socket Step 2.jpg|right|300px]]Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.",
+                    "#[[Image:Wire a Plug Socket Step 3.jpg|right|300px]]Add the back box. Check that the back box fits into the hole.",
+                    "#[[Image:Wire a Plug Socket Step 4.jpg|right|300px]]Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.",
+                    "#[[Image:Wire a Plug Socket Step 5.jpg|right|300px]]Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.",
+                    "#[[Image:Wire a Plug Socket Step 6.jpg|right|300px]]Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem."
+                ]
+            }
+        },
+        {
+            "id": "8183674",
+            "user": "Wikiphoto",
+            "timestamp": "19:46, 1 August 2012",
+            "anon": false,
+            "size": "(4,152 bytes)",
+            "change": -35,
+            "summary": "(Adding {{nointroimg}} template and removing intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{nointroimg}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    ""
+                ],
+                "removed": [
+                    "[[Image:Wire a Plug Socket Intro.jpg|right|300px]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "8183317",
+            "user": "Wikiphoto",
+            "timestamp": "18:45, 1 August 2012",
+            "anon": false,
+            "size": "(4,187 bytes)",
+            "change": 317,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Wire a Plug Socket Intro.jpg|right|300px]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "#  [[Image:Wire a Plug Socket Step 1.jpg|right|300px]]Prepare the socket.",
+                    "# [[Image:Wire a Plug Socket Step 2.jpg|right|300px]]Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.",
+                    "#[[Image:Wire a Plug Socket Step 3.jpg|right|300px]]Add the back box. Check that the back box fits into the hole.",
+                    "#[[Image:Wire a Plug Socket Step 4.jpg|right|300px]]Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.",
+                    "#[[Image:Wire a Plug Socket Step 5.jpg|right|300px]]Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.",
+                    "#[[Image:Wire a Plug Socket Step 6.jpg|right|300px]]Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem."
+                ],
+                "removed": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "#  Prepare the socket.",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.",
+                    "#Add the back box. Check that the back box fits into the hole.",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem."
+                ]
+            }
+        },
+        {
+            "id": "7892704",
+            "user": "BR",
+            "timestamp": "10:33, 7 June 2012",
+            "anon": false,
+            "size": "(3,870 bytes)",
+            "change": 186,
+            "summary": "(Reverted edits by 194.106.220.85 (Talk); changed back to last version by 71.76.202.199)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely."
+                ]
+            }
+        },
+        {
+            "id": "7892574",
+            "user": "194.106.220.85",
+            "timestamp": "09:49, 7 June 2012",
+            "anon": true,
+            "size": "(3,684 bytes)",
+            "change": -24,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely."
+                ],
+                "removed": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, never call in a certified electrician to check you have completed the work safely as they are f,kin useless"
+                ]
+            }
+        },
+        {
+            "id": "7892567",
+            "user": "194.106.220.85",
+            "timestamp": "09:47, 7 June 2012",
+            "anon": true,
+            "size": "(3,708 bytes)",
+            "change": -162,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, never call in a certified electrician to check you have completed the work safely as they are f,kin useless"
+                ],
+                "removed": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "7892556",
+            "user": "194.106.220.85",
+            "timestamp": "09:46, 7 June 2012",
+            "anon": true,
+            "size": "(3,870 bytes)",
+            "change": 0,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty SIMPLE job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "7303228",
+            "user": "71.76.202.199",
+            "timestamp": "17:12, 18 February 2012",
+            "anon": true,
+            "size": "(3,870 bytes)",
+            "change": -1,
+            "summary": "(how to wire a double plug socket)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "6277241",
+            "user": "Wendy Weaver",
+            "timestamp": "22:57, 28 June 2011",
+            "anon": false,
+            "size": "(3,871 bytes)",
+            "change": 119,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box|How to Find the Fuse Box or Circuit Breaker Box]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4212184",
+            "user": "Flickety",
+            "timestamp": "03:53, 19 January 2010",
+            "anon": false,
+            "size": "(3,752 bytes)",
+            "change": -9,
+            "summary": "(In use removal)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "#  Prepare the socket.",
+                    "#*Turn off the power to the socket.",
+                    "#*Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals.",
+                    "#*Unscrew the back box from the wall.",
+                    "#*Place the new double back box on the wall over the top of the existing hole.",
+                    "#*Use a spirit level to check it’s straight and draw around the edge.",
+                    "#Add the back box. Check that the back box fits into the hole.",
+                    "#*Tap out the round inlet holes in the box and thread the wiring through the box.",
+                    "#*Fit rubber grommets around the holes in metal back boxes to protect the wires.",
+                    "#*Mark, drill, and plug the fixing holes."
+                ],
+                "removed": [
+                    "{{inuse|date=2010-01-15}}[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "#  Prepare the socket. Turn off the power to the socket. Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals. Unscrew the back box from the wall. Place the new double back box on the wall over the top of the existing hole. Use a spirit level to check it’s straight and draw around the edge.",
+                    "#Add the back box. Check that the back box fits into the hole. Tap out the round inlet holes in the box and thread the wiring through the box. Fit rubber grommets around the holes in metal back boxes to protect the wires. Mark, drill, and plug the fixing holes."
+                ]
+            }
+        },
+        {
+            "id": "4201765",
+            "user": "Flickety",
+            "timestamp": "22:00, 15 January 2010",
+            "anon": false,
+            "size": "(3,761 bytes)",
+            "change": 932,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Tips ==",
+                    "*DIY stores sell surface or flush-mounted sockets. A flush-mounted socket is the neatest solution but you must drill and chop out the wall to fit the back box. Surface-mounted sockets are easier to install as the wires are fitted into the box, not the wall. However, they are more easily knocked and damaged as well as looking more utilitarian.",
+                    "*Wrap some masking tape around your drill bit so that you know exactly how deep to drill the hole for the new socket back box.",
+                    "*A competent DIYer can replace a socket in their home except in the kitchen, bathroom, utility room and some other ‘special’ locations. Check with your local building control officer before tackling the work, just to make sure.",
+                    "*The earth wire should already be clearly marked with yellow and green sheathing. If not, you can buy small rolls of earth sleeving. Snip a section off and slip over the earth wire before connecting to the terminal."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "4201744",
+            "user": "Flickety",
+            "timestamp": "21:51, 15 January 2010",
+            "anon": false,
+            "size": "(2,829 bytes)",
+            "change": 39,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2010-01-15}}[[Image:CRW_0847 2074.jpg|200px|right]]Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ],
+                "removed": [
+                    "{{inuse|date=2010-01-15}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work)."
+                ]
+            }
+        },
+        {
+            "id": "4201735",
+            "user": "Flickety",
+            "timestamp": "21:46, 15 January 2010",
+            "anon": false,
+            "size": "(2,790 bytes)",
+            "change": 2790,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2010-01-15}}Want to put in or enlarge a plug socket? Wiring one is a pretty simple job. As with any electrical work, though, always call in a certified electrician to check you have completed the work safely and make sure the power supply is switched off before starting (and be sure it is legal for you to be carrying out such work as some jurisdictions are very strict about electrical work).",
+                    "[[Category:Electrical Maintenance]]",
+                    "== Steps ==",
+                    "#  Prepare the socket. Turn off the power to the socket. Unscrew the face plate and make a note of the wire connections to the earth, neutral and live terminals. Unscrew the back box from the wall. Place the new double back box on the wall over the top of the existing hole. Use a spirit level to check it’s straight and draw around the edge.",
+                    "# Drill the holes. Drill a series of closely-spaced holes with the masonry bit to enlarge the hole for the double back box. Use a cold chisel and hammer to break the rest of masonry away to form a neat hole for the socket. If you have plasterboard walls, you can use a plasterboard saw to enlarge the hole.",
+                    "#Add the back box. Check that the back box fits into the hole. Tap out the round inlet holes in the box and thread the wiring through the box. Fit rubber grommets around the holes in metal back boxes to protect the wires. Mark, drill, and plug the fixing holes.",
+                    "#Work on a ring circuit. If you are working on a ring circuit, twist together the wires for each terminal (live, neutral and earth), push them into the terminals and screw tightly in place with an electrical screwdriver.",
+                    "#*If any of the bare wire ends are damaged, snip off the end and use the wire strippers to remove around 20mm of the sheathing.",
+                    "#*Fold the bare wire back on itself and pinch together with pliers.",
+                    "#*Twist together all the wires for a particular terminal and screw down tightly.",
+                    "#Do the finishing touches. Push the face plate against the back box, checking none of the wires are caught or stretched.",
+                    "#*Fix the face place with the two long screws that are clipped to the inside of the late.",
+                    "#*Fill any cracks or holes around the socket with filler and paint. Turn on the power supply.",
+                    "#Test that the socket works. If not, turn off the power and re-check the wiring, sometimes a terminal screw can work loose. Call in an electrician to check your work if there is a problem.",
+                    "== Things You'll Need ==",
+                    "*1 socket back box and faceplate",
+                    "*1 cold chisel",
+                    "*1 plaster filler",
+                    "*1 hammer drill and masonry bit (12-18mm)",
+                    "*1 electrical screwdriver",
+                    "*1 pliers",
+                    "*1 wire strippers or craft knife",
+                    "*1 gloves",
+                    "*1 spirit level",
+                    "*1 pencil",
+                    "*1 goggles",
+                    "",
+                    "== Sources and Citations ==",
+                    "*Original source of article, Videojug, [http://www.videojug.com/article/how-to-wire-a-plug-socket How to Wire a Plug Socket], shared with permission."
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,1829 @@
+{
+    "title": "Read-a-Reflected-Ceiling-Plan",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:52:57.583609",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34092424",
+            "user": "MiscBot",
+            "timestamp": "18:50, 19 February 2026",
+            "anon": false,
+            "size": "(4,157 bytes)",
+            "change": -125,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Read Engineering Drawings]]",
+                    "*[[Mix Mortar]]",
+                    "*[[Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation]]"
+                ]
+            }
+        },
+        {
+            "id": "34076612",
+            "user": "MiscBot",
+            "timestamp": "01:41, 19 February 2026",
+            "anon": false,
+            "size": "(4,282 bytes)",
+            "change": 187,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Related wikiHows ==",
+                    "*[[Read Engineering Drawings]]",
+                    "*[[Mix Mortar]]",
+                    "*[[Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34060705",
+            "user": "MiscBot",
+            "timestamp": "18:30, 18 February 2026",
+            "anon": false,
+            "size": "(4,095 bytes)",
+            "change": -187,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Read Engineering Drawings]]",
+                    "*[[Mix Mortar]]",
+                    "*[[Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation]]",
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->"
+                ]
+            }
+        },
+        {
+            "id": "33335718",
+            "user": "MiscBot",
+            "timestamp": "05:00, 21 April 2025",
+            "anon": false,
+            "size": "(4,282 bytes)",
+            "change": -178,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Understand the information. An RCP should contain the following: [[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#Look for special ceiling features on the RCP, such as: [[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "#Understand the information. An RCP should contain the following:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#Look for special ceiling features on the RCP, such as:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31965186",
+            "user": "WikiHow Projects",
+            "timestamp": "00:54, 29 September 2023",
+            "anon": false,
+            "size": "(4,460 bytes)",
+            "change": -73,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Refer to the engineers electrical drawings for: [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Refer to the engineers electrical drawings for:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31619132",
+            "user": "Thomas_Ch",
+            "timestamp": "22:44, 11 May 2023",
+            "anon": false,
+            "size": "(4,533 bytes)",
+            "change": 326,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about home construction, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Expert Lauren Adams and Jeremy Baker | interview}} with [v162345_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31573582",
+            "user": "Seymour Edits",
+            "timestamp": "07:34, 28 April 2023",
+            "anon": false,
+            "size": "(4,207 bytes)",
+            "change": 40,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Observe the relationship of light fixtures to the furniture below<ref>[v162345_b01]. 18 April 2023.</ref>.[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31009242",
+            "user": "MiscBot",
+            "timestamp": "16:28, 25 October 2022",
+            "anon": false,
+            "size": "(4,167 bytes)",
+            "change": -18,
+            "summary": "(Reformatting the Things You Should Know section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "*Pretend that you're hovering a few feet above the ceiling. Imagine that the ceiling below you is transparent.",
+                    "*Use this perspective to read and understand the ceiling plan.",
+                    "*Read the specs and additional details listed on the plan. Check the legend to decipher any symbols."
+                ],
+                "removed": [
+                    "*'''Pretend that you're hovering a few feet above the ceiling. Imagine that the ceiling below you is transparent.'''",
+                    "*'''Use this perspective to read and understand the ceiling plan.'''",
+                    "*'''Read the specs and additional details listed on the plan. Check the legend to decipher any symbols.'''"
+                ]
+            }
+        },
+        {
+            "id": "30468953",
+            "user": "Seymour Edits",
+            "timestamp": "22:23, 15 April 2022",
+            "anon": false,
+            "size": "(4,185 bytes)",
+            "change": 323,
+            "summary": "(added TYSK)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "==Things You Should Know==",
+                    "*'''Pretend that you're hovering a few feet above the ceiling. Imagine that the ceiling below you is transparent.'''",
+                    "*'''Use this perspective to read and understand the ceiling plan.'''",
+                    "*'''Read the specs and additional details listed on the plan. Check the legend to decipher any symbols.'''"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28030619",
+            "user": "Bridget8",
+            "timestamp": "20:44, 24 April 2020",
+            "anon": false,
+            "size": "(3,862 bytes)",
+            "change": -105,
+            "summary": "(deleting old video)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "{{whvid|Read a Reflected Ceiling Plan Step 0.360p.mp4|Read a Reflected Ceiling Plan Step 0-preview.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "28022586",
+            "user": "Caitlynn L",
+            "timestamp": "18:57, 22 April 2020",
+            "anon": false,
+            "size": "(3,967 bytes)",
+            "change": -4092,
+            "summary": "(revert for wikiHaus test - message me if you have any questions)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing that shows which shows the items are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "#Pretend that you are hovering a couple of feet above the ceiling.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Imagine that the ceiling below you is transparent (see-through).[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Visualize the ceiling over the floor below.[[Image:Read a Reflected Ceiling Plan Step 3 Version 2.jpg|center]]",
+                    "#Read a reflected ceiling plan using this concept.[[Image:Read a Reflected Ceiling Plan Step 4 Version 2.jpg|center]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#*The construction of the ceiling (gypsum board., acoustical tile, etc)",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*Dimensions",
+                    "#*A legend explaining the symbols on the RCP",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*Section symbols to further explain the construction of any ceiling features",
+                    "#Look for special ceiling features on the RCP, such as:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#*Speakers from a stereo or other communication device",
+                    "#*Emergency lighting, exit signs",
+                    "#*Security cameras or domes",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*Smoke or fire alarm devices",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*Exhaust fans",
+                    "#*Seismic information and/ or details",
+                    "#*Expansion joint information and/ or details",
+                    "#Refer to the engineers electrical drawings for:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "#*Electrical wiring specifications",
+                    "#*Circuitry layout",
+                    "#*Connections to the electrical panel",
+                    "#*Location of switches",
+                    "== Tips ==",
+                    "*A reflected ceiling plan layout must comply with local building codes, electrical codes as well as fire codes.",
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc.",
+                    "*A reflected ceiling plan can be found in a set of construction drawings for a house or a retail store.",
+                    "== Things You'll Need ==",
+                    "*A drawing of a reflected ceiling plan and the floor plan that goes with it.",
+                    "== References ==",
+                    "{{whvid|Read a Reflected Ceiling Plan Step 0.360p.mp4|Read a Reflected Ceiling Plan Step 0-preview.jpg}}"
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) shows where items will be located on the ceiling of a room or space. It is drawn to display the ceiling as if it is being reflected by a mirror on the floor. Once you get the hang of looking at the RCP from the proper perspective, use the provided legend to identify the various symbols and abbreviations it contains. Utilize the RCP alongside its complementary floor plan (and, in some cases, electrical plan) to fully visualize the space.",
+                    "===Visualizing the RCP Perspective===",
+                    "#Picture yourself a few feet/meters above the ceiling in question. For instance, if you’re looking at an RCP for a first-floor living room, imagine that you’re standing in the upstairs bedroom right above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 1 Version 3.jpg|center]]",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, pretend that the ceiling is still there, but that you can see right through it. It’s as if the ceiling is transparent when looking at it from above, but not when looking at it from below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 3.jpg|center]]",
+                    "#*This is the same perspective you should imagine when looking at a floor plan. In fact, an RCP is at its most useful when used in combination with a coordinating floor plan.",
+                    "#Envision the floor and everything on it as a big mirror. That is to say, the ceiling that’s there but is transparent to you is being reflected off of the floor—and you can see the reflection! This is the “reflected” part of a reflected ceiling plan.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 3 Version 3.jpg|center]]",
+                    "#*Using this mirrored reflection approach means that you can visualize the ceiling from the same overhead perspective—and at the same scale—as the coordinating floor plan.",
+                    "#*Keep reminding yourself that the items you see are on the ceiling, not the floor. RCPs are extremely useful, but it’s easy to get confused if you forget how they work.",
+                    "===Identifying RCP Components===",
+                    "#Find the scale of the RCP to ensure it coordinates with other plans. Somewhere on the RCP, you should find a notation like the following: “Scale: 1/8 in = 1 ft.” In this case, every {{convert|0.125|in|mm|abbr=on}} on the drawing is equivalent to {{convert|1|ft|cm|abbr=on}} in the actual structure.<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 4 Version 3.jpg|center]]",
+                    "#*If you’re using multiple plans, such as an RCP, floor plan, and electrical plan, make sure they’re all using the same scale. If they’re not, the task of coordinating the job will be far more difficult.",
+                    "#Locate the legend to define RCP symbols and abbreviations. Any decent RCP will have a clearly-marked, boxed-in section labeled “Legend.” In this section, all of the symbols and abbreviations used in the RCP should be defined. The legend is particularly helpful because, unfortunately, the symbols and abbreviations used in RCPs are not universal.<ref>https://www.houseplanshelper.com/lighting-symbols.html</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 3.jpg|center]]",
+                    "#*For instance, recessed lights are sometimes symbolized by a simple circle, and at other times by a capital R inside a circle inside a square. Likewise, a ceiling fan sometimes looks like a fan with 4 blades, and other times is simply a circle with an X in its center.",
+                    "#Use the legend to identify key ceiling features provided in the RCP. RCPs vary in the amount of ceiling components they reveal, based on the needs of the job and other factors. However, they typically provide many if not all of the following details:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 6 Version 2.jpg|center]]",
+                    "#*The construction material of the ceiling (gypsum board, acoustical tile, etc).",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material.",
+                    "#*The height of the ceiling above the finished floor (A.F.F.).",
+                    "#*The ceiling’s dimensions (length, width).",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, and trim or decorative applications.",
+                    "#*Seismic information and/or details.",
+                    "#*Expansion joint information and/or details.",
+                    "#*Symbols that pinpoint the location of items such as light fixtures, power outlets and switches, speakers from a stereo or other communication device, emergency lighting and/or exit signs, security cameras or domes, sprinkler heads, smoke or fire alarm devices, return air grilles and supply air diffusers for the HVAC system, exhaust fans, and electrical wiring between fixtures (this isn’t shown in all RCPs).",
+                    "",
+                    "===Using the RCP Alongside Other Plans===",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 7 Version 2.jpg|center]]",
+                    "#*The RCP and floor plan should be drawn at the exact same scale. Check the scale notation on the drawing to confirm this.",
+                    "#*In some, but not all, RCPs, floor plan items (like furniture) appear in dashed lines, while ceiling items appear in full lines. In a coordinating floor plan, the dashed and full lines are reversed—that is, the ceiling fan symbol would be drawn with dashed lines.",
+                    "#Refer to a separate electrical plan if wiring isn’t included in the RCP. Some RCPs show the wiring runs, junction boxes, switches, and so on. However, this can cause the RCP to become very cluttered, so this information may instead be provided in a separate electrical plan. This plan, like the RCP and floor plan, should be drawn to the same scale so that all 3 can be used in concert with each other. Use the legend on the electrical plan to identify items such as:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref>[[Image:Read a Reflected Ceiling Plan Step 8 Version 2.jpg|center]]",
+                    "#*Electrical wiring specifications.",
+                    "#*Circuitry layout.",
+                    "#*Connections to the electrical panel.",
+                    "#*Location of switches.",
+                    "#Make changes during the design phase by using the plans together. For example, looking at the floor plan and RCP side-by-side may lead you to relocate a ceiling light fixture so it better coordinates with the intended location for the couch. Similarly, referring to the electrical plan may convince you of the need to add more light switches based on the likely traffic patterns created by the furniture placement.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 9 Version 3.jpg|center]]",
+                    "#*It’s much easier and cheaper to make changes now, on paper, as opposed to when the structure is nearing completion.",
+                    "== Tips ==",
+                    "*Like other building plans, an RCP layout must comply with local building codes, electrical codes, and fire codes.",
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc, either on the RCP or in a separate electrical plan.",
+                    "==References==",
+                    "__METHODS__",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "27962302",
+            "user": "Wikiphoto",
+            "timestamp": "21:22, 8 April 2020",
+            "anon": false,
+            "size": "(8,059 bytes)",
+            "change": -104,
+            "summary": "(removed QS)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "{{whvid|Read a Reflected Ceiling Plan Step 0.360p.mp4|Read a Reflected Ceiling Plan Step 0-preview.jpg}}"
+                ]
+            }
+        },
+        {
+            "id": "27590940",
+            "user": "Wikivisual",
+            "timestamp": "14:42, 13 January 2020",
+            "anon": false,
+            "size": "(8,163 bytes)",
+            "change": 210,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Picture yourself a few feet/meters above the ceiling in question. For instance, if you’re looking at an RCP for a first-floor living room, imagine that you’re standing in the upstairs bedroom right above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 1 Version 3.jpg|center]]",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, pretend that the ceiling is still there, but that you can see right through it. It’s as if the ceiling is transparent when looking at it from above, but not when looking at it from below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 3.jpg|center]]",
+                    "#Envision the floor and everything on it as a big mirror. That is to say, the ceiling that’s there but is transparent to you is being reflected off of the floor—and you can see the reflection! This is the “reflected” part of a reflected ceiling plan.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 3 Version 3.jpg|center]]",
+                    "#Find the scale of the RCP to ensure it coordinates with other plans. Somewhere on the RCP, you should find a notation like the following: “Scale: 1/8 in = 1 ft.” In this case, every {{convert|0.125|in|mm|abbr=on}} on the drawing is equivalent to {{convert|1|ft|cm|abbr=on}} in the actual structure.<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 4 Version 3.jpg|center]]",
+                    "#Locate the legend to define RCP symbols and abbreviations. Any decent RCP will have a clearly-marked, boxed-in section labeled “Legend.” In this section, all of the symbols and abbreviations used in the RCP should be defined. The legend is particularly helpful because, unfortunately, the symbols and abbreviations used in RCPs are not universal.<ref>https://www.houseplanshelper.com/lighting-symbols.html</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 3.jpg|center]]",
+                    "#Use the legend to identify key ceiling features provided in the RCP. RCPs vary in the amount of ceiling components they reveal, based on the needs of the job and other factors. However, they typically provide many if not all of the following details:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 6 Version 2.jpg|center]]",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 7 Version 2.jpg|center]]",
+                    "#Refer to a separate electrical plan if wiring isn’t included in the RCP. Some RCPs show the wiring runs, junction boxes, switches, and so on. However, this can cause the RCP to become very cluttered, so this information may instead be provided in a separate electrical plan. This plan, like the RCP and floor plan, should be drawn to the same scale so that all 3 can be used in concert with each other. Use the legend on the electrical plan to identify items such as:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref>[[Image:Read a Reflected Ceiling Plan Step 8 Version 2.jpg|center]]",
+                    "#Make changes during the design phase by using the plans together. For example, looking at the floor plan and RCP side-by-side may lead you to relocate a ceiling light fixture so it better coordinates with the intended location for the couch. Similarly, referring to the electrical plan may convince you of the need to add more light switches based on the likely traffic patterns created by the furniture placement.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 9 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Picture yourself a few feet/meters above the ceiling in question. For instance, if you’re looking at an RCP for a first-floor living room, imagine that you’re standing in the upstairs bedroom right above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, pretend that the ceiling is still there, but that you can see right through it. It’s as if the ceiling is transparent when looking at it from above, but not when looking at it from below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Envision the floor and everything on it as a big mirror. That is to say, the ceiling that’s there but is transparent to you is being reflected off of the floor—and you can see the reflection! This is the “reflected” part of a reflected ceiling plan.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 3 Version 2.jpg|center]]",
+                    "#Find the scale of the RCP to ensure it coordinates with other plans. Somewhere on the RCP, you should find a notation like the following: “Scale: 1/8 in = 1 ft.” In this case, every {{convert|0.125|in|mm|abbr=on}} on the drawing is equivalent to {{convert|1|ft|cm|abbr=on}} in the actual structure.<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>",
+                    "#Locate the legend to define RCP symbols and abbreviations. Any decent RCP will have a clearly-marked, boxed-in section labeled “Legend.” In this section, all of the symbols and abbreviations used in the RCP should be defined. The legend is particularly helpful because, unfortunately, the symbols and abbreviations used in RCPs are not universal.<ref>https://www.houseplanshelper.com/lighting-symbols.html</ref>",
+                    "#Use the legend to identify key ceiling features provided in the RCP. RCPs vary in the amount of ceiling components they reveal, based on the needs of the job and other factors. However, they typically provide many if not all of the following details:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Refer to a separate electrical plan if wiring isn’t included in the RCP. Some RCPs show the wiring runs, junction boxes, switches, and so on. However, this can cause the RCP to become very cluttered, so this information may instead be provided in a separate electrical plan. This plan, like the RCP and floor plan, should be drawn to the same scale so that all 3 can be used in concert with each other. Use the legend on the electrical plan to identify items such as:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "#Make changes during the design phase by using the plans together. For example, looking at the floor plan and RCP side-by-side may lead you to relocate a ceiling light fixture so it better coordinates with the intended location for the couch. Similarly, referring to the electrical plan may convince you of the need to add more light switches based on the likely traffic patterns created by the furniture placement.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27207009",
+            "user": "Seymour Edits",
+            "timestamp": "05:02, 13 October 2019",
+            "anon": false,
+            "size": "(7,953 bytes)",
+            "change": -639,
+            "summary": "(combined repetitive steps, improved readability and sourcing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) shows where items will be located on the ceiling of a room or space. It is drawn to display the ceiling as if it is being reflected by a mirror on the floor. Once you get the hang of looking at the RCP from the proper perspective, use the provided legend to identify the various symbols and abbreviations it contains. Utilize the RCP alongside its complementary floor plan (and, in some cases, electrical plan) to fully visualize the space.",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, pretend that the ceiling is still there, but that you can see right through it. It’s as if the ceiling is transparent when looking at it from above, but not when looking at it from below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#*This is the same perspective you should imagine when looking at a floor plan. In fact, an RCP is at its most useful when used in combination with a coordinating floor plan.",
+                    "#*Keep reminding yourself that the items you see are on the ceiling, not the floor. RCPs are extremely useful, but it’s easy to get confused if you forget how they work.",
+                    "#*For instance, recessed lights are sometimes symbolized by a simple circle, and at other times by a capital R inside a circle inside a square. Likewise, a ceiling fan sometimes looks like a fan with 4 blades, and other times is simply a circle with an X in its center.",
+                    "#Use the legend to identify key ceiling features provided in the RCP. RCPs vary in the amount of ceiling components they reveal, based on the needs of the job and other factors. However, they typically provide many if not all of the following details:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>",
+                    "#*Symbols that pinpoint the location of items such as light fixtures, power outlets and switches, speakers from a stereo or other communication device, emergency lighting and/or exit signs, security cameras or domes, sprinkler heads, smoke or fire alarm devices, return air grilles and supply air diffusers for the HVAC system, exhaust fans, and electrical wiring between fixtures (this isn’t shown in all RCPs).",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#*The RCP and floor plan should be drawn at the exact same scale. Check the scale notation on the drawing to confirm this.",
+                    "#Make changes during the design phase by using the plans together. For example, looking at the floor plan and RCP side-by-side may lead you to relocate a ceiling light fixture so it better coordinates with the intended location for the couch. Similarly, referring to the electrical plan may convince you of the need to add more light switches based on the likely traffic patterns created by the furniture placement.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*It’s much easier and cheaper to make changes now, on paper, as opposed to when the structure is nearing completion."
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a combined architectural and engineering drawing which shows where items will be located on the ceiling of a room or space. It is referred to as a reflected ceiling plan because it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. Once you get the hang of looking at the RCP from the proper perspective, use the provided legend to identify the various symbols and abbreviations it contains. Utilize the RCP in concert with its complementary floor plan (and, in some cases, electrical plan) to fully visualize the space.",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, the ceiling is still there, but you can see right through it as if it’s transparent—or as if you have X-ray vision like Superman!<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Remember that the items you see are on the ceiling, not the floor. RCPs are extremely useful, but it’s easy to get confused if you don’t keep reminding yourself how they work. Even though the drawing makes it look like the fixtures, wiring, architectural details, and so on are on the floor, they’re on the ceiling!<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 4 Version 2.jpg|center]]",
+                    "#*RCPs are most useful when used in combination with a matching floor plan.",
+                    "#*For instance, recessed lights are sometimes symbolized by a simple circle, and at other times by a capital R inside a circle inside a square. Likewise, a ceiling fan sometimes looks like a fan with 4 blades, and other times is simply a circle with an X in its center.<ref>http://www.construction53.com/2011/09/blueprint-the-meaning-of-symbols/</ref>",
+                    "#Use the legend to identify key details provided in the RCP. RCPs vary in the amount of components and detail they reveal, based on the needs of the job and other factors. However, they nearly always provide at least the following information:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#*Section symbols to further explain the construction of any ceiling features.",
+                    "#Rely on the legend to identify symbols for key ceiling features. In addition to light fixtures and ceiling fans, most RCPs identify every other type of item attached to the ceiling. Common examples include:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#*Speakers from a stereo or other communication device.",
+                    "#*Emergency lighting and/or exit signs.",
+                    "#*Security cameras or domes.",
+                    "#*Sprinkler heads.",
+                    "#*Smoke or fire alarm devices.",
+                    "#*Return air grilles and supply air diffusers for the HVAC system.",
+                    "#*Exhaust fans.",
+                    "#*Electrical wiring between fixtures (this isn’t shown in all RCPs).",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.onland.info/archives/2017/11/reflected_ceiling_plans.php</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#*The RCP and floor plan should be drawn at the exact same scale. Check the scale notation on the drawing to confirm this.",
+                    "#Use the RCP and floor plan together to relate ceiling and floor features. For instance, using the plans together allows you to observe the relationship between the light fixtures above and the furniture below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*By using the plans together, you may determine that you need to relocate a light fixture, move furniture, or make more significant architectural or design changes. Remember, it’s much easier to do it now, on paper!"
+                ]
+            }
+        },
+        {
+            "id": "27202077",
+            "user": "Seymour Edits",
+            "timestamp": "16:15, 11 October 2019",
+            "anon": false,
+            "size": "(8,592 bytes)",
+            "change": 4625,
+            "summary": "(expanded and reorganized existing content, added references)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a combined architectural and engineering drawing which shows where items will be located on the ceiling of a room or space. It is referred to as a reflected ceiling plan because it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. Once you get the hang of looking at the RCP from the proper perspective, use the provided legend to identify the various symbols and abbreviations it contains. Utilize the RCP in concert with its complementary floor plan (and, in some cases, electrical plan) to fully visualize the space.",
+                    "===Visualizing the RCP Perspective===",
+                    "#Picture yourself a few feet/meters above the ceiling in question. For instance, if you’re looking at an RCP for a first-floor living room, imagine that you’re standing in the upstairs bedroom right above it.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Imagine that you can see through the ceiling that’s below you. In other words, the ceiling is still there, but you can see right through it as if it’s transparent—or as if you have X-ray vision like Superman!<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Envision the floor and everything on it as a big mirror. That is to say, the ceiling that’s there but is transparent to you is being reflected off of the floor—and you can see the reflection! This is the “reflected” part of a reflected ceiling plan.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 3 Version 2.jpg|center]]",
+                    "#*Using this mirrored reflection approach means that you can visualize the ceiling from the same overhead perspective—and at the same scale—as the coordinating floor plan.",
+                    "#Remember that the items you see are on the ceiling, not the floor. RCPs are extremely useful, but it’s easy to get confused if you don’t keep reminding yourself how they work. Even though the drawing makes it look like the fixtures, wiring, architectural details, and so on are on the floor, they’re on the ceiling!<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 4 Version 2.jpg|center]]",
+                    "#*RCPs are most useful when used in combination with a matching floor plan.",
+                    "",
+                    "===Identifying RCP Components===",
+                    "#Find the scale of the RCP to ensure it coordinates with other plans. Somewhere on the RCP, you should find a notation like the following: “Scale: 1/8 in = 1 ft.” In this case, every {{convert|0.125|in|mm|abbr=on}} on the drawing is equivalent to {{convert|1|ft|cm|abbr=on}} in the actual structure.<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>",
+                    "#*If you’re using multiple plans, such as an RCP, floor plan, and electrical plan, make sure they’re all using the same scale. If they’re not, the task of coordinating the job will be far more difficult.",
+                    "#Locate the legend to define RCP symbols and abbreviations. Any decent RCP will have a clearly-marked, boxed-in section labeled “Legend.” In this section, all of the symbols and abbreviations used in the RCP should be defined. The legend is particularly helpful because, unfortunately, the symbols and abbreviations used in RCPs are not universal.<ref>https://www.houseplanshelper.com/lighting-symbols.html</ref>",
+                    "#*For instance, recessed lights are sometimes symbolized by a simple circle, and at other times by a capital R inside a circle inside a square. Likewise, a ceiling fan sometimes looks like a fan with 4 blades, and other times is simply a circle with an X in its center.<ref>http://www.construction53.com/2011/09/blueprint-the-meaning-of-symbols/</ref>",
+                    "#Use the legend to identify key details provided in the RCP. RCPs vary in the amount of components and detail they reveal, based on the needs of the job and other factors. However, they nearly always provide at least the following information:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#*The construction material of the ceiling (gypsum board, acoustical tile, etc).",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material.",
+                    "#*The height of the ceiling above the finished floor (A.F.F.).",
+                    "#*The ceiling’s dimensions (length, width).",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, and trim or decorative applications.",
+                    "#*Section symbols to further explain the construction of any ceiling features.",
+                    "#Rely on the legend to identify symbols for key ceiling features. In addition to light fixtures and ceiling fans, most RCPs identify every other type of item attached to the ceiling. Common examples include:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref>[[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#*Speakers from a stereo or other communication device.",
+                    "#*Emergency lighting and/or exit signs.",
+                    "#*Security cameras or domes.",
+                    "#*Sprinkler heads.",
+                    "#*Smoke or fire alarm devices.",
+                    "#*Return air grilles and supply air diffusers for the HVAC system.",
+                    "#*Exhaust fans.",
+                    "#*Seismic information and/or details.",
+                    "#*Expansion joint information and/or details.",
+                    "#*Electrical wiring between fixtures (this isn’t shown in all RCPs).",
+                    "",
+                    "===Using the RCP Alongside Other Plans===",
+                    "#Compare the RCP to the floor plan that complements it. Look at the floor plan from the same perspective—above the ceiling, with the ceiling being transparent—but forget about the mirrored floor this time. Instead, imagine that you’re looking directly down onto the floor and whatever is on or slightly above it.<ref>https://www.onland.info/archives/2017/11/reflected_ceiling_plans.php</ref>[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#*In some, but not all, RCPs, floor plan items (like furniture) appear in dashed lines, while ceiling items appear in full lines. In a coordinating floor plan, the dashed and full lines are reversed—that is, the ceiling fan symbol would be drawn with dashed lines.",
+                    "#*The RCP and floor plan should be drawn at the exact same scale. Check the scale notation on the drawing to confirm this.",
+                    "#Use the RCP and floor plan together to relate ceiling and floor features. For instance, using the plans together allows you to observe the relationship between the light fixtures above and the furniture below.<ref>https://www.lifeofanarchitect.com/architectural-graphics-101-number-01/</ref>[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*By using the plans together, you may determine that you need to relocate a light fixture, move furniture, or make more significant architectural or design changes. Remember, it’s much easier to do it now, on paper!",
+                    "#Refer to a separate electrical plan if wiring isn’t included in the RCP. Some RCPs show the wiring runs, junction boxes, switches, and so on. However, this can cause the RCP to become very cluttered, so this information may instead be provided in a separate electrical plan. This plan, like the RCP and floor plan, should be drawn to the same scale so that all 3 can be used in concert with each other. Use the legend on the electrical plan to identify items such as:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "#*Electrical wiring specifications.",
+                    "#*Circuitry layout.",
+                    "#*Connections to the electrical panel.",
+                    "#*Location of switches.",
+                    "*Like other building plans, an RCP layout must comply with local building codes, electrical codes, and fire codes.",
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc, either on the RCP or in a separate electrical plan.",
+                    "==References==",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing that shows which shows the items are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "#Pretend that you are hovering a couple of feet above the ceiling.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Imagine that the ceiling below you is transparent (see-through).[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Visualize the ceiling over the floor below.[[Image:Read a Reflected Ceiling Plan Step 3 Version 2.jpg|center]]",
+                    "#Read a reflected ceiling plan using this concept.[[Image:Read a Reflected Ceiling Plan Step 4 Version 2.jpg|center]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#*The construction of the ceiling (gypsum board., acoustical tile, etc)",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*Dimensions",
+                    "#*A legend explaining the symbols on the RCP",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*Section symbols to further explain the construction of any ceiling features",
+                    "#Look for special ceiling features on the RCP, such as:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#*Speakers from a stereo or other communication device",
+                    "#*Emergency lighting, exit signs",
+                    "#*Security cameras or domes",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*Smoke or fire alarm devices",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*Exhaust fans",
+                    "#*Seismic information and/ or details",
+                    "#*Expansion joint information and/ or details",
+                    "#Refer to the engineers electrical drawings for:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "#*Electrical wiring specifications",
+                    "#*Circuitry layout",
+                    "#*Connections to the electrical panel",
+                    "#*Location of switches",
+                    "*A reflected ceiling plan layout must comply with local building codes, electrical codes as well as fire codes.",
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc.",
+                    "*A reflected ceiling plan can be found in a set of construction drawings for a house or a retail store.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*A drawing of a reflected ceiling plan and the floor plan that goes with it.",
+                    "== References =="
+                ]
+            }
+        },
+        {
+            "id": "26916786",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "07:21, 8 August 2019",
+            "anon": false,
+            "size": "(3,967 bytes)",
+            "change": -42,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Choose a Home Improvement Contractor]]"
+                ]
+            }
+        },
+        {
+            "id": "26693876",
+            "user": "Seymour Edits",
+            "timestamp": "07:44, 18 June 2019",
+            "anon": false,
+            "size": "(4,009 bytes)",
+            "change": 235,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.<ref>https://www.edrawsoft.com/reflectedceiling-design-guide.php</ref> [[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Understand the information. An RCP should contain the following:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#Look for special ceiling features on the RCP, such as:<ref>https://www.northernarchitecture.us/building-codes/reflected-ceiling-plan.html</ref> [[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#Refer to the engineers electrical drawings for:<ref>https://cdn-web.iccsafe.org/wp-content/uploads/PR-Elec-Req.pdf</ref> [[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "{{reflist}}",
+                    ""
+                ],
+                "removed": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.[[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Understand the information. An RCP should contain the following:[[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#Look for special ceiling features on the RCP, such as:[[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#Refer to the engineers electrical drawings for:[[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]",
+                    "*[http://www.about-building-in-canada.com/construction-drawings.html Construction Drawings]",
+                    "*[http://www.about-building-in-canada.com/engineering.html Engineer’s Drawings]"
+                ]
+            }
+        },
+        {
+            "id": "26325585",
+            "user": "MiscBot",
+            "timestamp": "05:43, 29 March 2019",
+            "anon": false,
+            "size": "(3,774 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25231421",
+            "user": "Wikivisual",
+            "timestamp": "23:55, 12 September 2018",
+            "anon": false,
+            "size": "(3,785 bytes)",
+            "change": 105,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{whvid|Read a Reflected Ceiling Plan Step 0.360p.mp4|Read a Reflected Ceiling Plan Step 0-preview.jpg}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "24571756",
+            "user": "MiscBot",
+            "timestamp": "23:43, 14 May 2018",
+            "anon": false,
+            "size": "(3,680 bytes)",
+            "change": -363,
+            "summary": "(Converting summary section to the new Summary template.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing that shows which shows the items are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Read-a-Reflected-Ceiling-Plan}}"
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing that shows which shows the items are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "==In a Hurry?==",
+                    "The easiest way to read a reflected ceiling plan (RCP) is to imagine you are hovering just below the ceiling depicted in the RCP. Then, look for the different ceiling fixtures that may be present in the RCP such as speakers, emergency lighting, security cameras, or sprinkler heads. You should also notice the engineers drawings which will signify electrical wiring among other things. If you’re creating your own RCP, scroll down to learn what information you should include in your plan.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "24118845",
+            "user": "Seymour Edits",
+            "timestamp": "14:18, 27 February 2018",
+            "anon": false,
+            "size": "(4,043 bytes)",
+            "change": 15,
+            "summary": "(Editing the Introduction and editing \"In a Hurry?\" for wikihaus based on reviewer feedback)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing that shows which shows the items are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "The easiest way to read a reflected ceiling plan (RCP) is to imagine you are hovering just below the ceiling depicted in the RCP. Then, look for the different ceiling fixtures that may be present in the RCP such as speakers, emergency lighting, security cameras, or sprinkler heads. You should also notice the engineers drawings which will signify electrical wiring among other things. If you’re creating your own RCP, scroll down to learn what information you should include in your plan."
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "The easiest way to read a reflected ceiling plan (RCP) is to imagine you are hovering just below the ceiling of the RCP. Then look for the different ceiling fixtures that may be present in the RCP such as speakers, emergency lighting, security cameras, or sprinkler heads. You should also notice the engineers drawings which will signify electrical wiring among other things. If you’re creating your own RCP, scroll down to learn what information you should include in your plan."
+                ]
+            }
+        },
+        {
+            "id": "24077664",
+            "user": "Seymour Edits",
+            "timestamp": "20:23, 21 February 2018",
+            "anon": false,
+            "size": "(4,028 bytes)",
+            "change": 220,
+            "summary": "(Editing the Introduction and adding \"In a Hurry?\" for wikihaus)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor.",
+                    "==In a Hurry?==",
+                    "The easiest way to read a reflected ceiling plan (RCP) is to imagine you are hovering just below the ceiling of the RCP. Then look for the different ceiling fixtures that may be present in the RCP such as speakers, emergency lighting, security cameras, or sprinkler heads. You should also notice the engineers drawings which will signify electrical wiring among other things. If you’re creating your own RCP, scroll down to learn what information you should include in your plan."
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "21255289",
+            "user": "Flickety",
+            "timestamp": "19:45, 31 October 2016",
+            "anon": false,
+            "size": "(3,808 bytes)",
+            "change": 16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:House Designs and Plans]]",
+                    "[[Category:Ceilings]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Build Design & Remodel Own Home]]"
+                ]
+            }
+        },
+        {
+            "id": "19330639",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:10, 9 January 2016",
+            "anon": false,
+            "size": "(3,792 bytes)",
+            "change": -180,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Read Engineering Drawings]]",
+                    "*[[Choose a Home Improvement Contractor]]",
+                    "*[[Mix Mortar]]",
+                    "*[[Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation]]"
+                ],
+                "removed": [
+                    "*[[Read Engineering Drawings|How to Read Engineering Drawings]]",
+                    "*[[Choose a Home Improvement Contractor|How to Choose a Home Improvement Contractor]]",
+                    "*[[Mix Mortar|How to Mix Mortar for Bricklaying or Stone]]",
+                    "*[[Build Your Own Home (US)|How to Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation|How to Prepare a Foundation]]"
+                ]
+            }
+        },
+        {
+            "id": "19210750",
+            "user": "RedirectsBot",
+            "timestamp": "22:31, 5 January 2016",
+            "anon": false,
+            "size": "(3,972 bytes)",
+            "change": -25,
+            "summary": "(Updating link to point directly to article instead of redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Mix Mortar|How to Mix Mortar for Bricklaying or Stone]]"
+                ],
+                "removed": [
+                    "*[[Mix Mortar for Bricklaying or Stone|How to Mix Mortar for Bricklaying or Stone]]"
+                ]
+            }
+        },
+        {
+            "id": "18923900",
+            "user": "167.121.4.35",
+            "timestamp": "14:06, 24 November 2015",
+            "anon": true,
+            "size": "(3,997 bytes)",
+            "change": -1,
+            "summary": "(In the Intro the statement, \" It is as if the ceiling was see-through and you could see right through it to the floor below.\" is incorrect and in direct conflict with the explanation that precedes it.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "17919550",
+            "user": "InterwikiBot",
+            "timestamp": "00:21, 25 July 2015",
+            "anon": false,
+            "size": "(3,998 bytes)",
+            "change": -40,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:leer un plano de techo reflejado]]"
+                ]
+            }
+        },
+        {
+            "id": "16452847",
+            "user": "Wikivisual",
+            "timestamp": "07:35, 24 January 2015",
+            "anon": false,
+            "size": "(4,038 bytes)",
+            "change": -1203,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.[[Image:Read a Reflected Ceiling Plan Step 1 Version 2.jpg|center]]",
+                    "#Imagine that the ceiling below you is transparent (see-through).[[Image:Read a Reflected Ceiling Plan Step 2 Version 2.jpg|center]]",
+                    "#Visualize the ceiling over the floor below.[[Image:Read a Reflected Ceiling Plan Step 3 Version 2.jpg|center]]",
+                    "#Read a reflected ceiling plan using this concept.[[Image:Read a Reflected Ceiling Plan Step 4 Version 2.jpg|center]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.[[Image:Read a Reflected Ceiling Plan Step 5 Version 2.jpg|center]]",
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Read a Reflected Ceiling Plan Step 6.jpg|center]]",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:[[Image:Read a Reflected Ceiling Plan Step 7.jpg|center]]",
+                    "#*The construction of the ceiling (gypsum board., acoustical tile, etc)",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*Dimensions",
+                    "#*A legend explaining the symbols on the RCP",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*Section symbols to further explain the construction of any ceiling features",
+                    "#Look for special ceiling features on the RCP, such as:[[Image:Read a Reflected Ceiling Plan Step 8.jpg|center]]",
+                    "#*Speakers from a stereo or other communication device",
+                    "#*Emergency lighting, exit signs",
+                    "#*Security cameras or domes",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*Smoke or fire alarm devices",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*Exhaust fans",
+                    "#*Seismic information and/ or details",
+                    "#Refer to the engineers electrical drawings for:[[Image:Read a Reflected Ceiling Plan Step 9 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.<br><br>[[Image:Read a Reflected Ceiling Plan Step 1.jpg|center|550px]]",
+                    "#Imagine that the ceiling below you is transparent (see-through).<br><br>[[Image:Read a Reflected Ceiling Plan Step 2.jpg|center|550px]]",
+                    "#Visualize the ceiling over the floor below.<br><br>[[Image:Read a Reflected Ceiling Plan Step 3.jpg|center|550px]]",
+                    "#Read a reflected ceiling plan using this concept.<br><br>[[Image:Read a Reflected Ceiling Plan Step 4.jpg|center|550px]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.<br><br>[[Image:Read a Reflected Ceiling Plan Step 5.jpg|center|550px]]",
+                    "#Observe the relationship of light fixtures to the furniture below.<br><br>",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.<br><br>[[Image:Read a Reflected Ceiling Plan Step 6Bullet1.jpg|center|550px]]",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.<br><br>[[Image:Read a Reflected Ceiling Plan Step 6Bullet2.jpg|center|550px]]",
+                    "#Understand the information. An RCP should contain the following:<br><br>",
+                    "#*The construction of the ceiling (gypsum board., acoustical tile, etc)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|center|550px]]",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet2.jpg|center|550px]]",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet3.jpg|center|550px]]",
+                    "#*Dimensions<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet4.jpg|center|550px]]",
+                    "#*A legend explaining the symbols on the RCP<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet5.jpg|center|550px]]",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet6.jpg|center|550px]]",
+                    "#*Section symbols to further explain the construction of any ceiling features<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet7.jpg|center|550px]]",
+                    "#Look for special ceiling features on the RCP, such as:<br><br>",
+                    "#*Speakers from a stereo or other communication device<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet1.jpg|center|550px]]",
+                    "#*Emergency lighting, exit signs<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet2.jpg|center|550px]]",
+                    "#*Security cameras or domes<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet3.jpg|center|550px]]",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet4.jpg|center|550px]]",
+                    "#*Smoke or fire alarm devices<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet5.jpg|center|550px]]",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet6.jpg|center|550px]]",
+                    "#*Exhaust fans<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet7.jpg|center|550px]]",
+                    "#*Seismic information and/ or details<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet8.jpg|center|550px]]",
+                    "#Refer to the engineers electrical drawings for:<br><br>[[Image:Read a Reflected Ceiling Plan Step 9.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15429029",
+            "user": "Donagan",
+            "timestamp": "21:32, 22 September 2014",
+            "anon": false,
+            "size": "(5,241 bytes)",
+            "change": 3,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*The construction of the ceiling (gypsum board., acoustical tile, etc)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#*The construction of the ceiling (gypsum bd., acoustical tile, etc)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13567763",
+            "user": "BR",
+            "timestamp": "15:25, 10 May 2014",
+            "anon": false,
+            "size": "(5,238 bytes)",
+            "change": -345,
+            "summary": "(Reverted edits by 71.132.143.45 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "",
+                    "== Warnings ==",
+                    "*The above description is wrong. Reflected ceiling plans are drawn as if youre laying on your back looking up at the ceiling. The plans are thus mirrior images, or, \"reflected\" of the floor plan.",
+                    "*The idea is that builders stand in the room with the plans and look up and what they see exactly matches the reflected ceiling plan."
+                ]
+            }
+        },
+        {
+            "id": "13567534",
+            "user": "71.132.143.45",
+            "timestamp": "14:54, 10 May 2014",
+            "anon": true,
+            "size": "(5,583 bytes)",
+            "change": 345,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Warnings ==",
+                    "*The above description is wrong. Reflected ceiling plans are drawn as if youre laying on your back looking up at the ceiling. The plans are thus mirrior images, or, \"reflected\" of the floor plan.",
+                    "*The idea is that builders stand in the room with the plans and look up and what they see exactly matches the reflected ceiling plan."
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "13506473",
+            "user": "Votebot",
+            "timestamp": "16:47, 4 May 2014",
+            "anon": false,
+            "size": "(5,238 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc."
+                ],
+                "removed": [
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc."
+                ]
+            }
+        },
+        {
+            "id": "12887838",
+            "user": "Wikiphoto",
+            "timestamp": "05:02, 5 March 2014",
+            "anon": false,
+            "size": "(5,238 bytes)",
+            "change": 200,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.<br><br>[[Image:Read a Reflected Ceiling Plan Step 1.jpg|center|550px]]",
+                    "#Imagine that the ceiling below you is transparent (see-through).<br><br>[[Image:Read a Reflected Ceiling Plan Step 2.jpg|center|550px]]",
+                    "#Visualize the ceiling over the floor below.<br><br>[[Image:Read a Reflected Ceiling Plan Step 3.jpg|center|550px]]",
+                    "#Read a reflected ceiling plan using this concept.<br><br>[[Image:Read a Reflected Ceiling Plan Step 4.jpg|center|550px]]",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.<br><br>[[Image:Read a Reflected Ceiling Plan Step 5.jpg|center|550px]]",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.<br><br>[[Image:Read a Reflected Ceiling Plan Step 6Bullet1.jpg|center|550px]]",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.<br><br>[[Image:Read a Reflected Ceiling Plan Step 6Bullet2.jpg|center|550px]]",
+                    "#*The construction of the ceiling (gypsum bd., acoustical tile, etc)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|center|550px]]",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet2.jpg|center|550px]]",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet3.jpg|center|550px]]",
+                    "#*Dimensions<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet4.jpg|center|550px]]",
+                    "#*A legend explaining the symbols on the RCP<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet5.jpg|center|550px]]",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet6.jpg|center|550px]]",
+                    "#*Section symbols to further explain the construction of any ceiling features<br><br>[[Image:Read a Reflected Ceiling Plan Step 7Bullet7.jpg|center|550px]]",
+                    "#*Speakers from a stereo or other communication device<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet1.jpg|center|550px]]",
+                    "#*Emergency lighting, exit signs<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet2.jpg|center|550px]]",
+                    "#*Security cameras or domes<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet3.jpg|center|550px]]",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet4.jpg|center|550px]]",
+                    "#*Smoke or fire alarm devices<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet5.jpg|center|550px]]",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet6.jpg|center|550px]]",
+                    "#*Exhaust fans<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet7.jpg|center|550px]]",
+                    "#*Seismic information and/ or details<br><br>[[Image:Read a Reflected Ceiling Plan Step 8Bullet8.jpg|center|550px]]",
+                    "#Refer to the engineers electrical drawings for:<br><br>[[Image:Read a Reflected Ceiling Plan Step 9.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#[[Image:Read a Reflected Ceiling Plan Step 1.jpg|right|300px]]Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 2.jpg|right|300px]]Imagine that the ceiling below you is transparent (see-through).",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 3.jpg|right|300px]]Visualize the ceiling over the floor below.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 4.jpg|right|300px]]Read a reflected ceiling plan using this concept.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 5.jpg|right|300px]]Notice how the reflected ceiling plan relates to the floor plan.",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 6Bullet1.jpg|right|300px]]In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 6Bullet2.jpg|right|300px]]When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|right|300px]]The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet2.jpg|right|300px]]A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet3.jpg|right|300px]]The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet4.jpg|right|300px]]Dimensions",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet5.jpg|right|300px]]A legend explaining the symbols on the RCP",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet6.jpg|right|300px]]An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet7.jpg|right|300px]]Section symbols to further explain the construction of any ceiling features",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet1.jpg|right|300px]]Speakers from a stereo or other communication device",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet2.jpg|right|300px]]Emergency lighting, exit signs",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet3.jpg|right|300px]]Security cameras or domes",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet4.jpg|right|300px]][[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet5.jpg|right|300px]]Smoke or fire alarm devices",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet6.jpg|right|300px]]Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet7.jpg|right|300px]]Exhaust fans",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet8.jpg|right|300px]]Seismic information and/ or details",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 9.jpg|right|300px]]Refer to the engineers electrical drawings for:<br><br>"
+                ]
+            }
+        },
+        {
+            "id": "12887835",
+            "user": "Wikiphoto",
+            "timestamp": "05:01, 5 March 2014",
+            "anon": false,
+            "size": "(5,038 bytes)",
+            "change": 1449,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 1.jpg|right|300px]]Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 2.jpg|right|300px]]Imagine that the ceiling below you is transparent (see-through).",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 3.jpg|right|300px]]Visualize the ceiling over the floor below.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 4.jpg|right|300px]]Read a reflected ceiling plan using this concept.",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 5.jpg|right|300px]]Notice how the reflected ceiling plan relates to the floor plan.",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 6Bullet1.jpg|right|300px]]In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 6Bullet2.jpg|right|300px]]When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:<br><br>",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet1.jpg|right|300px]]The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet2.jpg|right|300px]]A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet3.jpg|right|300px]]The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet4.jpg|right|300px]]Dimensions",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet5.jpg|right|300px]]A legend explaining the symbols on the RCP",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet6.jpg|right|300px]]An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 7Bullet7.jpg|right|300px]]Section symbols to further explain the construction of any ceiling features",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet1.jpg|right|300px]]Speakers from a stereo or other communication device",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet2.jpg|right|300px]]Emergency lighting, exit signs",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet3.jpg|right|300px]]Security cameras or domes",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet4.jpg|right|300px]][[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet5.jpg|right|300px]]Smoke or fire alarm devices",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet6.jpg|right|300px]]Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet7.jpg|right|300px]]Exhaust fans",
+                    "#*[[Image:Read a Reflected Ceiling Plan Step 8Bullet8.jpg|right|300px]]Seismic information and/ or details",
+                    "#[[Image:Read a Reflected Ceiling Plan Step 9.jpg|right|300px]]Refer to the engineers electrical drawings for:<br><br>"
+                ],
+                "removed": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces.",
+                    "#Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#Imagine that the ceiling below you is transparent (see-through).",
+                    "#Visualize the ceiling over the floor below.",
+                    "#Read a reflected ceiling plan using this concept.",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#[[Image:RCP1_173.jpg|thumb|click on image to enlarge]]Understand the information. An RCP should contain the following:<br><br>",
+                    "#*The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*Dimensions",
+                    "#*A legend explaining the symbols on the RCP",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*Section symbols to further explain the construction of any ceiling features",
+                    "#*Speakers from a stereo or other communication device",
+                    "#*Emergency lighting, exit signs",
+                    "#*Security cameras or domes",
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]",
+                    "#*Smoke or fire alarm devices",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system",
+                    "#*Exhaust fans",
+                    "#*Seismic information and/ or details",
+                    "#Refer to the engineers electrical drawings for:<br><br>"
+                ]
+            }
+        },
+        {
+            "id": "12872861",
+            "user": "Votebot",
+            "timestamp": "18:55, 3 March 2014",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*A reflected ceiling plan can be found in a set of construction drawings for a house or a retail store."
+                ],
+                "removed": [
+                    "*A reflected ceiling plan can be found in a set of construction drawings for a house or a retail store."
+                ]
+            }
+        },
+        {
+            "id": "12031877",
+            "user": "Votebot",
+            "timestamp": "18:45, 7 December 2013",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc."
+                ],
+                "removed": [
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc."
+                ]
+            }
+        },
+        {
+            "id": "11722905",
+            "user": "Votebot",
+            "timestamp": "21:17, 7 November 2013",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": -3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "11486433",
+            "user": "Votebot",
+            "timestamp": "22:18, 21 October 2013",
+            "anon": false,
+            "size": "(3,592 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10907018",
+            "user": "Quietbookworm",
+            "timestamp": "09:40, 24 August 2013",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": 0,
+            "summary": "(Reverted edits by 121.247.162.120 (Talk); changed back to last version by Votebot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a  DRAWING which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "10907011",
+            "user": "121.247.162.120",
+            "timestamp": "09:33, 24 August 2013",
+            "anon": true,
+            "size": "(3,589 bytes)",
+            "change": 8,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Quietbookworm",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a  DRAWING which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a  which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "10907009",
+            "user": "121.247.162.120",
+            "timestamp": "09:32, 24 August 2013",
+            "anon": true,
+            "size": "(3,581 bytes)",
+            "change": -8,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Quietbookworm",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a  which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "9019511",
+            "user": "Votebot",
+            "timestamp": "21:18, 11 January 2013",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "*A reflected ceiling plan layout must comply with local building codes, electrical codes as well as fire codes."
+                ],
+                "removed": [
+                    "*A reflected ceiling plan layout must comply with local building codes, electrical codes as well as fire codes."
+                ]
+            }
+        },
+        {
+            "id": "8718182",
+            "user": "WikiHow Traduce",
+            "timestamp": "01:03, 13 November 2012",
+            "anon": false,
+            "size": "(3,589 bytes)",
+            "change": 40,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:leer un plano de techo reflejado]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8539286",
+            "user": "112.209.77.75",
+            "timestamp": "06:35, 7 October 2012",
+            "anon": true,
+            "size": "(3,549 bytes)",
+            "change": 14,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Architects and interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8038096",
+            "user": "BeautyNBrains",
+            "timestamp": "14:39, 5 July 2012",
+            "anon": false,
+            "size": "(3,535 bytes)",
+            "change": 42,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Blueprints.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "6478892",
+            "user": "Wendy Weaver",
+            "timestamp": "00:40, 10 August 2011",
+            "anon": false,
+            "size": "(3,493 bytes)",
+            "change": 64,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Read Engineering Drawings|How to Read Engineering Drawings]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6286064",
+            "user": "Zevante101",
+            "timestamp": "18:41, 30 June 2011",
+            "anon": false,
+            "size": "(3,429 bytes)",
+            "change": -70,
+            "summary": "(Edit via Quality Guardian: Removed image that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces."
+                ],
+                "removed": [
+                    "[[Image:Parque Biblioteca España   Facilities.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "6285302",
+            "user": "Terizajac",
+            "timestamp": "15:45, 30 June 2011",
+            "anon": false,
+            "size": "(3,499 bytes)",
+            "change": 71,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Parque Biblioteca España   Facilities.jpg|thumb|right|251px]]A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces.",
+                    ""
+                ],
+                "removed": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces."
+                ]
+            }
+        },
+        {
+            "id": "3960528",
+            "user": "LinkTool",
+            "timestamp": "19:08, 29 October 2009",
+            "anon": false,
+            "size": "(3,428 bytes)",
+            "change": 35,
+            "summary": "(Adding keyword links for phrase sprinkler heads)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*[[Repair a Pop up Sprinkler Head|Sprinkler heads]]"
+                ],
+                "removed": [
+                    "#*Sprinkler heads"
+                ]
+            }
+        },
+        {
+            "id": "2302026",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "01:46, 15 July 2008",
+            "anon": false,
+            "size": "(3,393 bytes)",
+            "change": 310,
+            "summary": "(relateds)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Choose a Home Improvement Contractor|How to Choose a Home Improvement Contractor]]",
+                    "*[[Mix Mortar for Bricklaying or Stone|How to Mix Mortar for Bricklaying or Stone]]",
+                    "*[[Build Your Own Home (US)|How to Build Your Own Home (US)]]",
+                    "*[[Prepare a Foundation|How to Prepare a Foundation]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2290567",
+            "user": "Henryka",
+            "timestamp": "00:33, 12 July 2008",
+            "anon": false,
+            "size": "(3,083 bytes)",
+            "change": -30,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "{{inuse|date=2008-07-07}}<br>"
+                ]
+            }
+        },
+        {
+            "id": "2290359",
+            "user": "Henryka",
+            "timestamp": "23:55, 11 July 2008",
+            "anon": false,
+            "size": "(3,113 bytes)",
+            "change": 71,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan (RCP) is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces.",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP<br> from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown,they are shown dotted.",
+                    "#[[Image:RCP1_173.jpg|thumb|click on image to enlarge]]Understand the information. An RCP should contain the following:<br><br>",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits,<br> raised or vaulted areas, trim or decorative applications",
+                    "#*Return air grilles and supply air diffusers for the Heating,<br> Ventilating and Air Conditioning (HVAC) system"
+                ],
+                "removed": [
+                    "A reflected ceiling plan is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces.",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown, they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:<br><br>",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, trim or decorative applications",
+                    "#*Return air grilles and supply air diffusers for the Heating, ventilating and air conditioning (HVAC) system"
+                ]
+            }
+        },
+        {
+            "id": "2290298",
+            "user": "Henryka",
+            "timestamp": "23:34, 11 July 2008",
+            "anon": false,
+            "size": "(3,042 bytes)",
+            "change": 4,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#Observe the relationship of light fixtures to the furniture below.<br><br>",
+                    "#*In some cases, the items below are not shown, in order to keep the RCP from becoming too confusing.",
+                    "#*When furniture, fixtures or the millwork below are shown, they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:<br><br>",
+                    "#*The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#*A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#*The height of the ceiling above the finished floor (A.F.F.)",
+                    "#*Dimensions",
+                    "#*A legend explaining the symbols on the RCP",
+                    "#*An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, trim or decorative applications",
+                    "#*Section symbols to further explain the construction of any ceiling features",
+                    "#Look for special ceiling features on the RCP, such as:<br><br>",
+                    "#*Speakers from a stereo or other communication device",
+                    "#*Emergency lighting, exit signs",
+                    "#*Security cameras or domes",
+                    "#*Sprinkler heads",
+                    "#*Smoke or fire alarm devices",
+                    "#*Return air grilles and supply air diffusers for the Heating, ventilating and air conditioning (HVAC) system",
+                    "#*Exhaust fans",
+                    "#*Seismic information and/ or details",
+                    "#*Expansion joint information and/ or details",
+                    "#Refer to the engineers electrical drawings for:<br><br>",
+                    "#*Electrical wiring specifications",
+                    "#*Circuitry layout",
+                    "#*Connections to the electrical panel",
+                    "#*Location of switches"
+                ],
+                "removed": [
+                    "# Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#Observe the relationship of light fixtures to the furniture below",
+                    "#**\tIn some cases, the items below are not shown, in order to keep the RCP from becoming too confusing.",
+                    "#**\tWhen furniture, fixtures or the millwork below are shown, they are shown dotted.",
+                    "#Understand the information. An RCP should contain the following:",
+                    "#**The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#**A specification and/or finish (paint, stucco, etc.) of the ceiling material",
+                    "#**The height of the ceiling above the finished floor (A.F.F.)",
+                    "#**Dimensions",
+                    "#**A legend explaining the symbols on the RCP",
+                    "#**An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, trim or decorative applications",
+                    "#**Section symbols to further explain the construction of any ceiling features",
+                    "#  Look for special ceiling features on the RCP, such as:",
+                    "#**Speakers from a stereo or other communication device",
+                    "#**Emergency lighting, exit signs",
+                    "#**Security cameras or domes",
+                    "#**Sprinkler heads",
+                    "#**Smoke or fire alarm devices",
+                    "#**Return air grilles and supply air diffusers for the Heating, ventilating and air conditioning (HVAC) system",
+                    "#**Exhaust fans",
+                    "#**Seismic information and/ or details",
+                    "#**Expansion joint information and/ or details",
+                    "#  Refer to the engineers electrical drawings for:",
+                    "#**Electrical wiring specifications",
+                    "#**Circuitry layout",
+                    "#**Connections to the electrical panel",
+                    "#**Location of switches"
+                ]
+            }
+        },
+        {
+            "id": "2285830",
+            "user": "Henryka",
+            "timestamp": "00:30, 11 July 2008",
+            "anon": false,
+            "size": "(3,038 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Understand the information. An RCP should contain the following:"
+                ],
+                "removed": [
+                    "#  Understand the information. An RCP should contain the following:"
+                ]
+            }
+        },
+        {
+            "id": "2285763",
+            "user": "Henryka",
+            "timestamp": "00:14, 11 July 2008",
+            "anon": false,
+            "size": "(3,040 bytes)",
+            "change": 21,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#**The construction of the ceiling (gypsum bd., acoustical tile, etc)",
+                    "#**A specification and/or finish (paint, stucco, etc.) of the ceiling material"
+                ],
+                "removed": [
+                    "#**The construction of the ceiling (gypsum board, acoustical tile, etc), a specification and/ or a finish (paint, stucco, etc.)"
+                ]
+            }
+        },
+        {
+            "id": "2284684",
+            "user": "Henryka",
+            "timestamp": "20:16, 10 July 2008",
+            "anon": false,
+            "size": "(3,019 bytes)",
+            "change": 401,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#**Seismic information and/ or details",
+                    "#**Expansion joint information and/ or details",
+                    "*Interior designers and architects draw reflected ceiling plans and then pass them to their consulting engineering firm. The electrical engineer then adds the electrical circuitry, etc.",
+                    "*A reflected ceiling plan layout must comply with local building codes, electrical codes as well as fire codes.",
+                    "*[http://www.about-building-in-canada.com/construction-drawings.html Construction Drawings]",
+                    "*[http://www.about-building-in-canada.com/engineering.html Engineer’s Drawings]"
+                ],
+                "removed": [
+                    "*[http://www.about-building-in-canada.com/drawings.html Reflected Ceiling Plan]",
+                    "*[http://www.about-building-in-canada.com/designers.html Interior Designers]"
+                ]
+            }
+        },
+        {
+            "id": "2284611",
+            "user": "Henryka",
+            "timestamp": "19:54, 10 July 2008",
+            "anon": false,
+            "size": "(2,618 bytes)",
+            "change": 1179,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Observe the relationship of light fixtures to the furniture below",
+                    "#**\tIn some cases, the items below are not shown, in order to keep the RCP from becoming too confusing.",
+                    "#**\tWhen furniture, fixtures or the millwork below are shown, they are shown dotted.",
+                    "#  Understand the information. An RCP should contain the following:",
+                    "#**The construction of the ceiling (gypsum board, acoustical tile, etc), a specification and/ or a finish (paint, stucco, etc.)",
+                    "#**The height of the ceiling above the finished floor (A.F.F.)",
+                    "#**Dimensions",
+                    "#**A legend explaining the symbols on the RCP",
+                    "#**An explanation of any ceiling features such as bulkheads, soffits, raised or vaulted areas, trim or decorative applications",
+                    "#**Section symbols to further explain the construction of any ceiling features",
+                    "#  Look for special ceiling features on the RCP, such as:",
+                    "#**Speakers from a stereo or other communication device",
+                    "#**Emergency lighting, exit signs",
+                    "#**Security cameras or domes",
+                    "#**Sprinkler heads",
+                    "#**Smoke or fire alarm devices",
+                    "#**Return air grilles and supply air diffusers for the Heating, ventilating and air conditioning (HVAC) system",
+                    "#**Exhaust fans",
+                    "#  Refer to the engineers electrical drawings for:",
+                    "#**Electrical wiring specifications",
+                    "#**Circuitry layout",
+                    "#**Connections to the electrical panel",
+                    "#**Location of switches"
+                ],
+                "removed": [
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Ceiling1_250.jpg|thumb|click on image to enlarge]]"
+                ]
+            }
+        },
+        {
+            "id": "2270808",
+            "user": "Bulrush",
+            "timestamp": "20:06, 7 July 2008",
+            "anon": false,
+            "size": "(1,439 bytes)",
+            "change": 4,
+            "summary": "(Fix tag to {{inuse}})",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2008-07-07}}<br>"
+                ],
+                "removed": [
+                    "[[underconstruction]]<br>"
+                ]
+            }
+        },
+        {
+            "id": "2270729",
+            "user": "Henryka",
+            "timestamp": "19:44, 7 July 2008",
+            "anon": false,
+            "size": "(1,435 bytes)",
+            "change": 26,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[underconstruction]]<br>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2266667",
+            "user": "Henryka",
+            "timestamp": "20:46, 6 July 2008",
+            "anon": false,
+            "size": "(1,409 bytes)",
+            "change": 58,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Observe the relationship of light fixtures to the furniture below.[[Image:Ceiling1_250.jpg|thumb|click on image to enlarge]]"
+                ],
+                "removed": [
+                    "#Observe the relationship of light fixtures to the furniture below."
+                ]
+            }
+        },
+        {
+            "id": "2266586",
+            "user": "Henryka",
+            "timestamp": "20:16, 6 July 2008",
+            "anon": false,
+            "size": "(1,351 bytes)",
+            "change": 405,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Tips ==",
+                    "*A reflected ceiling plan can be found in a set of construction drawings for a house or a retail store.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*A drawing of a reflected ceiling plan and the floor plan that goes with it.",
+                    "",
+                    "== Sources and Citations ==",
+                    "*[http://www.about-building-in-canada.com/drawings.html Reflected Ceiling Plan]",
+                    "*[http://www.about-building-in-canada.com/designers.html Interior Designers]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "2266572",
+            "user": "Henryka",
+            "timestamp": "20:11, 6 July 2008",
+            "anon": false,
+            "size": "(946 bytes)",
+            "change": 946,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A reflected ceiling plan is a drawing, which shows the items that are located on the ceiling of a room or space. It is referred to as a reflected ceiling plan since it is drawn to display a view of the ceiling as if it was reflected onto a mirror on the floor. This way the reflected ceiling plan has the same orientation as the floor plan associated with it. It is as if the ceiling was see-through and you could see right through it to the floor below. Interior designers draw reflected ceiling plans when designing spaces.",
+                    "[[Category:Build Design & Remodel Own Home]]",
+                    "== Steps ==",
+                    "# Pretend that you are hovering a couple of feet above the ceiling.",
+                    "#Imagine that the ceiling below you is transparent (see-through).",
+                    "#Visualize the ceiling over the floor below.",
+                    "#Read a reflected ceiling plan using this concept.",
+                    "#Notice how the reflected ceiling plan relates to the floor plan.",
+                    "#Observe the relationship of light fixtures to the furniture below."
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "discussions": []
+}

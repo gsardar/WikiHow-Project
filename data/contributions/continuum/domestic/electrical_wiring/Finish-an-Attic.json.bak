@@ -1,0 +1,1259 @@
+{
+    "title": "Finish-an-Attic",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:31:29.974166",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34096601",
+            "user": "MiscBot",
+            "timestamp": "19:45, 19 February 2026",
+            "anon": false,
+            "size": "(9,906 bytes)",
+            "change": -42,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Finish Drywall]]"
+                ]
+            }
+        },
+        {
+            "id": "34080987",
+            "user": "MiscBot",
+            "timestamp": "02:46, 19 February 2026",
+            "anon": false,
+            "size": "(9,948 bytes)",
+            "change": 44,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Finish Drywall]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34065157",
+            "user": "MiscBot",
+            "timestamp": "19:36, 18 February 2026",
+            "anon": false,
+            "size": "(9,904 bytes)",
+            "change": -44,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Finish Drywall]]"
+                ]
+            }
+        },
+        {
+            "id": "33229232",
+            "user": "MiscBot",
+            "timestamp": "21:26, 10 March 2025",
+            "anon": false,
+            "size": "(9,948 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32969839",
+            "user": "Ayame_thestorm",
+            "timestamp": "00:01, 2 December 2024",
+            "anon": false,
+            "size": "(9,929 bytes)",
+            "change": 39,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Video ==",
+                    "{{Video:Finish an Attic|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32472596",
+            "user": "WikiHow Projects",
+            "timestamp": "03:42, 30 April 2024",
+            "anon": false,
+            "size": "(9,890 bytes)",
+            "change": -93,
+            "summary": "(removing broken link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Depending on your plan, you may want to also add room dividers or supplementary knee walls to your attic space. If there are any internal walls going up, [[Frame a Wall|frame them]] after installing the sub-floor, now that you've got a surface to build upon. If you want flat walls as opposed to the sloped walls you'll get in most attics, it would be appropriate to install a few knee walls."
+                ],
+                "removed": [
+                    "#*Depending on your plan, you may want to also add room dividers or supplementary knee walls to your attic space. If there are any internal walls going up, [[Frame a Wall|frame them]] after installing the sub-floor, now that you've got a surface to build upon. If you want flat walls as opposed to the sloped walls you'll get in most attics, it would be appropriate to install a few knee walls.<ref>http://www.diynetwork.com/how-to/how-to-finish-attic-walls-and-ceilings/index.html</ref>"
+                ]
+            }
+        },
+        {
+            "id": "31012661",
+            "user": "WikiHow Tester",
+            "timestamp": "18:16, 25 October 2022",
+            "anon": false,
+            "size": "(9,983 bytes)",
+            "change": -3,
+            "summary": "(Removing TYSK bolding for new format)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Install base boards, light fixtures, electrical outlets, and switch plate covers."
+                ],
+                "removed": [
+                    "*'''Install base boards, light fixtures, electrical outlets, and switch plate covers."
+                ]
+            }
+        },
+        {
+            "id": "31009941",
+            "user": "MiscBot",
+            "timestamp": "16:33, 25 October 2022",
+            "anon": false,
+            "size": "(9,986 bytes)",
+            "change": -12,
+            "summary": "(Reformatting the Things You Should Know section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "*Remove loose or blown insulation and install new [https://www.amazon.com/s?k=attic+insulation&crid=27Y8UHOXQXGRF&sprefix=attic+insulation%2Caps%2C168&ref=nb_sb_noss_1&tag=wikihow1537145-20 insulation] between wall studs.",
+                    "*Hang new drywall over the insulation and apply 2-3 coats of paint."
+                ],
+                "removed": [
+                    "*'''Remove loose or blown insulation and install new [https://www.amazon.com/s?k=attic+insulation&crid=27Y8UHOXQXGRF&sprefix=attic+insulation%2Caps%2C168&ref=nb_sb_noss_1&tag=wikihow1537145-20 insulation] between wall studs.'''",
+                    "*'''Hang new drywall over the insulation and apply 2-3 coats of paint.'''"
+                ]
+            }
+        },
+        {
+            "id": "30795496",
+            "user": "WikiHausLinks",
+            "timestamp": "21:14, 19 August 2022",
+            "anon": false,
+            "size": "(9,998 bytes)",
+            "change": 141,
+            "summary": "(Adding AL)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*'''Remove loose or blown insulation and install new [https://www.amazon.com/s?k=attic+insulation&crid=27Y8UHOXQXGRF&sprefix=attic+insulation%2Caps%2C168&ref=nb_sb_noss_1&tag=wikihow1537145-20 insulation] between wall studs.'''"
+                ],
+                "removed": [
+                    "*'''Remove loose or blown insulation and install new insulation between wall studs.'''"
+                ]
+            }
+        },
+        {
+            "id": "30469043",
+            "user": "Seymour Edits",
+            "timestamp": "23:11, 15 April 2022",
+            "anon": false,
+            "size": "(9,857 bytes)",
+            "change": -13,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*'''Remove loose or blown insulation and install new insulation between wall studs.'''"
+                ],
+                "removed": [
+                    "*'''Remove existing loose or blown insulation and install new insulation between the wall studs.'''"
+                ]
+            }
+        },
+        {
+            "id": "30469042",
+            "user": "Seymour Edits",
+            "timestamp": "23:10, 15 April 2022",
+            "anon": false,
+            "size": "(9,870 bytes)",
+            "change": 289,
+            "summary": "(added tysk)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Things You Should Know==",
+                    "*'''Remove existing loose or blown insulation and install new insulation between the wall studs.'''",
+                    "*'''Hang new drywall over the insulation and apply 2-3 coats of paint.'''",
+                    "*'''Install base boards, light fixtures, electrical outlets, and switch plate covers."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29886179",
+            "user": "MiscBot",
+            "timestamp": "01:09, 15 September 2021",
+            "anon": false,
+            "size": "(9,581 bytes)",
+            "change": 0,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Home Maintenance]]"
+                ],
+                "removed": [
+                    "[[Category:Attics and Lofts]]"
+                ]
+            }
+        },
+        {
+            "id": "29521774",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "10:43, 6 May 2021",
+            "anon": false,
+            "size": "(9,581 bytes)",
+            "change": -26,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Finish Your Basement]]"
+                ]
+            }
+        },
+        {
+            "id": "29147942",
+            "user": "Seymour Edits",
+            "timestamp": "00:40, 29 January 2021",
+            "anon": false,
+            "size": "(9,607 bytes)",
+            "change": 175,
+            "summary": "(adding expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Make sure the joists can support being walked on. Usually, attic joists can only support the ceiling below it but not someone's weight.<ref>[v161406_b01]. 8 May 2020.</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27722182",
+            "user": "Caitlynn L",
+            "timestamp": "20:08, 12 February 2020",
+            "anon": false,
+            "size": "(9,432 bytes)",
+            "change": 335,
+            "summary": "(minor fact checking edit for wikiHaus)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Warnings ==",
+                    "*If your home contains insulation manufactured between 1930 and 1950, you should proceed with caution since asbestos could be present. [[Test for Asbestos|Test for asbestos]] and call a professional to remove the insulation if the test is positive.<ref>https://atticareusa.com/blog/tips-attic-insulation-removal/</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26861799",
+            "user": "Seymour Edits",
+            "timestamp": "12:59, 31 July 2019",
+            "anon": false,
+            "size": "(9,097 bytes)",
+            "change": 478,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Make sure the attic has a full-size staircase. Building code also requires that the prospective attic living space be accessible by a  full-size staircase with at least 6-foot 8-inch clearance above it. Attics only accessible by trapdoor style staircases or ladders aren't technically \"finishable.\"<ref>https://www.bobvila.com/articles/attic-conversion/#.UyoDEP3B7Kw</ref>  [[Image:1537145 2.jpg|center|416px]]",
+                    "#Make certain the attic has two exits. To satisfy fire codes, the attic must have an alternative exist in the event of an emergency. An easily accessible window counts, or some other variety of exit from the attic.<ref>https://www.houselogic.com/by-room/basement-attic/evaluate-your-house-attic-bedroom/</ref>  [[Image:1537145 3.jpg|center|416px]]",
+                    "#Get the proper home building permit in your area. To make sure your project will be legal and up to code, you'll need to schedule an inspection at some point when the project is finished and obtain the necessary building permits from the city. Generally, these will be available from the Housing Commission or the City Planning department.<ref>https://www.houselogic.com/by-room/basement-attic/evaluate-your-house-attic-bedroom/</ref>  [[Image:1537145 5.jpg|center|416px]]",
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.<ref>https://atticareusa.com/blog/tips-attic-insulation-removal/</ref> [[Image:1537145 6.jpg|center]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]].<ref>https://www.budgetdumpster.com/blog/attic-room-conversion/</ref>  Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by {{convert|8|ft|m|sigfig=2}} (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.[[Image:Finish an Attic Step 6.jpg|center]]",
+                    "#[[Paint a Room|Prime and paint the walls]]. It may take 2 to 3 coats to cover the new drywall.<ref>https://www.budgetdumpster.com/blog/attic-room-conversion/</ref>  Before you put up wallpaper or decorate the walls in any other way, it's important to put down a primer coat to create an even surface amenable to your project.[[Image:Finish an Attic Step 7.jpg|center]]"
+                ],
+                "removed": [
+                    "#Make sure the attic has a full-size staircase. Building code also requires that the prospective attic living space be accessible by a  full-size staircase with at least 6-foot 8-inch clearance above it. Attics only accessible by trapdoor style staircases or ladders aren't technically \"finishable.\" [[Image:1537145 2.jpg|center|416px]]",
+                    "#Make certain the attic has two exits. To satisfy fire codes, the attic must have an alternative exist in the event of an emergency. An easily accessible window counts, or some other variety of exit from the attic. [[Image:1537145 3.jpg|center|416px]]",
+                    "#Get the proper home building permit in your area. To make sure your project will be legal and up to code, you'll need to schedule an inspection at some point when the project is finished and obtain the necessary building permits from the city. Generally, these will be available from the Housing Commission or the City Planning department. [[Image:1537145 5.jpg|center|416px]]",
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.[[Image:1537145 6.jpg|center]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by {{convert|8|ft|m|sigfig=2}} (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.[[Image:Finish an Attic Step 6.jpg|center]]",
+                    "#[[Paint a Room|Prime and paint the walls]]. It may take 2 to 3 coats to cover the new drywall. Before you put up wallpaper or decorate the walls in any other way, it's important to put down a primer coat to create an even surface amenable to your project.[[Image:Finish an Attic Step 7.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26285315",
+            "user": "MiscBot",
+            "timestamp": "01:56, 29 March 2019",
+            "anon": false,
+            "size": "(8,619 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "25387878",
+            "user": "Seymour Edits",
+            "timestamp": "18:27, 9 October 2018",
+            "anon": false,
+            "size": "(8,630 bytes)",
+            "change": 134,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Finish-an-Attic}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "21941244",
+            "user": "UnitGuardian",
+            "timestamp": "13:12, 26 February 2017",
+            "anon": false,
+            "size": "(8,496 bytes)",
+            "change": 28,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Lay a sub-floor, if necessary. Most attics will need a sub-floor to be laid that you can build on top of. Cut sub-floor panels to the appropriate size and install them over the joist beams. Screw down into joists at {{convert|3|ft|m|adj=on|sigfig=2}} (91.44 cm) intervals using wood screws.[[Image:Finish an Attic Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Lay a sub-floor, if necessary. Most attics will need a sub-floor to be laid that you can build on top of. Cut sub-floor panels to the appropriate size and install them over the joist beams. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.[[Image:Finish an Attic Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "21765170",
+            "user": "UnitGuardian",
+            "timestamp": "13:31, 30 January 2017",
+            "anon": false,
+            "size": "(8,468 bytes)",
+            "change": 21,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by {{convert|8|ft|m|sigfig=2}} (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.[[Image:Finish an Attic Step 6.jpg|center]]"
+                ],
+                "removed": [
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.[[Image:Finish an Attic Step 6.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "21255298",
+            "user": "Flickety",
+            "timestamp": "19:46, 31 October 2016",
+            "anon": false,
+            "size": "(8,447 bytes)",
+            "change": -47,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage.",
+                    "",
+                    "[[Category:Attics and Lofts]]",
+                    ""
+                ],
+                "removed": [
+                    "Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information.",
+                    "[[Category:Build Design & Remodel Own Home]]"
+                ]
+            }
+        },
+        {
+            "id": "19388418",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:51, 12 January 2016",
+            "anon": false,
+            "size": "(8,494 bytes)",
+            "change": -50,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Finish Your Basement]]",
+                    "*[[Finish Drywall]]"
+                ],
+                "removed": [
+                    "*[[Finish Your Basement|How to Finish Your Basement]]",
+                    "*[[Finish Drywall|How to Finish Drywall]]"
+                ]
+            }
+        },
+        {
+            "id": "18099809",
+            "user": "MiscBot",
+            "timestamp": "10:07, 29 July 2015",
+            "anon": false,
+            "size": "(8,544 bytes)",
+            "change": -112,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.[[Image:1537145 6.jpg|center]]",
+                    "#Lay a sub-floor, if necessary. Most attics will need a sub-floor to be laid that you can build on top of. Cut sub-floor panels to the appropriate size and install them over the joist beams. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.[[Image:Finish an Attic Step 2.jpg|center]]",
+                    "#[[Install an Electrical Outlet from Scratch|Wire the attic for electricity]]. Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).[[Image:Finish an Attic Step 4.jpg|center]]",
+                    "#[[Insulate Walls|Install new rolled insulation between the wall studs]]. Cut each strip, or batt, to the exact length of the cavity. Press them in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.[[Image:Finish an Attic Step 5.jpg|center]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.[[Image:Finish an Attic Step 6.jpg|center]]",
+                    "#[[Paint a Room|Prime and paint the walls]]. It may take 2 to 3 coats to cover the new drywall. Before you put up wallpaper or decorate the walls in any other way, it's important to put down a primer coat to create an even surface amenable to your project.[[Image:Finish an Attic Step 7.jpg|center]]",
+                    "#Install the flooring. In attics, carpeting is popular to cut down on the noise of upstairs traffic. If you want to lay hardwood floors, consider putting down some substantial rugs both to cut the noise component and to keep the room feeling comfortable.<ref>http://www.thisoldhouse.com/toh/photos/0,,20533380_21062308,00.html</ref>[[Image:Finish an Attic Step 8.jpg|center]]",
+                    "#Trim the room and decorate. Install base boards, light fixtures, electrical outlets and switch plate covers. Decorate the room to your taste. Attic space makes for a popular: [[Image:Finish an Attic Step 9.jpg|center]]"
+                ],
+                "removed": [
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.<br><br>[[Image:1537145 6.jpg|center|416px]]",
+                    "#Lay a sub-floor, if necessary. Most attics will need a sub-floor to be laid that you can build on top of. Cut sub-floor panels to the appropriate size and install them over the joist beams. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.<br><br>[[Image:Finish an Attic Step 2.jpg|center|550px]]",
+                    "#[[Install an Electrical Outlet from Scratch|Wire the attic for electricity]]. Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).<br><br>[[Image:Finish an Attic Step 4.jpg|center|550px]]",
+                    "#[[Insulate Walls|Install new rolled insulation between the wall studs]]. Cut each strip, or batt, to the exact length of the cavity. Press them in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.<br><br>[[Image:Finish an Attic Step 5.jpg|center|550px]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]",
+                    "#[[Paint a Room|Prime and paint the walls]]. It may take 2 to 3 coats to cover the new drywall. Before you put up wallpaper or decorate the walls in any other way, it's important to put down a primer coat to create an even surface amenable to your project.<br><br>[[Image:Finish an Attic Step 7.jpg|center|550px]]",
+                    "#Install the flooring. In attics, carpeting is popular to cut down on the noise of upstairs traffic. If you want to lay hardwood floors, consider putting down some substantial rugs both to cut the noise component and to keep the room feeling comfortable.<ref>http://www.thisoldhouse.com/toh/photos/0,,20533380_21062308,00.html</ref><br><br>[[Image:Finish an Attic Step 8.jpg|center|550px]]",
+                    "#Trim the room and decorate. Install base boards, light fixtures, electrical outlets and switch plate covers. Decorate the room to your taste. Attic space makes for a popular: <br><br>[[Image:Finish an Attic Step 9.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17968232",
+            "user": "InterwikiBot",
+            "timestamp": "19:30, 27 July 2015",
+            "anon": false,
+            "size": "(8,656 bytes)",
+            "change": -111,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:finalizar un ático]]",
+                    "[[ru:переоборудовать чердак в жилое помещение]]"
+                ]
+            }
+        },
+        {
+            "id": "17866179",
+            "user": "MiscBot",
+            "timestamp": "19:26, 21 July 2015",
+            "anon": false,
+            "size": "(8,767 bytes)",
+            "change": -1,
+            "summary": "(Correcting spelling and/or grammar.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*While it may seem like an easy-to-skip step, there's the possibility of legal trouble if you try to sell your house later and you've remodeled without obtaining the legal permits necessary to complete the task. Play it safe and get the right paperwork."
+                ],
+                "removed": [
+                    "#*While it may seem like an easy-to-skip step, there's the possibility of legal trouble if you try and sell your house later and you've remodeled without obtaining the legal permits necessary to complete the task. Play it safe and get the right paperwork."
+                ]
+            }
+        },
+        {
+            "id": "17193998",
+            "user": "Wikiphoto",
+            "timestamp": "05:18, 24 April 2015",
+            "anon": false,
+            "size": "(8,768 bytes)",
+            "change": -13,
+            "summary": "(adding image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.<br><br>[[Image:1537145 6.jpg|center|416px]]"
+                ],
+                "removed": [
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.<br><br>[[Image:Finish an Attic Step 1.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "16544546",
+            "user": "MiscBot",
+            "timestamp": "19:22, 4 February 2015",
+            "anon": false,
+            "size": "(8,781 bytes)",
+            "change": -1,
+            "summary": "(Correcting spelling and/or grammar.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Check the ceiling height. For a finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least {{convert|7|ft|m|1}} of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least {{convert|7|ft|m|1}} in each direction. At least 50 percent of the attic space must have {{convert|7|ft|m|adj=on|1}} clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref> [[Image:1537145 1.jpg|center|416px]]"
+                ],
+                "removed": [
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least {{convert|7|ft|m|1}} of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least {{convert|7|ft|m|1}} in each direction. At least 50 percent of the attic space must have {{convert|7|ft|m|adj=on|1}} clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref> [[Image:1537145 1.jpg|center|416px]]"
+                ]
+            }
+        },
+        {
+            "id": "16193171",
+            "user": "Chris H",
+            "timestamp": "23:42, 19 December 2014",
+            "anon": false,
+            "size": "(8,782 bytes)",
+            "change": -28,
+            "summary": "(removing tag, readers report high helpfulness)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information."
+                ],
+                "removed": [
+                    "{{accuracy|date=2014-11-23}}Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information."
+                ]
+            }
+        },
+        {
+            "id": "15969116",
+            "user": "Bobbyfrank",
+            "timestamp": "00:41, 23 November 2014",
+            "anon": false,
+            "size": "(8,810 bytes)",
+            "change": 28,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{accuracy|date=2014-11-23}}Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information."
+                ],
+                "removed": [
+                    "Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information."
+                ]
+            }
+        },
+        {
+            "id": "15860646",
+            "user": "MiscBot",
+            "timestamp": "19:12, 10 November 2014",
+            "anon": false,
+            "size": "(8,782 bytes)",
+            "change": 63,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least {{convert|7|ft|m|1}} of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least {{convert|7|ft|m|1}} in each direction. At least 50 percent of the attic space must have {{convert|7|ft|m|adj=on|1}} clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref> [[Image:1537145 1.jpg|center|416px]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of {{convert|4|ft|m|1}} by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least 7 feet of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least 7 feet in each direction. At least 50 percent of the attic space must have 7 foot clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref> [[Image:1537145 1.jpg|center|416px]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of 4 feet by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15092336",
+            "user": "Wikiphoto",
+            "timestamp": "14:39, 17 August 2014",
+            "anon": false,
+            "size": "(8,719 bytes)",
+            "change": 219,
+            "summary": "(adding images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least 7 feet of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least 7 feet in each direction. At least 50 percent of the attic space must have 7 foot clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref> [[Image:1537145 1.jpg|center|416px]]",
+                    "#Make sure the attic has a full-size staircase. Building code also requires that the prospective attic living space be accessible by a  full-size staircase with at least 6-foot 8-inch clearance above it. Attics only accessible by trapdoor style staircases or ladders aren't technically \"finishable.\" [[Image:1537145 2.jpg|center|416px]]",
+                    "#Make certain the attic has two exits. To satisfy fire codes, the attic must have an alternative exist in the event of an emergency. An easily accessible window counts, or some other variety of exit from the attic. [[Image:1537145 3.jpg|center|416px]]",
+                    "#[[Frame a Dormer|Install a dormer if your attic isn't up to code]]. If you're committed to finishing your attic, but the measurements just don't add up, you can consult an architect to design an expansion if you're willing to get into a much bigger project.<ref>http://www.bobvila.com/articles/attic-conversion/#.UyoDEP3B7Kw</ref> [[Image:1537145 4.jpg|center|416px]]",
+                    "#Get the proper home building permit in your area. To make sure your project will be legal and up to code, you'll need to schedule an inspection at some point when the project is finished and obtain the necessary building permits from the city. Generally, these will be available from the Housing Commission or the City Planning department. [[Image:1537145 5.jpg|center|416px]]",
+                    "#Spend extra on the ceiling. Instinctively, eyes will be drawn to the sloped ceiling in most attics, so it's a good idea to plan accordingly and finish it with an attractive texture. Wood panels are popular, as well as bead board. Use varying lengths of wood to produce an interesting an asymmetrical effect to play with the space. [[Image:1537145 12.jpg|center|416px]]"
+                ],
+                "removed": [
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least 7 feet of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least 7 feet in each direction. At least 50 percent of the attic space must have 7 foot clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref>",
+                    "#Make sure the attic has a full-size staircase. Building code also requires that the prospective attic living space be accessible by a  full-size staircase with at least 6-foot 8-inch clearance above it. Attics only accessible by trapdoor style staircases or ladders aren't technically \"finishable.\"",
+                    "#Make certain the attic has two exits. To satisfy fire codes, the attic must have an alternative exist in the event of an emergency. An easily accessible window counts, or some other variety of exit from the attic.",
+                    "#[[Frame a Dormer|Install a dormer if your attic isn't up to code]]. If you're committed to finishing your attic, but the measurements just don't add up, you can consult an architect to design an expansion if you're willing to get into a much bigger project.<ref>http://www.bobvila.com/articles/attic-conversion/#.UyoDEP3B7Kw</ref>",
+                    "#Get the proper home building permit in your area. To make sure your project will be legal and up to code, you'll need to schedule an inspection at some point when the project is finished and obtain the necessary building permits from the city. Generally, these will be available from the Housing Commission or the City Planning department.",
+                    "#Spend extra on the ceiling. Instinctively, eyes will be drawn to the sloped ceiling in most attics, so it's a good idea to plan accordingly and finish it with an attractive texture. Wood panels are popular, as well as bead board. Use varying lengths of wood to produce an interesting an asymmetrical effect to play with the space."
+                ]
+            }
+        },
+        {
+            "id": "14159558",
+            "user": "Isorhythmic",
+            "timestamp": "03:58, 8 July 2014",
+            "anon": false,
+            "size": "(8,500 bytes)",
+            "change": 28,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Finish Your Basement|How to Finish Your Basement]]"
+                ],
+                "removed": [
+                    "*[[Finish Your Basement]]"
+                ]
+            }
+        },
+        {
+            "id": "14159553",
+            "user": "Isorhythmic",
+            "timestamp": "03:57, 8 July 2014",
+            "anon": false,
+            "size": "(8,472 bytes)",
+            "change": 26,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*[[Finish Your Basement]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14159535",
+            "user": "Isorhythmic",
+            "timestamp": "03:54, 8 July 2014",
+            "anon": false,
+            "size": "(8,446 bytes)",
+            "change": 2,
+            "summary": "(→‎Tips)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need one before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed."
+                ],
+                "removed": [
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need 1 before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed."
+                ]
+            }
+        },
+        {
+            "id": "13826257",
+            "user": "InterwikiBot",
+            "timestamp": "17:50, 4 June 2014",
+            "anon": false,
+            "size": "(8,444 bytes)",
+            "change": 84,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:переоборудовать чердак в жилое помещение]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13687034",
+            "user": "InterwikiBot",
+            "timestamp": "17:20, 22 May 2014",
+            "anon": false,
+            "size": "(8,360 bytes)",
+            "change": 27,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:finalizar un ático]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13084157",
+            "user": "TJean",
+            "timestamp": "19:41, 25 March 2014",
+            "anon": false,
+            "size": "(8,333 bytes)",
+            "change": 0,
+            "summary": "(Copyediting)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#*Bedroom for a teenager",
+                    "#*Artist studio",
+                    "#*Office",
+                    "#*Crash pad",
+                    "#*Man-cave",
+                    "#*Band practice space"
+                ],
+                "removed": [
+                    "#*bedroom for a teenager",
+                    "#*artist studio",
+                    "#*office",
+                    "#*crash pad",
+                    "#*man-cave",
+                    "#*band practice space"
+                ]
+            }
+        },
+        {
+            "id": "13030312",
+            "user": "Jakesoup",
+            "timestamp": "22:19, 19 March 2014",
+            "anon": false,
+            "size": "(8,333 bytes)",
+            "change": 3696,
+            "summary": "(weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Converting your attic into usable finished space can increase the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space. You can learn the proper code specifications and plan to insulate and wire your attic for better purposes than storage. See Step 1 for more information.",
+                    "===Building to Code===",
+                    "#Check the ceiling height. For an finished attic to be to code, it must satisfy the same living requirements of other rooms, sometimes called the \"rule of sevens.\" Any living space in a home needs to have at least 7 feet of clearance from the floor to the ceiling, and there needs to be at least 70 square feet of space available, at least 7 feet in each direction. At least 50 percent of the attic space must have 7 foot clearance.<ref>http://www.thisoldhouse.com/toh/article/0,,20267119,00.html</ref>",
+                    "#*Measure the clearance and estimate the square footage of your attic. If it satisfies this and the following criteria in this section, you're good go get started in finishing the project.",
+                    "#Make sure the attic has a full-size staircase. Building code also requires that the prospective attic living space be accessible by a  full-size staircase with at least 6-foot 8-inch clearance above it. Attics only accessible by trapdoor style staircases or ladders aren't technically \"finishable.\"",
+                    "#Make certain the attic has two exits. To satisfy fire codes, the attic must have an alternative exist in the event of an emergency. An easily accessible window counts, or some other variety of exit from the attic.",
+                    "#[[Frame a Dormer|Install a dormer if your attic isn't up to code]]. If you're committed to finishing your attic, but the measurements just don't add up, you can consult an architect to design an expansion if you're willing to get into a much bigger project.<ref>http://www.bobvila.com/articles/attic-conversion/#.UyoDEP3B7Kw</ref>",
+                    "#Get the proper home building permit in your area. To make sure your project will be legal and up to code, you'll need to schedule an inspection at some point when the project is finished and obtain the necessary building permits from the city. Generally, these will be available from the Housing Commission or the City Planning department.",
+                    "#*While it may seem like an easy-to-skip step, there's the possibility of legal trouble if you try and sell your house later and you've remodeled without obtaining the legal permits necessary to complete the task. Play it safe and get the right paperwork.",
+                    "===Insulating and Wiring===",
+                    "#Remove any existing loose or blown insulation in the attic. Use a builder's vacuum to get all of the small pieces cleaned out of the area. You might consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands, which can be hazardous.<br><br>[[Image:Finish an Attic Step 1.jpg|center|550px]]",
+                    "#Lay a sub-floor, if necessary. Most attics will need a sub-floor to be laid that you can build on top of. Cut sub-floor panels to the appropriate size and install them over the joist beams. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.<br><br>[[Image:Finish an Attic Step 2.jpg|center|550px]]",
+                    "#*Depending on your plan, you may want to also add room dividers or supplementary knee walls to your attic space. If there are any internal walls going up, [[Frame a Wall|frame them]] after installing the sub-floor, now that you've got a surface to build upon. If you want flat walls as opposed to the sloped walls you'll get in most attics, it would be appropriate to install a few knee walls.<ref>http://www.diynetwork.com/how-to/how-to-finish-attic-walls-and-ceilings/index.html</ref>",
+                    "#[[Install an Electrical Outlet from Scratch|Wire the attic for electricity]]. Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).<br><br>[[Image:Finish an Attic Step 4.jpg|center|550px]]",
+                    "#*Unless you have electrical experience, it is a good idea to hire a professional to do the electrical work to ensure that it meets or exceeds current code requirements.",
+                    "#[[Insulate Walls|Install new rolled insulation between the wall studs]]. Cut each strip, or batt, to the exact length of the cavity. Press them in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.<br><br>[[Image:Finish an Attic Step 5.jpg|center|550px]]",
+                    "#[[Install Drywall|Hang drywall over the wall insulation]]. Hang drywall in sheet-sized sections of 4 feet by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]",
+                    "#* Apply drywall tape over all the seams, then apply drywall mud over the tape, using a mud blade. Slather it on thick and then scrape the excess off with the edge of the blade. Allow to dry before proceeding.",
+                    "===Finishing the Attic===",
+                    "#[[Paint a Room|Prime and paint the walls]]. It may take 2 to 3 coats to cover the new drywall. Before you put up wallpaper or decorate the walls in any other way, it's important to put down a primer coat to create an even surface amenable to your project.<br><br>[[Image:Finish an Attic Step 7.jpg|center|550px]]",
+                    "#*Painting the attic room white is a popular choice to create the sense of space in what can seem somewhat cramped of an area. If you're happy giving the walls a frequent scrubbing, consider a nice white shade and color scheme for the room.",
+                    "#Spend extra on the ceiling. Instinctively, eyes will be drawn to the sloped ceiling in most attics, so it's a good idea to plan accordingly and finish it with an attractive texture. Wood panels are popular, as well as bead board. Use varying lengths of wood to produce an interesting an asymmetrical effect to play with the space.",
+                    "#Install the flooring. In attics, carpeting is popular to cut down on the noise of upstairs traffic. If you want to lay hardwood floors, consider putting down some substantial rugs both to cut the noise component and to keep the room feeling comfortable.<ref>http://www.thisoldhouse.com/toh/photos/0,,20533380_21062308,00.html</ref><br><br>[[Image:Finish an Attic Step 8.jpg|center|550px]]",
+                    "#Trim the room and decorate. Install base boards, light fixtures, electrical outlets and switch plate covers. Decorate the room to your taste. Attic space makes for a popular: <br><br>[[Image:Finish an Attic Step 9.jpg|center|550px]]",
+                    "#*bedroom for a teenager",
+                    "#*artist studio",
+                    "#*office",
+                    "#*crash pad",
+                    "#*man-cave",
+                    "#*band practice space",
+                    "{{reflist}}",
+                    "",
+                    "__Part__"
+                ],
+                "removed": [
+                    "Converting your attic into usable finished space increases the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space.",
+                    "",
+                    "# Remove any existing loose or blown insulation in the attic. Use a builders vacuum to get all of the small pieces. Consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands.<br><br>[[Image:Finish an Attic Step 1.jpg|center|550px]]",
+                    "#  Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.<br><br>[[Image:Finish an Attic Step 2.jpg|center|550px]]",
+                    "#  If there are any internal walls going up, frame that after installing the sub-floor.<br><br>[[Image:Finish an Attic Step 3.jpg|center|550px]]",
+                    "# Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).<br><br>[[Image:Finish an Attic Step 4.jpg|center|550px]]",
+                    "#  Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.<br><br>[[Image:Finish an Attic Step 5.jpg|center|550px]]",
+                    "# Drywall over the wall insulation.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]",
+                    "#* Hang drywall in sheet sized sections of 4 feet by 8 feet (121.92 cm by 243.84 cm) with drywall screws at 8 inch (20.32 cm) intervals. Cut smaller drywall pieces with a razor knife to fill in the remaining areas.",
+                    "#* Apply drywall tape over all the seams.",
+                    "#* Apply drywall mud over the tape with a mud blade. Slather it on thick and then scrape the excess off with the edge of the blade. Allow to dry.",
+                    "# Prime and paint the walls. It may take 2 to 3 coats to cover the new drywall.<br><br>[[Image:Finish an Attic Step 7.jpg|center|550px]]",
+                    "# Install the flooring being careful not to scratch the fresh paint.<br><br>[[Image:Finish an Attic Step 8.jpg|center|550px]]",
+                    "# Trim the room. Install base boards, light fixtures, electrical outlet and switch plate covers and caulk any gaps.<br><br>[[Image:Finish an Attic Step 9.jpg|center|550px]]",
+                    "*Unless you have electrical experience, it is a good idea to hire a professional to do the electrical work to ensure that it meets or exceeds current code requirements.",
+                    "*[http://www.thisoldhouse.com/toh/article/0,,20267119,00.html http://www.thisoldhouse.com/toh/article/0,,20267119,00.html]",
+                    "*[http://frametofinishwi.com/attic.html http://frametofinishwi.com/attic.html]",
+                    "*[http://artisanremod.com/gallery_attic.html http://artisanremod.com/gallery_attic.html]",
+                    "*[http://www.insulationdoctor.com/installing-roll-insulation.php http://www.insulationdoctor.com/installing-roll-insulation.php]",
+                    "*[http://www.thisoldhouse.com/toh/how-to/intro/0,,217215,00.html http://www.thisoldhouse.com/toh/how-to/intro/0,,217215,00.html]"
+                ]
+            }
+        },
+        {
+            "id": "12908814",
+            "user": "Votebot",
+            "timestamp": "19:10, 6 March 2014",
+            "anon": false,
+            "size": "(4,637 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ],
+                "removed": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ]
+            }
+        },
+        {
+            "id": "12753176",
+            "user": "Wikiphoto",
+            "timestamp": "17:08, 20 February 2014",
+            "anon": false,
+            "size": "(4,637 bytes)",
+            "change": 82,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Remove any existing loose or blown insulation in the attic. Use a builders vacuum to get all of the small pieces. Consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands.<br><br>[[Image:Finish an Attic Step 1.jpg|center|550px]]",
+                    "#  Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.<br><br>[[Image:Finish an Attic Step 2.jpg|center|550px]]",
+                    "#  If there are any internal walls going up, frame that after installing the sub-floor.<br><br>[[Image:Finish an Attic Step 3.jpg|center|550px]]",
+                    "# Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).<br><br>[[Image:Finish an Attic Step 4.jpg|center|550px]]",
+                    "#  Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.<br><br>[[Image:Finish an Attic Step 5.jpg|center|550px]]",
+                    "# Drywall over the wall insulation.<br><br>[[Image:Finish an Attic Step 6.jpg|center|550px]]",
+                    "# Prime and paint the walls. It may take 2 to 3 coats to cover the new drywall.<br><br>[[Image:Finish an Attic Step 7.jpg|center|550px]]",
+                    "# Install the flooring being careful not to scratch the fresh paint.<br><br>[[Image:Finish an Attic Step 8.jpg|center|550px]]",
+                    "# Trim the room. Install base boards, light fixtures, electrical outlet and switch plate covers and caulk any gaps.<br><br>[[Image:Finish an Attic Step 9.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Finish an Attic Step 1.jpg|right|300px]]Remove any existing loose or blown insulation in the attic. Use a builders vacuum to get all of the small pieces. Consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands.",
+                    "#  [[Image:Finish an Attic Step 2.jpg|right|300px]]Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.",
+                    "#  [[Image:Finish an Attic Step 3.jpg|right|300px]]If there are any internal walls going up, frame that after installing the sub-floor.",
+                    "# [[Image:Finish an Attic Step 4.jpg|right|300px]]Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).",
+                    "#  [[Image:Finish an Attic Step 5.jpg|right|300px]]Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.",
+                    "# [[Image:Finish an Attic Step 6.jpg|right|300px]]Drywall over the wall insulation.",
+                    "# [[Image:Finish an Attic Step 7.jpg|right|300px]]Prime and paint the walls. It may take 2 to 3 coats to cover the new drywall.",
+                    "# [[Image:Finish an Attic Step 8.jpg|right|300px]]Install the flooring being careful not to scratch the fresh paint.",
+                    "# [[Image:Finish an Attic Step 9.jpg|right|300px]]Trim the room. Install base boards, light fixtures, electrical outlet and switch plate covers and caulk any gaps."
+                ]
+            }
+        },
+        {
+            "id": "12753175",
+            "user": "Wikiphoto",
+            "timestamp": "17:08, 20 February 2014",
+            "anon": false,
+            "size": "(4,555 bytes)",
+            "change": 370,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Converting your attic into usable finished space increases the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space.",
+                    "# [[Image:Finish an Attic Step 1.jpg|right|300px]]Remove any existing loose or blown insulation in the attic. Use a builders vacuum to get all of the small pieces. Consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands.",
+                    "#  [[Image:Finish an Attic Step 2.jpg|right|300px]]Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.",
+                    "#  [[Image:Finish an Attic Step 3.jpg|right|300px]]If there are any internal walls going up, frame that after installing the sub-floor.",
+                    "# [[Image:Finish an Attic Step 4.jpg|right|300px]]Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).",
+                    "#  [[Image:Finish an Attic Step 5.jpg|right|300px]]Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.",
+                    "# [[Image:Finish an Attic Step 6.jpg|right|300px]]Drywall over the wall insulation.",
+                    "# [[Image:Finish an Attic Step 7.jpg|right|300px]]Prime and paint the walls. It may take 2 to 3 coats to cover the new drywall.",
+                    "# [[Image:Finish an Attic Step 8.jpg|right|300px]]Install the flooring being careful not to scratch the fresh paint.",
+                    "# [[Image:Finish an Attic Step 9.jpg|right|300px]]Trim the room. Install base boards, light fixtures, electrical outlet and switch plate covers and caulk any gaps."
+                ],
+                "removed": [
+                    "[[Image:Attic floor and Walls Finished.jpg|thumb|right|251px]]Converting your attic into usable finished space increases the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space.",
+                    "# Remove any existing loose or blown insulation in the attic. Use a builders vacuum to get all of the small pieces. Consider renting a commercial air purifier for the duration of the project to minimize the possibility of inhaling the tiny insulation strands.",
+                    "#  Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.",
+                    "#  If there are any internal walls going up, frame that after installing the sub-floor.",
+                    "# Install the electrical wiring across the ceiling to the designated spots where the light fixtures will be hung, leaving an 8 inch (20.32 cm) wire hanging (called a lighting pigtail) to connect the light fixtures. Run the electrical wire to the electrical outlets. As a rule of thumb there should be at least 1 electrical outlet every 10 feet (3.05 m).",
+                    "#  Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.",
+                    "# Drywall over the wall insulation.",
+                    "# Prime and paint the walls. It may take 2 to 3 coats to cover the new drywall.",
+                    "# Install the flooring being careful not to scratch the fresh paint.",
+                    "# Trim the room. Install base boards, light fixtures, electrical outlet and switch plate covers and caulk any gaps."
+                ]
+            }
+        },
+        {
+            "id": "12361046",
+            "user": "Votebot",
+            "timestamp": "18:44, 10 January 2014",
+            "anon": false,
+            "size": "(4,185 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect.",
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need 1 before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed."
+                ],
+                "removed": [
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need 1 before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed.",
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ]
+            }
+        },
+        {
+            "id": "12099433",
+            "user": "CQinPDX",
+            "timestamp": "19:06, 13 December 2013",
+            "anon": false,
+            "size": "(4,185 bytes)",
+            "change": -25,
+            "summary": "(Intro reworking project. Please do not revert.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Attic floor and Walls Finished.jpg|thumb|right|251px]]Converting your attic into usable finished space increases the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space.",
+                    ""
+                ],
+                "removed": [
+                    "[[Image:Attic floor and Walls Finished.jpg|thumb|right|251px]]Converting your attic into usable finished space increases the value of your home by maximizing the available square footage. If your home is smaller than other homes in your area, or simply lacks the necessary amount of storage or living space for your family, finishing your attic is a relatively inexpensive way to increase your usable space if you follow these steps:"
+                ]
+            }
+        },
+        {
+            "id": "11796076",
+            "user": "Votebot",
+            "timestamp": "19:48, 14 November 2013",
+            "anon": false,
+            "size": "(4,210 bytes)",
+            "change": -4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need 1 before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "*Many municipalities require that a permit be issued to finish an attic so be sure to find out if you need 1 before you begin. You will also want to be sure to schedule any required inspections and stop work until they are completed."
+                ]
+            }
+        },
+        {
+            "id": "11599515",
+            "user": "Votebot",
+            "timestamp": "21:19, 29 October 2013",
+            "anon": false,
+            "size": "(4,214 bytes)",
+            "change": 4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11258085",
+            "user": "Votebot",
+            "timestamp": "15:49, 29 September 2013",
+            "anon": false,
+            "size": "(4,210 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Hanging drywall can be a difficult task for one person. If possible enlist help to complete this part of the project. If you cannot find anyone to assist you, you may want to cut the sheets in half to ensure that you are able to handle them without damage or injury."
+                ],
+                "removed": [
+                    "*Hanging drywall can be a difficult task for one person. If possible enlist help to complete this part of the project. If you cannot find anyone to assist you, you may want to cut the sheets in half to ensure that you are able to handle them without damage or injury."
+                ]
+            }
+        },
+        {
+            "id": "10963853",
+            "user": "Votebot",
+            "timestamp": "15:51, 30 August 2013",
+            "anon": false,
+            "size": "(4,210 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ],
+                "removed": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ]
+            }
+        },
+        {
+            "id": "9779621",
+            "user": "Votebot",
+            "timestamp": "16:06, 2 May 2013",
+            "anon": false,
+            "size": "(4,210 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Unless you have electrical experience, it is a good idea to hire a professional to do the electrical work to ensure that it meets or exceeds current code requirements.",
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect."
+                ],
+                "removed": [
+                    "*If you hang your drywall before your electrical inspection, they may require you to remove it to inspect.",
+                    "*Unless you have electrical experience, it is a good idea to hire a professional to do the electrical work to ensure that it meets or exceeds current code requirements."
+                ]
+            }
+        },
+        {
+            "id": "9418293",
+            "user": "76.118.214.190",
+            "timestamp": "22:40, 16 March 2013",
+            "anon": true,
+            "size": "(4,210 bytes)",
+            "change": 89,
+            "summary": "(sub-floor goes before framing and electrical)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws.",
+                    "#  If there are any internal walls going up, frame that after installing the sub-floor."
+                ],
+                "removed": [
+                    "# Cut sub-floor panels to size and install over a joist. Screw down into joists at 3 foot (91.44 cm) intervals using wood screws."
+                ]
+            }
+        },
+        {
+            "id": "9418277",
+            "user": "76.118.214.190",
+            "timestamp": "22:37, 16 March 2013",
+            "anon": true,
+            "size": "(4,121 bytes)",
+            "change": -1,
+            "summary": "(wiring goes before insulation)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly."
+                ],
+                "removed": [
+                    "",
+                    "# Install new rolled insulation between the wall studs. Cut each strip, or batt, to the exact length of the cavity, press in place and staple through the paper to the studs. Install the rolled insulation in the floor by cutting to size, pressing into the space between joists and attaching with wire fasteners. If you need to use 2 or more batts to fill in a cavity, be certain that they butt up against each other firmly.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "8379775",
+            "user": "Sappires",
+            "timestamp": "15:27, 4 September 2012",
+            "anon": false,
+            "size": "(4,122 bytes)",
+            "change": 63,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "6651517",
+            "user": "Wendy Weaver",
+            "timestamp": "00:42, 20 September 2011",
+            "anon": false,
+            "size": "(4,059 bytes)",
+            "change": 67,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "6459606",
+            "user": "Maniac",
+            "timestamp": "19:49, 6 August 2011",
+            "anon": false,
+            "size": "(3,992 bytes)",
+            "change": 18,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition"
+        },
+        {
+            "id": "6357792",
+            "user": "WRM",
+            "timestamp": "11:00, 16 July 2011",
+            "anon": false,
+            "size": "(3,974 bytes)",
+            "change": 3974,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition"
+        }
+    ],
+    "discussions": []
+}

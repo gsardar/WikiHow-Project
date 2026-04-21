@@ -1,0 +1,512 @@
+{
+    "title": "Connect-an-Ammeter",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:33:51.457573",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33179552",
+            "user": "MiscBot",
+            "timestamp": "18:48, 24 February 2025",
+            "anon": false,
+            "size": "(13,932 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31794891",
+            "user": "Thomas_Ch",
+            "timestamp": "23:54, 18 July 2023",
+            "anon": false,
+            "size": "(13,913 bytes)",
+            "change": 309,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical maintenance, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Richard Taylor | interview}} with [v162392_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31745832",
+            "user": "Seymour Edits",
+            "timestamp": "21:48, 27 June 2023",
+            "anon": false,
+            "size": "(13,604 bytes)",
+            "change": 117,
+            "summary": "(Added Expert Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1 Version 3.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter.<ref>[v162392_b01]. 07 June 2023.</ref> If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 3 Version 3.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 8 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1 Version 3.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 3 Version 3.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 8 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31427689",
+            "user": "Wikivisual",
+            "timestamp": "20:06, 10 March 2023",
+            "anon": false,
+            "size": "(13,487 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1 Version 3.jpg|center]]",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 2 Version 3.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 3 Version 3.jpg|center]]",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 4 Version 3.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you [[Use an Ammeter|use the ammeter]] to test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 5 Version 3.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 6 Version 3.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 7 Version 3.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 8 Version 3.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 9 Version 3.jpg|center]]",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 10 Version 3.jpg|center]]",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>[[Image:Connect an Ammeter Step 11 Version 3.jpg|center]]",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>[[Image:Connect an Ammeter Step 12 Version 3.jpg|center]]",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>[[Image:Connect an Ammeter Step 13 Version 3.jpg|center]]",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>[[Image:Connect an Ammeter Step 14 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1 Version 2.jpg|center]]",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 2 Version 2.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 3 Version 2.jpg|center]]",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 4 Version 2.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you [[Use an Ammeter|use the ammeter]] to test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 6 Version 2.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 7 Version 2.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 8 Version 2.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 9 Version 2.jpg|center]]",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 10 Version 2.jpg|center]]",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>[[Image:Connect an Ammeter Step 11 Version 2.jpg|center]]",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>[[Image:Connect an Ammeter Step 12 Version 2.jpg|center]]",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>[[Image:Connect an Ammeter Step 13 Version 2.jpg|center]]",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>[[Image:Connect an Ammeter Step 14 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31371560",
+            "user": "Seymour Edits",
+            "timestamp": "00:44, 20 February 2023",
+            "anon": false,
+            "size": "(13,487 bytes)",
+            "change": 303,
+            "summary": "(Added and replaced sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 3 Version 2.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you [[Use an Ammeter|use the ammeter]] to test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://workforce.libretexts.org/Bookshelves/Electronics_Technology/Book%3A_Electric_Circuits_VI_-_Experiments_(Kuphaldt)/02%3A_Basic_Concepts_and_Test_Equipment/2.04%3A_How_to_Use_an_Ammeter_to_Measure_Current</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 6 Version 2.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.lehman.edu/faculty/anchordoqui/lab2.pdf</ref>[[Image:Connect an Ammeter Step 7 Version 2.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 8 Version 2.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 9 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 3 Version 2.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you [[Use an Ammeter|use the ammeter]] to test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.[[Image:Connect an Ammeter Step 6 Version 2.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 7 Version 2.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 8 Version 2.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 9 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30938788",
+            "user": "Votebot",
+            "timestamp": "08:40, 5 October 2022",
+            "anon": false,
+            "size": "(13,184 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "30145753",
+            "user": "Seymour Edits",
+            "timestamp": "20:26, 17 December 2021",
+            "anon": false,
+            "size": "(13,182 bytes)",
+            "change": -230,
+            "summary": "(updated intro)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Ammeters measure the strength of a current flowing through an electrical circuit in amperes (A). By finding a current’s amperage, you can diagnose underperforming electrical circuits. We'll teach you how to set up your standard or clamp-on ammeter for the first time and how to wire it into a circuit."
+                ],
+                "removed": [
+                    "Ammeters measure the strength of a current flowing through an electrical circuit in amperes (A). Many multimeters have a setting that enables them to function as an ammeter, but you can also purchase standalone ammeters. Most ammeters need to be wired into a circuit in order to detect a current without overloading. If this isn’t an option, you could also use a clamp-on ammeter that fits over insulated wires to detect currents through them. By finding a current’s amperage, you can diagnose underperforming electrical circuits."
+                ]
+            }
+        },
+        {
+            "id": "27867505",
+            "user": "Caitlynn L",
+            "timestamp": "18:54, 17 March 2020",
+            "anon": false,
+            "size": "(13,412 bytes)",
+            "change": 19,
+            "summary": "(helping WikiHaus Trainee - moving link to more closely related info)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Many multimeters have the ability to test amperes (A) and can be used as an ammeter. Even if you’re using a multimeter, the black lead always connects to the COM port.",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you [[Use an Ammeter|use the ammeter]] to test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#*Many multimeters have the ability to test amperes (A) and can be used as an [[Use an Ammeter|ammeter]]. Even if you’re using a multimeter, the black lead always connects to the COM port.",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27865003",
+            "user": "WikiHaus Trainee",
+            "timestamp": "23:59, 16 March 2020",
+            "anon": false,
+            "size": "(13,393 bytes)",
+            "change": 19,
+            "summary": "(Adding relevant wikihow link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Many multimeters have the ability to test amperes (A) and can be used as an [[Use an Ammeter|ammeter]]. Even if you’re using a multimeter, the black lead always connects to the COM port."
+                ],
+                "removed": [
+                    "#*Many multimeters have the ability to test amperes (A) and can be used as an ammeter. Even if you’re using a multimeter, the black lead always connects to the COM port."
+                ]
+            }
+        },
+        {
+            "id": "27699051",
+            "user": "Wikivisual",
+            "timestamp": "17:16, 7 February 2020",
+            "anon": false,
+            "size": "(13,374 bytes)",
+            "change": 140,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1 Version 2.jpg|center]]",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 2 Version 2.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 3 Version 2.jpg|center]]",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 4 Version 2.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5 Version 2.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.[[Image:Connect an Ammeter Step 6 Version 2.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 7 Version 2.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 8 Version 2.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 9 Version 2.jpg|center]]",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 10 Version 2.jpg|center]]",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>[[Image:Connect an Ammeter Step 11 Version 2.jpg|center]]",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>[[Image:Connect an Ammeter Step 12 Version 2.jpg|center]]",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>[[Image:Connect an Ammeter Step 13 Version 2.jpg|center]]",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>[[Image:Connect an Ammeter Step 14 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1.jpg|center]]",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 2.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 3.jpg|center]]",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 4.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.[[Image:Connect an Ammeter Step 6.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 7.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 8.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 9.jpg|center]]",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 10.jpg|center]]",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>[[Image:Connect an Ammeter Step 11.jpg|center]]",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>[[Image:Connect an Ammeter Step 12.jpg|center]]",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>[[Image:Connect an Ammeter Step 13.jpg|center]]",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>[[Image:Connect an Ammeter Step 14.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27678607",
+            "user": "Wikivisual",
+            "timestamp": "17:42, 3 February 2020",
+            "anon": false,
+            "size": "(13,234 bytes)",
+            "change": 649,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 1.jpg|center]]",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 2.jpg|center]]",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 3.jpg|center]]",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>[[Image:Connect an Ammeter Step 4.jpg|center]]",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>[[Image:Connect an Ammeter Step 5.jpg|center]]",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.[[Image:Connect an Ammeter Step 6.jpg|center]]",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 7.jpg|center]]",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 8.jpg|center]]",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>[[Image:Connect an Ammeter Step 9.jpg|center]]",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>[[Image:Connect an Ammeter Step 10.jpg|center]]",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>[[Image:Connect an Ammeter Step 11.jpg|center]]",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>[[Image:Connect an Ammeter Step 12.jpg|center]]",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>[[Image:Connect an Ammeter Step 13.jpg|center]]",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>[[Image:Connect an Ammeter Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27206212",
+            "user": "Seymour Edits",
+            "timestamp": "21:55, 12 October 2019",
+            "anon": false,
+            "size": "(12,585 bytes)",
+            "change": 686,
+            "summary": "(Breaking ammeter wiring into red and black probe steps.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Touch the metal probe tips together to test the ammeter. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#Unplug a wire to break the circuit and make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#Connect the black probe to the negative end of the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. Many ammeters include clamps you can place on the ends of circuit wires to keep the probes pinned to them. Make sure the tip of the probe touches the exposed end of the wire.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#*For example, you could connect the black probe to a wire leading toward the negative terminal on a battery powering the circuit. You could also touch it directly to the battery terminal.",
+                    "#*For home circuits, connect the probe to the exposed end of a black wire leading toward your home’s electrical supply.",
+                    "#Join the red probe to the opposite end of the circuit. The red probe connects to a wire or device the same way as the black probe. It may be connected to a red power wire leading to a device like a lightbulb or to the device itself. With both the red and black probes connected, the circuit will be complete, allowing electricity to flow through the ammeter.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#*For instance, if you have the ammeter between a battery and a lightbulb, the red probe may connect to the lightbulb. The black wire can touch the battery’s negative terminal or a wire connected to it.",
+                    "#*If you’re working with a battery, don’t connect both probes directly to the battery’s terminals. It may cause the ammeter to burn out."
+                ],
+                "removed": [
+                    "#Touch the probes together to test the ammeter’s circuit. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#Break the circuit to make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#Connect the black and red probes to the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. The red probe directs electricity toward the ammeter. Many ammeters include clamps you can place on the ends of the wires to keep the probe tips pinned to the wires.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#*For example, you could connect the black probe to a wire leading toward the negative battery terminal. For home circuits, connect it to the exposed end of a black wire leading toward your home’s electrical supply.",
+                    "#*The red wire always conducts electricity, so it is meant to connect to a power source. For instance, you might connect it to a red wire leading from a battery’s positive terminal or toward a device or outlet in your home."
+                ]
+            }
+        },
+        {
+            "id": "27204375",
+            "user": "RubyRoseRain",
+            "timestamp": "09:05, 12 October 2019",
+            "anon": false,
+            "size": "(11,899 bytes)",
+            "change": 33,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Projects]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "27203992",
+            "user": "WikiHowUser20220204205835",
+            "timestamp": "05:51, 12 October 2019",
+            "anon": false,
+            "size": "(11,866 bytes)",
+            "change": -16,
+            "summary": "(RCP reverted edits by Carolyn Barratt (talk) to  revision #27202905 by WRM)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[Category:DIY]]"
+                ]
+            }
+        },
+        {
+            "id": "27203883",
+            "user": "Carolyn Barratt",
+            "timestamp": "04:21, 12 October 2019",
+            "anon": false,
+            "size": "(11,882 bytes)",
+            "change": 16,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:DIY]]"
+                ],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "27202905",
+            "user": "WRM",
+            "timestamp": "20:45, 11 October 2019",
+            "anon": false,
+            "size": "(11,866 bytes)",
+            "change": 11866,
+            "summary": "(Creating article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "WikiHowUser20220204205835",
+            "exact_contribution": {
+                "added": [
+                    "Ammeters measure the strength of a current flowing through an electrical circuit in amperes (A). Many multimeters have a setting that enables them to function as an ammeter, but you can also purchase standalone ammeters. Most ammeters need to be wired into a circuit in order to detect a current without overloading. If this isn’t an option, you could also use a clamp-on ammeter that fits over insulated wires to detect currents through them. By finding a current’s amperage, you can diagnose underperforming electrical circuits.",
+                    "==Steps==",
+                    "===Plugging in and Setting the Ammeter===",
+                    "#Insert the black lead into the COM port on the ammeter. Every ammeter comes with red and black wires that connect the device to an electrical circuit. The probe end of each wire is what connects to the circuit. The opposite end plugs into a slot on the multimeter, which is always the COM port for the black wire.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#*Many multimeters have the ability to test amperes (A) and can be used as an ammeter. Even if you’re using a multimeter, the black lead always connects to the COM port.",
+                    "#*Make sure you’re using the correct ports! Improper wiring could cause the ammeter to burn out later.",
+                    "#Connect the red lead to the A port on the ammeter. Note the ports carefully since some devices may have multiple ones. The ampere port, labeled with an A, is the correct one for testing a current’s strength. Ignore the mΩ port if your meter also has it. Fit the red lead in place to finish wiring the ammeter.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#*If you’re using a multimeter, you may only see a port labeled VΩmA or something similar. Fit the red lead into that port. It works with all of the multimeter’s functions.",
+                    "#*If your device has a separate port like VΩ, it is used to test [[Measure Voltage|voltage]] and [[Measure Resistance|resistance]]",
+                    "#Touch the probes together to test the ammeter’s circuit. If you’re using a multimeter with an ammeter setting, switch the dial to resistance. Resistance is indicated by the omega symbol, or Ω. When you touch the probes together, look for the meter to display 0. It means that electricity is able to flow through the meter without trouble and you will get a clear result when you use it for testing purposes.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#*If the display stays at 1, the meter could be broken. It happens sometimes when the fuse burns out from a strong electrical shock.",
+                    "#*If your meter doesn’t have a resistance setting, you won’t be able to test it this way. Try wiring it into a circuit. If it doesn’t react when the power is on, then it is probably burnt out.",
+                    "#Set the meter dial to AC or DC depending on the current you are testing. Many modern ammeters and multimeters have both AC and DC settings. Use the dial in the center of the meter to choose one. In a direct current (DC) circuit, the electricity moves in a single direction. In an alternating current (AC) circuit, the current can change directions.<ref>https://sciencing.com/connect-ammeter-6029800.html</ref>",
+                    "#*An example of a DC current is a battery circuit. The electricity flows from the positive terminal, around the circuit, and back to the negative terminal.",
+                    "#*AC circuits are used to route power in homes, office buildings, and other areas that require high amounts of electricity.",
+                    "#*Note that some ammeters only test AC or DC. If yours is like this, it will most likely be labeled and you won’t see different settings to choose from. AC is often represented by a squiggly line, while DC is represented by a straight line.",
+                    "#Set the range scale on the ammeter to match the circuit you are testing. Turn the central dial to adjust the meter’s range. Start with the highest setting available, which is often 2 A. As you test the circuit, gradually turn the meter down until you get a consistent, accurate reading. The ammeter’s display will change accordingly.<ref>https://www.bournetoinvent.com/projects/soldering_license/step_7.html</ref>",
+                    "#*Many ammeters have different settings from amps to milliamps and microamps. For comparison, an amp is 1,000 milliamps.",
+                    "#*A basic circuit with a small battery can be measured in milliamps. You could set the meter at 2 A, then turn it down to a milliamp setting until you get a consistent readout. More powerful circuits, such as the ones in your home, are better measured in amps.",
+                    "#*Many ammeters automatically calculate the range. If your meter doesn’t have range settings, then you don’t have to worry about setting it yourself.",
+                    "",
+                    "===Wiring the Ammeter into a Circuit===",
+                    "#Turn the power off before attempting to handle a circuit. Using an ammeter requires you to mess with electrical components. If you’re testing a circuit containing a battery, make sure the power switch is off before you disconnect the battery. If you’re testing a bigger circuit, toggle any controlling electrical switches before deactivating the electricity completely.",
+                    "#*For example, if you’re testing a home circuit, shut off power at the [[Find the Fuse Box or Circuit Breaker Box|circuit breaker or fuse box]]. The box is usually hidden in an out of the way spot, such as in the basement or garage.",
+                    "#Break the circuit to make room for the ammeter. Unlike other devices, an ammeter has to be incorporated into the circuit. Find a spot where you can disconnect wires or other components. Create plenty of room to fit the ammeter and its probes between the components.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#*For example, if you’re using a battery to light up a small bulb, you might detach a wire from the bulb. You could then fit the ammeter between the wire and bulb.",
+                    "#*If you try to touch the probes to a complete circuit, you will most likely short-circuit the ammeter. Ammeters have little resistance, so the electricity has to pass through it in a very specific way to prevent it from burning out.",
+                    "#Connect the black and red probes to the circuit. The leads are color-coded so you know exactly where each one fits in the circuit. The black probe is meant to direct electricity away from the ammeter. The red probe directs electricity toward the ammeter. Many ammeters include clamps you can place on the ends of the wires to keep the probe tips pinned to the wires.<ref>https://www.aplusphysics.com/courses/honors/circuits/meters.html</ref>",
+                    "#*For example, you could connect the black probe to a wire leading toward the negative battery terminal. For home circuits, connect it to the exposed end of a black wire leading toward your home’s electrical supply.",
+                    "#*The red wire always conducts electricity, so it is meant to connect to a power source. For instance, you might connect it to a red wire leading from a battery’s positive terminal or toward a device or outlet in your home.",
+                    "#*Keep in mind that the wire coloring scheme can differ from place to place. However, black usually indicates a negative current and red indicates positive one.",
+                    "#Turn the power back on to measure the current strength. Make sure your ammeter is on and wired correctly. Once you’re ready, activate the circuit as well as your home’s circuit breaker or fuse if you turned it off. You will see the ammeter’s screen display change as the current runs through it.<ref>https://www.allaboutcircuits.com/textbook/experiments/chpt-2/ammeter-usage/</ref>",
+                    "#*When you’re done, turn off the power again before putting the circuit back together.",
+                    "",
+                    "===Using a Clamp-on Ammeter===",
+                    "#Press the button on the clamp to open it. The clamp is often built into the top of the ammeter. You will see a big, red button you can press to open the clamp. Some digital ammeters also have a plug-in clamp accessory that works similarly. If yours is like this, plug the clamp into the ammeter’s open ports first before opening the jaws.<ref>https://www.youtube.com/watch?v=HfAz9iVQoiY&feature=youtu.be&t=52</ref>",
+                    "#*If you have a plug-in clamp, it will be color-coded like the regular probe leads ordinarily used to test amperage. Plug the black lead into the COM port and the red lead into the A or VΩmA port.",
+                    "#*Clamp-on ammeters are a more advanced kind of device that can read electrical currents without you ever having to take apart a circuit. It is even easier to use than the older digital models.",
+                    "#Fit the jaws around a single wire you wish to test. Whatever you wish to test should be inside the jaws. If you try to test more than 1 thing at a time, the ammeter may not detect any current. This is especially important if you’re trying to test something like an extension cord consisting of multiple wires. Separate the individual wires if you can and then test them all separately.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=67</ref>",
+                    "#*The main wires to test include the black and red or white ones. These wires are the ones that often conduct the full electrical current in a circuit. This coloring scheme can vary depending on where you live, however.",
+                    "#*The great thing about clamp-on ammeters is that you don’t have to detach the conducting wires at all. As long as the wires are well-insulated, you don’t even have to turn off the electricity. However, remember to avoid touching exposed wires or other metal components that could shock you.",
+                    "#Adjust the control dial to test amperage at the proper range. The exact options available will vary depending on the meter you have. Most clamp-on models have a single setting for amperage and detect the range automatically. Set the dial to A, often marked with a squiggly line to represent alternating (AC) current.<ref>https://www.youtube.com/watch?v=z-KfZvbjyBY&feature=youtu.be&t=31</ref>",
+                    "#*Most clamp-on ammeters detect both AC and DC current, so you can use the same dial setting.",
+                    "#*Some ammeters have a few range settings. Make sure you’re using the correct one. Generally, start with the largest setting and turn the dial down if you expect a weaker current.",
+                    "#*Keep in mind that clamp-on ammeters are usually multimeters that also test resistance and other measurements. Make sure you’re using the correct settings for ammeter mode.",
+                    "#Take the reading before detaching the ammeter. Activate the electrical current if it isn’t already on. Watch for the ammeter’s screen to light up and display the strength of the current in amps. When you’re done, press the trigger on the ammeter’s jaws to remove them and slide them off the wire you tested.<ref>https://www.youtube.com/watch?v=_MnH9sG7E2Q&feature=youtu.be&t=255</ref>",
+                    "#*The ammeter works by detecting the electrical field around the wire. It is just as accurate as one you have to wire into the circuit.",
+                    "#*Keep in mind that wires of a different color can give you different readouts. The black and red power wires, as well as white neutral wires, will show you the true power of the circuit. Other colors, such as green ground wires, don’t conduct the full current.",
+                    "",
+                    "==Tips==",
+                    "*In general, ammeters are meant for low-powered, such as ones under 10 milliamperes. If you’re testing anything stronger, make sure you’re using a clamp-on meter or a digital multimeter with a high maximum range.",
+                    "*Always be aware of how you're wiring an ammeter. Wiring it in parallel, or outside of, the circuit will cause it to burn out.",
+                    "*Note that multimeters are most often used instead of regular ammeters. Multimeters are inexpensive and have several functions.",
+                    "",
+                    "==Warnings==",
+                    "*Working with electrical wires includes the possibility of electrical shock. Always make sure the power is turned off before handling a circuit.",
+                    "*Touching exposed wires is dangerous. When using a clamp-on ammeter, always connect it to a well-insulated wire.",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

@@ -1,0 +1,2320 @@
+{
+    "title": "Wire-a-UK-Plug",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:15:50.000949",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34139922",
+            "user": "Seymour Edits",
+            "timestamp": "15:10, 13 March 2026",
+            "anon": false,
+            "size": "(3,837 bytes)",
+            "change": 75,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a UK Plug|Learn how to change a UK 3-pin plug.}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32811402",
+            "user": "MiscBot",
+            "timestamp": "03:58, 27 September 2024",
+            "anon": false,
+            "size": "(3,762 bytes)",
+            "change": -38,
+            "summary": "(Removed broken YouTube video)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a UK Plug}}"
+                ]
+            }
+        },
+        {
+            "id": "32715228",
+            "user": "Hopedemi",
+            "timestamp": "16:49, 12 August 2024",
+            "anon": false,
+            "size": "(3,800 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32685215",
+            "user": "Seymour Edits",
+            "timestamp": "03:31, 30 July 2024",
+            "anon": false,
+            "size": "(3,494 bytes)",
+            "change": 78,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>[v161396_b01]. 3 March 2021.</ref>[[Image:Wire a UK Plug Step 5 Version 3.jpg|center]]",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''.<ref>[v161396_b01]. 3 March 2021.</ref>"
+                ],
+                "removed": [
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 3.jpg|center]]",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ]
+            }
+        },
+        {
+            "id": "32257791",
+            "user": "Wikivisual",
+            "timestamp": "13:06, 3 February 2024",
+            "anon": false,
+            "size": "(3,416 bytes)",
+            "change": -4,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 3.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 3.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 3.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 3.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 3.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 3.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 7 Version 3.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 3.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>[[Image:Wire a UK Plug Step 9 Version 3.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>[[Image:Wire a UK Plug Step 10 Version 3.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 3.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out. [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31669682",
+            "user": "Rainy M",
+            "timestamp": "20:33, 29 May 2023",
+            "anon": false,
+            "size": "(3,420 bytes)",
+            "change": -141,
+            "summary": "(RCP reverted edits by Adamssjsjsj (talk) to  revision #31445204 by Agusbou2015)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "# First, don’t turn off the power yet. Unscrew the plug entirely and then touch the whole plug. You should get electrocuted, then you die."
+                ]
+            }
+        },
+        {
+            "id": "31669621",
+            "user": "Adamssjsjsj",
+            "timestamp": "19:31, 29 May 2023",
+            "anon": false,
+            "size": "(3,561 bytes)",
+            "change": 141,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "# First, don’t turn off the power yet. Unscrew the plug entirely and then touch the whole plug. You should get electrocuted, then you die."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31445204",
+            "user": "Agusbou2015",
+            "timestamp": "10:33, 17 March 2023",
+            "anon": false,
+            "size": "(3,420 bytes)",
+            "change": 3417,
+            "summary": "(Reverted edits by 159.86.182.69 (Talk); changed back to last version by Seymour Edits)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "== Steps ==",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out. [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a UK Plug}}",
+                    "",
+                    "== Tips ==",
+                    "*You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse.",
+                    "",
+                    "== Warnings ==",
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Wire strippers",
+                    "*A thin Flathead screwdriver",
+                    "*A small Philips screwdriver",
+                    "*Good hands",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Wire a Simple 120v Electrical Circuit]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "ggg"
+                ]
+            }
+        },
+        {
+            "id": "31445186",
+            "user": "159.86.182.69",
+            "timestamp": "10:13, 17 March 2023",
+            "anon": true,
+            "size": "(3 bytes)",
+            "change": -3417,
+            "summary": "(Replacing page with 'ggg')",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "ggg"
+                ],
+                "removed": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "== Steps ==",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out. [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "",
+                    "== Video ==",
+                    "{{Video:Wire a UK Plug}}",
+                    "",
+                    "== Tips ==",
+                    "*You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse.",
+                    "",
+                    "== Warnings ==",
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Wire strippers",
+                    "*A thin Flathead screwdriver",
+                    "*A small Philips screwdriver",
+                    "*Good hands",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Wire a Simple 120v Electrical Circuit]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ]
+            }
+        },
+        {
+            "id": "30936470",
+            "user": "Seymour Edits",
+            "timestamp": "14:34, 4 October 2022",
+            "anon": false,
+            "size": "(3,420 bytes)",
+            "change": -147,
+            "summary": "(Removed dead links)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out. [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30900764",
+            "user": "JayneG",
+            "timestamp": "16:27, 22 September 2022",
+            "anon": false,
+            "size": "(3,567 bytes)",
+            "change": 1,
+            "summary": "(Format)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "==References=="
+                ],
+                "removed": [
+                    "==References="
+                ]
+            }
+        },
+        {
+            "id": "30900763",
+            "user": "JayneG",
+            "timestamp": "16:27, 22 September 2022",
+            "anon": false,
+            "size": "(3,566 bytes)",
+            "change": -1,
+            "summary": "(Test)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{Video:Wire a UK Plug}}"
+                ],
+                "removed": [
+                    "{{Video:Wire a UK Plug|}}"
+                ]
+            }
+        },
+        {
+            "id": "30900725",
+            "user": "Vanna Tran",
+            "timestamp": "16:10, 22 September 2022",
+            "anon": false,
+            "size": "(3,567 bytes)",
+            "change": 16,
+            "summary": "(Reverted edits by Vanna Tran (Talk); changed back to last version by JayneG)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "==References="
+                ],
+                "removed": [
+                    "",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3 centimeter (1.2 in) of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Strip roughly 0.5 to 1 centimeter (0.2 to 0.4 in) off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "== References ="
+                ]
+            }
+        },
+        {
+            "id": "30900720",
+            "user": "Vanna Tran",
+            "timestamp": "16:08, 22 September 2022",
+            "anon": false,
+            "size": "(3,551 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Vanna Tran",
+            "exact_contribution": {
+                "added": [
+                    "== References ="
+                ],
+                "removed": [
+                    "==References="
+                ]
+            }
+        },
+        {
+            "id": "30900717",
+            "user": "Vanna Tran",
+            "timestamp": "16:07, 22 September 2022",
+            "anon": false,
+            "size": "(3,549 bytes)",
+            "change": -19,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Vanna Tran",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3 centimeter (1.2 in) of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Strip roughly 0.5 to 1 centimeter (0.2 to 0.4 in) off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30900703",
+            "user": "Vanna Tran",
+            "timestamp": "16:02, 22 September 2022",
+            "anon": false,
+            "size": "(3,568 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Vanna Tran",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30900690",
+            "user": "JayneG",
+            "timestamp": "15:51, 22 September 2022",
+            "anon": false,
+            "size": "(3,567 bytes)",
+            "change": -1,
+            "summary": "(Format)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Vanna Tran",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30900556",
+            "user": "Agusbou2015",
+            "timestamp": "14:46, 22 September 2022",
+            "anon": false,
+            "size": "(3,568 bytes)",
+            "change": -12,
+            "summary": "(Reverted edits by Agusbou2015 (Talk); changed back to last version by Awesome Aasim)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "*You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse."
+                ],
+                "removed": [
+                    "# Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "# Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "# Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "# Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "# See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "# Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "# Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "# The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "# The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "# The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "# Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "* You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse."
+                ]
+            }
+        },
+        {
+            "id": "30900555",
+            "user": "Agusbou2015",
+            "timestamp": "14:46, 22 September 2022",
+            "anon": false,
+            "size": "(3,580 bytes)",
+            "change": 12,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    "# Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "# Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "# Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "# Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "# See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "# Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "# Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "# The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "# The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "# The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "# Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "* You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse."
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    "*You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse."
+                ]
+            }
+        },
+        {
+            "id": "30900552",
+            "user": "Agusbou2015",
+            "timestamp": "14:44, 22 September 2022",
+            "anon": false,
+            "size": "(3,568 bytes)",
+            "change": -1,
+            "summary": "(Reverted edits by Agusbou2015 (Talk); changed back to last version by Awesome Aasim)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "30900551",
+            "user": "Agusbou2015",
+            "timestamp": "14:44, 22 September 2022",
+            "anon": false,
+            "size": "(3,569 bytes)",
+            "change": 1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Rainy M",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30898750",
+            "user": "Awesome Aasim",
+            "timestamp": "01:59, 22 September 2022",
+            "anon": false,
+            "size": "(3,568 bytes)",
+            "change": 631,
+            "summary": "(Reverted edits by Awesome Aasim (Talk); changed back to last version by FREE WORDS)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref>",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref>",
+                    "#See the diagram below, in the External Links section for a clearer view.",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ]
+            }
+        },
+        {
+            "id": "30898749",
+            "user": "Awesome Aasim",
+            "timestamp": "01:58, 22 September 2022",
+            "anon": false,
+            "size": "(2,937 bytes)",
+            "change": -52,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal."
+                ],
+                "removed": [
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30898748",
+            "user": "Awesome Aasim",
+            "timestamp": "01:58, 22 September 2022",
+            "anon": false,
+            "size": "(2,989 bytes)",
+            "change": -579,
+            "summary": "(there may be a parser bug, removing images to test)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref>",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref>",
+                    "#See the diagram below, in the External Links section for a clearer view.",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref>",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref>",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29870773",
+            "user": "FREE WORDS",
+            "timestamp": "04:41, 9 September 2021",
+            "anon": false,
+            "size": "(3,568 bytes)",
+            "change": -17,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Awesome Aasim",
+            "exact_contribution": {
+                "added": [
+                    "{{Video:Wire a UK Plug|}}"
+                ],
+                "removed": [
+                    "http://www.youtube.com/watch?v=wBVkN5RpQNY"
+                ]
+            }
+        },
+        {
+            "id": "29515842",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "10:06, 6 May 2021",
+            "anon": false,
+            "size": "(3,585 bytes)",
+            "change": -34,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Do Common Electrical Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "26786703",
+            "user": "Seymour Edits",
+            "timestamp": "01:24, 12 July 2019",
+            "anon": false,
+            "size": "(3,619 bytes)",
+            "change": 455,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Agusbou2015",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<ref>http://www.ultimatehandyman.co.uk/how-to/electrics/wire-a-plug</ref> [[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<ref>https://www.pat-testing-training.net/articles/wiring-plugs.php</ref> [[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<ref>https://www.bbc.com/bitesize/guides/zw8n2nb/revision/2</ref> [[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "",
+                    "==References=",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24885990",
+            "user": "Aiosis",
+            "timestamp": "09:01, 11 July 2018",
+            "anon": false,
+            "size": "(3,164 bytes)",
+            "change": 2283,
+            "summary": "(Reverted edits by 46.18.181.52 (Talk); changed back to last version by Aiosis)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#you dab",
+                    "#"
+                ]
+            }
+        },
+        {
+            "id": "24885942",
+            "user": "46.18.181.52",
+            "timestamp": "08:40, 11 July 2018",
+            "anon": true,
+            "size": "(881 bytes)",
+            "change": -2283,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#you dab",
+                    "#"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "24239659",
+            "user": "Aiosis",
+            "timestamp": "11:38, 20 March 2018",
+            "anon": false,
+            "size": "(3,164 bytes)",
+            "change": -28,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug."
+                ],
+                "removed": [
+                    "{{accuracy|date=2018-03-20}}This wikiHow will teach you how to put together or fix a UK three-pin plug."
+                ]
+            }
+        },
+        {
+            "id": "24239656",
+            "user": "Aiosis",
+            "timestamp": "11:37, 20 March 2018",
+            "anon": false,
+            "size": "(3,192 bytes)",
+            "change": 17,
+            "summary": "(Removed personal ref and added accuracy tag.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "{{accuracy|date=2018-03-20}}This wikiHow will teach you how to put together or fix a UK three-pin plug."
+                ],
+                "removed": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope).",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "24239654",
+            "user": "Aiosis",
+            "timestamp": "11:36, 20 March 2018",
+            "anon": false,
+            "size": "(3,175 bytes)",
+            "change": 2276,
+            "summary": "(Reverted edits by 46.18.181.52 (Talk); changed back to last version by Artemi7)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#You DAB gaybo lord"
+                ]
+            }
+        },
+        {
+            "id": "24239639",
+            "user": "46.18.181.52",
+            "timestamp": "11:28, 20 March 2018",
+            "anon": true,
+            "size": "(899 bytes)",
+            "change": -2274,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#You DAB gaybo lord"
+                ],
+                "removed": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23948580",
+            "user": "46.18.181.52",
+            "timestamp": "11:17, 30 January 2018",
+            "anon": true,
+            "size": "(3,173 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "23948574",
+            "user": "Artemi7",
+            "timestamp": "11:16, 30 January 2018",
+            "anon": false,
+            "size": "(3,175 bytes)",
+            "change": 2309,
+            "summary": "(RCP reverted edits by 46.18.181.52 (talk) to  revision #23894611 by Wikivisual)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Steps ==",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23948572",
+            "user": "46.18.181.52",
+            "timestamp": "11:15, 30 January 2018",
+            "anon": true,
+            "size": "(866 bytes)",
+            "change": -20,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "== Steps ==",
+                    "#DAB",
+                    "#",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "23948561",
+            "user": "46.18.181.52",
+            "timestamp": "11:12, 30 January 2018",
+            "anon": true,
+            "size": "(886 bytes)",
+            "change": -2289,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#DAB",
+                    "#"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "23894611",
+            "user": "Wikivisual",
+            "timestamp": "17:11, 20 January 2018",
+            "anon": false,
+            "size": "(3,175 bytes)",
+            "change": 96,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Artemi7",
+            "exact_contribution": {
+                "added": [
+                    "#Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1 Version 2.jpg|center]]",
+                    "#Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2 Version 2.jpg|center]]",
+                    "#Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3 Version 2.jpg|center]]",
+                    "#Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4 Version 2.jpg|center]]",
+                    "#Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5 Version 2.jpg|center]]",
+                    "#See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6 Version 2.jpg|center]]",
+                    "#Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7 Version 2.jpg|center]]",
+                    "#Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8 Version 2.jpg|center]]",
+                    "#The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9 Version 2.jpg|center]]",
+                    "#The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10 Version 2.jpg|center]]",
+                    "#The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11 Version 2.jpg|center]]",
+                    "#Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1.jpg|center]]",
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3.jpg|center]]",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4.jpg|center]]",
+                    "#  Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5.jpg|center]]",
+                    "#  See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6.jpg|center]]",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7.jpg|center]]",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8.jpg|center]]",
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9.jpg|center]]",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10.jpg|center]]",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11.jpg|center]]",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "22702085",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "22:19, 26 June 2017",
+            "anon": false,
+            "size": "(3,079 bytes)",
+            "change": -78,
+            "summary": "(Automatic link maintenance: cleaning up links to pages that are not ready for readers (stubbed/de-indexed articles))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box]]"
+                ]
+            }
+        },
+        {
+            "id": "21291801",
+            "user": "Flickety",
+            "timestamp": "23:42, 6 November 2016",
+            "anon": false,
+            "size": "(3,157 bytes)",
+            "change": 17,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "19317347",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "23:11, 8 January 2016",
+            "anon": false,
+            "size": "(3,140 bytes)",
+            "change": -161,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box]]",
+                    "*[[Wire a Simple 120v Electrical Circuit]]",
+                    "*[[Do Common Electrical Repairs]]"
+                ],
+                "removed": [
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box|How to Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box]]",
+                    "*[[Wire a Simple 120v Electrical Circuit|How to Wire a Simple 120v Electrical Circuit]]",
+                    "*[[Do Common Electrical Repairs|How to Do Common Electrical Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "19304657",
+            "user": "Charlie G",
+            "timestamp": "12:59, 8 January 2016",
+            "anon": false,
+            "size": "(3,301 bytes)",
+            "change": -15,
+            "summary": "(RCP reverted edits by 195.194.238.110 (talk) to  revision #18734293 by Technist)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "# Undo the Philips screw in the center of the plug, on the side with the three pins poking out with Luke's dog [[Image:Wire a UK Plug Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19294784",
+            "user": "195.194.238.110",
+            "timestamp": "09:30, 8 January 2016",
+            "anon": true,
+            "size": "(3,316 bytes)",
+            "change": 15,
+            "summary": "(Editing from step editor)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Charlie G",
+            "exact_contribution": {
+                "added": [
+                    "# Undo the Philips screw in the center of the plug, on the side with the three pins poking out with Luke's dog [[Image:Wire a UK Plug Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18734293",
+            "user": "Technist",
+            "timestamp": "10:19, 27 October 2015",
+            "anon": false,
+            "size": "(3,301 bytes)",
+            "change": -16,
+            "summary": "(RCP reverted edits by 194.83.172.186 (talk) to  revision #18526999 by Winston Wardoyo)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Charlie G",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]] HEY",
+                    "#",
+                    "# The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top. deez nuts [[Image:Wire a UK Plug Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18734289",
+            "user": "194.83.172.186",
+            "timestamp": "10:18, 27 October 2015",
+            "anon": true,
+            "size": "(3,317 bytes)",
+            "change": 6,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Technist",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]] HEY",
+                    "#"
+                ],
+                "removed": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18734283",
+            "user": "194.83.172.187",
+            "timestamp": "10:17, 27 October 2015",
+            "anon": true,
+            "size": "(3,311 bytes)",
+            "change": 10,
+            "summary": "(Editing from step editor)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top. deez nuts [[Image:Wire a UK Plug Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18526999",
+            "user": "Winston Wardoyo",
+            "timestamp": "10:57, 28 September 2015",
+            "anon": false,
+            "size": "(3,301 bytes)",
+            "change": 153,
+            "summary": "(RCP reverted edits by 212.132.0.25 (talk) to  revision #18054319 by MiscBot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Technist",
+            "exact_contribution": {
+                "added": [
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9.jpg|center]]"
+                ],
+                "removed": [
+                    "#  [[Image:Wire a UK Plug Step 9.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18526843",
+            "user": "212.132.0.25",
+            "timestamp": "10:21, 28 September 2015",
+            "anon": true,
+            "size": "(3,148 bytes)",
+            "change": -153,
+            "summary": "(Editing from step editor)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Winston Wardoyo",
+            "exact_contribution": {
+                "added": [
+                    "#  [[Image:Wire a UK Plug Step 9.jpg|center]]"
+                ],
+                "removed": [
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "18054319",
+            "user": "MiscBot",
+            "timestamp": "19:21, 28 July 2015",
+            "anon": false,
+            "size": "(3,301 bytes)",
+            "change": -168,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Winston Wardoyo",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.[[Image:Wire a UK Plug Step 1.jpg|center]]",
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.[[Image:Wire a UK Plug Step 2.jpg|center]]",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).[[Image:Wire a UK Plug Step 3.jpg|center]]",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.[[Image:Wire a UK Plug Step 4.jpg|center]]",
+                    "#  Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.[[Image:Wire a UK Plug Step 5.jpg|center]]",
+                    "#  See the diagram below, in the External Links section for a clearer view.[[Image:Wire a UK Plug Step 6.jpg|center]]",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.[[Image:Wire a UK Plug Step 7.jpg|center]]",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.[[Image:Wire a UK Plug Step 8.jpg|center]]",
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).[[Image:Wire a UK Plug Step 9.jpg|center]]",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).[[Image:Wire a UK Plug Step 10.jpg|center]]",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.[[Image:Wire a UK Plug Step 11.jpg|center]]",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.[[Image:Wire a UK Plug Step 12.jpg|center]]"
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<br><br>[[Image:Wire a UK Plug Step 1.jpg|center|550px]]",
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<br><br>[[Image:Wire a UK Plug Step 2.jpg|center|550px]]",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).<br><br>[[Image:Wire a UK Plug Step 3.jpg|center|550px]]",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.<br><br>[[Image:Wire a UK Plug Step 4.jpg|center|550px]]",
+                    "#  Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<br><br>[[Image:Wire a UK Plug Step 5.jpg|center|550px]]",
+                    "#  See the diagram below, in the External Links section for a clearer view.<br><br>[[Image:Wire a UK Plug Step 6.jpg|center|550px]]",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<br><br>[[Image:Wire a UK Plug Step 7.jpg|center|550px]]",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.<br><br>[[Image:Wire a UK Plug Step 8.jpg|center|550px]]",
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<br><br>[[Image:Wire a UK Plug Step 9.jpg|center|550px]]",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<br><br>[[Image:Wire a UK Plug Step 10.jpg|center|550px]]",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.<br><br>[[Image:Wire a UK Plug Step 11.jpg|center|550px]]",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.<br><br>[[Image:Wire a UK Plug Step 12.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15863225",
+            "user": "FurryFlux",
+            "timestamp": "01:38, 11 November 2014",
+            "anon": false,
+            "size": "(3,469 bytes)",
+            "change": 241,
+            "summary": "(RCP reverted edits by 81.131.199.119 (talk) to  revision #15857710 by MiscBot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.<br><br>[[Image:Wire a UK Plug Step 4.jpg|center|550px]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "15861569",
+            "user": "81.131.199.119",
+            "timestamp": "20:18, 10 November 2014",
+            "anon": true,
+            "size": "(3,228 bytes)",
+            "change": -241,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "FurryFlux",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.<br><br>[[Image:Wire a UK Plug Step 4.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "15857710",
+            "user": "MiscBot",
+            "timestamp": "17:42, 10 November 2014",
+            "anon": false,
+            "size": "(3,469 bytes)",
+            "change": 62,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Winston Wardoyo",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly {{convert|3|cm|in|sp=us|adj=on|1}} of white covering, leaving you with three thinner cables.<br><br>[[Image:Wire a UK Plug Step 1.jpg|center|550px]]",
+                    "#  Strip roughly {{convert|0.5|to|1|cm|in|sp=us|adj=on|1}} off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<br><br>[[Image:Wire a UK Plug Step 5.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.<br><br>[[Image:Wire a UK Plug Step 1.jpg|center|550px]]",
+                    "#  Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<br><br>[[Image:Wire a UK Plug Step 5.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "13800777",
+            "user": "77.103.124.125",
+            "timestamp": "16:43, 2 June 2014",
+            "anon": true,
+            "size": "(3,407 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "13568836",
+            "user": "Votebot",
+            "timestamp": "16:55, 10 May 2014",
+            "anon": false,
+            "size": "(3,408 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur."
+                ],
+                "removed": [
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur."
+                ]
+            }
+        },
+        {
+            "id": "12490198",
+            "user": "Wikiphoto",
+            "timestamp": "06:15, 24 January 2014",
+            "anon": false,
+            "size": "(3,408 bytes)",
+            "change": 109,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.<br><br>[[Image:Wire a UK Plug Step 1.jpg|center|550px]]",
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.<br><br>[[Image:Wire a UK Plug Step 2.jpg|center|550px]]",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).<br><br>[[Image:Wire a UK Plug Step 3.jpg|center|550px]]",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.<br><br>[[Image:Wire a UK Plug Step 4.jpg|center|550px]]",
+                    "#  Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.<br><br>[[Image:Wire a UK Plug Step 5.jpg|center|550px]]",
+                    "#  See the diagram below, in the External Links section for a clearer view.<br><br>[[Image:Wire a UK Plug Step 6.jpg|center|550px]]",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.<br><br>[[Image:Wire a UK Plug Step 7.jpg|center|550px]]",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.<br><br>[[Image:Wire a UK Plug Step 8.jpg|center|550px]]",
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).<br><br>[[Image:Wire a UK Plug Step 9.jpg|center|550px]]",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).<br><br>[[Image:Wire a UK Plug Step 10.jpg|center|550px]]",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.<br><br>[[Image:Wire a UK Plug Step 11.jpg|center|550px]]",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up.<br><br>[[Image:Wire a UK Plug Step 12.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "#  [[Image:Wire a UK Plug Step 1.jpg|right|300px]]Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  [[Image:Wire a UK Plug Step 2.jpg|right|300px]]Undo the Philips screw in the center of the plug, on the side with the three pins poking out.",
+                    "#  [[Image:Wire a UK Plug Step 3.jpg|right|300px]]Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#  [[Image:Wire a UK Plug Step 4.jpg|right|300px]]Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "#  [[Image:Wire a UK Plug Step 5.jpg|right|300px]]Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.",
+                    "#  [[Image:Wire a UK Plug Step 6.jpg|right|300px]]See the diagram below, in the External Links section for a clearer view.",
+                    "#  [[Image:Wire a UK Plug Step 7.jpg|right|300px]]Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.",
+                    "#  [[Image:Wire a UK Plug Step 8.jpg|right|300px]]Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.",
+                    "#  [[Image:Wire a UK Plug Step 9.jpg|right|300px]]The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).",
+                    "#  [[Image:Wire a UK Plug Step 10.jpg|right|300px]]The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).",
+                    "#  [[Image:Wire a UK Plug Step 11.jpg|right|300px]]The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#  [[Image:Wire a UK Plug Step 12.jpg|right|300px]]Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ]
+            }
+        },
+        {
+            "id": "12490197",
+            "user": "Wikiphoto",
+            "timestamp": "06:15, 24 January 2014",
+            "anon": false,
+            "size": "(3,299 bytes)",
+            "change": 518,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope).",
+                    "#  [[Image:Wire a UK Plug Step 1.jpg|right|300px]]Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  [[Image:Wire a UK Plug Step 2.jpg|right|300px]]Undo the Philips screw in the center of the plug, on the side with the three pins poking out.",
+                    "#  [[Image:Wire a UK Plug Step 3.jpg|right|300px]]Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#  [[Image:Wire a UK Plug Step 4.jpg|right|300px]]Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "#  [[Image:Wire a UK Plug Step 5.jpg|right|300px]]Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.",
+                    "#  [[Image:Wire a UK Plug Step 6.jpg|right|300px]]See the diagram below, in the External Links section for a clearer view.",
+                    "#  [[Image:Wire a UK Plug Step 7.jpg|right|300px]]Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.",
+                    "#  [[Image:Wire a UK Plug Step 8.jpg|right|300px]]Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.",
+                    "#  [[Image:Wire a UK Plug Step 9.jpg|right|300px]]The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).",
+                    "#  [[Image:Wire a UK Plug Step 10.jpg|right|300px]]The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).",
+                    "#  [[Image:Wire a UK Plug Step 11.jpg|right|300px]]The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#  [[Image:Wire a UK Plug Step 12.jpg|right|300px]]Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ],
+                "removed": [
+                    "[[Image:13A_Plug_T_Shaped_Earth.JPG|right|257px]]This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope).",
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "#  Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.",
+                    "#  See the diagram below, in the External Links section for a clearer view.",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.",
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in).",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ]
+            }
+        },
+        {
+            "id": "11302255",
+            "user": "Demc7",
+            "timestamp": "18:42, 3 October 2013",
+            "anon": false,
+            "size": "(2,781 bytes)",
+            "change": 56,
+            "summary": "(Added video)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "http://www.youtube.com/watch?v=wBVkN5RpQNY"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "11223657",
+            "user": "TyTheWriter",
+            "timestamp": "23:13, 25 September 2013",
+            "anon": false,
+            "size": "(2,725 bytes)",
+            "change": 8,
+            "summary": "(Reverted edits by Telestar (Talk); changed back to last version by Maluniu)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out."
+                ],
+                "removed": [
+                    "#  Undo the screw in the center of the plug, on the side with the three pins poking out."
+                ]
+            }
+        },
+        {
+            "id": "11217157",
+            "user": "Telestar",
+            "timestamp": "11:54, 25 September 2013",
+            "anon": false,
+            "size": "(2,717 bytes)",
+            "change": -8,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "TyTheWriter",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the screw in the center of the plug, on the side with the three pins poking out."
+                ],
+                "removed": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out."
+                ]
+            }
+        },
+        {
+            "id": "11142256",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "01:27, 18 September 2013",
+            "anon": false,
+            "size": "(2,725 bytes)",
+            "change": -28,
+            "summary": "(Updating old title link to reflect current article redirect)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box|How to Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box]]"
+                ],
+                "removed": [
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box to Screw Into|How to Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box to Screw Into]]"
+                ]
+            }
+        },
+        {
+            "id": "11089613",
+            "user": "Peter C",
+            "timestamp": "18:00, 12 September 2013",
+            "anon": false,
+            "size": "(2,753 bytes)",
+            "change": 212,
+            "summary": "(I learned how to wire a plug today)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Tips ==",
+                    "*You will have to take out the fuse to put the wires in place inside the plug. Make sure you put it back in afterwards or the plug won't work as there will not be a complete circuit without the fuse."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10327092",
+            "user": "Votebot",
+            "timestamp": "16:48, 29 June 2013",
+            "anon": false,
+            "size": "(2,541 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ],
+                "removed": [
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ]
+            }
+        },
+        {
+            "id": "10066883",
+            "user": "Jordan",
+            "timestamp": "19:38, 2 June 2013",
+            "anon": false,
+            "size": "(2,541 bytes)",
+            "change": 97,
+            "summary": "(Reverted edits by 83.100.152.120 (Talk); changed back to last version by Lutherus Shyrilser)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:13A_Plug_T_Shaped_Earth.JPG|right|257px]]This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope)."
+                ],
+                "removed": [
+                    "GUTSY FITZGERALD!!!!!!!!!!!!!!!!!!!!"
+                ]
+            }
+        },
+        {
+            "id": "10065822",
+            "user": "83.100.152.120",
+            "timestamp": "15:34, 2 June 2013",
+            "anon": true,
+            "size": "(2,444 bytes)",
+            "change": -97,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Jordan",
+            "exact_contribution": {
+                "added": [
+                    "GUTSY FITZGERALD!!!!!!!!!!!!!!!!!!!!"
+                ],
+                "removed": [
+                    "[[Image:13A_Plug_T_Shaped_Earth.JPG|right|257px]]This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope)."
+                ]
+            }
+        },
+        {
+            "id": "9948628",
+            "user": "Lutherus Shyrilser",
+            "timestamp": "10:35, 21 May 2013",
+            "anon": false,
+            "size": "(2,541 bytes)",
+            "change": -33,
+            "summary": "(Revert vandalism)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Jordan",
+            "exact_contribution": {
+                "added": [
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur."
+                ],
+                "removed": [
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "you may die",
+                    "poooooooo",
+                    "c,c,ckfkf"
+                ]
+            }
+        },
+        {
+            "id": "9948624",
+            "user": "62.171.198.8",
+            "timestamp": "10:33, 21 May 2013",
+            "anon": true,
+            "size": "(2,574 bytes)",
+            "change": 10,
+            "summary": "(→‎Things You'll Need)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "poooooooo"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9948615",
+            "user": "62.171.198.8",
+            "timestamp": "10:32, 21 May 2013",
+            "anon": true,
+            "size": "(2,564 bytes)",
+            "change": 10,
+            "summary": "(→‎Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "c,c,ckfkf"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9948612",
+            "user": "62.171.198.8",
+            "timestamp": "10:31, 21 May 2013",
+            "anon": true,
+            "size": "(2,554 bytes)",
+            "change": 12,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "you may die"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9864186",
+            "user": "Zoeke913",
+            "timestamp": "02:58, 11 May 2013",
+            "anon": false,
+            "size": "(2,542 bytes)",
+            "change": 233,
+            "summary": "(Reverted edits by 212.219.81.100 (Talk); changed back to last version by Savannahcordova)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings ==",
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ],
+                "removed": [
+                    "this is all wrong"
+                ]
+            }
+        },
+        {
+            "id": "9854619",
+            "user": "212.219.81.100",
+            "timestamp": "08:41, 10 May 2013",
+            "anon": true,
+            "size": "(2,309 bytes)",
+            "change": -233,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Zoeke913",
+            "exact_contribution": {
+                "added": [
+                    "this is all wrong"
+                ],
+                "removed": [
+                    "== Warnings ==",
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ]
+            }
+        },
+        {
+            "id": "9438194",
+            "user": "Savannahcordova",
+            "timestamp": "00:42, 20 March 2013",
+            "anon": false,
+            "size": "(2,542 bytes)",
+            "change": -129,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Zoeke913",
+            "exact_contribution": {
+                "added": [
+                    "*This can go quite wrong if wired incorrectly, and death/serious injury can occur."
+                ],
+                "removed": [
+                    "Warnings: This can go quite wrong if wired incorrectly, and death/serious injury can occur. This is a poor quality article and lacks valuable images that would convey how to do the job to a professional standard."
+                ]
+            }
+        },
+        {
+            "id": "9421343",
+            "user": "92.26.183.175",
+            "timestamp": "14:18, 17 March 2013",
+            "anon": true,
+            "size": "(2,671 bytes)",
+            "change": 122,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Warnings: This can go quite wrong if wired incorrectly, and death/serious injury can occur. This is a poor quality article and lacks valuable images that would convey how to do the job to a professional standard."
+                ],
+                "removed": [
+                    "Warning: This can go quite wrong if wired incorrectly, and death/serious injury can occur."
+                ]
+            }
+        },
+        {
+            "id": "8947800",
+            "user": "Angmaar",
+            "timestamp": "20:27, 31 December 2012",
+            "anon": false,
+            "size": "(2,549 bytes)",
+            "change": 0,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#  Undo the Philips screw in the center of the plug, on the side with the three pins poking out.",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively maneuverable.",
+                    "*A thin Flathead screwdriver"
+                ],
+                "removed": [
+                    "#  Undo the Philips screw in the centre of the plug, on the side with the three pins poking out.",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively manouverable.",
+                    "*A thin flathead screwdriver"
+                ]
+            }
+        },
+        {
+            "id": "7511527",
+            "user": "Jmuddy95",
+            "timestamp": "23:40, 29 March 2012",
+            "anon": false,
+            "size": "(2,549 bytes)",
+            "change": -143,
+            "summary": "(removed bad link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Sources and Citations ==",
+                    "*A Diagram of the plug can be found here: http://www.bbc.co.uk/schools/gcsebitesize/physics/images/ph_elect19.gif"
+                ]
+            }
+        },
+        {
+            "id": "6680205",
+            "user": "Kanhu",
+            "timestamp": "16:01, 27 September 2011",
+            "anon": false,
+            "size": "(2,692 bytes)",
+            "change": 71,
+            "summary": "(Reverted edits by 92.25.48.191 (Talk); changed back to last version by FinderMonkey)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into, leaving you with three thinner cables."
+                ]
+            }
+        },
+        {
+            "id": "6680108",
+            "user": "92.25.48.191",
+            "timestamp": "15:41, 27 September 2011",
+            "anon": true,
+            "size": "(2,621 bytes)",
+            "change": -71,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Kanhu",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into, leaving you with three thinner cables."
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ]
+            }
+        },
+        {
+            "id": "5464352",
+            "user": "FinderMonkey",
+            "timestamp": "23:23, 8 January 2011",
+            "anon": false,
+            "size": "(2,692 bytes)",
+            "change": 49,
+            "summary": "(Picture Added, Added image: 13A_Plug_T_Shaped_Earth.JPG)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Kanhu",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:13A_Plug_T_Shaped_Earth.JPG|right|257px]]This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope)."
+                ],
+                "removed": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope)."
+                ]
+            }
+        },
+        {
+            "id": "2780649",
+            "user": "Flickety",
+            "timestamp": "06:08, 23 November 2008",
+            "anon": false,
+            "size": "(2,643 bytes)",
+            "change": -6,
+            "summary": "(categorizing)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Lighting and Fans]]"
+                ]
+            }
+        },
+        {
+            "id": "1629142",
+            "user": "Amazon111",
+            "timestamp": "19:09, 31 January 2008",
+            "anon": false,
+            "size": "(2,649 bytes)",
+            "change": -63,
+            "summary": "(Reverted edits by 92.11.59.76 (Talk); changed back to last version by 62.136.100.2)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ],
+                "removed": [
+                    "#  Strip the end oguyutyhjgiyi,hjm dgj jd gkhjkffjjkfjkjfkjhkjhkhjkhjkhjkhj,jkjhkf the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ]
+            }
+        },
+        {
+            "id": "1629139",
+            "user": "92.11.59.76",
+            "timestamp": "19:09, 31 January 2008",
+            "anon": true,
+            "size": "(2,712 bytes)",
+            "change": 63,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Amazon111",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end oguyutyhjgiyi,hjm dgj jd gkhjkffjjkfjkjfkjhkjhkhjkhjkhjkhj,jkjhkf the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ],
+                "removed": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables."
+                ]
+            }
+        },
+        {
+            "id": "1163107",
+            "user": "62.136.100.2",
+            "timestamp": "13:16, 21 September 2007",
+            "anon": true,
+            "size": "(2,649 bytes)",
+            "change": 17,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Amazon111",
+            "exact_contribution": {
+                "added": [
+                    "#  The Blue (Neutral) wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).",
+                    "#  The Brown (Live) wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in)."
+                ],
+                "removed": [
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you).",
+                    "#  The Brown wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in)."
+                ]
+            }
+        },
+        {
+            "id": "1050657",
+            "user": "86.134.91.137",
+            "timestamp": "16:32, 18 August 2007",
+            "anon": true,
+            "size": "(2,632 bytes)",
+            "change": -25,
+            "summary": "(→‎Warnings)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting this wrong can be '''very dangerous'''."
+                ],
+                "removed": [
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting things wrong can be very dangerous when electricity is involved."
+                ]
+            }
+        },
+        {
+            "id": "1050655",
+            "user": "86.134.91.137",
+            "timestamp": "16:31, 18 August 2007",
+            "anon": true,
+            "size": "(2,657 bytes)",
+            "change": -3,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#  Strip the end of the thick cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three pins of the front of the plug are facing away from you)."
+                ],
+                "removed": [
+                    "#  Strip the end of the thick (usually white) cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three ends to the wire are facing away from you)."
+                ]
+            }
+        },
+        {
+            "id": "1050653",
+            "user": "86.134.91.137",
+            "timestamp": "16:30, 18 August 2007",
+            "anon": true,
+            "size": "(2,660 bytes)",
+            "change": 6,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three ends to the wire are facing away from you).",
+                    "#  The Brown wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be clipped in)."
+                ],
+                "removed": [
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three pins are facing away from you).",
+                    "#  The Brown wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be fully clipped in)."
+                ]
+            }
+        },
+        {
+            "id": "1050651",
+            "user": "86.134.91.137",
+            "timestamp": "16:30, 18 August 2007",
+            "anon": true,
+            "size": "(2,654 bytes)",
+            "change": 1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screws are securely done up."
+                ],
+                "removed": [
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screw are securely done up."
+                ]
+            }
+        },
+        {
+            "id": "1042198",
+            "user": "Tderouin",
+            "timestamp": "12:25, 16 August 2007",
+            "anon": false,
+            "size": "(2,653 bytes)",
+            "change": 7,
+            "summary": "(Changing External Links to Sources and Citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== Sources and Citations =="
+                ],
+                "removed": [
+                    "== External Links =="
+                ]
+            }
+        },
+        {
+            "id": "614928",
+            "user": "Wacky",
+            "timestamp": "11:36, 21 March 2007",
+            "anon": false,
+            "size": "(2,646 bytes)",
+            "change": 410,
+            "summary": "(related wikihows)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Lighting and Fans]]",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box to Screw Into|How to Attach a Faceplate Into Drywall Without a Standard Electrical Outlet Box to Screw Into]]",
+                    "*[[Wire a Simple 120v Electrical Circuit|How to Wire a Simple 120v Electrical Circuit]]",
+                    "*[[Do Common Electrical Repairs|How to Do Common Electrical Repairs]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "610873",
+            "user": "Elocina",
+            "timestamp": "16:51, 19 March 2007",
+            "anon": false,
+            "size": "(2,236 bytes)",
+            "change": 0,
+            "summary": "(Wire a Uk Plug moved to Wire a UK Plug)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "610827",
+            "user": "81.156.126.107",
+            "timestamp": "16:14, 19 March 2007",
+            "anon": true,
+            "size": "(2,236 bytes)",
+            "change": 2236,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "This wikiHow will teach you how to put together or fix a UK three-pin plug (I hope).",
+                    "Warning: This can go quite wrong if wired incorrectly, and death/serious injury can occur.",
+                    "== Steps ==",
+                    "#  Strip the end of the thick (usually white) cable coming from the appliance into the plug, using wire strippers. Take off roughly 3cm of white covering, leaving you with three thinner cables.",
+                    "#  Undo the Philips screw in the centre of the plug, on the side with the three pins poking out.",
+                    "#  Take the back off of the plug (the part you loosened by undoing the screw).",
+                    "#  Leaving the plug on a desk/table/floor, take the stripped end of the thick white wire and separate the three wires inside it from each other, so each one is relatively manouverable.",
+                    "#  Strip roughly 0.5 to 1cm off of the end of the blue, brown and striped wires, so that the copper insides are clearly visible.",
+                    "#  See the diagram below, in the External Links section for a clearer view.",
+                    "#  Put all three wires through the cable grip, along with the thick white cable, until the cable grip can be securely tightened onto the thick white cable. The cable grip may have to be loosened with a Philips screwdriver in order to fit the cable underneath it.",
+                    "#  Undo the screws on top of the holes to allow the wires to go into the holes and get a good contact with the metal.",
+                    "#  The Blue wire (bl = bottom left) goes into the hole in the bottom left (when the three pins are facing away from you).",
+                    "#  The Brown wire (br = bottom right) goes into the hole on the right, connected to the fuse (which should be fully clipped in).",
+                    "#  The green and yellow wire is the earth wire, and goes through the middle up to the hole in the top.",
+                    "#  Put the back of the plug back on once all the wires are in and tight, and all the screw are securely done up.",
+                    "== Warnings ==",
+                    "*If unsure, it may be a good idea to have an electrician check things over/do the whole job himself, as getting things wrong can be very dangerous when electricity is involved.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Wire strippers",
+                    "*A thin flathead screwdriver",
+                    "*A small Philips screwdriver",
+                    "*Good hands",
+                    "",
+                    "== External Links ==",
+                    "*A Diagram of the plug can be found here: http://www.bbc.co.uk/schools/gcsebitesize/physics/images/ph_elect19.gif"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

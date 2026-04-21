@@ -1,0 +1,461 @@
+{
+    "title": "Wire-a-Variable-or-Fixed-Speed-DC-Motor-Circuit",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T10:02:23.324796",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33487558",
+            "user": "Bhoimus",
+            "timestamp": "02:11, 15 June 2025",
+            "anon": false,
+            "size": "(11,020 bytes)",
+            "change": -1,
+            "summary": "(wp)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "33487556",
+            "user": "Bhoimus",
+            "timestamp": "02:11, 15 June 2025",
+            "anon": false,
+            "size": "(11,021 bytes)",
+            "change": 18,
+            "summary": "(adding Horizontal TOC magic word (forums.wikihow.com/t/16140))",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32730108",
+            "user": "WikiHow Projects",
+            "timestamp": "13:25, 20 August 2024",
+            "anon": false,
+            "size": "(11,003 bytes)",
+            "change": 129,
+            "summary": "(Added expert citations)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#* The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed.",
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working."
+                ]
+            }
+        },
+        {
+            "id": "30544432",
+            "user": "Votebot",
+            "timestamp": "09:20, 14 May 2022",
+            "anon": false,
+            "size": "(10,874 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Do not use wall outlets or high-voltage sources unless properly educated and trained."
+                ],
+                "removed": [
+                    "* Do not use wall outlets or high-voltage sources unless properly educated and trained."
+                ]
+            }
+        },
+        {
+            "id": "30159782",
+            "user": "XxVxX",
+            "timestamp": "22:51, 23 December 2021",
+            "anon": false,
+            "size": "(10,874 bytes)",
+            "change": 7,
+            "summary": "(Updating image tag)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:WVFSDMC_1_1.jpg|center]]Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed."
+                ],
+                "removed": [
+                    "# [[Image:WVFSDMC_1_1.jpg]]Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed."
+                ]
+            }
+        },
+        {
+            "id": "28889097",
+            "user": "JayneG",
+            "timestamp": "23:53, 18 November 2020",
+            "anon": false,
+            "size": "(10,867 bytes)",
+            "change": -272,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor.",
+                    "These circuits are most easily done using a breadboard; however, buying screw down components, using electrical tape, or soldering (if you are properly qualified) also works."
+                ],
+                "removed": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor.",
+                    "These circuits are most easily done using a breadboard; however, buying screw down components, using electrical tape, or soldering (if you are properly qualified) also works. All materials needed in these circuits can be found at a local hardware store (RadioShack), online (Amazon.com), or found around the house."
+                ]
+            }
+        },
+        {
+            "id": "28863728",
+            "user": "Julia2002",
+            "timestamp": "13:13, 13 November 2020",
+            "anon": false,
+            "size": "(11,139 bytes)",
+            "change": 48,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28862230",
+            "user": "Nick Cejka",
+            "timestamp": "23:55, 12 November 2020",
+            "anon": false,
+            "size": "(11,091 bytes)",
+            "change": -25,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor."
+                ],
+                "removed": [
+                    "{{inuse|date=2020-10-19}}A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor."
+                ]
+            }
+        },
+        {
+            "id": "28762819",
+            "user": "Nick Cejka",
+            "timestamp": "21:12, 19 October 2020",
+            "anon": false,
+            "size": "(11,116 bytes)",
+            "change": 25,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{inuse|date=2020-10-19}}A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor."
+                ],
+                "removed": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor."
+                ]
+            }
+        },
+        {
+            "id": "28762815",
+            "user": "Nick Cejka",
+            "timestamp": "21:10, 19 October 2020",
+            "anon": false,
+            "size": "(11,091 bytes)",
+            "change": 602,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# [[Image:Make a Simple Electrical Circuit Step 3 Version 2.jpg|center]]Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# [[Image:WVFSDMC_1_2.jpg|center]]Connect the potentiometer to the positive or negative terminal of the power supply. One end of the wire must be connected to either outside pin/prong of the potentiometer. Using any method of connecting the wires, securely attach the potentiometer to the power supply using one wire, attached on both ends, or by connecting the components directly together.",
+                    "# [[Image:WVFSDMC_1_3.jpg|center]]Connect the potentiometer to one terminal of the DC motor. Attach the wire to the unused middle pin on the potentiometer. This is best done using a wire instead of directly so that the potentiometer can be easily controlled without the motor application interfering.",
+                    "# [[Image:WVFSDMC_1_4.jpg|center]]Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# [[Image:WVFSDMC_1_5.jpg|center]]Test the circuit. The DC motor should now be spinning if all components are securely connected. Rotating or adjusting the potentiometer should change the speed of the motor with either limit being the motors fastest speed, and the slowest speed the potentiometer can provide. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. Due to the vast variety of potentiometers, the range of speeds may not be optimal for a specific application and a different type may be needed to have more fine control over the motor or to achieve a lower range of speed.",
+                    "# [[Image:WVFSDMC_2_1.jpg|center]]Get the necessary materials. To build this circuit, a DC power supply, DC motor and resistors are needed.",
+                    "# [[Image:Make a Simple Electrical Circuit Step 2 Version 2.jpg|center]]Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# [[Image:Make a Simple Electrical Circuit Step 3 Version 2.jpg|center]]Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# [[Image:WVFSDMC_2_2.jpg|center]]Connect one resistor to the power supply. One end of the wire must be connected to one end of the resistor. Using a middle-value resistor out of the set first will give you an idea of whether to increase or decrease the resistance depending on the speed of the motor. Using any method of connecting the wires, securely attach the resistor to the power supply using one wire, attached on both ends, or by connecting the components directly together. The amount of resistors here may vary depending on what speed the motor must run at.",
+                    "# [[Image:WVFSDMC_2_3.jpg|center]]Connect the resistor to one terminal of the DC motor. Attach the wire to the unconnected side of the resistor. This is best done using a wire instead of directly so that the resistor(s) are out of the way of the motor application.",
+                    "# [[Image:WVFSDMC_2_4.jpg|center]]Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# [[Image:WVFSDMC_2_5.jpg|center]]Test the circuit. The DC motor should now be spinning if all components are securely connected. The resistance provided by the resistor(s) determines the speed the motor will run. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. If the motor runs by itself and not when connected to the resistor, the value of the resistor is too high for the motor and a lower resistance is needed.",
+                    "# [[Image:WVFSDMC_2_6.jpg|center]]Fine tune the motors speed. Now that the motor runs, achieving the desired speed is a matter of adding or changing the resistors. To decrease the speed, detach one end of the connected resistor and connect another resistor to that end of the resistor and reattach the disconnected side to the unconnected end of the new resistor. The resistors should be connected in a straight line to get the proper motor speed. To increase the speed, remove all or one of the resistors and reconnect a lower resistance resistor in its place. Many varying resistance resistors can be stacked together to get the exact speed the motor should run at."
+                ],
+                "removed": [
+                    "# Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# Connect the potentiometer to the positive or negative terminal of the power supply. One end of the wire must be connected to either outside pin/prong of the potentiometer. Using any method of connecting the wires, securely attach the potentiometer to the power supply using one wire, attached on both ends, or by connecting the components directly together.",
+                    "# Connect the potentiometer to one terminal of the DC motor. Attach the wire to the unused middle pin on the potentiometer. This is best done using a wire instead of directly so that the potentiometer can be easily controlled without the motor application interfering.",
+                    "# Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# Test the circuit. The DC motor should now be spinning if all components are securely connected. Rotating or adjusting the potentiometer should change the speed of the motor with either limit being the motors fastest speed, and the slowest speed the potentiometer can provide. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. Due to the vast variety of potentiometers, the range of speeds may not be optimal for a specific application and a different type may be needed to have more fine control over the motor or to achieve a lower range of speed.",
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and resistors are needed.",
+                    "# Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# Connect one resistor to the power supply. One end of the wire must be connected to one end of the resistor. Using a middle-value resistor out of the set first will give you an idea of whether to increase or decrease the resistance depending on the speed of the motor. Using any method of connecting the wires, securely attach the resistor to the power supply using one wire, attached on both ends, or by connecting the components directly together. The amount of resistors here may vary depending on what speed the motor must run at.",
+                    "# Connect a resistor to one terminal of the DC motor. Attach the wire to the unconnected side of the resistor. This is best done using a wire instead of directly so that the resistor(s) are out of the way of the motor application.",
+                    "# Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# Test the circuit. The DC motor should now be spinning if all components are securely connected. The resistance provided by the resistor(s) determines the speed the motor will run. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. If the motor runs by itself and not when connected to the resistor, the value of the resistor is too high for the motor and a lower resistance is needed.",
+                    "# Fine tune the motors speed. Now that the motor runs, achieving the desired speed is a matter of adding or changing the resistors. To decrease the speed, detach one end of the connected resistor and connect another resistor to that end of the resistor and reattach the disconnected side to the unconnected end of the new resistor. The resistors should be connected in a straight line to get the proper motor speed. To increase the speed, remove all or one of the resistors and reconnect a lower resistance resistor in its place. Many varying resistance resistors can be stacked together to get the exact speed the motor should run at."
+                ]
+            }
+        },
+        {
+            "id": "28762752",
+            "user": "Nick Cejka",
+            "timestamp": "20:49, 19 October 2020",
+            "anon": false,
+            "size": "(10,489 bytes)",
+            "change": 25,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# [[Image:WVFSDMC_1_1.jpg]]Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed."
+                ],
+                "removed": [
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed."
+                ]
+            }
+        },
+        {
+            "id": "28762745",
+            "user": "Nick Cejka",
+            "timestamp": "20:45, 19 October 2020",
+            "anon": false,
+            "size": "(10,464 bytes)",
+            "change": 3,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found below.",
+                    "#*A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found below."
+                ],
+                "removed": [
+                    "#* A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "#*A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found below"
+                ]
+            }
+        },
+        {
+            "id": "28762740",
+            "user": "Nick Cejka",
+            "timestamp": "20:44, 19 October 2020",
+            "anon": false,
+            "size": "(10,461 bytes)",
+            "change": 17,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and resistors are needed.",
+                    "#* The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*",
+                    "#*The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "#*Three or more wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "#*A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found below",
+                    "#*The resistors can be any value but getting the exact speed needed from the motor requires testing with a certain range of resistors. The values of the resistors add up linearly so it is easy to calculate how to increase or decrease the motors speed by simply adding the values together. For example, two 1kΩ resistors wired together will act the same as a 2kΩ resistor."
+                ],
+                "removed": [
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and resistors are needed.The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*The DC motor can be any size or type of electrical motor that uses DC current.Three or more wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found hereThe resistors can be any value but getting the exact speed needed from the motor requires testing with a certain range of resistors. The values of the resistors add up linearly so it is easy to calculate how to increase or decrease the motors speed by simply adding the values together. For example, two 1kΩ resistors wired together will act the same as a 2kΩ resistor."
+                ]
+            }
+        },
+        {
+            "id": "28762735",
+            "user": "Nick Cejka",
+            "timestamp": "20:42, 19 October 2020",
+            "anon": false,
+            "size": "(10,444 bytes)",
+            "change": 9,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#* The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*",
+                    "#* The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "#* Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "#* A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "#* The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ],
+                "removed": [
+                    "- The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*",
+                    "-The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "-Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "-A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "-The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ]
+            }
+        },
+        {
+            "id": "28762734",
+            "user": "Nick Cejka",
+            "timestamp": "20:42, 19 October 2020",
+            "anon": false,
+            "size": "(10,435 bytes)",
+            "change": -4,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "-The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "-Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "-A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "-The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ],
+                "removed": [
+                    "- The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "- Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "- A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "- The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ]
+            }
+        },
+        {
+            "id": "28762733",
+            "user": "Nick Cejka",
+            "timestamp": "20:41, 19 October 2020",
+            "anon": false,
+            "size": "(10,439 bytes)",
+            "change": 17,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor.",
+                    "",
+                    "These circuits are most easily done using a breadboard; however, buying screw down components, using electrical tape, or soldering (if you are properly qualified) also works. All materials needed in these circuits can be found at a local hardware store (RadioShack), online (Amazon.com), or found around the house.",
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed.",
+                    "- The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*",
+                    "- The DC motor can be any size or type of electrical motor that uses DC current.",
+                    "- Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.",
+                    "- A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found here",
+                    "- The potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ],
+                "removed": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor.These circuits are most easily done using a breadboard; however, buying screw down components, using electrical tape, or soldering (if you are properly qualified) also works. All materials needed in these circuits can be found at a local hardware store (RadioShack), online (Amazon.com), or found around the house.",
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed.The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*The DC motor can be any size or type of electrical motor that uses DC current.Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found hereThe potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed."
+                ]
+            }
+        },
+        {
+            "id": "28762726",
+            "user": "Nick Cejka",
+            "timestamp": "20:38, 19 October 2020",
+            "anon": false,
+            "size": "(10,422 bytes)",
+            "change": 10422,
+            "summary": "(Creating a new article via the Article Creator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "A DC (direct current) motor is a type of motor that uses electrical current to create rotational motion. A functioning electric circuit allows current to flow through electric components and supplies these devices with electrical energy. The speed and acceleration (torque) of the DC motor depends on the amount of current in the circuit. The amount of current going through the circuit depends on many different factors with the two primary variables being voltage and current. When using a fixed voltage to power the DC motor, such as a 9V battery or battery pack, the amount of current depends on the total resistance of the circuit. The two most simple ways to control the resistance is to use resistors and potentiometers. Resistors provide a fixed resistance of any value while a potentiometer provides an adjustable range of resistances. When either are used correctly in a circuit, they provide control over the speed of the DC motor.These circuits are most easily done using a breadboard; however, buying screw down components, using electrical tape, or soldering (if you are properly qualified) also works. All materials needed in these circuits can be found at a local hardware store (RadioShack), online (Amazon.com), or found around the house.",
+                    "== Steps ==",
+                    "=== Wiring a Variable Speed DC Motor Circuit ===",
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and a potentiometer are needed.The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*The DC motor can be any size or type of electrical motor that uses DC current.Three wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found hereThe potentiometer can be any type that allows manual control of its resistance. The total resistance value of the potentiometer should be fairly high; etc., a 1kΩ potentiometer will work good for a 9V battery. But due to the nature of potentiometers, the motor may not fully stop once it is at its max resistance because current is still flowing. This is where incorporating some kind of switch will allow the motor to be easily stopped when not needed.",
+                    "# Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# Connect the potentiometer to the positive or negative terminal of the power supply. One end of the wire must be connected to either outside pin/prong of the potentiometer. Using any method of connecting the wires, securely attach the potentiometer to the power supply using one wire, attached on both ends, or by connecting the components directly together.",
+                    "# Connect the potentiometer to one terminal of the DC motor. Attach the wire to the unused middle pin on the potentiometer. This is best done using a wire instead of directly so that the potentiometer can be easily controlled without the motor application interfering.",
+                    "# Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# Test the circuit. The DC motor should now be spinning if all components are securely connected. Rotating or adjusting the potentiometer should change the speed of the motor with either limit being the motors fastest speed, and the slowest speed the potentiometer can provide. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. Due to the vast variety of potentiometers, the range of speeds may not be optimal for a specific application and a different type may be needed to have more fine control over the motor or to achieve a lower range of speed.",
+                    "",
+                    "=== Wiring a Fixed Speed DC Motor Circuit ===",
+                    "# Get the necessary materials. To build this circuit, a DC power supply, DC motor and resistors are needed.The power supply can be any DC battery, power pack, voltage generator, or any device that provides electrical power. *Avoid using high voltages and currents as this can damage the components and be dangerous to work with.*The DC motor can be any size or type of electrical motor that uses DC current.Three or more wires are needed. Insulated wires work best as they prevent wires from crossing and the battery from short circuiting.A breadboard, electrical tape or solder to make solid connections in the circuit. A tutorial for using breadboards can be found hereThe resistors can be any value but getting the exact speed needed from the motor requires testing with a certain range of resistors. The values of the resistors add up linearly so it is easy to calculate how to increase or decrease the motors speed by simply adding the values together. For example, two 1kΩ resistors wired together will act the same as a 2kΩ resistor.",
+                    "# Strip the ends of the insulated wires or wrap the middle of the bare wires with tape. About one inch of exposed wire on each end is needed to get a solid connection. Using wire strippers to cut the correct diameter of the wire is easiest, but using scissors or a knife also works. Do not cut off more than the plastic insulation so that the copper wire is exposed. Cutting more than the insulation will damage the wires ability to properly carry current and may prevent the circuit from working.",
+                    "# Prepare the power supply. If using a power pack, install the batteries so the + and - sides are facing the correct directions in the housing. If it can be done, keep the power supply off for now.",
+                    "# Connect one resistor to the power supply. One end of the wire must be connected to one end of the resistor. Using a middle-value resistor out of the set first will give you an idea of whether to increase or decrease the resistance depending on the speed of the motor. Using any method of connecting the wires, securely attach the resistor to the power supply using one wire, attached on both ends, or by connecting the components directly together. The amount of resistors here may vary depending on what speed the motor must run at.",
+                    "# Connect a resistor to one terminal of the DC motor. Attach the wire to the unconnected side of the resistor. This is best done using a wire instead of directly so that the resistor(s) are out of the way of the motor application.",
+                    "# Connect the other terminal of the DC motor to the unused terminal of the power supply. If the power supply is not off or has no switch, then the motor may begin spinning once it is connected to the power supply. If this causes many problems, a switch may be installed between these components to shut off the circuit when needed. Once both ends of the wire are connected, the circuit will be ready.",
+                    "# Test the circuit. The DC motor should now be spinning if all components are securely connected. The resistance provided by the resistor(s) determines the speed the motor will run. If the motor is not running, check all the connections to make sure the circuit is securely connected. If the motor still doesn't run, check that the battery is not dead by connecting it directly to the motor and replace or recharge if dead. The direction of the motor’s spin can be changed by swapping the wires connected on either terminal of the DC motor. If the motor runs by itself and not when connected to the resistor, the value of the resistor is too high for the motor and a lower resistance is needed.",
+                    "# Fine tune the motors speed. Now that the motor runs, achieving the desired speed is a matter of adding or changing the resistors. To decrease the speed, detach one end of the connected resistor and connect another resistor to that end of the resistor and reattach the disconnected side to the unconnected end of the new resistor. The resistors should be connected in a straight line to get the proper motor speed. To increase the speed, remove all or one of the resistors and reconnect a lower resistance resistor in its place. Many varying resistance resistors can be stacked together to get the exact speed the motor should run at.",
+                    "",
+                    "== Tips ==",
+                    "* Buying a breadboard or a breadboard kit make building circuits easy and quick. There are a variety of kits online that include all of the components needed to build either of these circuits.",
+                    "* There are online circuit simulation software that allow building and testing of any number of circuits before you physically make them.",
+                    "",
+                    "== Warnings ==",
+                    "* If both ends of the power supply are touched, the circuit may slightly electrocute you depending on the current being supplied. Although at lower voltages this is no cause for concern other than mild discomfort, high voltage sources can be very dangerous and are not to be used by unqualified individuals.",
+                    "* Do not use wall outlets or high-voltage sources unless properly educated and trained.",
+                    "",
+                    "== References ==",
+                    "* https://uk.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/dc-motors-guide",
+                    "* https://www.britannica.com/technology/electric-circuit",
+                    "* https://www.khanacademy.org/science/physics/torque-angular-momentum/torque-tutorial/a/torque",
+                    "* https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all",
+                    "",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

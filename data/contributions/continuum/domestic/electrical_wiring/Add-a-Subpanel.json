@@ -1,0 +1,1196 @@
+{
+    "title": "Add-a-Subpanel",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:30:26.472681",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34090954",
+            "user": "MiscBot",
+            "timestamp": "18:30, 19 February 2026",
+            "anon": false,
+            "size": "(13,027 bytes)",
+            "change": -68,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]"
+                ]
+            }
+        },
+        {
+            "id": "34075068",
+            "user": "MiscBot",
+            "timestamp": "01:18, 19 February 2026",
+            "anon": false,
+            "size": "(13,095 bytes)",
+            "change": 71,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34059124",
+            "user": "MiscBot",
+            "timestamp": "18:05, 18 February 2026",
+            "anon": false,
+            "size": "(13,024 bytes)",
+            "change": -71,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "30733275",
+            "user": "MiscBot",
+            "timestamp": "00:52, 28 July 2022",
+            "anon": false,
+            "size": "(13,095 bytes)",
+            "change": 18,
+            "summary": "(adding magic word for horizontal table of contents)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "30551031",
+            "user": "Seymour Edits",
+            "timestamp": "20:53, 16 May 2022",
+            "anon": false,
+            "size": "(13,077 bytes)",
+            "change": 6,
+            "summary": "(tweaked headers)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "===Choosing a Subpanel and Location===",
+                    "===Connecting the Wires==="
+                ],
+                "removed": [
+                    "===Choosing Subpanel and Location===",
+                    "===Connecting Wires==="
+                ]
+            }
+        },
+        {
+            "id": "30539506",
+            "user": "Seymour Edits",
+            "timestamp": "19:28, 12 May 2022",
+            "anon": false,
+            "size": "(13,071 bytes)",
+            "change": -27,
+            "summary": "(Updating headers for TOC project.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "===Choosing Subpanel and Location===",
+                    "===Mounting===",
+                    "===Connecting Wires==="
+                ],
+                "removed": [
+                    "===Choosing the Right Subpanel and Location===",
+                    "===Mounting the Subpanel===",
+                    "===Connecting the Wires==="
+                ]
+            }
+        },
+        {
+            "id": "27394901",
+            "user": "Wikivisual",
+            "timestamp": "15:56, 21 November 2019",
+            "anon": false,
+            "size": "(13,098 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Install a subpanel to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 4 Version 3.jpg|center]]",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the 4 mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 8 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Install a subpanel to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 4 Version 2.jpg|center]]",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the 4 mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 8 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27368511",
+            "user": "Wikivisual",
+            "timestamp": "14:42, 15 November 2019",
+            "anon": false,
+            "size": "(13,098 bytes)",
+            "change": 679,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Consult with an inspector so you don’t overload your system. A licensed inspector can confirm that it is safe for you to install a subpanel and won’t put too much strain on your electrical system. They can also issue a permit to add a subpanel if your area requires one and they can inspect your subpanel after you install it to verify that it is up to code.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>[[Image:Add a Subpanel Step 1 Version 2.jpg|center]]",
+                    "#Purchase a subpanel with all of the connections. When you’re choosing a subpanel to install, get one that has all of the connectors, cables, and breakers that you need to install it. It’s also important that you use a new panel and attachments so you can install it safely.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>[[Image:Add a Subpanel Step 2 Version 2.jpg|center]]",
+                    "#Place a subpanel near the main panel to add additional circuits. If you need more circuits to power your electrical devices, install a subpanel adjacent to your main circuit breaker. This will allow you to extend your circuitry if you need to use more, while also allowing you to shut off power to the subpanel when you aren’t using it.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 3 Version 2.jpg|center]]",
+                    "#Install a subpanel to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 4 Version 2.jpg|center]]",
+                    "#Don’t install subpanels in a bathroom or closet. Subpanels have an electrical current running through them, so it’s important that they don’t get wet or overheat. The steam and humidity of a bathroom can cause a subpanel to short out and a full closet could potentially cause the circuitry to overheat.<ref>https://youtu.be/NLB4qEJn0w8?t=35</ref>[[Image:Add a Subpanel Step 5 Version 2.jpg|center]]",
+                    "#Turn off the power to the main panel. Before you begin any work on an electrical panel, shut off all of the power running through it. That way you can’t accidentally shock or electrocute yourself. Look for the main power switch and push it. All of the lights and electrical devices should then turn off.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 6 Version 2.jpg|center]]",
+                    "#[[Find a Stud|Locate a wall stud]] where you want to install the panel. Use a stud finder and run it across the wall until it tells you you’ve located a stud. If you don’t have a stud finder, you can try knocking lightly on the wall to see if you can hear a solid sound that would indicate a stud behind the wall.<ref>https://www.digitaltrends.com/home/how-to-find-wall-studs/</ref>[[Image:Add a Subpanel Step 7 Version 2.jpg|center]]",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the 4 mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 8 Version 2.jpg|center]]",
+                    "#Drill mounting screws into the stud leaving a {{convert|1/4|in|cm}} gap. Once you’ve located a stud, use a power drill to install mounting screws into it so you can install your subpanel. But don’t drive the screws all the way into the stud. Leave a small gap between the mounting screw and the wall so the subpanel can fit onto it.<ref>https://youtu.be/bDuOVe19C8M?t=92</ref>{{greenbox:'''Tip:''' If you don’t have a power drill, use a screwdriver to drive the mounting screws into the stud.}}[[Image:Add a Subpanel Step 9 Version 2.jpg|center]]",
+                    "#Place the subpanel onto the mounting screws and tighten them. Slide the panel onto the mount so all of the screws are in the correct slots. Then, take a drill or screwdriver and tighten the screws so the panel is securely fastened against the wall.<ref>https://youtu.be/KyJbaTmoyA0?t=205</ref>[[Image:Add a Subpanel Step 10 Version 2.jpg|center]]",
+                    "#Remove the knockout slug on the side of the panel with a hammer. Look for a perforated circle on the side, top, or bottom of the panel. You can use a hammer and screwdriver to knock out the slug so you can insert wiring into the subpanel.<ref>https://youtu.be/KyJbaTmoyA0?t=265</ref>[[Image:Add a Subpanel Step 11 Version 2.jpg|center]]",
+                    "#Place the connector into the slot and secure it in place. With the knockout slug removed, insert the metal connector into the hole so you can insert your 4-wire feeder cable through it. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>[[Image:Add a Subpanel Step 12 Version 2.jpg|center]]",
+                    "#Run the feeder cable from the main panel to the subpanel. The 4-wire feeder cable should be included with your subpanel and is a large black cable with 4 wires inside of it. With the main panel door open, insert the cable and slide it through the knockout opening. Then feed it into through the knockout opening on the subpanel. Unwrap the insulation surrounding it with your fingers to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 13 Version 2.jpg|center]]",
+                    "#Connect the neutral and ground wires to their bus bars. Take the white neutral wire, insert it beneath the screw at the top of the neutral bus bar in the main panel, and tighten the screw to secure it. Connect the other end of the wire in the subpanel in the same fashion. Then, connect the ground wire to the ground bus bar, tighten the screw to secure it, and connect the other end of the wire to the neutral bus bar in the subpanel.<ref>https://ask-the-electrician.com/grounds-and-neutrals-in-electrical-panel/</ref>[[Image:Add a Subpanel Step 14 Version 2.jpg|center]]",
+                    "#Insert the red and black wires into the feeder breaker. The feeder breaker is a black cube with switches on it that is added to the main panel to run power to the subpanel. Strip the very ends of the red and black wires to expose the metal wire beneath. Insert the wires into the slots on the feeder breaker beneath the 2 screws at the top. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 15 Version 2.jpg|center]]",
+                    "#Snap the feeder breaker into an empty slot in the main panel. With the feeder breaker connected to the red and black wires, connect it to an empty slot on your main panel by aligning the connections and pressing it into the slot. It will click into place if it’s fitted correctly.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 16 Version 2.jpg|center]]",
+                    "#Attach the red and black wires to the terminals in the subpanel. The 2 “hot” bus bars are the bus bars that do not have a ground or neutral wire connected to them. Strip the end of the red and black wires, insert them beneath the screw at the top of the hot bus bars, then tighten the screws to connect and secure them.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 17 Version 2.jpg|center]]",
+                    "#Turn on the breaker and close the panels. After all of the wires and connections are secure, restore power to the main panel. Then turn on the feeder breaker that you added by flipping the switch. Your subpanel should now be functioning.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 18.jpg|center]]"
+                ],
+                "removed": [
+                    "#Consult with an inspector so you don’t overload your system. A licensed inspector can confirm that it is safe for you to install a subpanel and won’t put too much strain on your electrical system. They can also issue a permit to add a subpanel if your area requires one and they can inspect your subpanel after you install it to verify that it is up to code.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "#Purchase a subpanel with all of the connections. When you’re choosing a subpanel to install, get one that has all of the connectors, cables, and breakers that you need to install it. It’s also important that you use a new panel and attachments so you can install it safely.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>",
+                    "#Place a subpanel near the main panel to add additional circuits. If you need more circuits to power your electrical devices, install a subpanel adjacent to your main circuit breaker. This will allow you to extend your circuitry if you need to use more, while also allowing you to shut off power to the subpanel when you aren’t using it.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Install a subpanel to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Don’t install subpanels in a bathroom or closet. Subpanels have an electrical current running through them, so it’s important that they don’t get wet or overheat. The steam and humidity of a bathroom can cause a subpanel to short out and a full closet could potentially cause the circuitry to overheat.<ref>https://youtu.be/NLB4qEJn0w8?t=35</ref>",
+                    "#Turn off the power to the main panel. Before you begin any work on an electrical panel, shut off all of the power running through it. That way you can’t accidentally shock or electrocute yourself. Look for the main power switch and push it. All of the lights and electrical devices should then turn off.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "#[[Find a Stud|Locate a wall stud]] where you want to install the panel. Use a stud finder and run it across the wall until it tells you you’ve located a stud. If you don’t have a stud finder, you can try knocking lightly on the wall to see if you can hear a solid sound that would indicate a stud behind the wall.<ref>https://www.digitaltrends.com/home/how-to-find-wall-studs/</ref>",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the 4 mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#Drill mounting screws into the stud leaving a {{convert|1/4|in|cm}} gap. Once you’ve located a stud, use a power drill to install mounting screws into it so you can install your subpanel. But don’t drive the screws all the way into the stud. Leave a small gap between the mounting screw and the wall so the subpanel can fit onto it.<ref>https://youtu.be/bDuOVe19C8M?t=92</ref>{{greenbox:'''Tip:''' If you don’t have a power drill, use a screwdriver to drive the mounting screws into the stud.}}",
+                    "#Place the subpanel onto the mounting screws and tighten them. Slide the panel onto the mount so all of the screws are in the correct slots. Then, take a drill or screwdriver and tighten the screws so the panel is securely fastened against the wall.<ref>https://youtu.be/KyJbaTmoyA0?t=205</ref>",
+                    "#Remove the knockout slug on the side of the panel with a hammer. Look for a perforated circle on the side, top, or bottom of the panel. You can use a hammer and screwdriver to knock out the slug so you can insert wiring into the subpanel.<ref>https://youtu.be/KyJbaTmoyA0?t=265</ref>",
+                    "#Place the connector into the slot and secure it in place. With the knockout slug removed, insert the metal connector into the hole so you can insert your 4-wire feeder cable through it. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#Run the feeder cable from the main panel to the subpanel. The 4-wire feeder cable should be included with your subpanel and is a large black cable with 4 wires inside of it. With the main panel door open, insert the cable and slide it through the knockout opening. Then feed it into through the knockout opening on the subpanel. Unwrap the insulation surrounding it with your fingers to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Connect the neutral and ground wires to their bus bars. Take the white neutral wire, insert it beneath the screw at the top of the neutral bus bar in the main panel, and tighten the screw to secure it. Connect the other end of the wire in the subpanel in the same fashion. Then, connect the ground wire to the ground bus bar, tighten the screw to secure it, and connect the other end of the wire to the neutral bus bar in the subpanel.<ref>https://ask-the-electrician.com/grounds-and-neutrals-in-electrical-panel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#Insert the red and black wires into the feeder breaker. The feeder breaker is a black cube with switches on it that is added to the main panel to run power to the subpanel. Strip the very ends of the red and black wires to expose the metal wire beneath. Insert the wires into the slots on the feeder breaker beneath the 2 screws at the top. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#Snap the feeder breaker into an empty slot in the main panel. With the feeder breaker connected to the red and black wires, connect it to an empty slot on your main panel by aligning the connections and pressing it into the slot. It will click into place if it’s fitted correctly.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Attach the red and black wires to the terminals in the subpanel. The 2 “hot” bus bars are the bus bars that do not have a ground or neutral wire connected to them. Strip the end of the red and black wires, insert them beneath the screw at the top of the hot bus bars, then tighten the screws to connect and secure them.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 11.jpg|center]]",
+                    "#Turn on the breaker and close the panels. After all of the wires and connections are secure, restore power to the main panel. Then turn on the feeder breaker that you added by flipping the switch. Your subpanel should now be functioning.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 16.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27202697",
+            "user": "Seymour Edits",
+            "timestamp": "19:21, 11 October 2019",
+            "anon": false,
+            "size": "(12,419 bytes)",
+            "change": 405,
+            "summary": "(added info for clarity; revised awkward text; updated step titles; proofread)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "#*The inspector can also advise what amperage your subpanel should be. Typical panels in the US have 100 or 200 amps, but older homes, or homes in other locations may only be able to support a 60-amp panel.",
+                    "#Purchase a subpanel with all of the connections. When you’re choosing a subpanel to install, get one that has all of the connectors, cables, and breakers that you need to install it. It’s also important that you use a new panel and attachments so you can install it safely.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>",
+                    "#Install a subpanel to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*A newly furnished shed could use an additional subpanel inside of it so the main system isn’t overloaded.",
+                    "#*If you build an additional room as an add-on to your home, you may need a subpanel in it so your system can power it.",
+                    "#*You also needs to be able to access the subpanel easily and maneuvering inside a small closet may be difficult.",
+                    "#*Check the electrical outlets on the wall if there are any. Most electrical outlet boxes are mounted on the side of a stud, so they can help tell you where one is located.",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the 4 mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#*Mark where the screws need to be drilled into the wall with a pencil or marker.",
+                    "#Place the subpanel onto the mounting screws and tighten them. Slide the panel onto the mount so all of the screws are in the correct slots. Then, take a drill or screwdriver and tighten the screws so the panel is securely fastened against the wall.<ref>https://youtu.be/KyJbaTmoyA0?t=205</ref>",
+                    "#Remove the knockout slug on the side of the panel with a hammer. Look for a perforated circle on the side, top, or bottom of the panel. You can use a hammer and screwdriver to knock out the slug so you can insert wiring into the subpanel.<ref>https://youtu.be/KyJbaTmoyA0?t=265</ref>",
+                    "#Run the feeder cable from the main panel to the subpanel. The 4-wire feeder cable should be included with your subpanel and is a large black cable with 4 wires inside of it. With the main panel door open, insert the cable and slide it through the knockout opening. Then feed it into through the knockout opening on the subpanel. Unwrap the insulation surrounding it with your fingers to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*If you’re installing a subpanel in a separate room from the main panel, use a longer feeder cable to reach it.",
+                    "#*If the end of the wire is covered by sheathing, use a wire stripper or a utility knife to remove about {{convert|1|in|cm}} of the sheathing to fit the exposed wire into the bus bar.",
+                    "#*Use a longer cable to reach a subpanel installed in a separate room.{{greenbox:'''Tip:''' If there is no diagram on the panel, look up the make and model of the panel online to identify the bus bars.}}",
+                    "#*If you’re adding a subpanel in a room away from the main panel, make sure the cable is long enough to reach from the subpanel to the main panel."
+                ],
+                "removed": [
+                    "#*The inspector can also advise what amperage your subpanel should be. Typical panels have 100 or 200 amps, but older homes may only be able to support a 60-amp panel.",
+                    "#Purchase a subpanel with all of the connections. When you’re choosing a subpanel to install, get one that has all of the connectors, cables, and breakers that you need to install it. It’s also important that you use a new or good quality panel and attachments so you can install it safely.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>",
+                    "#Install a subpanel in a basement or garage to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*A newly furnished shed could use an additional subpanel so the main system isn’t overloaded.",
+                    "#*If you build an additional room as an add-on to your home, you may need a subpanel in order to power it.",
+                    "#*You also needs to be able to access the subpanel easily and inside of a small closet may be difficult to maneuver.",
+                    "#*Check the electrical outlets on the wall if there is one. Most electrical boxes are mounted on the side of a stud, so they can help tell you where one is located.",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#*Trace the circle on the wall of the holes where the screws need to be added.",
+                    "#Place the subpanel onto the mounting screws and tighten them. Slide the panel onto the mounting hooks so all of the screws are in the correct slots. Then, take a drill or screwdriver and tighten the screws so the panel is securely fastened against the wall.<ref>https://youtu.be/KyJbaTmoyA0?t=205</ref>",
+                    "#Remove the knockout slug on the side of the panel with a hammer. Look for a perforated circle on the side, top, or the bottom of the panel. You can use a hammer and screwdriver to knock out the slug so you can insert wiring into the subpanel.<ref>https://youtu.be/KyJbaTmoyA0?t=265</ref>",
+                    "#Run the feeder cable from the main panel to the subpanel. The 4-wire feeder cable should be included with your subpanel and is a large black cable with 4 wires inside of it. With the main panel door open, insert the cable and slide it through the knockout opening. Then feed it into through the knockout opening on the subpanel. Unwrap the insulation surrounding it to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*If the end of the wire is covered by sheathing, use a wire stripper or a utility knife to remove enough sheath to fit the exposed wire into the bus bar.{{greenbox:'''Tip:''' If there is no diagram on the panel, look up the make and model of the panel online to identify the bus bars.}}"
+                ]
+            }
+        },
+        {
+            "id": "27136429",
+            "user": "Seymour Edits",
+            "timestamp": "15:17, 26 September 2019",
+            "anon": false,
+            "size": "(12,014 bytes)",
+            "change": 210,
+            "summary": "(researched to add/clarify info; added text for clarity; revised intro; proofread)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re trying to power an additional room or you just need more circuits, adding an electrical subpanel is a simple way to extend your circuitry, which can power additional rooms and devices. Choose the right subpanel and location for your needs. Shut off the power to the main system and connect the subpanel to your main panel using a feeder cable and breaker. Installing a subpanel can be dangerous if you’re not sure what you’re doing. If you feel uncomfortable or unsure, contact a licensed electrician to install your subpanel.",
+                    "#*You’ll need a subpanel, 4-wire feeder cable, feeder breaker, and connectors to complete the job.",
+                    "#Place the connector into the slot and secure it in place. With the knockout slug removed, insert the metal connector into the hole so you can insert your 4-wire feeder cable through it. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#Run the feeder cable from the main panel to the subpanel. The 4-wire feeder cable should be included with your subpanel and is a large black cable with 4 wires inside of it. With the main panel door open, insert the cable and slide it through the knockout opening. Then feed it into through the knockout opening on the subpanel. Unwrap the insulation surrounding it to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Connect the neutral and ground wires to their bus bars. Take the white neutral wire, insert it beneath the screw at the top of the neutral bus bar in the main panel, and tighten the screw to secure it. Connect the other end of the wire in the subpanel in the same fashion. Then, connect the ground wire to the ground bus bar, tighten the screw to secure it, and connect the other end of the wire to the neutral bus bar in the subpanel.<ref>https://ask-the-electrician.com/grounds-and-neutrals-in-electrical-panel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#*A bus bar is a metal strip or bar used to connect wires to power the panels.",
+                    "#Insert the red and black wires into the feeder breaker. The feeder breaker is a black cube with switches on it that is added to the main panel to run power to the subpanel. Strip the very ends of the red and black wires to expose the metal wire beneath. Insert the wires into the slots on the feeder breaker beneath the 2 screws at the top. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#Attach the red and black wires to the terminals in the subpanel. The 2 “hot” bus bars are the bus bars that do not have a ground or neutral wire connected to them. Strip the end of the red and black wires, insert them beneath the screw at the top of the hot bus bars, then tighten the screws to connect and secure them.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "If you’re trying to power an additional room or you just need more circuits, adding an electrical subpanel is a simple way to extend your circuitry, which can power additional rooms and devices. Start by choosing where you want to place your subpanel and shutting off power to the main panel for safety. Then, you can mount the subpanel and run feeder cables from there to your main panel. Connect the neutral and ground wires, then connect the red and black wires to your feeder breaker. Click the feeder breaker into place, connect the red and black wires to the new subpanel, then turn on the main power and you’re done! Installing a subpanel can be dangerous if you’re not sure what you’re doing. If you feel uncomfortable or unsure, contact a licensed electrician to install your subpanel.",
+                    "#Place the connector into the slot and secure it in place. With the knockout slug removed, insert the connector into the hole. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#Run the feeder cable from the main panel to the subpanel. Take the large feeder cable, insert it into the main panel, and slide it through the knockout opening. Then feed it into the opening on the subpanel. Unwrap the insulation surrounding it to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Connect the neutral and ground wires to their bus bars. Take the white neutral wire, connect it to the screw at the top of the neutral bus bar in the main panel, and tighten the screw to secure it. Connect the other end of the wire in the subpanel in the same fashion. Then, connect the ground wire to the ground bus bar and tighten the screw to secure it. Connect the other end of the wire in the subpanel.<ref>https://ask-the-electrician.com/grounds-and-neutrals-in-electrical-panel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#Insert the red and black wires into the feeder breaker. The feeder breaker is the additional breaker that is added to the main panel to run power to the subpanel. Strip the very ends of the red and black wires to expose the metal wire beneath. Insert the wires into the slots on the feeder breaker. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#Attach the red and black wires to the terminals in the subpanel. The 2 “hot” bus bars are the bus bars that do not have a ground or neutral wire connected to them. Strip the end of the red and black wires, insert them into the hot bus bars, then tighten the screws to secure them.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27131826",
+            "user": "Seymour Edits",
+            "timestamp": "18:02, 25 September 2019",
+            "anon": false,
+            "size": "(11,804 bytes)",
+            "change": 1458,
+            "summary": "(updated intro; replaced sources; added steps; added info for clarity; added explanation; updated section; proofread and revised)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "If you’re trying to power an additional room or you just need more circuits, adding an electrical subpanel is a simple way to extend your circuitry, which can power additional rooms and devices. Start by choosing where you want to place your subpanel and shutting off power to the main panel for safety. Then, you can mount the subpanel and run feeder cables from there to your main panel. Connect the neutral and ground wires, then connect the red and black wires to your feeder breaker. Click the feeder breaker into place, connect the red and black wires to the new subpanel, then turn on the main power and you’re done! Installing a subpanel can be dangerous if you’re not sure what you’re doing. If you feel uncomfortable or unsure, contact a licensed electrician to install your subpanel.",
+                    "===Choosing the Right Subpanel and Location===",
+                    "#Consult with an inspector so you don’t overload your system. A licensed inspector can confirm that it is safe for you to install a subpanel and won’t put too much strain on your electrical system. They can also issue a permit to add a subpanel if your area requires one and they can inspect your subpanel after you install it to verify that it is up to code.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "#*The inspector can also advise what amperage your subpanel should be. Typical panels have 100 or 200 amps, but older homes may only be able to support a 60-amp panel.",
+                    "#*An inspection and permit for your subpanel will ensure that you don’t have any insurance or liability issues.{{greenbox:'''Tip:''' Check your local building codes to see if you need to submit special paperwork or if you need to acquire a permit to add a subpanel.}}",
+                    "#Purchase a subpanel with all of the connections. When you’re choosing a subpanel to install, get one that has all of the connectors, cables, and breakers that you need to install it. It’s also important that you use a new or good quality panel and attachments so you can install it safely.<ref>https://ask-the-electrician.com/sub-panel-electrical-wiring.html</ref>",
+                    "#*Avoid purchasing used panels or cables or you could damage your electrical system and potentially cause a fire.",
+                    "#*You can find subpanels and attachments at hardware stores.",
+                    "#Place a subpanel near the main panel to add additional circuits. If you need more circuits to power your electrical devices, install a subpanel adjacent to your main circuit breaker. This will allow you to extend your circuitry if you need to use more, while also allowing you to shut off power to the subpanel when you aren’t using it.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Install a subpanel in a basement or garage to power an additional room. A finished basement or a garage full of electrical devices needs a subpanel to fully power the room and any electrical devices you plan to use. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*Make sure that the system is turned off and there is no power running through the breakers by testing the lights in the room.",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the mounting screws need to be installed in order to hang the subpanel.<ref>https://www.electrical-online.com/subpanel-installation/</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#Drill mounting screws into the stud leaving a {{convert|1/4|in|cm}} gap. Once you’ve located a stud, use a power drill to install mounting screws into it so you can install your subpanel. But don’t drive the screws all the way into the stud. Leave a small gap between the mounting screw and the wall so the subpanel can fit onto it.<ref>https://youtu.be/bDuOVe19C8M?t=92</ref>{{greenbox:'''Tip:''' If you don’t have a power drill, use a screwdriver to drive the mounting screws into the stud.}}",
+                    "#Place the connector into the slot and secure it in place. With the knockout slug removed, insert the connector into the hole. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#*Screw on the retaining nut to the bottom of the connector inside of the subpanel.",
+                    "#Run the feeder cable from the main panel to the subpanel. Take the large feeder cable, insert it into the main panel, and slide it through the knockout opening. Then feed it into the opening on the subpanel. Unwrap the insulation surrounding it to expose the 4 wires inside.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#Connect the neutral and ground wires to their bus bars. Take the white neutral wire, connect it to the screw at the top of the neutral bus bar in the main panel, and tighten the screw to secure it. Connect the other end of the wire in the subpanel in the same fashion. Then, connect the ground wire to the ground bus bar and tighten the screw to secure it. Connect the other end of the wire in the subpanel.<ref>https://ask-the-electrician.com/grounds-and-neutrals-in-electrical-panel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#*Check the inside of the door of the main and subpanel for a diagram showing the location of the bus bars and neutral bars.",
+                    "#Insert the red and black wires into the feeder breaker. The feeder breaker is the additional breaker that is added to the main panel to run power to the subpanel. Strip the very ends of the red and black wires to expose the metal wire beneath. Insert the wires into the slots on the feeder breaker. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#Snap the feeder breaker into an empty slot in the main panel. With the feeder breaker connected to the red and black wires, connect it to an empty slot on your main panel by aligning the connections and pressing it into the slot. It will click into place if it’s fitted correctly.<ref>https://www.electrical-online.com/subpanel-installation/</ref>",
+                    "#*You can put the feeder breaker into any empty slot in your main panel."
+                ],
+                "removed": [
+                    "If you’re trying to power an additional room or you just need more circuits, adding a subpanel is a simple way to extend your circuitry. Start by choosing where you want to place your subpanel and shutting off power to the main panel for safety. Then, you can mount the subpanel and run feeder cables from there to your main panel. Connect the neutral and ground wires, then connect the red and black wires to your feeder breaker. Click the feeder breaker into place, connect the red and black wires to the new subpanel, then turn on the main power and you’re done!",
+                    "===Choosing the Location===",
+                    "#Place a subpanel near the main panel to add additional circuits. If you need more circuits to power your electrical devices, install a subpanel adjacent to your main circuit breaker. This will allow you to extend your circuitry if you need to use more, while also allowing you to shut off power to the subpanel when you aren’t using it.<ref>https://youtu.be/KyJbaTmoyA0?t=40</ref>",
+                    "#Install a subpanel in a basement or garage to power an additional room. A finished basement or a garage full of electrical devices can benefit from the additional circuitry provided by a subpanel. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://youtu.be/KyJbaTmoyA0?t=40</ref>",
+                    "#Consult with an inspector so you don’t overload your system. A licensed inspector can confirm that it is safe for you to install a subpanel. They can also issue a permit to add a subpanel if your area requires one and they can inspect your subpanel after you install it to verify that it is up to code.<ref>https://youtu.be/KyJbaTmoyA0?t=117</ref>[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "#*It’s important that the subpanel is verified as having been installed properly and with a permit so you don’t have any insurance or liability issues.{{greenbox:'''Tip:''' Check your local building codes to see if you need to submit special paperwork or if you need to acquire a permit to add a subpanel.}}",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the mounting screws need to be installed in order to hang the subpanel.<ref>https://youtu.be/bDuOVe19C8M?t=94</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#Drill mounting screws into the stud leaving a small gap. Once you’ve located a stud, use a power drill to install mounting screws into it so you can install your subpanel. But don’t drive the screws all the way into the stud. Leave a tiny space so you can hang your subpanel box.<ref>https://youtu.be/bDuOVe19C8M?t=92</ref>",
+                    "#*Leave a space about {{convert|1/4|in|cm}} big between the mounting screw and the wall.{{greenbox:'''Tip:''' If you don’t have a power drill, use a screwdriver to drive the mounting screws into the stud.}}",
+                    "#Place the connector into the slot and secure it into the wall. With the knockout slug removed, insert the corresponding connector into the hole. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#*Screw on the retaining knut to the bottom of the connector inside of the subpanel.",
+                    "#Slide the feeder cable into the main and subpanel and remove the insulation. Take the large feeder cable and insert it into the subpanel through the knockout opening. Then feed it into the main panel. Unwrap the insulation surrounding it to expose the 4 wires inside.",
+                    "#Connect the neutral and ground wires to their bus bars. The bus bars are metal bars with a series of screws on them. Take the white neutral wire and connect it to the neutral bus bar in the main panel, then connect the wire to the neutral bus bar in the subpanel by loosening the screws, inserting the wire, and then tightening the screws. Then, connect the ground wire to the ground bus bar in the main panel and the ground bus bar in the subpanel.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#*The inside door of the panel will have a diagram showing the location of the bus bars.",
+                    "#Insert the feeder cables into the feeder breaker. Strip the very ends of the red and black wires to expose the metal wire beneath. Connect the 2 wires into the feeder breaker. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#Snap the feeder breaker into place in the main panel. With the feeder breaker connected to the red and black wires, connect it to an empty slot on your main panel. It will click into place if it’s fitted correctly.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "27126842",
+            "user": "Seymour Edits",
+            "timestamp": "16:35, 24 September 2019",
+            "anon": false,
+            "size": "(10,346 bytes)",
+            "change": 3035,
+            "summary": "(rewrote article; kept relevant images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "If you’re trying to power an additional room or you just need more circuits, adding a subpanel is a simple way to extend your circuitry. Start by choosing where you want to place your subpanel and shutting off power to the main panel for safety. Then, you can mount the subpanel and run feeder cables from there to your main panel. Connect the neutral and ground wires, then connect the red and black wires to your feeder breaker. Click the feeder breaker into place, connect the red and black wires to the new subpanel, then turn on the main power and you’re done!",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "==Steps==",
+                    "===Choosing the Location===",
+                    "#Place a subpanel near the main panel to add additional circuits. If you need more circuits to power your electrical devices, install a subpanel adjacent to your main circuit breaker. This will allow you to extend your circuitry if you need to use more, while also allowing you to shut off power to the subpanel when you aren’t using it.<ref>https://youtu.be/KyJbaTmoyA0?t=40</ref>",
+                    "#*Place the subpanel about {{convert|1|ft|m}} away from your main panel.",
+                    "#Install a subpanel in a basement or garage to power an additional room. A finished basement or a garage full of electrical devices can benefit from the additional circuitry provided by a subpanel. Although the subpanel feeds off of the main breaker system, installing a new one also allows the room to have its own breaker box to control output in the room.<ref>https://youtu.be/KyJbaTmoyA0?t=40</ref>",
+                    "#*A newly furnished shed could use an additional subpanel so the main system isn’t overloaded.",
+                    "#*If you build an additional room as an add-on to your home, you may need a subpanel in order to power it.",
+                    "#Don’t install subpanels in a bathroom or closet. Subpanels have an electrical current running through them, so it’s important that they don’t get wet or overheat. The steam and humidity of a bathroom can cause a subpanel to short out and a full closet could potentially cause the circuitry to overheat.<ref>https://youtu.be/NLB4qEJn0w8?t=35</ref>",
+                    "#*You also needs to be able to access the subpanel easily and inside of a small closet may be difficult to maneuver.",
+                    "#Consult with an inspector so you don’t overload your system. A licensed inspector can confirm that it is safe for you to install a subpanel. They can also issue a permit to add a subpanel if your area requires one and they can inspect your subpanel after you install it to verify that it is up to code.<ref>https://youtu.be/KyJbaTmoyA0?t=117</ref>[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "#*It’s important that the subpanel is verified as having been installed properly and with a permit so you don’t have any insurance or liability issues.{{greenbox:'''Tip:''' Check your local building codes to see if you need to submit special paperwork or if you need to acquire a permit to add a subpanel.}}",
+                    "===Mounting the Subpanel===",
+                    "#Turn off the power to the main panel. Before you begin any work on an electrical panel, shut off all of the power running through it. That way you can’t accidentally shock or electrocute yourself. Look for the main power switch and push it. All of the lights and electrical devices should then turn off.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "#*Use a flashlight or portable lamp so you can see while you’re working.",
+                    "#[[Find a Stud|Locate a wall stud]] where you want to install the panel. Use a stud finder and run it across the wall until it tells you you’ve located a stud. If you don’t have a stud finder, you can try knocking lightly on the wall to see if you can hear a solid sound that would indicate a stud behind the wall.<ref>https://www.digitaltrends.com/home/how-to-find-wall-studs/</ref>",
+                    "#*Check the electrical outlets on the wall if there is one. Most electrical boxes are mounted on the side of a stud, so they can help tell you where one is located.",
+                    "#Mark the location where the screws need to be added. Place the subpanel against the wall where you identified a stud. Use a pencil or marker to mark the wall where the mounting screws need to be installed in order to hang the subpanel.<ref>https://youtu.be/bDuOVe19C8M?t=94</ref>[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "#*Trace the circle on the wall of the holes where the screws need to be added.",
+                    "#*Place the panel at a height of about {{convert|5|ft|m}} so you can easily access it but children or pets cannot reach it.",
+                    "#*Check local building codes to see if you have to mount a subpanel at a specific height.",
+                    "#Drill mounting screws into the stud leaving a small gap. Once you’ve located a stud, use a power drill to install mounting screws into it so you can install your subpanel. But don’t drive the screws all the way into the stud. Leave a tiny space so you can hang your subpanel box.<ref>https://youtu.be/bDuOVe19C8M?t=92</ref>",
+                    "#*Leave a space about {{convert|1/4|in|cm}} big between the mounting screw and the wall.{{greenbox:'''Tip:''' If you don’t have a power drill, use a screwdriver to drive the mounting screws into the stud.}}",
+                    "#Place the subpanel onto the mounting screws and tighten them. Slide the panel onto the mounting hooks so all of the screws are in the correct slots. Then, take a drill or screwdriver and tighten the screws so the panel is securely fastened against the wall.<ref>https://youtu.be/KyJbaTmoyA0?t=205</ref>",
+                    "#*Give the panel a gentle shake to make sure it isn’t loose and won’t fall off of the wall.",
+                    "===Connecting the Wires===",
+                    "#Remove the knockout slug on the side of the panel with a hammer. Look for a perforated circle on the side, top, or the bottom of the panel. You can use a hammer and screwdriver to knock out the slug so you can insert wiring into the subpanel.<ref>https://youtu.be/KyJbaTmoyA0?t=265</ref>",
+                    "#*Use a pair of pliers to remove the knockout slug if you’re having trouble taking it out.",
+                    "#Place the connector into the slot and secure it into the wall. With the knockout slug removed, insert the corresponding connector into the hole. Use a drill or screwdriver to tighten the screws on top of the connector to keep it held in place.<ref>https://youtu.be/97V9H8JdTbk?t=229</ref>",
+                    "#*The screws do not need to be installed in a wall stud.",
+                    "#*Screw on the retaining knut to the bottom of the connector inside of the subpanel.",
+                    "#Slide the feeder cable into the main and subpanel and remove the insulation. Take the large feeder cable and insert it into the subpanel through the knockout opening. Then feed it into the main panel. Unwrap the insulation surrounding it to expose the 4 wires inside.",
+                    "#*You may need to remove a knockout slug to insert the wires into the main panel.",
+                    "#*There should be a black wire, red wire, white wire, and bare metal wire.",
+                    "#Connect the neutral and ground wires to their bus bars. The bus bars are metal bars with a series of screws on them. Take the white neutral wire and connect it to the neutral bus bar in the main panel, then connect the wire to the neutral bus bar in the subpanel by loosening the screws, inserting the wire, and then tightening the screws. Then, connect the ground wire to the ground bus bar in the main panel and the ground bus bar in the subpanel.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "#*The inside door of the panel will have a diagram showing the location of the bus bars.",
+                    "#*If the end of the wire is covered by sheathing, use a wire stripper or a utility knife to remove enough sheath to fit the exposed wire into the bus bar.{{greenbox:'''Tip:''' If there is no diagram on the panel, look up the make and model of the panel online to identify the bus bars.}}",
+                    "#Insert the feeder cables into the feeder breaker. Strip the very ends of the red and black wires to expose the metal wire beneath. Connect the 2 wires into the feeder breaker. Tighten the screws on the connections so the wires are secure.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#*Use a wire stripper or a utility knife to remove the sheathing at the end of the wire so the exposed wire can be inserted into the breaker.",
+                    "#*You may need to loosen the screws on the feeder breaker first to insert the wires.",
+                    "#Snap the feeder breaker into place in the main panel. With the feeder breaker connected to the red and black wires, connect it to an empty slot on your main panel. It will click into place if it’s fitted correctly.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>",
+                    "#*Don’t try to force or jam the feeder breaker or you could damage it.",
+                    "#Attach the red and black wires to the terminals in the subpanel. The 2 “hot” bus bars are the bus bars that do not have a ground or neutral wire connected to them. Strip the end of the red and black wires, insert them into the hot bus bars, then tighten the screws to secure them.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 11.jpg|center]]",
+                    "#*Give the wires a gentle tug to make sure they’re fastened securely.",
+                    "#Turn on the breaker and close the panels. After all of the wires and connections are secure, restore power to the main panel. Then turn on the feeder breaker that you added by flipping the switch. Your subpanel should now be functioning.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref>[[Image:Add a Subpanel Step 16.jpg|center]]",
+                    "#*If the subpanel isn’t working or you're concerned it wasn’t installed correctly, call a licensed electrician to come inspect the subpanel.",
+                    "==Warning==",
+                    "*Be sure all power has been shut off from the main panel before you begin working to prevent accidentally shocking yourself.",
+                    "==Things You’ll Need==",
+                    "*Subpanel",
+                    "*Mounting screws",
+                    "*Feeder cable",
+                    "*Feeder breaker",
+                    "*Power drill or screwdriver",
+                    "*Hammer",
+                    "*Wire stripper or utility knife",
+                    "*Pliers",
+                    "",
+                    "==References==",
+                    "",
+                    "__PARTS__",
+                    ""
+                ],
+                "removed": [
+                    "Adding a sub panel, commonly called a breaker box, to a building can provide additional circuit capacity which is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, you should hire a professional electrician instead.",
+                    "[[Category:Electrical Wiring and Safety Switches]]",
+                    "== Steps ==",
+                    "=== Prepare for Installation ===",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work.<ref>https://www.homewyse.com/home_services/install_electrical_sub-panel.html</ref>  Minor electrical changes generally do not need a permit, but each jurisdiction varies. In some areas, permitting is required for any type of Electrical work, no matter the size in scope or significance. This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "#* When you meet with the building code representative, ask about the inspection schedule so you know when to call for a rough inspection as well as a final inspection.  Many localities have part time inspectors, so if you're on a schedule you should discuss it with them first.",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.[[Image:Add a Subpanel Step 2.jpg|center]]",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area {{convert|3|ft|m|1}} in front of and above and below the the panel should be clear from the floor to the ceiling.[[Image:Add a Subpanel Step 3.jpg|center]]",
+                    "#* If you install your sub panel closer to the rooms you are adding power to, you will use more of the larger sub-feed cable between the two panels; but fewer smaller wires to the outlets than if you installed the sub panel close to the main panel.",
+                    "# Shut off your main power breaker before beginning any actual electrical work.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref> [[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "=== Install the Sub panel ===",
+                    "# Remove all sub panel covers or doors.[[Image:Add a Subpanel Step 5.jpg|center]]",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.[[Image:Add a Subpanel Step 7.jpg|center]]",
+                    "#* If you have breakers terminal screws that are serving more than one conductor, called double-lugging; consider moving circuits to the sub panel so that none are double-lugged - or combine the them with a short length of the same size wire (called a \"pigtail\") in a wirenut and use the pigtail to feed them.",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.<ref>https://www.youtube.com/watch?time_continue=89&v=bDuOVe19C8M</ref> [[Image:Add a Subpanel Step 8.jpg|center]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.<ref>https://www.askmediy.com/subpanel-installation/</ref>   If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.[[Image:Add a Subpanel Step 9.jpg|center]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..<ref>https://www.electrical-online.com/subpanel-installation/</ref> [[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.[[Image:Add a Subpanel Step 11.jpg|center]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.<ref>http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm</ref> [[Image:Add a Subpanel Step 12.jpg|center]]",
+                    "#* Connect the ground wire, which is bare, to the grounding bar or buss in the sub panel.",
+                    "#* Connect the neutral wire, which will be white, to the neutral buss in the sub panel.",
+                    "#* Attach the hot wires (black and red or blue) to the main breaker lugs of the sub panel.",
+                    "#* Take the time to tidy up the wires and connections so that you can easily trace them back to their breaker if the need arises in the future.",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.<ref>https://ask-the-electrician.com/sub-panel-grounding-and-neutrals/</ref> [[Image:Add a Subpanel Step 13.jpg|center]]",
+                    "#* The buss bar bonding jumper can be identified as a long screw or metal strap that effectively bonds the neutral buss bar to the grounded panel enclosure / ground buss bar.",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.[[Image:Add a Subpanel Step 14.jpg|center]]",
+                    "# Re-install the panel cover / door assembly.[[Image:Add a Subpanel Step 15.jpg|center]]",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.[[Image:Add a Subpanel Step 16.jpg|center]]",
+                    "# Label the panel to identify which circuits feed into which panel.<ref>https://www.homewyse.com/home_services/install_electrical_sub-panel.html</ref>  You will not pass an electrical inspection unless you complete this step.[[Image:Add a Subpanel Step 17.jpg|center]]",
+                    "== References ==",
+                    "*[http://www.electrical-online.com/subpanel-installation/ http://www.electrical-online.com/subpanel-installation/]",
+                    "*[http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm]",
+                    "*[http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected- http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected-]"
+                ]
+            }
+        },
+        {
+            "id": "27080152",
+            "user": "Seymour Edits",
+            "timestamp": "00:19, 15 September 2019",
+            "anon": false,
+            "size": "(7,311 bytes)",
+            "change": 133,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Add-a-Subpanel}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26694294",
+            "user": "Seymour Edits",
+            "timestamp": "10:19, 18 June 2019",
+            "anon": false,
+            "size": "(7,178 bytes)",
+            "change": 638,
+            "summary": "(Added sources for the wikihaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work.<ref>https://www.homewyse.com/home_services/install_electrical_sub-panel.html</ref>  Minor electrical changes generally do not need a permit, but each jurisdiction varies. In some areas, permitting is required for any type of Electrical work, no matter the size in scope or significance. This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "# Shut off your main power breaker before beginning any actual electrical work.<ref>https://www.bhg.com/home-improvement/electrical/how-to-install-an-electrical-subpanel/</ref> [[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.<ref>https://www.youtube.com/watch?time_continue=89&v=bDuOVe19C8M</ref> [[Image:Add a Subpanel Step 8.jpg|center]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.<ref>https://www.askmediy.com/subpanel-installation/</ref>   If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.[[Image:Add a Subpanel Step 9.jpg|center]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..<ref>https://www.electrical-online.com/subpanel-installation/</ref> [[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.<ref>http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm</ref> [[Image:Add a Subpanel Step 12.jpg|center]]",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.<ref>https://ask-the-electrician.com/sub-panel-grounding-and-neutrals/</ref> [[Image:Add a Subpanel Step 13.jpg|center]]",
+                    "# Label the panel to identify which circuits feed into which panel.<ref>https://www.homewyse.com/home_services/install_electrical_sub-panel.html</ref>  You will not pass an electrical inspection unless you complete this step.[[Image:Add a Subpanel Step 17.jpg|center]]",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies. In some areas, permitting is required for any type of Electrical work, no matter the size in scope or significance. This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "# Shut off your main power breaker before beginning any actual electrical work.[[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.[[Image:Add a Subpanel Step 8.jpg|center]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.[[Image:Add a Subpanel Step 9.jpg|center]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.[[Image:Add a Subpanel Step 12.jpg|center]]",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.[[Image:Add a Subpanel Step 13.jpg|center]]",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step.[[Image:Add a Subpanel Step 17.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26249807",
+            "user": "MiscBot",
+            "timestamp": "23:18, 28 March 2019",
+            "anon": false,
+            "size": "(6,540 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "21299901",
+            "user": "Flickety",
+            "timestamp": "07:53, 8 November 2016",
+            "anon": false,
+            "size": "(6,551 bytes)",
+            "change": 16,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical Maintenance]]"
+                ]
+            }
+        },
+        {
+            "id": "19357110",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "03:24, 9 January 2016",
+            "anon": false,
+            "size": "(6,535 bytes)",
+            "change": -48,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box]]"
+                ],
+                "removed": [
+                    "*[[Find the Fuse Box or Circuit Breaker Box|How to Find the Fuse Box or Circuit Breaker Box]]"
+                ]
+            }
+        },
+        {
+            "id": "19107345",
+            "user": "Anna",
+            "timestamp": "19:47, 21 December 2015",
+            "anon": false,
+            "size": "(6,583 bytes)",
+            "change": -9,
+            "summary": "(Quick edit while patrolling)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "=== Prepare for Installation ===",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies. In some areas, permitting is required for any type of Electrical work, no matter the size in scope or significance. This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]"
+                ],
+                "removed": [
+                    "=== Prepare for Installation ===*Permitting is Required for any type of Electrical work, no matter the size in scope or significance. Always pull a permit!*",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "19097288",
+            "user": "24.32.33.159",
+            "timestamp": "01:11, 20 December 2015",
+            "anon": true,
+            "size": "(6,592 bytes)",
+            "change": 123,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "=== Prepare for Installation ===*Permitting is Required for any type of Electrical work, no matter the size in scope or significance. Always pull a permit!*"
+                ],
+                "removed": [
+                    "=== Prepare for Installation ===",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "18092509",
+            "user": "MiscBot",
+            "timestamp": "06:38, 29 July 2015",
+            "anon": false,
+            "size": "(6,469 bytes)",
+            "change": -238,
+            "summary": "(Standardizing some image attributes that have now been built into images automatically; removing hidden intro images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".[[Image:Add a Subpanel Step 1.jpg|center]]",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.[[Image:Add a Subpanel Step 2.jpg|center]]",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area {{convert|3|ft|m|1}} in front of and above and below the the panel should be clear from the floor to the ceiling.[[Image:Add a Subpanel Step 3.jpg|center]]",
+                    "# Shut off your main power breaker before beginning any actual electrical work.[[Image:Add a Subpanel Step 4.jpg|center]]",
+                    "# Remove all sub panel covers or doors.[[Image:Add a Subpanel Step 5.jpg|center]]",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.[[Image:Add a Subpanel Step 6.jpg|center]]",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.[[Image:Add a Subpanel Step 7.jpg|center]]",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.[[Image:Add a Subpanel Step 8.jpg|center]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.[[Image:Add a Subpanel Step 9.jpg|center]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..[[Image:Add a Subpanel Step 10.jpg|center]]",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.[[Image:Add a Subpanel Step 11.jpg|center]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.[[Image:Add a Subpanel Step 12.jpg|center]]",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.[[Image:Add a Subpanel Step 13.jpg|center]]",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.[[Image:Add a Subpanel Step 14.jpg|center]]",
+                    "# Re-install the panel cover / door assembly.[[Image:Add a Subpanel Step 15.jpg|center]]",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.[[Image:Add a Subpanel Step 16.jpg|center]]",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step.[[Image:Add a Subpanel Step 17.jpg|center]]"
+                ],
+                "removed": [
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".<br><br>[[Image:Add a Subpanel Step 1.jpg|center|550px]]",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.<br><br>[[Image:Add a Subpanel Step 2.jpg|center|550px]]",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area {{convert|3|ft|m|1}} in front of and above and below the the panel should be clear from the floor to the ceiling.<br><br>[[Image:Add a Subpanel Step 3.jpg|center|550px]]",
+                    "# Shut off your main power breaker before beginning any actual electrical work.<br><br>[[Image:Add a Subpanel Step 4.jpg|center|550px]]",
+                    "# Remove all sub panel covers or doors.<br><br>[[Image:Add a Subpanel Step 5.jpg|center|550px]]",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.<br><br>[[Image:Add a Subpanel Step 6.jpg|center|550px]]",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.<br><br>[[Image:Add a Subpanel Step 7.jpg|center|550px]]",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.<br><br>[[Image:Add a Subpanel Step 8.jpg|center|550px]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.<br><br>[[Image:Add a Subpanel Step 9.jpg|center|550px]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..<br><br>[[Image:Add a Subpanel Step 10.jpg|center|550px]]",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.<br><br>[[Image:Add a Subpanel Step 11.jpg|center|550px]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.<br><br>[[Image:Add a Subpanel Step 12.jpg|center|550px]]",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.<br><br>[[Image:Add a Subpanel Step 13.jpg|center|550px]]",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.<br><br>[[Image:Add a Subpanel Step 14.jpg|center|550px]]",
+                    "# Re-install the panel cover / door assembly.<br><br>[[Image:Add a Subpanel Step 15.jpg|center|550px]]",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.<br><br>[[Image:Add a Subpanel Step 16.jpg|center|550px]]",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step.<br><br>[[Image:Add a Subpanel Step 17.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "17959889",
+            "user": "InterwikiBot",
+            "timestamp": "18:44, 27 July 2015",
+            "anon": false,
+            "size": "(6,707 bytes)",
+            "change": -35,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:agregar un panel secundario]]"
+                ]
+            }
+        },
+        {
+            "id": "15860366",
+            "user": "MiscBot",
+            "timestamp": "19:08, 10 November 2014",
+            "anon": false,
+            "size": "(6,742 bytes)",
+            "change": 14,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area {{convert|3|ft|m|1}} in front of and above and below the the panel should be clear from the floor to the ceiling.<br><br>[[Image:Add a Subpanel Step 3.jpg|center|550px]]"
+                ],
+                "removed": [
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.<br><br>[[Image:Add a Subpanel Step 3.jpg|center|550px]]"
+                ]
+            }
+        },
+        {
+            "id": "11627943",
+            "user": "Wikiphoto",
+            "timestamp": "18:06, 31 October 2013",
+            "anon": false,
+            "size": "(6,728 bytes)",
+            "change": 149,
+            "summary": "(Enlarging and centering Steps photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".<br><br>[[Image:Add a Subpanel Step 1.jpg|center|550px]]",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.<br><br>[[Image:Add a Subpanel Step 2.jpg|center|550px]]",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.<br><br>[[Image:Add a Subpanel Step 3.jpg|center|550px]]",
+                    "# Shut off your main power breaker before beginning any actual electrical work.<br><br>[[Image:Add a Subpanel Step 4.jpg|center|550px]]",
+                    "# Remove all sub panel covers or doors.<br><br>[[Image:Add a Subpanel Step 5.jpg|center|550px]]",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.<br><br>[[Image:Add a Subpanel Step 6.jpg|center|550px]]",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.<br><br>[[Image:Add a Subpanel Step 7.jpg|center|550px]]",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.<br><br>[[Image:Add a Subpanel Step 8.jpg|center|550px]]",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.<br><br>[[Image:Add a Subpanel Step 9.jpg|center|550px]]",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..<br><br>[[Image:Add a Subpanel Step 10.jpg|center|550px]]",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.<br><br>[[Image:Add a Subpanel Step 11.jpg|center|550px]]",
+                    "# Route and secure the sub panel feeder cable into the sub panel.<br><br>[[Image:Add a Subpanel Step 12.jpg|center|550px]]",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.<br><br>[[Image:Add a Subpanel Step 13.jpg|center|550px]]",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.<br><br>[[Image:Add a Subpanel Step 14.jpg|center|550px]]",
+                    "# Re-install the panel cover / door assembly.<br><br>[[Image:Add a Subpanel Step 15.jpg|center|550px]]",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.<br><br>[[Image:Add a Subpanel Step 16.jpg|center|550px]]",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step.<br><br>[[Image:Add a Subpanel Step 17.jpg|center|550px]]",
+                    ""
+                ],
+                "removed": [
+                    "# [[Image:Add a Subpanel Step 1.jpg|right|300px]]Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".",
+                    "# [[Image:Add a Subpanel Step 2.jpg|right|300px]]Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.",
+                    "# [[Image:Add a Subpanel Step 3.jpg|right|300px]]Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.",
+                    "# [[Image:Add a Subpanel Step 4.jpg|right|300px]]Shut off your main power breaker before beginning any actual electrical work.",
+                    "# [[Image:Add a Subpanel Step 5.jpg|right|300px]]Remove all sub panel covers or doors.",
+                    "# [[Image:Add a Subpanel Step 6.jpg|right|300px]]Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.",
+                    "# [[Image:Add a Subpanel Step 7.jpg|right|300px]]Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.",
+                    "# [[Image:Add a Subpanel Step 8.jpg|right|300px]]Route / extend the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# [[Image:Add a Subpanel Step 9.jpg|right|300px]]Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.",
+                    "# [[Image:Add a Subpanel Step 10.jpg|right|300px]]Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..",
+                    "# [[Image:Add a Subpanel Step 11.jpg|right|300px]]Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.",
+                    "# [[Image:Add a Subpanel Step 12.jpg|right|300px]]Route and secure the sub panel feeder cable into the sub panel.",
+                    "# [[Image:Add a Subpanel Step 13.jpg|right|300px]]Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.",
+                    "# [[Image:Add a Subpanel Step 14.jpg|right|300px]]Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.",
+                    "# [[Image:Add a Subpanel Step 15.jpg|right|300px]]Re-install the panel cover / door assembly.",
+                    "# [[Image:Add a Subpanel Step 16.jpg|right|300px]]Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.",
+                    "# [[Image:Add a Subpanel Step 17.jpg|right|300px]]Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step."
+                ]
+            }
+        },
+        {
+            "id": "11627942",
+            "user": "Wikiphoto",
+            "timestamp": "18:06, 31 October 2013",
+            "anon": false,
+            "size": "(6,579 bytes)",
+            "change": 762,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Adding a sub panel, commonly called a breaker box, to a building can provide additional circuit capacity which is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, you should hire a professional electrician instead.",
+                    "# [[Image:Add a Subpanel Step 1.jpg|right|300px]]Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".",
+                    "# [[Image:Add a Subpanel Step 2.jpg|right|300px]]Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.",
+                    "# [[Image:Add a Subpanel Step 3.jpg|right|300px]]Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.",
+                    "# [[Image:Add a Subpanel Step 4.jpg|right|300px]]Shut off your main power breaker before beginning any actual electrical work.",
+                    "# [[Image:Add a Subpanel Step 5.jpg|right|300px]]Remove all sub panel covers or doors.",
+                    "# [[Image:Add a Subpanel Step 6.jpg|right|300px]]Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.",
+                    "# [[Image:Add a Subpanel Step 7.jpg|right|300px]]Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.",
+                    "# [[Image:Add a Subpanel Step 8.jpg|right|300px]]Route / extend the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# [[Image:Add a Subpanel Step 9.jpg|right|300px]]Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.",
+                    "# [[Image:Add a Subpanel Step 10.jpg|right|300px]]Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..",
+                    "# [[Image:Add a Subpanel Step 11.jpg|right|300px]]Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.",
+                    "# [[Image:Add a Subpanel Step 12.jpg|right|300px]]Route and secure the sub panel feeder cable into the sub panel.",
+                    "# [[Image:Add a Subpanel Step 13.jpg|right|300px]]Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.",
+                    "# [[Image:Add a Subpanel Step 14.jpg|right|300px]]Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.",
+                    "# [[Image:Add a Subpanel Step 15.jpg|right|300px]]Re-install the panel cover / door assembly.",
+                    "# [[Image:Add a Subpanel Step 16.jpg|right|300px]]Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.",
+                    "# [[Image:Add a Subpanel Step 17.jpg|right|300px]]Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step."
+                ],
+                "removed": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a sub panel, commonly called a breaker box, to a building can provide additional circuit capacity which is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, you should hire a professional electrician instead.",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.",
+                    "# Shut off your main power breaker before beginning any actual electrical work.",
+                    "# Remove all sub panel covers or doors.",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.",
+                    "# Route and secure the sub panel feeder cable into the sub panel.",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.",
+                    "# Re-install the panel cover / door assembly.",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working.",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step."
+                ]
+            }
+        },
+        {
+            "id": "10873404",
+            "user": "Loiswade42",
+            "timestamp": "02:58, 21 August 2013",
+            "anon": false,
+            "size": "(5,817 bytes)",
+            "change": -160,
+            "summary": "(Reverted edits by 122.163.199.134 (Talk); changed back to last version by Byankno1)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "WHEN AND HOW YOU INSTALL AN ELECTRIC SUB PANEL IN YOUR HOME[http://www.socialshouts.us/2013/05/02/when-and-how-you-install-an-electric-sub-panel-in-your-home/]"
+                ]
+            }
+        },
+        {
+            "id": "10852345",
+            "user": "122.163.199.134",
+            "timestamp": "14:29, 19 August 2013",
+            "anon": true,
+            "size": "(5,977 bytes)",
+            "change": 160,
+            "summary": "(→‎Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Loiswade42",
+            "exact_contribution": {
+                "added": [
+                    "WHEN AND HOW YOU INSTALL AN ELECTRIC SUB PANEL IN YOUR HOME[http://www.socialshouts.us/2013/05/02/when-and-how-you-install-an-electric-sub-panel-in-your-home/]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10057178",
+            "user": "EpcotMagic",
+            "timestamp": "13:23, 1 June 2013",
+            "anon": false,
+            "size": "(5,817 bytes)",
+            "change": 39,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Add a Subpanel|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "9340946",
+            "user": "InterwikiBot",
+            "timestamp": "05:47, 5 March 2013",
+            "anon": false,
+            "size": "(5,778 bytes)",
+            "change": 35,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[es:agregar un panel secundario]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8704615",
+            "user": "Stevecon",
+            "timestamp": "02:53, 10 November 2012",
+            "anon": false,
+            "size": "(5,743 bytes)",
+            "change": 1368,
+            "summary": "",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a sub panel, commonly called a breaker box, to a building can provide additional circuit capacity which is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, you should hire a professional electrician instead.",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.  This work however, would by no means ever be considered \"minor\".",
+                    "#* When you meet with the building code representative, ask about the inspection schedule so you know when to call for a rough inspection as well as a final inspection.  Many localities have part time inspectors, so if you're on a schedule you should discuss it with them first.",
+                    "# Find a good light source that can run off a battery or generator. You will need light to work on your project after you shut off the electrical power to the building.",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must be able run wire through to that area.  Keep in mind that a closet is not an acceptable location for a panel.  The area 3 feet in front of and above and below the the panel should be clear from the floor to the ceiling.",
+                    "#* If you install your sub panel closer to the rooms you are adding power to, you will use more of the larger sub-feed cable between the two panels; but fewer smaller wires to the outlets than if you installed the sub panel close to the main panel.",
+                    "# Remove the lowest amp rated double pole circuit breaker or 2 low rated single pole circuit breakers from the main panel to make room for the new double pole circuit breaker that will supply the new sub panel. The 2 circuits you removed will need to be re-fed from the new sub panel.  If the sub panel is the same brand, you might be able to reinstall the original circuit breakers in it to re-feed those 2 circuits.",
+                    "#* If you have breakers terminal screws that are serving more than one conductor, called double-lugging; consider moving circuits to the sub panel so that none are double-lugged - or combine the them with a short length of the same size wire (called a \"pigtail\") in a wirenut and use the pigtail to feed them.",
+                    "# Route / extend the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# Use a 4 wire cable (sized for the breaker protecting it) to supply the sub panel from the main panel.  If using a cable with aluminum conductors, be sure to apply an oxide inhibitor on the aluminum before securing in a terminal or other pressure connector.",
+                    "# Insert the neutral and ground conductor connections in open terminal holes of the neutral / ground buss bar in the main panel and tighten screws, clamps, etc..",
+                    "# Insert the \"hot\" conductor connections (\"Line 1\" and \"Line 2\" or black, red or blue) into the terminal openings of the new double pole circuit breaker in the main panel.",
+                    "# Route and secure the sub panel feeder cable into the sub panel.",
+                    "#* Connect the ground wire, which is bare, to the grounding bar or buss in the sub panel.",
+                    "#* Connect the neutral wire, which will be white, to the neutral buss in the sub panel.",
+                    "#* Attach the hot wires (black and red or blue) to the main breaker lugs of the sub panel.",
+                    "# Locate and remove any installed neutral bonding jumper, buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected at the main panel and not the sub panel.",
+                    "#* The buss bar bonding jumper can be identified as a long screw or metal strap that effectively bonds the neutral buss bar to the grounded panel enclosure / ground buss bar.",
+                    "# Join the branch circuit wires in the same fashion - grounds to the ground bar, neutrals to the bus bar, and hot wires to the breaker lugs.  Do not interchange ground and neutral wires in the other's buss bar. Install the breakers.",
+                    "# Re-install the panel cover / door assembly."
+                ],
+                "removed": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a sub panel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, hire a professional electrician.",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.",
+                    "#* When you meet with the building code representative, ask about the inspection schedule so you know when to call for a rough inspection as well as a final inspection.",
+                    "# Find a good light source that can run off a battery or generator. You need light to work on your project after you shut off the electrical power to the building.",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must run wire through to that area.",
+                    "#* If you install your sub panel closer to the rooms you are adding power to, you will use more sub-feed cable between the two panels, but less wire to the outlets than if you installed the sub panel close to the main panel.",
+                    "# Remove circuits from the main panel to make room to connect the sub panel to a 2-pole breaker in the main panel. The circuits you remove will be connected to the sub panel.",
+                    "#* If you have breakers that are serving more than one circuit, called double-lugging, consider moving circuits to the sub panel so that none are double-lugged.",
+                    "# Route the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# Use range cable to connect the sub panel with the main panel.",
+                    "# Make your connections to the sub-feed breaker in the main panel, then install the sub-feed cable into the main breaker in the sub panel.",
+                    "#* First, connect the ground wire, which is bare, to the grounding bar within your sub panel.",
+                    "#* Attach the neutral wire, which will be white, to the neutral buss. The buss, or buss bar, allows you to easily connect components.",
+                    "#* Attach the hot wires (red and black) to the main breaker lugs of the sub panel.",
+                    "# Remove the neutral bonding jumper buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected through the main panel and not the sub panel.",
+                    "#* The buss bar bonding jumper can be identified as a long brass screw or metal strap that connects the neutral buss bar to the panel or ground.",
+                    "# Join the branch circuit wires in the same fashion--grounds to the panel case, neutrals to the bus bar, and hot wires to the breaker lugs. Install the breakers.",
+                    "# Re-install the panel door."
+                ]
+            }
+        },
+        {
+            "id": "8172621",
+            "user": "Stevecon",
+            "timestamp": "21:15, 30 July 2012",
+            "anon": false,
+            "size": "(4,375 bytes)",
+            "change": -642,
+            "summary": "(Reverted edits by Stevecon (Talk); changed back to last version by Okilde)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "# Sub panels are offered as \"Main Lug Only\" (MLO) and \"Main Breaker\" (MB) types.  Selecting a (MLO) style saves the cost of a breaker in a (MB) sub panel, as one will be needed in the main panel to protect the cable feeding the sub panel anyway.  Select a sub panel based on number of circuits and ampacity required (plus 30% or more for future expansion), size the conductors for this load (actual and the 30% additional) and size the 2 pole breaker for the cable - or rating of the sub panel - whichever is lower.  If the breaker is significantly higher, consider selecting a sub panel with the same voltage rating but higher amp rating."
+                ]
+            }
+        },
+        {
+            "id": "8172612",
+            "user": "Stevecon",
+            "timestamp": "21:14, 30 July 2012",
+            "anon": false,
+            "size": "(5,017 bytes)",
+            "change": 642,
+            "summary": "(→‎Steps)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Stevecon",
+            "exact_contribution": {
+                "added": [
+                    "# Sub panels are offered as \"Main Lug Only\" (MLO) and \"Main Breaker\" (MB) types.  Selecting a (MLO) style saves the cost of a breaker in a (MB) sub panel, as one will be needed in the main panel to protect the cable feeding the sub panel anyway.  Select a sub panel based on number of circuits and ampacity required (plus 30% or more for future expansion), size the conductors for this load (actual and the 30% additional) and size the 2 pole breaker for the cable - or rating of the sub panel - whichever is lower.  If the breaker is significantly higher, consider selecting a sub panel with the same voltage rating but higher amp rating."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "8010737",
+            "user": "Okilde",
+            "timestamp": "14:05, 30 June 2012",
+            "anon": false,
+            "size": "(4,375 bytes)",
+            "change": 19,
+            "summary": "(Edits from the spell checker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Stevecon",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a sub panel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a sub panel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the sub panel yourself, hire a professional electrician.",
+                    "# Determine where you will mount the sub panel. If space is an issue, you don't need to install it next to the main panel. However, you must run wire through to that area.",
+                    "#* If you install your sub panel closer to the rooms you are adding power to, you will use more sub-feed cable between the two panels, but less wire to the outlets than if you installed the sub panel close to the main panel.",
+                    "=== Install the Sub panel ===",
+                    "# Remove all sub panel covers or doors.",
+                    "# Remove circuits from the main panel to make room to connect the sub panel to a 2-pole breaker in the main panel. The circuits you remove will be connected to the sub panel.",
+                    "#* If you have breakers that are serving more than one circuit, called double-lugging, consider moving circuits to the sub panel so that none are double-lugged.",
+                    "# Route the wires to the sub panel, splicing them with new wire if necessary.",
+                    "# Use range cable to connect the sub panel with the main panel.",
+                    "# Make your connections to the sub-feed breaker in the main panel, then install the sub-feed cable into the main breaker in the sub panel.",
+                    "#* First, connect the ground wire, which is bare, to the grounding bar within your sub panel.",
+                    "#* Attach the hot wires (red and black) to the main breaker lugs of the sub panel.",
+                    "# Remove the neutral bonding jumper buss bar screw or strap to completely isolate the sub panel from the ground. This will ensure that the neutral and ground are connected through the main panel and not the sub panel.",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the sub panel. Check to see if all the circuits are working."
+                ],
+                "removed": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a subpanel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a subpanel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the subpanel yourself, hire a professional electrician.",
+                    "# Determine where you will mount the subpanel. If space is an issue, you don't need to install it next to the main panel. However, you must run wire through to that area.",
+                    "#* If you install your subpanel closer to the rooms you are adding power to, you will use more sub-feed cable between the two panels, but less wire to the outlets than if you installed the subpanel close to the main panel.",
+                    "=== Install the Subpanel ===",
+                    "# Remove all subpanel covers or doors.",
+                    "# Remove circuits from the main panel to make room to connect the subpanel to a 2-pole breaker in the main panel. The circuits you remove will be connected to the subpanel.",
+                    "#* If you have breakers that are serving more than one circuit, called double-lugging, consider moving circuits to the subpanel so that none are double-lugged.",
+                    "# Route the wires to the subpanel, splicing them with new wire if necessary.",
+                    "# Use range cable to connect the subpanel with the main panel.",
+                    "# Make your connections to the sub-feed breaker in the main panel, then install the sub-feed cable into the main breaker in the subpanel.",
+                    "#* First, connect the ground wire, which is bare, to the grounding bar within your subpanel.",
+                    "#* Attach the hot wires (red and black) to the main breaker lugs of the subpanel.",
+                    "# Remove the neutral bonding jumper buss bar screw or strap to completely isolate the subpanel from the ground. This will ensure that the neutral and ground are connected through the main panel and not the subpanel.",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the subpanel. Check to see if all the circuits are working."
+                ]
+            }
+        },
+        {
+            "id": "7642184",
+            "user": "Ashish Pratap Singh",
+            "timestamp": "06:20, 24 April 2012",
+            "anon": false,
+            "size": "(4,356 bytes)",
+            "change": 46,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Shop Subpanel.jpg|thumb|right|251px]]Adding a subpanel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a subpanel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the subpanel yourself, hire a professional electrician.",
+                    ""
+                ],
+                "removed": [
+                    "Adding a subpanel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a subpanel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the subpanel yourself, hire a professional electrician."
+                ]
+            }
+        },
+        {
+            "id": "6590128",
+            "user": "WikiChic15",
+            "timestamp": "13:48, 4 September 2011",
+            "anon": false,
+            "size": "(4,310 bytes)",
+            "change": 111,
+            "summary": "(related wikihows)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Find the Fuse Box or Circuit Breaker Box|How to Find the Fuse Box or Circuit Breaker Box]]",
+                    "*[http://www.electrical-online.com/subpanel-installation/ http://www.electrical-online.com/subpanel-installation/]",
+                    "*[http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm]",
+                    "*[http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected- http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected-]"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "* [http://www.electrical-online.com/subpanel-installation/ http://www.electrical-online.com/subpanel-installation/]",
+                    "* [http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm]",
+                    "* [http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected- http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected-]"
+                ]
+            }
+        },
+        {
+            "id": "6264763",
+            "user": "IngeborgK",
+            "timestamp": "08:03, 26 June 2011",
+            "anon": false,
+            "size": "(4,199 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6264694",
+            "user": "WRM",
+            "timestamp": "07:00, 26 June 2011",
+            "anon": false,
+            "size": "(4,162 bytes)",
+            "change": 4162,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Adding a subpanel, commonly called a breaker box, to a building can provide additional electrical capacity and is especially helpful if your main panel is already full. Many homeowners who expand or remodel find that adding a subpanel is helpful or even necessary in order to provide electrical power to the new rooms. If aren't sure you can safely add the subpanel yourself, hire a professional electrician.",
+                    "== Steps ==",
+                    "",
+                    "=== Prepare for Installation ===",
+                    "# Check with your city's building and codes department to see if you need to acquire a permit before you begin the work. Minor electrical changes generally do not need a permit, but each jurisdiction varies.",
+                    "#* When you meet with the building code representative, ask about the inspection schedule so you know when to call for a rough inspection as well as a final inspection.",
+                    "# Find a good light source that can run off a battery or generator. You need light to work on your project after you shut off the electrical power to the building.",
+                    "# Determine where you will mount the subpanel. If space is an issue, you don't need to install it next to the main panel. However, you must run wire through to that area.",
+                    "#* If you install your subpanel closer to the rooms you are adding power to, you will use more sub-feed cable between the two panels, but less wire to the outlets than if you installed the subpanel close to the main panel.",
+                    "# Shut off your main power breaker before beginning any actual electrical work.",
+                    "",
+                    "=== Install the Subpanel ===",
+                    "# Remove all subpanel covers or doors.",
+                    "# Measure about 5 feet (1.5 m) from the floor to mark the spot where you will mount the panel. This is a good height that is within comfortable reach of most adults.",
+                    "# Remove circuits from the main panel to make room to connect the subpanel to a 2-pole breaker in the main panel. The circuits you remove will be connected to the subpanel.",
+                    "#* If you have breakers that are serving more than one circuit, called double-lugging, consider moving circuits to the subpanel so that none are double-lugged.",
+                    "# Route the wires to the subpanel, splicing them with new wire if necessary.",
+                    "# Use range cable to connect the subpanel with the main panel.",
+                    "# Make your connections to the sub-feed breaker in the main panel, then install the sub-feed cable into the main breaker in the subpanel.",
+                    "#* First, connect the ground wire, which is bare, to the grounding bar within your subpanel.",
+                    "#* Attach the neutral wire, which will be white, to the neutral buss. The buss, or buss bar, allows you to easily connect components.",
+                    "#* Attach the hot wires (red and black) to the main breaker lugs of the subpanel.",
+                    "#* Take the time to tidy up the wires and connections so that you can easily trace them back to their breaker if the need arises in the future.",
+                    "# Remove the neutral bonding jumper buss bar screw or strap to completely isolate the subpanel from the ground. This will ensure that the neutral and ground are connected through the main panel and not the subpanel.",
+                    "#* The buss bar bonding jumper can be identified as a long brass screw or metal strap that connects the neutral buss bar to the panel or ground.",
+                    "# Join the branch circuit wires in the same fashion--grounds to the panel case, neutrals to the bus bar, and hot wires to the breaker lugs. Install the breakers.",
+                    "# Re-install the panel door.",
+                    "# Restore power by first turning on the sub-feed breaker on the main panel, then the main breaker on the main panel, then the main breaker on the subpanel. Check to see if all the circuits are working.",
+                    "# Label the panel to identify which circuits feed into which panel. You will not pass an electrical inspection unless you complete this step.",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.electrical-online.com/subpanel-installation/ http://www.electrical-online.com/subpanel-installation/]",
+                    "* [http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm http://www.hammerzone.com/archives/elect/panel/sub_panel/01/overview.htm]",
+                    "* [http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected- http://www.dslreports.com/forum/r25695444-Install-electrical-circuit-then-have-the-work-inspected-]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

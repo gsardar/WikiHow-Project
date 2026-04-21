@@ -1,0 +1,903 @@
+{
+    "title": "Fix-Exposed-Electrical-Wire",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:31:50.882564",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33886645",
+            "user": "Votebot",
+            "timestamp": "10:25, 9 December 2025",
+            "anon": false,
+            "size": "(14,044 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Avoid buying laptop chargers made by third-party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer."
+                ],
+                "removed": [
+                    "*Avoid buying laptop chargers made by third-party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer."
+                ]
+            }
+        },
+        {
+            "id": "33377469",
+            "user": "Votebot",
+            "timestamp": "09:01, 6 May 2025",
+            "anon": false,
+            "size": "(14,044 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*If you have to replace worn-out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket."
+                ],
+                "removed": [
+                    "*If you have to replace worn-out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket."
+                ]
+            }
+        },
+        {
+            "id": "32873981",
+            "user": "Wikivisual",
+            "timestamp": "08:51, 21 October 2024",
+            "anon": false,
+            "size": "(14,044 bytes)",
+            "change": 280,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Wear protective gloves and eyewear to avoid dangerous shocks. Any exposed wire represents a potential health and fire risk, so do not mess with any wires without taking the proper precautions. Wear [https://www.amazon.com/s?k=electrician+gloves&crid=3VUYTDLWHUYYZ&sprefix=electrician+glove%2Caps%2C130&ref=nb_sb_noss_1&tag=wikihow11950635-20 protective gloves with electrical insulation] and throw on some [https://www.amazon.com/s?k=safety+goggles&crid=1LV4E41EB290O&sprefix=safety+goggle%2Caps%2C156&ref=nb_sb_noss_1&tag=wikihow11950635-20  safety goggles] to prevent potential sparks from blinding you.<ref>https://youtu.be/4LqL93BsK_0?t=23</ref>[[Image:Fix Exposed Electrical Wire Step 12.jpg|center]]",
+                    "#Use a multimeter to determine if the wires are safe to touch. Plug the black probe into the COM port and the red probe into the voltage/resistance port. Set the multimeter to the highest AC voltage and touch the red probe to any positive exposed wire and the black probe to any neutral or ground.<ref>https://youtu.be/4LqL93BsK_0?t=37</ref>[[Image:Fix Exposed Electrical Wire Step 13.jpg|center]]",
+                    "#Flip the circuit breaker to shut off any live wires and re-test them. If the wire is live (or could potentially become live), shut off the circuit for the wire at your fuse box. Locate the switch that corresponds specifically to the room or system where your wire is located and flip that circuit off. Re-test the wire when you’re done to confirm it’s off.[[Image:Fix Exposed Electrical Wire Step 14.jpg|center]]",
+                    "#Contact an electrician if you cannot confirm the wire is dead. If you don’t have a multimeter, you can’t seem to shut the current off, or anything about this process seems overwhelming to you, just contact an electrician. It isn’t worth risking your health to fix a bad wire, and an electrician will have no problem fixing the issue for you.{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}[[Image:Fix Exposed Electrical Wire Step 15.jpg|center]]",
+                    "#No, frayed chargers are a serious fire risk. While phone and tablet chargers don’t put out a lot of voltage, a frayed charger can still overheat and spark an electrical fire. On top of that, a frayed charger is way more likely to overcharge a phone or tablet battery, which can also cause a fire. Do not put your life or home at risk by using a frayed charger—replace the cord immediately.<ref>https://www.zdnet.com/article/is-your-iphone-or-ipad-cable-frayed-replace-it/</ref>[[Image:Fix Exposed Electrical Wire Step 16.jpg|center]]"
+                ],
+                "removed": [
+                    "#Wear protective gloves and eyewear to avoid dangerous shocks. Any exposed wire represents a potential health and fire risk, so do not mess with any wires without taking the proper precautions. Wear [https://www.amazon.com/s?k=electrician+gloves&crid=3VUYTDLWHUYYZ&sprefix=electrician+glove%2Caps%2C130&ref=nb_sb_noss_1&tag=wikihow11950635-20 protective gloves with electrical insulation] and throw on some [https://www.amazon.com/s?k=safety+goggles&crid=1LV4E41EB290O&sprefix=safety+goggle%2Caps%2C156&ref=nb_sb_noss_1&tag=wikihow11950635-20  safety goggles] to prevent potential sparks from blinding you.<ref>https://youtu.be/4LqL93BsK_0?t=23</ref>",
+                    "#Use a multimeter to determine if the wires are safe to touch. Plug the black probe into the COM port and the red probe into the voltage/resistance port. Set the multimeter to the highest AC voltage and touch the red probe to any positive exposed wire and the black probe to any neutral or ground.<ref>https://youtu.be/4LqL93BsK_0?t=37</ref>",
+                    "#Flip the circuit breaker to shut off any live wires and re-test them. If the wire is live (or could potentially become live), shut off the circuit for the wire at your fuse box. Locate the switch that corresponds specifically to the room or system where your wire is located and flip that circuit off. Re-test the wire when you’re done to confirm it’s off.",
+                    "#Contact an electrician if you cannot confirm the wire is dead. If you don’t have a multimeter, you can’t seem to shut the current off, or anything about this process seems overwhelming to you, just contact an electrician. It isn’t worth risking your health to fix a bad wire, and an electrician will have no problem fixing the issue for you.{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "#No, frayed chargers are a serious fire risk. While phone and tablet chargers don’t put out a lot of voltage, a frayed charger can still overheat and spark an electrical fire. On top of that, a frayed charger is way more likely to overcharge a phone or tablet battery, which can also cause a fire. Do not put your life or home at risk by using a frayed charger—replace the cord immediately.<ref>https://www.zdnet.com/article/is-your-iphone-or-ipad-cable-frayed-replace-it/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32842904",
+            "user": "Seymour Edits",
+            "timestamp": "15:28, 8 October 2024",
+            "anon": false,
+            "size": "(13,764 bytes)",
+            "change": -8,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Cut the heat-shrink tubing to be slightly longer than your wire. Licensed electrician Marvin Woo explains that, “generally, the tubing should be just slightly larger in diameter than the wiring so that it can easily slip on and shrink tight enough when heated.”<ref>[v162030_b01]. 1 December 2021.</ref> Measure the damaged area and double the measurement just to give yourself plenty of material to work with. Cut the shrink wrap to size with scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Cut the heat-shrink tubing to be slightly longer than your damaged wire. Licensed electrician Marvin Woo explains that, “generally, the tubing should be just slightly larger in diameter than the wiring so that it can easily slip on and shrink tight enough when heated.”<ref>[v162030_b01]. 1 December 2021.</ref> Measure the damaged area and double the measurement just to give yourself plenty of material to work with. Cut the shrink wrap to size with scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32842903",
+            "user": "Seymour Edits",
+            "timestamp": "15:27, 8 October 2024",
+            "anon": false,
+            "size": "(13,772 bytes)",
+            "change": 238,
+            "summary": "(Reviewer polish)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket can get ripped and expose the electrical wires inside. This situation is especially common with frequently used cables like phone and laptop chargers. If you see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Remember, always test exposed wires with a multimeter to confirm they’re not live, and wear insulated gloves and goggles to protect yourself from potential shocks.",
+                    "===Fixing Exposed Electrical Wire with Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end from a [https://www.amazon.com/s?k=electrical+tape&crid=3VIC6CP3U2U0S&sprefix=electrical+tape%2Caps%2C153&ref=nb_sb_noss_1&tag=wikihow11950635-20 roll of electrical tape] and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref> This method works to repair minor damage in any type of electrical cable. [[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#*<b>Warning:</b> Do not use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.",
+                    "#*Electrical tape comes in different colors, so you can try to find a color that most closely matches the cable you want to repair if you care about the aesthetics. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer.",
+                    "",
+                    "===Fixing Exposed Electrical Wire with Sugru {{toc_item:With Sugru}} ===",
+                    "#Open a packet of Sugru and knead the putty for about 30 seconds. Rip open a pack of single-use [https://www.amazon.com/Sugru-Tesa-Household-Everything-Personalizing/dp/B089WHGQDP?th=1&tag=wikihow11950635-20 Sugru] and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*Sugru is a moldable, adhesive silicone rubber putty that hardens into a rubber-like outer jacket when it cures.",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle so that you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>[[Image:Fix Exposed Electrical Wire Step 5.jpg|center]]",
+                    "#Leave the putty to cure for at least 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours so the Sugru has time to cure completely.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#*The putty will turn into a strong, flexible protective casing around the exposed wire. The casing will help to prevent further damage to the area.",
+                    "",
+                    "===Fixing Exposed Electrical Wire with Heat Shrink {{toc_item:With Heat Shrink}} ===",
+                    "#Cut the heat-shrink tubing to be slightly longer than your damaged wire. Licensed electrician Marvin Woo explains that, “generally, the tubing should be just slightly larger in diameter than the wiring so that it can easily slip on and shrink tight enough when heated.”<ref>[v162030_b01]. 1 December 2021.</ref> Measure the damaged area and double the measurement just to give yourself plenty of material to work with. Cut the shrink wrap to size with scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot and heat it. Woo instructs to “place the section of heat shrink over your wiring. Once in place, center yourself over the splice and apply heat using a heat gun to all sides of the tubing to evenly shrink it.”<ref>[v162030_b01]. 1 December 2021.</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#*<b>Don’t ever use an open flame</b> to shrink heat-shrink tubing because you can easily melt it and damage your cable even more.",
+                    "",
+                    "===Testing Exposed Wires & Key Safety Info{{sa_no_numbers:}} {{toc_item:Key Safety Information}} ===",
+                    "#Contact an electrician if you cannot confirm the wire is dead. If you don’t have a multimeter, you can’t seem to shut the current off, or anything about this process seems overwhelming to you, just contact an electrician. It isn’t worth risking your health to fix a bad wire, and an electrician will have no problem fixing the issue for you.{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "",
+                    "#*<b>Why do charger wires fray so often?</b> You just use charger cables a lot—that’s really it. The wear and tear eventually leads to fraying. Apple chargers, in particular are more likely to fray, too—they don’t use the standard strain relievers that prevent fraying you’d find on other products.<ref>https://www.slashgear.com/1167256/the-reason-why-apple-charging-cables-break-so-often/</ref>",
+                    "*You can take old, worn-out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "*If you have to replace worn-out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.",
+                    "*Avoid buying laptop chargers made by third-party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer."
+                ],
+                "removed": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket can get ripped and expose the electrical wires inside. This is especially common in frequently-used cables like phone and laptop chargers. If you see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Remember, always test exposed wires with a multimeter to confirm they’re not live, and wear insulated gloves and goggles to protect yourself from potential shocks.",
+                    "===Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end from a [https://www.amazon.com/s?k=electrical+tape&crid=3VIC6CP3U2U0S&sprefix=electrical+tape%2Caps%2C153&ref=nb_sb_noss_1&tag=wikihow11950635-20 roll of electrical tape] and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "#*<b>Warning:</b> Do not use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair if you care about the aesthetics.",
+                    "#*This method works to repair minor damage in any type of electrical cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer.",
+                    "===Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use [https://www.amazon.com/Sugru-Tesa-Household-Everything-Personalizing/dp/B089WHGQDP?th=1&tag=wikihow11950635-20 Sugru] and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*Sugru is a type of moldable, adhesive silicone rubber putty that hardens into a rubber-like outer jacket when it cures.",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>[[Image:Fix Exposed Electrical Wire Step 5.jpg|center]]",
+                    "#Let the putty cure for at least 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours so the Sugru has time to cure completely.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#*The putty will turn into a strong, flexible protective casing around the exposed wire. This will prevent further damage to the area.",
+                    "===Heat Shrink===",
+                    "#Cut the heat-shrink tubing to be larger than your wire. Licensed electrician Marvin Woo says, “Generally, the tubing should be just slightly larger in diameter than the wiring so that it can easily slip on and shrink tight enough when heated.”<ref>[v162030_b01]. 1 December 2021.</ref> Measure the damaged area and double the measurement just to give yourself plenty of material to work with. Cut the shrink wrap to size with scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot and heat it. Electrician Marvin Woo continues, “Place the section of heat shrink over your wiring. Once in place, center yourself over the splice and apply heat using a heat gun to all sides of the tubing to evenly shrink it.”<ref>[v162030_b01]. 1 December 2021.</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#*Don’t ever use an open flame to shrink heat-shrink tubing because you can easily just melt it and damage your cable even more.",
+                    "===Testing Exposed Wires & Key Safety Info{{sa_no_numbers:}}===",
+                    "#Contact an electrician if you cannot confirm the wire is dead. If you don’t have a multimeter, you can’t seem to shut the current off, or anything about this process seems overwhelming to you, just contact an electrician. It isn’t worth risking your health to fix a bad wire, and an electrician will have no problem fixing the issue for you.",
+                    "#*<b>Why do charger wires fray so often?</b> You just use charger cables a lot—that’s really it. The wear and tear eventually leads to fraying. Apple chargers in particular are more likely to fray, too—they don’t use the standard strain relievers that prevent fraying you’d find on other products.<ref>https://www.slashgear.com/1167256/the-reason-why-apple-charging-cables-break-so-often/</ref>",
+                    "*You can take old worn-out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer."
+                ]
+            }
+        },
+        {
+            "id": "32840663",
+            "user": "Seymour Edits",
+            "timestamp": "19:38, 7 October 2024",
+            "anon": false,
+            "size": "(13,534 bytes)",
+            "change": -12,
+            "summary": "(Adding the article id)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end from a [https://www.amazon.com/s?k=electrical+tape&crid=3VIC6CP3U2U0S&sprefix=electrical+tape%2Caps%2C153&ref=nb_sb_noss_1&tag=wikihow11950635-20 roll of electrical tape] and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use [https://www.amazon.com/Sugru-Tesa-Household-Everything-Personalizing/dp/B089WHGQDP?th=1&tag=wikihow11950635-20 Sugru] and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing for frayed wires. [https://www.amazon.com/s?k=heat+shrink+tubing+for+wires&tag=wikihow11950635-20 Heat-shrink tubing] with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#*If you don’t have a [https://www.amazon.com/s?k=heat+gun&crid=1RUFH5SKBC8ME&sprefix=heat+gun%2Caps%2C151&ref=nb_sb_noss_1&tag=wikihow11950635-20 heat gun], you can probably use a hair dryer set to the highest heat setting.",
+                    "#Wear protective gloves and eyewear to avoid dangerous shocks. Any exposed wire represents a potential health and fire risk, so do not mess with any wires without taking the proper precautions. Wear [https://www.amazon.com/s?k=electrician+gloves&crid=3VUYTDLWHUYYZ&sprefix=electrician+glove%2Caps%2C130&ref=nb_sb_noss_1&tag=wikihow11950635-20 protective gloves with electrical insulation] and throw on some [https://www.amazon.com/s?k=safety+goggles&crid=1LV4E41EB290O&sprefix=safety+goggle%2Caps%2C156&ref=nb_sb_noss_1&tag=wikihow11950635-20  safety goggles] to prevent potential sparks from blinding you.<ref>https://youtu.be/4LqL93BsK_0?t=23</ref>"
+                ],
+                "removed": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end from a [https://www.amazon.com/s?k=electrical+tape&crid=3VIC6CP3U2U0S&sprefix=electrical+tape%2Caps%2C153&ref=nb_sb_noss_1&##affiliate_article_id## roll of electrical tape] and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use [https://www.amazon.com/Sugru-Tesa-Household-Everything-Personalizing/dp/B089WHGQDP?th=1&##affiliate_article_id## Sugru] and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing for frayed wires. [https://www.amazon.com/s?k=heat+shrink+tubing+for+wires&##affiliate_article_id## Heat-shrink tubing] with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#*If you don’t have a [https://www.amazon.com/s?k=heat+gun&crid=1RUFH5SKBC8ME&sprefix=heat+gun%2Caps%2C151&ref=nb_sb_noss_1&##affiliate_article_id## heat gun], you can probably use a hair dryer set to the highest heat setting.",
+                    "#Wear protective gloves and eyewear to avoid dangerous shocks. Any exposed wire represents a potential health and fire risk, so do not mess with any wires without taking the proper precautions. Wear [https://www.amazon.com/s?k=electrician+gloves&crid=3VUYTDLWHUYYZ&sprefix=electrician+glove%2Caps%2C130&ref=nb_sb_noss_1&##affiliate_article_id## protective gloves with electrical insulation] and throw on some [https://www.amazon.com/s?k=safety+goggles&crid=1LV4E41EB290O&sprefix=safety+goggle%2Caps%2C156&ref=nb_sb_noss_1&##affiliate_article_id##  safety goggles] to prevent potential sparks from blinding you.<ref>https://youtu.be/4LqL93BsK_0?t=23</ref>"
+                ]
+            }
+        },
+        {
+            "id": "32840662",
+            "user": "Seymour Edits",
+            "timestamp": "19:38, 7 October 2024",
+            "anon": false,
+            "size": "(13,546 bytes)",
+            "change": 3036,
+            "summary": "(Revision of a preexisting article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "{{ParagraphTYSK}}<div class='subtitle'>A comprehensive guide on repairing minor cable damage</div>",
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket can get ripped and expose the electrical wires inside. This is especially common in frequently-used cables like phone and laptop chargers. If you see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Remember, always test exposed wires with a multimeter to confirm they’re not live, and wear insulated gloves and goggles to protect yourself from potential shocks.",
+                    "==How to Fix Exposed Wires and Cables==",
+                    "The best way to deal with minor damage on a wire is to sheathe it. You can do this with Sugru putty or heat shrink wrap, although the easiest and fastest option is usually to wrap the exposed wire with electrical tape.",
+                    "===Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end from a [https://www.amazon.com/s?k=electrical+tape&crid=3VIC6CP3U2U0S&sprefix=electrical+tape%2Caps%2C153&ref=nb_sb_noss_1&##affiliate_article_id## roll of electrical tape] and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "#*<b>Warning:</b> Do not use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair if you care about the aesthetics.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Loop the tape over itself so that each layer you add has no gaps. Cut the tape when you complete 2-3 more full wraps and press the end down.<ref>https://www.ifixit.com/Guide/Repairing+Exposed+Wires/56682</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#Add additional layers of tape for added security, as needed. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>[[Image:Fix Exposed Electrical Wire Step 3.jpg|center]]",
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.",
+                    "===Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use [https://www.amazon.com/Sugru-Tesa-Household-Everything-Personalizing/dp/B089WHGQDP?th=1&##affiliate_article_id## Sugru] and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*If the area you’re repairing is close to the wall adapter or power adapter end of the cable, make sure to press the Sugru right up against the power block or the charger plug to create a smooth-looking repair.",
+                    "#Let the putty cure for at least 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours so the Sugru has time to cure completely.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "===Heat Shrink===",
+                    "#Choose 2:1 ratio heat-shrink tubing for frayed wires. [https://www.amazon.com/s?k=heat+shrink+tubing+for+wires&##affiliate_article_id## Heat-shrink tubing] with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#Cut the heat-shrink tubing to be larger than your wire. Licensed electrician Marvin Woo says, “Generally, the tubing should be just slightly larger in diameter than the wiring so that it can easily slip on and shrink tight enough when heated.”<ref>[v162030_b01]. 1 December 2021.</ref> Measure the damaged area and double the measurement just to give yourself plenty of material to work with. Cut the shrink wrap to size with scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot and heat it. Electrician Marvin Woo continues, “Place the section of heat shrink over your wiring. Once in place, center yourself over the splice and apply heat using a heat gun to all sides of the tubing to evenly shrink it.”<ref>[v162030_b01]. 1 December 2021.</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#*If you don’t have a [https://www.amazon.com/s?k=heat+gun&crid=1RUFH5SKBC8ME&sprefix=heat+gun%2Caps%2C151&ref=nb_sb_noss_1&##affiliate_article_id## heat gun], you can probably use a hair dryer set to the highest heat setting.",
+                    "#Continue heating the tubing until the shrink wrap is taut. Keep moving the heat gun or hair dryer back and forth along the tubing to shrink it. Once the shrink tubing is fully shrunk around the damaged area and there’s no give in the material, you’re good to go. Let the wire cool for a few minutes before you finish<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 3.jpg|center]]",
+                    "===Testing Exposed Wires & Key Safety Info{{sa_no_numbers:}}===",
+                    "#Wear protective gloves and eyewear to avoid dangerous shocks. Any exposed wire represents a potential health and fire risk, so do not mess with any wires without taking the proper precautions. Wear [https://www.amazon.com/s?k=electrician+gloves&crid=3VUYTDLWHUYYZ&sprefix=electrician+glove%2Caps%2C130&ref=nb_sb_noss_1&##affiliate_article_id## protective gloves with electrical insulation] and throw on some [https://www.amazon.com/s?k=safety+goggles&crid=1LV4E41EB290O&sprefix=safety+goggle%2Caps%2C156&ref=nb_sb_noss_1&##affiliate_article_id##  safety goggles] to prevent potential sparks from blinding you.<ref>https://youtu.be/4LqL93BsK_0?t=23</ref>",
+                    "#Use a multimeter to determine if the wires are safe to touch. Plug the black probe into the COM port and the red probe into the voltage/resistance port. Set the multimeter to the highest AC voltage and touch the red probe to any positive exposed wire and the black probe to any neutral or ground.<ref>https://youtu.be/4LqL93BsK_0?t=37</ref>",
+                    "#*<b>If you get no reaction:</b> The wire is not live and you can safely touch it.",
+                    "#*<b>If the multimeter dial or reading moves:</b> Your wire is <b>live</b> and <b>you cannot safely touch the wire.</b> Do not tempt fate. While the current is unlikely to be strong enough to harm you, it’s not worth risking your health by messing with a live wire.",
+                    "#Flip the circuit breaker to shut off any live wires and re-test them. If the wire is live (or could potentially become live), shut off the circuit for the wire at your fuse box. Locate the switch that corresponds specifically to the room or system where your wire is located and flip that circuit off. Re-test the wire when you’re done to confirm it’s off.",
+                    "#*<b>Not sure which switch corresponds to your wire?</b> No worries! You can simply shut the main power off using the master circuit breaker switch. That will shut off power for the entire home.",
+                    "#Contact an electrician if you cannot confirm the wire is dead. If you don’t have a multimeter, you can’t seem to shut the current off, or anything about this process seems overwhelming to you, just contact an electrician. It isn’t worth risking your health to fix a bad wire, and an electrician will have no problem fixing the issue for you.",
+                    "===Can you use a charger with a frayed wire?{{sa_no_numbers:}}===",
+                    "#No, frayed chargers are a serious fire risk. While phone and tablet chargers don’t put out a lot of voltage, a frayed charger can still overheat and spark an electrical fire. On top of that, a frayed charger is way more likely to overcharge a phone or tablet battery, which can also cause a fire. Do not put your life or home at risk by using a frayed charger—replace the cord immediately.<ref>https://www.zdnet.com/article/is-your-iphone-or-ipad-cable-frayed-replace-it/</ref>",
+                    "#*<b>Why do charger wires fray so often?</b> You just use charger cables a lot—that’s really it. The wear and tear eventually leads to fraying. Apple chargers in particular are more likely to fray, too—they don’t use the standard strain relievers that prevent fraying you’d find on other products.<ref>https://www.slashgear.com/1167256/the-reason-why-apple-charging-cables-break-so-often/</ref>",
+                    "*You can take old worn-out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "__HORIZONTALTOC__",
+                    "__SECTIONS__"
+                ],
+                "removed": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Fix minor damage on any type of electrical cable with electrical tape, repair damaged charger cables with Sugru putty, or fix more serious damage on electrical cables with heat-shrink tubing. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair.",
+                    "#*Examples of cables you could repair with electrical tape are phone or laptop chargers, power cables on electrical appliances, and headphone cords.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.ifixit.com/Guide/Repairing+Exposed+Wires/56682</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>[[Image:Fix Exposed Electrical Wire Step 3.jpg|center]]",
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}",
+                    "===Repairing Charger Cables with Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*A piece of Sugru that is about as long as the width of your hand will provide good coverage of the exposed wire and relieve strain on the cable to prevent further damage.",
+                    "#*If the area you’re repairing is close to the wall adapter or power adapter end of the cable, make sure to press the Sugru right up against the power block or the charger plug to create a smooth-looking repair. You can shape it to make it look like a part of the cable.",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#*For example, if your cable has a diameter of 1 mm, use 2:1 heat-shrink tubing that is 2 mm in diameter.",
+                    "#*Examples of cables you can apply heat-shrink tubing to are vehicle wires or home appliance power cords.",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#*The tubing will be about 10-15% shorter after you shrink it, so cutting it twice as long as the damaged area ensures it will cover the exposed wire and some of the cable on either side of the exposed section to prevent further damage.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 3.jpg|center]]",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "",
+                    "==Things You’ll Need==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "*Electrical tape",
+                    "*Scissors (optional)",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "*Packet of Sugru",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "*Heat gun or hair dryer",
+                    "*Heat-shrink tubing",
+                    "*Scissors",
+                    "",
+                    "__METHODS__"
+                ]
+            }
+        },
+        {
+            "id": "32697396",
+            "user": "WikiHow Projects",
+            "timestamp": "06:35, 5 August 2024",
+            "anon": false,
+            "size": "(10,510 bytes)",
+            "change": 52,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Fix Exposed Electrical Wire|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32446947",
+            "user": "MiscBot",
+            "timestamp": "00:16, 19 April 2024",
+            "anon": false,
+            "size": "(10,458 bytes)",
+            "change": -52,
+            "summary": "(Celebrity Green boxes converted to use new format)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.{{celebritygreenbox:162861|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}"
+                ],
+                "removed": [
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.{{celebritygreenbox:Rex Cauldwell|Renowned Electrician|Image:Rex-Cauldwell.png|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}"
+                ]
+            }
+        },
+        {
+            "id": "32237677",
+            "user": "WikiHow Projects",
+            "timestamp": "17:01, 26 January 2024",
+            "anon": false,
+            "size": "(10,510 bytes)",
+            "change": 471,
+            "summary": "(Updated green box.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.{{celebritygreenbox:Rex Cauldwell|Renowned Electrician|Image:Rex-Cauldwell.png|When dealing with exposed wires, safety comes first. Always turn off the power at the breaker before attempting repairs. For minor damage, an electrician may use tape to insulate the wire. However, if the damage is severe, replacing part or all of the wire may be necessary. Working with electricity is dangerous, so it's often best to consult a professional to ensure repairs meet the code.}}"
+                ],
+                "removed": [
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "31738269",
+            "user": "Seymour Edits",
+            "timestamp": "01:47, 26 June 2023",
+            "anon": false,
+            "size": "(10,039 bytes)",
+            "change": 11,
+            "summary": "(Replaced sources for the wikiHaus content team.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.ifixit.com/Guide/Repairing+Exposed+Wires/56682</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/tech/mobile/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31266574",
+            "user": "Votebot",
+            "timestamp": "09:56, 16 January 2023",
+            "anon": false,
+            "size": "(10,028 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Don’t try any of these methods to fix exposed electrical wires that are completely bare. Replace them instead."
+                ],
+                "removed": [
+                    "*Don’t try any of these methods to fix exposed electrical wires that are completely bare. Replace them instead."
+                ]
+            }
+        },
+        {
+            "id": "30594367",
+            "user": "Votebot",
+            "timestamp": "08:53, 3 June 2022",
+            "anon": false,
+            "size": "(10,028 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Warnings =="
+                ],
+                "removed": [
+                    "==Warnings=="
+                ]
+            }
+        },
+        {
+            "id": "29999536",
+            "user": "XxVxX",
+            "timestamp": "18:50, 22 October 2021",
+            "anon": false,
+            "size": "(10,026 bytes)",
+            "change": 10026,
+            "summary": "(RCP reverted edits by 63.246.153.164 (talk) to  revision #29763636 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Fix minor damage on any type of electrical cable with electrical tape, repair damaged charger cables with Sugru putty, or fix more serious damage on electrical cables with heat-shrink tubing. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "[[Category:Electrical Maintenance]]",
+                    "==Steps==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair.",
+                    "#*This method works to repair minor damage in any type of electrical cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer.",
+                    "#*Examples of cables you could repair with electrical tape are phone or laptop chargers, power cables on electrical appliances, and headphone cords.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#*Wrapping the tape more than once will help this quick fix last longer and help prevent further damage to the cable.",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>[[Image:Fix Exposed Electrical Wire Step 3.jpg|center]]",
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*Sugru is a type of moldable, adhesive silicone rubber putty that hardens into a rubber-like outer jacket when it cures.",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>[[Image:Fix Exposed Electrical Wire Step 5.jpg|center]]",
+                    "#*A piece of Sugru that is about as long as the width of your hand will provide good coverage of the exposed wire and relieve strain on the cable to prevent further damage.",
+                    "#Wrap the Sugru putty around the damaged area and smooth it out. Center the Sugru over the section of cable with the exposed wire and wrap it around the cable tightly. Press the edges of the putty together where they meet and firmly rub the Sugru with your fingertips to smooth out the seam and remove any fingerprints.<ref>https://www.youtube.com/watch?v=K-qjS6WiyhI&feature=youtu.be&t=6</ref>[[Image:Fix Exposed Electrical Wire Step 6.jpg|center]]",
+                    "#*If the area you’re repairing is close to the wall adapter or power adapter end of the cable, make sure to press the Sugru right up against the power block or the charger plug to create a smooth-looking repair. You can shape it to make it look like a part of the cable.",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#*The putty will turn into a strong, flexible protective casing around the exposed wire. This will prevent further damage to the area.",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#*Heat-shrink tubing is a type of shrinkable plastic tubing that you can use to cover and insulate wires. You can use a hair dryer or heat gun to heat it up and shrink it.",
+                    "#*For example, if your cable has a diameter of 1 mm, use 2:1 heat-shrink tubing that is 2 mm in diameter.",
+                    "#*You can use this method to repair any type of electrical cable with exposed wires. Heat-shrink tubing can be used to repair long sections of exposed electrical wire as well.",
+                    "#*Examples of cables you can apply heat-shrink tubing to are vehicle wires or home appliance power cords.",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#*The tubing will be about 10-15% shorter after you shrink it, so cutting it twice as long as the damaged area ensures it will cover the exposed wire and some of the cable on either side of the exposed section to prevent further damage.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#*Note that heat-shrink tubing won’t work for cables that have ends that are larger than the cable itself, like chargers, because you won’t be able to get the tubing over the large ends. This method works best if the electrical cable has 1 end that is the same diameter as the cable itself.",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 3.jpg|center]]",
+                    "#*This will stiffen the damaged area and protect the exposed wire to prevent further wear and tear.",
+                    "#*The tubing will start to shrink almost right away. Depending on how long the section of heat-shrink tubing you are heating up is, you will probably be able to shrink the whole piece in 30 seconds or less.",
+                    "#*Don’t ever use an open flame to shrink heat-shrink tubing because you can easily just melt it and damage your cable even more.",
+                    "",
+                    "== Tips ==",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.",
+                    "",
+                    "==Warnings==",
+                    "*If you leave electrical wire exposed, the wire itself can start to fray, which can eventually result in a faulty or completely broken wire.",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer.",
+                    "*Don’t try any of these methods to fix exposed electrical wires that are completely bare. Replace them instead.",
+                    "",
+                    "==Things You’ll Need==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "*Electrical tape",
+                    "*Scissors (optional)",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "*Packet of Sugru",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "*Heat gun or hair dryer",
+                    "*Heat-shrink tubing",
+                    "*Scissors",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "29999404",
+            "user": "63.246.153.164",
+            "timestamp": "18:08, 22 October 2021",
+            "anon": true,
+            "size": "(empty)",
+            "change": -8395,
+            "summary": "(Removing all content from page)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer.",
+                    "#*Examples of cables you could repair with electrical tape are phone or laptop chargers, power cables on electrical appliances, and headphone cords.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#*Wrapping the tape more than once will help this quick fix last longer and help prevent further damage to the cable.",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>[[Image:Fix Exposed Electrical Wire Step 3.jpg|center]]",
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#*Sugru is a type of moldable, adhesive silicone rubber putty that hardens into a rubber-like outer jacket when it cures.",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>[[Image:Fix Exposed Electrical Wire Step 5.jpg|center]]",
+                    "#*A piece of Sugru that is about as long as the width of your hand will provide good coverage of the exposed wire and relieve strain on the cable to prevent further damage.",
+                    "#Wrap the Sugru putty around the damaged area and smooth it out. Center the Sugru over the section of cable with the exposed wire and wrap it around the cable tightly. Press the edges of the putty together where they meet and firmly rub the Sugru with your fingertips to smooth out the seam and remove any fingerprints.<ref>https://www.youtube.com/watch?v=K-qjS6WiyhI&feature=youtu.be&t=6</ref>[[Image:Fix Exposed Electrical Wire Step 6.jpg|center]]",
+                    "#*If the area you’re repairing is close to the wall adapter or power adapter end of the cable, make sure to press the Sugru right up against the power block or the charger plug to create a smooth-looking repair. You can shape it to make it look like a part of the cable.",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#*The putty will turn into a strong, flexible protective casing around the exposed wire. This will prevent further damage to the area.",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#*Heat-shrink tubing is a type of shrinkable plastic tubing that you can use to cover and insulate wires. You can use a hair dryer or heat gun to heat it up and shrink it.",
+                    "#*For example, if your cable has a diameter of 1 mm, use 2:1 heat-shrink tubing that is 2 mm in diameter.",
+                    "#*You can use this method to repair any type of electrical cable with exposed wires. Heat-shrink tubing can be used to repair long sections of exposed electrical wire as well.",
+                    "#*Examples of cables you can apply heat-shrink tubing to are vehicle wires or home appliance power cords.",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#*The tubing will be about 10-15% shorter after you shrink it, so cutting it twice as long as the damaged area ensures it will cover the exposed wire and some of the cable on either side of the exposed section to prevent further damage.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#*Note that heat-shrink tubing won’t work for cables that have ends that are larger than the cable itself, like chargers, because you won’t be able to get the tubing over the large ends. This method works best if the electrical cable has 1 end that is the same diameter as the cable itself.",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 3.jpg|center]]",
+                    "#*This will stiffen the damaged area and protect the exposed wire to prevent further wear and tear.",
+                    "#*The tubing will start to shrink almost right away. Depending on how long the section of heat-shrink tubing you are heating up is, you will probably be able to shrink the whole piece in 30 seconds or less.",
+                    "#*Don’t ever use an open flame to shrink heat-shrink tubing because you can easily just melt it and damage your cable even more.",
+                    "",
+                    "== Tips ==",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.",
+                    "",
+                    "==Warnings==",
+                    "*If you leave electrical wire exposed, the wire itself can start to fray, which can eventually result in a faulty or completely broken wire.",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer.",
+                    "*Don’t try any of these methods to fix exposed electrical wires that are completely bare. Replace them instead.",
+                    "",
+                    "==Things You’ll Need==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "*Electrical tape",
+                    "*Scissors (optional)",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "*Packet of Sugru",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "*Heat gun or hair dryer",
+                    "*Heat-shrink tubing",
+                    "*Scissors",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ]
+            }
+        },
+        {
+            "id": "29999399",
+            "user": "63.246.153.164",
+            "timestamp": "18:07, 22 October 2021",
+            "anon": true,
+            "size": "(8,395 bytes)",
+            "change": -1631,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_deletion",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer."
+                ],
+                "removed": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Fix minor damage on any type of electrical cable with electrical tape, repair damaged charger cables with Sugru putty, or fix more serious damage on electrical cables with heat-shrink tubing. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "[[Category:Electrical Maintenance]]",
+                    "==Steps==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair.",
+                    "#*This method works to repair minor damage in any type of electrical cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer."
+                ]
+            }
+        },
+        {
+            "id": "29763636",
+            "user": "Votebot",
+            "timestamp": "08:56, 28 July 2021",
+            "anon": false,
+            "size": "(10,026 bytes)",
+            "change": 2,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "XxVxX",
+            "exact_contribution": {
+                "added": [
+                    "== Tips =="
+                ],
+                "removed": [
+                    "==Tips=="
+                ]
+            }
+        },
+        {
+            "id": "28315357",
+            "user": "Wikivisual",
+            "timestamp": "16:46, 29 June 2020",
+            "anon": false,
+            "size": "(10,024 bytes)",
+            "change": 0,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 3.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 3.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 3.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 3.jpg|center]]"
+                ],
+                "removed": [
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 2.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 2.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 2.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28267341",
+            "user": "Wikivisual",
+            "timestamp": "14:41, 19 June 2020",
+            "anon": false,
+            "size": "(10,024 bytes)",
+            "change": 40,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8 Version 2.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9 Version 2.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10 Version 2.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28247226",
+            "user": "Wikivisual",
+            "timestamp": "13:51, 14 June 2020",
+            "anon": false,
+            "size": "(9,984 bytes)",
+            "change": 423,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Fix Exposed Electrical Wire Step 1.jpg|center]]",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 2.jpg|center]]",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>[[Image:Fix Exposed Electrical Wire Step 3.jpg|center]]",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Fix Exposed Electrical Wire Step 4.jpg|center]]",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>[[Image:Fix Exposed Electrical Wire Step 5.jpg|center]]",
+                    "#Wrap the Sugru putty around the damaged area and smooth it out. Center the Sugru over the section of cable with the exposed wire and wrap it around the cable tightly. Press the edges of the putty together where they meet and firmly rub the Sugru with your fingertips to smooth out the seam and remove any fingerprints.<ref>https://www.youtube.com/watch?v=K-qjS6WiyhI&feature=youtu.be&t=6</ref>[[Image:Fix Exposed Electrical Wire Step 6.jpg|center]]",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 7.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Fix Exposed Electrical Wire Step 8.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>[[Image:Fix Exposed Electrical Wire Step 9.jpg|center]]",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>[[Image:Fix Exposed Electrical Wire Step 10.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Fix Exposed Electrical Wire Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Patch a Tent Step 8.jpg|center]]",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Use-Sugru-Step-2.jpg|center]]",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>",
+                    "#Wrap the Sugru putty around the damaged area and smooth it out. Center the Sugru over the section of cable with the exposed wire and wrap it around the cable tightly. Press the edges of the putty together where they meet and firmly rub the Sugru with your fingertips to smooth out the seam and remove any fingerprints.<ref>https://www.youtube.com/watch?v=K-qjS6WiyhI&feature=youtu.be&t=6</ref>",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Use Heat Shrink Tubing Step 2.jpg|center]]",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Choose-a-Blow-Dryer-Step-1-Version-2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28194643",
+            "user": "WikiHow Projects",
+            "timestamp": "03:27, 2 June 2020",
+            "anon": false,
+            "size": "(9,561 bytes)",
+            "change": 184,
+            "summary": "(Added Images)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}[[Image:Patch a Tent Step 8.jpg|center]]",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}[[Image:Use-Sugru-Step-2.jpg|center]]",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>[[Image:Use Heat Shrink Tubing Step 2.jpg|center]]",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>[[Image:Choose-a-Blow-Dryer-Step-1-Version-2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28189059",
+            "user": "Seymour Edits",
+            "timestamp": "21:33, 31 May 2020",
+            "anon": false,
+            "size": "(9,377 bytes)",
+            "change": 822,
+            "summary": "(Replaced sources, added substeps, revised steps and substeps, edited intro)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. Fix minor damage on any type of electrical cable with electrical tape, repair damaged charger cables with Sugru putty, or fix more serious damage on electrical cables with heat-shrink tubing. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Press it down on top of the exposed section and wrap it tightly around the damaged area 1 full revolution.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#*Examples of cables you could repair with electrical tape are phone or laptop chargers, power cables on electrical appliances, and headphone cords.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first revolution you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#Make 3-4 wraps of tape on either side of the first area you taped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already taped around, overlapping it slightly with the first section of tape. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first taped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>",
+                    "#*Covering the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will strengthen the cable and help prevent further damage to the area.",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers or headphone cords.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}",
+                    "#Choose 2:1 ratio heat-shrink tubing with a diameter 2x bigger than your cable. Heat-shrink tubing with a ratio of 2:1 means it will shrink to half its diameter when you heat it up. Heat-shrink tubing that is twice the diameter of your cable and has a 2:1 ratio will shrink to the exact same diameter as your cable to seal and repair the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#*For example, if your cable has a diameter of 1 mm, use 2:1 heat-shrink tubing that is 2 mm in diameter.",
+                    "#*Examples of cables you can apply heat-shrink tubing to are vehicle wires or home appliance power cords.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=111</ref>",
+                    "#*Note that heat-shrink tubing won’t work for cables that have ends that are larger than the cable itself, like chargers, because you won’t be able to get the tubing over the large ends. This method works best if the electrical cable has 1 end that is the same diameter as the cable itself.",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip within about {{convert|1|cm|in|abbr=on}} of the tubing. Wave the heat gun or hair dryer back and forth along the entire length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=212</ref>",
+                    "#*The tubing will start to shrink almost right away. Depending on how long the section of heat-shrink tubing you are heating up is, you will probably be able to shrink the whole piece in 30 seconds or less.",
+                    "#*Don’t ever use an open flame to shrink heat-shrink tubing because you can easily just melt it and damage your cable even more.",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.",
+                    "*If you leave electrical wire exposed, the wire itself can start to fray, which can eventually result in a faulty or completely broken wire.",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer.",
+                    "*Don’t try any of these methods to fix exposed electrical wires that are completely bare. Replace them instead."
+                ],
+                "removed": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. There are several methods you can use to repair most minor damage to your cables. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Stick it on top of the exposed section and wrap it tightly around the damaged area 1 full wrap.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first wrap you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#Make 3-4 wraps of tape on either side of the area you just wrapped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already wrapped, overlapping it slightly with the first wrapped area. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first wrapped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>",
+                    "#*Wrapping the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will just help prevent further damage to the weakened area.",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}",
+                    "#Choose heat-shrink tubing with a diameter barely greater than your cable. Select a diameter of heat-shrink tubing that will fit over your damaged cable without leaving a large gap between the cable and the tubing. This will allow the tubing to shrink onto the cable to fix the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#*Note that heat-shrink tubing won’t work for cables that have ends that are larger than the cable itself, like chargers, because you won’t be able to get the tubing over the large ends. This method works best if the electrical cable has 1 end that is the same diameter as the cable itself.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.ifixit.com/Guide/How+to+Use+Heat+Shrink+Tubing/64041</ref>",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip as close to the tubing as possible without touching it. Wave the heat gun or hair dryer back and forth along the length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.ifixit.com/Guide/How+to+Use+Heat+Shrink+Tubing/64041</ref>",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "*If you leave electrical wire exposed, the wire itself can start to fray, which can eventually result in a faulty or completely broken wire.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "28172318",
+            "user": "Ruah",
+            "timestamp": "00:06, 28 May 2020",
+            "anon": false,
+            "size": "(8,555 bytes)",
+            "change": 36,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical Maintenance]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28172040",
+            "user": "WRM",
+            "timestamp": "21:56, 27 May 2020",
+            "anon": false,
+            "size": "(8,519 bytes)",
+            "change": 8519,
+            "summary": "(Created new article.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "When electrical cables get moved around and bent a lot, sometimes the outer jacket  can get ripped and expose the electrical wires inside. This is especially common in frequently used cables like phone and laptop chargers. If you are starting to see exposed wires in your electrical cables, fix them as soon as possible to prevent the problem from getting worse. There are several methods you can use to repair most minor damage to your cables. If you have a cable that is extremely worn out and its electrical wires keep getting exposed because of new tears in the outer jacket, it’s probably best to replace it.",
+                    "==Steps==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "#Stick electrical tape over the exposed wire and wrap it around once. Peel up the end of the tape from a roll of electrical tape and center it over the area of the cable with the exposed wire. Stick it on top of the exposed section and wrap it tightly around the damaged area 1 full wrap.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>{{greenbox: '''Warning''': Don’t use duct tape or any other type of tape to cover exposed wire. Electrical tape is insulated and specially made for electrical applications.}}",
+                    "#*You can get electrical tape in different colors, so you can try to find a color that most closely matches the cable you want to repair.",
+                    "#*This method works to repair minor damage in any type of electrical cable. Keep in mind that the electrical tape can get worn out and torn over time, so you might have to replace it eventually with a fresh layer.",
+                    "#Wrap the tape tightly around the wire 2-3 more times and cut it. Continue to wrap the tape around the damaged area, directly on top of the first wrap you made. Cut or tear the tape when you complete 2-3 more full wraps and stick the end down.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#*Wrapping the tape more than once will help this quick fix last longer and help prevent further damage to the cable.",
+                    "#Make 3-4 wraps of tape on either side of the area you just wrapped. Stick the end of the electrical tape on the cable just to the side of the damaged area you already wrapped, overlapping it slightly with the first wrapped area. Wrap it around the cable 3-4 times, then cut or tear it. Repeat this for the other side of the first wrapped area.<ref>https://www.cnet.com/how-to/ways-to-protect-and-fix-cords-around-the-home/</ref>",
+                    "#*Wrapping the undamaged areas of the cable to the side of the area with the exposed wire that you wrapped first will just help prevent further damage to the weakened area.",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "#Tear open a packet of Sugru and knead it for about 30 seconds. Rip open a pack of single-use Sugru and pull out the silicone rubber putty. Squish it back and forth between your fingers for about 30 seconds to warm it up and make it more moldable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>{{greenbox: '''Warning''': Do not use Sugru putty for high-voltage cables or DIY electrical work. Only use this method to fix exposed wires in low-voltage cables like electronic device chargers.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>}}",
+                    "#*Sugru is a type of moldable, adhesive silicone rubber putty that hardens into a rubber-like outer jacket when it cures.",
+                    "#Roll the putty out into a long, thin rectangular shape. Place the putty on a flat surface and roll it back and forth with your fingers until it becomes long and thin. Press it down with your hand until it flattens into more of a rectangle, so you can wrap it around your cable.<ref>https://sugru.com/tech-gadget/how-to-repair-a-laptop-charger</ref>",
+                    "#*A piece of Sugru that is about as long as the width of your hand will provide good coverage of the exposed wire and relieve strain on the cable to prevent further damage.",
+                    "#Wrap the Sugru putty around the damaged area and smooth it out. Center the Sugru over the section of cable with the exposed wire and wrap it around the cable tightly. Press the edges of the putty together where they meet and firmly rub the Sugru with your fingertips to smooth out the seam and remove any fingerprints.<ref>https://www.youtube.com/watch?v=K-qjS6WiyhI&feature=youtu.be&t=6</ref>",
+                    "#*If the area you’re repairing is close to the wall adapter or power adapter end of the cable, make sure to press the Sugru right up against the power block or the charger plug to create a smooth-looking repair. You can shape it to make it look like a part of the cable.",
+                    "#Let the putty cure for 24 hours. Hang the cable up or lay it out on a flat surface somewhere out of the way. Leave it alone for a full 24 hours, so the Sugru has time to cure completely.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#*The putty will turn into a strong, flexible protective casing around the exposed wire. This will prevent further damage to the area.",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "#Choose heat-shrink tubing with a diameter barely greater than your cable. Select a diameter of heat-shrink tubing that will fit over your damaged cable without leaving a large gap between the cable and the tubing. This will allow the tubing to shrink onto the cable to fix the damaged area.<ref>https://www.cnet.com/how-to/5-easy-ways-to-fix-fraying-cables/</ref>",
+                    "#*Heat-shrink tubing is a type of shrinkable plastic tubing that you can use to cover and insulate wires. You can use a hair dryer or heat gun to heat it up and shrink it.",
+                    "#*Note that heat-shrink tubing won’t work for cables that have ends that are larger than the cable itself, like chargers, because you won’t be able to get the tubing over the large ends. This method works best if the electrical cable has 1 end that is the same diameter as the cable itself.",
+                    "#*You can use this method to repair any type of electrical cable with exposed wires. Heat-shrink tubing can be used to repair long sections of exposed electrical wire as well.",
+                    "#Cut the heat-shrink tubing to at least twice as long as the damaged area. Measure the damaged area and double the measurement. Measure out this length on your heat-shrink tubing and cut the tubing using scissors.<ref>https://www.youtube.com/watch?v=odWOK8TaJEw&feature=youtu.be&t=92</ref>",
+                    "#*The tubing will be about 10-15% shorter after you shrink it, so cutting it twice as long as the damaged area ensures it will cover the exposed wire and some of the cable on either side of the exposed section to prevent further damage.",
+                    "#Slide the heat-shrink tubing over the damaged spot. Slip the tubing over the end of the cable and center it over the exposed wire. This will ensure it covers the damaged area and an equal amount of the undamaged cable on either side of it to reinforce the area.<ref>https://www.ifixit.com/Guide/How+to+Use+Heat+Shrink+Tubing/64041</ref>",
+                    "#Heat the tubing using a heat gun or hair dryer until it shrinks. Turn a heat gun or a hair dryer on to high heat and hold the tip as close to the tubing as possible without touching it. Wave the heat gun or hair dryer back and forth along the length of the heat-shrink tubing until it shrinks tightly around the cable.<ref>https://www.ifixit.com/Guide/How+to+Use+Heat+Shrink+Tubing/64041</ref>",
+                    "#*This will stiffen the damaged area and protect the exposed wire to prevent further wear and tear.",
+                    "",
+                    "==Tips==",
+                    "*You can take old worn out electrical cables, such as phone and laptop charges, to an electronic waste recycling center.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "*If you have to replace worn out electrical cables, try buying more durable types like cables with a braided outer jacket instead of the standard rubber jacket.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "",
+                    "==Warnings==",
+                    "*If you leave electrical wire exposed, the wire itself can start to fray, which can eventually result in a faulty or completely broken wire.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "*Avoid buying laptop chargers made by third party manufacturers, which can damage your laptop. Always buy a replacement cable from your laptop’s manufacturer.<ref>https://www.popsci.com/prevent-frayed-cables/</ref>",
+                    "",
+                    "==Things You’ll Need==",
+                    "===Wrapping Minor Damage with Electrical Tape===",
+                    "*Electrical tape",
+                    "*Scissors (optional)",
+                    "",
+                    "===Repairing Charger Cables with Sugru===",
+                    "*Packet of Sugru",
+                    "",
+                    "===Applying Heat-Shrink Tubing to Electrical Wires===",
+                    "*Heat gun or hair dryer",
+                    "*Heat-shrink tubing",
+                    "*Scissors",
+                    "",
+                    "==References==",
+                    "{{reflist}}",
+                    "",
+                    "__METHODS__"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

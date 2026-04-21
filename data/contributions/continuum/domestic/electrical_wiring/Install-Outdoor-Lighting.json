@@ -1,0 +1,1103 @@
+{
+    "title": "Install-Outdoor-Lighting",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:21:36.077082",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "34095531",
+            "user": "MiscBot",
+            "timestamp": "19:31, 19 February 2026",
+            "anon": false,
+            "size": "(10,116 bytes)",
+            "change": -51,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "==Related wikiHows==",
+                    "*[[Install Recessed Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "34079852",
+            "user": "MiscBot",
+            "timestamp": "02:30, 19 February 2026",
+            "anon": false,
+            "size": "(10,167 bytes)",
+            "change": 52,
+            "summary": "(Reverting the Related Articles section removal)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "==Related wikiHows==",
+                    "*[[Install Recessed Lighting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "34064000",
+            "user": "MiscBot",
+            "timestamp": "19:19, 18 February 2026",
+            "anon": false,
+            "size": "(10,115 bytes)",
+            "change": -52,
+            "summary": "(Removing Related Articles section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "==Related wikiHows==",
+                    "*[[Install Recessed Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "33477154",
+            "user": "Zack",
+            "timestamp": "15:45, 10 June 2025",
+            "anon": false,
+            "size": "(10,167 bytes)",
+            "change": -70,
+            "summary": "(RCP reverted edits by 192.33.136.12 (talk) to  revision #33424191 by MiscBot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "*If you're not experienced working with electrical wiring, consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ],
+                "removed": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process. but be careful electricians might shove their penis in your ass.",
+                    "*If you're not experienced working with electrical wiring, dont consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ]
+            }
+        },
+        {
+            "id": "33477083",
+            "user": "192.33.136.12",
+            "timestamp": "15:18, 10 June 2025",
+            "anon": true,
+            "size": "(10,237 bytes)",
+            "change": 65,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process. but be careful electricians might shove their penis in your ass."
+                ],
+                "removed": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process."
+                ]
+            }
+        },
+        {
+            "id": "33477082",
+            "user": "192.33.136.12",
+            "timestamp": "15:18, 10 June 2025",
+            "anon": true,
+            "size": "(10,172 bytes)",
+            "change": 5,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "*If you're not experienced working with electrical wiring, dont consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ],
+                "removed": [
+                    "*If you're not experienced working with electrical wiring, consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ]
+            }
+        },
+        {
+            "id": "33424191",
+            "user": "MiscBot",
+            "timestamp": "08:00, 25 May 2025",
+            "anon": false,
+            "size": "(10,167 bytes)",
+            "change": -180,
+            "summary": "(Automatic external link checking: updating and/or deleting links that are broken)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.[[Image:Install Outdoor Lighting Step 4 Version 2.jpg|center]]",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.[[Image:Install Outdoor Lighting Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 4 Version 2.jpg|center]]",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32561549",
+            "user": "Votebot",
+            "timestamp": "08:47, 8 June 2024",
+            "anon": false,
+            "size": "(10,347 bytes)",
+            "change": 3,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "== Tips ==",
+                    "* In areas where cables are exposed above ground, use conduits to protect those cables. Some local codes may require you to cover the entire cable in conduit.",
+                    ""
+                ],
+                "removed": [
+                    "==Tips==",
+                    "* In areas where cables are exposed above ground, use conduits to protect those cables. Some local codes may require you to cover the entire cable in conduit."
+                ]
+            }
+        },
+        {
+            "id": "32558004",
+            "user": "WikiHow Horizon 3",
+            "timestamp": "20:41, 6 June 2024",
+            "anon": false,
+            "size": "(10,344 bytes)",
+            "change": 49,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Install Outdoor Lighting|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32291589",
+            "user": "Daxduong",
+            "timestamp": "23:40, 15 February 2024",
+            "anon": false,
+            "size": "(10,295 bytes)",
+            "change": 111,
+            "summary": "(Added expert video)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "==={{questionmethod}}What Should I Consider When Installing Landscape Lighting?===",
+                    "{{ExpertVid|IFdCIiIFvRI}}",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32110646",
+            "user": "WikiHow Projects",
+            "timestamp": "07:37, 2 December 2023",
+            "anon": false,
+            "size": "(10,184 bytes)",
+            "change": 84,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 3 Version 2.jpg|center]]",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 5 Version 2.jpg|center]]",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 6 Version 2.jpg|center]]",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 7 Version 2.jpg|center]]",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 9.jpg|center]]",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/lighting/21016621/how-to-put-in-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 3 Version 2.jpg|center]]",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 5 Version 2.jpg|center]]",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 6 Version 2.jpg|center]]",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 7 Version 2.jpg|center]]",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 9.jpg|center]]",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30318685",
+            "user": "Eric",
+            "timestamp": "15:12, 20 February 2022",
+            "anon": false,
+            "size": "(10,100 bytes)",
+            "change": -7801,
+            "summary": "(Reverted edits by 109.70.100.76 (Talk); changed back to last version by MiscBot)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "[[Category:Lighting]]",
+                    "==Steps==",
+                    "===Laying Out the Electrical Wiring===",
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or spray paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install. This will allow you to plan ahead of time where you’ll dig and bury the cable.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 1 Version 2.jpg|center]]",
+                    "#*Try to steer clear of placing the route near any trees, since they’ll likely have shallow roots that will interfere with the installation process.",
+                    "#*Plan on setting up your transformer box next to an outdoor electrical outlet.",
+                    "#Contact the power company to have them identify any underground lines. Call the telephone company and cable company as well, if you have these services in your home. You’ll need to make sure you’re not going to sever any important cables running underground when you start digging along the cable route.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 2 Version 2.jpg|center]]",
+                    "#*If you live in the United States, you can call 811 to be put in touch with your local utility company.",
+                    "#*Have the company mark the locations of any underground utilities in your yard so that you won’t accidentally dig into them.",
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 3 Version 2.jpg|center]]",
+                    "#*Using a ditch-witch or trenching shovel is ideal since these tools will give you a more narrow trench. You don’t want to have to move a bunch of loose dirt around during this installation process.",
+                    "#*Don’t worry about the width of the trench; just make it as wide as the width of your shovel.",
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 4 Version 2.jpg|center]]",
+                    "#*Make sure you can push the cable all the way down to the bottom of the trench, so that it won’t jut out of the trench when you go to bury it.",
+                    "===Connecting the Wiring to the House===",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 5 Version 2.jpg|center]]",
+                    "#*You can also use a utility knife to strip the wire, although it will be much easier to use the wire strippers.",
+                    "#*If the cable has cable nuts, remove them before stripping it.",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 6 Version 2.jpg|center]]",
+                    "#*The inside of the transformer box should include guidelines and brief instructions on how to safely attach these wires to the box.",
+                    "#*Be sure the screws are tightened all the way to prevent the wires from sliding out.",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 7 Version 2.jpg|center]]",
+                    "#*You can also mount the box onto the side of your house if you have wooden or vinyl siding. Use a screwdriver to drive a screw through the back of the box and into the siding.",
+                    "===Installing the Light Fixtures===",
+                    "#Place your fixtures about where you intend to install them. Lay the light fixtures alongside your cable, keeping them about {{convert|8|to|10|ft|m}} apart from one another. Don’t worry about how they look just yet; it’s fine to just lay them on the ground!<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 8 Version 2.jpg|center]]",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 9.jpg|center]]",
+                    "#*Doing this will make it much easier for you to drive the stake into the ground later on.",
+                    "#*Your light fixtures should have come with stakes, if you purchased them from a store. If you don’t have one of these stakes, buy some metal stakes that are about {{convert|8|to|10|in|cm}} long to use instead.",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 10.jpg|center]]",
+                    "#*Be sure the cable is not hooked up to a power source when you go to connect it to the light fixture.",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it. Don’t try to hammer it into the ground, since this may damage the light.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 11.jpg|center]]",
+                    "#*You will most likely just have to snap the fixture onto the stake. However, some manufacturers ask that you use a screw and screwdriver to attach the two.",
+                    "#*Check to make sure the fixture is vertically straight after you insert it into the ground. If it isn’t straight, pull it out and reinsert it.",
+                    "#Repeat this process for all the other light fixtures. Hook up each fixture to the main cable, then attach them to stakes and push them into the ground. Make sure they’re all aligned the way you want them to be and that they’re all straight before proceeding.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 12.jpg|center]]",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 13.jpg|center]]",
+                    "#*If the lights are dim, this means they’re not getting enough electricity. Make sure the cable isn’t running beyond the manufacturer’s recommended length.",
+                    "#Bury all of the exposed wiring. Use your shovel to replace all of the dirt that you displaced to create your cable trench. Place some loose soil around the light fixtures to hide the wires coming out of them as well, if necessary.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 14.jpg|center]]",
+                    "==Tips==",
+                    "* When working with underground wiring, always use UF cables. A UF cable ensures that there is some sort of breaker or a fuse at the starting point of your underground installation.",
+                    "* In areas where cables are exposed above ground, use conduits to protect those cables. Some local codes may require you to cover the entire cable in conduit.",
+                    "*If you don't want to run wiring for your lights, use solar-powered floodlights instead. These will charge during the day, then you can set when you want them to come on.<ref>[v161470_b01]. 16 July 2020.</ref>",
+                    "==Warnings==",
+                    "*If you're not experienced working with electrical wiring, consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>",
+                    "==Things You'll Need==",
+                    "* Outdoor lighting starter kit",
+                    "* Transformer",
+                    "* Ditch-witch or shovel",
+                    "* Screwdriver",
+                    "* Wire strippers",
+                    "==Related wikiHows==",
+                    "*[[Install Recessed Lighting]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__PARTS__",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-Outdoor-Lighting}}"
+                ],
+                "removed": [
+                    "Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy",
+                    "== Steps ==",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "== Tips ==",
+                    "* Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy",
+                    "",
+                    "== Warnings ==",
+                    "* Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy"
+                ]
+            }
+        },
+        {
+            "id": "30318591",
+            "user": "109.70.100.76",
+            "timestamp": "14:53, 20 February 2022",
+            "anon": true,
+            "size": "(17,901 bytes)",
+            "change": 7801,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Eric",
+            "exact_contribution": {
+                "added": [
+                    "Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy",
+                    "== Steps ==",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "# Welcome to the cum zone Only cum inside anime girls Quivering clit, double jointed pussy Fresh balls, elegant ejaculation First the kiss, then the cum My dick is in love with pain Co-op cock torture Stuff my dick into a furnace Stitch my cock shut Pressure cook my greasy balls Cumblast me and make it snappy Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum Cum, cum, cum, cum, cum, cum, cum, cum What's all the cummotion? My dad fell into a cum shaft My dad glazed my face with cum Fertilize a baby with hunk spunk Cum spunk in my trunk Cum craving toddler Cum drippin' cunt Cummy Rae Jepsen Cum me maybe Cummy bottom boy Night of the living cum Nefarious cum mastermind Cum makes me fearless Cum crammer, cock slammer Cum slammed ya mum Mail your mums pieces of my dick Bazinga! Chug the cum, fug ya mum Fuck my asshole full of cum Three little words Get fucked, nerd Cum stuffer, jenkem huffer Fuck my cum puddle Bottom stuffer, semen huffer Would love a gator to fuck me Undercooked baby pig penises Help my dogs get a huge boner Water bong full of cat cum Accidentally fucked my own ass I barely had any dicks inside me Who ate all my cum? A mystery Cum detective hot on the trail Bees make honey, I make cummy",
+                    "== Tips ==",
+                    "* Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy",
+                    "",
+                    "== Warnings ==",
+                    "* Welcome to the cum zoneOnly cum inside anime girlsQuivering clit, double jointed pussyFresh balls, elegant ejaculationFirst the kiss, then the cumMy dick is in love with painCo-op cock tortureStuff my dick into a furnaceStitch my cock shutPressure cook my greasy ballsCumblast me and make it snappyCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumCum, cum, cum, cum, cum, cum, cum, cumWhat's all the cummotion?My dad fell into a cum shaftMy dad glazed my face with cumFertilize a baby with hunk spunkCum spunk in my trunkCum craving toddlerCum drippin' cuntCummy Rae JepsenCum me maybeCummy bottom boyNight of the living cumNefarious cum mastermindCum makes me fearlessCum crammer, cock slammerCum slammed ya mumMail your mums pieces of my dickBazinga!Chug the cum, fug ya mumFuck my asshole full of cumThree little wordsGet fucked, nerdCum stuffer, jenkem hufferFuck my cum puddleBottom stuffer, semen hufferWould love a gator to fuck meUndercooked baby pig penisesHelp my dogs get a huge bonerWater bong full of cat cumAccidentally fucked my own assI barely had any dicks inside meWho ate all my cum? A mysteryCum detective hot on the trailBees make honey, I make cummy"
+                ],
+                "removed": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "[[Category:Lighting]]",
+                    "==Steps==",
+                    "===Laying Out the Electrical Wiring===",
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or spray paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install. This will allow you to plan ahead of time where you’ll dig and bury the cable.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 1 Version 2.jpg|center]]",
+                    "#*Try to steer clear of placing the route near any trees, since they’ll likely have shallow roots that will interfere with the installation process.",
+                    "#*Plan on setting up your transformer box next to an outdoor electrical outlet.",
+                    "#Contact the power company to have them identify any underground lines. Call the telephone company and cable company as well, if you have these services in your home. You’ll need to make sure you’re not going to sever any important cables running underground when you start digging along the cable route.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 2 Version 2.jpg|center]]",
+                    "#*If you live in the United States, you can call 811 to be put in touch with your local utility company.",
+                    "#*Have the company mark the locations of any underground utilities in your yard so that you won’t accidentally dig into them.",
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 3 Version 2.jpg|center]]",
+                    "#*Using a ditch-witch or trenching shovel is ideal since these tools will give you a more narrow trench. You don’t want to have to move a bunch of loose dirt around during this installation process.",
+                    "#*Don’t worry about the width of the trench; just make it as wide as the width of your shovel.",
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 4 Version 2.jpg|center]]",
+                    "#*Make sure you can push the cable all the way down to the bottom of the trench, so that it won’t jut out of the trench when you go to bury it.",
+                    "===Connecting the Wiring to the House===",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 5 Version 2.jpg|center]]",
+                    "#*You can also use a utility knife to strip the wire, although it will be much easier to use the wire strippers.",
+                    "#*If the cable has cable nuts, remove them before stripping it.",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 6 Version 2.jpg|center]]",
+                    "#*The inside of the transformer box should include guidelines and brief instructions on how to safely attach these wires to the box.",
+                    "#*Be sure the screws are tightened all the way to prevent the wires from sliding out.",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 7 Version 2.jpg|center]]",
+                    "#*You can also mount the box onto the side of your house if you have wooden or vinyl siding. Use a screwdriver to drive a screw through the back of the box and into the siding.",
+                    "===Installing the Light Fixtures===",
+                    "#Place your fixtures about where you intend to install them. Lay the light fixtures alongside your cable, keeping them about {{convert|8|to|10|ft|m}} apart from one another. Don’t worry about how they look just yet; it’s fine to just lay them on the ground!<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 8 Version 2.jpg|center]]",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 9.jpg|center]]",
+                    "#*Doing this will make it much easier for you to drive the stake into the ground later on.",
+                    "#*Your light fixtures should have come with stakes, if you purchased them from a store. If you don’t have one of these stakes, buy some metal stakes that are about {{convert|8|to|10|in|cm}} long to use instead.",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 10.jpg|center]]",
+                    "#*Be sure the cable is not hooked up to a power source when you go to connect it to the light fixture.",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it. Don’t try to hammer it into the ground, since this may damage the light.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 11.jpg|center]]",
+                    "#*You will most likely just have to snap the fixture onto the stake. However, some manufacturers ask that you use a screw and screwdriver to attach the two.",
+                    "#*Check to make sure the fixture is vertically straight after you insert it into the ground. If it isn’t straight, pull it out and reinsert it.",
+                    "#Repeat this process for all the other light fixtures. Hook up each fixture to the main cable, then attach them to stakes and push them into the ground. Make sure they’re all aligned the way you want them to be and that they’re all straight before proceeding.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 12.jpg|center]]",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 13.jpg|center]]",
+                    "#*If the lights are dim, this means they’re not getting enough electricity. Make sure the cable isn’t running beyond the manufacturer’s recommended length.",
+                    "#Bury all of the exposed wiring. Use your shovel to replace all of the dirt that you displaced to create your cable trench. Place some loose soil around the light fixtures to hide the wires coming out of them as well, if necessary.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 14.jpg|center]]",
+                    "==Tips==",
+                    "* When working with underground wiring, always use UF cables. A UF cable ensures that there is some sort of breaker or a fuse at the starting point of your underground installation.",
+                    "* In areas where cables are exposed above ground, use conduits to protect those cables. Some local codes may require you to cover the entire cable in conduit.",
+                    "*If you don't want to run wiring for your lights, use solar-powered floodlights instead. These will charge during the day, then you can set when you want them to come on.<ref>[v161470_b01]. 16 July 2020.</ref>",
+                    "==Warnings==",
+                    "*If you're not experienced working with electrical wiring, consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>",
+                    "==Things You'll Need==",
+                    "* Outdoor lighting starter kit",
+                    "* Transformer",
+                    "* Ditch-witch or shovel",
+                    "* Screwdriver",
+                    "* Wire strippers",
+                    "==Related wikiHows==",
+                    "*[[Install Recessed Lighting]]",
+                    "== References ==",
+                    "{{reflist}}",
+                    "__PARTS__",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-Outdoor-Lighting}}"
+                ]
+            }
+        },
+        {
+            "id": "29895271",
+            "user": "MiscBot",
+            "timestamp": "06:25, 16 September 2021",
+            "anon": false,
+            "size": "(10,100 bytes)",
+            "change": -6,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Lighting]]"
+                ],
+                "removed": [
+                    "[[Category:Outdoor Lights]]"
+                ]
+            }
+        },
+        {
+            "id": "28414516",
+            "user": "WikiHow Expert Review",
+            "timestamp": "21:40, 24 July 2020",
+            "anon": false,
+            "size": "(10,106 bytes)",
+            "change": 365,
+            "summary": "(Integrated tips from NCA)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "*If you don't want to run wiring for your lights, use solar-powered floodlights instead. These will charge during the day, then you can set when you want them to come on.<ref>[v161470_b01]. 16 July 2020.</ref>",
+                    "==Warnings==",
+                    "*If you're not experienced working with electrical wiring, consider hiring an electrician to help you.<ref>[v161470_b01]. 16 July 2020.</ref>"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26649046",
+            "user": "Seymour Edits",
+            "timestamp": "12:10, 6 June 2019",
+            "anon": false,
+            "size": "(9,741 bytes)",
+            "change": 143,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Install-Outdoor-Lighting}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26297593",
+            "user": "MiscBot",
+            "timestamp": "02:52, 29 March 2019",
+            "anon": false,
+            "size": "(9,598 bytes)",
+            "change": -9,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "sourcing",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "==Sources and Citations=="
+                ]
+            }
+        },
+        {
+            "id": "26154171",
+            "user": "Wikivisual",
+            "timestamp": "10:51, 11 March 2019",
+            "anon": false,
+            "size": "(9,607 bytes)",
+            "change": 657,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or spray paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install. This will allow you to plan ahead of time where you’ll dig and bury the cable.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 1 Version 2.jpg|center]]",
+                    "#Contact the power company to have them identify any underground lines. Call the telephone company and cable company as well, if you have these services in your home. You’ll need to make sure you’re not going to sever any important cables running underground when you start digging along the cable route.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 2 Version 2.jpg|center]]",
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 3 Version 2.jpg|center]]",
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 4 Version 2.jpg|center]]",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 5 Version 2.jpg|center]]",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 6 Version 2.jpg|center]]",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 7 Version 2.jpg|center]]",
+                    "#Place your fixtures about where you intend to install them. Lay the light fixtures alongside your cable, keeping them about {{convert|8|to|10|ft|m}} apart from one another. Don’t worry about how they look just yet; it’s fine to just lay them on the ground!<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 8 Version 2.jpg|center]]",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 9.jpg|center]]",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 10.jpg|center]]",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it. Don’t try to hammer it into the ground, since this may damage the light.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 11.jpg|center]]",
+                    "#Repeat this process for all the other light fixtures. Hook up each fixture to the main cable, then attach them to stakes and push them into the ground. Make sure they’re all aligned the way you want them to be and that they’re all straight before proceeding.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>[[Image:Install Outdoor Lighting Step 12.jpg|center]]",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 13.jpg|center]]",
+                    "#Bury all of the exposed wiring. Use your shovel to replace all of the dirt that you displaced to create your cable trench. Place some loose soil around the light fixtures to hide the wires coming out of them as well, if necessary.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 14.jpg|center]]"
+                ],
+                "removed": [
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or spray paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install. This will allow you to plan ahead of time where you’ll dig and bury the cable.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#Contact the power company to have them identify any underground lines. Call the telephone company and cable company as well, if you have these services in your home. You’ll need to make sure you’re not going to sever any important cables running underground when you start digging along the cable route.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 4.jpg|center]]",
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Place your fixtures about where you intend to install them. Lay the light fixtures alongside your cable, keeping them about {{convert|8|to|10|ft|m}} apart from one another. Don’t worry about how they look just yet; it’s fine to just lay them on the ground!<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it. Don’t try to hammer it into the ground, since this may damage the light.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#Repeat this process for all the other light fixtures. Hook up each fixture to the main cable, then attach them to stakes and push them into the ground. Make sure they’re all aligned the way you want them to be and that they’re all straight before proceeding.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 7.jpg|center]]",
+                    "#Bury all of the exposed wiring. Use your shovel to replace all of the dirt that you displaced to create your cable trench. Place some loose soil around the light fixtures to hide the wires coming out of them as well, if necessary.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "26031202",
+            "user": "Seymour Edits",
+            "timestamp": "02:37, 14 February 2019",
+            "anon": false,
+            "size": "(8,950 bytes)",
+            "change": 861,
+            "summary": "(Switched Methods to Parts; step titles; fleshed out steps; eliminated repetition; Intro)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting, from [[Install Flood Lights|flood lights]] to [[Install an Outdoor Motion Sensor Light|motion sensor lights]] to simple landscape lighting, is a popular method of increasing lawn security and establishing mood and atmosphere in the evenings. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or spray paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install. This will allow you to plan ahead of time where you’ll dig and bury the cable.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#*If you live in the United States, you can call 811 to be put in touch with your local utility company.",
+                    "#*Have the company mark the locations of any underground utilities in your yard so that you won’t accidentally dig into them.",
+                    "#*Don’t worry about the width of the trench; just make it as wide as the width of your shovel.",
+                    "#*If the cable has cable nuts, remove them before stripping it.",
+                    "#*The inside of the transformer box should include guidelines and brief instructions on how to safely attach these wires to the box.",
+                    "#*You can also mount the box onto the side of your house if you have wooden or vinyl siding. Use a screwdriver to drive a screw through the back of the box and into the siding.",
+                    "#Dig a narrow hole on the spot where you plan to put 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*Doing this will make it much easier for you to drive the stake into the ground later on.",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it. Don’t try to hammer it into the ground, since this may damage the light.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#*You will most likely just have to snap the fixture onto the stake. However, some manufacturers ask that you use a screw and screwdriver to attach the two.",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the evenings. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#*The inside of the transformer box should include guidelines and brief instructions on how to attach these wires to the box.",
+                    "#*You can also mount the box onto the side of your house if you have wooden or vinyl siding.",
+                    "#Put a hole in the ground next to 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Connect the fixture to the stake by following the manufacturer’s instructions. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "__METHODS__"
+                ]
+            }
+        },
+        {
+            "id": "26013436",
+            "user": "Seymour Edits",
+            "timestamp": "03:17, 11 February 2019",
+            "anon": false,
+            "size": "(8,089 bytes)",
+            "change": 4089,
+            "summary": "(Expanded on previously written steps.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the evenings. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. Once you’ve got an outdoor lighting starter kit, connecting it to your house’s power supply is a pretty straightforward process.",
+                    "==Steps==",
+                    "===Laying Out the Electrical Wiring===",
+                    "#Mark the route that you’ll run your electric cable along. Identify the spots in your yard where you want your light fixtures to be located, as well as where you’ll set up your transformer box. Use string or paint to plot a route that takes an electric cable from the transformer to each of the light fixtures you’ll install.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#*Try to steer clear of placing the route near any trees, since they’ll likely have shallow roots that will interfere with the installation process.",
+                    "#*Plan on setting up your transformer box next to an outdoor electrical outlet.",
+                    "#Contact the power company to have them identify any underground lines. Call the telephone company and cable company as well, if you have these services in your home. You’ll need to make sure you’re not going to sever any important cables running underground when you start digging along the cable route.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>",
+                    "#Dig a shallow trench along your wiring route. Use a ditch-witch or a trenching shovel to dig this trench about {{convert|3|in|cm}} deep. You may need to use the shovel to turn over any sod or grass on your lawn first.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>[[Image:Install Outdoor Lighting Step 4.jpg|center]]",
+                    "#*Using a ditch-witch or trenching shovel is ideal since these tools will give you a more narrow trench. You don’t want to have to move a bunch of loose dirt around during this installation process.",
+                    "#Place the cable in the trench without burying it. Leave about {{convert|1|ft|m}} of loose cable on the end next to the transformer, since you’ll need to attach the wiring to the box. Leave a small loop at each planned fixture location as well, so you can connect the wiring to the fixture.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>",
+                    "#*Make sure you can push the cable all the way down to the bottom of the trench, so that it won’t jut out of the trench when you go to bury it.",
+                    "===Connecting the Wiring to the House===",
+                    "#Run the cable up to the outdoor outlet and [[Strip Wire|strip the end of it]]. Use wire strippers to cut the end of the cable and remove about {{convert|1/2|in|cm}} of rubber insulation. This should leave 2 wires exposed.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*You can also use a utility knife to strip the wire, although it will be much easier to use the wire strippers.",
+                    "#Attach the 2 exposed wires from the cable to the transformer box. Slide the wires under the 2 screws (called terminal screws) located on the bottom of the transformer box. Then, use a screwdriver to tighten the top and bottom terminal block set screws to attach the wires to the box.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*The inside of the transformer box should include guidelines and brief instructions on how to attach these wires to the box.",
+                    "#*Be sure the screws are tightened all the way to prevent the wires from sliding out.",
+                    "#Drive a stake into the ground and attach the transformer to it. Hammer a sturdy wooden stake about {{convert|1|ft|m}} into the ground next to the outlet. Then, use the screwdriver to screw the transformer box into the stake to attach it.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*You can also mount the box onto the side of your house if you have wooden or vinyl siding.",
+                    "===Installing the Light Fixtures===",
+                    "#Place your fixtures about where you intend to install them. Lay the light fixtures alongside your cable, keeping them about {{convert|8|to|10|ft|m}} apart from one another. Don’t worry about how they look just yet; it’s fine to just lay them on the ground!<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#Put a hole in the ground next to 1 of the fixtures. Use your screwdriver or a long steel punch to make a deep, narrow hole for the light fixture’s stake. Make the depth of the hole the same as the length of the stake.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*Your light fixtures should have come with stakes, if you purchased them from a store. If you don’t have one of these stakes, buy some metal stakes that are about {{convert|8|to|10|in|cm}} long to use instead.",
+                    "#Connect the fixture wires to the main cable. Take the 2 connector halves hanging from the bottom of the light fixture and slip them over the cable. Then, pinch them together until you hear a click. This is the sound of the connectors making a connection with the wires inside the cable.<ref>https://www.thisoldhouse.com/how-to/how-to-put-landscape-lighting</ref>",
+                    "#*Be sure the cable is not hooked up to a power source when you go to connect it to the light fixture.",
+                    "#Attach the fixture to the stake, then push the stake into the ground. Connect the fixture to the stake by following the manufacturer’s instructions. Use both hands to grip the stake (with the fixture attached to it) and push it into the narrow hole you dug for it.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#*Check to make sure the fixture is vertically straight after you insert it into the ground. If it isn’t straight, pull it out and reinsert it.",
+                    "#Repeat this process for all the other light fixtures. Hook up each fixture to the main cable, then attach them to stakes and push them into the ground. Make sure they’re all aligned the way you want them to be and that they’re all straight before proceeding.<ref>https://www.popularmechanics.com/home/lawn-garden/how-to/a8906/how-to-put-in-low-voltage-landscape-lighting-15326645/</ref>",
+                    "#Plug the transformer into the outlet to test your lights. If any of the lights don’t come on, check to see that the bulb is correctly screwed in. If the bulb is good but the light still doesn’t come on, it’s most likely a problem with the wiring.<ref>https://www.bhg.com/home-improvement/lighting/outdoor/install-outdoor-lighting/</ref>[[Image:Install Outdoor Lighting Step 7.jpg|center]]",
+                    "#*If the lights are dim, this means they’re not getting enough electricity. Make sure the cable isn’t running beyond the manufacturer’s recommended length.",
+                    "#Bury all of the exposed wiring. Use your shovel to replace all of the dirt that you displaced to create your cable trench. Place some loose soil around the light fixtures to hide the wires coming out of them as well, if necessary.<ref>https://www.familyhandyman.com/electrical/outdoor-lighting/how-to-install-outdoor-lighting-and-outlet/view-all/</ref>[[Image:Install Outdoor Lighting Step 8.jpg|center]]",
+                    "==Tips==",
+                    "==Things You'll Need==",
+                    "* Ditch-witch or shovel",
+                    "* Screwdriver",
+                    "* Wire strippers",
+                    "==Related wikiHows==",
+                    "==Sources and Citations==",
+                    "{{reflist}}",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "{{stub|date=2017-05-05}}Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting.",
+                    "",
+                    "",
+                    "== Steps ==",
+                    "#Check your local codes relevant to outdoor lighting. It is important that you obey the law and follow the requirements to maximize safety and minimize risks.[[Image:Install Outdoor Lighting Step 1.jpg|center]]",
+                    "#Shut off the electricity in the main switch box for your house. If you are going to be working with an underground wiring installation, be sure to mount a breaker or fuse box.[[Image:Install Outdoor Lighting Step 2.jpg|center]]",
+                    "#Determine the expected locations for your lights as well as your transformer. Transformers often plug into regular outdoor plugs, so just look for a plug on the exterior of your house.[[Image:Install Outdoor Lighting Step 3.jpg|center]]",
+                    "#* Drill a thick screw-either wood or masonry depending on your house material-into your house and hang the transformer on it. Do not plug it in until all the wiring is complete.",
+                    "#Using a ditch-witch, dig a trench at each location where you expect a light to be installed. Deeper trenches are always better, as soil and dirt will erode over time.[[Image:Install Outdoor Lighting Step 4.jpg|center]]",
+                    "#Run the main line between the transformer and the trenches.[[Image:Install Outdoor Lighting Step 5.jpg|center]]",
+                    "#* In case you want to make changes or extensions in the future, you may want to place a stick or a flag into the ground as a landmark.",
+                    "#Install the outdoor lights. Your outdoor lighting starter kit should include small converter boxes that are used to clip together the main line and the light wiring. Do this for all of the lights.[[Image:Install Outdoor Lighting Step 6.jpg|center]]",
+                    "#* If you have experience with soldering, you may wish to solder the light wire directly to the main line. This will reduce the probability that the light wires unexpectedly disconnect in the future.",
+                    "#Make the connection between the main lines and your transformer. After, you can plug the transformer into the outdoor plug.[[Image:Install Outdoor Lighting Step 7.jpg|center]]",
+                    "#* Check that the lights are working. If they are not, the problem is either in your transformer (faulty) or in your main lines (not connected properly). If some of the lights are functioning but not all of them, some of them might be improperly connected or have defective bulbs.",
+                    "#Fill in the trenches that you dug and cover them with some Topsoil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown.[[Image:Install Outdoor Lighting Step 8.jpg|center]]",
+                    "",
+                    "== Tips ==",
+                    "",
+                    "== Warnings ==",
+                    "* When working with underground wiring, always bury cables at least {{convert|18|in|cm|1}} into the ground. However, {{convert|24|in|cm|1}} is the recommended depth for maximum safety and reliability.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Ditch-witch",
+                    "* Thick wood or masonry screw",
+                    "* Electric drill",
+                    "* Topsoil",
+                    "* Grass seeds",
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.acehardware.com/info/index.jsp?categoryId=1284747 http://www.acehardware.com/info/index.jsp?categoryId=1284747]"
+                ]
+            }
+        },
+        {
+            "id": "23879344",
+            "user": "WikiHow Intern",
+            "timestamp": "05:15, 18 January 2018",
+            "anon": false,
+            "size": "(4,000 bytes)",
+            "change": -13,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Outdoor Lights]]"
+                ],
+                "removed": [
+                    "[[Category:Lighting and Light Switches]]"
+                ]
+            }
+        },
+        {
+            "id": "22349938",
+            "user": "Stub Bot",
+            "timestamp": "16:28, 5 May 2017",
+            "anon": false,
+            "size": "(4,013 bytes)",
+            "change": 24,
+            "summary": "(Marking as stub because this article does not appear complete enough to be helpful to readers. Disagree? Leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "{{stub|date=2017-05-05}}Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ],
+                "removed": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ]
+            }
+        },
+        {
+            "id": "19331540",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "00:14, 9 January 2016",
+            "anon": false,
+            "size": "(3,989 bytes)",
+            "change": -33,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*[[Install Recessed Lighting]]"
+                ],
+                "removed": [
+                    "*[[Install Recessed Lighting|How to Install Recessed Lighting]]"
+                ]
+            }
+        },
+        {
+            "id": "17920228",
+            "user": "InterwikiBot",
+            "timestamp": "00:34, 25 July 2015",
+            "anon": false,
+            "size": "(4,022 bytes)",
+            "change": -101,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[ru:установить наружное освещение]]",
+                    "[[pt:Instalar Iluminação Externa]]"
+                ]
+            }
+        },
+        {
+            "id": "16680405",
+            "user": "Wikivisual",
+            "timestamp": "20:55, 18 February 2015",
+            "anon": false,
+            "size": "(4,123 bytes)",
+            "change": 408,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Check your local codes relevant to outdoor lighting. It is important that you obey the law and follow the requirements to maximize safety and minimize risks.[[Image:Install Outdoor Lighting Step 1.jpg|center]]",
+                    "#Shut off the electricity in the main switch box for your house. If you are going to be working with an underground wiring installation, be sure to mount a breaker or fuse box.[[Image:Install Outdoor Lighting Step 2.jpg|center]]",
+                    "#Determine the expected locations for your lights as well as your transformer. Transformers often plug into regular outdoor plugs, so just look for a plug on the exterior of your house.[[Image:Install Outdoor Lighting Step 3.jpg|center]]",
+                    "#Using a ditch-witch, dig a trench at each location where you expect a light to be installed. Deeper trenches are always better, as soil and dirt will erode over time.[[Image:Install Outdoor Lighting Step 4.jpg|center]]",
+                    "#Run the main line between the transformer and the trenches.[[Image:Install Outdoor Lighting Step 5.jpg|center]]",
+                    "#Install the outdoor lights. Your outdoor lighting starter kit should include small converter boxes that are used to clip together the main line and the light wiring. Do this for all of the lights.[[Image:Install Outdoor Lighting Step 6.jpg|center]]",
+                    "#Make the connection between the main lines and your transformer. After, you can plug the transformer into the outdoor plug.[[Image:Install Outdoor Lighting Step 7.jpg|center]]",
+                    "#Fill in the trenches that you dug and cover them with some Topsoil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown.[[Image:Install Outdoor Lighting Step 8.jpg|center]]"
+                ],
+                "removed": [
+                    "# Check your local codes relevant to outdoor lighting. It is important that you obey the law and follow the requirements to maximize safety and minimize risks.",
+                    "# Shut off the electricity in the main switch box for your house. If you are going to be working with an underground wiring installation, be sure to mount a breaker or fuse box.",
+                    "# Determine the expected locations for your lights as well as your transformer. Transformers often plug into regular outdoor plugs, so just look for a plug on the exterior of your house.",
+                    "# Using a ditch-witch, dig a trench at each location where you expect a light to be installed. Deeper trenches are always better, as soil and dirt will erode over time.",
+                    "# Run the main line between the transformer and the trenches.",
+                    "# Install the outdoor lights. Your outdoor lighting starter kit should include small converter boxes that are used to clip together the main line and the light wiring. Do this for all of the lights.",
+                    "# Make the connection between the main lines and your transformer. After, you can plug the transformer into the outdoor plug.",
+                    "# Fill in the trenches that you dug and cover them with some Topsoil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown."
+                ]
+            }
+        },
+        {
+            "id": "16582223",
+            "user": "MiscBot",
+            "timestamp": "17:56, 6 February 2015",
+            "anon": false,
+            "size": "(3,715 bytes)",
+            "change": -2,
+            "summary": "(Correcting spelling and/or grammar.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "# Fill in the trenches that you dug and cover them with some Topsoil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown.",
+                    "* Topsoil"
+                ],
+                "removed": [
+                    "# Fill in the trenches that you dug and cover them with some top soil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown.",
+                    "* Top soil"
+                ]
+            }
+        },
+        {
+            "id": "15814251",
+            "user": "MiscBot",
+            "timestamp": "22:05, 5 November 2014",
+            "anon": false,
+            "size": "(3,717 bytes)",
+            "change": 26,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Zack",
+            "exact_contribution": {
+                "added": [
+                    "* When working with underground wiring, always bury cables at least {{convert|18|in|cm|1}} into the ground. However, {{convert|24|in|cm|1}} is the recommended depth for maximum safety and reliability."
+                ],
+                "removed": [
+                    "* When working with underground wiring, always bury cables at least 18 inches into the ground. However, 24 inches is the recommended depth for maximum safety and reliability."
+                ]
+            }
+        },
+        {
+            "id": "15492350",
+            "user": "InterwikiBot",
+            "timestamp": "19:04, 29 September 2014",
+            "anon": false,
+            "size": "(3,691 bytes)",
+            "change": 37,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[pt:Instalar Iluminação Externa]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13930523",
+            "user": "InterwikiBot",
+            "timestamp": "17:37, 15 June 2014",
+            "anon": false,
+            "size": "(3,654 bytes)",
+            "change": 64,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[ru:установить наружное освещение]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "7265180",
+            "user": "BR",
+            "timestamp": "10:11, 10 February 2012",
+            "anon": false,
+            "size": "(3,590 bytes)",
+            "change": -60,
+            "summary": "(Reverted edits by IngeborgK (Talk); changed back to last version by Wendy Weaver)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ],
+                "removed": [
+                    "[[Image:New Outdoor Lights  WORKS!!!.jpg|thumb|right|251px]]Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ]
+            }
+        },
+        {
+            "id": "7265068",
+            "user": "IngeborgK",
+            "timestamp": "09:28, 10 February 2012",
+            "anon": false,
+            "size": "(3,650 bytes)",
+            "change": 60,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:New Outdoor Lights  WORKS!!!.jpg|thumb|right|251px]]Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ],
+                "removed": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ]
+            }
+        },
+        {
+            "id": "6419687",
+            "user": "Wendy Weaver",
+            "timestamp": "23:05, 29 July 2011",
+            "anon": false,
+            "size": "(3,590 bytes)",
+            "change": 89,
+            "summary": "(Weaving the web of links)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "BR",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Install Recessed Lighting|How to Install Recessed Lighting]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6312542",
+            "user": "ElizabethD",
+            "timestamp": "21:27, 6 July 2011",
+            "anon": false,
+            "size": "(3,501 bytes)",
+            "change": -46,
+            "summary": "(Edit via Quality Guardian: Removed image that didn't perfectly match the text.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ],
+                "removed": [
+                    "[[Image:Outdoor Lights.jpg|thumb|right|251px]]Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ]
+            }
+        },
+        {
+            "id": "6311884",
+            "user": "Tanman0498",
+            "timestamp": "19:03, 6 July 2011",
+            "anon": false,
+            "size": "(3,547 bytes)",
+            "change": 47,
+            "summary": "(Edit via Image Picker: Added an image)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:Outdoor Lights.jpg|thumb|right|251px]]Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting.",
+                    ""
+                ],
+                "removed": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting."
+                ]
+            }
+        },
+        {
+            "id": "6308729",
+            "user": "Maniac",
+            "timestamp": "01:18, 6 July 2011",
+            "anon": false,
+            "size": "(3,500 bytes)",
+            "change": 42,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Lighting and Light Switches]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6017921",
+            "user": "WRM",
+            "timestamp": "17:00, 16 May 2011",
+            "anon": false,
+            "size": "(3,458 bytes)",
+            "change": 3458,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Outdoor lighting is a popular method of increasing front lawn security and establishing mood and atmosphere during the night. Outdoor lighting is most popular in suburban areas, as urban areas tend to lack the necessary space. The process of installing outdoor lighting can be tricky and difficult for someone who has never done it before, but it's not an impossible task. You will need to purchase an outdoor lighting starter kit before you can get started. The following steps will address how to install outdoor lighting.",
+                    "== Steps ==",
+                    "# Check your local codes relevant to outdoor lighting. It is important that you obey the law and follow the requirements to maximize safety and minimize risks.",
+                    "# Shut off the electricity in the main switch box for your house. If you are going to be working with an underground wiring installation, be sure to mount a breaker or fuse box.",
+                    "# Determine the expected locations for your lights as well as your transformer. Transformers often plug into regular outdoor plugs, so just look for a plug on the exterior of your house.",
+                    "#* Drill a thick screw-either wood or masonry depending on your house material-into your house and hang the transformer on it. Do not plug it in until all the wiring is complete.",
+                    "# Using a ditch-witch, dig a trench at each location where you expect a light to be installed. Deeper trenches are always better, as soil and dirt will erode over time.",
+                    "# Run the main line between the transformer and the trenches.",
+                    "#* In case you want to make changes or extensions in the future, you may want to place a stick or a flag into the ground as a landmark.",
+                    "# Install the outdoor lights. Your outdoor lighting starter kit should include small converter boxes that are used to clip together the main line and the light wiring. Do this for all of the lights.",
+                    "#* If you have experience with soldering, you may wish to solder the light wire directly to the main line. This will reduce the probability that the light wires unexpectedly disconnect in the future.",
+                    "# Make the connection between the main lines and your transformer. After, you can plug the transformer into the outdoor plug.",
+                    "#* Check that the lights are working. If they are not, the problem is either in your transformer (faulty) or in your main lines (not connected properly). If some of the lights are functioning but not all of them, some of them might be improperly connected or have defective bulbs.",
+                    "# Fill in the trenches that you dug and cover them with some top soil. For maximum professionalism, sprinkle some grass seeds onto the dirt and water them once a week until they've grown.",
+                    "",
+                    "== Tips ==",
+                    "* When working with underground wiring, always use UF cables. A UF cable ensures that there is some sort of breaker or a fuse at the starting point of your underground installation.",
+                    "* In areas where cables are exposed above ground, use conduits to protect those cables. Some local codes may require you to cover the entire cable in conduit.",
+                    "",
+                    "== Warnings ==",
+                    "* When working with underground wiring, always bury cables at least 18 inches into the ground. However, 24 inches is the recommended depth for maximum safety and reliability.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Outdoor lighting starter kit",
+                    "* Transformer",
+                    "* Ditch-witch",
+                    "* Thick wood or masonry screw",
+                    "* Electric drill",
+                    "* Top soil",
+                    "* Grass seeds",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.acehardware.com/info/index.jsp?categoryId=1284747 http://www.acehardware.com/info/index.jsp?categoryId=1284747]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

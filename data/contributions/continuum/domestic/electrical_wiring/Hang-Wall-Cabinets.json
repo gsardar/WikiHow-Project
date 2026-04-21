@@ -1,0 +1,683 @@
+{
+    "title": "Hang-Wall-Cabinets",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:58:52.166753",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32422975",
+            "user": "Hopedemi",
+            "timestamp": "17:13, 8 April 2024",
+            "anon": false,
+            "size": "(4,393 bytes)",
+            "change": 301,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about home maintenance, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ryaan Tuttle | interview}} with [v161695_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32397940",
+            "user": "Votebot",
+            "timestamp": "08:57, 29 March 2024",
+            "anon": false,
+            "size": "(4,092 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail.",
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ],
+                "removed": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail.",
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ]
+            }
+        },
+        {
+            "id": "32378630",
+            "user": "Seymour Edits",
+            "timestamp": "01:55, 21 March 2024",
+            "anon": false,
+            "size": "(4,092 bytes)",
+            "change": 227,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Find the wall studs using a stud finder. Mark the stud locations along the horizontal hanging line.<ref>[v161695_b01]. 24 February 2023.</ref>[[Image:Hang Wall Cabinets Step 5.jpg|center]]",
+                    "#Connect the cabinets. Pre-drill then screw the adjoining cabinets together in 4 places � 2 on the top and 2 on the bottom, on the far right and far left sides.<ref>[v161695_b01]. 24 February 2023.</ref>[[Image:Hang Wall Cabinets Step 9.jpg|center]]",
+                    "#Pre-drill then screw the cabinets into the wall studs. Be sure to screw through the thick framing along the top of the cabinets.<ref>[v161695_b01]. 24 February 2023.</ref>[[Image:Hang Wall Cabinets Step 11.jpg|center]]",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall.<ref>[v161695_b01]. 24 February 2023.</ref>",
+                    "* Measure, level and plumb twice before you nail anything into place.<ref>[v161695_b01]. 24 February 2023.</ref>",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Find the wall studs using a stud finder. Mark the stud locations along the horizontal hanging line.[[Image:Hang Wall Cabinets Step 5.jpg|center]]",
+                    "#Connect the cabinets. Pre-drill then screw the adjoining cabinets together in 4 places � 2 on the top and 2 on the bottom, on the far right and far left sides.[[Image:Hang Wall Cabinets Step 9.jpg|center]]",
+                    "#Pre-drill then screw the cabinets into the wall studs. Be sure to screw through the thick framing along the top of the cabinets.[[Image:Hang Wall Cabinets Step 11.jpg|center]]",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall.",
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ]
+            }
+        },
+        {
+            "id": "31544785",
+            "user": "WikiHow Projects",
+            "timestamp": "07:19, 19 April 2023",
+            "anon": false,
+            "size": "(3,865 bytes)",
+            "change": 2,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "* [https://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html https://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html]"
+                ],
+                "removed": [
+                    "* [http://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html http://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html]"
+                ]
+            }
+        },
+        {
+            "id": "28159655",
+            "user": "Votebot",
+            "timestamp": "09:30, 25 May 2020",
+            "anon": false,
+            "size": "(3,863 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ],
+                "removed": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ]
+            }
+        },
+        {
+            "id": "26293548",
+            "user": "MiscBot",
+            "timestamp": "02:34, 29 March 2019",
+            "anon": false,
+            "size": "(3,863 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "23162359",
+            "user": "Wikivisual",
+            "timestamp": "09:41, 5 September 2017",
+            "anon": false,
+            "size": "(3,874 bytes)",
+            "change": 570,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Wall cabinets come in a variety of shapes and sizes and are used to store and/or display objects. Wall cabinets are generally very heavy and, additionally, they often support a lot of weight. For this reason, it is imperative to hang wall cabinets correctly, using builder-standard methods. You do not need to be a contractor, builder or handyman to install wall cabinets, but you do need to be able to follow instructions. If you are committed to installing your own wall-mounted cabinets, gather your materials, be prepared to do a certain amount of lifting and follow these steps for hanging wall cabinets.",
+                    "#Plan your space. A standard, to-scale floor plan drawing will suffice for plotting out exactly where you want to install wall cabinets.[[Image:Hang Wall Cabinets Step 1.jpg|center]]",
+                    "#Determine if your floor is level.[[Image:Hang Wall Cabinets Step 2.jpg|center]]",
+                    "#Measure and make a mark 54 inches (137 cm) from the floor. If your floor is not level, measure from the highest point of the floor.[[Image:Hang Wall Cabinets Step 3.jpg|center]]",
+                    "#Draw a horizontal line at your mark. Use a level to ensure a straight and level line for hanging wall cabinets.[[Image:Hang Wall Cabinets Step 4.jpg|center]]",
+                    "#Find the wall studs using a stud finder. Mark the stud locations along the horizontal hanging line.[[Image:Hang Wall Cabinets Step 5.jpg|center]]",
+                    "#Secure ledger board along the hanging line. The ledger board will support your cabinets during installation. Screw the ledger board into the wall at the stud locations.[[Image:Hang Wall Cabinets Step 6.jpg|center]]",
+                    "#Remove all doors, handles and knobs from the cabinets.  This will ensure the lightest possible load while you hang wall cabinets.[[Image:Hang Wall Cabinets Step 7.jpg|center]]",
+                    "#Clamp together as many cabinets as you can safely lift. Use clamps to adjoin side-by-side vertical cabinet walls. Once they are clamped together, make sure the cabinet faces are flush.[[Image:Hang Wall Cabinets Step 8.jpg|center]]",
+                    "#Connect the cabinets. Pre-drill then screw the adjoining cabinets together in 4 places � 2 on the top and 2 on the bottom, on the far right and far left sides.[[Image:Hang Wall Cabinets Step 9.jpg|center]]",
+                    "#Lift the cabinets and rest them on the ledger board in their designated place. Check that they are level and plumb before moving on to the next step.[[Image:Hang Wall Cabinets Step 10.jpg|center]]",
+                    "#Pre-drill then screw the cabinets into the wall studs. Be sure to screw through the thick framing along the top of the cabinets.[[Image:Hang Wall Cabinets Step 11.jpg|center]]",
+                    "#Check for plumb and level after hanging wall cabinets and before moving on to hanging the next set of cabinets.[[Image:Hang Wall Cabinets Step 12.jpg|center]]",
+                    "#Repeat this process for each cabinet until all wall cabinets are hung.[[Image:Hang Wall Cabinets Step 13.jpg|center]]",
+                    "#Remove the ledger board.[[Image:Hang Wall Cabinets Step 14.jpg|center]]",
+                    "#Replace all the cabinet doors and hardware after you completely install wall cabinets.[[Image:Hang Wall Cabinets Step 15.jpg|center]]"
+                ],
+                "removed": [
+                    "[[Image:There will be more wall cabinets that hang lower here, as well as base cabinets.jpg|thumb|right|251px]]Wall cabinets come in a variety of shapes and sizes and are used to store and/or display objects. Wall cabinets are generally very heavy and, additionally, they often support a lot of weight. For this reason, it is imperative to hang wall cabinets correctly, using builder-standard methods. You do not need to be a contractor, builder or handyman to install wall cabinets, but you do need to be able to follow instructions. If you are committed to installing your own wall-mounted cabinets, gather your materials, be prepared to do a certain amount of lifting and follow these steps for hanging wall cabinets.",
+                    "# Plan your space. A standard, to-scale floor plan drawing will suffice for plotting out exactly where you want to install wall cabinets.",
+                    "# Determine if your floor is level.",
+                    "# Measure and make a mark 54 inches (137 cm) from the floor. If your floor is not level, measure from the highest point of the floor.",
+                    "# Draw a horizontal line at your mark. Use a level to ensure a straight and level line for hanging wall cabinets.",
+                    "# Find the wall studs using a stud finder. Mark the stud locations along the horizontal hanging line.",
+                    "# Secure ledger board along the hanging line. The ledger board will support your cabinets during installation. Screw the ledger board into the wall at the stud locations.",
+                    "# Remove all doors, handles and knobs from the cabinets.  This will ensure the lightest possible load while you hang wall cabinets.",
+                    "# Clamp together as many cabinets as you can safely lift. Use clamps to adjoin side-by-side vertical cabinet walls. Once they are clamped together, make sure the cabinet faces are flush.",
+                    "# Connect the cabinets. Pre-drill then screw the adjoining cabinets together in 4 places � 2 on the top and 2 on the bottom, on the far right and far left sides.",
+                    "# Lift the cabinets and rest them on the ledger board in their designated place. Check that they are level and plumb before moving on to the next step.",
+                    "# Pre-drill then screw the cabinets into the wall studs. Be sure to screw through the thick framing along the top of the cabinets.",
+                    "# Check for plumb and level after hanging wall cabinets and before moving on to hanging the next set of cabinets.",
+                    "# Repeat this process for each cabinet until all wall cabinets are hung.",
+                    "# Remove the ledger board.",
+                    "# Replace all the cabinet doors and hardware after you completely install wall cabinets."
+                ]
+            }
+        },
+        {
+            "id": "20134246",
+            "user": "Votebot",
+            "timestamp": "08:42, 1 May 2016",
+            "anon": false,
+            "size": "(3,304 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ],
+                "removed": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ]
+            }
+        },
+        {
+            "id": "18740818",
+            "user": "Votebot",
+            "timestamp": "08:42, 28 October 2015",
+            "anon": false,
+            "size": "(3,304 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ],
+                "removed": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ]
+            }
+        },
+        {
+            "id": "17912572",
+            "user": "InterwikiBot",
+            "timestamp": "22:03, 24 July 2015",
+            "anon": false,
+            "size": "(3,304 bytes)",
+            "change": -33,
+            "summary": "(Removing interwiki links, no longer needed in wikitext)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "[[es:colgar gabinetes de pared]]"
+                ]
+            }
+        },
+        {
+            "id": "17202897",
+            "user": "Votebot",
+            "timestamp": "13:03, 25 April 2015",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ],
+                "removed": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ]
+            }
+        },
+        {
+            "id": "16712023",
+            "user": "Votebot",
+            "timestamp": "14:43, 22 February 2015",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ],
+                "removed": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ]
+            }
+        },
+        {
+            "id": "15958818",
+            "user": "Votebot",
+            "timestamp": "14:54, 21 November 2014",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ],
+                "removed": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ]
+            }
+        },
+        {
+            "id": "14456795",
+            "user": "Votebot",
+            "timestamp": "17:16, 6 August 2014",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ],
+                "removed": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ]
+            }
+        },
+        {
+            "id": "14146653",
+            "user": "Votebot",
+            "timestamp": "17:26, 6 July 2014",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ],
+                "removed": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ]
+            }
+        },
+        {
+            "id": "13953350",
+            "user": "EpcotMagic",
+            "timestamp": "22:29, 17 June 2014",
+            "anon": false,
+            "size": "(3,337 bytes)",
+            "change": 43,
+            "summary": "(Adding video via video picker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Hang Wall Cabinets|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "12552667",
+            "user": "Votebot",
+            "timestamp": "20:09, 30 January 2014",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": -4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line.",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall.",
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ]
+            }
+        },
+        {
+            "id": "11651499",
+            "user": "Votebot",
+            "timestamp": "16:44, 2 November 2013",
+            "anon": false,
+            "size": "(3,298 bytes)",
+            "change": 4,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "10672400",
+            "user": "Votebot",
+            "timestamp": "15:55, 4 August 2013",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ],
+                "removed": [
+                    "* Measure, level and plumb twice before you nail anything into place."
+                ]
+            }
+        },
+        {
+            "id": "10381001",
+            "user": "Votebot",
+            "timestamp": "15:29, 5 July 2013",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ],
+                "removed": [
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail."
+                ]
+            }
+        },
+        {
+            "id": "10241669",
+            "user": "Votebot",
+            "timestamp": "16:42, 20 June 2013",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall.",
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ],
+                "removed": [
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line.",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall."
+                ]
+            }
+        },
+        {
+            "id": "9827146",
+            "user": "Votebot",
+            "timestamp": "15:46, 7 May 2013",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ],
+                "removed": [
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line."
+                ]
+            }
+        },
+        {
+            "id": "9339852",
+            "user": "InterwikiBot",
+            "timestamp": "05:20, 5 March 2013",
+            "anon": false,
+            "size": "(3,294 bytes)",
+            "change": -2,
+            "summary": "(Adding interwiki link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[es:colgar gabinetes de pared]]"
+                ],
+                "removed": [
+                    "",
+                    "[[es: colgar gabinetes de pared]]"
+                ]
+            }
+        },
+        {
+            "id": "6701059",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "14:36, 3 October 2011",
+            "anon": false,
+            "size": "(3,296 bytes)",
+            "change": 0,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Cabinets and Cupboards]]"
+                ],
+                "removed": [
+                    "[[Category:Furniture and Cabinets]]"
+                ]
+            }
+        },
+        {
+            "id": "6630566",
+            "user": "WikiHow Traduce",
+            "timestamp": "21:11, 14 September 2011",
+            "anon": false,
+            "size": "(3,296 bytes)",
+            "change": 35,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[es: colgar gabinetes de pared]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "6041715",
+            "user": "Harri",
+            "timestamp": "07:28, 21 May 2011",
+            "anon": false,
+            "size": "(3,261 bytes)",
+            "change": 37,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Furniture and Cabinets]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "5928673",
+            "user": "Help21",
+            "timestamp": "01:50, 27 April 2011",
+            "anon": false,
+            "size": "(3,224 bytes)",
+            "change": 111,
+            "summary": "(Added Image using ImageAdder Tool)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Image:There will be more wall cabinets that hang lower here, as well as base cabinets.jpg|thumb|right|251px]]Wall cabinets come in a variety of shapes and sizes and are used to store and/or display objects. Wall cabinets are generally very heavy and, additionally, they often support a lot of weight. For this reason, it is imperative to hang wall cabinets correctly, using builder-standard methods. You do not need to be a contractor, builder or handyman to install wall cabinets, but you do need to be able to follow instructions. If you are committed to installing your own wall-mounted cabinets, gather your materials, be prepared to do a certain amount of lifting and follow these steps for hanging wall cabinets."
+                ],
+                "removed": [
+                    "Wall cabinets come in a variety of shapes and sizes and are used to store and/or display objects. Wall cabinets are generally very heavy and, additionally, they often support a lot of weight. For this reason, it is imperative to hang wall cabinets correctly, using builder-standard methods. You do not need to be a contractor, builder or handyman to install wall cabinets, but you do need to be able to follow instructions. If you are committed to installing your own wall-mounted cabinets, gather your materials, be prepared to do a certain amount of lifting and follow these steps for hanging wall cabinets."
+                ]
+            }
+        },
+        {
+            "id": "5917113",
+            "user": "WRM",
+            "timestamp": "21:00, 24 April 2011",
+            "anon": false,
+            "size": "(3,113 bytes)",
+            "change": 3113,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Wall cabinets come in a variety of shapes and sizes and are used to store and/or display objects. Wall cabinets are generally very heavy and, additionally, they often support a lot of weight. For this reason, it is imperative to hang wall cabinets correctly, using builder-standard methods. You do not need to be a contractor, builder or handyman to install wall cabinets, but you do need to be able to follow instructions. If you are committed to installing your own wall-mounted cabinets, gather your materials, be prepared to do a certain amount of lifting and follow these steps for hanging wall cabinets.",
+                    "== Steps ==",
+                    "# Plan your space. A standard, to-scale floor plan drawing will suffice for plotting out exactly where you want to install wall cabinets.",
+                    "# Determine if your floor is level.",
+                    "# Measure and make a mark 54 inches (137 cm) from the floor. If your floor is not level, measure from the highest point of the floor.",
+                    "# Draw a horizontal line at your mark. Use a level to ensure a straight and level line for hanging wall cabinets.",
+                    "# Find the wall studs using a stud finder. Mark the stud locations along the horizontal hanging line.",
+                    "# Secure ledger board along the hanging line. The ledger board will support your cabinets during installation. Screw the ledger board into the wall at the stud locations.",
+                    "# Remove all doors, handles and knobs from the cabinets.  This will ensure the lightest possible load while you hang wall cabinets.",
+                    "# Clamp together as many cabinets as you can safely lift. Use clamps to adjoin side-by-side vertical cabinet walls. Once they are clamped together, make sure the cabinet faces are flush.",
+                    "# Connect the cabinets. Pre-drill then screw the adjoining cabinets together in 4 places � 2 on the top and 2 on the bottom, on the far right and far left sides.",
+                    "# Lift the cabinets and rest them on the ledger board in their designated place. Check that they are level and plumb before moving on to the next step.",
+                    "# Pre-drill then screw the cabinets into the wall studs. Be sure to screw through the thick framing along the top of the cabinets.",
+                    "# Check for plumb and level after hanging wall cabinets and before moving on to hanging the next set of cabinets.",
+                    "# Repeat this process for each cabinet until all wall cabinets are hung.",
+                    "# Remove the ledger board.",
+                    "# Replace all the cabinet doors and hardware after you completely install wall cabinets.",
+                    "",
+                    "== Tips ==",
+                    "* Measure, level and plumb twice before you nail anything into place.",
+                    "* Pay attention to the location of your electrical wiring and plumbing when deciding where to nail.",
+                    "* If you plan on installing flooring after hanging wall cabinets, be sure to include the thickness of the flooring in the measurement for your horizontal hanging line.",
+                    "* Use shims, if needed, to make cabinets plumb and level before securing them to the wall.",
+                    "",
+                    "== Things You'll Need ==",
+                    "* Tape measure",
+                    "* Pencil",
+                    "* Stud finder",
+                    "* Drill",
+                    "* Screws",
+                    "* Level",
+                    "* Shims",
+                    "* Ledger board",
+                    "* Clamps",
+                    "",
+                    "== Sources and Citations ==",
+                    "* [http://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html http://www.naturalhandyman.com/iip/infcabinets/cabinet_class.html]"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

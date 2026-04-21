@@ -1,0 +1,813 @@
+{
+    "title": "Wire-a-Baldor-3-Phase-Motor",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T07:19:28.872036",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33388252",
+            "user": "Votebot",
+            "timestamp": "09:13, 10 May 2025",
+            "anon": false,
+            "size": "(4,960 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "*Ensure that proper PPE (Personal Protective Equipment) is in use."
+                ],
+                "removed": [
+                    "*Ensure that proper PPE (Personal Protective Equipment) is in use."
+                ]
+            }
+        },
+        {
+            "id": "32715233",
+            "user": "Hopedemi",
+            "timestamp": "16:49, 12 August 2024",
+            "anon": false,
+            "size": "(4,960 bytes)",
+            "change": 306,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical wiring, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Ricardo Mitchell | interview}} with [v161396_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32686247",
+            "user": "Seymour Edits",
+            "timestamp": "14:46, 30 July 2024",
+            "anon": false,
+            "size": "(4,654 bytes)",
+            "change": 108,
+            "summary": "(Added expert citations.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "#Check all connections. Ensure all of connectors and wires are tight and secure.<ref>[v161396_b01]. 3 March 2021.</ref>",
+                    "",
+                    "== References ==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor.",
+                    "#Check all connections. Ensure all of connectors and wires are tight and secure."
+                ]
+            }
+        },
+        {
+            "id": "31301817",
+            "user": "Snowflakeiesta",
+            "timestamp": "14:24, 29 January 2023",
+            "anon": false,
+            "size": "(4,546 bytes)",
+            "change": 187,
+            "summary": "(Adding tip from quality guardian <3)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#[[Image:7 to 1.jpg|center]]Prepare Motor. Using standard wire connectors twist and connect wires in the following order: {{greenbox: '''Tip''': When making the connections, trim the wires to a uniform length so they will “dress” into the box neatly. This prevents cramming the wires and making a mess.}}"
+                ],
+                "removed": [
+                    "#[[Image:7 to 1.jpg|center]]Prepare Motor. Using standard wire connectors twist and connect wires in the following order:"
+                ]
+            }
+        },
+        {
+            "id": "26726593",
+            "user": "WikiHowUser20201201000533",
+            "timestamp": "01:54, 26 June 2019",
+            "anon": false,
+            "size": "(4,359 bytes)",
+            "change": 2,
+            "summary": "(RCP reverted edits by 71.218.59.123 (talk) to  revision #25428760 by Votebot)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26726580",
+            "user": "71.218.59.123",
+            "timestamp": "01:48, 26 June 2019",
+            "anon": true,
+            "size": "(4,357 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "WikiHowUser20201201000533",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "25428760",
+            "user": "Votebot",
+            "timestamp": "09:19, 16 October 2018",
+            "anon": false,
+            "size": "(4,359 bytes)",
+            "change": 0,
+            "summary": "(reordering tips and warnings based on votes)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "adjustment",
+            "reverted_by": "WikiHowUser20201201000533",
+            "exact_contribution": {
+                "added": [
+                    "*Unplug power cord"
+                ],
+                "removed": [
+                    "*Unplug power cord"
+                ]
+            }
+        },
+        {
+            "id": "24448309",
+            "user": "P Hills",
+            "timestamp": "22:14, 26 April 2018",
+            "anon": false,
+            "size": "(4,359 bytes)",
+            "change": 10,
+            "summary": "(Formatting)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#* '''Be aware''' that the power lines are referred to as: L1, L2, L3 respectively however there is no specific order to the power lines, meaning these tittles can be used interchangeably.",
+                    "#[[Image:Cover1.jpg|center]]Examine or check the motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#[[Image:7 to 1.jpg|center]]Prepare Motor. Using standard wire connectors twist and connect wires in the following order:",
+                    "#[[Image:Insert1.jpg|center]]Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box.",
+                    "# Wire power cord to motor. Connect power lines to wires located within motor by using standard wire connectors in the following order:",
+                    "#* [[Image:20171220_184210.jpg|center]]The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor. (To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#[[Image:Multimeter solo.jpg|center]]Switch multi-meter/ electrical tester to continuity function.",
+                    "#[[Image:Continuity test.jpg|center]]Place tip of red test lead into electrical connector and the tip of black test lead onto the any pin of  the plug."
+                ],
+                "removed": [
+                    "#* BE AWARE the power lines are referred to as: L1, L2, L3 respectively however there is no specific order to the power lines, meaning these tittles can be used interchangeably.",
+                    "#[[Image:Cover1.jpg|center]]Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#[[Image:7 to 1.jpg|center]]#  Prepare Motor. Using standard wire connectors twist and connect wires in the following order:",
+                    "#[[Image:Insert1.jpg|center]]Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#  Wire power cord to motor. Connect power lines to wires located within motor by using standard wire connectors in the following order:",
+                    "#* [[Image:20171220_184210.jpg|center]]The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "# Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#[[Image:Multimeter solo.jpg|center]]Switch multi- meter/ electrical tester to continuity function.",
+                    "#[[Image:Continuity test.jpg|center]]",
+                    "#*Place tip of red test lead into electrical connector",
+                    "#*Place tip of black test lead onto the any pin of  the plug."
+                ]
+            }
+        },
+        {
+            "id": "24448156",
+            "user": "UnitGuardian",
+            "timestamp": "21:44, 26 April 2018",
+            "anon": false,
+            "size": "(4,349 bytes)",
+            "change": 20,
+            "summary": "(Adding conversion template.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*Remove approx. {{convert|3|in|cm|sigfig=2}} of insulation from the outside of the four lines located within the power cord."
+                ],
+                "removed": [
+                    "#*Remove approx. 3 inches of insulation from the outside of the four lines located within the power cord."
+                ]
+            }
+        },
+        {
+            "id": "24120341",
+            "user": "Zodi",
+            "timestamp": "19:38, 27 February 2018",
+            "anon": false,
+            "size": "(4,329 bytes)",
+            "change": -4,
+            "summary": "(typos fixed: for for → for)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#*Observe multi-meter/ electrical tester for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed."
+                ],
+                "removed": [
+                    "#*Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed."
+                ]
+            }
+        },
+        {
+            "id": "23787485",
+            "user": "CategoryGuardian",
+            "timestamp": "23:30, 29 December 2017",
+            "anon": false,
+            "size": "(4,333 bytes)",
+            "change": -47,
+            "summary": "(Removing category that seems to be a poor fit, based on votes from the Category Guardian)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Measuring Power Current and Energy]]"
+                ]
+            }
+        },
+        {
+            "id": "23764735",
+            "user": "Penmouse",
+            "timestamp": "03:15, 23 December 2017",
+            "anon": false,
+            "size": "(4,380 bytes)",
+            "change": 4,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. ''This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration.'' The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23764734",
+            "user": "TyTheWriter",
+            "timestamp": "03:15, 23 December 2017",
+            "anon": false,
+            "size": "(4,376 bytes)",
+            "change": -2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "#*Remove approx. 3 inches of insulation from the outside of the four lines located within the power cord.",
+                    "*Ensure that proper PPE (Personal Protective Equipment) is in use."
+                ],
+                "removed": [
+                    "#*Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "*PLEASE ensure that proper PPE (Personal Protective Equipment) is in use."
+                ]
+            }
+        },
+        {
+            "id": "23763584",
+            "user": "Caitlynn L",
+            "timestamp": "18:22, 22 December 2017",
+            "anon": false,
+            "size": "(4,378 bytes)",
+            "change": -2,
+            "summary": "(RCP reverted edits by Liis fox (talk) to  revision #23759641 by Meech00)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "Wiring a Baldon  motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23761888",
+            "user": "Liis fox",
+            "timestamp": "13:52, 22 December 2017",
+            "anon": false,
+            "size": "(4,380 bytes)",
+            "change": 2,
+            "summary": "(Fixing misspellings via the Spellchecker tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "cleanup",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldon  motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23759641",
+            "user": "Meech00",
+            "timestamp": "01:01, 22 December 2017",
+            "anon": false,
+            "size": "(4,378 bytes)",
+            "change": -1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "#[[Image:Cover_re.jpg|center]]Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box."
+                ],
+                "removed": [
+                    "#[[Image:Cover_re.jpg|center]]#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box."
+                ]
+            }
+        },
+        {
+            "id": "23759522",
+            "user": "Meech00",
+            "timestamp": "23:56, 21 December 2017",
+            "anon": false,
+            "size": "(4,379 bytes)",
+            "change": 57,
+            "summary": "(Added image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Measuring Power Current and Energy]]",
+                    "#[[Image:7 to 1.jpg|center]]#  Prepare Motor. Using standard wire connectors twist and connect wires in the following order:",
+                    "#[[Image:Cover_re.jpg|center]]#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box."
+                ],
+                "removed": [
+                    "[[Category:Measuring Power Current and Energy]]",
+                    "",
+                    "#  Prepare Motor. Using standard wire connectors twist and connect wires in the following order:",
+                    "#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box."
+                ]
+            }
+        },
+        {
+            "id": "23757649",
+            "user": "P Hills",
+            "timestamp": "16:08, 21 December 2017",
+            "anon": false,
+            "size": "(4,322 bytes)",
+            "change": 97,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Motors Generators and Transformers]]",
+                    "[[Category:Measuring Power Current and Energy]]",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "23757197",
+            "user": "Meech00",
+            "timestamp": "13:00, 21 December 2017",
+            "anon": false,
+            "size": "(4,225 bytes)",
+            "change": -1,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor."
+                ],
+                "removed": [
+                    "# Check power source. Ensure that any electrical power feed into power cord, is shut off prior to working on motor."
+                ]
+            }
+        },
+        {
+            "id": "23757196",
+            "user": "Demetrius.White",
+            "timestamp": "12:58, 21 December 2017",
+            "anon": false,
+            "size": "(4,226 bytes)",
+            "change": 443,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# Check power source. Ensure that any electrical power feed into power cord, is shut off prior to working on motor.",
+                    "#*Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#*Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#[[Image:Crimp ring.jpg|center]] Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#[[Image:Cover1.jpg|center]]Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#[[Image:Insert1.jpg|center]]Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#*[[Image:8,2, L2.jpg|center]] 9 to 3; L1",
+                    "#*[[Image:8 to 2 to L2.jpg|center]] 8 to 2; L2",
+                    "#*[[Image:7,1, L3.jpg|center]] 7 to 1; L3",
+                    "#* [[Image:20171220_184210.jpg|center]]The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#*Tug on connectors lightly to confirm proper installation.",
+                    "# Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#[[Image:Multimeter solo.jpg|center]]Switch multi- meter/ electrical tester to continuity function.",
+                    "#[[Image:Continuity test.jpg|center]]",
+                    "#*Place tip of red test lead into electrical connector",
+                    "#*Place tip of black test lead onto the any pin of  the plug.",
+                    "#*Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#*Repeat this process for every connection in conduit box.",
+                    "#*If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#Plug in motor to ensure proper function.",
+                    "#*If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "",
+                    "== Tips ==",
+                    "*[[Image:DataPlate.jpg|center]] If you look on the side of the motor you will notice a small wiring diagram for the motor, feel free to use this as a frame of reference.",
+                    "*Ring terminal"
+                ],
+                "removed": [
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor.",
+                    "#*  Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#* Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#  Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#  Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#  Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#* 9 to 3; L1",
+                    "#* 8 to 2; L2",
+                    "#* 7 to 1; L3",
+                    "#* The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#  Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#* Tug on connectors lightly to confirm proper installation.",
+                    "#  Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#* Switch multi- meter/ electrical tester to continuity function.",
+                    "#* Place tip of red test lead into electrical connector.",
+                    "#* Place tip of black test lead onto the any pin of  the plug.",
+                    "#* Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#* Repeat this process for every connection in conduit box.",
+                    "#* If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#  Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#  Plug in motor to ensure proper function.",
+                    "#* If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "*ring terminal"
+                ]
+            }
+        },
+        {
+            "id": "23757190",
+            "user": "Demetrius.White",
+            "timestamp": "12:55, 21 December 2017",
+            "anon": false,
+            "size": "(3,783 bytes)",
+            "change": -25,
+            "summary": "(Undid edit #23757114 by Demetrius.White (Talk))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23757114",
+            "user": "Demetrius.White",
+            "timestamp": "12:39, 21 December 2017",
+            "anon": false,
+            "size": "(3,808 bytes)",
+            "change": 25,
+            "summary": "(Reverted edits by Demetrius.White (Talk); changed back to last version by Riley Next)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Demetrius.White",
+            "exact_contribution": {
+                "added": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23757050",
+            "user": "Demetrius.White",
+            "timestamp": "12:17, 21 December 2017",
+            "anon": false,
+            "size": "(3,783 bytes)",
+            "change": -25,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Demetrius.White",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ],
+                "removed": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform."
+                ]
+            }
+        },
+        {
+            "id": "23755748",
+            "user": "Riley Next",
+            "timestamp": "03:27, 21 December 2017",
+            "anon": false,
+            "size": "(3,808 bytes)",
+            "change": -417,
+            "summary": "(RCP reverted edits by Demetrius.White (talk) to  revision #23372714 by Meech00)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "Demetrius.White",
+            "exact_contribution": {
+                "added": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform.",
+                    "#*  Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#* Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#  Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#  Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#  Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#* 9 to 3; L1",
+                    "#* 8 to 2; L2",
+                    "#* 7 to 1; L3",
+                    "#* The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#  Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#* Tug on connectors lightly to confirm proper installation.",
+                    "#  Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#* Switch multi- meter/ electrical tester to continuity function.",
+                    "#* Place tip of red test lead into electrical connector.",
+                    "#* Place tip of black test lead onto the any pin of  the plug.",
+                    "#* Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#* Repeat this process for every connection in conduit box.",
+                    "#* If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#  Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#  Plug in motor to ensure proper function.",
+                    "#* If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "*ring terminal"
+                ],
+                "removed": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform.",
+                    "#*Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#*Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#[[Image:Crimp ring.jpg|center]] Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#[[Image:Cover1.jpg|center]]Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#[[Image:Insert1.jpg|center]]Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#*[[Image:8,2, L2.jpg|center]] 9 to 3; L1",
+                    "#*[[Image:8 to 2 to L2.jpg|center]] 8 to 2; L2",
+                    "#*[[Image:7,1, L3.jpg|center]] 7 to 1; L3",
+                    "#* [[Image:20171220_184210.jpg|center]]The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#*Tug on connectors lightly to confirm proper installation.",
+                    "# Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#[[Image:Multimeter solo.jpg|center]]Switch multi- meter/ electrical tester to continuity function.",
+                    "#[[Image:Continuity test.jpg|center]]",
+                    "#*Place tip of red test lead into electrical connector",
+                    "#*Place tip of black test lead onto the any pin of  the plug.",
+                    "#*Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#*Repeat this process for every connection in conduit box.",
+                    "#*If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#Plug in motor to ensure proper function.",
+                    "#*If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "",
+                    "== Tips ==",
+                    "*[[Image:DataPlate.jpg|center]] If you look on the side of the motor you will notice a small wiring diagram for the motor, feel free to use this as a frame of reference.",
+                    "*Ring terminal"
+                ]
+            }
+        },
+        {
+            "id": "23755524",
+            "user": "Demetrius.White",
+            "timestamp": "02:34, 21 December 2017",
+            "anon": false,
+            "size": "(4,225 bytes)",
+            "change": -1,
+            "summary": "(→‎Steps)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Demetrius.White",
+            "exact_contribution": {
+                "added": [
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor."
+                ],
+                "removed": [
+                    "# Check power source. Ensure that any electrical power feed into power cord, is shut off prior to working on motor."
+                ]
+            }
+        },
+        {
+            "id": "23755282",
+            "user": "Demetrius.White",
+            "timestamp": "01:14, 21 December 2017",
+            "anon": false,
+            "size": "(4,226 bytes)",
+            "change": 418,
+            "summary": "(Added image)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Demetrius.White",
+            "exact_contribution": {
+                "added": [
+                    "Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform.",
+                    "# Check power source. Ensure that any electrical power feed into power cord, is shut off prior to working on motor.",
+                    "#*Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#*Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#[[Image:Crimp ring.jpg|center]] Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#[[Image:Cover1.jpg|center]]Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#[[Image:Insert1.jpg|center]]Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#*[[Image:8,2, L2.jpg|center]] 9 to 3; L1",
+                    "#*[[Image:8 to 2 to L2.jpg|center]] 8 to 2; L2",
+                    "#*[[Image:7,1, L3.jpg|center]] 7 to 1; L3",
+                    "#* [[Image:20171220_184210.jpg|center]]The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#*Tug on connectors lightly to confirm proper installation.",
+                    "# Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#[[Image:Multimeter solo.jpg|center]]Switch multi- meter/ electrical tester to continuity function.",
+                    "#[[Image:Continuity test.jpg|center]]",
+                    "#*Place tip of red test lead into electrical connector",
+                    "#*Place tip of black test lead onto the any pin of  the plug.",
+                    "#*Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#*Repeat this process for every connection in conduit box.",
+                    "#*If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#Plug in motor to ensure proper function.",
+                    "#*If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "",
+                    "== Tips ==",
+                    "*[[Image:DataPlate.jpg|center]] If you look on the side of the motor you will notice a small wiring diagram for the motor, feel free to use this as a frame of reference.",
+                    "*Ring terminal"
+                ],
+                "removed": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform.",
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor.",
+                    "#*  Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#* Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#  Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#  Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#  Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#* 9 to 3; L1",
+                    "#* 8 to 2; L2",
+                    "#* 7 to 1; L3",
+                    "#* The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#  Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#* Tug on connectors lightly to confirm proper installation.",
+                    "#  Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#* Switch multi- meter/ electrical tester to continuity function.",
+                    "#* Place tip of red test lead into electrical connector.",
+                    "#* Place tip of black test lead onto the any pin of  the plug.",
+                    "#* Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#* Repeat this process for every connection in conduit box.",
+                    "#* If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#  Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#  Plug in motor to ensure proper function.",
+                    "#* If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "*ring terminal"
+                ]
+            }
+        },
+        {
+            "id": "23372714",
+            "user": "Meech00",
+            "timestamp": "12:14, 12 October 2017",
+            "anon": false,
+            "size": "(3,808 bytes)",
+            "change": 3808,
+            "summary": "(Creating new article)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "major_addition",
+            "reverted_by": "Caitlynn L",
+            "exact_contribution": {
+                "added": [
+                    "{{Inuse|date=2017-10-12}}Wiring a Baldor motor can at first glance look to be a very intimidating task. Yet, with the help of this step by step guide, this task will be become as easy as counting to five. Now, for the purposes of safety, the steps listed below will ONLY demonstrate how to wire a motor for 240V. This should only be used as a basic guide for the process for wiring an AC motor. Please be aware that all steps on this page are subject to change depending on your motors configuration. The goal here is to provide a basic instruction set that will make any future project, whether at home or at work, that much easier to perform.",
+                    "== Steps ==",
+                    "# Check power source. Ensure that any electrical power fed into power cord, is shut off prior to working on motor.",
+                    "#  Prepare power cord. Using a pair of diagonal cutters, cut and remove 3 in of rubber insulation around outside of power cord. Revealing four wires inside cord.",
+                    "#*  Remove approx. 3in. of insulation from the outside of the four lines located within the power cord.",
+                    "#* Once for inner lines are visible remove approx. 1in. of insulation from the red, white and black lines, revealing copper wire.",
+                    "#* BE AWARE the power lines are referred to as: L1, L2, L3 respectively however there is no specific order to the power lines, meaning these tittles can be used interchangeably.",
+                    "#  Connect ground wire to wire terminal. Using a crimping tool, connect ring terminal to the end of ground (green) wire.",
+                    "#  Examine/ Check motor. Using a flat head screwdriver remove four hex head screws securing cover plate of conduit box. This is located on the motor.",
+                    "#  Prepare Motor. Using standard wire connectors twist and connect wires in the following order:",
+                    "#* 9 to 3",
+                    "#* 8 to 2",
+                    "#* 7 to1",
+                    "#* 4 to 5 to 6",
+                    "#  Connect motor to power source. Feed exposed end of power cord through circular hole of conduit box",
+                    "#  Wire power cord to motor. Connect power lines to wires located within motor by using standard wire connectors in the following order:",
+                    "#* 9 to 3; L1",
+                    "#* 8 to 2; L2",
+                    "#* 7 to 1; L3",
+                    "#* The ground (green) line is connected separately to  a green ground screw located within the conduit box of the motor.(To do this remove screw completely, attach the ground wire to screw. Finally re-insert screw.)",
+                    "#  Check all connections. Ensure all of connectors and wires are tight and secure.",
+                    "#* Tug on connectors lightly to confirm proper installation.",
+                    "#  Check continuity of connections. Using a multi-meter/electrical tester check the continuity of all connections, to do this:",
+                    "#* Switch multi- meter/ electrical tester to continuity function.",
+                    "#* Place tip of red test lead into electrical connector.",
+                    "#* Place tip of black test lead onto the any pin of  the plug.",
+                    "#* Observe multi-meter/ electrical tester for for any output of sound. If no sound is observed, place black test lead on a different pin, until sound is observed.",
+                    "#* Repeat this process for every connection in conduit box.",
+                    "#* If continuity does not exist on all four connections, PLEASE check connections to proper confirm installation.",
+                    "#  Reattach cover plate. Using a flat head screwdriver insert and secure four hex head screws of cover plate to conduit box.",
+                    "#  Plug in motor to ensure proper function.",
+                    "#* If the motor spins in the wrong direction, simply switch the location of two of the power lines, the will reverse the rotation of the motor.",
+                    "== Warnings ==",
+                    "*Ensure any power source is completely shut off prior to installation.",
+                    "*Unplug power cord",
+                    "*Shut off power from fuse box/ circuit breaker.",
+                    "*PLEASE ensure that proper PPE (Personal Protective Equipment) is in use.",
+                    "",
+                    "== Things You'll Need ==",
+                    "*Wire Strippers",
+                    "*Diagonal Cutters",
+                    "*Multi-meter/ Electrical Tester",
+                    "*Screwdriver flat head: size 2",
+                    "*Standard wire connectors",
+                    "*Crimping Tool",
+                    "*ring terminal",
+                    "*Gloves",
+                    "*Eye protection/ Safety glasses"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

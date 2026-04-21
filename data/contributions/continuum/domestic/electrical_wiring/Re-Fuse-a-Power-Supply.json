@@ -1,0 +1,674 @@
+{
+    "title": "Re-Fuse-a-Power-Supply",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T08:13:54.523101",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "32863968",
+            "user": "Wikivisual",
+            "timestamp": "17:51, 16 October 2024",
+            "anon": false,
+            "size": "(4,776 bytes)",
+            "change": 92,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 1 Version 2.jpg|center]]",
+                    "#Use a screwdriver to remove the screws of the PSU . Remove the PSU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2 Version 2.jpg|center]]",
+                    "#Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PSU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3 Version 2.jpg|center]]",
+                    "#The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 4 Version 2.jpg|center]]",
+                    "#The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5 Version 2.jpg|center]]",
+                    "#Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 6 Version 2.jpg|center]]",
+                    "#Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 7 Version 2.jpg|center]]",
+                    "#Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 8 Version 2.jpg|center]]",
+                    "===Solder the New Fuse.===",
+                    "#Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.[[Image:Re Fuse a Power Supply Step 9 Version 2.jpg|center]]",
+                    "#Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the PSU and screw it in. Replace the PSU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10 Version 2.jpg|center]]"
+                ],
+                "removed": [
+                    "# Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "# Use a screwdriver to remove the screws of the PSU . Remove the PSU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "# Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PSU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "#Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "# Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "# Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 8.jpg|center]]",
+                    "===Solder the New Fuse.===",
+                    "#Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.[[Image:Re Fuse a Power Supply Step 9.jpg|center]]",
+                    "# Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the PSU and screw it in. Replace the PSU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32630996",
+            "user": "WikiHow Projects",
+            "timestamp": "13:47, 6 July 2024",
+            "anon": false,
+            "size": "(4,684 bytes)",
+            "change": 47,
+            "summary": "(Adding video via Video Adder tool)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "== Video ==",
+                    "{{Video:Re Fuse a Power Supply|}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32249432",
+            "user": "ToddTheGuy120",
+            "timestamp": "18:46, 31 January 2024",
+            "anon": false,
+            "size": "(4,637 bytes)",
+            "change": 60,
+            "summary": "(RCP reverted edits by 64.158.84.166 (talk) to  revision #31794887 by Thomas_Ch)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. The ohm meter should show very little resistance (low ohms) for a good fuse.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32249231",
+            "user": "64.158.84.166",
+            "timestamp": "17:23, 31 January 2024",
+            "anon": true,
+            "size": "(4,577 bytes)",
+            "change": -60,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "ToddTheGuy120",
+            "exact_contribution": {
+                "added": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. The ohm meter should show very little resistance (low ohms) for a good fuse.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "31794887",
+            "user": "Thomas_Ch",
+            "timestamp": "23:54, 18 July 2023",
+            "anon": false,
+            "size": "(4,637 bytes)",
+            "change": 309,
+            "summary": "(Expert Interview Section added.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "ToddTheGuy120",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Expert Interview code below. Please do not remove. -->",
+                    "== Expert Interview ==",
+                    "Thanks for reading our article! If you’d like to learn more about electrical maintenance, check out our in-depth {{expert_interview_link: wikiHow Expert Interview Transcript Richard Taylor | interview}} with [v162392_b01]."
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "31745536",
+            "user": "Seymour Edits",
+            "timestamp": "20:44, 27 June 2023",
+            "anon": false,
+            "size": "(4,328 bytes)",
+            "change": 39,
+            "summary": "(Added Expert Citation)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>[v162392_b01]. 07 June 2023.</ref><ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ],
+                "removed": [
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30631308",
+            "user": "Seymour Edits",
+            "timestamp": "05:37, 17 June 2022",
+            "anon": false,
+            "size": "(4,289 bytes)",
+            "change": 26,
+            "summary": "(Switching article to list formatting and editing intro)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "When your power supply dies, it can mean that the fuse has been blown. Most fuses are soldered directly to the circuit board. Replacing them is a relatively straightforward process that requires remove the circuit board, unsoldering the old fuse, and soldering a new fuse in its place. Read on for more detail.",
+                    "===Unplug the Power Supply.===",
+                    "# Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "===Open and Unplug the PSU.===",
+                    "# Use a screwdriver to remove the screws of the PSU . Remove the PSU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "===Unscrew the Power Supply.===",
+                    "# Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PSU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "===Check the Warranty.===",
+                    "#The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "===Examine the Fuse.===",
+                    "# The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "===Charge the Soldering Iron. ===",
+                    "#Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "===Solder New Pins to the New Fuse.===",
+                    "# Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "===Trim the Wires and Circuit Board Pins.===",
+                    "# Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 8.jpg|center]]",
+                    "===Solder the New Fuse.===",
+                    "#Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.[[Image:Re Fuse a Power Supply Step 9.jpg|center]]",
+                    "===Reinstall the PSU.===",
+                    "# Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the PSU and screw it in. Replace the PSU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]",
+                    "",
+                    "__LIST__"
+                ],
+                "removed": [
+                    "When your power supply dies, it can mean two things – either a fuse has been blown, or it has a loose wire. Power supply fuses are among the few components that can be serviced. Most fuses are soldered directly to the circuit board. Replacing a fuse would require you to remove the circuit board, unsoldering the old fuse, and soldering a new fuse in its place.",
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the PSU: Use a screwdriver to remove the screws of the PSU . Remove the PSU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PSU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "#Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "#Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "#Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "#Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 8.jpg|center]]",
+                    "#Solder the New Fuse. Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.[[Image:Re Fuse a Power Supply Step 9.jpg|center]]",
+                    "#Reinstall the PSU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the PSU and screw it in. Replace the PSU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30426554",
+            "user": "70.162.236.66",
+            "timestamp": "10:05, 29 March 2022",
+            "anon": true,
+            "size": "(4,263 bytes)",
+            "change": 2,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    ""
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28543873",
+            "user": "86.186.146.188",
+            "timestamp": "12:30, 29 August 2020",
+            "anon": true,
+            "size": "(4,261 bytes)",
+            "change": 0,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "#Open and Unplug the PSU: Use a screwdriver to remove the screws of the PSU . Remove the PSU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Open and Unplug the PSU: Use a screwdriver to remove the screws of the PSU . Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "28543866",
+            "user": "86.186.146.188",
+            "timestamp": "12:28, 29 August 2020",
+            "anon": true,
+            "size": "(4,261 bytes)",
+            "change": -13,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Open and Unplug the PSU: Use a screwdriver to remove the screws of the PSU . Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PSU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the PSU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the PSU and screw it in. Replace the PSU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27173636",
+            "user": "Seymour Edits",
+            "timestamp": "00:09, 5 October 2019",
+            "anon": false,
+            "size": "(4,274 bytes)",
+            "change": -68,
+            "summary": "(Added sources for the wikihaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.<ref>https://www.pcgamer.com/is-my-computer-power-supply-dead/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]"
+                ],
+                "removed": [
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.neweggbusiness.com/smartbuyer/components/how-to-troubleshoot-a-pc-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.<ref>https://www.neweggbusiness.com/smartbuyer/components/how-to-troubleshoot-a-pc-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "27155953",
+            "user": "Seymour Edits",
+            "timestamp": "00:24, 1 October 2019",
+            "anon": false,
+            "size": "(4,342 bytes)",
+            "change": 802,
+            "summary": "(Added sources for the wikihaus content team)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.<ref>https://www.neweggbusiness.com/smartbuyer/components/how-to-troubleshoot-a-pc-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.<ref>https://www.neweggbusiness.com/smartbuyer/components/how-to-troubleshoot-a-pc-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.<ref>https://www.pcworld.com/article/2924378/replace-your-pcs-heart-how-to-install-a-power-supply-in-your-computer.html</ref>[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "#Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "#Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "#Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "#Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.<ref>https://www.techrepublic.com/article/learn-to-re-fuse-a-power-supply/</ref>[[Image:Re Fuse a Power Supply Step 8.jpg|center]]",
+                    "",
+                    "==References==",
+                    "{{reflist}}"
+                ],
+                "removed": [
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "#Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "#Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "#Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "#Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.[[Image:Re Fuse a Power Supply Step 8.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "25181293",
+            "user": "49.151.85.98",
+            "timestamp": "10:35, 3 September 2018",
+            "anon": true,
+            "size": "(3,540 bytes)",
+            "change": -11,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "*You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "*Torx screwdriver",
+                    "*Ohmmeter",
+                    "*Soldering iron",
+                    "*Emery paper",
+                    "*24 gauge wire",
+                    "*Resin solder",
+                    "*Wire cutter"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "* While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "* You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "* Torx screwdriver",
+                    "* Ohmmeter",
+                    "* Soldering iron",
+                    "* Emery paper",
+                    "* 24 gauge wire",
+                    "* Resin solder",
+                    "* Wire cutter"
+                ]
+            }
+        },
+        {
+            "id": "25034392",
+            "user": "Aiosis",
+            "timestamp": "15:15, 6 August 2018",
+            "anon": false,
+            "size": "(3,551 bytes)",
+            "change": 20,
+            "summary": "(Reverted edits by 141.226.9.115 (Talk); changed back to last version by Wikivisual)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]",
+                    "* While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "* You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "* Torx screwdriver",
+                    "* Ohmmeter",
+                    "* Soldering iron",
+                    "* Emery paper",
+                    "* 24 gauge wire",
+                    "* Resin solder",
+                    "* Wire cutter"
+                ],
+                "removed": [
+                    "#Open and Unplug the PC: Use a torx screwdriver to remove the torx screws of the PC. Remove the PC casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any PC cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PC.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the PC. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Put it back into the PC and screw it in. Replace the PC casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]",
+                    "*While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "*You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "*Torx screwdriver",
+                    "*Ohmmeter",
+                    "*Soldering iron",
+                    "*Emery paper",
+                    "*24 gauge wire",
+                    "*Resin solder",
+                    "*Wire cutter"
+                ]
+            }
+        },
+        {
+            "id": "25034382",
+            "user": "141.226.9.115",
+            "timestamp": "15:13, 6 August 2018",
+            "anon": true,
+            "size": "(3,531 bytes)",
+            "change": -20,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#Open and Unplug the PC: Use a torx screwdriver to remove the torx screws of the PC. Remove the PC casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any PC cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the PC.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the PC. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Put it back into the PC and screw it in. Replace the PC casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]",
+                    "*While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "*You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "*Torx screwdriver",
+                    "*Ohmmeter",
+                    "*Soldering iron",
+                    "*Emery paper",
+                    "*24 gauge wire",
+                    "*Resin solder",
+                    "*Wire cutter"
+                ],
+                "removed": [
+                    "",
+                    "",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]",
+                    "* While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "* You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "* Torx screwdriver",
+                    "* Ohmmeter",
+                    "* Soldering iron",
+                    "* Emery paper",
+                    "* 24 gauge wire",
+                    "* Resin solder",
+                    "* Wire cutter"
+                ]
+            }
+        },
+        {
+            "id": "24021721",
+            "user": "Wikivisual",
+            "timestamp": "16:21, 12 February 2018",
+            "anon": false,
+            "size": "(3,551 bytes)",
+            "change": 491,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Aiosis",
+            "exact_contribution": {
+                "added": [
+                    "#Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.[[Image:Re Fuse a Power Supply Step 1.jpg|center]]",
+                    "#Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.[[Image:Re Fuse a Power Supply Step 2.jpg|center]]",
+                    "#Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.[[Image:Re Fuse a Power Supply Step 3.jpg|center]]",
+                    "#Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.[[Image:Re Fuse a Power Supply Step 4.jpg|center]]",
+                    "#Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.[[Image:Re Fuse a Power Supply Step 5.jpg|center]]",
+                    "#Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.[[Image:Re Fuse a Power Supply Step 6.jpg|center]]",
+                    "#Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.[[Image:Re Fuse a Power Supply Step 7.jpg|center]]",
+                    "#Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.[[Image:Re Fuse a Power Supply Step 8.jpg|center]]",
+                    "#Solder the New Fuse. Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.[[Image:Re Fuse a Power Supply Step 9.jpg|center]]",
+                    "#Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use.[[Image:Re Fuse a Power Supply Step 10.jpg|center]]"
+                ],
+                "removed": [
+                    "# Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.",
+                    "# Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.",
+                    "# Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.",
+                    "# Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.",
+                    "# Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.",
+                    "# Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.",
+                    "# Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.",
+                    "# Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.",
+                    "# Solder the New Fuse. Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.",
+                    "# Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use."
+                ]
+            }
+        },
+        {
+            "id": "21291980",
+            "user": "Flickety",
+            "timestamp": "00:18, 7 November 2016",
+            "anon": false,
+            "size": "(3,060 bytes)",
+            "change": 4,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "[[Category:Electrical Wiring and Safety Switches]]"
+                ],
+                "removed": [
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ]
+            }
+        },
+        {
+            "id": "17637488",
+            "user": "Ttrimm",
+            "timestamp": "05:29, 19 June 2015",
+            "anon": false,
+            "size": "(3,056 bytes)",
+            "change": 0,
+            "summary": "(editing article via New Article Boost feature)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "# Unplug the Power Supply. Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.",
+                    "# Unscrew the Power Supply. Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.",
+                    "# Check the Warranty. The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.",
+                    "# Examine the Fuse. The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.",
+                    "# Charge the Soldering Iron. Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.",
+                    "# Solder New Pins to the New Fuse. Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.",
+                    "# Trim the Wires and Circuit Board Pins. Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.",
+                    "# Solder the New Fuse. Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.",
+                    "# Reinstall the CPU. Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use."
+                ],
+                "removed": [
+                    "# Unplug the Power Supply: Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.",
+                    "# Unscrew the Power Supply: Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.",
+                    "# Check the Warranty: The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.",
+                    "# Examine the Fuse: The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.",
+                    "# Charge the Soldering Iron: Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.",
+                    "# Solder New Pins to the New Fuse: Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.",
+                    "# Trim the Wires and Circuit Board Pins: Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.",
+                    "# Solder the New Fuse: Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.",
+                    "# Reinstall the CPU: Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use."
+                ]
+            }
+        },
+        {
+            "id": "13952559",
+            "user": "J_Murp",
+            "timestamp": "20:53, 17 June 2014",
+            "anon": false,
+            "size": "(3,056 bytes)",
+            "change": 48,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Electrical and Electronic Circuits]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "13938474",
+            "user": "Anna",
+            "timestamp": "16:21, 16 June 2014",
+            "anon": false,
+            "size": "(3,008 bytes)",
+            "change": -69,
+            "summary": "(format, rm nonsource link - will reach out to see if author has an article source)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== Things You'll Need ==",
+                    "* Torx screwdriver",
+                    "* Ohmmeter",
+                    "* Soldering iron",
+                    "* Emery paper",
+                    "* 24 gauge wire",
+                    "* Resin solder",
+                    "* Wire cutter"
+                ],
+                "removed": [
+                    "# Things You’ll Need -",
+                    "#* Torx screwdriver",
+                    "#* Ohmmeter",
+                    "#* Soldering iron",
+                    "#* Emery paper",
+                    "#* 24 gauge wire",
+                    "#* Resin solder",
+                    "#* Wire cutter",
+                    "== Sources and Citations ==",
+                    "* http://www.megaelectronics.com/"
+                ]
+            }
+        },
+        {
+            "id": "13937083",
+            "user": "Megaelectronics",
+            "timestamp": "13:06, 16 June 2014",
+            "anon": false,
+            "size": "(3,077 bytes)",
+            "change": 3077,
+            "summary": "(Creating a new article via the Article Creator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "When your power supply dies, it can mean two things – either a fuse has been blown, or it has a loose wire. Power supply fuses are among the few components that can be serviced. Most fuses are soldered directly to the circuit board. Replacing a fuse would require you to remove the circuit board, unsoldering the old fuse, and soldering a new fuse in its place.",
+                    "== Steps ==",
+                    "# Unplug the Power Supply: Switch off the socket that is connected to the power supply. Unplug the line voltage power cord from the socket.",
+                    "# Open and Unplug the CPU: Use a torx screwdriver to remove the torx screws of the CPU. Remove the CPU casing. Unplug the low voltage cables that are connected to the drives and motherboard. Remove any CPU cards that may obstruct your view of the power supply.",
+                    "# Unscrew the Power Supply: Generally, the power supply is held in place by 4 torx screws. Unscrew them using the torx screwdriver and remove the power supply from the CPU.",
+                    "# Check the Warranty: The warranty is a stamped sticker that is on one of the edges of the power supply. It consists of the warranty date, a bar code and a ‘pass’ stamp. If the warranty has expired, cut across the sticker safety seal and open the power supply case.",
+                    "# Examine the Fuse: The fuse is usually located on one corner of the power supply. Use an ohm meter to check the fuse. If the ohm meter is showing readings below 0.1 ohms, or if there is resistance on the meter, then you will know that the fuse has blown.",
+                    "# Charge the Soldering Iron: Plug in the soldering iron and heat it to about 700 degrees. Touch the tip of the soldering iron to the tin wires on either side of the fuse. As the solder softens, gently push the fuse away from the circuit board. Once the soldering is complete, you can remove the fuse.",
+                    "# Solder New Pins to the New Fuse: Buff each end of the fuse with emery paper to dull the plating. Take the six inch long stripped 24 gauge wire with flux and tin it with resin solder. Tin the ends of the fuse, after which you can solder the wires to the ends.",
+                    "# Trim the Wires and Circuit Board Pins: Use the wire cutter to remove any excess pins from the board. Also, cut the gauge wire with only an inch of space from the fuse joint.",
+                    "# Solder the New Fuse: Place the new fuse onto the circuit board and solder it into place with the soldering iron. Once this has been completed, use the ohmmeter to test the fuse.",
+                    "# Reinstall the CPU: Once the fuse is showing good readings on the ohmmeter, close the power supply case. Keep it back into the CPU and screw it in. Replace the CPU casing and plug it in for use.",
+                    "# Things You’ll Need -",
+                    "#* Torx screwdriver",
+                    "#* Ohmmeter",
+                    "#* Soldering iron",
+                    "#* Emery paper",
+                    "#* 24 gauge wire",
+                    "#* Resin solder",
+                    "#* Wire cutter",
+                    "",
+                    "== Tips ==",
+                    "* While removing the power supply case, support it using one hand otherwise it will fall onto the motherboard.",
+                    "",
+                    "== Warnings ==",
+                    "* You can still get electrocuted while handling the circuit board. To ensure safety, always hold the board at its edges and do not touch the pins.",
+                    "",
+                    "== Sources and Citations ==",
+                    "* http://www.megaelectronics.com/"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}

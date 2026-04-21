@@ -1,0 +1,831 @@
+{
+    "title": "Diagnose-a-Problem-in-Your-Ceiling-Fan",
+    "continuum": "domestic",
+    "subcategory": "electrical_wiring",
+    "timestamp": "2026-04-16T06:52:00.915116",
+    "co_authors_list": [],
+    "expert": null,
+    "expert_title": null,
+    "stats": {},
+    "revisions": [
+        {
+            "id": "33182145",
+            "user": "MiscBot",
+            "timestamp": "19:23, 24 February 2025",
+            "anon": false,
+            "size": "(13,967 bytes)",
+            "change": 19,
+            "summary": "(Adding Horizontal TOC magic word)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "__HORIZONTALTOC__"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "32643284",
+            "user": "WikiHow Projects",
+            "timestamp": "10:15, 11 July 2024",
+            "anon": false,
+            "size": "(13,948 bytes)",
+            "change": -16,
+            "summary": "(updating link)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/project/how-to-fix-a-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 21.jpg|center]]"
+                ],
+                "removed": [
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 21.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32616273",
+            "user": "151.225.30.116",
+            "timestamp": "09:05, 30 June 2024",
+            "anon": true,
+            "size": "(13,964 bytes)",
+            "change": -1,
+            "summary": "(Fix the spelling mistake (chord -> cord))",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "cleanup",
+            "exact_contribution": {
+                "added": [
+                    "#Turn the fan’s lights on, if it has them. Flip the switch and pull the fan cord that controls the lights to the fan. If the lights turn on but the fan doesn’t work, there is most likely an issue with the fan’s motor. If the lights and fan both don’t turn on, then it’s possible the fan isn’t receiving power.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 13.jpg|center]]"
+                ],
+                "removed": [
+                    "#Turn the fan’s lights on, if it has them. Flip the switch and pull the fan chord that controls the lights to the fan. If the lights turn on but the fan doesn’t work, there is most likely an issue with the fan’s motor. If the lights and fan both don’t turn on, then it’s possible the fan isn’t receiving power.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 13.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "32428300",
+            "user": "151.225.28.28",
+            "timestamp": "06:42, 11 April 2024",
+            "anon": true,
+            "size": "(13,965 bytes)",
+            "change": 55,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Hold the other probe against the metal wire and read the display. Place the other wire against the metal wire. The display should read around 120V or 240V, depending your area's voltage. If it doesn’t read anything, it means that there is no power running to your switch and your switch is faulty or your wiring is damaged.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 9.jpg|center]]",
+                    "#Test the top contact on the switch. Remove the probe from the bottom screw and place it against the top screw. Then, take the other probe on your voltmeter or multimeter and hold it against the ground wire again. The top switch should also read 120V or 240V.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 10.jpg|center]]",
+                    "#Test the red wire on the other side of the switch if you have one. Hold one probe against the ground wire and the other probe to the contact connected to the red wire on the opposite side of the switch. Again, this should read 120V or 240V. If the wires are connected and you’re getting a 0 voltage reading on the switch, contact an electrician to check your wiring.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 11.jpg|center]]"
+                ],
+                "removed": [
+                    "#Hold the other probe against the metal wire and read the display. Place the other wire against the metal wire. The display should read around 120V. If it doesn’t read anything, it means that there is no power running to your switch and your switch is faulty or your wiring is damaged.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 9.jpg|center]]",
+                    "#Test the top contact on the switch. Remove the probe from the bottom screw and place it against the top screw. Then, take the other probe on your voltmeter or multimeter and hold it against the ground wire again. The top switch should also read 120V.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 10.jpg|center]]",
+                    "#Test the red wire on the other side of the switch if you have one. Hold one probe against the ground wire and the other probe to the contact connected to the red wire on the opposite side of the switch. Again, this should read 120V. If the wires are connected and you’re getting a 0 voltage reading on the switch, contact an electrician to check your wiring.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 11.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "30441923",
+            "user": "Seymour Edits",
+            "timestamp": "16:21, 4 April 2022",
+            "anon": false,
+            "size": "(13,910 bytes)",
+            "change": 156,
+            "summary": "(Added Expert Citations for the Lookback project.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Tighten the screws on the fan if it’s noisy.<ref>[v161834_b01]. 21 June 2021.</ref> Use a ladder to reach the fan blades and tighten all of the screws connecting the blades to the fan itself with a Phillip’s head screwdriver. Then, tighten the screws on the motor cover and any other screws that connect the fan to the ceiling. This should get rid of any clicking noises coming from the fan.<ref>https://youtu.be/P0N56vXcX4w?t=54</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 18.jpg|center]]",
+                    "#*If the chain switch is broken, you can get a replacement switch online or from a hardware store.<ref>[v161834_b01]. 21 June 2021.</ref> Take note of the wires connecting the motor to the switch and connect those same wires to the new switch.",
+                    "#*Remember to turn off the power at the breaker box and get some help if you’re not familiar with working with electrical equipment.<ref>[v161834_b01]. 21 June 2021.</ref>",
+                    "#Tighten the screws in the fan bracket if the fan is wobbly.<ref>[v161834_b01]. 21 June 2021.</ref> If the fan wobbles, it could mean that the bracket connecting the fan to the ceiling is loose. To fix it, use a Phillip’s head screwdriver to remove the cover to the fan bracket. Then, tighten the screws connecting the hanger ball to the fan as well as the screws connecting the fan bracket to the ceiling.<ref>https://youtu.be/P0N56vXcX4w?t=82</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 20.jpg|center]]"
+                ],
+                "removed": [
+                    "#Tighten the screws on the fan if it’s noisy. Use a ladder to reach the fan blades and tighten all of the screws connecting the blades to the fan itself with a Phillip’s head screwdriver. Then, tighten the screws on the motor cover and any other screws that connect the fan to the ceiling. This should get rid of any clicking noises coming from the fan.<ref>https://youtu.be/P0N56vXcX4w?t=54</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 18.jpg|center]]",
+                    "#*If the chain switch is broken, you can get a replacement switch online or from a hardware store. Take note of the wires connecting the motor to the switch and connect those same wires to the new switch.",
+                    "#*Remember to turn off the power at the breaker box and get some help if you’re not familiar with working with electrical equipment.",
+                    "#Tighten the screws in the fan bracket if the fan is wobbly. If the fan wobbles, it could mean that the bracket connecting the fan to the ceiling is loose. To fix it, use a Phillip’s head screwdriver to remove the cover to the fan bracket. Then, tighten the screws connecting the hanger ball to the fan as well as the screws connecting the fan bracket to the ceiling.<ref>https://youtu.be/P0N56vXcX4w?t=82</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 20.jpg|center]]"
+                ]
+            }
+        },
+        {
+            "id": "29886558",
+            "user": "MiscBot",
+            "timestamp": "01:12, 15 September 2021",
+            "anon": false,
+            "size": "(13,754 bytes)",
+            "change": -7,
+            "summary": "(Automatic category consolidation.)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Ceiling Fans]]"
+                ],
+                "removed": [
+                    "[[Category:Ceiling Fan Repairs]]"
+                ]
+            }
+        },
+        {
+            "id": "28685882",
+            "user": "WikiHow Projects",
+            "timestamp": "06:40, 2 October 2020",
+            "anon": false,
+            "size": "(13,761 bytes)",
+            "change": 64,
+            "summary": "(adding comment for test, please don't revert, thanks!)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "<!-- Comment added for test. Please don't revert, thanks! -->"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "28410900",
+            "user": "Seymour Edits",
+            "timestamp": "21:18, 23 July 2020",
+            "anon": false,
+            "size": "(13,697 bytes)",
+            "change": 38,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#*If the chain isn’t broken but doesn’t change the speed of the fan when you pull it, it could mean that the internal chain switch is broken.<ref>[v161475_b01]. 15 July 2020.</ref>"
+                ],
+                "removed": [
+                    "#*If the chain isn’t broken but doesn’t change the speed of the fan when you pull it, it could mean that the internal chain switch is broken."
+                ]
+            }
+        },
+        {
+            "id": "26765427",
+            "user": "99.250.44.37",
+            "timestamp": "04:11, 6 July 2019",
+            "anon": true,
+            "size": "(13,659 bytes)",
+            "change": 0,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment",
+            "exact_contribution": {
+                "added": [
+                    "A broken ceiling fan is a drag, especially when it’s hot outside. Before you replace the entire fan, you should do a quick check to see exactly what’s wrong with it. To properly diagnose the issue with your fan, you should check your breaker box first, then the wall switch, and finally the fan itself. If you perform a diagnosis and the problem is a more complex electrical issue or an issue with the fan’s motor, you should contact an electrician or the fan’s manufacturer to help you fix it."
+                ],
+                "removed": [
+                    "A busted ceiling fan is a drag, especially when it’s hot outside. Before you replace the entire fan, you should do a quick check to see exactly what’s wrong with it. To properly diagnose the issue with your fan, you should check your breaker box first, then the wall switch, and finally the fan itself. If you perform a diagnosis and the problem is a more complex electrical issue or an issue with the fan’s motor, you should contact an electrician or the fan’s manufacturer to help you fix it."
+                ]
+            }
+        },
+        {
+            "id": "26675111",
+            "user": "Seymour Edits",
+            "timestamp": "14:24, 13 June 2019",
+            "anon": false,
+            "size": "(13,659 bytes)",
+            "change": 157,
+            "summary": "(Added the Summary template to this article)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "<!-- Quick Summary code below. Please move/edit via section Edit link if needed. -->",
+                    "== Quick Summary ==",
+                    "{{Summary:Diagnose-a-Problem-in-Your-Ceiling-Fan}}"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "26276893",
+            "user": "MiscBot",
+            "timestamp": "01:20, 29 March 2019",
+            "anon": false,
+            "size": "(13,502 bytes)",
+            "change": -11,
+            "summary": "(Updating References section name to match new sitewide conventions)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "== References =="
+                ],
+                "removed": [
+                    "== Sources and Citations =="
+                ]
+            }
+        },
+        {
+            "id": "26086230",
+            "user": "Wikivisual",
+            "timestamp": "15:16, 25 February 2019",
+            "anon": false,
+            "size": "(13,513 bytes)",
+            "change": 1396,
+            "summary": "(Saving new step-by-step photos)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "#Locate your circuit breaker box if the fan doesn’t turn on. Pull the chain on your fan and flip the wall switch to turn your fan on. If nothing happens, it could be because the circuit to the fan has been tripped. In this case, you'll need to check the switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 1.jpg|center]]",
+                    "#Open the breaker box door and look at the black switches. All of the switches should be on and positioned in the same direction. If one of the switches is in the off position, there’s a good chance it’s the switch connected to your fan.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 2.jpg|center]]",
+                    "#Flip the switch on the circuit connected to your fan. Push the black switch to the left, then to the right. Flip the switch on so that it’s positioned in the same direction as the other switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 3.jpg|center]]",
+                    "#Turn the fan back on and see if it works. Flip the switch on the wall and see if the fan turns on. Resetting the circuit should resume electrical flow to your ceiling fan. If the fan still doesn't come on, the issue could be with your wall switch or the fan's motor.[[Image:Diagnose a Problem in Your Ceiling Fan Step 4.jpg|center]]",
+                    "#Purchase a volt reader or multimeter online or at a hardware store. Voltmeters and multimeters are handheld electrical devices that are able to read the electrical current coming from your switch. If there is no current running through your switch, it means that the wiring or switch is faulty and should be replaced.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 5.jpg|center]]",
+                    "#Unscrew the plate covering the switch for the fan. Wear a pair of rubber gloves when working with the switch so you don’t accidentally electrocute yourself. Use a Phillip’s head screwdriver to remove the screws in the top and bottom of the plate covering the switch on the wall. Then, slide the plate off to expose the wires inside of the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=29</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 6.jpg|center]]",
+                    "#Unscrew the switch from the wall. Use the screwdriver to unscrew the top and bottom screws that hold the switch in place. Remove any electrical tape that might be holding the switch or the wires in place and pull the switch out from the wall so that you can look at its wiring. Check to make sure that all of the wires running from the wall are properly connected to the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=41</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 7.jpg|center]]",
+                    "#Hold one probe against the bottom contact on the side of the switch. Flip the switch to the fan to the off position. Then, turn on your voltmeter or multimeter on and hold one of the probes against the black metal screw, or contact, on the side of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 8.jpg|center]]",
+                    "#Hold the other probe against the metal wire and read the display. Place the other wire against the metal wire. The display should read around 120V. If it doesn’t read anything, it means that there is no power running to your switch and your switch is faulty or your wiring is damaged.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 9.jpg|center]]",
+                    "#Test the top contact on the switch. Remove the probe from the bottom screw and place it against the top screw. Then, take the other probe on your voltmeter or multimeter and hold it against the ground wire again. The top switch should also read 120V.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 10.jpg|center]]",
+                    "#Test the red wire on the other side of the switch if you have one. Hold one probe against the ground wire and the other probe to the contact connected to the red wire on the opposite side of the switch. Again, this should read 120V. If the wires are connected and you’re getting a 0 voltage reading on the switch, contact an electrician to check your wiring.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 11.jpg|center]]",
+                    "#Flip the switch and measure the volts from the switch again. Turn the switch on and test the screws on the side of the switch again. If you have a 2-part switch, one of the screws should be showing 120V while the other screw should be reading 0V. If this isn’t the case, you know the problem is with the switch itself and you should buy and install a replacement.<ref>https://youtu.be/QAGdLJMkLjw?t=97</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 12.jpg|center]]",
+                    "#Turn the fan’s lights on, if it has them. Flip the switch and pull the fan chord that controls the lights to the fan. If the lights turn on but the fan doesn’t work, there is most likely an issue with the fan’s motor. If the lights and fan both don’t turn on, then it’s possible the fan isn’t receiving power.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 13.jpg|center]]",
+                    "#Turn off the power from the fan at the circuit box. Go to the breaker box in your home and flip the switch to the circuit that’s connected to your fan to the off position. This will cut power to the fan and prevent you from being electrocuted while you examine the motor and the wiring.<ref>https://www.familyhandyman.com/electrical/how-to-install-ceiling-fans/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 14.jpg|center]]",
+                    "#Remove the ceiling fan cover with a screwdriver. The cover is the portion that connects the fan to the ceiling. Unscrew the screws holding the fan in place and carefully lower the cover to expose the fan’s wires.<ref>https://youtu.be/M3XTn0IyfbQ?t=169</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 15.jpg|center]]",
+                    "#Check that the ceiling fan wires are properly connected. The ceiling fan should have 3-4 wires running from the fan to your ceiling. Make sure that all the wires are properly connected and not damaged. If you notice frayed or burned wires, it means that the wiring is bad and needs to be fixed or replaced.<ref>https://youtu.be/M3XTn0IyfbQ?t=74</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 16.jpg|center]]",
+                    "#Contact an electrician if the fan still doesn’t turn on. If all the wires are connected and undamaged and you’ve checked the breaker box and wall switch but the fan still doesn’t work, it could mean that your motor is broken or that you’ve blown a capacitor in it. In this case, you’ll need to contact an electrician or your fan’s manufacturer to help replace or repair the fan’s motor.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 17.jpg|center]]",
+                    "#Tighten the screws on the fan if it’s noisy. Use a ladder to reach the fan blades and tighten all of the screws connecting the blades to the fan itself with a Phillip’s head screwdriver. Then, tighten the screws on the motor cover and any other screws that connect the fan to the ceiling. This should get rid of any clicking noises coming from the fan.<ref>https://youtu.be/P0N56vXcX4w?t=54</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 18.jpg|center]]",
+                    "#Replace the pull chain if the fan is stuck on one speed. To fix a broken pull chain, remove the cover to the motor with a screwdriver to expose the wires in the fan. Then, manually unscrew the fastener holding the chain in place and pull the chain through the hole from the inside of the motor. If the chain has broken off, you can purchase a replacement online or from a hardware store.<ref>https://www.todayshomeowner.com/how-to-repair-and-replace-a-ceiling-fan-pull-chain-switch/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 19.jpg|center]]",
+                    "#Tighten the screws in the fan bracket if the fan is wobbly. If the fan wobbles, it could mean that the bracket connecting the fan to the ceiling is loose. To fix it, use a Phillip’s head screwdriver to remove the cover to the fan bracket. Then, tighten the screws connecting the hanger ball to the fan as well as the screws connecting the fan bracket to the ceiling.<ref>https://youtu.be/P0N56vXcX4w?t=82</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 20.jpg|center]]",
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>[[Image:Diagnose a Problem in Your Ceiling Fan Step 21.jpg|center]]"
+                ],
+                "removed": [
+                    "#Locate your circuit breaker box if the fan doesn’t turn on. Pull the chain on your fan and flip the wall switch to turn your fan on. If nothing happens, it could be because the circuit to the fan has been tripped. In this case, you'll need to check the switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>",
+                    "#Open the breaker box door and look at the black switches. All of the switches should be on and positioned in the same direction. If one of the switches is in the off position, there’s a good chance it’s the switch connected to your fan.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "#Flip the switch on the circuit connected to your fan. Push the black switch to the left, then to the right. Flip the switch on so that it’s positioned in the same direction as the other switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>",
+                    "#Turn the fan back on and see if it works. Flip the switch on the wall and see if the fan turns on. Resetting the circuit should resume electrical flow to your ceiling fan. If the fan still doesn't come on, the issue could be with your wall switch or the fan's motor.",
+                    "#Purchase a volt reader or multimeter online or at a hardware store. Voltmeters and multimeters are handheld electrical devices that are able to read the electrical current coming from your switch. If there is no current running through your switch, it means that the wiring or switch is faulty and should be replaced.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Unscrew the plate covering the switch for the fan. Wear a pair of rubber gloves when working with the switch so you don’t accidentally electrocute yourself. Use a Phillip’s head screwdriver to remove the screws in the top and bottom of the plate covering the switch on the wall. Then, slide the plate off to expose the wires inside of the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=29</ref>",
+                    "#Unscrew the switch from the wall. Use the screwdriver to unscrew the top and bottom screws that hold the switch in place. Remove any electrical tape that might be holding the switch or the wires in place and pull the switch out from the wall so that you can look at its wiring. Check to make sure that all of the wires running from the wall are properly connected to the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=41</ref>",
+                    "#Hold one probe against the bottom contact on the side of the switch. Flip the switch to the fan to the off position. Then, turn on your voltmeter or multimeter on and hold one of the probes against the black metal screw, or contact, on the side of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Hold the other probe against the metal wire and read the display. Place the other wire against the metal wire. The display should read around 120V. If it doesn’t read anything, it means that there is no power running to your switch and your switch is faulty or your wiring is damaged.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Test the top contact on the switch. Remove the probe from the bottom screw and place it against the top screw. Then, take the other probe on your voltmeter or multimeter and hold it against the ground wire again. The top switch should also read 120V.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Test the red wire on the other side of the switch if you have one. Hold one probe against the ground wire and the other probe to the contact connected to the red wire on the opposite side of the switch. Again, this should read 120V. If the wires are connected and you’re getting a 0 voltage reading on the switch, contact an electrician to check your wiring.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Flip the switch and measure the volts from the switch again. Turn the switch on and test the screws on the side of the switch again. If you have a 2-part switch, one of the screws should be showing 120V while the other screw should be reading 0V. If this isn’t the case, you know the problem is with the switch itself and you should buy and install a replacement.<ref>https://youtu.be/QAGdLJMkLjw?t=97</ref>",
+                    "#Turn the fan’s lights on, if it has them. Flip the switch and pull the fan chord that controls the lights to the fan. If the lights turn on but the fan doesn’t work, there is most likely an issue with the fan’s motor. If the lights and fan both don’t turn on, then it’s possible the fan isn’t receiving power.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "#Turn off the power from the fan at the circuit box. Go to the breaker box in your home and flip the switch to the circuit that’s connected to your fan to the off position. This will cut power to the fan and prevent you from being electrocuted while you examine the motor and the wiring.<ref>https://www.familyhandyman.com/electrical/how-to-install-ceiling-fans/view-all/</ref>",
+                    "#Remove the ceiling fan cover with a screwdriver. The cover is the portion that connects the fan to the ceiling. Unscrew the screws holding the fan in place and carefully lower the cover to expose the fan’s wires.<ref>https://youtu.be/M3XTn0IyfbQ?t=169</ref>",
+                    "#Check that the ceiling fan wires are properly connected. The ceiling fan should have 3-4 wires running from the fan to your ceiling. Make sure that all the wires are properly connected and not damaged. If you notice frayed or burned wires, it means that the wiring is bad and needs to be fixed or replaced.<ref>https://youtu.be/M3XTn0IyfbQ?t=74</ref>",
+                    "#Contact an electrician if the fan still doesn’t turn on. If all the wires are connected and undamaged and you’ve checked the breaker box and wall switch but the fan still doesn’t work, it could mean that your motor is broken or that you’ve blown a capacitor in it. In this case, you’ll need to contact an electrician or your fan’s manufacturer to help replace or repair the fan’s motor.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "#Tighten the screws on the fan if it’s noisy. Use a ladder to reach the fan blades and tighten all of the screws connecting the blades to the fan itself with a Phillip’s head screwdriver. Then, tighten the screws on the motor cover and any other screws that connect the fan to the ceiling. This should get rid of any clicking noises coming from the fan.<ref>https://youtu.be/P0N56vXcX4w?t=54</ref>",
+                    "#Replace the pull chain if the fan is stuck on one speed. To fix a broken pull chain, remove the cover to the motor with a screwdriver to expose the wires in the fan. Then, manually unscrew the fastener holding the chain in place and pull the chain through the hole from the inside of the motor. If the chain has broken off, you can purchase a replacement online or from a hardware store.<ref>https://www.todayshomeowner.com/how-to-repair-and-replace-a-ceiling-fan-pull-chain-switch/</ref>",
+                    "#Tighten the screws in the fan bracket if the fan is wobbly. If the fan wobbles, it could mean that the bracket connecting the fan to the ceiling is loose. To fix it, use a Phillip’s head screwdriver to remove the cover to the fan bracket. Then, tighten the screws connecting the hanger ball to the fan as well as the screws connecting the fan bracket to the ceiling.<ref>https://youtu.be/P0N56vXcX4w?t=82</ref>",
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25914808",
+            "user": "Dr. Carrie",
+            "timestamp": "17:15, 21 January 2019",
+            "anon": false,
+            "size": "(12,117 bytes)",
+            "change": -39,
+            "summary": "(Promoting article to fully published status. Disagree? Contact me or leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    ""
+                ],
+                "removed": [
+                    "[[Category:Articles in Quality Review]]"
+                ]
+            }
+        },
+        {
+            "id": "25865427",
+            "user": "Seymour Edits",
+            "timestamp": "16:01, 10 January 2019",
+            "anon": false,
+            "size": "(12,156 bytes)",
+            "change": 39,
+            "summary": "(→‎Steps:  fixed minor issues and formatted better)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "#Replace the pull chain if the fan is stuck on one speed. To fix a broken pull chain, remove the cover to the motor with a screwdriver to expose the wires in the fan. Then, manually unscrew the fastener holding the chain in place and pull the chain through the hole from the inside of the motor. If the chain has broken off, you can purchase a replacement online or from a hardware store.<ref>https://www.todayshomeowner.com/how-to-repair-and-replace-a-ceiling-fan-pull-chain-switch/</ref>",
+                    "#*If the chain switch is broken, you can get a replacement switch online or from a hardware store. Take note of the wires connecting the motor to the switch and connect those same wires to the new switch.",
+                    "#*Remember to turn off the power at the breaker box and get some help if you’re not familiar with working with electrical equipment.",
+                    "#*A wobbling fan may also be a sign of improper installation or warped fan blades. If you believe that this is the case, hire an electrician to come and look at your ceiling fan.",
+                    "#*Sometimes, fans are installed with the wrong electrical box or with the wrong bolts.",
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>",
+                    ""
+                ],
+                "removed": [
+                    "#Replace the pull chain if the fan is stuck on one speed. To fix a broken pull chain, unscrew the cover to the motor to expose the wires in the fan. Unscrew the fastener holding the chain in place, then pull the chain through the hole from the inside of the motor. If the chain has broken off, you can purchase a replacement online or at a hardware store.<ref>https://www.todayshomeowner.com/how-to-repair-and-replace-a-ceiling-fan-pull-chain-switch/</ref>",
+                    "#*If the chain switch is broken, you can get a replacement switch online or at a hardware store. Take note of the wires connecting the motor to the switch and connect those same wires to the new switch. Remember to turn off the power at the breaker box and get some help if you’re not familiar with working with electrical equipment.",
+                    "#*A wobbling fan may also be a sign of improper installation or warped fan blades. If you believe that this is the case, hire an electrician to come and look at your ceiling fan. Sometimes, fans are installed with the wrong electrical box or with the wrong bolts.",
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape a 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>"
+                ]
+            }
+        },
+        {
+            "id": "25865399",
+            "user": "Seymour Edits",
+            "timestamp": "15:56, 10 January 2019",
+            "anon": false,
+            "size": "(12,117 bytes)",
+            "change": 2839,
+            "summary": "(changed to methods, added another method)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "=== Identifying Other Common Problems ===",
+                    "#Tighten the screws on the fan if it’s noisy. Use a ladder to reach the fan blades and tighten all of the screws connecting the blades to the fan itself with a Phillip’s head screwdriver. Then, tighten the screws on the motor cover and any other screws that connect the fan to the ceiling. This should get rid of any clicking noises coming from the fan.<ref>https://youtu.be/P0N56vXcX4w?t=54</ref>",
+                    "#*Make sure that all the lightbulbs in the fan are also fully screwed in.",
+                    "#*Sometimes a fan will sound noisy or make a clicking noise if the components aren’t seated properly due to loose screws.",
+                    "#Replace the pull chain if the fan is stuck on one speed. To fix a broken pull chain, unscrew the cover to the motor to expose the wires in the fan. Unscrew the fastener holding the chain in place, then pull the chain through the hole from the inside of the motor. If the chain has broken off, you can purchase a replacement online or at a hardware store.<ref>https://www.todayshomeowner.com/how-to-repair-and-replace-a-ceiling-fan-pull-chain-switch/</ref>",
+                    "#*If the chain isn’t broken but doesn’t change the speed of the fan when you pull it, it could mean that the internal chain switch is broken.",
+                    "#*If the chain switch is broken, you can get a replacement switch online or at a hardware store. Take note of the wires connecting the motor to the switch and connect those same wires to the new switch. Remember to turn off the power at the breaker box and get some help if you’re not familiar with working with electrical equipment.",
+                    "#Tighten the screws in the fan bracket if the fan is wobbly. If the fan wobbles, it could mean that the bracket connecting the fan to the ceiling is loose. To fix it, use a Phillip’s head screwdriver to remove the cover to the fan bracket. Then, tighten the screws connecting the hanger ball to the fan as well as the screws connecting the fan bracket to the ceiling.<ref>https://youtu.be/P0N56vXcX4w?t=82</ref>",
+                    "#*A wobbling fan may also be a sign of improper installation or warped fan blades. If you believe that this is the case, hire an electrician to come and look at your ceiling fan. Sometimes, fans are installed with the wrong electrical box or with the wrong bolts.",
+                    "#Balance the blades if the fan still wobbles after you’ve tightened the screws. You can purchase a balancing kit online or from a hardware store, or you can do it yourself using coins. Tape a coin to the center of a fan blade and turn the fan on high. Repeat the process on each blade until you notice that the wobble has lessened. Once you figure out which blade needs to be balanced, tape a 2-3 quarters to that blade to make it heavier. This may stop the wobble from your fan.<ref>https://www.familyhandyman.com/ceiling/how-to-fix-a-wobbly-ceiling-fan/view-all/</ref>",
+                    "__METHODS__"
+                ],
+                "removed": [
+                    "__PARTS__"
+                ]
+            }
+        },
+        {
+            "id": "25851892",
+            "user": "Seymour Edits",
+            "timestamp": "15:17, 7 January 2019",
+            "anon": false,
+            "size": "(9,278 bytes)",
+            "change": 7296,
+            "summary": "(created article. 3 methods, substeps, intro, references)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "sourcing",
+            "exact_contribution": {
+                "added": [
+                    "A busted ceiling fan is a drag, especially when it’s hot outside. Before you replace the entire fan, you should do a quick check to see exactly what’s wrong with it. To properly diagnose the issue with your fan, you should check your breaker box first, then the wall switch, and finally the fan itself. If you perform a diagnosis and the problem is a more complex electrical issue or an issue with the fan’s motor, you should contact an electrician or the fan’s manufacturer to help you fix it.",
+                    "=== Checking the Fan’s Circuit ===",
+                    "#Locate your circuit breaker box if the fan doesn’t turn on. Pull the chain on your fan and flip the wall switch to turn your fan on. If nothing happens, it could be because the circuit to the fan has been tripped. In this case, you'll need to check the switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>",
+                    "#*The breaker box has a metal door and can be found in the basement or garage. If you live in an apartment, it might be in a hallway or utility room.",
+                    "#*If you can, use the wall switch to operate the fan rather than a remote.",
+                    "#*When the circuit to your fan is tripped, the power to your fan is disconnected.",
+                    "#*If the fan trips your circuit breaker, other appliances may also not work in your house.",
+                    "#Open the breaker box door and look at the black switches. All of the switches should be on and positioned in the same direction. If one of the switches is in the off position, there’s a good chance it’s the switch connected to your fan.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "#*Most breaker boxes will have a diagram that lists the appliances that each switch is connected to. Look for the switch that connects to your ceiling fan or the room that it’s in.",
+                    "#*If your breaker box doesn’t have any tripped circuits, the problem could be in the fan’s motor or in the wall switch for your fan.",
+                    "#Flip the switch on the circuit connected to your fan. Push the black switch to the left, then to the right. Flip the switch on so that it’s positioned in the same direction as the other switches in your breaker box.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>",
+                    "#*Push the switch to the side all the way until you hear a click.",
+                    "#Turn the fan back on and see if it works. Flip the switch on the wall and see if the fan turns on. Resetting the circuit should resume electrical flow to your ceiling fan. If the fan still doesn't come on, the issue could be with your wall switch or the fan's motor.",
+                    "#*If the circuit regularly trips when you turn the fan on, it could be overloading the circuit and points to a more serious electrical problem. If this is the case, contact an electrician.<ref>https://www.familyhandyman.com/electrical/how-to-reset-a-circuit-breaker/view-all/</ref>",
+                    "=== Checking the Wall Switch ===",
+                    "#Purchase a volt reader or multimeter online or at a hardware store. Voltmeters and multimeters are handheld electrical devices that are able to read the electrical current coming from your switch. If there is no current running through your switch, it means that the wiring or switch is faulty and should be replaced.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#*Voltmeters are typically cheaper than multimeters.",
+                    "#Unscrew the plate covering the switch for the fan. Wear a pair of rubber gloves when working with the switch so you don’t accidentally electrocute yourself. Use a Phillip’s head screwdriver to remove the screws in the top and bottom of the plate covering the switch on the wall. Then, slide the plate off to expose the wires inside of the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=29</ref>",
+                    "#*Your switch should have 2-3 wires connected to the wall and a metal \"ground\" wire hanging from the top of the switch.",
+                    "#Unscrew the switch from the wall. Use the screwdriver to unscrew the top and bottom screws that hold the switch in place. Remove any electrical tape that might be holding the switch or the wires in place and pull the switch out from the wall so that you can look at its wiring. Check to make sure that all of the wires running from the wall are properly connected to the switch.<ref>https://youtu.be/QAGdLJMkLjw?t=41</ref>",
+                    "#*Most ceiling fan switches will have 2-3 wires running from the wall to the switch as well as a metal ground wire that’s not connected to anything, coming out from the wall.",
+                    "#*If the wires are disconnected, you'll have to turn off the power from your breaker box and properly connect the switch to the wires in your wall.",
+                    "#Hold one probe against the bottom contact on the side of the switch. Flip the switch to the fan to the off position. Then, turn on your voltmeter or multimeter on and hold one of the probes against the black metal screw, or contact, on the side of the switch.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#*The black metal screw is the power that’s running to the switch.",
+                    "#*If you’re using a multimeter, remember to set the device to volts.",
+                    "#Hold the other probe against the metal wire and read the display. Place the other wire against the metal wire. The display should read around 120V. If it doesn’t read anything, it means that there is no power running to your switch and your switch is faulty or your wiring is damaged.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#Test the top contact on the switch. Remove the probe from the bottom screw and place it against the top screw. Then, take the other probe on your voltmeter or multimeter and hold it against the ground wire again. The top switch should also read 120V.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#*If you aren’t getting any volts coming into either screw, it could mean that the wiring connected to the switch is faulty.",
+                    "#Test the red wire on the other side of the switch if you have one. Hold one probe against the ground wire and the other probe to the contact connected to the red wire on the opposite side of the switch. Again, this should read 120V. If the wires are connected and you’re getting a 0 voltage reading on the switch, contact an electrician to check your wiring.<ref>https://www.familyhandyman.com/electrical/how-to-use-a-multimeter/view-all/</ref>",
+                    "#*Some ceiling fans will have a 2-part switch while others will have a 3-part switch.",
+                    "#Flip the switch and measure the volts from the switch again. Turn the switch on and test the screws on the side of the switch again. If you have a 2-part switch, one of the screws should be showing 120V while the other screw should be reading 0V. If this isn’t the case, you know the problem is with the switch itself and you should buy and install a replacement.<ref>https://youtu.be/QAGdLJMkLjw?t=97</ref>",
+                    "#*If you have a 3-part switch, the red contact should still read 120V when the switch is flipped off. If it doesn’t, it means that the switch is bad and you need to install a new one.",
+                    "=== Diagnosing Motor Problems ===",
+                    "#Turn the fan’s lights on, if it has them. Flip the switch and pull the fan chord that controls the lights to the fan. If the lights turn on but the fan doesn’t work, there is most likely an issue with the fan’s motor. If the lights and fan both don’t turn on, then it’s possible the fan isn’t receiving power.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "#*Make sure that the light bulbs in the fan aren’t burnt out by replacing them with new ones.",
+                    "#Turn off the power from the fan at the circuit box. Go to the breaker box in your home and flip the switch to the circuit that’s connected to your fan to the off position. This will cut power to the fan and prevent you from being electrocuted while you examine the motor and the wiring.<ref>https://www.familyhandyman.com/electrical/how-to-install-ceiling-fans/view-all/</ref>",
+                    "#Remove the ceiling fan cover with a screwdriver. The cover is the portion that connects the fan to the ceiling. Unscrew the screws holding the fan in place and carefully lower the cover to expose the fan’s wires.<ref>https://youtu.be/M3XTn0IyfbQ?t=169</ref>",
+                    "#Check that the ceiling fan wires are properly connected. The ceiling fan should have 3-4 wires running from the fan to your ceiling. Make sure that all the wires are properly connected and not damaged. If you notice frayed or burned wires, it means that the wiring is bad and needs to be fixed or replaced.<ref>https://youtu.be/M3XTn0IyfbQ?t=74</ref>",
+                    "#*If wires are disconnected, you’ll have to properly [[Install-a-Ceiling-Fan|re-install the ceiling fan]].",
+                    "#Contact an electrician if the fan still doesn’t turn on. If all the wires are connected and undamaged and you’ve checked the breaker box and wall switch but the fan still doesn’t work, it could mean that your motor is broken or that you’ve blown a capacitor in it. In this case, you’ll need to contact an electrician or your fan’s manufacturer to help replace or repair the fan’s motor.<ref>https://www.thesawguy.com/fix-ceiling-fan/</ref>",
+                    "{{reflist}}",
+                    "__PARTS__"
+                ],
+                "removed": [
+                    "Are you having a problem with your ceiling fan? First, to fix the fan, you need to understand what is wrong with the fan. This is where our diagnosis and FAQs are helpful.",
+                    "# What is the problem with the fan? Is the fan not working?Are the controls on the fan functional and set correctly?",
+                    "# Check the reverse switch - is it fully seated on or off?",
+                    "# Check the remote - is the battery secure? Try new battery.",
+                    "# Does the fan have a light - does the light kit work?",
+                    "# If fan and light kit not working, likely is a connection issue. Turn off the power from breaker or fuse - lower the canopy or fan housing as to investigate the issue.",
+                    "# Check the connections. Is there power coming from the supply - is there a switch or breaker off, or is it connection issue with the wiring itself.",
+                    "# Open the switch housing - check the white wire is connected to both the light kit and electronics.",
+                    "# If light kit working and fan is not, check the black wire inside the canopy. Has it come disconnected? If it's connected, then what is it connected to? The fan motor could be on a different circuit. Check in the switch housing to ensure no other wires are loose or disconnected.",
+                    "# Do the blades turn freely? The problem could involve stuck bearings if not, or a broken flywheel. Or, it could just be something that got stuck in the path of the motor, or the blades.",
+                    "",
+                    "== Tips ==",
+                    "*We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "",
+                    "== Warnings ==",
+                    "*Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "",
+                    "== Related wikiHows ==",
+                    "*[[Fix a Squeaking Ceiling Fan]]",
+                    "*[[Fix a Wobbling Ceiling Fan]]",
+                    "*[[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*[[Balance a Wobbly Ceiling Fan]]",
+                    "",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ]
+            }
+        },
+        {
+            "id": "24235840",
+            "user": "EpcotMagic",
+            "timestamp": "17:57, 19 March 2018",
+            "anon": false,
+            "size": "(1,982 bytes)",
+            "change": -65,
+            "summary": "(title changed)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [],
+                "removed": [
+                    "{{title|Diagnose a Problem in Your Ceiling Fan|date=2018-03-16}}"
+                ]
+            }
+        },
+        {
+            "id": "24235839",
+            "user": "EpcotMagic",
+            "timestamp": "17:57, 19 March 2018",
+            "anon": false,
+            "size": "(2,047 bytes)",
+            "change": 0,
+            "summary": "(Byankno1 moved page Fix a Ceiling Fan to Diagnose a Problem in Your Ceiling Fan without leaving a redirect: more specific to contents)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "adjustment"
+        },
+        {
+            "id": "24235834",
+            "user": "EpcotMagic",
+            "timestamp": "17:56, 19 March 2018",
+            "anon": false,
+            "size": "(2,047 bytes)",
+            "change": -8,
+            "summary": "(tweak title request - will look at later)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "{{title|Diagnose a Problem in Your Ceiling Fan|date=2018-03-16}}"
+                ],
+                "removed": [
+                    "{{title|Tell What the Problem is With Your Ceiling Fan|date=2018-03-16}}"
+                ]
+            }
+        },
+        {
+            "id": "24222200",
+            "user": "SarahB",
+            "timestamp": "18:25, 16 March 2018",
+            "anon": false,
+            "size": "(2,055 bytes)",
+            "change": 59,
+            "summary": "(Reverted edits by Dakota Doty (Talk); changed back to last version by Celestiapaw)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "revert",
+            "exact_contribution": {
+                "added": [
+                    "{{title|Tell What the Problem is With Your Ceiling Fan|date=2018-03-16}}",
+                    "[[Category:Articles in Quality Review]]",
+                    "*We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "*Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "*[[Fix a Squeaking Ceiling Fan]]",
+                    "*[[Fix a Wobbling Ceiling Fan]]",
+                    "*[[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*[[Balance a Wobbly Ceiling Fan]]",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ],
+                "removed": [
+                    "[[Category:Articles in Quality Review]]",
+                    "",
+                    "* We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "* Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "",
+                    "*  [[Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan]]",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ]
+            }
+        },
+        {
+            "id": "24222194",
+            "user": "Dakota Doty",
+            "timestamp": "18:21, 16 March 2018",
+            "anon": false,
+            "size": "(1,996 bytes)",
+            "change": -59,
+            "summary": "(RCP reverted edits by Celestiapaw (talk) to  revision #23884123 by WikiHow Intern)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "revert",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Ceiling Fan Repairs]]",
+                    "",
+                    "* We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "* Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "",
+                    "*  [[Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan]]",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ],
+                "removed": [
+                    "{{title|Tell What the Problem is With Your Ceiling Fan|date=2018-03-16}}",
+                    "[[Category:Ceiling Fan Repairs]]",
+                    "*We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "*Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "*[[Fix a Squeaking Ceiling Fan]]",
+                    "*[[Fix a Wobbling Ceiling Fan]]",
+                    "*[[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*[[Balance a Wobbly Ceiling Fan]]",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ]
+            }
+        },
+        {
+            "id": "24222185",
+            "user": "Celestiapaw",
+            "timestamp": "18:18, 16 March 2018",
+            "anon": false,
+            "size": "(2,055 bytes)",
+            "change": 59,
+            "summary": "",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "SarahB",
+            "exact_contribution": {
+                "added": [
+                    "{{title|Tell What the Problem is With Your Ceiling Fan|date=2018-03-16}}",
+                    "[[Category:Articles in Quality Review]]",
+                    "*We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "*Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "*[[Fix a Squeaking Ceiling Fan]]",
+                    "*[[Fix a Wobbling Ceiling Fan]]",
+                    "*[[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*[[Balance a Wobbly Ceiling Fan]]",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "*http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ],
+                "removed": [
+                    "[[Category:Articles in Quality Review]]",
+                    "",
+                    "* We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "* Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "",
+                    "*  [[Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan]]",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ]
+            }
+        },
+        {
+            "id": "23884123",
+            "user": "WikiHow Intern",
+            "timestamp": "18:06, 18 January 2018",
+            "anon": false,
+            "size": "(1,996 bytes)",
+            "change": -1,
+            "summary": "(Change to appropriate sub-category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "deletion",
+            "reverted_by": "Dakota Doty",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Ceiling Fan Repairs]]"
+                ],
+                "removed": [
+                    "[[Category:Fans and Ventilation]]"
+                ]
+            }
+        },
+        {
+            "id": "21222234",
+            "user": "Flickety",
+            "timestamp": "21:53, 26 October 2016",
+            "anon": false,
+            "size": "(1,997 bytes)",
+            "change": 10,
+            "summary": "(Switch to appropriate category)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Fans and Ventilation]]"
+                ],
+                "removed": [
+                    "[[Category:Appliances]]"
+                ]
+            }
+        },
+        {
+            "id": "19279820",
+            "user": "RelatedWikihowsBot",
+            "timestamp": "05:26, 8 January 2016",
+            "anon": false,
+            "size": "(1,987 bytes)",
+            "change": -152,
+            "summary": "(Removing redundant wikitext from Related wikiHows section)",
+            "is_minor": true,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "deletion",
+            "exact_contribution": {
+                "added": [
+                    "*  [[Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan]]"
+                ],
+                "removed": [
+                    "*  [[Fix a Squeaking Ceiling Fan|How to Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan|How to Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch|How to Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan|How to Balance a Wobbly Ceiling Fan]]"
+                ]
+            }
+        },
+        {
+            "id": "17725696",
+            "user": "WikiHowUser20221012045502",
+            "timestamp": "17:51, 2 July 2015",
+            "anon": false,
+            "size": "(2,139 bytes)",
+            "change": 329,
+            "summary": "(Related wikiHows)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "",
+                    "",
+                    "== Related wikiHows ==",
+                    "*  [[Fix a Squeaking Ceiling Fan|How to Fix a Squeaking Ceiling Fan]]",
+                    "*  [[Fix a Wobbling Ceiling Fan|How to Fix a Wobbling Ceiling Fan]]",
+                    "*  [[Replace a Ceiling Fan Pull Chain Switch|How to Replace a Ceiling Fan Pull Chain Switch]]",
+                    "*  [[Balance a Wobbly Ceiling Fan|How to Balance a Wobbly Ceiling Fan]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "17715632",
+            "user": "WikiHow Intern",
+            "timestamp": "17:35, 1 July 2015",
+            "anon": false,
+            "size": "(1,810 bytes)",
+            "change": 40,
+            "summary": "(Moving article to quality review. Disagree? Contact me or leave a note here.)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "reverted",
+            "contribution_type": "addition",
+            "reverted_by": "Dakota Doty",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Articles in Quality Review]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14433023",
+            "user": "Andrea M Thompson",
+            "timestamp": "14:58, 4 August 2014",
+            "anon": false,
+            "size": "(1,770 bytes)",
+            "change": 24,
+            "summary": "(categorization)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "addition",
+            "exact_contribution": {
+                "added": [
+                    "[[Category:Appliances]]"
+                ],
+                "removed": []
+            }
+        },
+        {
+            "id": "14432718",
+            "user": "Markis00",
+            "timestamp": "14:22, 4 August 2014",
+            "anon": false,
+            "size": "(1,746 bytes)",
+            "change": 1746,
+            "summary": "(Creating a new article via the Article Creator)",
+            "is_minor": false,
+            "is_expert": false,
+            "status": "active",
+            "contribution_type": "major_addition",
+            "exact_contribution": {
+                "added": [
+                    "Are you having a problem with your ceiling fan? First, to fix the fan, you need to understand what is wrong with the fan. This is where our diagnosis and FAQs are helpful.",
+                    "== Steps ==",
+                    "# What is the problem with the fan? Is the fan not working?Are the controls on the fan functional and set correctly?",
+                    "# Check the reverse switch - is it fully seated on or off?",
+                    "# Check the remote - is the battery secure? Try new battery.",
+                    "# Does the fan have a light - does the light kit work?",
+                    "# If fan and light kit not working, likely is a connection issue. Turn off the power from breaker or fuse - lower the canopy or fan housing as to investigate the issue.",
+                    "# Check the connections. Is there power coming from the supply - is there a switch or breaker off, or is it connection issue with the wiring itself.",
+                    "# Open the switch housing - check the white wire is connected to both the light kit and electronics.",
+                    "# If light kit working and fan is not, check the black wire inside the canopy. Has it come disconnected? If it's connected, then what is it connected to? The fan motor could be on a different circuit. Check in the switch housing to ensure no other wires are loose or disconnected.",
+                    "# Do the blades turn freely? The problem could involve stuck bearings if not, or a broken flywheel. Or, it could just be something that got stuck in the path of the motor, or the blades.",
+                    "",
+                    "== Tips ==",
+                    "* We have more troubleshooting steps on our website at Ceiling Fans 'N More.",
+                    "",
+                    "== Warnings ==",
+                    "* Make sure the power is off from the circuit breaker panel and/or fusebox, before touching any wiring!",
+                    "",
+                    "== Sources and Citations ==",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-general-troubleshooting-and-FAQ.php",
+                    "* http://www.ceiling-fans-n-more.com/ceiling-fan-wiring.php"
+                ],
+                "removed": []
+            }
+        }
+    ],
+    "discussions": []
+}
