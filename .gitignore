@@ -1,22 +1,19 @@
 # ==========================================
-# GITHUB PRUNING: CODEBASE ONLY
+# GITHUB PRUNING: MINIMAL CORE CODEBASE
 # ==========================================
 
 # 1. Ignore EVERYTHING by default
 *
 
-# 2. Re-allow root config & sync files
+# 2. Re-allow MINIMAL root files
 !.gitignore
-!.env
-!.env.local
-!github_sync.py
 !README.md
 !requirements.txt
 !setup.py
 !run_all.py
 !settings.ini
 
-# 3. Re-allow core code directories (and their contents)
+# 3. Re-allow core code directories
 !deepseek/
 !deepseek/**
 !wikihow/
@@ -24,7 +21,16 @@
 !scripts/
 !scripts/**
 
-# 4. Filter out non-essential sub-folders within the code
+# 4. EXPLICIT EXCLUSIONS (High Security)
+.env
+.env*
+github_sync.py
+wikihow/tor_manager.py
+wikihow/tor_service.py
+scripts/test_tor_*.py
+tool/
+
+# 5. Filter out non-essential sub-folders
 scripts/legacy/
 scripts/scratch/
 scripts/tests/
@@ -33,7 +39,7 @@ scripts/downloaded_files/
 **/*.pyc
 **/*.log
 
-# 5. Explicitly block specific non-code areas (safety check)
+# 6. Metadata & Data Exclusions
 data/
 browser_session/
 docs/
@@ -47,7 +53,6 @@ tests/
 test_*.py
 scratch/
 tmp/
-tool/
 github/
 *.rar
 *.png
