@@ -22,10 +22,7 @@ WikiHow Project/
 │   │   ├── domestic_enhanced.csv
 │   │   ├── domestic_temporal.csv
 │   │   └── ...
-│   ├── test_samples/          # Test/development CSV files
-│   │   ├── baking.csv
-│   │   ├── plumbing.csv
-│   │   └── ...
+│
 │   └── *.log                  # Processing logs
 │
 ├── visualizations/             # All generated charts and tables
@@ -157,12 +154,12 @@ Edit `data/mapped_spaces.json` to:
 - 5-year period breakdowns (2005-2009, 2010-2014, etc.)
 - Edit distribution over time by gender
 
-## 🧪 Testing & Development
 
-### Test with Sample Data
+
+
 ```bash
-# The data/test_samples/ folder contains smaller datasets for testing
-# Use these to develop/debug without hitting API rate limits
+
+
 ```
 
 ### Verify Categories Exist

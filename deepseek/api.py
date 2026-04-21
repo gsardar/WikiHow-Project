@@ -47,29 +47,9 @@ def trigger_inspect():
         console.print(f"[bold red]Failed to start inspector: {e}[/bold red]")
         return False
 
-def run_ui_preview():
-    """Demonstrates the UI appearance without starting the bridge."""
-    console.print("\n[bold blue]DeepSeek UI Preview[/bold blue] [dim](MOCK MODE)[/dim]\n")
-    user_prompt = "Briefly explain the role of a WikiHow editor."
-    console.print(f"[dim]Sending prompt:[/dim] [bold blue]\"{user_prompt}\"[/bold blue]")
-    
-    with console.status("[blue]Waiting for DeepSeek... [italic](Simulated)[/italic]", spinner="dots8Bit"):
-        time.sleep(2)
-    
-    mock_response = (
-        "A wikiHow editor is a community volunteer who ensures articles are accurate and helpful. "
-        "They fix typos, patrol recent changes, and guard against vandalism."
-    )
-    console.print(Panel(mock_response, title="[bold green]DeepSeek Response[/bold green]", border_style="green", padding=(1, 2)))
-
 if __name__ == "__main__":
     args = sys.argv[1:]
     
-    # Check for preview flag
-    if "--preview" in args:
-        run_ui_preview()
-        sys.exit(0)
-
     if "--inspect" in args:
         trigger_inspect()
         sys.exit(0)
